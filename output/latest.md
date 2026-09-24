@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Police charge anti-migrant protest leader over damage to dinghy in Channel
+Rightwing activist who calls himself Danny Tommo was an organiser of a recent blockade at Dover and a rightwing rally in Portsmouth
+
+## FirstFT: Xi Jinping says US and China must ‘coexist in peace’ at White House summit
+Also in today’s newsletter: Tencent launches payments app for foreign tourists and HSBC scraps another perk for Hong Kong bankers
+
+## OpenAI breach of Australian government linked to wider AI hacking campaign
+Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’
+
+## Australia’s rival football giants kick off global growth push
+‘Aussie rules’ targets India ahead of Saturday’s AFL grand final in Melbourne as rugby league eyes UK expansion
+
+## Why New Delhi is a battleground in the fight over Tata
+The vast Indian conglomerate is at the heart of some of Prime Minister Narendra Modi’s plans to make India a manufacturing juggernaut
+
 ## GoDaddy receives takeover offer from maker of Norton antivirus software
 Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security
 
@@ -9,29 +24,11 @@ Rising yields strain public finances after brutal sell-off in US Treasuries mark
 ## SoftBank pays steep price for record bond sale to fund OpenAI bet
 Masayoshi Son’s group pays yields of up to 9.75% to raise more than $11bn in the largest junk bond offering on record
 
-## Netanyahu tells UN Israel and US launched Iran war to ‘save civilisation’
-Israeli leader’s speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House
+## Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover
+Scott Sheffield says supermajor launched ‘smear campaign’ to stop him joining company’s board
 
 ## Goldman reaped more than $200mn in fees from hedge fund Situational Awareness
 Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit
-
-## Xi says US and China must ‘coexist in peace’ in historic White House visit
-The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers
-
-## Burnham under pressure to lobby Trump on US diesel export ban
-Reform’s Robert Jenrick contacts Trump administration as prices at UK pumps near record high
-
-## Russia’s $6.9bn sanctions evasion scheme
-Western punitive measures have forced Moscow into costly workaround efforts
-
-## Pioneer founder says Exxon ‘set him up’ after $60bn takeover
-Shale oil magnate says supermajor launched ‘smear campaign’ to stop him joining company’s board
-
-## The AI agent revolution has moved a big step closer
-Launch of Muse by Meta has provided a glimpse of how the technology could be turned into a mass-market product
-
-## Oracle feels the force
-Majeure problem?
 
 ## Oracle invokes force majeure over New Mexico data centre Project Jupiter
 Project Jupiter has faced permit setbacks, a delayed natural gas pipeline and opposition as Oracle works to keep the development moving forward
@@ -57,6 +54,9 @@ Goyal also outlined progress with the European Union, Canada, Mexico, the Gulf C
 ## Bats likely began evolving in Europe 65 million years ago, study finds
 Researchers combined genomes from 103 species with 44 fossils to reconstruct the evolutionary history and family tree of bats
 
+## Ex-CJI, more legal experts back Tata Sons on Chandra's reappointment
+
+
 ## Tata Sons tells Noel Tata Chandrasekaran reappointment was legally valid: Report
 Tata Sons has asserted the legal validity of N Chandrasekaran's reappointment as chairman. The company cited legal opinions supporting the decision against the Tata Trusts' allegations of governance breaches. A pending vote on his directorship is crucial for his continuation in the role. Complicatio
 
@@ -77,9 +77,6 @@ For employees, however, the immediate reaction may be simple: What does this mea
 
 ## Why is stock market crashing today? Sensex, Nifty fall over 1.5% - top reasons
 The stock market came under heavy selling pressure, with the Sensex and Nifty declining nearly 1.5% as a sharp rise in bond yields to 19-year highs added to investor concerns.
-
-## 3-day bank strike: Central govt employees to get salaries in advance; banks open Sunday
-The salaries and pensions for central government employees and pensions will be credited on September 25, ahead of a three-day bank strike called by the United Forum of Bank Unions (UFBU). The proposed strike also falls during the half-yearly closing period for the banking sector.
 
 ## India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
 India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
@@ -105,6 +102,12 @@ The bench headed by Justice Vikram Nath observed that when the protector turns p
 ## Rahul Gandhi says laws passed by MPs ‘illegal’: 'Vote chori is kanoon chori'
 Rahul Gandhi warned that compromising voter mandates undermines the legitimacy of Parliament and all laws passed within it.
 
+## Blue Bottle bets that Chinese consumers will drink more premium coffee
+US premium coffee brand Blue Bottle Coffee will open its first Beijing store in the capital’s central business district, as it seeks to tap into China’s still growing market for the drink. The California-based brand is taking a spacious unit at China World Mall. The location, currently enclosed by c
+
+## The Live Conversation: family wealth enters new era
+Hong Kong’s ambitions as a leading Asian hub for family wealth, succession planning and cross-border capital allocation took centre stage at SCMP’s “Redefining Hong Kong: Next Generation Wealth 2026” conference held on September 21 at the JW Marriott Hotel Hong Kong. Regulators, family principals, a
+
 ## US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious
 Efforts to detect multiple cancers through a single blood draw are gathering momentum after US regulators endorsed the technology for the first time, although experts say wider adoption in Hong Kong still faces challenges as doctors remain cautious about its clinical value. In a landmark decision fo
 
@@ -123,11 +126,11 @@ A three-day public holiday used to be a big deal in China. Then came “golden w
 ## ChinaAMC launches 3 Hong Kong ETFs as demand for targeted strategies grows
 China Asset Management (Hong Kong), the offshore arm of one of mainland China’s largest asset managers, launched three exchange-traded funds (ETFs) in the city on Thursday, expanding its product line-up as investors seek more diversified strategies amid market volatility and a broader boom in the ET
 
-## High office vacancy rates spur bid to rezone Kowloon East site for residential development
-With office vacancy rates in Kowloon East remaining high, the Planning Department has indicated it has “no objection” to a request by some developers for a commercial project in the area to be rezoned for residential development. A consortium comprising CSI Properties, Asia Standard International an
+## Netanyahu Faces an UNGA Walkout (Again)
+The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.
 
-## Tencent rolls out payment app for foreign travellers ahead of Apec summit
-Tencent Holdings on Thursday launched TenPayGo, a mobile payment app targeting foreign visitors, as the tech giant seeks to capture China’s growing inbound tourism market ahead of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen. Developed by Tencent’s WeChat Pay team, TenPayGo allowe
+## Trump and Xi Talked a Lot but Accomplished Little
+The White House summit concluded with much fanfare but few breakthroughs.
 
 ## Saudi Arabia Bribed the Wrong People
 Riyadh’s bet on Trumpism has failed.
@@ -146,12 +149,6 @@ U.S. policymakers like complaining about one of the sources of the European Unio
 
 ## Germany Is Officially Adrift
 The German chancellor’s power is ebbing at home—and the consequences will be global.
-
-## Iran’s UNGA Moment
-Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
-
-## Jaishankar Leads India’s UNGA Delegation
-New Delhi’s top diplomat aims to push back against new U.S. tariffs on countries buying Russian oil.
 
 ## India’s Semiconductor Journey: Old Designer, New Producer
 India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.
@@ -225,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US citizen injured after wrongly arrested by ICE in Illinois
-US citizen injured after wrongly arrested by ICE in Illinois
+## Costa Rica minister fired for unapproved meeting with Trump in US
+President Fernandez dismisses foreign minister over his attendance at the "Shield of the Americas" meeting in New York.
 
-## New York sues Polymarket over allegations of illegal gambling operations
-The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.
+## Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups
+Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League.
 
-## Israel moves to ban main Palestinian-led lists from election
-Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.
+## Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech
+Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.
 
-## What’s triggered the latest violence in Ethiopia?
-Tigrayan forces say they are in a 'full-blown war' with the army.
+## DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
+DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.
 
-## US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout
-Macklemore says 'being apolitical during a genocide doesn’t work', promises to donate proceeds to Palestinian causes.
+## Croatian court approves extradition in Nord Stream bombing case
+Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.
 
-## Delegates walk out of Netanyahu’s UN speech
-Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.
+## Trump and Xi hold critical talks at White House summit
+US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.
 
-## Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN
-Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.
+## Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest
+Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.
 
-## Ethiopian army says 272 Tigrayan fighters killed in Amhara
-Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.
+## Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu
+Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.
 
 ## ICAI to certify independent directors, new course likely by October-end
 Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
