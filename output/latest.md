@@ -1,7 +1,19 @@
 # AION Intelligence
 
-## OpenAI agent hacked an Australian health service website
+## Diller abandons $18bn takeover bid for MGM Resorts
+Media mogul says ‘we didn’t feel the mix was coming together in the way we had hoped’ after going public with offer in June
+
+## US oil industry pushes back against proposed diesel export ban
+Groups say there is no ‘silver bullet’ to fuel price crisis after president signals willingness to halt shipments abroad
+
+## OpenAI ‘agent’ hacked an Australian health service website
 Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’
+
+## Xi arrives for high-stakes summit with Trump as leaders extend trade truce
+Treasury secretary Scott Bessent says the countries have agreed to January 10 extension
+
+## HSBC moves board meeting from Dubai to London amid safety concerns
+Bank’s decision to shift location underscores challenges still facing expats as Iran war continues
 
 ## FirstFT: Xi Jinping and Donald Trump set for high-stakes summit
 Also in today’s newsletter: Geely’s new fast-charging EV battery and US Treasury yields soar most since ‘liberation day’
@@ -12,29 +24,14 @@ Court documents reveal how companies’ ties unravelled while the iPhone maker h
 ## Treasury open to smaller fiscal headroom to reduce UK tax hikes
 Investors signal Budget buffer could fall from the £23.6bn forecast to around £14bn without spooking gilt market
 
-## Xi Jinping arrives for high-stakes summit with Donald Trump
-Gathering comes less than two months before expiry of US-China trade truce
+## Zuckerberg unveils AI ‘charm’ device that can fit on a keychain
+Social media chief says the Muse personal assistant is the ‘centrepiece’ of his AI vision after launch success
 
-## US Treasury yields soar most since ‘liberation day’ tariffs shook markets
-Traders crank up bets on Federal Reserve rate rises after data fuels worries economy is overheating
-
-## Rosneft billions fed Kremlin-backed money laundering network
-FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions
-
-## UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements
-Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents
+## Grail’s cancer-screen test wins tepid support from drug advisory panel
+FDA committee expressed concerns about effectiveness and overall benefits for a product that failed a UK study earlier this year
 
 ## Arnault family moves to consolidate control of LVMH
 Plan aims to unify clan’s 49.76% shareholding and voting rights in world’s leading luxury group in a single holding company
-
-## Bentley’s first EV set to be half the price of Ferrari’s Luce
-Launch of luxury carmaker’s Torcal SUV is aimed at younger and first-time customers
-
-## How besieged billionaires are turning the tables on litigious shareholders
-Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor
-
-## Zuckerberg to unveil new AI products as Meta’s Muse app tops charts
-Social media group’s personal AI ‘agent’ that can shop and schedule has become most downloaded app in US
 
 ## India cuts import duty on palm, soybean oils to lower edible oil prices
 The move comes amid rising food inflation and industry concerns over global vegetable oil supplies, domestic availability and festive-season demand
@@ -60,29 +57,29 @@ Domestic air traffic falls 6.3% year-on-year to 1.21 crore passengers; SpiceJet�
 ## IRDAI moots major overhaul of insurance distribution norms
 The proposals also include cost audits and safeguards against indirect payments with the objective of ensuring greater accountability for the actual cost of distribution
 
+## Airtel Money plans to list on LSE, looks to raise $800mn
+
+
+## Inflation to stay within band: RBI deputy governor Poonam Gupta
+
+
+## BRICS should work together on transfer pricing: Finance minister Nirmala Sitharaman
+
+
 ## Commissions capped as fees soar 4x faster than premium; regulator seeks to limit distribution costs & misselling
 
 
-## Trump weighs 90-day diesel export ban as US fuel prices hit record high: Report
-The Trump administration is contemplating a 90-day ban on US diesel exports to combat rising energy prices. This initiative comes as diesel prices have surged significantly amid international conflicts and supply disruptions. While some officials oppose the ban, others argue it could create long-ter
-
-## Not an apartment, but an entire tower: Angel One founder buys it for Rs 711 crore
-Dinesh Thakkar, founder and CMD of financial services and stockbroking company Angel One, will acquire an entire luxury residential tower in Mumbai's Juhu area from Embassy Developments for more than Rs 711 crore.
-
-## Gadkari urges sugar mills to make CBG; says Rs 22 lakh crore goes abroad for fuel imports
-Gadkari has called on sugar mills to expand into value-added by-products, particularly compressed bio-gas (CBG), ethanol, bio-manure and sustainable aviation fuel.
-
-## Your loan EMI has a Washington problem: How the Fed quietly influences RBI rate decisions
-The US Federal Reserve’s quarter-percentage-point rate hike has added to the challenges facing the RBI ahead of its monetary policy review in October.
-
-## Petrol, diesel margins may jump in Q2FY27, but LPG losses to cap OMC gains: Report
-India's oil marketing companies are projected to experience improved petrol and diesel margins in Q2FY27. Although LPG sales are expected to incur significant losses, the recovery in oil margins remains promising. Refined product supply disruptions contribute to the strong margins in the near term. 
-
-## India's GDP growth forecast: After Moody's, S&P, Fitch and OECD raise FY27 projections
+## We don't want to compete with customers, may not run airline: Adani Airports CEO
 
 
-## Africa’s richest man picks Indian PSU for $450 million refinery contract in Kenya
-Aliko Dangote has hired Engineers India Ltd to oversee his $16 billion refinery construction in Kenya. The refinery in Lamu will have a capacity of 700,000 barrels per day when completed. Dangote plans to strengthen regional energy security by reducing reliance on imports through this project. Work 
+## Baba votes against nephew, but Sameer secures Hikal chair
+
+
+## JSW set to enter e-trucks biz, seeks to drive sales
+
+
+## ADB, OECD, S&P, Fitch raise India's growth projection
+
 
 ## 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
@@ -108,6 +105,15 @@ Marco Rubio also pointed to US President Donald Trump's remarks stating the Unit
 ## Sanjana Sanghi at UNGA: Actor calls for investment in education, healthcare and greater role for youth
 Sanjana Sanghi addressed a UNGA engagement, calling for greater investment in education and healthcare and a bigger role for young people
 
+## China has scrapped two-thirds of its planned coal power plants abroad: report
+Five years after China pledged to stop building or financing new coal-fired power plants overseas, the country’s state sector has made “significant progress” towards meeting that goal, though private projects are still being developed, according to a new report. Two-thirds of China’s overseas coal p
+
+## How China’s growing Reit sector is giving foreign property investors a route back in
+Foreign investors are starting to look again at mainland China’s commercial property market after years of retreat, drawn by sharply lower asset prices, wider yields and cheaper yuan financing, even though cross-border capital remains a small fraction of the overall market, analysts said. The shift 
+
+## Hong Kong rises in property market transparency rankings, but trails Singapore and Japan
+Hong Kong has climbed one place in a list of the world’s most transparent real estate markets by property consultancy JLL and subsidiary LaSalle Investment Management, though it still trails regional peers Singapore and Japan in the rankings. The city secured 14th place in the latest edition of the 
+
 ## Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta
 US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales
 
@@ -122,15 +128,6 @@ Bourse operator Hong Kong Exchanges and Clearing (HKEX) will launch yuan-denomin
 
 ## Physical moves by online financial firms unlikely to pump up property market: analysts
 Digital financial service providers, including online brokerages and digital banks that used to trumpet their “zero-branch, fully online” models, have been opening physical stores across Hong Kong recently. Analysts described it as a strategic trend aimed at enhancing brand image and service quality
-
-## Chinese EV battery giant CATL starts trial production at Hungarian factory
-Contemporary Amperex Technol­ogy Ltd (CATL) has cleared all regulatory hurdles for its mega factory in Hungary, a development that analysts expect will help the world’s largest producer of electric vehicle (EV) batteries extend its reach to international marques like BMW and Volkswagen. Production o
-
-## AI trade outlook brightens on falling oil and Meta’s Muse agent ahead of Xi-Trump meeting
-The global artificial intelligence trade is staging a comeback, as a confluence of falling oil prices, Meta Platforms’ launch of a new agentic tool and anticipation surrounding the China-US leadership summit reignite investor interest in technology stocks. The Nasdaq-100 Index – where tech firms mak
-
-## Chinese maker of robot-vacuum sensors launches Hong Kong IPO, undeterred by US ban
-Shenzhen Camsense Technologies, a maker of spatial sensors for robotic vacuum cleaners, launched a Hong Kong initial public offering (IPO) that aims to raise about HK$680 million (US$86.7 million), despite headwinds from Washington’s recent import ban on foreign-made vacuum robots. “The export and p
 
 ## Iran’s UNGA Moment
 Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
@@ -156,6 +153,12 @@ The unrecognized republic is pitching itself as a strategic ally for Washington.
 ## Trump Wants to Ban Diesel Exports. It Won’t Help.
 Government interference in the world’s largest oil-producing state would be counterproductive.
 
+## Rare Earths at the Trump-Xi Summit: Relief Without a Resolution
+The Trump-Xi meeting may temporarily ease anxiety over rare earth supplies, but it is unlikely to lower the political and regulatory threshold for access.
+
+## Will the World Ever Take Action on Myanmar?
+The evidence of atrocities is there. What are governments prepared to do with that knowledge?
+
 ## Xi Jinping Is Coming to the US. Why Is He Skipping the UNGA?
 Xi’s coming to the U.S. East Coast while the United Nations’ biggest event is going on. That makes his absence all the more striking.
 
@@ -173,12 +176,6 @@ Insights from Stephen J. Blank.
 
 ## In Taiwan, a Disaster Exercise Prepares for Conflict, Too
 This year’s natural disaster drill sought to stress-test Taiwan against cascading, multisystem failures – with obvious implications for an invasion scenario as well as an earthquake.
-
-## Warming Himalayas: Nepal’s Climate Justice Test
-Nepal’s devastating Himalayan floods have exposed the human and economic cost of a warming region, reviving demand for climate justice.
-
-## Why Is the US Eyeing Gwadar Port?
-Will Washington translate its interest in Gwadar and the region around it into a policy to establish its presence there?
 
 ## South Korea’s Deliberate Strategic Ambiguity on Taiwan
 In 2021, Sungmin Cho wrote, “South Korea’s Taiwan Conundrum,” where he argued Seoul’s complex strategic position makes engagement on questions of involvement over a Taiwan contingency complicated. Five years later, we asked him to revisit his arguments.Image: U.S. Navy (Photo by Seaman Apprentice Ca
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FBI says investigating breach of ‘very sensitive’ data by hackers
-Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
+## China’s Xi visits US as Trump bets on stabilising global relations
+US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.
+
+## OpenAI, Anthropic CEOs call for global AI regulation at UN
+Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.
+
+## Why is Kenya turning against Tata Chemicals in Magadi?
+A century-old industry faces a reckoning over regulation, jobs and local benefits.
+
+## Iran war live: Tehran says it won’t be bullied, remains open for talks
+Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.
+
+## China’s Xi arrives to Trump welcome on state visit
+China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit
+
+## Trump greets China’s Xi Jinping on arrival for three-day US trip
+Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
+
+## FBI investigates alleged theft of ‘very sensitive’ employee data
+ShinyHunters hackers claim to have stolen data on thousands of FBI employees as the agency probes a portal breach.
 
 ## US aviation sanctions disrupt Iran flights, push travellers overland
 Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
-
-## Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’
-Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.
-
-## Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive
-Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.
-
-## Trump administration invites Putin to attend G20 summit in Miami
-US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.
-
-## Harvey Weinstein sentenced to 15 years in New York sexual assault retrial
-The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.
-
-## As major powers act unilaterally, experts say UN faces crisis in New York
-Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.
-
-## Manchester United losses jump nearly a third to $57m despite record revenue
-Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
