@@ -1,61 +1,82 @@
 # AION Intelligence
 
-## Diller abandons $18bn takeover bid for MGM Resorts
-Media mogul says ‘we didn’t feel the mix was coming together in the way we had hoped’ after going public with offer in June
+## Judge orders White House to restore banned media’s access
+Trump’s move to restrict CNN, Politico and MS Now marked a major escalation against media
 
-## US oil industry pushes back against proposed diesel export ban
-Groups say there is no ‘silver bullet’ to fuel price crisis after president signals willingness to halt shipments abroad
+## Global bond sell-off spreads as oil holds above $100
+Rising yields strain public finances as expectations of Fed rate rise in October jump to about 70%
 
-## OpenAI ‘agent’ hacked an Australian health service website
-Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’
+## The SVB postmortem continues
+Plus: quality
 
-## Xi arrives for high-stakes summit with Trump as leaders extend trade truce
-Treasury secretary Scott Bessent says the countries have agreed to January 10 extension
+## France and Germany spar over ‘Made in Europe’ as EU moves to protect its own
+Also in this newsletter: lifting sanctions is ‘not a good signal’
 
-## HSBC moves board meeting from Dubai to London amid safety concerns
-Bank’s decision to shift location underscores challenges still facing expats as Iran war continues
+## FirstFT: UK weighs smaller fiscal buffer to curb tax rises
+Also in today’s newsletter: Reform’s civil service overhaul and Belgium’s Trump warning
 
-## FirstFT: Xi Jinping and Donald Trump set for high-stakes summit
-Also in today’s newsletter: Geely’s new fast-charging EV battery and US Treasury yields soar most since ‘liberation day’
+## Hasan Piker: the Republican Party’s bogeyman
+The leftwing streamer, recently banned from the UK, tells the FT why he has become US conservatives’ midterm hate figure
 
-## Apple’s ChatGPT tools ‘dramatically underperformed’, OpenAI claims
-Court documents reveal how companies’ ties unravelled while the iPhone maker has since turned to a Google-powered ‘Siri AI’
+## VW’s painful recovery plan is fragile
+Supervisory board approval of its necessary restructuring was based on a truce that will need to hold
 
-## Treasury open to smaller fiscal headroom to reduce UK tax hikes
-Investors signal Budget buffer could fall from the £23.6bn forecast to around £14bn without spooking gilt market
+## How Trump’s tariff war is clobbering the Hanks of America
+The end of the ‘de minimis’ exception can inflict major damage on niche companies
 
-## Zuckerberg unveils AI ‘charm’ device that can fit on a keychain
-Social media chief says the Muse personal assistant is the ‘centrepiece’ of his AI vision after launch success
+## AI Exchange
+In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
-## Grail’s cancer-screen test wins tepid support from drug advisory panel
-FDA committee expressed concerns about effectiveness and overall benefits for a product that failed a UK study earlier this year
+## Shale magnate accuses Exxon of ‘smear campaign’ to block board seat
+Pioneer Natural Resources founder says oil major and regulators ‘orchestrated’ allegations of Opec collusion against him
 
-## Arnault family moves to consolidate control of LVMH
-Plan aims to unify clan’s 49.76% shareholding and voting rights in world’s leading luxury group in a single holding company
+## Jane Street to double London office space after breakneck growth
+Firm is taking 465,000 sq ft at One Spitalfields in a so-called pre-let deal
 
-## India cuts import duty on palm, soybean oils to lower edible oil prices
-The move comes amid rising food inflation and industry concerns over global vegetable oil supplies, domestic availability and festive-season demand
+## Paddy Power founder accuses Betfred billionaire of ‘scaremongering’ over tax rises
+Stewart Kenny hits back at warnings over UK job losses, saying he used ‘the same script’ when he was in the industry
 
-## Birth tourism: US moves to restrict visas for facilitators and ‘fixers’
-The latest move expands US efforts to prevent what officials describe as exploitation of the immigration system for commercial gain
+## Airtel Money IPO signals a route back for London’s market
+What starts as a niche investment can attract more mainstream sector analysts and investors
 
-## As 5% US Treasury yields lose shock value, investors start worrying about 6%
-The latest yield move has revived questions about how much higher borrowing costs global equities and emerging markets can withstand.
+## The clock’s ticking on the AI boom
+Frontier labs as well as infrastructure groups are delaying their IPO plans
 
-## Central govt employees to get salary in advance on Sept 25 ahead of 3-day bank strike
-The move comes as authorities seek to prevent disruptions to government payments and banking transactions during the proposed strike period
+## Sensex today | Stock Market Live Updates: Sensex falls 650 points, Nifty slips below 23,230 as crude oil tops $100
+Sensex, Nifty, Share Prices Live: Rising oil prices, elevated US Treasury yields and losses across Asian markets pressured domestic equities, while investors also tracked key regulatory and market developments.
 
-## IRDAI moots major overhaul of insurance distribution norms
-This initiative seeks to lower insurance costs for consumers while enhancing the sustainability of insurers, ultimately promoting greater accountability and competition within the industry.
+## NSE share price rises over 5% after near-flat listing
+The stock opened at ₹1,800, a 0.84% premium to its IPO price of ₹1,785, before rising to ₹1,878. At 10.28 am, NSE shares traded at ₹1,861.80.
 
-## Gold will likely be under pressure in Q4 on hawkish US Fed policy
-Analysts see a firm dollar and elevated US real rates could constrain near-term upside for the precious metal
+## NSE Share Price LIVE: NSE shares up 5% from ₹1,785 IPO price on debut day
+NSE IPO listing today, NSE share price live updates: Scroll down for more
 
-## IndiGo’s market share slips in August as Air India Group gains
-Domestic air traffic falls 6.3% year-on-year to 1.21 crore passengers; SpiceJet’s share drops to 1.2%
+## As NSE lists, a look at debut performances of India’s largest IPOs
+The debut performance contrasts with that of other large Indian listings, including Hyundai Motor India, LIC, Paytm, Tata Capital and Coal India
 
-## IRDAI moots major overhaul of insurance distribution norms
-The proposals also include cost audits and safeguards against indirect payments with the objective of ensuring greater accountability for the actual cost of distribution
+## Judge blocks Trump's White House media ban, orders access to be restored
+Judge says ban likely ​violates First Amendment and due process protections
+
+## Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting
+The workarounds are expensive and may not be sustainable
+
+## Gold muted on US Fed policy tightening bets, decline in oil
+Spot gold was little changed at $4,291.48 per ounce, by 0512 GMT. US gold futures ‌for December delivery rose 0.2% to $4,326.30.
+
+## Morgan Stanley employee accidentally leaks bank’s Asia investment pipeline details
+List contains candidates for initial public offerings, spanning from China to South Korea and India
+
+## Woman paid US tax but faced Rs 30 lakh tax demand in India; what ITAT said
+Under the applicable rules, taxpayers who have paid taxes in a foreign country with which India has a Double Taxation Avoidance Agreement (DTAA) are required to submit Form 67 along with their ITR to claim credit in India for the foreign taxes already paid.
+
+## Stock market today: Sensex tumbles 550 points, Nifty50 slips below 23,300
+
+
+## Oil prices today: Brent crude edges lower as Iran keeps door open to diplomacy
+
+
+## NSE IPO: Stock lists at Rs 1,800 versus issue price of Rs 1,785
+NSE launched its initial public offering earlier this month, seeking to raise Rs 22,562 crore through a 12.64 crore-share offer for sale (OFS) by existing shareholders.
 
 ## Airtel Money plans to list on LSE, looks to raise $800mn
 
@@ -69,41 +90,41 @@ The proposals also include cost audits and safeguards against indirect payments 
 ## Commissions capped as fees soar 4x faster than premium; regulator seeks to limit distribution costs & misselling
 
 
-## We don't want to compete with customers, may not run airline: Adani Airports CEO
+## ‘Selfless work should be the aim’: PM Narendra Modi interacts with Seva Yatris
+PM Narendra Modi urged youngsters to raise awareness about the seven streams of power that he spoke about in his Independence Day address
 
+## In second bus fire in 12 hours, driver evacuates 14 passengers near Mumbai
+The driver, identified by the police as Chhatrapal Singh Kishor Singh Vahia, spotted the smoke, pulled over and evacuated the passengers from the vehicle.
 
-## Baba votes against nephew, but Sameer secures Hikal chair
+## Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 detained
+The earlier incident was reported in Jamui district and the second, in Samastipur.
 
+## Flung to roadside, dragged for nearly 80m: Nuh accident kills 4, including three children
+The man’s wife was critically injured. Police reported the accident occurred around 11pm; the driver fled the scene, and an FIR was filed against him.
 
-## JSW set to enter e-trucks biz, seeks to drive sales
+## Tripura HC waives jail terms for 4 Bangladeshis, directs govt to send them back
+Ratilal Das and his wife, Binita Rani Das, were among the 13 people detained by the Border Security Force (BSF) at Srirampur Manu bridge on February 27, 2025
 
+## If required will take aggressive stand against TDB: Keralam Devaswoms Minister
+If required will take aggressive stand against TDB: Keralam Devaswoms Minister
 
-## ADB, OECD, S&P, Fitch raise India's growth projection
+## DTC cancels weekly offs for drivers, conductors ahead of Sept 28 strike call
+The corporation has also begun taking disciplinary action against employees who have allegedly disrupted bus operations during the ongoing agitation
 
+## Delhi gang-rape accused dined out after act, washed clothes to remove proof: Cops
+The girl was gang-raped on gunpoint inside the 142-acre Aastha Kunj Park near Kalkaji Temple in the Capital.
 
-## 2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
-2 UP cops, 2 CRPF personnel held for 'gangrape' of woman in Amroha
+## High office vacancy rates spur bid to rezone Kowloon East site for residential development
+With office vacancy rates in Kowloon East remaining high, the Planning Department has indicated it has “no objection” to a request by some developers for a commercial project in the area to be rezoned for residential development. A consortium comprising CSI Properties, Asia Standard International an
 
-## UNSC's inability to address ongoing conflicts highlights urgency of reform: India
-External Affairs Minister S Jaishankar made these remarks as he co-chaired the L.69 Consultative Ministerial Interaction on UNSC reform.
+## Tencent rolls out payment app for foreign travellers ahead of Apec summit
+Tencent Holdings on Thursday launched TenPayGo, a mobile payment app targeting foreign visitors, as the tech giant seeks to capture China’s growing inbound tourism market ahead of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen. Developed by Tencent’s WeChat Pay team, TenPayGo allowe
 
-## Aaditya Thackeray responds to Satish Salian's notice, refutes allegation of defamation
-Satish Salian sent the Sena (UBT) MLA a notice on September 17 alleging that Thackeray had defamed him in two posts.
+## Morgan Stanley ‘fat finger’ leak of confidential deal pipeline sets off alarm bells
+The inadvertent disclosure of confidential information by a Morgan Stanley employee this week alarmed Hong Kong’s banking industry, listed issuers and regulators, according to several sources familiar with the matter. An email sent by the Hong Kong-based employee on Tuesday afternoon included an att
 
-## Cooking likely to get cheaper as Centre cuts customs duty on edible oils
-Duty on crude soybean and palm oils has been cut from 10% to 5%, while that on refined varieties has been reduced from 32.5% to 27.5%.
-
-## Ayushman Bharat turns eight: 600 million people covered under PM-JAY
-Ayushman Bharat PM-JAY has benefited 600 million people in eight years, with 485 million Ayushman Cards issued, health ministry data showed.
-
-## Germany says India can leverage Russia ties to help end Ukraine war
-Germany believes India can use its long-standing ties with Russia to help end the Ukraine war, German envoy Jasper Wieck said.
-
-## US State Secretary Marco Rubio says global system ‘broken’: ‘Can’t address potential conflicts like India-Pakistan’
-Marco Rubio also pointed to US President Donald Trump's remarks stating the United Nations was “not living up to its potential”.
-
-## Sanjana Sanghi at UNGA: Actor calls for investment in education, healthcare and greater role for youth
-Sanjana Sanghi addressed a UNGA engagement, calling for greater investment in education and healthcare and a bigger role for young people
+## 1,700% share surge for Chinese state-owned compressor maker exposes risks of new listings
+A more than 1,700 per cent share-price surge by a new listing on the Shanghai Stock Exchange last week put a spotlight on a state-owned industrial compressor manufacturer, leading the bourse operator to intervene to curb speculative trading. ShenGu Group, a maker of centrifugal compressors in northe
 
 ## China has scrapped two-thirds of its planned coal power plants abroad: report
 Five years after China pledged to stop building or financing new coal-fired power plants overseas, the country’s state sector has made “significant progress” towards meeting that goal, though private projects are still being developed, according to a new report. Two-thirds of China’s overseas coal p
@@ -116,18 +137,6 @@ Hong Kong has climbed one place in a list of the world’s most transparent real
 
 ## Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta
 US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales
-
-## Bad money decisions are coming home to roost for the US and Japan
-The US Treasury market is in trouble, oil prices have been surging and the yen might slide again. Whatever Treasury Secretary Scott Bessent might have said, the United States government isn’t big enough to be “the house” that always wins when it comes to fixing global markets. Last week, the 10-year
-
-## Hong Kong sets yuan trading timeline, backing Beijing’s push to boost currency’s use
-Hong Kong’s securities regulator aims to include a yuan trading counter in a cross-border channel linked with mainland Chinese investors by July 1, marking the latest step in the city’s efforts to advance the internationalisation of the Chinese currency. The measure, announced on Wednesday, is part 
-
-## Hong Kong unveils gold, bond and liquidity plans to drive next phase of yuan adoption
-Bourse operator Hong Kong Exchanges and Clearing (HKEX) will launch yuan-denominated gold futures early next year, while the city’s de facto central bank plans to introduce more yuan products and platforms to support the diversification and digitalisation of the currency’s internationalisation, spea
-
-## Physical moves by online financial firms unlikely to pump up property market: analysts
-Digital financial service providers, including online brokerages and digital banks that used to trumpet their “zero-branch, fully online” models, have been opening physical stores across Hong Kong recently. Analysts described it as a strategic trend aimed at enhancing brand image and service quality
 
 ## Iran’s UNGA Moment
 Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China’s Xi visits US as Trump bets on stabilising global relations
-US President Donald Trump welcomes his Chinese counterpart Xi Jinping ahead of talks and state dinner.
+## Trump-Xi summit: What’s on the agenda, why it matters
+The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.
 
-## OpenAI, Anthropic CEOs call for global AI regulation at UN
-Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.
+## Gaza $2.45 billion reconstruction plan. Who decides its future?
+Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.
 
-## Why is Kenya turning against Tata Chemicals in Magadi?
-A century-old industry faces a reckoning over regulation, jobs and local benefits.
+## Harry Kane eyes career as NFL kicker after football retirement
+England's captain and record goal scorer says a transition into American football could be on the cards.
 
-## Iran war live: Tehran says it won’t be bullied, remains open for talks
-Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.
+## Trump and Xi summit may just be a ‘horse and pony show’, experts say
+Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals.
 
-## China’s Xi arrives to Trump welcome on state visit
-China's President Xi Jinping has touched down at Joint Base Andrews as he begins a much anticipated official state visit
+## OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy
+Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)
 
-## Trump greets China’s Xi Jinping on arrival for three-day US trip
-Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
+## Sikorski: Russia doesn’t have the forces to invade NATO
+In an interview with Al Jazeera, Polish FM Radoslaw Sikorski says Russia ‘doesn’t have the force to invade NATO.
 
-## FBI investigates alleged theft of ‘very sensitive’ employee data
-ShinyHunters hackers claim to have stolen data on thousands of FBI employees as the agency probes a portal breach.
+## Why have some nations developed while others struggle?
+At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.
 
-## US aviation sanctions disrupt Iran flights, push travellers overland
-Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
+## AI model Claude discovers CRISPR-like enzyme system, Anthropic says
+AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
@@ -273,6 +282,9 @@ India’s record FCNR(B) mobilisation has been an extraordinary funding success,
 ## US' nips at Moscow may sour India ties
 India has been in talks with the US over the past few months, conveying the possible adverse impact on ties if up to 100% tariffs are imposed under the legislation.
 
+## Fair case for rupee to stabilise and appreciate from current levels: RBI Deputy Governor
+The rupee has cumulatively depreciated by 13.1 per cent (on a point-to-point basis) from March 31, 2025 to September 16, 2026, and there is a fair case for the Indian currency to not only stabilise but also appreciate from current levels, according to Poonam Gupta, the Reserve Bank of India's (RBI) 
+
 ## Expected rise in interest rates may hit NBFC profits; housing financiers could gain: Report
 Rising borrowing costs and a possible increase in the Reserve Bank of India's (RBI) policy repo rate could put pressure on the profitability of non-banking financial companies (NBFCs), particularly vehicle financiers and microfinance lenders, while housing finance companies could benefit from higher
 
@@ -290,7 +302,4 @@ India's central bank should consider acting early on rates to strengthen credibi
 
 ## In 2025, Sebi warned investors about digital gold. Now, your digital gold may soon need physical gold to back it; government weighs RBI-Sebi oversight for $3 billion industry
 The finance ministry has sought feedback from regulators, banks and other stakeholders. A broad consensus has emerged that digital gold should be classified as a security under the Securities Contracts (Regulation) Act, 1956.
-
-## SEBI to look into broker, AMC concerns over UPI MDR: Tuhin Kanta Pandey
-SEBI chairman Tuhin Kanta Pandey said the regulator will look into concerns raised by brokers and AMCs over UPI MDR and assess how they can be eased, following the government’s recent framework introducing charges on specified merchant transactions.
 
