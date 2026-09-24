@@ -1,31 +1,22 @@
 # AION Intelligence
 
-## White House says it has restored access to banned press outlets
-Journalists at CNN, MS Now and Politico say they were initially turned away
-
-## City of London wins approval for skyscraper plan
-Conservationists worry that views of the Tower of London will suffer if more blocks are built in the financial district
-
-## Is the UK electorate fragmenting? Not so fast
-The battle between Labour and the Conservatives for national dominance has given way to multiple local fights to be in the top two
+## GoDaddy receives takeover offer from maker of Norton antivirus software
+Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security
 
 ## US long-term borrowing costs touch highest level since 2004
 Rising yields strain public finances after brutal sell-off in US Treasuries market
 
-## US mortgage rates breach 7% as affordability pressures mount
-Surging yields on government bonds and rising oil prices from the war in Iran drive inflation fears as national elections near
+## SoftBank pays steep price for record bond sale to fund OpenAI bet
+Masayoshi Son’s group pays yields of up to 9.75% to raise more than $11bn in the largest junk bond offering on record
 
-## Russia raises taxes to fund its war in Ukraine
-Moscow to increase dividend tax on foreign investors and introduce windfall taxes on gold and metals producers
+## Netanyahu tells UN Israel and US launched Iran war to ‘save civilisation’
+Israeli leader’s speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House
 
-## Tax-free UK pension withdrawals have doubled since Labour came to power
-Fears of tax relief cut driving ‘damaging decisions’ by savers
+## Goldman reaped more than $200mn in fees from hedge fund Situational Awareness
+Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit
 
-## UAE halts Iranian flights over US sanctions
-Route is latest to pause operations after Washington imposed fresh curbs on Iranian airlines
-
-## Oracle feels the force
-Majeure problem?
+## Xi says US and China must ‘coexist in peace’ in historic White House visit
+The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers
 
 ## Burnham under pressure to lobby Trump on US diesel export ban
 Reform’s Robert Jenrick contacts Trump administration as prices at UK pumps near record high
@@ -33,35 +24,44 @@ Reform’s Robert Jenrick contacts Trump administration as prices at UK pumps ne
 ## Russia’s $6.9bn sanctions evasion scheme
 Western punitive measures have forced Moscow into costly workaround efforts
 
-## GoDaddy receives takeover offer from maker of Norton antivirus software
-Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security
+## Pioneer founder says Exxon ‘set him up’ after $60bn takeover
+Shale oil magnate says supermajor launched ‘smear campaign’ to stop him joining company’s board
 
-## HSBC axes $26,000 perk for Hong Kong bankers to join members’ clubs
-UK lender overhauls historic benefits for employees working in the territory as it seeks greater alignment with Hang Seng staff
+## The AI agent revolution has moved a big step closer
+Launch of Muse by Meta has provided a glimpse of how the technology could be turned into a mass-market product
+
+## Oracle feels the force
+Majeure problem?
+
+## Oracle invokes force majeure over New Mexico data centre Project Jupiter
+Project Jupiter has faced permit setbacks, a delayed natural gas pipeline and opposition as Oracle works to keep the development moving forward
+
+## JSW One plans over ₹3,000-crore IPO, files papers
+The proposed public issue was disclosed by JSW One in a filing late Thursday
+
+## Sanofi Healthcare India buys 15.19% stake in Sanofi India for ₹1,068 crore
+Hoechst’s holding in Sanofi India fell to 45.17 per cent from 60.37 per cent following the transaction, according to the data
+
+## West Bengal considers allowing changes to projects on allotted land: Chief Secretary
+The proposal comes as several projects in the Bengal Silicon Valley Tech Hub have yet to materialise despite land allotments
+
+## Hyderabad Airport, Brussels Airport partner to boost India-Europe air cargo connectivity
+The partnership will focus on route development, market intelligence, cargo best practices and engagement with airlines and other stakeholders
+
+## Five entities divest 11.05% stake in Sedemac Mechatronics for ₹1,469 crore
+The powertrain controls and auto parts manufacturer saw its shares gain nearly 10 per cent on the NSE after the deals
+
+## India-US trade deal ‘done and dusted’, execution awaits competitive advantage: Goyal
+Goyal also outlined progress with the European Union, Canada, Mexico, the Gulf Cooperation Council, Chile and Peru on trade agreements
 
 ## Bats likely began evolving in Europe 65 million years ago, study finds
 Researchers combined genomes from 103 species with 44 fossils to reconstruct the evolutionary history and family tree of bats
 
-## Google to test AI chips in space with first Project Suncatcher mission
-The mission will examine how AI hardware handles radiation, extreme temperatures and cooling challenges in the vacuum of space
+## Tata Sons tells Noel Tata Chandrasekaran reappointment was legally valid: Report
+Tata Sons has asserted the legal validity of N Chandrasekaran's reappointment as chairman. The company cited legal opinions supporting the decision against the Tata Trusts' allegations of governance breaches. A pending vote on his directorship is crucial for his continuation in the role. Complicatio
 
-## Anthropic says Claude discovers novel enzyme system with CRISPR-like properties
-The discovery marks Anthropic’s first reported result from its biology research as the AI company expands into life sciences
-
-## Tourism’s ₹24.9 lakh crore boost
-World Tourism Day, observed every year on September 27, highlights the economic and social importance of travel and tourism worldwide. As India’s tourism sector continues to expand, let’s look at its contribution to the economy, based on the World Travel & Tourism Council’s Economic Impact Research 
-
-## IRDAI’s major reform agenda to force distributors to completely rethink business models, can impact earnings of banks
-The reforms, if implemented, seek to make insurance more affordable and transparent, but raise questions about distribution viability and near-term growth.
-
-## US yield shock, oil surge hammer equities; Nifty hits lowest since April 7
-The BSE Sensex tumbled 1,248 points to close at 73,581, while the Nifty 50 shed 384 points to end at 23,063 on Thursday
-
-## PB Fintech put option buyers laughing all the way to the bank
-From mere ₹0.3, the 1,500-put option premium jumps to ₹279.95
-
-## Consumer durables market seen at ₹3-3.25 lakh crore by 2030, says BCG-CII
-8-10% annual growth could add ₹40,000-50,000 crore in domestic value; opportunity for increasing localisation
+## Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice
+When a woman sold her unlisted shares, she reported long-term capital gains of Rs 8.31 crore. In June 2021, she put Rs 6.91 crore into a residential property on Juhu Tara Road, Mumbai, and claimed exemption under Section 54F.
 
 ## Dubai-based Indian cancelled 2 flats, builder claims deductions; why MahaREAT ordered full refund
 On July 1, 2026, the homebuyer won the matter before the MahaREAT. In its ruling, the tribunal directed the builder to refund the homebuyer Rs 48.73 lakh and Rs 66.56 lakh, along with interest at the State Bank of India's Marginal Cost of Lending Rate (MCLR) plus 2%.
@@ -81,11 +81,14 @@ The stock market came under heavy selling pressure, with the Sensex and Nifty de
 ## 3-day bank strike: Central govt employees to get salaries in advance; banks open Sunday
 The salaries and pensions for central government employees and pensions will be credited on September 25, ahead of a three-day bank strike called by the United Forum of Bank Unions (UFBU). The proposed strike also falls during the half-yearly closing period for the banking sector.
 
-## NSE Listing Debut: Company becomes 9th most valued; what brokerages have to say
-Before the listing, NSE's valuation at the IPO price of Rs 1,785 per share stood at Rs 4.42 lakh crore. By comparison, the market capitalisation of rival BSE is Rs 1.33 lakh crore.
+## India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
+India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
 
-## MCX Gold And Silver Outlook: Nuvama sees sideways to bearish trend; check outlook
-MCX Gold looks set to stay on the back foot in the coming sessions, the weekly price structure continues to drift lower, reinforcing a sideways to bearish momentum.
+## Delhi court allows VanDyke, 6 Ukrainians to travel home after NIA charge sheet
+Delhi court allows US national Matthew Aaron VanDyke and six Ukrainians to travel home after NIA charged them only with immigration offences.
+
+## Railway Protection Force sets up narcotics cell, plans MoU with NCB
+RPF has set up a narcotics cell to curb drug trafficking through trains and will sign an MoU with NCB for information sharing, training and joint operations.
 
 ## SC reserves order on Centre plea against retrospective OBC creamy layer ruling
 The Supreme Court reserved its order on the Centre’s plea seeking to defer its March 11 OBC creamy layer ruling by two years and apply it prospectively.
@@ -101,15 +104,6 @@ The bench headed by Justice Vikram Nath observed that when the protector turns p
 
 ## Rahul Gandhi says laws passed by MPs ‘illegal’: 'Vote chori is kanoon chori'
 Rahul Gandhi warned that compromising voter mandates undermines the legitimacy of Parliament and all laws passed within it.
-
-## SC orders safeguards against Pocso Act misuse in marital disputes
-Supreme Court directs police and courts to vet Pocso complaints in matrimonial disputes and seek a child psychiatrist’s assessment before arrest when evidence is not “palpable”
-
-## Mahadev app: CBI arrests key accused Abhishek Kumar after he arrives from Dubai
-The CBI said it arrested Abhishek Kumar at Rajiv Gandhi International Airport in Hyderabad and produced him before a court in Raipur
-
-## Allow Congress candidate to contest the Nandigram by-election: Calcutta HC to state
-Milan Pradhan, the candidate, was arrested on September 18 in connection with a 2007 murder case and later shown arrested in five other cases, all registered in the same year
 
 ## US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious
 Efforts to detect multiple cancers through a single blood draw are gathering momentum after US regulators endorsed the technology for the first time, although experts say wider adoption in Hong Kong still faces challenges as doctors remain cautious about its clinical value. In a landmark decision fo
@@ -135,6 +129,9 @@ With office vacancy rates in Kowloon East remaining high, the Planning Departmen
 ## Tencent rolls out payment app for foreign travellers ahead of Apec summit
 Tencent Holdings on Thursday launched TenPayGo, a mobile payment app targeting foreign visitors, as the tech giant seeks to capture China’s growing inbound tourism market ahead of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen. Developed by Tencent’s WeChat Pay team, TenPayGo allowe
 
+## Saudi Arabia Bribed the Wrong People
+Riyadh’s bet on Trumpism has failed.
+
 ## China’s Human Rights Crisis Hasn’t Disappeared
 Trump should raise the fates of imprisoned dissidents with Xi.
 
@@ -155,9 +152,6 @@ Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
 
 ## Jaishankar Leads India’s UNGA Delegation
 New Delhi’s top diplomat aims to push back against new U.S. tariffs on countries buying Russian oil.
-
-## A $2.45 Billion Recovery Plan for Gaza
-Trump claims to have brought peace to the territory. Now, he is trying to deliver it.
 
 ## India’s Semiconductor Journey: Old Designer, New Producer
 India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ukrainian knifeman kills one, wounds four at abbey in Poland
-Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town.
+## US citizen injured after wrongly arrested by ICE in Illinois
+US citizen injured after wrongly arrested by ICE in Illinois
 
-## Jerusalem Daily: Ben-Gvir sets out bid to become defence minister
-In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.
+## New York sues Polymarket over allegations of illegal gambling operations
+The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.
 
-## Collapsing currency and inflation leave families struggling in Sudan
-Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.
+## Israel moves to ban main Palestinian-led lists from election
+Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.
 
-## Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN
-UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza.
+## What’s triggered the latest violence in Ethiopia?
+Tigrayan forces say they are in a 'full-blown war' with the army.
 
-## Africa’s bid for a seat on the Security Council
-Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council.
+## US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout
+Macklemore says 'being apolitical during a genocide doesn’t work', promises to donate proceeds to Palestinian causes.
 
-## ‘Hostile, but hooked’: What’s behind the US-China trade truce extension?
-Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal.
+## Delegates walk out of Netanyahu’s UN speech
+Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech.
 
-## Four civilians killed in Pakistani airstrikes in Afghanistan
-Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.
+## Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN
+Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.
 
-## Media outlets access to White House restored after a chaotic few hours
-A US federal judge had ordered the White House to 'immediately return, reinstate and restore' the three outlets' access.
+## Ethiopian army says 272 Tigrayan fighters killed in Amhara
+Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.
 
 ## ICAI to certify independent directors, new course likely by October-end
 Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
