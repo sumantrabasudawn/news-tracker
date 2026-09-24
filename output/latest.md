@@ -1,118 +1,142 @@
 # AION Intelligence
 
+## Live reader Q&A — Where are the biggest market risks?
+Join us for a live Ask an Expert Q&A with markets columnist Katie Martin and US financial commentator Robert Armstrong, now
+
+## Global bond sell-off deepens as oil climbs back to $105
+Rising yields strain public finances after brutal sell-off in US Treasuries market
+
+## Trump says he wants to leave AI ‘exactly where it is’ ahead of Xi meeting
+The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders
+
+## The risks of calling an early election for Burnham
+Speculation has grown that the new prime minister might roll the dice in a bid to secure a fresh mandate
+
+## You want honesty, Andy? Britain is out of easy options
+The prime minister must tell voters that Labour’s manifesto has been superseded by world events, both economic and military
+
+## Data centre boom emerges as wedge issue in Texas midterms
+Developers face uncertainty after state’s governor froze permits for projects weeks ahead of elections amid voter backlash
+
+## Russia could attack Nato country within months, Denmark warns
+Intelligence service cites ‘low but growing risk’ of troop movement into neighbouring country or attack on infrastructure
+
+## UK bank tax receipts jump 20% following surge in profits
+Industry is bracing for a possible raid in next month’s Budget
+
+## FirstFT: OpenAI ‘agent’ hacks Australian government website
+Also in today’s newsletter: Treasury yields surge above 5% and judge orders Trump administration to temporarily restore White House access for news outlets
+
+## Private equity could revolutionise US lawyer pay, law firm bosses say
+Massumi + Consoli executives bet new ownership model will allow them to lure partners with equity incentive plans
+
+## Tencent launches payments app for ‘China-maxxing’ foreign tourists
+Rival to Alipay will help overseas visitors navigate country’s largely cashless economy
+
+## Delivery Hero chief reverses exit plan after Uber secures takeover deal
+‘Teflon’ Niklas Östberg to guide German food delivery group through asset sales and a new future under its US rival
+
+## Oops! You added the wrong email attachment and leaked the bank’s deal list. What happens next?
+A six-point plan for putting toothpaste back in the tube
+
+## SoftBank raises $11bn in record junk bond offering to fund OpenAI bet
+Yields of up to 9.75% seen as indicator of investors’ willingness to keep funding AI boom
+
+## Vistry vows to simplify business after £83mn first-half loss
+UK housebuilder’s shares slide as it cuts profit outlook and scales back growth plans
+
 ## Judge orders White House to restore banned media’s access
-Trump’s move to restrict CNN, Politico and MS Now marked a major escalation against media
+Donald Trump’s move to restrict CNN, Politico and MS Now marked a major escalation against media
 
-## Global bond sell-off spreads as oil holds above $100
-Rising yields strain public finances as expectations of Fed rate rise in October jump to about 70%
+## Keralam gears up for data driven governance: Chief Minister
+Satheesan opens Global Delivery Centre of CyberShelter at Lulu Twin Towers
 
-## The SVB postmortem continues
-Plus: quality
+## Elitecon International plans venture into new markets
+The company said its subsidiaries in the UAE and Singapore completed a full year of operations during FY26
 
-## France and Germany spar over ‘Made in Europe’ as EU moves to protect its own
-Also in this newsletter: lifting sanctions is ‘not a good signal’
+## Income Tax Dept notifies changes in TDS Rules for non-resident immovable property transfers
+From October 1, buyers can use PAN and Form 141 instead of TAN; ₹50-lakh threshold and 1% rate will not apply
 
-## FirstFT: UK weighs smaller fiscal buffer to curb tax rises
-Also in today’s newsletter: Reform’s civil service overhaul and Belgium’s Trump warning
+## Only 10% of UPI transaction value risks MDR charges; corporates to absorb most proposed fees: NPCI
+80% of the MDR collected would come from businesses with annual turnover of more than ₹1,000 crore, NPCI chief Dilip Asbe, said
 
-## Hasan Piker: the Republican Party’s bogeyman
-The leftwing streamer, recently banned from the UK, tells the FT why he has become US conservatives’ midterm hate figure
+## SEA terms edible oil duty reduction a timely, balanced intervention
+The basic customs duty (BCD) on crude soybean oil and palm oil has been slashed from 10% to 5%, and on refined soybean oil and palm oil from 32.5% to 27.5%
 
-## VW’s painful recovery plan is fragile
-Supervisory board approval of its necessary restructuring was based on a truce that will need to hold
+## Broker’s call: Sammaan Capital (Buy)
+Ventura Securities
 
-## How Trump’s tariff war is clobbering the Hanks of America
-The end of the ‘de minimis’ exception can inflict major damage on niche companies
+## Broker’s call: Dodla Dairy (Buy)
+Management reaffirmed revenue growth guidance of 15% over the medium term, expecting sales’ salience of value-added products (VAP) to go to 40% (from current 30%)
 
-## AI Exchange
-In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
+## SRIT India to raise ₹218 crore via IPO on mainboard
+The issue, which opens on Monday, has been priced at ₹123-₹130 per equity share
 
-## Shale magnate accuses Exxon of ‘smear campaign’ to block board seat
-Pioneer Natural Resources founder says oil major and regulators ‘orchestrated’ allegations of Opec collusion against him
+## PF wage ceiling rises to Rs 25,000: Top FAQs answered for employees
+For employees, however, the immediate reaction may be simple: What does this mean for me? The answer depends on an employee’s wage structure, provident fund membership status and pension coverage.
 
-## Jane Street to double London office space after breakneck growth
-Firm is taking 465,000 sq ft at One Spitalfields in a so-called pre-let deal
+## Why is stock market crashing today? Sensex, Nifty fall over 1.5% - top reasons
+The stock market came under heavy selling pressure, with the Sensex and Nifty declining nearly 1.5% as a sharp rise in bond yields to 19-year highs added to investor concerns.
 
-## Paddy Power founder accuses Betfred billionaire of ‘scaremongering’ over tax rises
-Stewart Kenny hits back at warnings over UK job losses, saying he used ‘the same script’ when he was in the industry
+## 3-day bank strike: Central govt employees to get salaries in advance; banks open Sunday
+The salaries and pensions for central government employees and pensions will be credited on September 25, ahead of a three-day bank strike called by the United Forum of Bank Unions (UFBU). The proposed strike also falls during the half-yearly closing period for the banking sector.
 
-## Airtel Money IPO signals a route back for London’s market
-What starts as a niche investment can attract more mainstream sector analysts and investors
+## NSE Listing Debut: Company becomes 9th most valued; what brokerages have to say
+Before the listing, NSE's valuation at the IPO price of Rs 1,785 per share stood at Rs 4.42 lakh crore. By comparison, the market capitalisation of rival BSE is Rs 1.33 lakh crore.
 
-## The clock’s ticking on the AI boom
-Frontier labs as well as infrastructure groups are delaying their IPO plans
-
-## Sensex today | Stock Market Live Updates: Sensex falls 650 points, Nifty slips below 23,230 as crude oil tops $100
-Sensex, Nifty, Share Prices Live: Rising oil prices, elevated US Treasury yields and losses across Asian markets pressured domestic equities, while investors also tracked key regulatory and market developments.
-
-## NSE share price rises over 5% after near-flat listing
-The stock opened at ₹1,800, a 0.84% premium to its IPO price of ₹1,785, before rising to ₹1,878. At 10.28 am, NSE shares traded at ₹1,861.80.
-
-## NSE Share Price LIVE: NSE shares up 5% from ₹1,785 IPO price on debut day
-NSE IPO listing today, NSE share price live updates: Scroll down for more
-
-## As NSE lists, a look at debut performances of India’s largest IPOs
-The debut performance contrasts with that of other large Indian listings, including Hyundai Motor India, LIC, Paytm, Tata Capital and Coal India
-
-## Judge blocks Trump's White House media ban, orders access to be restored
-Judge says ban likely ​violates First Amendment and due process protections
-
-## Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting
-The workarounds are expensive and may not be sustainable
-
-## Gold muted on US Fed policy tightening bets, decline in oil
-Spot gold was little changed at $4,291.48 per ounce, by 0512 GMT. US gold futures ‌for December delivery rose 0.2% to $4,326.30.
-
-## Morgan Stanley employee accidentally leaks bank’s Asia investment pipeline details
-List contains candidates for initial public offerings, spanning from China to South Korea and India
+## MCX Gold And Silver Outlook: Nuvama sees sideways to bearish trend; check outlook
+MCX Gold looks set to stay on the back foot in the coming sessions, the weekly price structure continues to drift lower, reinforcing a sideways to bearish momentum.
 
 ## Woman paid US tax but faced Rs 30 lakh tax demand in India; what ITAT said
 Under the applicable rules, taxpayers who have paid taxes in a foreign country with which India has a Double Taxation Avoidance Agreement (DTAA) are required to submit Form 67 along with their ITR to claim credit in India for the foreign taxes already paid.
 
-## Stock market today: Sensex tumbles 550 points, Nifty50 slips below 23,300
+## Stock market today: BSE Sensex tumbles over 1200 points, Nifty50 slips below 23,070
 
 
 ## Oil prices today: Brent crude edges lower as Iran keeps door open to diplomacy
 
 
-## NSE IPO: Stock lists at Rs 1,800 versus issue price of Rs 1,785
-NSE launched its initial public offering earlier this month, seeking to raise Rs 22,562 crore through a 12.64 crore-share offer for sale (OFS) by existing shareholders.
+## Over 360 MP school students lock themselves in hostel, demand principal’s removal
+The principal, HK Meena, was accused of brutally beating a Class 10 student in Bajranggarh village, seven kilometres from Guna
 
-## Airtel Money plans to list on LSE, looks to raise $800mn
+## NDMC develops 1-acre ‘Bharat Van’ using Miyawaki method in Delhi’s Lodhi Colony
+Bharat Van will have around 10,000 indigenous plants, along with spaces for yoga, meditation and other recreational activities
 
+## Menstruation row over London trip: TN minister Keerthana breaks silence, says ‘health is private’
+Tamil Nadu industries minister S Keerthana clarified her absence from chief minister Vijay's London visit was due to a minor medical procedure.
 
-## Inflation to stay within band: RBI deputy governor Poonam Gupta
+## Ladakh observes 'Martyrs' Day' with shutdown marking anniversary of 2025 violence
+Climate activist Sonam Wangchuk led a symbolic march, advocating for clarity on a delayed judicial report concerning the incident.
 
+## ‘EC owes apology to nation’: Shashi Tharoor over report of 97 eligible Goa voters left out of electoral roll
+Tharoor said the reported exclusion had consequences beyond voting rights, referring to people who could be dependent on access to government-linked services.
 
-## BRICS should work together on transfer pricing: Finance minister Nirmala Sitharaman
+## Bangladesh stops importing Hilsa from India; Dhaka may not export fish to India
+Bangladesh has stopped importing Hilsa from India and Myanmar, raising concerns that it may not allow Hilsa exports to India ahead of Durga Puja.
 
+## Husband's girlfriend can't be accused of cruelty to wife under BNS: Karnataka HC
+The court said this while quashing criminal proceedings against a man's girlfriend, who had been accused by his wife of cruelty under Section 85 of the BNS.
 
-## Commissions capped as fees soar 4x faster than premium; regulator seeks to limit distribution costs & misselling
+## ‘Owner didn’t take precautions’: Delhi police tells HC on Satya Niketan collapse
+The report said that the owners also did not engage, hire or obtain advice from any unqualified structural engineer/architect in respect of the basement repair
 
+## US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious
+Efforts to detect multiple cancers through a single blood draw are gathering momentum after US regulators endorsed the technology for the first time, although experts say wider adoption in Hong Kong still faces challenges as doctors remain cautious about its clinical value. In a landmark decision fo
 
-## ‘Selfless work should be the aim’: PM Narendra Modi interacts with Seva Yatris
-PM Narendra Modi urged youngsters to raise awareness about the seven streams of power that he spoke about in his Independence Day address
+## China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte
+Beijing’s recent tightening of approvals for humanoid robot makers seeking initial public offerings (IPOs) poses no threat to companies with clear commercialisation strategies, as funding channels remain wide open for qualified players, according to Deloitte China. “Market funds are shifting from th
 
-## In second bus fire in 12 hours, driver evacuates 14 passengers near Mumbai
-The driver, identified by the police as Chhatrapal Singh Kishor Singh Vahia, spotted the smoke, pulled over and evacuated the passengers from the vehicle.
+## Who has the upper hand in financial markets, the US or China?
+As Chinese President Xi Jinping arrives in Washington for his much-anticipated summit with US President Donald Trump, it is clear which country emerged stronger from the tariff shock. Last month, China’s exports rose 25 per cent in annualised terms, causing the country’s trade surplus to swell to US
 
-## Another teen sexually harassed in Bihar's Samastipur after Jamui horror; 4 detained
-The earlier incident was reported in Jamui district and the second, in Samastipur.
+## Investors pivot to selective China bets in technology as property growth fades: DBS Bank
+The sentiment among investors that China is a “single bet” is giving way to picking individual winners, with technology displacing property as the engine of growth, according to DBS Bank (Hong Kong). “Instead of looking at China as one big thing, there are selective sectors that we think will benefi
 
-## Flung to roadside, dragged for nearly 80m: Nuh accident kills 4, including three children
-The man’s wife was critically injured. Police reported the accident occurred around 11pm; the driver fled the scene, and an FIR was filed against him.
+## Skydiving, whale watching and a burst of bookings as holidays extend for millions in China
+A three-day public holiday used to be a big deal in China. Then came “golden weeks”, which would sometimes stretch to nine days, sending millions of people in search of new sights across the country and further afield. Now an alignment of the Mid-Autumn Festival and the National Day holiday will giv
 
-## Tripura HC waives jail terms for 4 Bangladeshis, directs govt to send them back
-Ratilal Das and his wife, Binita Rani Das, were among the 13 people detained by the Border Security Force (BSF) at Srirampur Manu bridge on February 27, 2025
-
-## If required will take aggressive stand against TDB: Keralam Devaswoms Minister
-If required will take aggressive stand against TDB: Keralam Devaswoms Minister
-
-## DTC cancels weekly offs for drivers, conductors ahead of Sept 28 strike call
-The corporation has also begun taking disciplinary action against employees who have allegedly disrupted bus operations during the ongoing agitation
-
-## Delhi gang-rape accused dined out after act, washed clothes to remove proof: Cops
-The girl was gang-raped on gunpoint inside the 142-acre Aastha Kunj Park near Kalkaji Temple in the Capital.
+## ChinaAMC launches 3 Hong Kong ETFs as demand for targeted strategies grows
+China Asset Management (Hong Kong), the offshore arm of one of mainland China’s largest asset managers, launched three exchange-traded funds (ETFs) in the city on Thursday, expanding its product line-up as investors seek more diversified strategies amid market volatility and a broader boom in the ET
 
 ## High office vacancy rates spur bid to rezone Kowloon East site for residential development
 With office vacancy rates in Kowloon East remaining high, the Planning Department has indicated it has “no objection” to a request by some developers for a commercial project in the area to be rezoned for residential development. A consortium comprising CSI Properties, Asia Standard International an
@@ -120,23 +144,8 @@ With office vacancy rates in Kowloon East remaining high, the Planning Departmen
 ## Tencent rolls out payment app for foreign travellers ahead of Apec summit
 Tencent Holdings on Thursday launched TenPayGo, a mobile payment app targeting foreign visitors, as the tech giant seeks to capture China’s growing inbound tourism market ahead of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen. Developed by Tencent’s WeChat Pay team, TenPayGo allowe
 
-## Morgan Stanley ‘fat finger’ leak of confidential deal pipeline sets off alarm bells
-The inadvertent disclosure of confidential information by a Morgan Stanley employee this week alarmed Hong Kong’s banking industry, listed issuers and regulators, according to several sources familiar with the matter. An email sent by the Hong Kong-based employee on Tuesday afternoon included an att
-
-## 1,700% share surge for Chinese state-owned compressor maker exposes risks of new listings
-A more than 1,700 per cent share-price surge by a new listing on the Shanghai Stock Exchange last week put a spotlight on a state-owned industrial compressor manufacturer, leading the bourse operator to intervene to curb speculative trading. ShenGu Group, a maker of centrifugal compressors in northe
-
-## China has scrapped two-thirds of its planned coal power plants abroad: report
-Five years after China pledged to stop building or financing new coal-fired power plants overseas, the country’s state sector has made “significant progress” towards meeting that goal, though private projects are still being developed, according to a new report. Two-thirds of China’s overseas coal p
-
-## How China’s growing Reit sector is giving foreign property investors a route back in
-Foreign investors are starting to look again at mainland China’s commercial property market after years of retreat, drawn by sharply lower asset prices, wider yields and cheaper yuan financing, even though cross-border capital remains a small fraction of the overall market, analysts said. The shift 
-
-## Hong Kong rises in property market transparency rankings, but trails Singapore and Japan
-Hong Kong has climbed one place in a list of the world’s most transparent real estate markets by property consultancy JLL and subsidiary LaSalle Investment Management, though it still trails regional peers Singapore and Japan in the rankings. The city secured 14th place in the latest edition of the 
-
-## Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta
-US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales
+## Germany Is Officially Adrift
+The German chancellor’s power is ebbing at home—and the consequences will be global.
 
 ## Iran’s UNGA Moment
 Iranian President Masoud Pezeshkian called the U.S. government “terrorists.”
@@ -158,9 +167,6 @@ Global reporting standards are a key step toward safety.
 
 ## The Iran War Might Be Somaliland’s Chance for Recognition
 The unrecognized republic is pitching itself as a strategic ally for Washington.
-
-## Trump Wants to Ban Diesel Exports. It Won’t Help.
-Government interference in the world’s largest oil-producing state would be counterproductive.
 
 ## Rare Earths at the Trump-Xi Summit: Relief Without a Resolution
 The Trump-Xi meeting may temporarily ease anxiety over rare earth supplies, but it is unlikely to lower the political and regulatory threshold for access.
@@ -186,6 +192,12 @@ Insights from Stephen J. Blank.
 ## In Taiwan, a Disaster Exercise Prepares for Conflict, Too
 This year’s natural disaster drill sought to stress-test Taiwan against cascading, multisystem failures – with obvious implications for an invasion scenario as well as an earthquake.
 
+## Power, Prudence, and Restraint in Fénelon’s Telemachus
+“If one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many people.” -Pierre-Valentin Faydit in La T
+
+## The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home
+Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed — including the Department of Veterans Affairs’ own adjudication frame
+
 ## South Korea’s Deliberate Strategic Ambiguity on Taiwan
 In 2021, Sungmin Cho wrote, “South Korea’s Taiwan Conundrum,” where he argued Seoul’s complex strategic position makes engagement on questions of involvement over a Taiwan contingency complicated. Five years later, we asked him to revisit his arguments.Image: U.S. Navy (Photo by Seaman Apprentice Ca
 
@@ -203,12 +215,6 @@ Coverage of the new White House memorandum on combating cybercrime quickly reach
 
 ## Zelensky’s Perception Problem: Are New Partnerships a Solution?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## Washington’s Foreign Equity Bets Need Better Governance
-What do a rare earth mine in Brazil and a graphite mine in Mozambique have in common? Both have received significant United States government funding. The rub? Neither was subject, when the financing was committed, to the corporate governance standards that American listed companies are: an independ
-
-## Only America Could Have Designed the Field Jacket
-When the M-1943 field jacket was introduced at the height of World War II, it was a revolutionary garment. The jacket was the result of rigorous testing, input from an astonishingly diverse group of experts, and was produced by the most advanced textile and garment industry in the world at the time.
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +240,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump-Xi summit: What’s on the agenda, why it matters
-The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.
+## Who’s who in the race for the next UN Secretary-General?
+The race to become the next United Nations Secretary-General is heating up, with five women among eight candidates.
 
-## Gaza $2.45 billion reconstruction plan. Who decides its future?
-Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.
+## Deadly attack on Indian cargo ship off coast of Oman
+A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.
 
-## Harry Kane eyes career as NFL kicker after football retirement
-England's captain and record goal scorer says a transition into American football could be on the cards.
+## Belgium and Rwanda are talking again. Is DR Congo any closer to peace?
+Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.
 
-## Trump and Xi summit may just be a ‘horse and pony show’, experts say
-Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals.
+## Russia attacks Ukraine while Zelenskyy speaks at UNGA
+Russia attacks Ukraine while Zelenskyy speaks at UNGA
 
-## OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy
-Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)
+## India’s surfers look to make waves at the 2026 Asian Games
+Indian surfers overcame huge challenges to reach the Asian Games and now dream of competing at the 2028 Olympics.
 
-## Sikorski: Russia doesn’t have the forces to invade NATO
-In an interview with Al Jazeera, Polish FM Radoslaw Sikorski says Russia ‘doesn’t have the force to invade NATO.
+## Could the oil shock push fuel prices even higher?
+From Hormuz to the Black Sea, pressure on main supply routes is testing the resilience of the global energy market.
 
-## Why have some nations developed while others struggle?
-At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.
+## Why is Iran threatening regional airports, and what could be the impact?
+Tehran hints retaliation as Georgia and Azerbaijan suspend Iranian flights amid mounting US sanctions on airlines.
 
-## AI model Claude discovers CRISPR-like enzyme system, Anthropic says
-AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.
+## OpenAI agents hack Australian government health data
+Rogue OpenAI agents accessed an Australian government health data website, obtaining non-public information.
+
+## ICAI to certify independent directors, new course likely by October-end
+Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
 
 ## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
 A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
@@ -279,9 +288,6 @@ FMCG cos are likely to hold prices through the festive season despite rising com
 ## After the $127 Billion FCNR(B) Surge: The Real Test Is Deployment, Liquidity and ALM
 India’s record FCNR(B) mobilisation has been an extraordinary funding success, but the harder balance sheet test begins now. From absorbing surplus rupee liquidity and deploying funds prudently to managing future maturities, RBI operations and ALM, T. Siva Rama Prasad, former CFO of Karur Vysya Bank
 
-## US' nips at Moscow may sour India ties
-India has been in talks with the US over the past few months, conveying the possible adverse impact on ties if up to 100% tariffs are imposed under the legislation.
-
 ## Fair case for rupee to stabilise and appreciate from current levels: RBI Deputy Governor
 The rupee has cumulatively depreciated by 13.1 per cent (on a point-to-point basis) from March 31, 2025 to September 16, 2026, and there is a fair case for the Indian currency to not only stabilise but also appreciate from current levels, according to Poonam Gupta, the Reserve Bank of India's (RBI) 
 
@@ -296,6 +302,9 @@ India co-sponsored a UN summit on multilateralism, stressing participative delib
 
 ## Indian bonds steady as RBI rate hike expectations strengthen
 Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settled at about 7.05% during early trading on Tuesday. With retail inflation rising to 4.82% in August, expectations mount f
+
+## US' nips at Moscow may sour India ties
+India has been in talks with the US over the past few months, conveying the possible adverse impact on ties if up to 100% tariffs are imposed under the legislation.
 
 ## RBI should 'hike early to hike less' to anchor expectations, support currency: Report
 India's central bank should consider acting early on rates to strengthen credibility, support the currency and reduce the need for larger tightening later, a report said on Friday.
