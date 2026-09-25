@@ -1,10 +1,31 @@
 # AION Intelligence
 
+## Iran offers US new ‘7-day’ ceasefire proposal
+Foreign minister says plan could see Strait of Hormuz reopen within a week
+
+## Indian stock market will double in five years, says Motilal Oswal’s Raamdeo Agrawal
+Foreign investors have oversold the correction, the billionaire investor says in our latest India Business Briefing Q&A
+
+## Xi says US and China must ‘coexist in peace’ in historic White House visit
+China’s president is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers
+
+## Oracle on the hook to pay data centre investors even if site has no electricity
+The tech group is responsible for ‘Project Jupiter’ payments despite force majeure notice on New Mexico project
+
+## Brexit and Trump’s tariffs push UK’s food and drink trade deficit to £21bn
+In the first half of 2026, the sector’s export volumes fell 11.7% to hit their third-lowest level on record
+
+## US intervenes in Elon Musk’s legal challenge to EU fine against X
+Donald Trump has railed against European fines as ‘overseas extortion’
+
 ## Police charge anti-migrant protest leader over damage to dinghy in Channel
 Rightwing activist who calls himself Danny Tommo was an organiser of a recent blockade at Dover and a rightwing rally in Portsmouth
 
 ## FirstFT: Xi Jinping says US and China must ‘coexist in peace’ at White House summit
 Also in today’s newsletter: Tencent launches payments app for foreign tourists and HSBC scraps another perk for Hong Kong bankers
+
+## Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover
+Scott Sheffield says supermajor launched ‘smear campaign’ to stop him joining company’s board
 
 ## OpenAI breach of Australian government linked to wider AI hacking campaign
 Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’
@@ -15,92 +36,86 @@ Researchers detail three other attempts by AI agents to break into websites duri
 ## Why New Delhi is a battleground in the fight over Tata
 The vast Indian conglomerate is at the heart of some of Prime Minister Narendra Modi’s plans to make India a manufacturing juggernaut
 
-## GoDaddy receives takeover offer from maker of Norton antivirus software
-Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security
+## Sensex today | Stock Market Live: Sensex, Nifty face fresh pressure from crude, US yields and FII outflows
+Sensex, Nifty, Share Prices Live: Indian equity markets are likely to open flat on Friday as elevated US bond yields, rising crude prices and heavy foreign portfolio selling weigh on sentiment, with technical indicators pointing to continued weakness and volatility.
 
-## US long-term borrowing costs touch highest level since 2004
-Rising yields strain public finances after brutal sell-off in US Treasuries market
+## DRDO signs first high-value deep tech deal with start-up for quantum technology
+The project aims to strengthen India’s capabilities in quantum technology, advanced cryogenics and strategic technologies while reducing dependence on imports
 
-## SoftBank pays steep price for record bond sale to fund OpenAI bet
-Masayoshi Son’s group pays yields of up to 9.75% to raise more than $11bn in the largest junk bond offering on record
+## Beyond high-profile wars, a worldwide battle for critical minerals
+Critical minerals are emerging as a new source of geopolitical tension, with governments seeking secure supplies for technology and industry
 
-## Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover
-Scott Sheffield says supermajor launched ‘smear campaign’ to stop him joining company’s board
+## Stocks to watch today, September 25: Tata Group, Lemon Tree Hotels, PB Fintech, JSW Cement and more
+Tata Group stocks, Lemon Tree Hotels, Dr Lal PathLabs, PB Fintech, JSW Cement, KPIL and several other companies are in focus today following key corporate developments, including acquisitions, investments, new orders, regulatory actions, fundraising plans and expansion initiatives
 
-## Goldman reaped more than $200mn in fees from hedge fund Situational Awareness
-Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit
+## Sensex, Nifty face pressure from rising US yields, crude and FII selling
+Global financial conditions remain challenging, while technical indicators point to further weakness after Indian benchmarks broke key support levels
 
-## Oracle invokes force majeure over New Mexico data centre Project Jupiter
-Project Jupiter has faced permit setbacks, a delayed natural gas pipeline and opposition as Oracle works to keep the development moving forward
+## Small bites from the UN: Defiance, fiery speeches and a cold building
+World leaders used the UN General Assembly to address security, economic challenges, national priorities and growing geopolitical tensions across regions
 
-## JSW One plans over ₹3,000-crore IPO, files papers
-The proposed public issue was disclosed by JSW One in a filing late Thursday
+## Netanyahu calls Mamdani ‘antisemitic mayor’ in UN speech, accuses him of spreading lies
+The Israeli prime minister used his UN address to directly confront New York’s mayor over his criticism of Israel’s Gaza actions
 
-## Sanofi Healthcare India buys 15.19% stake in Sanofi India for ₹1,068 crore
-Hoechst’s holding in Sanofi India fell to 45.17 per cent from 60.37 per cent following the transaction, according to the data
+## IBSAT 2026 MBA Entrance Exam Schedule Announced for Admissions Across 9 Campuses
+IBSAT 2026 MBA Entrance Exam Schedule Announced for Admissions Across 9 Campuses
 
-## West Bengal considers allowing changes to projects on allotted land: Chief Secretary
-The proposal comes as several projects in the Bengal Silicon Valley Tech Hub have yet to materialise despite land allotments
+## Top stocks to buy today: Angel One recommends Godrej Agrovet, Caplin Point, Tilaknagar Industries
+Stock market recommendations: Godrej Agrovet, Caplin Point Laboratories, and Tilaknagar Industries are the top stock picks that Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has recommended buying for September 25, 2026.
 
-## Hyderabad Airport, Brussels Airport partner to boost India-Europe air cargo connectivity
-The partnership will focus on route development, market intelligence, cargo best practices and engagement with airlines and other stakeholders
+## Oil slips 1% as traders hope for US-Iran truce amid fresh attacks on Saudi pipeline
+Following a tumultuous week influenced by geopolitical unrest and supply worries, oil prices have dipped slightly. WTI crude now stands at $93.52 a barrel, while Brent crude has retreated to $105.80. Ongoing negotiations aim to address the Middle East conflict, which has considerably strained energy
 
-## Five entities divest 11.05% stake in Sedemac Mechatronics for ₹1,469 crore
-The powertrain controls and auto parts manufacturer saw its shares gain nearly 10 per cent on the NSE after the deals
-
-## India-US trade deal ‘done and dusted’, execution awaits competitive advantage: Goyal
-Goyal also outlined progress with the European Union, Canada, Mexico, the Gulf Cooperation Council, Chile and Peru on trade agreements
-
-## Bats likely began evolving in Europe 65 million years ago, study finds
-Researchers combined genomes from 103 species with 44 fossils to reconstruct the evolutionary history and family tree of bats
-
-## Ex-CJI, more legal experts back Tata Sons on Chandra's reappointment
+## Banks to deploy excess liquidity over next few months: RBI DG
 
 
-## Tata Sons tells Noel Tata Chandrasekaran reappointment was legally valid: Report
-Tata Sons has asserted the legal validity of N Chandrasekaran's reappointment as chairman. The company cited legal opinions supporting the decision against the Tata Trusts' allegations of governance breaches. A pending vote on his directorship is crucial for his continuation in the role. Complicatio
+## India can meet screen-protector demand locally, assures IT secy
 
-## Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice
-When a woman sold her unlisted shares, she reported long-term capital gains of Rs 8.31 crore. In June 2021, she put Rs 6.91 crore into a residential property on Juhu Tara Road, Mumbai, and claimed exemption under Section 54F.
 
-## Dubai-based Indian cancelled 2 flats, builder claims deductions; why MahaREAT ordered full refund
-On July 1, 2026, the homebuyer won the matter before the MahaREAT. In its ruling, the tribunal directed the builder to refund the homebuyer Rs 48.73 lakh and Rs 66.56 lakh, along with interest at the State Bank of India's Marginal Cost of Lending Rate (MCLR) plus 2%.
+## ‘Crude prices have risen 30% in a month’: CEA warns India exposed to multiple shocks
 
-## Just 1.85%, yet NSE has best debut among India's five biggest IPOs
-NSE made its debut as a listed company on the BSE, opening at ₹1,800 and closing at ₹1,818. The initial public offering was valued at ₹22,561.57 crore, making it the second-largest in Indian history. NSE's shares gained 1.85% on the first day despite a broader market decline. The company's IPO was s
 
-## From 33 to 12 hours, 14 to 6: Vande Bharat, roads cutting travel time drastically
-Across bridges, tunnels, expressways and railways, projects are replacing long detours, difficult terrain and slower routes with more direct connections.
+## Rupee falls 26p to 95.99 against dollar amid crude oil spike
 
-## PF wage ceiling rises to Rs 25,000: Top FAQs answered for employees
-For employees, however, the immediate reaction may be simple: What does this mean for me? The answer depends on an employee’s wage structure, provident fund membership status and pension coverage.
 
-## Why is stock market crashing today? Sensex, Nifty fall over 1.5% - top reasons
-The stock market came under heavy selling pressure, with the Sensex and Nifty declining nearly 1.5% as a sharp rise in bond yields to 19-year highs added to investor concerns.
+## Insurance stocks crash as Irdai proposes tighter rules
 
-## India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
-India, Russia, Iran among 9 countries to be part of BRICS Theatre Festival in Delhi
 
-## Delhi court allows VanDyke, 6 Ukrainians to travel home after NIA charge sheet
-Delhi court allows US national Matthew Aaron VanDyke and six Ukrainians to travel home after NIA charged them only with immigration offences.
+## Sebi allows FPIs in non-agri commodity derivatives trade
 
-## Railway Protection Force sets up narcotics cell, plans MoU with NCB
-RPF has set up a narcotics cell to curb drug trafficking through trains and will sign an MoU with NCB for information sharing, training and joint operations.
 
-## SC reserves order on Centre plea against retrospective OBC creamy layer ruling
-The Supreme Court reserved its order on the Centre’s plea seeking to defer its March 11 OBC creamy layer ruling by two years and apply it prospectively.
+## India rape cases turn focus back onto women's safety
+India rape cases turn focus back onto women's safety
 
-## ‘Resign within 48 hours or Jantar Mantar 2.0’: CJP's ultimatum to CEC Gyanesh Kumar
-CJP accused the Chief Election Commissioner of “undermining” voter rights and launched the “Election Commission Thik Karo” campaign.
+## ‘Tandoorasti’ not marriage: Bombay HC rejects divorce plea over disputed Parsi marriage ritual
+Following the jury’s decision, the woman argued that the event held in Mumbai was an “Aashirwad” ceremony or a blessings ceremony.
 
-## ‘Spoke to him at 10pm’: Greater Noida bus fire victims’ son searches for father
-The bus, travelling from Delhi to Mahoba in Bihar and carrying more than 35 people, was engulfed in flames late Wednesday night.
+## K’taka to give ₹2.5k aid to nearly 5mn farmers
+Karnataka will provide an input subsidy of ₹2,500 each to about 4.6 million to 5 million farmers affected by the drought, Deputy Chief Minister and Home Minister G Parameshwara told the legislative Assembly on Thursday.
 
-## SC commutes death sentence of man who raped, murdered 6-year-old stepdaughter
-The bench headed by Justice Vikram Nath observed that when the protector turns predator, it strikes not only at the child but at the security of a family relationship.
+## Sharjah Murder Victim’s Remains To Reach Kundapura Friday
+The remains of a 55-year-old Karnataka man allegedly killed in Sharjah and found dismembered last month will be brought back to Kundapura in Udupi district on Friday, with his funeral to be held without his wife and son, who remain untraceable
 
-## Rahul Gandhi says laws passed by MPs ‘illegal’: 'Vote chori is kanoon chori'
-Rahul Gandhi warned that compromising voter mandates undermines the legitimacy of Parliament and all laws passed within it.
+## K’taka asked to release Cauvery water to TN; CM to challenge order
+Karnataka has been directed to release 4,000 cusecs of Cauvery water a day to Tamil Nadu for 15 days starting September 25. The state government said it will challenge the order because its reservoirs face pressure from weak inflows and declining rainfall.
+
+## CM Shivakumar seeks fresh S.I.R., demands CEC’s resignation
+Chief minister DK Shivakumar on Thursday called for the Election Commission’s ongoing Special Intensive Revision of electoral rolls to be scrapped and restarted, and demanded the resignation of Chief Election Commissioner Gyanesh Kumar, saying reported disagreements within the three member poll pane
+
+## 3 killed, 44 livestock die in lightning strikes
+Three people have died and 44 sheep and goats were killed by lightning as heavy rain returned to parts of Karnataka, with the weather department warning of thunderstorms, strong winds and intense rainfall across the state over the next two days.
+
+## KPSC SIT officer transferred days after appointment
+Karnataka government has transferred IPS officer Kushal Chouksey to Chitradurga, about 200 km from Bengaluru, just two days after the Karnataka High Court appointed him to a Special Investigation Team probing alleged irregularities in Karnataka Public Service Commission recruitment.
+
+## Shanghai Gold Exchange pushes more Chinese banks to end retail leverage trading
+At least a dozen Chinese banks intend to wind down retail leveraged precious-metals trading – a practice in which everyday investors post margin deposits to speculate on gold and silver contracts without owning the physical metal. The retreat comes amid sharp swings in international gold prices. Sou
+
+## Hong Kong catching up with Dubai in ‘super-prime’ property sales amid Iran war
+Hong Kong has significantly narrowed Dubai’s lead as the world’s top market for “super-prime” residential property in recent months, as rising conflict weighs on activity in the Middle East market, according to Knight Frank. Dubai retained first place for deals involving homes sold for US$10 million
+
+## China’s EV and battery makers tussle over paying resumed lithium-ion tax: sources
+China’s electric vehicle (EV) makers and battery manufacturers are locked in negotiations over which party should pay a resumed consumption tax, according to industry sources, a conflict that underlines carmakers’ struggles amid weak home market demand. Beijing is ending an 11-year exemption on a 4 
 
 ## Blue Bottle bets that Chinese consumers will drink more premium coffee
 US premium coffee brand Blue Bottle Coffee will open its first Beijing store in the capital’s central business district, as it seeks to tap into China’s still growing market for the drink. The California-based brand is taking a spacious unit at China World Mall. The location, currently enclosed by c
@@ -116,15 +131,6 @@ Beijing’s recent tightening of approvals for humanoid robot makers seeking ini
 
 ## Who has the upper hand in financial markets, the US or China?
 As Chinese President Xi Jinping arrives in Washington for his much-anticipated summit with US President Donald Trump, it is clear which country emerged stronger from the tariff shock. Last month, China’s exports rose 25 per cent in annualised terms, causing the country’s trade surplus to swell to US
-
-## Investors pivot to selective China bets in technology as property growth fades: DBS Bank
-The sentiment among investors that China is a “single bet” is giving way to picking individual winners, with technology displacing property as the engine of growth, according to DBS Bank (Hong Kong). “Instead of looking at China as one big thing, there are selective sectors that we think will benefi
-
-## Skydiving, whale watching and a burst of bookings as holidays extend for millions in China
-A three-day public holiday used to be a big deal in China. Then came “golden weeks”, which would sometimes stretch to nine days, sending millions of people in search of new sights across the country and further afield. Now an alignment of the Mid-Autumn Festival and the National Day holiday will giv
-
-## ChinaAMC launches 3 Hong Kong ETFs as demand for targeted strategies grows
-China Asset Management (Hong Kong), the offshore arm of one of mainland China’s largest asset managers, launched three exchange-traded funds (ETFs) in the city on Thursday, expanding its product line-up as investors seek more diversified strategies amid market volatility and a broader boom in the ET
 
 ## Netanyahu Faces an UNGA Walkout (Again)
 The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.
@@ -150,6 +156,12 @@ U.S. policymakers like complaining about one of the sources of the European Unio
 ## Germany Is Officially Adrift
 The German chancellor’s power is ebbing at home—and the consequences will be global.
 
+## The Story of Bhutan’s UN Membership
+55 years ago, Bhutan joined the United Nations – with a rare show of support from bitter rivals.
+
+## Who Is Indigenous? The Politics of Tribal Identity Terminology in India and Bangladesh
+Tribal people in South Asia prefer being called adivasi or original inhabitants, but nationalist forces in India and Bangladesh oppose it for different reasons.
+
 ## India’s Semiconductor Journey: Old Designer, New Producer
 India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.
 
@@ -167,12 +179,6 @@ Recently, a district judge awarded 23 death sentences in ten cases over a span o
 
 ## Cambodian Beauty Pageant Acknowledges Mistaken Use of Thai Historical Photograph
 The unresolved border dispute between Cambodia and Thailand has given rise to a rash of online disputes over cultural "ownership."
-
-## Delivered to the Wrong Address? F-35 Parts Re-routed to Hong Kong
-The F-35 is a supremely advanced fighter aircraft with many proprietary components that would be of immense value to several foreign intelligence services. It is also a consumer product.
-
-## Burmese Refugees in Thailand Face Fresh Deportation Threat
-A recently-passed law increases the risk that people fleeing repression will be deported and forcibly recruited into the military’s units of "one-way troops."
 
 ## Power, Prudence, and Restraint in Fénelon’s Telemachus
 “If one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many people.” -Pierre-Valentin Faydit in La T
@@ -222,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Costa Rica minister fired for unapproved meeting with Trump in US
-President Fernandez dismisses foreign minister over his attendance at the "Shield of the Americas" meeting in New York.
+## NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu
+Rights groups accuse UN of hosting a 'war criminal' as delegations walk out during Israeli prime minister's speech.
 
-## Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups
-Zinedine Zidane brings 'aura' to his first France game as coach, against Turkiye in Nations League.
+## Contrasting treatment of Israel and Palestine on display at the UN
+Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.
 
-## Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech
-Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.
+## More than 100 arrested as New Yorkers protest Netanyahu’s UN visit
+Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.
 
-## DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
-DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.
+## Meloni government bans burqas, caps foreign students in Italian schools
+Italy is a front-line country for migration, with integration a hot campaign issue ahead of its 2027 election.
 
-## Croatian court approves extradition in Nord Stream bombing case
-Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.
+## Trump praises US-China friendship at state dinner with Xi Jinping
+The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.
 
-## Trump and Xi hold critical talks at White House summit
-US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.
+## At least 41 die as boat capsizes in DRC’s Lake Tanganyika
+Forty-nine passengers have been rescued and a search is under way for the missing.
 
-## Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest
-Susan Sarandon and Hannah Einbinder were among about 100 protesters arrested outside the UN ahead of Netanyahu’s speech.
+## Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll
+Luiz Inacio Lula da Silva is up two points, but that's still within the poll's margin of error.
 
-## Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu
-Dutch PM Rob Jetten says Israeli Prime Minister Benjamin Netanyahu should be at the UNGA despite an ICC arrest warrant.
+## UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector
+UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.
 
 ## ICAI to certify independent directors, new course likely by October-end
 Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
