@@ -1,64 +1,76 @@
 # AION Intelligence
 
-## UAE halts Iranian flights over US sanctions
-Route is latest to pause operations after Washington imposed fresh curbs on Iranian airlines
-
-## Global bond sell-off eases as oil prices retreat from recent highs
-Analysts warn that respite for debt markets remains ‘tentative’ given changing signals over Iran war
-
-## Bonds can keep falling
-Easy to explain, hard to live with
-
-## Brussels warns capitals to tackle energy crisis or see far right take power
-Also in this newsletter: A solution to the ‘Made in Europe’ conundrum
-
-## Trump raised weak yen in talks with Takaichi, Japan finance minister says
-Satsuki Katayama signals prospect of fresh currency intervention with US Treasury secretary Scott Bessent’s blessing
-
-## FirstFT: EU floats customs union option for Burnham
-Also in today’s newsletter: Russian fleet and Heathrow expansion
-
-## Bank of England to raise rates in November if energy prices remain high
-Read the September forecast from the FT’s Monetary Policy Radar team
-
-## Innovative Lawyers: Europe
-Top 50 innovative law firms ranked. Plus: pressure on pricing from clients and AI-powered start-ups; lawyers as an extra weapon in rearmament efforts; legal expertise supports companies’ hunt for funds for growth; and 26 categories of breakthroughs
-
-## SpaceX pivots away from space
-Starbase, we have a problem
-
-## The shale wildcatter lambasting Exxon
-Scott Sheffield has some barbs for the oil major that acquired his Pioneer Natural Resources in 2024
-
-## Peter Hargreaves: Britain cannot afford to lose more ‘big taxpayers’
-Lancashire-born entrepreneur who co-founded Hargreaves Lansdown says people with private wealth ‘have been disenfranchised’
-
 ## Brussels pushes Trump to maintain ‘free flow’ of diesel
 Bloc’s energy commissioner warns the continent is already facing its ‘worst winter’ for energy prices since 2022
 
-## Nifty holds 23,000, Sensex up 44 pts; Axis Bank, Asian Paints gain as IT, Pharma drag
-MCX Crude Oil drops sharply by 2.41% to ₹8,946, tracking a 1.79% fall in WTI crude to around $93 per barrel
+## The challenge for Burnham: words are no longer enough
+His speech to Labour conference must paradoxically offer more than just a promise of action
 
-## Natco Pharma board approves rights issue to raise up to ₹1,279 crore
-According to a regulatory filing, the company will issue up to 1,70,58,082 equity shares of face value of ₹2 each at an issue price of ₹750 per share to raise an amount not exceeding ₹1,279.35 crore.
+## UK graduates paying 50% more of university costs since 2012
+New analysis raises questions over fairest way to split bill for higher education
 
-## Bl.Changemaker awards 2026, Young Changemaker: Ariana Agarwal
+## Private equity-backed Florida railway Brightline files for bankruptcy
+Orlando-to-Miami route seeking to popularise high-speed rail in US has filed for Chapter 11 to cut nearly $6bn in debt
 
+## Lawyers join microchips on the list of data centre must-haves
+The Oracle dispute suggests there is another risk investors may have overlooked
 
-## Sensex today | Stock Market Live: Sensex rises 300 pts, Nifty above 23,100 amid global headwinds
-Sensex, Nifty, Share Prices Live: Indian stock markets trade flat on Friday but remained under pressure from rising US bond yields, higher crude prices, elevated inflation, geopolitical uncertainty and sustained foreign portfolio investor selling, keeping market sentiment cautious and raising expect
+## Airbus offers divestments to secure Brussels backing for space merger
+European aerospace group is seeking to allay competition concerns over deal with Leonardo and Thales
 
-## IT Kharagpur, railway engineering institute ink pact to train officials on Vande Bharat systems
-The five-year collaboration will facilitate specialised residential training programmes focusing on electrical safety and traction systems used in advanced rolling stock, used in Vande Bharat trains
+## Trump is not going to drop Canada
+But Carney is right to act as though his country is at war with its neighbour
 
-## Revamped model bilateral investment treaty may soon get Cabinet nod
-The finance ministry has sent the draft note to the Cabinet Secretariat for the approval of the Cabinet headed by the Prime Minister, the sources said
+## Houthis promise not to target European ships
+Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years
+
+## Bill Gates warns AI could cause ‘a billion deaths’
+Microsoft billionaire calls for US government intervention after series of AI security incidents
+
+## BASF makes takeover approach for chemicals rival Evonik
+Move would be significant step in consolidating Europe’s fragmented chemicals industry
+
+## Bitget crypto exchange hit by $350mn hack
+Company says action was ‘highly consistent’ with methods of North Korean criminals
+
+## Runwal Enterprises, German Green Steel and Power raise ₹149 crore, ₹91 crore from anchor investors
+German Green Steel and Orient Cables were fully subscribed on Day 1, while Runwal Enterprises and Ace Vector saw a modest response
+
+## West Bengal govt to auction limited parcels to industry associations
+The government has already identified three-four land parcels which would be handed over to industry bodies
+
+## PB Fintech put option buyers laughing all the way to the bank
+From mere ₹0.3, the 1,500-put option premium jumps to ₹279.95
 
 ## Another price hike inevitable due to higher input costs: Tata Motors PV MD Shailesh Chandra
-Also adds that the price hikes till now are not at par with the GST 2.0 reductions yet
+The price hikes till now have not been on a par with the GST 2.0 reductions, he said
 
-## India doesn't plan huge changes to dispute resolution with foreign companies, source says
-Foreign companies in India say dispute resolution is time-consuming, difficult, and a major hindrance to further investment
+## NHA to open 13 crore PM-JAY patients data for research
+The National Health Authority said it is also expanding the use of automated claim adjudication under PM-JAY
+
+## Carlyle completes strategic majority stake acquisition in Nido Home Finance
+Infuses ₹1,450 crore primary capital; buys 45% from Edelweiss for about ₹600 crore; Nido net worth seen at ₹2,300 crore in 18 months
+
+## Suzuki bets on smaller-battery REEVs as India emerges key battleground
+The company plans to add external charging capability and a “right-sized” battery to create what it calls REEV Light
+
+## Tamil Nadu likely to receive normal N-E monsoon rainfall: TNAU
+Seasonal rainfall forecast at 468 mm; coastal districts may see intense wet spells
+
+## Govt denies five-day banking: Govt says no commitment; unions press strike from Sept 28
+
+
+## Why has Sensex not hit a new closing high in two years?
+Foreign investors take out record money, rupee on a depreciating spree, bloodbath on Dalal Street - these are the headlines that have dominated the stock market circuit for two years now.
+
+## Builder called stamp duty promise on Rs 1.6cr property a typo; MahaRERA orders payment
+In one such case, when the homebuyer signed the allotment letter with the builder, he paid Rs 1.6 crore. Based on what was stated in the allotment letter, he understood that the builder would take care of the stamp duty and the registration charges.
+
+## US 30-year Treasury yield hits highest level since 2004 as bond selloff deepens
+
+
+## Record FDI Inflows: India logs $94.53bn in FY 2025-26; PLI push boosts exports, jobs
+India's Foreign Direct Investment soared to an unprecedented $94.53 billion in the fiscal year 2025-26, marking a significant achievement. Between 2014 and 2026, cumulative FDI inflows totaled $843 billion, demonstrating robust growth. Critical to this success were the government's Production Linked
 
 ## CEA flags 3 'near term' headwinds for Indian economy: US ties, energy prices & absence of AI play
 India is currently grappling with a host of challenges tied to its international relations, fluctuating energy prices, and evolving AI technology. V Anantha Nageswaran, the Chief Economic Adviser, highlighted the critical need to bolster manufacturing and attract foreign investments. He pointed out 
@@ -69,44 +81,35 @@ The decline has taken place against the backdrop of the Iran war and its impact 
 ## Gold rate outlook: Will gold prices rise and should you buy?
 Gold price prediction: Immediate support is placed around Rs 1,50,750, followed by the stronger base near Rs 1,50,000. On the upside, Rs 1,51,150–Rs 1,51,550 remains the initial resistance zone, while Rs 1,51,900 becomes the key upside objective.
 
-## Pb Fintech shares slide: Stock extends losses after IRDAI cap proposal; Jefferies still sees upside
-Despite the sharp decline, Jefferies retained its ‘Buy’ rating on PB Fintech, while warning that the proposed changes could have a material negative effect on the company's earnings in the near term.
+## After Chirag, other BJP allies seek EC clarification on 'dissent' row: 'Not to satisfy Oppn, but…’
+The NDA leaders stressed on the need to dispel doubts regarding the electoral process, saying it was the poll body's “responsibility” to do so.
 
-## ‘Not a government issue’: FM Sitharaman explains where UPI MDR charge goes
-Nirmala Sitharaman clarified that there will be no Merchant Discount Rate (MDR) charged by the government on UPI transactions. She reassured consumers that for transactions over Rs 2,000, the MDR will be covered by merchants and banks. According to NPCI’s Dilip Asbe, a significant 75 percent of UPI 
+## More than 80 aircraft, 1,500 personnel to take part in Tarang Shakti
+More than 80 Indian and foreign aircraft, including fighters ranging from the F-35 to the locally produced Tejas light combat aircraft, will participate in Tarang Shakti
 
-## IITs to bar 22 firms from campus hiring for 2 years after 150+ offers unhonoured
-More than 150 offers across 23 IITs are involved in the cases, with some companies withdrawing between 10 and 15 offers, AIPC convenor and IIT-Guwahati associate professor John Jose said.
+## ‘Attacks on civilian shipping simply indefensible’: Jaishankar's strong message at UNGA
+EAM S Jaishankar said India and Liberia had joined hands to draw attention to the safety and security of ships and seafarers.
 
-## Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000
-Dalal Street began trading on a positive note after experiencing a significant decline earlier this week. BSE Sensex opened over 100 points higher, while NSE Nifty traded above 23,000. However, rising crude oil prices are impacting overall market sentiment and limiting gains. Foreign investors have 
+## Willy Naru, first Thai national extradited to India, convicted in arms case
+The 600-page judgment held that evidence including Willy Naru’s meetings, foreign travel and communications established his involvement in alleged arms procurement network
 
-## Top stocks to buy today: Angel One recommends Godrej Agrovet, Caplin Point, Tilaknagar Industries
-Stock market recommendations: Godrej Agrovet, Caplin Point Laboratories, and Tilaknagar Industries are the top stock picks that Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has recommended buying for September 25, 2026.
+## Madras HC restrains media from publishing videos in Veeramani Pocso case
+Madras HC restrains media from publishing or broadcasting explicit videos linked to the Veeramani Pocso case, citing the need to protect child victims.
 
-## BrahMos, AK-203 made in UP giving Pakistan ‘sleepless nights’: Amit Shah in Greater Noida
-Amit Shah said Uttar Pradesh’s growing defence manufacturing sector was transforming the state, pointing to BrahMos missiles and AK-203 rifles.
+## In a first, military surgeons perform eye surgeries in underground OT near LoC
+Military surgeons perform 220 eye surgeries at an underground operating theatre near LoC in J&K under Operation Drishti
 
-## SC to hear after six weeks plea to confiscate property of offenders in paper leak cases
-SC to hear after six weeks plea to confiscate property of offenders in paper leak cases
+## 6 killed, 7 injured as wheat truck rams stationary vehicle in Chhattisgarh
+The accident occurred around 11.30am at Markatola Ghat when members of a dhumal music band were travelling to Jagdalpur from Kabirdham district, police said.
 
-## Hindu College staff body protest intensifies after show-cause notices to 3 professors
-The college’s governing body on September 8 issued show-cause notices to three professors—Ratan Lal, Shankar Kumar and P.K. Vijayan—accusing them of gross misconduct
+## Centre extends Manipur's ‘disturbed area’ status for six more months as violence continues
+The fresh ‘disturbed area’ status of Manipur will take effect from October 2026 and will remain in place for the next six months.
 
-## Why is non-dairy paneer called analogue paneer and not fake paneer?
-To avoid misleading consumers, FSSAI aims to restrict the labelling of non-dairy products as paneer.
+## Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut
+Beijing Eswin Computing Technology will start soliciting orders from institutional and public investors on Monday ahead of its Hong Kong initial public offering (IPO), aiming to raise around US$300 million, according to people familiar with the matter. The Chinese chipmaker had already started gaugi
 
-## HC asks Delhi Police to allot protest venue to bank employees union
-In its petition, the Union sought directions to Centre and the Delhi Police to permit it to hold a peaceful dharna at Jantar Mantar or any other suitable venue in Delhi
-
-## Fraudulent fundraiser Jay Singh Rathore, who fooled X users, arrested in Agra: Police
-The accused, Ajayveer Singh alias Jay Singh Rathore, was arrested based on a complaint that he falsely claimed his 12-year-old sister was unwell.
-
-## What are CJP's three big demands amid ECI-Gyanesh Kumar row?
-CJP founder Abhijeet Dipke, alongside spokespersons Saurav Das and Ashutosh Ranka held a press conference, and listed three big demands.
-
-## 'Fake cops held knife to her neck, took turns': Details of Delhi park gang rape emerge
-The accused snatched the phones of the 17-year-old girl and her friend before pulling her away and sexually assaulting her
+## Why Hong Kong banks have shut down 40% of branches in recent years
+New York may be known as the city that never sleeps, but many Hongkongers like to take care of banking transactions at 2am – a truth that helps explain why 40 per cent of physical branches have disappeared in recent years, according to local bank executives. While the number of Hong Kong licensed ba
 
 ## Asia-Pacific hotels a ‘most compelling’ investment amid travel growth, flat supply: CBRE
 Investor appetite for hotel assets increased in Hong Kong and the wider Asia-Pacific region in the first half of the year as consumers showed growing eagerness to travel and constrained supply supported property values, according to CBRE. The region netted US$8 billion of investment in the period, u
@@ -126,11 +129,14 @@ At least a dozen Chinese banks intend to wind down retail leveraged precious-met
 ## Hong Kong catching up with Dubai in ‘super-prime’ property sales amid Iran war
 Hong Kong has significantly narrowed Dubai’s lead as the world’s top market for “super-prime” residential property in recent months, as rising conflict weighs on activity in the Middle East market, according to Knight Frank. Dubai retained first place for deals involving homes sold for US$10 million
 
-## China’s EV and battery makers tussle over paying resumed lithium-ion tax: sources
-China’s electric vehicle (EV) makers and battery manufacturers are locked in negotiations over which party should pay a resumed consumption tax, according to industry sources, a conflict that underlines carmakers’ struggles amid weak home market demand. Beijing is ending an 11-year exemption on a 4 
+## What Arab Israelis Really Think About Israel’s Election
+Ethnic Arabs could decide Israel's coming election—and its democratic future.
 
-## Blue Bottle bets that Chinese consumers will drink more premium coffee
-US premium coffee brand Blue Bottle Coffee will open its first Beijing store in the capital’s central business district, as it seeks to tap into China’s still growing market for the drink. The California-based brand is taking a spacious unit at China World Mall. The location, currently enclosed by c
+## Venezuela’s Acting Leader Makes Her U.N. Debut
+Delcy Rodríguez played stateswoman in New York—but gave no timeline for elections.
+
+## The Woman Remaking Brazil’s Far Right
+Former first lady Michelle Bolsonaro is playing a key role in her stepson’s presidential campaign.
 
 ## Netanyahu Faces an UNGA Walkout (Again)
 The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.
@@ -146,15 +152,6 @@ Trump should raise the fates of imprisoned dissidents with Xi.
 
 ## Can AI Be Regulated?
 Frontier AI labs are calling for government oversight.
-
-## The Law of the Sea Is in Trouble
-The far right wants to abandon stranded seafarers.
-
-## Thank Goodness Europe Doesn’t Have a Phone Number
-U.S. policymakers like complaining about one of the sources of the European Union’s strength.
-
-## Germany Is Officially Adrift
-The German chancellor’s power is ebbing at home—and the consequences will be global.
 
 ## Cambodian Authorities Investigating Scamming Sites Linked to Sanctioned Tycoons, Senior Official Says
 Phnom Penh is trying to address criticisms that the current anti-scam campaign is more about reputation management than full accountability.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi Arabia allies line up support as Houthi attacks mount
-France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.
+## The Trump-Xi summit exposes a US disadvantage in the Global South
+Washington asks for alignment while Beijing offers strategic flexibility without military entanglement.
 
-## Mamdani plants olive tree with Gaza families
-New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.
+## Jannik Sinner withdraws from China Open as recovery from injury continues
+The 25-year-old Italian has not played since capturing his fifth ​major title at Wimbledon in July due to a knee injury.
 
-## Pope Leo heads to France amid assisted dying, abuse debates
-First papal state visit to country in 18 years comes as church confronts contentious issues.
+## India’s ‘cockroach’ movement demands election chief’s resignation
+Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
 
-## Nepal’s leader labels devastating flood a ‘warning to the world’
-Prime Minister Balendra Shah says world leaders must act on climate change.
+## Israeli official takes notes after UN walkout against Netanyahu
+An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
 
-## Israel’s Abu Farchi sent off for gun celebration in Nations League match
-Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.
+## Fighting in northern Ethiopia spurs fears of blackout and blockade
+Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
 
-## Converging crises, chaos and walkouts dominate UNGA Day Three
-Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.
+## US seeking to revive Russia-Ukraine ceasefire talks
+Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day.
 
-## Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii
-Mexico's southwestern communities brace for Hurricane Polo, while Hawaii faces its third hurricane threat of the year.
+## Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military
+Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray.
 
-## Japan moves to tighten rules for foreigners, throwing futures into doubt
-Tokyo is raising the bar for permanent residency amid a broader rightward shift in the Asian nation's politics.
+## Protests in UK after arrest of far-right activist Daniel Thomas
+Protesters gathered outside a police station in southern England after far-right activist Daniel Thomas.
 
 ## Five-day work week: The larger productivity debate
 Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
