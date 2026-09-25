@@ -1,61 +1,73 @@
 # AION Intelligence
 
-## Brussels pushes Trump to maintain ‘free flow’ of diesel
-Bloc’s energy commissioner warns the continent is already facing its ‘worst winter’ for energy prices since 2022
-
-## The challenge for Burnham: words are no longer enough
-His speech to Labour conference must paradoxically offer more than just a promise of action
-
-## UK graduates paying 50% more of university costs since 2012
-New analysis raises questions over fairest way to split bill for higher education
-
-## Private equity-backed Florida railway Brightline files for bankruptcy
-Orlando-to-Miami route seeking to popularise high-speed rail in US has filed for Chapter 11 to cut nearly $6bn in debt
-
-## Lawyers join microchips on the list of data centre must-haves
-The Oracle dispute suggests there is another risk investors may have overlooked
-
-## Airbus offers divestments to secure Brussels backing for space merger
-European aerospace group is seeking to allay competition concerns over deal with Leonardo and Thales
-
-## Trump is not going to drop Canada
-But Carney is right to act as though his country is at war with its neighbour
-
 ## Houthis promise not to target European ships
 Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years
 
-## Bill Gates warns AI could cause ‘a billion deaths’
-Microsoft billionaire calls for US government intervention after series of AI security incidents
+## Blair’s think-tank offers political access to $25,000-a-year corporate members
+BP, Uber and Amazon are among corporate members of the non-profit’s membership programme, the Global Network for Change
+
+## Northern Ireland allows controversial Protestant parade for first time in 28 years
+Plan to march along largely Catholic Garvaghy Road rekindles community tensions after three decades of peace
+
+## Andy Burnham under pressure to signal shift on Labour’s EU ‘red lines’
+Prime minister’s team taking soundings on whether party should move UK closer to Europe
+
+## Yields up
+Higher real yields will need tighter monetary policy to keep inflation pressures down
+
+## Bond ructions point to new danger zone in markets
+Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system
+
+## Stockpickers: Mortgage Advice Bureau, Luceco, Next
+Our experts discuss which companies to buy, sell or hold this week
+
+## US bond sell-off pushes long-term yields to new post-2004 high
+Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024
+
+## Europe Innovative Lawyers Awards 2026: the winners
+Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals
+
+## Directors’ Deals: AstraZeneca’s Soriot in a major show of faith
+Share price is down after a series of disappointing drug trials
+
+## Bitget crypto exchange hit by $390mn hack
+Company said action was ‘highly consistent’ with methods of North Korean criminals
 
 ## BASF makes takeover approach for chemicals rival Evonik
 Move would be significant step in consolidating Europe’s fragmented chemicals industry
 
-## Bitget crypto exchange hit by $350mn hack
-Company says action was ‘highly consistent’ with methods of North Korean criminals
+## Burnham’s opposition to Heathrow expansion puts third runway in doubt
+New prime minister has been a longstanding critic of the project
 
-## Runwal Enterprises, German Green Steel and Power raise ₹149 crore, ₹91 crore from anchor investors
-German Green Steel and Orient Cables were fully subscribed on Day 1, while Runwal Enterprises and Ace Vector saw a modest response
+## Manchester City found guilty of breaching Premier League rules
+Independent panel finds club guilty on 114 out of 115 charges after a lengthy investigation into financial rule breaches
 
-## West Bengal govt to auction limited parcels to industry associations
-The government has already identified three-four land parcels which would be handed over to industry bodies
+## Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions
+The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme
 
-## PB Fintech put option buyers laughing all the way to the bank
-From mere ₹0.3, the 1,500-put option premium jumps to ₹279.95
+## Trump says he will meet Xi again in November in China
+US and Chinese officials signalled progress on trade talks, while differences over Taiwan, artificial intelligence, semiconductors and rare earths remain
 
-## Another price hike inevitable due to higher input costs: Tata Motors PV MD Shailesh Chandra
-The price hikes till now have not been on a par with the GST 2.0 reductions, he said
+## Trump-Xi summit: China presses for changes on Taiwan and trade
+The two leaders exchanged warm words during a closely watched summit, but major differences over technology, tariffs and Taiwan remained
 
-## NHA to open 13 crore PM-JAY patients data for research
-The National Health Authority said it is also expanding the use of automated claim adjudication under PM-JAY
+## Zee seeks contempt proceedings against JioStar over alleged copyright violations
+The latest filing escalates a copyright dispute between the companies, with Zee citing six instances of alleged continued content use
 
-## Carlyle completes strategic majority stake acquisition in Nido Home Finance
-Infuses ₹1,450 crore primary capital; buys 45% from Edelweiss for about ₹600 crore; Nido net worth seen at ₹2,300 crore in 18 months
+## BSE cautions investors as international ETFs trade at steep premiums to NAV
+Limited overseas investment capacity has restricted creation of new units, potentially widening the gap between ETF prices and underlying asset values
 
-## Suzuki bets on smaller-battery REEVs as India emerges key battleground
-The company plans to add external charging capability and a “right-sized” battery to create what it calls REEV Light
+## India-US trade deal 90 per cent complete, final details being worked out: US official
+Final discussions are focused on competitive market access, with both sides working towards executing the bilateral trade agreement soon
 
-## Tamil Nadu likely to receive normal N-E monsoon rainfall: TNAU
-Seasonal rainfall forecast at 468 mm; coastal districts may see intense wet spells
+## India’s forex reserves decline $14.88 billion to $765.90 billion: RBI
+Foreign currency assets accounted for almost the entire weekly decline, while higher gold reserves provided a marginal offset to the fall
+
+## India’s private capex estimated at ₹3.2 lakh crore in 2026-27: RBI
+Projects financed through banks, financial institutions, ECBs and IPOs point to continued private investment, although global uncertainties could temper sentiment
+
+## Repaid Rs 1.41 crore loan, but bank lost property papers; couple wins Rs 15.5 lakh
+After examining the material placed before it, the commission concluded that the original property papers had been lost while they were in the bank's custody.
 
 ## Govt denies five-day banking: Govt says no commitment; unions press strike from Sept 28
 
@@ -78,32 +90,29 @@ India is currently grappling with a host of challenges tied to its international
 ## India loses 6.2 million LPG customers in months as Iran war hits Gulf supplies
 The decline has taken place against the backdrop of the Iran war and its impact on LPG availability from the Gulf region. Before the war, the region accounted for around 90% of India's LPG imports.
 
-## Gold rate outlook: Will gold prices rise and should you buy?
-Gold price prediction: Immediate support is placed around Rs 1,50,750, followed by the stronger base near Rs 1,50,000. On the upside, Rs 1,51,150–Rs 1,51,550 remains the initial resistance zone, while Rs 1,51,900 becomes the key upside objective.
+## Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts
+Incessant heavy rain lashed several parts of Chhattisgarh on Friday, triggering flooding, waterlogging and disruption across the state
 
-## After Chirag, other BJP allies seek EC clarification on 'dissent' row: 'Not to satisfy Oppn, but…’
-The NDA leaders stressed on the need to dispel doubts regarding the electoral process, saying it was the poll body's “responsibility” to do so.
+## Royal Bengal tiger cub rescued from house in Odisha’s Mayurbhanj
+A seven- to eight-month-old tiger cub took shelter in an empty house in Mayurbhanj after heavy rain drove it out of the forest.
 
-## More than 80 aircraft, 1,500 personnel to take part in Tarang Shakti
-More than 80 Indian and foreign aircraft, including fighters ranging from the F-35 to the locally produced Tejas light combat aircraft, will participate in Tarang Shakti
+## SC reserves order on Sambhal Jama Masjid survey; 1991 Act cited in plea
+The Supreme Court reserved its decision on a mosque survey petition, amid ongoing disputes over religious site ownership and legal protections under the 1991 Act.
 
-## ‘Attacks on civilian shipping simply indefensible’: Jaishankar's strong message at UNGA
-EAM S Jaishankar said India and Liberia had joined hands to draw attention to the safety and security of ships and seafarers.
+## Locked mobile phone, parents at crime branch office for 8 hours: IIT Bombay suicide probe so far
+The Crime Branch has so far recorded statements of 20 persons in connection with the case which renewed the attention on student suicides.
 
-## Willy Naru, first Thai national extradited to India, convicted in arms case
-The 600-page judgment held that evidence including Willy Naru’s meetings, foreign travel and communications established his involvement in alleged arms procurement network
+## India, Liberia launch UN shipping safety group; Jaishankar urges action against attacks on seafarers
+The grouping, known as the 'Group of Friends on Safety and Security of Shipping and Seafarers', met on the sidelines of the UNGA’s High Level Week in New York.
 
-## Madras HC restrains media from publishing videos in Veeramani Pocso case
-Madras HC restrains media from publishing or broadcasting explicit videos linked to the Veeramani Pocso case, citing the need to protect child victims.
+## Banks advise customers to complete essential transactions ahead of 3-day strike from September 28
+Banks advise customers to complete essential transactions ahead of 3-day strike
 
-## In a first, military surgeons perform eye surgeries in underground OT near LoC
-Military surgeons perform 220 eye surgeries at an underground operating theatre near LoC in J&K under Operation Drishti
+## Airbus detects surface coating issue with A321neo fuselage, some IndiGo planes impacted: Report
+IndiGo and Air India operate A321neo aircraft. Together, they have around 190 such planes.
 
-## 6 killed, 7 injured as wheat truck rams stationary vehicle in Chhattisgarh
-The accident occurred around 11.30am at Markatola Ghat when members of a dhumal music band were travelling to Jagdalpur from Kabirdham district, police said.
-
-## Centre extends Manipur's ‘disturbed area’ status for six more months as violence continues
-The fresh ‘disturbed area’ status of Manipur will take effect from October 2026 and will remain in place for the next six months.
+## Amid row over declaration by voters, EC officials say 2.37 crore new electors added in 18-28 age group
+The Election Commission has made it mandatory to attach SIR details of parents for new voters filling Form 6 for inclusion in the electoral rolls .
 
 ## Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut
 Beijing Eswin Computing Technology will start soliciting orders from institutional and public investors on Monday ahead of its Hong Kong initial public offering (IPO), aiming to raise around US$300 million, according to people familiar with the matter. The Chinese chipmaker had already started gaugi
@@ -129,6 +138,18 @@ At least a dozen Chinese banks intend to wind down retail leveraged precious-met
 ## Hong Kong catching up with Dubai in ‘super-prime’ property sales amid Iran war
 Hong Kong has significantly narrowed Dubai’s lead as the world’s top market for “super-prime” residential property in recent months, as rising conflict weighs on activity in the Middle East market, according to Knight Frank. Dubai retained first place for deals involving homes sold for US$10 million
 
+## The Twilight of the Francis Fukuyama Era
+The famous thinker’s new memoir reveals a fateful political and intellectual blind spot.
+
+## Big Tech Is Destroying Democracy. Here’s How to Fight Back.
+A conversation with Nobel laureate Maria Ressa.
+
+## Gulf States Are Hedging and Suffering
+Neither appealing to Washington nor diversifying security partners nor back-channeling with Tehran is insulating the region from the consequences of war.
+
+## The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks
+Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.
+
 ## What Arab Israelis Really Think About Israel’s Election
 Ethnic Arabs could decide Israel's coming election—and its democratic future.
 
@@ -141,41 +162,29 @@ Former first lady Michelle Bolsonaro is playing a key role in her stepson’s pr
 ## Netanyahu Faces an UNGA Walkout (Again)
 The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.
 
-## Trump and Xi Talked a Lot but Accomplished Little
-The White House summit concluded with much fanfare but few breakthroughs.
+## Pakistan’s Punitive Gamble in Afghanistan: An Open War With No End in Sight
+The Afghan Taliban have little incentive to accede to Islamabad’s demands.
 
-## Saudi Arabia Bribed the Wrong People
-Riyadh’s bet on Trumpism has failed.
+## Trump-Xi Summit: Heavy of Vibes, Light on Substance
+Good feelings were on display, but there was no real movement on the many areas of friction.
 
-## China’s Human Rights Crisis Hasn’t Disappeared
-Trump should raise the fates of imprisoned dissidents with Xi.
+## The Promises the Afghanistan War Left Behind
+Five years after the U.S. withdrawal from Afghanistan, the relationships built over 20 years of war still matter.
 
-## Can AI Be Regulated?
-Frontier AI labs are calling for government oversight.
+## What’s Behind Australia’s New $42 Million in Assistance to Ukraine?
+Canberra’s desire to learn from Kyiv is a sign of enormous respect and its pledge to ongoing support an expression of Australia's support for the Ukrainian cause.
+
+## Bangladesh’s Youth-led NCP Struggles for an Independent Identity in Jamaat’s Shadow
+As part of a Jamaat-led alliance, the NCP secured a place in parliament. However, it needs to prove it is an independent force.
+
+## Thailand’s Independent Institutions Have Lost All Credibility
+The institutions created by the “People’s Constitution” of 1997 have become tools of the country's political and economic elite.
+
+## Vietnam, Canada Announce Establishment of Strategic Partnership
+As middle powers reliant on international order that is in a state of disarray, Hanoi and Ottawa believe they have a lot to gain from deeper collaboration.
 
 ## Cambodian Authorities Investigating Scamming Sites Linked to Sanctioned Tycoons, Senior Official Says
 Phnom Penh is trying to address criticisms that the current anti-scam campaign is more about reputation management than full accountability.
-
-## Can a Network of Miniature Sponge Cities Help Central Asia Curb Climate Change?
-In lieu of decisive regulatory action and funding, much of the work of adapting to new climate realities falls on individual gardeners and cooperatives.
-
-## The Story of Bhutan’s UN Membership
-55 years ago, Bhutan joined the United Nations – with a rare show of support from bitter rivals.
-
-## Who Is Indigenous? The Politics of Tribal Identity Terminology in India and Bangladesh
-Tribal people in South Asia prefer being called adivasi or original inhabitants, but nationalist forces in India and Bangladesh oppose it for different reasons.
-
-## India’s Semiconductor Journey: Old Designer, New Producer
-India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.
-
-## Constitutional Reform as the Lee Jae-myung Administration’s Political Watershed
-South Koreans have long discussed changing the way the presidency is set up. Should it – and can it – happen now?
-
-## Takaichi’s Pre-emptive Diplomacy: What Japan Needs From the Trump-Xi Summit
-Prime Minister Takaichi made Tokyo’s concerns clear to Trump before Xi Jinping arrived in Washington. Will that actually impact the summit?
-
-## Grand Strategic Compatibility: The Basis of The Japan-Vietnam Partnership
-The quick pace of reconciliation between Tokyo and Hanoi since the end of the Cold War has reflected the compatibility of their respective grand strategies.
 
 ## Tracing the Future Soldier’s Tech Stack
 Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the “future soldier,” you’d likely picture the genetically engineered super soldiers that have captivated — and horrified — audiences for decades. Soldiers have been depicted as being engi
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The Trump-Xi summit exposes a US disadvantage in the Global South
-Washington asks for alignment while Beijing offers strategic flexibility without military entanglement.
+## Iraqi airports halt Iranian flights after new US aviation sanctions
+Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector.
 
-## Jannik Sinner withdraws from China Open as recovery from injury continues
-The 25-year-old Italian has not played since capturing his fifth ​major title at Wimbledon in July due to a knee injury.
+## India’s Cockroach movement joins opposition push to oust election chief
+India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.
 
-## India’s ‘cockroach’ movement demands election chief’s resignation
-Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
+## Families fleeing Yemen’s war face displacement, hunger and water shortages
+Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.
 
-## Israeli official takes notes after UN walkout against Netanyahu
-An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
+## Poland boosts air defence after ‘Russian provocations’ amid Ukraine war
+Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.
 
-## Fighting in northern Ethiopia spurs fears of blackout and blockade
-Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
+## US top court allows Trump to use controversial voter verification system
+Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
 
-## US seeking to revive Russia-Ukraine ceasefire talks
-Ukraine's president added that eight regions have come under attack by Russian forces since the start of the day.
+## Lebanese in Brazil, Brazilian in Lebanon
+Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.
 
-## Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military
-Fighting has intensified between Ethiopia’s military and a new rebel alliance in Tigray.
+## Al Jazeera rejects Netanyahu’s attack on journalists in UN speech
+Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.
 
-## Protests in UK after arrest of far-right activist Daniel Thomas
-Protesters gathered outside a police station in southern England after far-right activist Daniel Thomas.
+## Timeline: Man City’s Premier League financial charges to reported verdict
+City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.
 
 ## Five-day work week: The larger productivity debate
 Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
