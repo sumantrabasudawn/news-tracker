@@ -1,31 +1,34 @@
 # AION Intelligence
 
+## OpenAI says governments among ‘dozens’ of organisations hacked by its agents
+Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears
+
+## Walmart chief rules out personalised pricing as AI transforms retail
+Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity
+
+## Iran offers US new seven-day ceasefire proposal
+Foreign minister says plan could see Strait of Hormuz reopen within a week
+
 ## Houthis promise not to target European ships
 Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years
+
+## US bond sell-off pushes long-term yields to highest since 2004
+Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024
+
+## Blackstone’s top private equity executive prepares exit for possible public service move
+Joseph Baratta, one of the company’s best-paid employees, plans to leave the group after almost three decades
+
+## Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say
+Rising borrowing costs so far show no sign of putting a brake on activity in world’s biggest economy
 
 ## Blair’s think-tank offers political access to $25,000-a-year corporate members
 BP, Uber and Amazon are among corporate members of the non-profit’s membership programme, the Global Network for Change
 
-## Northern Ireland allows controversial Protestant parade for first time in 28 years
-Plan to march along largely Catholic Garvaghy Road rekindles community tensions after three decades of peace
-
-## Andy Burnham under pressure to signal shift on Labour’s EU ‘red lines’
-Prime minister’s team taking soundings on whether party should move UK closer to Europe
-
-## Yields up
-Higher real yields will need tighter monetary policy to keep inflation pressures down
-
-## Bond ructions point to new danger zone in markets
-Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system
+## Europe Innovative Lawyers Awards 2026: the winners
+Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals
 
 ## Stockpickers: Mortgage Advice Bureau, Luceco, Next
 Our experts discuss which companies to buy, sell or hold this week
-
-## US bond sell-off pushes long-term yields to new post-2004 high
-Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024
-
-## Europe Innovative Lawyers Awards 2026: the winners
-Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals
 
 ## Directors’ Deals: AstraZeneca’s Soriot in a major show of faith
 Share price is down after a series of disappointing drug trials
@@ -38,9 +41,6 @@ Move would be significant step in consolidating Europe’s fragmented chemicals 
 
 ## Burnham’s opposition to Heathrow expansion puts third runway in doubt
 New prime minister has been a longstanding critic of the project
-
-## Manchester City found guilty of breaching Premier League rules
-Independent panel finds club guilty on 114 out of 115 charges after a lengthy investigation into financial rule breaches
 
 ## Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions
 The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme
@@ -66,29 +66,29 @@ Foreign currency assets accounted for almost the entire weekly decline, while hi
 ## India’s private capex estimated at ₹3.2 lakh crore in 2026-27: RBI
 Projects financed through banks, financial institutions, ECBs and IPOs point to continued private investment, although global uncertainties could temper sentiment
 
-## Repaid Rs 1.41 crore loan, but bank lost property papers; couple wins Rs 15.5 lakh
-After examining the material placed before it, the commission concluded that the original property papers had been lost while they were in the bank's custody.
-
-## Govt denies five-day banking: Govt says no commitment; unions press strike from Sept 28
+## Self-listing of bourses feasible, says NSE chief
 
 
-## Why has Sensex not hit a new closing high in two years?
-Foreign investors take out record money, rupee on a depreciating spree, bloodbath on Dalal Street - these are the headlines that have dominated the stock market circuit for two years now.
-
-## Builder called stamp duty promise on Rs 1.6cr property a typo; MahaRERA orders payment
-In one such case, when the homebuyer signed the allotment letter with the builder, he paid Rs 1.6 crore. Based on what was stated in the allotment letter, he understood that the builder would take care of the stamp duty and the registration charges.
-
-## US 30-year Treasury yield hits highest level since 2004 as bond selloff deepens
+## Indian economy doing well amid global headwinds, says RBI
 
 
-## Record FDI Inflows: India logs $94.53bn in FY 2025-26; PLI push boosts exports, jobs
-India's Foreign Direct Investment soared to an unprecedented $94.53 billion in the fiscal year 2025-26, marking a significant achievement. Between 2014 and 2026, cumulative FDI inflows totaled $843 billion, demonstrating robust growth. Critical to this success were the government's Production Linked
+## Ties with US in 'uneasy equilibrium': CEA
 
-## CEA flags 3 'near term' headwinds for Indian economy: US ties, energy prices & absence of AI play
-India is currently grappling with a host of challenges tied to its international relations, fluctuating energy prices, and evolving AI technology. V Anantha Nageswaran, the Chief Economic Adviser, highlighted the critical need to bolster manufacturing and attract foreign investments. He pointed out 
 
-## India loses 6.2 million LPG customers in months as Iran war hits Gulf supplies
-The decline has taken place against the backdrop of the Iran war and its impact on LPG availability from the Gulf region. Before the war, the region accounted for around 90% of India's LPG imports.
+## No extra time for realising export proceeds
+
+
+## India may sign new investment pact with Australia & Canada
+
+
+## Festive sales: Cos paying retention bonus to workers
+
+
+## Centre to borrow nearly Rs 7.9 lakh cr in Oct-March
+
+
+## Forex reserves decline by $15bn to $766bn
+
 
 ## Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts
 Incessant heavy rain lashed several parts of Chhattisgarh on Friday, triggering flooding, waterlogging and disruption across the state
@@ -138,6 +138,15 @@ At least a dozen Chinese banks intend to wind down retail leveraged precious-met
 ## Hong Kong catching up with Dubai in ‘super-prime’ property sales amid Iran war
 Hong Kong has significantly narrowed Dubai’s lead as the world’s top market for “super-prime” residential property in recent months, as rising conflict weighs on activity in the Middle East market, according to Knight Frank. Dubai retained first place for deals involving homes sold for US$10 million
 
+## Ethiopia Returns to Civil War
+The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
+
+## 6 Russian Words for a Country Sliding Into Authoritarianism
+How ordinary people describe power, repression, absurdity, and life under Putin.
+
+## ‘Furious’ Is an Angry Show for the World of Epstein and Trump
+A tumultuous TV thriller delves into damage and revenge.
+
 ## The Twilight of the Francis Fukuyama Era
 The famous thinker’s new memoir reveals a fateful political and intellectual blind spot.
 
@@ -152,15 +161,6 @@ Congress should add extra safeguards to prevent Riyadh from obtaining nuclear we
 
 ## What Arab Israelis Really Think About Israel’s Election
 Ethnic Arabs could decide Israel's coming election—and its democratic future.
-
-## Venezuela’s Acting Leader Makes Her U.N. Debut
-Delcy Rodríguez played stateswoman in New York—but gave no timeline for elections.
-
-## The Woman Remaking Brazil’s Far Right
-Former first lady Michelle Bolsonaro is playing a key role in her stepson’s presidential campaign.
-
-## Netanyahu Faces an UNGA Walkout (Again)
-The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.
 
 ## Pakistan’s Punitive Gamble in Afghanistan: An Open War With No End in Sight
 The Afghan Taliban have little incentive to accede to Islamabad’s demands.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraqi airports halt Iranian flights after new US aviation sanctions
-Baghdad, Najaf, Erbil and Sulaimaniyah airports suspend flights as US ramps up pressure on Iran's aviation sector.
+## Netanyahu calls Al Jazeera a ‘toxic media outlet’
+Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
 
-## India’s Cockroach movement joins opposition push to oust election chief
-India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.
+## Mbappe goal overshadowed by knee injury to mar Zidane debut France win
+Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.
 
-## Families fleeing Yemen’s war face displacement, hunger and water shortages
-Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.
+## What would a US diesel export ban mean for global fuel prices?
+Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
 
-## Poland boosts air defence after ‘Russian provocations’ amid Ukraine war
-Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.
+## Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome
+Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.
 
-## US top court allows Trump to use controversial voter verification system
-Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
+## Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN
+Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.
 
-## Lebanese in Brazil, Brazilian in Lebanon
-Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.
+## Manchester City reportedly found guilty of almost 115 financial charges
+Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing.
 
-## Al Jazeera rejects Netanyahu’s attack on journalists in UN speech
-Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.
+## Huge fire on vehicle ferry off Mykonos prompts mass evacuation
+A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency
 
-## Timeline: Man City’s Premier League financial charges to reported verdict
-City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.
+## Afghan taxi drivers defy the Taliban’s music ban
+Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban.
 
 ## Five-day work week: The larger productivity debate
 Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
