@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Brazil’s Lula to ban online gambling before election
+Leftwing president moves to prohibit fixed-odds sports betting and digital casinos, which have exploded in popularity
+
+## Cape Town offers best-value winter sun for UK tourists, despite strength of rand
+New survey puts South African city ahead of 24 other short- and long-haul destinations
+
+## UK parents charge adult children £300 a month to live at home
+Many in the ‘boomerang’ cohort are saving for a property deposit
+
 ## OpenAI says governments among ‘dozens’ of organisations hacked by its agents
 Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears
 
@@ -18,12 +27,6 @@ Investors ‘don’t want to hold risk going into the weekend’, said one inves
 ## Blackstone’s top private equity executive prepares exit for possible public service move
 Joseph Baratta, one of the company’s best-paid employees, plans to leave the group after almost three decades
 
-## Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say
-Rising borrowing costs so far show no sign of putting a brake on activity in world’s biggest economy
-
-## Blair’s think-tank offers political access to $25,000-a-year corporate members
-BP, Uber and Amazon are among corporate members of the non-profit’s membership programme, the Global Network for Change
-
 ## Europe Innovative Lawyers Awards 2026: the winners
 Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals
 
@@ -32,15 +35,6 @@ Our experts discuss which companies to buy, sell or hold this week
 
 ## Directors’ Deals: AstraZeneca’s Soriot in a major show of faith
 Share price is down after a series of disappointing drug trials
-
-## Bitget crypto exchange hit by $390mn hack
-Company said action was ‘highly consistent’ with methods of North Korean criminals
-
-## BASF makes takeover approach for chemicals rival Evonik
-Move would be significant step in consolidating Europe’s fragmented chemicals industry
-
-## Burnham’s opposition to Heathrow expansion puts third runway in doubt
-New prime minister has been a longstanding critic of the project
 
 ## Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions
 The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme
@@ -90,6 +84,9 @@ Projects financed through banks, financial institutions, ECBs and IPOs point to 
 ## Forex reserves decline by $15bn to $766bn
 
 
+## Super El Nino report: Co-author explains methodology behind '451,000 excess deaths' estimate
+Super El Nino report: Co-author explains methodology behind '451,000 excess deaths' estimate
+
 ## Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts
 Incessant heavy rain lashed several parts of Chhattisgarh on Friday, triggering flooding, waterlogging and disruption across the state
 
@@ -111,8 +108,8 @@ Banks advise customers to complete essential transactions ahead of 3-day strike
 ## Airbus detects surface coating issue with A321neo fuselage, some IndiGo planes impacted: Report
 IndiGo and Air India operate A321neo aircraft. Together, they have around 190 such planes.
 
-## Amid row over declaration by voters, EC officials say 2.37 crore new electors added in 18-28 age group
-The Election Commission has made it mandatory to attach SIR details of parents for new voters filling Form 6 for inclusion in the electoral rolls .
+## China’s biotech firms move up value chain as drug deals evolve beyond licensing: analysts
+Chinese biotech deal making is moving beyond the licensing of individual drug candidates, as the country transforms from a follower to a global innovation leader, according to analysts. The latest transaction underscores that shift. Beijing-based cancer drug developer InnoCare Pharma said on Thursda
 
 ## Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut
 Beijing Eswin Computing Technology will start soliciting orders from institutional and public investors on Monday ahead of its Hong Kong initial public offering (IPO), aiming to raise around US$300 million, according to people familiar with the matter. The Chinese chipmaker had already started gaugi
@@ -134,9 +131,6 @@ After Morgan Stanley’s leak of internal deal information in a client email, ri
 
 ## Shanghai Gold Exchange pushes more Chinese banks to end retail leverage trading
 At least a dozen Chinese banks intend to wind down retail leveraged precious-metals trading – a practice in which everyday investors post margin deposits to speculate on gold and silver contracts without owning the physical metal. The retreat comes amid sharp swings in international gold prices. Sou
-
-## Hong Kong catching up with Dubai in ‘super-prime’ property sales amid Iran war
-Hong Kong has significantly narrowed Dubai’s lead as the world’s top market for “super-prime” residential property in recent months, as rising conflict weighs on activity in the Middle East market, according to Knight Frank. Dubai retained first place for deals involving homes sold for US$10 million
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -162,29 +156,29 @@ Congress should add extra safeguards to prevent Riyadh from obtaining nuclear we
 ## What Arab Israelis Really Think About Israel’s Election
 Ethnic Arabs could decide Israel's coming election—and its democratic future.
 
-## Pakistan’s Punitive Gamble in Afghanistan: An Open War With No End in Sight
-The Afghan Taliban have little incentive to accede to Islamabad’s demands.
+## Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?
+Data centers, the Sovereign Wealth Fund, and a hydropower plant – will any of it better the lives of Mongolian people?
 
-## Trump-Xi Summit: Heavy of Vibes, Light on Substance
-Good feelings were on display, but there was no real movement on the many areas of friction.
+## China’s Visibility Gap Around the Trump-Xi Summit
+Xi’s U.S. visit was extensively covered by official outlets. It's much harder to gauge public opinion or even interest.
 
-## The Promises the Afghanistan War Left Behind
-Five years after the U.S. withdrawal from Afghanistan, the relationships built over 20 years of war still matter.
+## From Idols to KOICA: South Korea’s Disaster Support for Nepal
+Pop star donations and state aid work together to give Seoul a durable bond with Nepal.
 
-## What’s Behind Australia’s New $42 Million in Assistance to Ukraine?
-Canberra’s desire to learn from Kyiv is a sign of enormous respect and its pledge to ongoing support an expression of Australia's support for the Ukrainian cause.
+## What Lies Behind the Rise in Anti-Israel Sentiment in Thailand?
+Nationalist rabble-rousers have accused Israelis of trying to seize Thai territory, and Israeli tourists of misbehaving or disrespecting the country's culture.
 
-## Bangladesh’s Youth-led NCP Struggles for an Independent Identity in Jamaat’s Shadow
-As part of a Jamaat-led alliance, the NCP secured a place in parliament. However, it needs to prove it is an independent force.
+## North Korea’s Ukraine POWs Are Now in South Korea. What Comes Next?
+Both the South Korean government and the two former soldiers face an unprecedented resettlement process.
 
-## Thailand’s Independent Institutions Have Lost All Credibility
-The institutions created by the “People’s Constitution” of 1997 have become tools of the country's political and economic elite.
+## The Militarization of Outer Space: Chinese Infrastructure in the Global South
+Projects developed within bilateral frameworks could form an international infrastructure that provides China with operational advantages in space.
 
-## Vietnam, Canada Announce Establishment of Strategic Partnership
-As middle powers reliant on international order that is in a state of disarray, Hanoi and Ottawa believe they have a lot to gain from deeper collaboration.
+## Taiwan Isn’t Giving Up, It’s Pulling Apart
+Rising passivity in Taiwan doesn’t mean Taiwanese have given up on resisting. It means the conditions for political action are eroding.
 
-## Cambodian Authorities Investigating Scamming Sites Linked to Sanctioned Tycoons, Senior Official Says
-Phnom Penh is trying to address criticisms that the current anti-scam campaign is more about reputation management than full accountability.
+## ‘Xi, You’re Not Welcome’: As Trump Hosts China’s Leader, Thousands Protest in Washington
+Over 3,000 Tibetans, Chinese dissidents, Uyghurs, Hong Kongers, and other groups joined protests during Xi’s state visit, calling for human rights and political freedom.
 
 ## Tracing the Future Soldier’s Tech Stack
 Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the “future soldier,” you’d likely picture the genetically engineered super soldiers that have captivated — and horrified — audiences for decades. Soldiers have been depicted as being engi
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pro-Imran Khan rally delayed amid government closures
+Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.
+
+## Iran war live: Tehran offers US plan to reopen Hormuz within seven days
+Iran's FM says the "choice rests with the US" to approve the proposed seven-day proposal to reopen Hormuz.
+
+## US court rules against Kalshi, says states can regulate prediction markets
+US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.
+
+## Iran says it awaits US response on seven-day roadmap to end war
+Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.
+
+## Pope Leo XIV warns AI could undermine humanity during France visit
+Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.
+
+## Iran to reopen Strait of Hormuz within a week if US agrees to plan
+Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them
+
+## DR Congo’s Ebola outbreak spreads to two new health zones, WHO says
+Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.
+
 ## Netanyahu calls Al Jazeera a ‘toxic media outlet’
 Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
-
-## Mbappe goal overshadowed by knee injury to mar Zidane debut France win
-Kylian Mbappe scores the only goal of France's win in Turkiye, but Real Madrid striker immediately forced off by injury.
-
-## What would a US diesel export ban mean for global fuel prices?
-Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
-
-## Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome
-Belgium win 2-0 in Italy as Nations League opener is played out in front of nearly half empty Stadio Olimpico.
-
-## Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN
-Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.
-
-## Manchester City reportedly found guilty of almost 115 financial charges
-Manchester City have reportedly been found guilty of almost all 115 financial misconduct charges they were facing.
-
-## Huge fire on vehicle ferry off Mykonos prompts mass evacuation
-A fire erupted aboard the vehicle ferry Blue Carrier 2 north of the Greek island of Mykonos, prompting a major emergency
-
-## Afghan taxi drivers defy the Taliban’s music ban
-Afghan taxi drivers are playing music in their cars despite it being banned by the Taliban.
 
 ## Five-day work week: The larger productivity debate
 Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
