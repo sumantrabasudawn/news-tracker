@@ -1,64 +1,64 @@
 # AION Intelligence
 
-## Brazil’s Lula to ban online gambling before election
-Leftwing president moves to prohibit fixed-odds sports betting and digital casinos, which have exploded in popularity
+## The ‘7 Up’ series: didactic social history as masterpiece
+This vivid and complex account of life as it is lived has proved to be one of the great happy accidents of television
 
-## Cape Town offers best-value winter sun for UK tourists, despite strength of rand
-New survey puts South African city ahead of 24 other short- and long-haul destinations
+## Whitbread acts out the UK’s growth challenge in miniature
+If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too
 
-## UK parents charge adult children £300 a month to live at home
-Many in the ‘boomerang’ cohort are saving for a property deposit
+## The climate doom-mongers now dread sovereign debt blowouts
+The same people are gnashing the same teeth and making the same arguments
 
-## OpenAI says governments among ‘dozens’ of organisations hacked by its agents
-Company says its models leaked images shared by users in a disclosure that is likely to further inflame AI safety fears
+## Are you the ‘digital PA’ for your parents?
+Banks and businesses must do more to support older customers
 
-## Walmart chief rules out personalised pricing as AI transforms retail
-Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity
+## Business urges John Healey to show restraint on raising UK minimum wage
+Companies warn that a steep rise in labour costs will fuel inflation and cut jobs for young people
 
-## Iran offers US new seven-day ceasefire proposal
-Foreign minister says plan could see Strait of Hormuz reopen within a week
+## EU turns to Norway and Canada for space launch sites
+Space commissioner is touring potential locations for launchers as the bloc tries to boost its satellite capabilities
 
-## Houthis promise not to target European ships
-Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years
+## Medicines run short in Iran under US sanctions
+Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult
 
-## US bond sell-off pushes long-term yields to highest since 2004
-Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024
+## Scandal and succession in the House of Bolsonaro
+Jair Bolsonaro is imprisoned for plotting a coup, leaving his eldest son to run against his old rival. Could Brazil’s first family of the radical right be on the verge of a comeback?
 
-## Blackstone’s top private equity executive prepares exit for possible public service move
-Joseph Baratta, one of the company’s best-paid employees, plans to leave the group after almost three decades
+## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
+Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
 
-## Europe Innovative Lawyers Awards 2026: the winners
-Awards highlights include: restructuring, unlocking capital, digital strategy and pro bono. Plus the most innovative law firms and individuals
+## Cyber security stocks are pumped up on P(doom)
+Besieged by growing cyber threats, organisations are hurling money at the problem
 
-## Stockpickers: Mortgage Advice Bureau, Luceco, Next
-Our experts discuss which companies to buy, sell or hold this week
+## Tourist taxes on the march
+Governments see a revenue raiser that doesn’t annoy voters and a way to manage the tourist hordes. The leisure industry isn’t so keen
 
-## Directors’ Deals: AstraZeneca’s Soriot in a major show of faith
-Share price is down after a series of disappointing drug trials
+## Starbucks to shut down around 250 stores in US
+Affected stores either have not delivered the customer and employee experience the company wants or are not financially viable, Starbucks says
 
-## Iran offers to reopen Strait of Hormuz in 7 days if US lifts blockade, waives sanctions
-The proposal comes amid renewed diplomatic contacts, continued tensions over shipping routes, oil markets, Lebanon and Iran’s nuclear programme
+## Keralam’s capital expenditure low, committed expenditure high: CM Satheesan
+The CM says that around 80% of the revenue received by the state went towards committed expenditure, including salaries, pensions and interest on loans
 
-## Trump says he will meet Xi again in November in China
-US and Chinese officials signalled progress on trade talks, while differences over Taiwan, artificial intelligence, semiconductors and rare earths remain
+## Amit Shah likely to visit Mizoram on October 5
+The home minister is expected to inaugurate various projects, including those under the state cooperation department during his visit
 
-## Trump-Xi summit: China presses for changes on Taiwan and trade
-The two leaders exchanged warm words during a closely watched summit, but major differences over technology, tariffs and Taiwan remained
+## Karnataka aims to eliminate preventable maternal deaths, says minister
+A dedicated state-level unit for preventing maternal deaths would be established, with a designated officer to coordinate and monitor focused interventions across the state
 
-## Zee seeks contempt proceedings against JioStar over alleged copyright violations
-The latest filing escalates a copyright dispute between the companies, with Zee citing six instances of alleged continued content use
+## Punjab emerging as major industrial hub, attracted ₹1.89 lakh cr investment in 4 years: Mann
+This generates employment potential for 6.31 lakh youth and is driving industrial growth beyond traditional centres
 
-## BSE cautions investors as international ETFs trade at steep premiums to NAV
-Limited overseas investment capacity has restricted creation of new units, potentially widening the gap between ETF prices and underlying asset values
+## Saudi says it intercepted 2 drones launched by Houthis towards Riyadh
+The Saudi civil defence had sent alerts overnight for Khamis Mushait ​and Abha ‌but not for the capital
 
-## India-US trade deal 90 per cent complete, final details being worked out: US official
-Final discussions are focused on competitive market access, with both sides working towards executing the bilateral trade agreement soon
+## Taiwan’s status explained: What China, the US and Taiwan say about independence
+The Taiwan question has roots in history, competing governments and decades of differing positions over sovereignty, independence and reunification
 
-## India’s forex reserves decline $14.88 billion to $765.90 billion: RBI
-Foreign currency assets accounted for almost the entire weekly decline, while higher gold reserves provided a marginal offset to the fall
+## NABARD sanctions ₹195-crore loan to boost fisheries infrastructure in Bihar's Siwan
+The initiative aims to boost fish production, strengthen the fisheries value chain and improve the incomes and livelihoods of fish farmers, cooperatives, self-help groups and rural youth
 
-## India’s private capex estimated at ₹3.2 lakh crore in 2026-27: RBI
-Projects financed through banks, financial institutions, ECBs and IPOs point to continued private investment, although global uncertainties could temper sentiment
+## Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist
+Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, alongside escalating worries about Saudi oil supply. Brent crude fell to $104.30 a barrel, while West Texas Intermediate decreased to $92.41. With negotiators examining the reopening of the Strait of Hormuz for sanction r
 
 ## Self-listing of bourses feasible, says NSE chief
 
@@ -81,32 +81,29 @@ Projects financed through banks, financial institutions, ECBs and IPOs point to 
 ## Centre to borrow nearly Rs 7.9 lakh cr in Oct-March
 
 
-## Forex reserves decline by $15bn to $766bn
+## Petition in Supreme Court targets CEC over electoral roll disputes and audit demands
+It seeks to preserve key databases and logs amidst claims of internal dissent among election commissioners.
 
+## Men doing household chores, AI's impact: Andhra's edu reforms erase gender stereotypes, focus on tech
+Men doing household chores, AI's impact: Andhra's edu reforms erase gender stereotypes, focus on tech
 
-## Super El Nino report: Co-author explains methodology behind '451,000 excess deaths' estimate
-Super El Nino report: Co-author explains methodology behind '451,000 excess deaths' estimate
+## Delhi-NCR rain alert as IMD forecasts thunderstorms, gusty winds this weekend
+Delhi-NCR is likely to receive rain, thunderstorms and gusty winds on Saturday and Sunday as a depression over central India moves towards Uttar Pradesh.
 
-## Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts
-Incessant heavy rain lashed several parts of Chhattisgarh on Friday, triggering flooding, waterlogging and disruption across the state
+## MP revenue official lists 51 govt properties in his, wife’s names; suspended
+Rajesh Mandloi allegedly registered land parcels in his and his wife’s name, leading to a probe initiated by a complaint against him.
 
-## Royal Bengal tiger cub rescued from house in Odisha’s Mayurbhanj
-A seven- to eight-month-old tiger cub took shelter in an empty house in Mayurbhanj after heavy rain drove it out of the forest.
+## ACB arrests pharma distributor Rajiv Rangila in Delhi medical procurement case
+Delhi ACB arrested pharma distributor Rajiv Rangila in an alleged hospital procurement scam involving government hospitals and medical equipment.
 
-## SC reserves order on Sambhal Jama Masjid survey; 1991 Act cited in plea
-The Supreme Court reserved its decision on a mosque survey petition, amid ongoing disputes over religious site ownership and legal protections under the 1991 Act.
+## Banks to open this Sunday — Here's why, and what shuts next week
+The United Forum of Bank Unions has announced the three-day strike to press for a five-day banking week and other demands.
 
-## Locked mobile phone, parents at crime branch office for 8 hours: IIT Bombay suicide probe so far
-The Crime Branch has so far recorded statements of 20 persons in connection with the case which renewed the attention on student suicides.
+## Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC
+Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC
 
-## India, Liberia launch UN shipping safety group; Jaishankar urges action against attacks on seafarers
-The grouping, known as the 'Group of Friends on Safety and Security of Shipping and Seafarers', met on the sidelines of the UNGA’s High Level Week in New York.
-
-## Banks advise customers to complete essential transactions ahead of 3-day strike from September 28
-Banks advise customers to complete essential transactions ahead of 3-day strike
-
-## Airbus detects surface coating issue with A321neo fuselage, some IndiGo planes impacted: Report
-IndiGo and Air India operate A321neo aircraft. Together, they have around 190 such planes.
+## Explosion at suspected illegal firecracker unit in Bihar’s Araria: Police
+A high-intensity blast at a suspected illegal firecracker unit in Bihar’s Araria damaged a house, with several people feared injured.
 
 ## China’s biotech firms move up value chain as drug deals evolve beyond licensing: analysts
 Chinese biotech deal making is moving beyond the licensing of individual drug candidates, as the country transforms from a follower to a global innovation leader, according to analysts. The latest transaction underscores that shift. Beijing-based cancer drug developer InnoCare Pharma said on Thursda
@@ -228,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pro-Imran Khan rally delayed amid government closures
-Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.
+## ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
+Three years of Israel's war has left families in Gaza living in damaged buildings, with few safe alternatives available.
 
-## Iran war live: Tehran offers US plan to reopen Hormuz within seven days
-Iran's FM says the "choice rests with the US" to approve the proposed seven-day proposal to reopen Hormuz.
+## Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
+A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
 
-## US court rules against Kalshi, says states can regulate prediction markets
-US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.
+## ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
+India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.
 
-## Iran says it awaits US response on seven-day roadmap to end war
-Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.
+## Bangkok on red alert as massive floods hit the city
+Persistent heavy downpours over a 48-hour period have triggered widespread flooding in Bangkok.
 
-## Pope Leo XIV warns AI could undermine humanity during France visit
-Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.
+## US official claims Trump holds all the cards in Iran talks
+US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.
 
-## Iran to reopen Strait of Hormuz within a week if US agrees to plan
-Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them
+## Iran pitches US a seven-day end to the war at UNGA
+Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.
 
-## DR Congo’s Ebola outbreak spreads to two new health zones, WHO says
-Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.
+## White House bars CNN from Air Force One for Trump’s upcoming trip
+Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
 
-## Netanyahu calls Al Jazeera a ‘toxic media outlet’
-Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”
+## PAM wins big in Morocco parliament elections but falls short of majority
+The next government will steer Morocco's 2030 World Cup preparations amid public frustration over local economy.
+
+## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
+India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
 
 ## Five-day work week: The larger productivity debate
 Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
@@ -273,9 +273,6 @@ New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; ap
 ## Why Do India’s Best Boards Fail? The Structural Flaws that Corporate Law Ignores
 Tata Sons and ICICI Bank represent two contrasting governance models, yet both have faced boardroom crises. Dr. Ashok Haldia, former Secretary, ICAI, examines whether such episodes expose deeper weaknesses in India’s corporate governance framework, questioning the limits of board independence, promo
 
-## FMCG firms to hold prices despite rise in commodity costs; prioritise volume growth
-FMCG cos are likely to hold prices through the festive season despite rising commodity costs and geopolitical disruptions. After modest 2-5% price hikes, firms are prioritising consumer demand and volume growth over margins. Industry executives said cost management and operational efficiencies will 
-
 ## Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries
 The Securities and Exchange Board of India (Sebi) has expanded its definition of accredited investors, now permitting individuals with securities market assets of INR 5 crore and corporate entities with INR 20 crore to qualify. Furthermore, it has instituted a Common Advertisement Code for market in
 
@@ -296,7 +293,4 @@ The Indian government is likely to consider production-linked incentive applicat
 
 ## India co-sponsors inaugural partners for multilateralism summit at UN
 India co-sponsored a UN summit on multilateralism, stressing participative deliberations. Leaders met as the global order faces significant stress and geopolitical tensions. They discussed addressing crises like fuel, food, and finance through cooperation. Reformed multilateralism is essential for s
-
-## Indian bonds steady as RBI rate hike expectations strengthen
-Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settled at about 7.05% during early trading on Tuesday. With retail inflation rising to 4.82% in August, expectations mount f
 
