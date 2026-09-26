@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## Burnham set to revive Help to Buy scheme to boost housebuilding
-Concern mounts among ministers that low construction activity could hit growth forecasts
+## Northern Ireland High Court suspends contentious Orange Order parade
+Judge urges all sides to ‘step back from the abyss’ in snowballing row over march that has fuelled sectarian tensions
+
+## Burnham to revive Help to Buy scheme in bid to aid first-time buyers
+Concern mounts among ministers that low housing construction volumes could hit growth forecasts
+
+## Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz
+Tehran offered a week-long break in hostilities to kick-start peace talks aimed at ending seven-month-long conflict
 
 ## Energy costs and AI power demand reshape climate talks in New York
 Disruption of global energy markets dominates discussions that previously concentrated more on cutting emissions
@@ -18,6 +24,9 @@ Security researchers warn of surge in ‘LLM-jacking’ attacks targeting compan
 ## Foreign capital flows into US stocks hit record as appetite for debt fades
 Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500
 
+## Manchester City rule breaches — potential punishments, appeals and next steps
+The case could run for several years, legal experts warn
+
 ## Monzo in talks with Brazil’s Nubank about sale
 UK fintech is also in discussions with private equity about selling a significant stake in the business
 
@@ -30,32 +39,29 @@ Washington’s campaign to isolate the Islamic republic has made securing pharma
 ## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
 Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
 
-## Whitbread acts out the UK’s growth challenge in miniature
-If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too
+## China says US agrees to $30 billion tariff-reduction arrangement, AI dialogue
+The agreement followed President Xi Jinping’s three-day summit with Donald Trump, which ended Friday after talks focused on bilateral relations.
 
-## Telangana to begin restoration work on Kaleshwaram barrages
-The State Government has finalised restoration designs and will place them before the Central Water Commission’s technical panel on October 5
+## Zydus Lifesciences’ New Jersey facility clears USFDA inspection with nil observations
+The inspection covered the company’s pharmacovigilance and post-marketing surveillance system and was conducted from September 22 to September 25.
 
-## Cabinet panel approves ₹17,167-crore outer harbour project at VOC Port in Thoothukudi
-The infrastructure project is expected to lay the foundation for the next phase of growth at the port
+## Dr Lal PathLabs’ arm acquires 80% stake in Ghana’s Sunshine Healthcare
+The acquisition was completed under the agreement and applicable provisions in Ghana, making Sunshine Healthcare a step-down subsidiary of Dr Lal PathLabs.
 
-## US 30-year yield tops 5.5% in ‘Vacuum’ after sentiment gauge
-The 10-year note’s yield also reached a fresh multiyear high exceeding 5.22%
+## Should you buy PB Fintech, Turtlemint after nearly 40% crash in two days?
+Seven of the 11 listed insurance companies fell 1-8 per cent, resulting in a net erosion of about ₹9,800 crore in market capitalisation, post IRDAI’s consultation paper release on September 23
 
-## FM Nirmala Sitharaman sets 10%+ growth target, pushes back against suggestion on ‘missed AI bus’
-The start-up ecosystem, which has scaled sharply since 2015, offers evidence of the momentum needed to push growth higher, she said
+## Alkem Labs: Hold on till growth gets a new boost
+CDMO and medtech segments should supplement base business growth in the long term
 
-## SME IPO market revives, but listing gains lose sheen
-About 43 companies raise ₹1,702 crore in September as investors turn more selective
+## New-age IPOs: Five years on, still show-me stories
+While many companies have scaled revenue and achieved break-even, investors are paying ₹260 for every ₹1 of profit earned by these firms
 
-## EV 2Ws industry established now, can do without subsidies: Ather
-Phokela said Ather Energy was going through excess demand with 50-60 per cent of the demand are in waiting period of 45-50 days because of production constraints in its present factory in Tamil Nadu
+## Should you subscribe to the Moneyview IPO?
+Moneyview’s optically-low valuation multiple belies a portfolio concentrated in unsecured personal loans
 
-## AC prices set to rise 5-8% from Oct 1, hikes also loom for LED TV, washing machine, refrigerator
-Companies pointed to challenging environment due to sustained rise in costs of key raw materials such as copper, steel and aluminium, crude derivatives and adverse currency exchange movement
-
-## Meta misled users about Facebook data practices, New Mexico jury finds
-New Mexico argues that Facebook failed to disclose that it sold user data to outside parties and allowed harmful content to ​spread when doing so benefited the company's bottom line
+## Invesco India Large Cap Fund: A changing playbook delivers better outcomes
+Invesco India Large Cap combines strong consistency, active choices and efficient risk-taking across market cycles
 
 ## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
 On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
@@ -81,29 +87,29 @@ Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, a
 ## No extra time for realising export proceeds
 
 
+## 'Countries far from conflicts being penalised': Jaishankar invokes PM Modi's remark at UNGA
+Jaishankar called upon the UN assembly to "face up to the true state of affairs".
+
+## 'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA
+Without naming him, Jaishankar said Pakistan PM Sharif had invoked arguments to “normalise terrorism” and “claim immunity” from its consequences.
+
+## Uttarakhand bans loud sound systems near Badrinath Dham temple, other religious sites in Chamoli
+Officials have been directed to ensure strict compliance, with legal action to be taken against organisers or committees violating the order.
+
+## Tamil Nadu YouTuber’s gold, cash flaunting on social media backfires as burglars steal jewellery
+The woman, identified as Madhumitha, runs a YouTube channel where she regularly shares reels and lifestyle videos.
+
+## 'Gyanu must go,' says Dipke after ex-bureaucrat claims Gyanesh Kumar offered him BJP candidature
+The CEC is at the heart of a controversy surrounding the commission after reports of alleged differences between the two election commissioners and Kumar.
+
+## 17-year-old Nikita Kumari shines as India beat Iran to win kabaddi gold
+Haryana’s 17-year-old Nikita Kumari made her senior India debut count, delivering a crucial performance as India defeated Iran to win women’s kabaddi gold.
+
 ## Child drug abuse is a child protection issue, not just health: CJI Surya Kant
 CJI Surya Kant said children facing substance abuse need dignity, confidentiality and rehabilitation, warning that stigma can discourage them from seeking help.
 
 ## TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30
 Addressing a rally in Hooghly, Banerjee said, "Why was the SIR conducted? It was forced upon us solely to capture Bengal, as they couldn't win otherwise."
-
-## Gauhati University student found dead at homestay in Assam; male friend arrested
-Police have arrested a youth, identified as Ashik Ali, in connection with the incident.
-
-## ‘Reaffirms integrity, credibility’: TDP chief welcomes 'unanimous EC clarification' day after BJP allies' appeal
-The BJP ally said the EC's clarification “put to rest all the misconceptions” surrounding the commission.
-
-## Odisha rain: Over 73,000 affected, 40,000 evacuated as rivers rise
-Heavy rain triggered by a deep depression has affected more than 73,000 people across 10 districts of Odisha, with over 40,000 people evacuated to safer locations, officials said on Saturday.
-
-## EC extends deadline for claims, objections to October 12 in Maharashtra amid SIR row
-The move comes after reports of differences among the three-member Election Commission over decisions and directions regarding electoral roll revisions.
-
-## 5 dead, over 100 houses damaged as heavy rain lash UP; thunderstorms, more rain likely
-The heavy rain, thunderstorms and strong winds also damaged standing crops in rural areas and over 100 houses across.
-
-## EC says poll commissioners' letters to Cabinet Secretary not over policy matter, but 'related to...'
-The Election Commission, which held a key meet amid row over alleged dissent within the poll body, clarified what the letter was about.
 
 ## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
 EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thousands of students protest German military conscription
-More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.
+## South African police discover body of 10th woman near Johannesburg
+Police are investigating the killings in a country with one of the highest femicide rates in the world.
 
-## One year on, the UK’s recognition of Palestinian statehood is bearing fruit
-The British government is moving to translate rhetoric into policy.
+## Trump rejects Iranian offer to reopen Strait of Hormuz
+US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.
 
-## Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz
-Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.
+## Cuba accuses US at UN of deliberately inflicting humanitarian suffering
+Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.
 
-## Olympics: Germany picks Munich for Summer Games bid
-Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.
+## Trump rejects combining US-China AI efforts
+The US president said the fears over AI were just 'hoaxes'.
 
-## Israel-Ireland match to go ahead in Nations League after player vote
-Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.
+## Iraq seeks US exemption from ban on Iranian flights
+Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines.
 
-## Russell edges out Verstappen to win in Baku, Antonelli settles for fifth
-George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.
+## ‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference
+Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool.
 
-## Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?
-Seven armed groups have joined forces against Abiy Ahmed’s government, bringing former enemies into the same alliance.
+## Cuba condemns US ‘collective punishment’ as Trump predicts deal
+The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country.
 
-## Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns
-Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.
+## Ethiopia’s Fano fighters claim capture of army vehicles and weapons
+Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
