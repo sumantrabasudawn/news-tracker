@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Burnham set to revive Help to Buy scheme to boost housebuilding
+Concern mounts among ministers that low construction activity could hit growth forecasts
+
+## Energy costs and AI power demand reshape climate talks in New York
+Disruption of global energy markets dominates discussions that previously concentrated more on cutting emissions
+
+## Manchester City verdict poses latest test to UK-UAE relations
+Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment
+
 ## The gangs testing Colombia’s hardline new leader
 Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy
 
@@ -18,44 +27,35 @@ Also in today’s newsletter: how Roger Federer built the Laver Cup and US sport
 ## Medicines run short in Iran under US sanctions
 Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult
 
-## The ‘7 Up’ series: didactic social history as masterpiece
-This vivid and complex account of life as it is lived has proved to be one of the great happy accidents of television
+## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
+Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
 
 ## Whitbread acts out the UK’s growth challenge in miniature
 If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too
 
-## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
-Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
+## Telangana to begin restoration work on Kaleshwaram barrages
+The State Government has finalised restoration designs and will place them before the Central Water Commission’s technical panel on October 5
 
-## Cyber security stocks are pumped up on P(doom)
-Besieged by growing cyber threats, organisations are hurling money at the problem
+## Cabinet panel approves ₹17,167-crore outer harbour project at VOC Port in Thoothukudi
+The infrastructure project is expected to lay the foundation for the next phase of growth at the port
 
-## The climate doom-mongers now dread sovereign debt blowouts
-The same people are gnashing the same teeth and making the same arguments
+## US 30-year yield tops 5.5% in ‘Vacuum’ after sentiment gauge
+The 10-year note’s yield also reached a fresh multiyear high exceeding 5.22%
 
-## Kolkata-based Anmol Industries files draft papers with SEBI for ₹1,800-crore IPO
-The IPO is entirely an offer-for-sale of equity shares by the promoter entity Baijnath Choudhary & Family Trust
+## FM Nirmala Sitharaman sets 10%+ growth target, pushes back against suggestion on ‘missed AI bus’
+The start-up ecosystem, which has scaled sharply since 2015, offers evidence of the momentum needed to push growth higher, she said
 
-## J Infratech files IPO papers; eyes ₹600 cr via fresh issue
-Apart from the fresh issue, the company's proposed IPO comprises an offer for sale of 1 crore equity shares by promoters, according to the draft red herring prospectus filed on Friday
+## SME IPO market revives, but listing gains lose sheen
+About 43 companies raise ₹1,702 crore in September as investors turn more selective
 
-## Centre extending support to manufacturing to end dependency, says Finance Minister
-Government offering incentives to those who want to free themselves from dependence on other countries, she said
+## EV 2Ws industry established now, can do without subsidies: Ather
+Phokela said Ather Energy was going through excess demand with 50-60 per cent of the demand are in waiting period of 45-50 days because of production constraints in its present factory in Tamil Nadu
 
-## Judiciary committed to protecting students' right to hold peaceful protests: CJI
-Negotiators secure a ceasefire in the conflict-torn region as violence subsides and humanitarian aid resumes, amid international calls for restraint
+## AC prices set to rise 5-8% from Oct 1, hikes also loom for LED TV, washing machine, refrigerator
+Companies pointed to challenging environment due to sustained rise in costs of key raw materials such as copper, steel and aluminium, crude derivatives and adverse currency exchange movement
 
-## Meaningful change is built through countless decisions, sustained efforts, courage to stay the course: Nirmala Lakshman
-
-
-## Today’s Gold Rate: Latest Gold prices in Coimbatore, Nagpur, Jaipur & Other Cities
-22, 24 carat Gold prices down across other cities on September 26
-
-## Insurance Query: Here is what a first-time health cover buyer can do
-Here are some best practices a first-time buyer of a health insurance policy can follow
-
-## Today’s Gold Rate, September 26: Check Gold Rates in Delhi, Mumbai, Chennai
-22, 24 carat Gold prices down across metro cities on September 26
+## Meta misled users about Facebook data practices, New Mexico jury finds
+New Mexico argues that Facebook failed to disclose that it sold user data to outside parties and allowed harmful content to ​spread when doing so benefited the company's bottom line
 
 ## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
 On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
@@ -81,29 +81,29 @@ Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, a
 ## No extra time for realising export proceeds
 
 
-## Bihar man held for 2 train murders, probe into other killings underway: Cop
-Tiwari was arrested from the Bihar-Uttar Pradesh border by a special team led by Danapur Railway DSP Kanchan Raj
+## Child drug abuse is a child protection issue, not just health: CJI Surya Kant
+CJI Surya Kant said children facing substance abuse need dignity, confidentiality and rehabilitation, warning that stigma can discourage them from seeking help.
 
-## Char Dham Yatra suspended for two days amid red, orange rain alerts
-The meteorological department has issued ‘red’ and ‘orange’ alerts for rain across various districts of Uttarakhand for September 26 and 27.
+## TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30
+Addressing a rally in Hooghly, Banerjee said, "Why was the SIR conducted? It was forced upon us solely to capture Bengal, as they couldn't win otherwise."
 
-## Lalbaugcha Raja immersion: Mumbai bids farewell as iconic Ganesh idol leaves for visarjan
-The iconic Lalbaugcha Raja idol began its immersion procession on Anant Chaturdashi as devotees gathered to bid farewell to Bappa
+## Gauhati University student found dead at homestay in Assam; male friend arrested
+Police have arrested a youth, identified as Ashik Ali, in connection with the incident.
 
-## Mamata speaks to Congress, CPIM leaders over INDIA bloc meet on ECI row
-TMC chief Mamata Banerjee is scheduled to address a public meeting at Serampore in Hooghly on Saturday
+## ‘Reaffirms integrity, credibility’: TDP chief welcomes 'unanimous EC clarification' day after BJP allies' appeal
+The BJP ally said the EC's clarification “put to rest all the misconceptions” surrounding the commission.
 
-## 2 DU students arrested after women allege SUV chase, harassment: ‘Red suits you’
-In a video, one of the students said she and her friend were walking from Hakikat Park towards Old Gupta Colony when a white SUV approached them.
+## Odisha rain: Over 73,000 affected, 40,000 evacuated as rivers rise
+Heavy rain triggered by a deep depression has affected more than 73,000 people across 10 districts of Odisha, with over 40,000 people evacuated to safer locations, officials said on Saturday.
 
-## ‘If Gyanesh doesn’t go…’: Aaditya Thackeray backs Dipke's call for protest against CEC; CJP founder reacts
-On Friday, Abhijeet Dipke announced that he would launch a nationwide protest from Mumbai if CEC Gyanesh Kumar did not resign by Saturday.
+## EC extends deadline for claims, objections to October 12 in Maharashtra amid SIR row
+The move comes after reports of differences among the three-member Election Commission over decisions and directions regarding electoral roll revisions.
 
-## Air India AI-171 crash: Pilots' body seeks representation on panel reviewing draft final probe report
-The pilots' body said if an independent mechanism is being created to review the draft probe report in the Ahmedabad plane crash, FIP should be nominated.
+## 5 dead, over 100 houses damaged as heavy rain lash UP; thunderstorms, more rain likely
+The heavy rain, thunderstorms and strong winds also damaged standing crops in rural areas and over 100 houses across.
 
-## Family dispute mediation can further harm women facing violence: SC judge Nagarathna
-SC judge BV Nagarathna said mediation in family disputes can be harmful for women facing violence, coercive control or a serious imbalance of power.
+## EC says poll commissioners' letters to Cabinet Secretary not over policy matter, but 'related to...'
+The Election Commission, which held a key meet amid row over alleged dissent within the poll body, clarified what the letter was about.
 
 ## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
 EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pezeshkian says Iran ‘no longer trusts talks with Washington’
-In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.
+## Thousands of students protest German military conscription
+More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.
 
-## Ebola spreads in DR Congo, putting neighbouring nations at risk
-The Ebola outbreak has spread to new areas in the Democratic Republic of the Congo, with 10 countries at high risk.
+## One year on, the UK’s recognition of Palestinian statehood is bearing fruit
+The British government is moving to translate rhetoric into policy.
 
-## An unexpected welcome: Syrian Kurds return to their homes in Afrin
-Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.
+## Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz
+Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.
 
-## Israel bans Arab parties from election: Who they are, why it matters
-Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.
+## Olympics: Germany picks Munich for Summer Games bid
+Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.
 
-## Virat Kohli says he will retire from India cricket after 2027 World Cup
-The leading century-maker in ODI cricket, Virat Kohli, announces 2027 World Cup will be his swansong for India.
+## Israel-Ireland match to go ahead in Nations League after player vote
+Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.
 
-## England vs Spain: UEFA Nations League – Predictions, teams, head-to-head
-World champions Spain meet heavyweights England in a rematch of the UEFA Euro 2024 final.
+## Russell edges out Verstappen to win in Baku, Antonelli settles for fifth
+George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.
 
-## Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?
-Analysts say Trump may opt to resume attacks on Iran after November midterm elections.
+## Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?
+Seven armed groups have joined forces against Abiy Ahmed’s government, bringing former enemies into the same alliance.
 
-## Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash
-Senegal draw with Mozambique, Nigeria edge past Madagascar, but Cape Verde beaten by Mali in AFCON qualifying openers.
+## Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns
+Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
