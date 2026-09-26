@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## German and Russian foreign ministers meet for first time in over four years
+Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’
+
+## Trump and Xi to meet twice more after summit fails to resolve tensions
+Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off
+
 ## Northern Ireland High Court suspends contentious Orange Order parade
 Judge urges all sides to ‘step back from the abyss’ in snowballing row over march that has fuelled sectarian tensions
 
@@ -18,14 +24,11 @@ Successive British governments have sought to shore up diplomatic ties with Abu 
 ## The gangs testing Colombia’s hardline new leader
 Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy
 
-## Hackers hijack AI accounts and servers to fuel new cyber crime boom
-Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources
-
-## Foreign capital flows into US stocks hit record as appetite for debt fades
-Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500
-
 ## Manchester City rule breaches — potential punishments, appeals and next steps
 The case could run for several years, legal experts warn
+
+## Hackers hijack AI accounts and servers to fuel new cyber crime boom
+Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources
 
 ## Monzo in talks with Brazil’s Nubank about sale
 UK fintech is also in discussions with private equity about selling a significant stake in the business
@@ -87,6 +90,9 @@ Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, a
 ## No extra time for realising export proceeds
 
 
+## Telangana to remove eligible private properties from 22-A list
+Telangana has removed private properties from the prohibited list for registration, benefiting 1.41 lakh homes and plots, amid political controversy.
+
 ## 'Countries far from conflicts being penalised': Jaishankar invokes PM Modi's remark at UNGA
 Jaishankar called upon the UN assembly to "face up to the true state of affairs".
 
@@ -107,9 +113,6 @@ Haryana’s 17-year-old Nikita Kumari made her senior India debut count, deliver
 
 ## Child drug abuse is a child protection issue, not just health: CJI Surya Kant
 CJI Surya Kant said children facing substance abuse need dignity, confidentiality and rehabilitation, warning that stigma can discourage them from seeking help.
-
-## TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30
-Addressing a rally in Hooghly, Banerjee said, "Why was the SIR conducted? It was forced upon us solely to capture Bengal, as they couldn't win otherwise."
 
 ## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
 EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South African police discover body of 10th woman near Johannesburg
-Police are investigating the killings in a country with one of the highest femicide rates in the world.
+## Yamal nets in Spain’s 3-2 comeback win against England in Nations League
+Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
 
-## Trump rejects Iranian offer to reopen Strait of Hormuz
-US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.
+## Russia scales up strikes on Ukraine as largest steelmaker halts operations
+A wave of Russian strikes has hit various regions across Ukraine.
 
-## Cuba accuses US at UN of deliberately inflicting humanitarian suffering
-Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.
+## Why is violence between Pakistan and Afghanistan recurring?
+Pakistan has carried out new strikes inside Afghanistan.
 
-## Trump rejects combining US-China AI efforts
-The US president said the fears over AI were just 'hoaxes'.
+## Hamas slams Board of Peace for refusal to work with UNRWA in Gaza
+Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.
 
-## Iraq seeks US exemption from ban on Iranian flights
-Ali al-Zaidi government urges dialogue to de-escalate regional tensions amid US sanctions on Iranian airlines.
+## Tens of thousands attend right-wing protest over Ceuta migrant crisis
+Demonstrators are demanding early elections and accuse Pedro Sanchez's government of negligence.
 
-## ‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference
-Pro-Palestine protesters have marched on Labour’s annual conference in Liverpool.
+## Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA
+At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.
 
-## Cuba condemns US ‘collective punishment’ as Trump predicts deal
-The Cuban foreign minister's comments come days after the US told the UN that ‘freedom will be coming’ to the country.
+## Ireland decide to play Israel in Nations League after squad vote
+Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday.
 
-## Ethiopia’s Fano fighters claim capture of army vehicles and weapons
-Armed fighters from Ethiopia’s Fano movement claim to have seized military trucks and weapons in the Amhara region.
+## Lavrov: Russia’s war in Ukraine will continue ‘through to the end’
+Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
