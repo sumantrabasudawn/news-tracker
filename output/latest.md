@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## The gangs testing Colombia’s hardline new leader
+Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy
+
+## Hackers hijack AI accounts and servers to fuel new cyber crime boom
+Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources
+
+## Foreign capital flows into US stocks hit record as appetite for debt fades
+Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500
+
+## Monzo in talks with Brazil’s Nubank about sale
+UK fintech is also in discussions with private equity about selling a significant stake in the business
+
+## Manchester City’s moment of reckoning
+Also in today’s newsletter: how Roger Federer built the Laver Cup and US sports leagues warm to private equity
+
+## Medicines run short in Iran under US sanctions
+Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult
+
 ## The ‘7 Up’ series: didactic social history as masterpiece
 This vivid and complex account of life as it is lived has proved to be one of the great happy accidents of television
 
 ## Whitbread acts out the UK’s growth challenge in miniature
 If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too
-
-## The climate doom-mongers now dread sovereign debt blowouts
-The same people are gnashing the same teeth and making the same arguments
-
-## Are you the ‘digital PA’ for your parents?
-Banks and businesses must do more to support older customers
-
-## Business urges John Healey to show restraint on raising UK minimum wage
-Companies warn that a steep rise in labour costs will fuel inflation and cut jobs for young people
-
-## EU turns to Norway and Canada for space launch sites
-Space commissioner is touring potential locations for launchers as the bloc tries to boost its satellite capabilities
-
-## Medicines run short in Iran under US sanctions
-Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult
-
-## Scandal and succession in the House of Bolsonaro
-Jair Bolsonaro is imprisoned for plotting a coup, leaving his eldest son to run against his old rival. Could Brazil’s first family of the radical right be on the verge of a comeback?
 
 ## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
 Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
@@ -30,32 +30,41 @@ Purchase would follow private equity owners’ decision to shelve planned listin
 ## Cyber security stocks are pumped up on P(doom)
 Besieged by growing cyber threats, organisations are hurling money at the problem
 
-## Tourist taxes on the march
-Governments see a revenue raiser that doesn’t annoy voters and a way to manage the tourist hordes. The leisure industry isn’t so keen
+## The climate doom-mongers now dread sovereign debt blowouts
+The same people are gnashing the same teeth and making the same arguments
 
-## Starbucks to shut down around 250 stores in US
-Affected stores either have not delivered the customer and employee experience the company wants or are not financially viable, Starbucks says
+## Kolkata-based Anmol Industries files draft papers with SEBI for ₹1,800-crore IPO
+The IPO is entirely an offer-for-sale of equity shares by the promoter entity Baijnath Choudhary & Family Trust
 
-## Keralam’s capital expenditure low, committed expenditure high: CM Satheesan
-The CM says that around 80% of the revenue received by the state went towards committed expenditure, including salaries, pensions and interest on loans
+## J Infratech files IPO papers; eyes ₹600 cr via fresh issue
+Apart from the fresh issue, the company's proposed IPO comprises an offer for sale of 1 crore equity shares by promoters, according to the draft red herring prospectus filed on Friday
 
-## Amit Shah likely to visit Mizoram on October 5
-The home minister is expected to inaugurate various projects, including those under the state cooperation department during his visit
+## Centre extending support to manufacturing to end dependency, says Finance Minister
+Government offering incentives to those who want to free themselves from dependence on other countries, she said
 
-## Karnataka aims to eliminate preventable maternal deaths, says minister
-A dedicated state-level unit for preventing maternal deaths would be established, with a designated officer to coordinate and monitor focused interventions across the state
+## Judiciary committed to protecting students' right to hold peaceful protests: CJI
+Negotiators secure a ceasefire in the conflict-torn region as violence subsides and humanitarian aid resumes, amid international calls for restraint
 
-## Punjab emerging as major industrial hub, attracted ₹1.89 lakh cr investment in 4 years: Mann
-This generates employment potential for 6.31 lakh youth and is driving industrial growth beyond traditional centres
+## Meaningful change is built through countless decisions, sustained efforts, courage to stay the course: Nirmala Lakshman
 
-## Saudi says it intercepted 2 drones launched by Houthis towards Riyadh
-The Saudi civil defence had sent alerts overnight for Khamis Mushait ​and Abha ‌but not for the capital
 
-## Taiwan’s status explained: What China, the US and Taiwan say about independence
-The Taiwan question has roots in history, competing governments and decades of differing positions over sovereignty, independence and reunification
+## Today’s Gold Rate: Latest Gold prices in Coimbatore, Nagpur, Jaipur & Other Cities
+22, 24 carat Gold prices down across other cities on September 26
 
-## NABARD sanctions ₹195-crore loan to boost fisheries infrastructure in Bihar's Siwan
-The initiative aims to boost fish production, strengthen the fisheries value chain and improve the incomes and livelihoods of fish farmers, cooperatives, self-help groups and rural youth
+## Insurance Query: Here is what a first-time health cover buyer can do
+Here are some best practices a first-time buyer of a health insurance policy can follow
+
+## Today’s Gold Rate, September 26: Check Gold Rates in Delhi, Mumbai, Chennai
+22, 24 carat Gold prices down across metro cities on September 26
+
+## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
+On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
+
+## FII Flows To Stay Subdued: Bernstein sees flat to modest inflows; rupee and valuations weigh
+Foreign institutional investor flows into Indian stocks are expected to remain stable over the next year. Analysts indicate that foreign investors have withdrawn significant funds from Indian equities recently. For a resurgence of foreign investment, India needs to develop globally competitive compa
+
+## Big dollar inflows, little boost for rupee: Why currency may stay near Rs 96 near term
+The movements of the rupee are shaped by various elements, such as interventions from the RBI and prevailing market sentiment. Experts forecast that the currency will achieve stability soon, hovering between Rs 94.5 and Rs 96 per dollar. Despite recent inflows of dollars, the rupee's market value re
 
 ## Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist
 Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, alongside escalating worries about Saudi oil supply. Brent crude fell to $104.30 a barrel, while West Texas Intermediate decreased to $92.41. With negotiators examining the reopening of the Strait of Hormuz for sanction r
@@ -72,38 +81,32 @@ Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, a
 ## No extra time for realising export proceeds
 
 
-## India may sign new investment pact with Australia & Canada
+## Bihar man held for 2 train murders, probe into other killings underway: Cop
+Tiwari was arrested from the Bihar-Uttar Pradesh border by a special team led by Danapur Railway DSP Kanchan Raj
 
+## Char Dham Yatra suspended for two days amid red, orange rain alerts
+The meteorological department has issued ‘red’ and ‘orange’ alerts for rain across various districts of Uttarakhand for September 26 and 27.
 
-## Festive sales: Cos paying retention bonus to workers
+## Lalbaugcha Raja immersion: Mumbai bids farewell as iconic Ganesh idol leaves for visarjan
+The iconic Lalbaugcha Raja idol began its immersion procession on Anant Chaturdashi as devotees gathered to bid farewell to Bappa
 
+## Mamata speaks to Congress, CPIM leaders over INDIA bloc meet on ECI row
+TMC chief Mamata Banerjee is scheduled to address a public meeting at Serampore in Hooghly on Saturday
 
-## Centre to borrow nearly Rs 7.9 lakh cr in Oct-March
+## 2 DU students arrested after women allege SUV chase, harassment: ‘Red suits you’
+In a video, one of the students said she and her friend were walking from Hakikat Park towards Old Gupta Colony when a white SUV approached them.
 
+## ‘If Gyanesh doesn’t go…’: Aaditya Thackeray backs Dipke's call for protest against CEC; CJP founder reacts
+On Friday, Abhijeet Dipke announced that he would launch a nationwide protest from Mumbai if CEC Gyanesh Kumar did not resign by Saturday.
 
-## Petition in Supreme Court targets CEC over electoral roll disputes and audit demands
-It seeks to preserve key databases and logs amidst claims of internal dissent among election commissioners.
+## Air India AI-171 crash: Pilots' body seeks representation on panel reviewing draft final probe report
+The pilots' body said if an independent mechanism is being created to review the draft probe report in the Ahmedabad plane crash, FIP should be nominated.
 
-## Men doing household chores, AI's impact: Andhra's edu reforms erase gender stereotypes, focus on tech
-Men doing household chores, AI's impact: Andhra's edu reforms erase gender stereotypes, focus on tech
+## Family dispute mediation can further harm women facing violence: SC judge Nagarathna
+SC judge BV Nagarathna said mediation in family disputes can be harmful for women facing violence, coercive control or a serious imbalance of power.
 
-## Delhi-NCR rain alert as IMD forecasts thunderstorms, gusty winds this weekend
-Delhi-NCR is likely to receive rain, thunderstorms and gusty winds on Saturday and Sunday as a depression over central India moves towards Uttar Pradesh.
-
-## MP revenue official lists 51 govt properties in his, wife’s names; suspended
-Rajesh Mandloi allegedly registered land parcels in his and his wife’s name, leading to a probe initiated by a complaint against him.
-
-## ACB arrests pharma distributor Rajiv Rangila in Delhi medical procurement case
-Delhi ACB arrested pharma distributor Rajiv Rangila in an alleged hospital procurement scam involving government hospitals and medical equipment.
-
-## Banks to open this Sunday — Here's why, and what shuts next week
-The United Forum of Bank Unions has announced the three-day strike to press for a five-day banking week and other demands.
-
-## Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC
-Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC
-
-## Explosion at suspected illegal firecracker unit in Bihar’s Araria: Police
-A high-intensity blast at a suspected illegal firecracker unit in Bihar’s Araria damaged a house, with several people feared injured.
+## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
+EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
 
 ## China’s biotech firms move up value chain as drug deals evolve beyond licensing: analysts
 Chinese biotech deal making is moving beyond the licensing of individual drug candidates, as the country transforms from a follower to a global innovation leader, according to analysts. The latest transaction underscores that shift. Beijing-based cancer drug developer InnoCare Pharma said on Thursda
@@ -125,9 +128,6 @@ HSBC and its main Hong Kong subsidiary, Hang Seng Bank, are set to harmonise the
 
 ## Morgan Stanley deal leak triggers rival poaching, security warnings for Hong Kong banks
 After Morgan Stanley’s leak of internal deal information in a client email, rival investment banks in Hong Kong are aggressively moving to poach clients dissatisfied with the breach, according to several people familiar with the matter. Competitors are actively approaching companies named in the lea
-
-## Shanghai Gold Exchange pushes more Chinese banks to end retail leverage trading
-At least a dozen Chinese banks intend to wind down retail leveraged precious-metals trading – a practice in which everyday investors post margin deposits to speculate on gold and silver contracts without owning the physical metal. The retreat comes amid sharp swings in international gold prices. Sou
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
-Three years of Israel's war has left families in Gaza living in damaged buildings, with few safe alternatives available.
+## Pezeshkian says Iran ‘no longer trusts talks with Washington’
+In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.
 
-## Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
-A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
+## Ebola spreads in DR Congo, putting neighbouring nations at risk
+The Ebola outbreak has spread to new areas in the Democratic Republic of the Congo, with 10 countries at high risk.
 
-## ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
-India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.
+## An unexpected welcome: Syrian Kurds return to their homes in Afrin
+Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.
 
-## Bangkok on red alert as massive floods hit the city
-Persistent heavy downpours over a 48-hour period have triggered widespread flooding in Bangkok.
+## Israel bans Arab parties from election: Who they are, why it matters
+Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.
 
-## US official claims Trump holds all the cards in Iran talks
-US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.
+## Virat Kohli says he will retire from India cricket after 2027 World Cup
+The leading century-maker in ODI cricket, Virat Kohli, announces 2027 World Cup will be his swansong for India.
 
-## Iran pitches US a seven-day end to the war at UNGA
-Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.
+## England vs Spain: UEFA Nations League – Predictions, teams, head-to-head
+World champions Spain meet heavyweights England in a rematch of the UEFA Euro 2024 final.
 
-## White House bars CNN from Air Force One for Trump’s upcoming trip
-Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
+## Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?
+Analysts say Trump may opt to resume attacks on Iran after November midterm elections.
 
-## PAM wins big in Morocco parliament elections but falls short of majority
-The next government will steer Morocco's 2030 World Cup preparations amid public frustration over local economy.
+## Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash
+Senegal draw with Mozambique, Nigeria edge past Madagascar, but Cape Verde beaten by Mali in AFCON qualifying openers.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
