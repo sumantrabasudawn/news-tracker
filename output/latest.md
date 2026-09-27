@@ -42,6 +42,12 @@ Washington’s campaign to isolate the Islamic republic has made securing pharma
 ## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
 Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
 
+## Jaishankar calls targeting of commercial shipping, seafarers ‘simply unacceptable’ amid Gulf conflict
+India urged restraint and de-escalation while highlighting threats to civilians, energy supplies, commerce, maritime security and developing nations.
+
+## India’s right to defend itself against terrorism will be exercised, Jaishankar tells UNGA
+Speaking at the General Debate, the External Affairs Minister highlighted peace, development, global cooperation and India’s contributions across the Global South
+
 ## China says US agrees to $30 billion tariff-reduction arrangement, AI dialogue
 The agreement followed President Xi Jinping’s three-day summit with Donald Trump, which ended Friday after talks focused on bilateral relations.
 
@@ -59,12 +65,6 @@ CDMO and medtech segments should supplement base business growth in the long ter
 
 ## New-age IPOs: Five years on, still show-me stories
 While many companies have scaled revenue and achieved break-even, investors are paying ₹260 for every ₹1 of profit earned by these firms
-
-## Should you subscribe to the Moneyview IPO?
-Moneyview’s optically-low valuation multiple belies a portfolio concentrated in unsecured personal loans
-
-## Invesco India Large Cap Fund: A changing playbook delivers better outcomes
-Invesco India Large Cap combines strong consistency, active choices and efficient risk-taking across market cycles
 
 ## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
 On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Four American tourists among 6 killed in suspected gas leak blast in Athens
+Two women reportedly injured after building collapse in Athens' historic Plaka district.
+
+## Powerful storm brings flooding, power outages to northeastern United States
+Authorities warn residents that extreme conditions in the region could pose risks.
+
+## Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines
+Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.
+
+## Student protesters disrupt NVIDIA AI climate panel
+Student protesters have interrupted an NVIDIA panel during NYC Climate Week.
+
+## Trump says he is rolling back Biden-era US fuel economy rules for cars
+The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.
+
 ## Yamal nets in Spain’s 3-2 comeback win against England in Nations League
 Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
 
@@ -242,21 +257,6 @@ A wave of Russian strikes has hit various regions across Ukraine.
 
 ## Why is violence between Pakistan and Afghanistan recurring?
 Pakistan has carried out new strikes inside Afghanistan.
-
-## Hamas slams Board of Peace for refusal to work with UNRWA in Gaza
-Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.
-
-## Tens of thousands attend right-wing protest over Ceuta migrant crisis
-Demonstrators are demanding early elections and accuse Pedro Sanchez's government of negligence.
-
-## Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA
-At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.
-
-## Ireland decide to play Israel in Nations League after squad vote
-Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday.
-
-## Lavrov: Russia’s war in Ukraine will continue ‘through to the end’
-Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
