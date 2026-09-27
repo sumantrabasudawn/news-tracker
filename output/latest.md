@@ -1,7 +1,34 @@
 # AION Intelligence
 
-## Swiss voters to decide fate of centuries-old neutrality
-A Yes vote would bar the country from co-operating with military alliances unless attacked
+## Northern Ireland in tense stand-off as protests stall Orange Order parade
+March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
+
+## Explosives arrests made in ‘major incident’ near RAF Fairford
+US Air Force has used UK base for strikes on Iran
+
+## The India shock: exporting workers to the world
+Emigration has helped New Delhi manage its labour surplus, but the strategy has limits
+
+## Will US jobs data add to pressure on Fed policymakers?
+Market Questions is the FT’s guide to the week ahead
+
+## Maha split shows all is not well with Kennedy’s US health revolution
+Republicans worry Make America Healthy Again is an electoral liability while activists claim it has abandoned its values
+
+## The EU needs a clearer strategy for partners like Canada
+Bloc should define what it can offer to prosperous fellow democracies
+
+## Burnham signals he will fight election on tax rises to fund social care reform
+Prime minister says shake-up would be ‘hard’ to do in current parliament
+
+## ‘Hope again’: Burnham returns to Labour conference to sell his vision
+Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
+
+## Investors pursue Dubai investment group over missing payments
+AIX accused of having skipped or delayed payouts on bond-like products offering double-digit annual returns
+
+## The rules of AI etiquette
+Just because a bot can do something for you doesn’t mean it should
 
 ## Value of old supertankers soars past new builds as market goes ‘bananas’
 As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers
@@ -9,98 +36,92 @@ As freight rates soar, vessel prices are being determined by how quickly a ship 
 ## Big dreams and tiny revenue are the new norm for AI IPOs
 The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking
 
-## The UK’s IMF bailout has things to teach us 50 years on
-A different Healey may be chancellor but he faces a set of parallel challenges
-
 ## Europe braces for LNG tug of war with Asia
 Competition for cargoes could intensify in coming months as EU gas stores are at record lows
-
-## Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land
-Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America
-
-## US housing crunch puts private equity in midterm campaign crosshairs
-FT analysis shows that institutional investors are being blamed for soaring costs
-
-## The west London high street fighting against bookies and chicken shops
-Residents’ campaign to diversify Uxbridge Road comes as prime minister pledges to tackle UK’s ‘hollowed out’ neighbourhoods
-
-## The rules of AI etiquette
-Just because a bot can do something for you doesn’t mean it should
 
 ## Private credit turmoil eases as investor withdrawals slow
 ‘Too early to call the bottom’ but redemption requests from retail investors fall
 
-## OpenAI pauses training of latest AI after agentic models gains unauthorised access to US government sites
-Another agentic AI system under training in internet-free environment gained access to the web to reach an external, third-party chatbot.
+## Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land
+Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America
 
-## WOI India acquires SwiftSeed Ventures; appoints founder Amar Dixit as CEO
-The acquisition brings SwiftSeed's founder-investor community into WOI India's broader entrepreneurship ecosystem
+## Amit Shah flags off India’s 1st LNG train; targets zero diesel use in Railways by 2030
+Diesel consumption down 63 per cent since 2015-16 as Railways steps up shift to LNG, electric traction
 
-## India’s tourism sector contributes 5.22% to GDP, supports 8.46 crore jobs: Govt
-Foreign exchange earnings from tourism rose to ₹2,76,831 crore in 2025, from ₹63,978 crore in 2021
+## ED attaches fresh assets worth ₹442 cr in probe against online gaming company Gameskraft
+The central agency said in a statement that a provisional order was issued on September 25 under the Prevention of Money Laundering Act (PMLA) to freeze the properties.
 
-## Rajasthan CM dedicates projects worth ₹924 crore in Udaipur division
-Sharma said tribal art and cultural traditions form a distinctive and strong identity for Rajasthan
+## Floods, landslides kill 56 in India and 14 in Nepal
+Authorities are carrying out rescue operations in waterlogged areas and distributing relief, while officials have been told to assess crop ​damage and provide compensation
 
-## Andhra Pradesh to host southern regional workshop under 'Mission Karmayogi' on Sep 29
-The regional workshop is aimed at capacity building among government employees and enhancing administrative skills, an official release said.
+## Capacity scale-ups to drive Epigral's ₹5,000 crore target by FY31: CMD Maulik Patel
+The company expects to reach ₹2,900 crore in revenue this fiscal year following revenue of ₹2,500–2,530 crore in 2026
 
-## Film City to get global-level upgrade in its 50th year: Minister Shelar
-Shelar visits the Goregaon-based Chitranagari on the 49th foundation day of the Maharashtra Film, Theatre and Cultural Development Corporation.
+## Officials discuss credit ecosystem of TN in 187th State Level Bankers’ Committee (SLBC) meet
+The performance of banks in areas including Agriculture and Allied Activities, Micro, Small and Medium Enterprises (MSMEs), education loans, housing and other priority sectors was reviewed
 
-## Stock market news: Liqvd Digital IPO, Axiom Gas debut and NSE’s dabba trading warning
-Liqvd Digital India SME IPO subscribed 5.08 times
+## Investors choose UP because of its large consumer market and infrastructure to match it, says CM Yogi Adityanath
+Uttar Pradesh Chief Minister Yogi Adityanath talks about what’s working for the state on the investment front and where it plans to go
 
-## OpenAI, Anthropic CEOs called to appear at Australian AI probe
-The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the US
+## Tamil Nadu revokes controversial order exempting Law and Order dept from RTI Act after backlash
+The swift reversal comes after the initial move by the TVK-led state administration triggered a political storm, drawing sharp criticism from alliance partners — the Congress and the Viduthalai Chiruthaigal Katchi (VCK).
+
+## Mobile phone retailers to protest against UPI MDR charges on Oct 2
+All India Mobile Retailers Association Vice President says retailers will symbolically cover UPI QR Codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti
+
+## India's consumer durables market set to hit Rs 3.25 lakh crore by 2030: Report
+
+
+## ‘UPI must remain zero MDR’: Mobile retailers announce October 2 protest
+Mobile phone retailers across India are set to observe a 'No UPI Day' on October 2. This protest arises against the proposed 0.4% Merchant Discount Rate (MDR) on UPI transactions over Rs 2,000. The All India Mobile Retailers Association highlights additional costs that may impact small retailers sig
+
+## France’s baguette gets a fuel shock: How the crunchy staple is draining bakers’ pockets
+Bakers in France are grappling with daunting challenges brought on by surging fuel prices that have a direct impact on their operations and financial stability. This spike in costs is especially hard for rural businesses, forcing tough choices. Owners like Kevin and Sandrine Luce are now faced with 
+
+## Market mood check: Crude, US-Iran talks and economic data to drive Dalal Street this week
+This week on Dalal Street sees a shortened holiday schedule as geopolitical concerns and volatile oil prices loom large. Analysts believe negotiations between the US and Iran might sway both oil costs and the rupee's value. Investors are on high alert for shifts in global bond yields that impact eme
+
+## Blue Star, Haier and more firms to hike appliance prices from October 1: What gets costlier?
+Manufacturers across the consumer appliance sector are gearing up for price hikes, anticipating increases of 5% to 10% from October due to surging material and freight costs. Brands like Blue Star and Haier are adjusting their pricing strategies, especially with rising copper costs affecting multipl
+
+## Are banks open or closed on Sunday, September 27? What customers need to know
+
+
+## Festive season shock: AC, TV and appliance prices set to rise from October 1
+
 
 ## Mehli Mistry to leave Tata Med Centre Trust, his 6th such exit
 
 
-## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
-On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
+## Vijay govt's U-turn amid row over RTI exemption for law and order department; DMK takes ‘shameful’ swipe
+The reversal came soon after the government’s decision sparked a political row. TVK's alliance partners, including the Congress, had strongly opposed the move.
 
-## FII Flows To Stay Subdued: Bernstein sees flat to modest inflows; rupee and valuations weigh
-Foreign institutional investor flows into Indian stocks are expected to remain stable over the next year. Analysts indicate that foreign investors have withdrawn significant funds from Indian equities recently. For a resurgence of foreign investment, India needs to develop globally competitive compa
+## ‘They smashed car window, tried to drag me out’: TMC's Kunal Ghosh alleges armed men tried to kill him
+Kunal Ghosh alleged that armed men smashed the window of his car and attempted to drag him out while he was on his way to attend a programme.
 
-## Big dollar inflows, little boost for rupee: Why currency may stay near Rs 96 near term
-The movements of the rupee are shaped by various elements, such as interventions from the RBI and prevailing market sentiment. Experts forecast that the currency will achieve stability soon, hovering between Rs 94.5 and Rs 96 per dollar. Despite recent inflows of dollars, the rupee's market value re
+## 30-day recharges, voice-only plans: Telecom regulator's actions after Raghav Chadha's Parliament push
+New TRAI regulations will mandate telecom operators to introduce voice and SMS-only plans, benefiting consumers who need basic communication services.
 
-## Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist
-Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, alongside escalating worries about Saudi oil supply. Brent crude fell to $104.30 a barrel, while West Texas Intermediate decreased to $92.41. With negotiators examining the reopening of the Strait of Hormuz for sanction r
+## 2025 Ladakh violence: Wangchuk seeks release of inquiry report, higher compensation for victims
+2025 Ladakh violence: Wangchuk seeks release of inquiry report, higher compensation for victims
 
-## Self-listing of bourses feasible, says NSE chief
+## Odisha flood threat as Mahanadi discharge may reach 800,000 cusecs: Officials
+The rising water levels are likely to affect low-lying areas of Khurda, Cuttack, Puri and Jagatsinghpur districts as several rivers in the Mahanadi system
 
+## In third hike this year, appliances to cost 5-8% more from October 1: Report
+Panasonic said it was still evaluating the situation before coming to a decision in the matter.
 
-## Indian economy doing well amid global headwinds, says RBI
+## Watch: Monkey barges into Ranchi liquor shop, drinks quarter of vodka and dozes off
+According to a video going viral, the monkey entered the shop and downed a quarter of vodka. The monkey soon dozed off on a stack of bottles inside a carton.
 
+## Mobile phone retailers to protest against UPI MDR charges on October 2
+Mobile retailers body said retailers will symbolically cover UPI QR Codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti.
 
-## Ties with US in 'uneasy equilibrium': CEA
+## Buyers snap up new Hong Kong flats ahead of likely interest rate rises
+Hong Kong developers have already sold more than 290 of the new flats they launched over the weekend, as buyers look to lock in mortgages ahead of an anticipated rise in interest rates later this year, according to property agents. The decision by the city’s major banks to hold rates steady despite 
 
-
-## Second Punjab varsity hit by ‘rape-suicide’ protests; buildings set ablaze, Delhi-Amritsar highway blocked
-The protesting students also blocked the Delhi-Amritsar national highway outside the university around 4am, demanding that an FIR be registered.
-
-## United Naga Council seeks Manipur deputy CM Nemcha Kipgen’s removal amid fresh violence
-The United Naga Council also called for the arrest of Kuki National Front chief Thangboi Kipgen and suspension of the SoO pact with Kuki groups.
-
-## Bihar govt demolishes huts linked to 3 absconding accused in Banka molestation case
-Police are conducting raids to arrest the three accused, while an FSL team inspected the site and collected evidence in the case.
-
-## Severe floods across India claim 18 lives, displace thousands amid heavy monsoon rains
-The affected regions face severe flooding, crop damage, and widespread evacuations, with thousands displaced from their homes.
-
-## Federation of Indian Pilots seeks say on independent review of AI-171 crash probe report
-They emphasize the need for pilot perspectives in the investigation process for improved aviation safety.
-
-## HT morning news brief September 27: EC says all SIR calls unanimous; Endgame re-release nets ₹15 crore
-Here's your roundup of today's top stories in politics, world affairs, sports, and entertainment — everything you need to start your day informed.
-
-## ‘Durable peace requires 2-state solution’: India at UN on Israel-Palestine
-“In the meantime, India is contributing to humanitarian assistance and relief efforts for the Palestinian people,” Jaishankar said.
-
-## Supreme Court judges among 17 to recuse from cases involving Uttarakhand IFS officer Sanjiv Chaturvedi
-The most recent was Rajveer Singh Verma on September 21, adding to a history of withdrawal by judges since 2013 due to varying circumstances.
+## Global property investors see signs of recovery in China, but wary of oversupply: JLL
+International investors who have seen early signs of recovery in mainland China’s office and retail property markets are expected to start buying when oversupply concerns are eased, according to global real estate firm JLL. Stuart Crow, JLL’s CEO for capital markets in the Asia-Pacific region, said 
 
 ## How Asia-Pacific property markets are drawing fresh capital despite US rate uncertainty
 Property markets in the Asia-Pacific region are likely to remain attractive despite heightened uncertainty over monetary policy after the US Federal Reserve delivered its first interest rate increase in more than three years this month, analysts say, with several asset classes and sectors expected t
@@ -119,12 +140,6 @@ New York may be known as the city that never sleeps, but many Hongkongers like t
 
 ## Asia-Pacific hotels a ‘most compelling’ investment amid travel growth, flat supply: CBRE
 Investor appetite for hotel assets increased in Hong Kong and the wider Asia-Pacific region in the first half of the year as consumers showed growing eagerness to travel and constrained supply supported property values, according to CBRE. The region netted US$8 billion of investment in the period, u
-
-## Mooncakes for the dog? How China is reinventing its iconic festive snack
-Mooncakes, a sweet staple for China’s annual Mid-Autumn Festival, are not just for people any more. Humans are pulling back, but dogs are digging in. So are cats. Pet mooncakes are popping up across China, from major retailers such as Sam’s Club to online stores and small bakeries. And many are quic
-
-## HSBC, Hang Seng to unify staff benefits across Hong Kong from January: internal memos
-HSBC and its main Hong Kong subsidiary, Hang Seng Bank, are set to harmonise their frameworks for employee benefits across the Asian financial hub from January 1, according to internal memos seen by the South China Morning Post. The move aims to simplify benefit administration across both lenders, e
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -222,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Huge crowds cheer Pope Leo as he leads open-air Mass in Paris
-Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde
+## ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
+Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
 
-## Ethiopia’s army promises restraint amid fears of new civil war
-Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.
+## ‘My hands are empty’: Displaced Palestinians struggle to survive
+In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
 
-## Detained Tunisian flotilla activists: Worsening health amid family anguish
-As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.
+## Israeli minister Bezalel Smotrich calls for war in occupied West Bank
+Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
 
-## German, Russian foreign ministers hold rare talks amid rising tensions
-Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.
+## Yemen government forces widen attacks against Houthis: What we know
+Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.
 
-## Bangkok declared disaster zone after heavy rains submerge roads
-Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.
+## Plane carrying DR Congo military delegation crashes
+A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians.
 
-## Thousands protest in Madrid against Spain’s housing crisis
-Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.
+## Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold
+The top seeds defend their Asian Games squash titles, becoming the first players to qualify for the Los Angeles Games.
 
-## Powerful storm batters US Northeast disrupting power and travel
-Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.
+## UK police evacuate homes near RAF Fairford airbase used by US
+Police say they have arrested several men on suspicion of explosives-related offences.
 
-## Did the biggest week of diplomacy make headway in ending the US-Iran war?
-The UN General Assembly wraps up with mixed diplomatic outcomes.
+## Massive Attack singer arrested over pro-Palestine protest in UK
+Massive Attack singer arrested over pro-Palestine protest in UK
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
