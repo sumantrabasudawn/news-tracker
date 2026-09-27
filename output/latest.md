@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Northern Ireland in tense stand-off as protests stall Orange Order parade
+## Northern Ireland in tense stand-off as protests block Orange Order parade
 March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
 
-## Explosives arrests made in ‘major incident’ near RAF Fairford
+## Pay to play in the age of corporate migration
+States are feeling more pressure from companies demanding subsidies and tax breaks
+
+## Terrorism arrests made in ‘major incident’ near RAF Fairford
 US Air Force has used UK base for strikes on Iran
+
+## Milan Fashion Week seeks the fizz
+Demna offered retail therapy at Gucci, Dolce & Gabbana made the case for maximalism while Louise Trotter got crafty at Bottega Veneta
+
+## Burnham signals he will fight election on tax rises to fund social care reform
+Prime minister says shake-up would be ‘hard’ to do in current parliament
+
+## Swiss voters reject proposal to strengthen neutrality
+A ‘Yes’ vote in the referendum would have barred co-operation with military alliances unless attacked, but 68.4% opposed
 
 ## The India shock: exporting workers to the world
 Emigration has helped New Delhi manage its labour surplus, but the strategy has limits
@@ -14,15 +26,6 @@ Market Questions is the FT’s guide to the week ahead
 
 ## Maha split shows all is not well with Kennedy’s US health revolution
 Republicans worry Make America Healthy Again is an electoral liability while activists claim it has abandoned its values
-
-## The EU needs a clearer strategy for partners like Canada
-Bloc should define what it can offer to prosperous fellow democracies
-
-## Burnham signals he will fight election on tax rises to fund social care reform
-Prime minister says shake-up would be ‘hard’ to do in current parliament
-
-## ‘Hope again’: Burnham returns to Labour conference to sell his vision
-Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
 
 ## Investors pursue Dubai investment group over missing payments
 AIX accused of having skipped or delayed payouts on bond-like products offering double-digit annual returns
@@ -45,80 +48,83 @@ Competition for cargoes could intensify in coming months as EU gas stores are at
 ## Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land
 Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America
 
-## Amit Shah flags off India’s 1st LNG train; targets zero diesel use in Railways by 2030
-Diesel consumption down 63 per cent since 2015-16 as Railways steps up shift to LNG, electric traction
+## SBI developing GIFT City specific products for NRI customers, says Chairman Setty
+The SBI Chief emphasised that SBI’s GIFT City IBU complements its domestic branches by offering good interest rates to customers for periods of less than one year
 
-## ED attaches fresh assets worth ₹442 cr in probe against online gaming company Gameskraft
-The central agency said in a statement that a provisional order was issued on September 25 under the Prevention of Money Laundering Act (PMLA) to freeze the properties.
+## PSBs, RRBs, old-generation private sector banks keep branches open on Sunday ahead of 3-day nationwide strike
+The ministry noted that the Reserve Bank of India has granted approval for all bank branches, offices, ATM-link branches and Currency Chests to remain fully operational on September
 
-## Floods, landslides kill 56 in India and 14 in Nepal
-Authorities are carrying out rescue operations in waterlogged areas and distributing relief, while officials have been told to assess crop ​damage and provide compensation
+## Mehli Mistry steps down from Tata Medical Center trust
+Mistry, a confidante of late Ratan Tata, informed the board of the medical center he will not seek a re-election upon the end of his term on September 30
 
-## Capacity scale-ups to drive Epigral's ₹5,000 crore target by FY31: CMD Maulik Patel
-The company expects to reach ₹2,900 crore in revenue this fiscal year following revenue of ₹2,500–2,530 crore in 2026
+## SEBI PMS overhaul could turn advisers into portfolio managers
+₹25-lakh PRIM route gives wealth managers a new way to manage MF portfolios, while broader PMS mandate expands asset-allocation options
 
-## Officials discuss credit ecosystem of TN in 187th State Level Bankers’ Committee (SLBC) meet
-The performance of banks in areas including Agriculture and Allied Activities, Micro, Small and Medium Enterprises (MSMEs), education loans, housing and other priority sectors was reviewed
+## Centre plans major aviation infra push in West Bengal
+AAI, State government to sign MoU next month covering Hasimara, Kalaikunda, Malda and Balurghat, say sources
 
-## Investors choose UP because of its large consumer market and infrastructure to match it, says CM Yogi Adityanath
-Uttar Pradesh Chief Minister Yogi Adityanath talks about what’s working for the state on the investment front and where it plans to go
+## DTDC sets sights on nearly doubling revenue by FY30 after 7.4% FY26 growth
+DTDC is targeting double-digit growth through FY30 after FY26 revenue rose 7.4% to ₹2,655 crore
 
-## Tamil Nadu revokes controversial order exempting Law and Order dept from RTI Act after backlash
-The swift reversal comes after the initial move by the TVK-led state administration triggered a political storm, drawing sharp criticism from alliance partners — the Congress and the Viduthalai Chiruthaigal Katchi (VCK).
+## Govt directs company-run power plants to supply surplus electricity in market
+The measure aims to ensure adequate electricity supply by leveraging all generating sources
 
-## Mobile phone retailers to protest against UPI MDR charges on Oct 2
-All India Mobile Retailers Association Vice President says retailers will symbolically cover UPI QR Codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti
+## AI PCs will drive the next phase of enterprise computing: Dell
+Dell reports AI-enabled PCs will transform enterprise computing; by 2028, 98% of PCs may have AI capabilities, boosting productivity and data sovereignty
+
+## Made-in-India electronics get PLI boost as firms draw Rs 20,580 crore investment
+India's ambitious push in electronics manufacturing has garnered remarkable incentives totaling Rs 19,090.98 crore, enabling the production of more mobile devices. The surge in smartphone exports is astounding, leaping from $5.5 billion to nearly $30 billion over the period from 2021-22 to 2025-26. 
+
+## US diesel ban: Why cheaper diesel could come with a gasoline price shock
+A potential restriction on U.S. diesel exports could initially lower domestic diesel prices due to a spike in supply, but may ultimately cause gasoline prices to rise if refiners cut back on production. Goldman Sachs warns that sustained export limits could significantly elevate retail gasoline cost
+
+## Gold and silver outlook: Job data, crude and more in focus to guide bullion this week
+The gold and silver markets are poised for significant fluctuations as crucial US jobs and inflation data are on the horizon. Investors are keenly aware of the Federal Reserve's hints about possible policy adjustments, which could greatly influence precious metals. Additionally, consumer confidence,
+
+## EAM Jaishankar, Canada FM Anand discuss taking bilateral ties ‘to a higher level’
+India and Canada are actively enhancing their bilateral ties as External Affairs Minister S Jaishankar engages with Anita Anand. This meeting is a part of trade negotiations aiming for a significant increase in trade by 2030. Canadian Prime Minister Mark Carney hinted at a potential visit from Prime
+
+## Barrier-free tolling: FASTag & ANPR will help collect toll from your vehicle automatically
+With barrier-free tolling, vehicles can move through at normal highway speeds while cameras and FASTag systems identify the vehicle and collect the toll automatically.
+
+## Bank closure this week: When and where will banks stay shut from Sept 28 to Oct 4
+Prepare for some interruptions in banking services next week as banks will be closing for several days. A nationwide strike is set from September 28 to 30, followed by a holiday on October 2. While you can still access digital banking, in-person services will be limited. Make sure to visit your loca
+
+## New mobile recharge rules: 30-day plans, call-only options and more
+The Telecom Regulatory Authority of India has unveiled enhancements to prepaid mobile recharge options, featuring more voice-and-SMS-only Special Tariff Vouchers. Users can now access plans with a validity of 30 days or less. This initiative is especially beneficial for senior citizens and budget-co
 
 ## India's consumer durables market set to hit Rs 3.25 lakh crore by 2030: Report
 
 
-## ‘UPI must remain zero MDR’: Mobile retailers announce October 2 protest
-Mobile phone retailers across India are set to observe a 'No UPI Day' on October 2. This protest arises against the proposed 0.4% Merchant Discount Rate (MDR) on UPI transactions over Rs 2,000. The All India Mobile Retailers Association highlights additional costs that may impact small retailers sig
+## 71-yr-old Odisha woman swept by swollen river survives crocodile-infested waters
+The rescuers later found that Dalai had come from the Jajpur side of the river. They said her survival was incredible as the Birupa is known for crocodiles
 
-## France’s baguette gets a fuel shock: How the crunchy staple is draining bakers’ pockets
-Bakers in France are grappling with daunting challenges brought on by surging fuel prices that have a direct impact on their operations and financial stability. This spike in costs is especially hard for rural businesses, forcing tough choices. Owners like Kevin and Sandrine Luce are now faced with 
+## 'Grabbed by neck, threatened to kill me': Man slapped by Parvesh Verma alleges assault by ‘BJP workers’
+The video of the incident shared by AAP leaders on social media has sparked a political row.
 
-## Market mood check: Crude, US-Iran talks and economic data to drive Dalal Street this week
-This week on Dalal Street sees a shortened holiday schedule as geopolitical concerns and volatile oil prices loom large. Analysts believe negotiations between the US and Iran might sway both oil costs and the rupee's value. Investors are on high alert for shifts in global bond yields that impact eme
+## Nationwide bank strike from tomorrow: Will online services still work? Which banks will be open? Key details
+Branches of new generation private sector banks, including ICICI Bank, HDFC Bank and Axis Bank, will remain open during the three-day strike.
 
-## Blue Star, Haier and more firms to hike appliance prices from October 1: What gets costlier?
-Manufacturers across the consumer appliance sector are gearing up for price hikes, anticipating increases of 5% to 10% from October due to surging material and freight costs. Brands like Blue Star and Haier are adjusting their pricing strategies, especially with rising copper costs affecting multipl
+## Student found dead at Guwahati homestay, father alleges gang rape, murder
+The father said there were multiple injuries on his daughter’s body and alleged that she had been subjected to severe physical assault
 
-## Are banks open or closed on Sunday, September 27? What customers need to know
+## Blasts heard inside campus, police SUVs set on fire by mob: Why Punjab's LPU is growing tense
+A protest had broken out at LPU on Saturday after reports of an alleged rape and suicide circulated on social media.
 
+## Fadnavis rejects ‘vote theft’ claims, accuses Rahul Gandhi of ‘anarchy’
+Fadnavis slammed Gandhi for brandishing the Constitution while simultaneously trying to discredit key national institutions
 
-## Festive season shock: AC, TV and appliance prices set to rise from October 1
+## ‘US won't let India become next China’: Russian envoy claims ‘Freudian slip’ revealed Washington's concerns
+The envoy’s remarks come as India faces US pressure over its purchase of Russian crude oil, especially after the Graham Act was signed into law.
 
+## 'Such tactics...': Dipke says Mumbai Police denied permission for CJP's October 2 protest against CEC Gyanesh Kumar
+Cockroach Janta Party co-founder Abhijeet Dipke said the Mumbai Police has denied permission for launching its protest against CEC Gyanesh Kumar.
 
-## Mehli Mistry to leave Tata Med Centre Trust, his 6th such exit
-
-
-## Vijay govt's U-turn amid row over RTI exemption for law and order department; DMK takes ‘shameful’ swipe
-The reversal came soon after the government’s decision sparked a political row. TVK's alliance partners, including the Congress, had strongly opposed the move.
-
-## ‘They smashed car window, tried to drag me out’: TMC's Kunal Ghosh alleges armed men tried to kill him
-Kunal Ghosh alleged that armed men smashed the window of his car and attempted to drag him out while he was on his way to attend a programme.
-
-## 30-day recharges, voice-only plans: Telecom regulator's actions after Raghav Chadha's Parliament push
-New TRAI regulations will mandate telecom operators to introduce voice and SMS-only plans, benefiting consumers who need basic communication services.
-
-## 2025 Ladakh violence: Wangchuk seeks release of inquiry report, higher compensation for victims
-2025 Ladakh violence: Wangchuk seeks release of inquiry report, higher compensation for victims
-
-## Odisha flood threat as Mahanadi discharge may reach 800,000 cusecs: Officials
-The rising water levels are likely to affect low-lying areas of Khurda, Cuttack, Puri and Jagatsinghpur districts as several rivers in the Mahanadi system
-
-## In third hike this year, appliances to cost 5-8% more from October 1: Report
-Panasonic said it was still evaluating the situation before coming to a decision in the matter.
-
-## Watch: Monkey barges into Ranchi liquor shop, drinks quarter of vodka and dozes off
-According to a video going viral, the monkey entered the shop and downed a quarter of vodka. The monkey soon dozed off on a stack of bottles inside a carton.
-
-## Mobile phone retailers to protest against UPI MDR charges on October 2
-Mobile retailers body said retailers will symbolically cover UPI QR Codes with black cloth and refrain from accepting UPI payments on Gandhi Jayanti.
+## How Beijing is neutralising Washington’s sanctions machine
+Last week, the president of the United States stood at the podium of the United Nations General Assembly and asked aloud whether he should “annihilate the Islamic Republic and do it quickly”. Donald Trump then turned to Venezuela’s oil and declared: “To the victor belong the spoils, you’ve all heard
 
 ## Buyers snap up new Hong Kong flats ahead of likely interest rate rises
-Hong Kong developers have already sold more than 290 of the new flats they launched over the weekend, as buyers look to lock in mortgages ahead of an anticipated rise in interest rates later this year, according to property agents. The decision by the city’s major banks to hold rates steady despite 
+Hong Kong developers have already sold all of the more than 290 new flats they launched over the weekend, as buyers look to lock in mortgages ahead of an anticipated rise in interest rates later this year, according to property agents. The decision by the city’s major banks to hold rates steady desp
 
 ## Global property investors see signs of recovery in China, but wary of oversupply: JLL
 International investors who have seen early signs of recovery in mainland China’s office and retail property markets are expected to start buying when oversupply concerns are eased, according to global real estate firm JLL. Stuart Crow, JLL’s CEO for capital markets in the Asia-Pacific region, said 
@@ -137,9 +143,6 @@ Beijing Eswin Computing Technology will start soliciting orders from institution
 
 ## Why Hong Kong banks have shut down 40% of branches in recent years
 New York may be known as the city that never sleeps, but many Hongkongers like to take care of banking transactions at 2am – a truth that helps explain why 40 per cent of physical branches have disappeared in recent years, according to local bank executives. While the number of Hong Kong licensed ba
-
-## Asia-Pacific hotels a ‘most compelling’ investment amid travel growth, flat supply: CBRE
-Investor appetite for hotel assets increased in Hong Kong and the wider Asia-Pacific region in the first half of the year as consumers showed growing eagerness to travel and constrained supply supported property values, according to CBRE. The region netted US$8 billion of investment in the period, u
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
-Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
+## Finding Desert Angels: Searching for the missing at the US-Mexico border
+An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.
 
-## ‘My hands are empty’: Displaced Palestinians struggle to survive
-In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
+## For Libya, the Hormuz crisis can be a trap or an opportunity
+Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.
 
-## Israeli minister Bezalel Smotrich calls for war in occupied West Bank
-Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
+## Strait of Hormuz tensions linger as Iran and US move further from a deal
+There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.
 
-## Yemen government forces widen attacks against Houthis: What we know
-Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours.
+## True Crime Reports: The Dosa King’s Deadly Obsession
+The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.
 
-## Plane carrying DR Congo military delegation crashes
-A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians.
+## Yemen’s health system could collapse in some areas, minister warns
+Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.
 
-## Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold
-The top seeds defend their Asian Games squash titles, becoming the first players to qualify for the Los Angeles Games.
+## Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?
+Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.
 
-## UK police evacuate homes near RAF Fairford airbase used by US
-Police say they have arrested several men on suspicion of explosives-related offences.
+## US installation commemorates victims of South African ‘white genocide’
+Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
 
-## Massive Attack singer arrested over pro-Palestine protest in UK
-Massive Attack singer arrested over pro-Palestine protest in UK
+## Ethiopians celebrate Meskel and call for peace amid fighting
+Ethiopians celebrate Meskel and call for peace amid fighting
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
