@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Northern Ireland in tense stand-off as protests block Orange Order parade
-March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
-
-## Pay to play in the age of corporate migration
-States are feeling more pressure from companies demanding subsidies and tax breaks
-
-## Terrorism arrests made in ‘major incident’ near RAF Fairford
-US Air Force has used UK base for strikes on Iran
-
-## Milan Fashion Week seeks the fizz
-Demna offered retail therapy at Gucci, Dolce & Gabbana made the case for maximalism while Louise Trotter got crafty at Bottega Veneta
-
 ## Burnham signals he will fight election on tax rises to fund social care reform
 Prime minister says shake-up would be ‘hard’ to do in current parliament
 
-## Swiss voters reject proposal to strengthen neutrality
-A ‘Yes’ vote in the referendum would have barred co-operation with military alliances unless attacked, but 68.4% opposed
+## Terrorism arrests made in ‘major incident’ near RAF Fairford
+President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran
 
-## The India shock: exporting workers to the world
-Emigration has helped New Delhi manage its labour surplus, but the strategy has limits
+## Burnham’s high-stakes speech unlikely to produce a Clause IV moment
+UK prime minister addresses his party and the nation, Brazilian presidential elections get under way, US-Canada trade war intensifies
 
-## Will US jobs data add to pressure on Fed policymakers?
-Market Questions is the FT’s guide to the week ahead
+## Corporate America embraces cheaper ‘open’ AI models
+US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems
+
+## The real lesson from the Man City affair
+Owners should be free to spend their own money on football — as long as they’re fit and proper
+
+## ‘Hope again’: Burnham returns to Labour conference to sell his vision
+Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
+
+## Northern Ireland in tense stand-off as protests block Orange Order parade
+March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
+
+## Spain erupts in fury over housing after eviction of 87-year-old woman
+Thousands take to the streets after Maricarmen Abascal forced to leave Madrid flat she had lived in for seven decades
+
+## Pay to play in the age of corporate migration
+States are feeling more pressure from companies demanding subsidies and tax breaks
 
 ## Maha split shows all is not well with Kennedy’s US health revolution
 Republicans worry Make America Healthy Again is an electoral liability while activists claim it has abandoned its values
@@ -39,14 +42,20 @@ As freight rates soar, vessel prices are being determined by how quickly a ship 
 ## Big dreams and tiny revenue are the new norm for AI IPOs
 The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking
 
-## Europe braces for LNG tug of war with Asia
-Competition for cargoes could intensify in coming months as EU gas stores are at record lows
+## Bank strike deferred after IBA assurance on five-day work week
+The decision follows an agreement to form a high-level committee to examine remaining Saturdays as holidays and address other pending demands
 
-## Private credit turmoil eases as investor withdrawals slow
-‘Too early to call the bottom’ but redemption requests from retail investors fall
+## A great personality, committed to nation-building
+Born into a respected Prayagraj family, Singhal dedicated his life to Bharat’s revival, earning wide respect from saints, seers, and Karyakartas alike, while leaving a lasting imprint on education, music, and social unity.
 
-## Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land
-Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America
+## Demand estimate of fertilizer for Rabi 2026-27 may be 2 LT higher
+India plans a nearly 350 lakh-tonne fertilizer demand for Rabi 2026-27, with Urea leading, amid mixed monsoon impact and policy focus.
+
+## Centre plans major aviation infra push in West Bengal
+AAI, State government to sign MoU next month covering Hasimara, Kalaikunda, Malda and Balurghat, say sources
+
+## Editorial. Spam traps
+TRAI’s AI-led initiative needs fine-tuning
 
 ## SBI developing GIFT City specific products for NRI customers, says Chairman Setty
 The SBI Chief emphasised that SBI’s GIFT City IBU complements its domestic branches by offering good interest rates to customers for periods of less than one year
@@ -57,20 +66,11 @@ The ministry noted that the Reserve Bank of India has granted approval for all b
 ## Mehli Mistry steps down from Tata Medical Center trust
 Mistry, a confidante of late Ratan Tata, informed the board of the medical center he will not seek a re-election upon the end of his term on September 30
 
-## SEBI PMS overhaul could turn advisers into portfolio managers
-₹25-lakh PRIM route gives wealth managers a new way to manage MF portfolios, while broader PMS mandate expands asset-allocation options
+## India sees 30% increase in Michelin Key hotels in second year of rating here
+India has seen an increase in luxury hotels evaluated by the Michelin Guide, with 47 hotels receiving Keys. These hotels were assessed based on five universal criteria to maintain high standards. Prominent establishments like Taj Falaknuma Palace and Taj Lake Palace received three Keys each. India's
 
-## Centre plans major aviation infra push in West Bengal
-AAI, State government to sign MoU next month covering Hasimara, Kalaikunda, Malda and Balurghat, say sources
-
-## DTDC sets sights on nearly doubling revenue by FY30 after 7.4% FY26 growth
-DTDC is targeting double-digit growth through FY30 after FY26 revenue rose 7.4% to ₹2,655 crore
-
-## Govt directs company-run power plants to supply surplus electricity in market
-The measure aims to ensure adequate electricity supply by leveraging all generating sources
-
-## AI PCs will drive the next phase of enterprise computing: Dell
-Dell reports AI-enabled PCs will transform enterprise computing; by 2028, 98% of PCs may have AI capabilities, boosting productivity and data sovereignty
+## Foreign secy Misri meets US lawmakers; Russia sanctions bill and India-US ties in focus
+Vikram Misri recently engaged with a bipartisan US Congressional delegation to delve into significant facets of India-US relations. Their dialogue emphasized the repercussions of the newly enacted Sanctioning Russia and Iran Act and examined critical themes such as energy security and strategic coop
 
 ## Made-in-India electronics get PLI boost as firms draw Rs 20,580 crore investment
 India's ambitious push in electronics manufacturing has garnered remarkable incentives totaling Rs 19,090.98 crore, enabling the production of more mobile devices. The surge in smartphone exports is astounding, leaping from $5.5 billion to nearly $30 billion over the period from 2021-22 to 2025-26. 
@@ -90,35 +90,29 @@ With barrier-free tolling, vehicles can move through at normal highway speeds wh
 ## Bank closure this week: When and where will banks stay shut from Sept 28 to Oct 4
 Prepare for some interruptions in banking services next week as banks will be closing for several days. A nationwide strike is set from September 28 to 30, followed by a holiday on October 2. While you can still access digital banking, in-person services will be limited. Make sure to visit your loca
 
-## New mobile recharge rules: 30-day plans, call-only options and more
-The Telecom Regulatory Authority of India has unveiled enhancements to prepaid mobile recharge options, featuring more voice-and-SMS-only Special Tariff Vouchers. Users can now access plans with a validity of 30 days or less. This initiative is especially beneficial for senior citizens and budget-co
+## Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
+Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
 
-## India's consumer durables market set to hit Rs 3.25 lakh crore by 2030: Report
+## 3-day bank strike deferred after talks between bank body and unions
+The three-day bank strike from September 28 to 30 has been deferred as UFBU and IBA begin talks on Saturday holidays.
 
+## ‘Hooliganism won’t be tolerated; what is his crime?': Rahul Gandhi, AAP rage over Parvesh Verma's slapgate
+The controversy began after the video purportedly showing Parvesh Verma slapping a man during road inspection went viral on social media.
 
-## 71-yr-old Odisha woman swept by swollen river survives crocodile-infested waters
-The rescuers later found that Dalai had come from the Jajpur side of the river. They said her survival was incredible as the Birupa is known for crocodiles
+## High alert in Uttarkashi after IMD rain warning, administration issues advisory
+Disaster management teams, the Revenue Department, Police, SDRF and NDRF are on alert in the district.
 
-## 'Grabbed by neck, threatened to kill me': Man slapped by Parvesh Verma alleges assault by ‘BJP workers’
-The video of the incident shared by AAP leaders on social media has sparked a political row.
+## LPU postpones mid-term exams, suspends classes for 10 days amid violent protests
+The university has also suspended regular classes for 10 days starting September 28, it said in a release.
 
-## Nationwide bank strike from tomorrow: Will online services still work? Which banks will be open? Key details
-Branches of new generation private sector banks, including ICICI Bank, HDFC Bank and Axis Bank, will remain open during the three-day strike.
+## Ashutosh Ranka says team CJP's ‘illegal detention’ by Assam Police 'finally ended'; Dipke reacts
+CJP chief Abhijeet Dipke reacted to Ranka's post and said, “Abey yaar… I was actually looking forward to joining your strike at the police station tomorrow.”
 
-## Student found dead at Guwahati homestay, father alleges gang rape, murder
-The father said there were multiple injuries on his daughter’s body and alleged that she had been subjected to severe physical assault
+## Why Mumbai police denied permission to CJP for October 2 protest against CEC Gyanesh Kumar
+Abhijeet Dipke warned that the CJP will launch a Jail Bharo Andolan in Mumbai on Gandhi Jayanti if their “right to protest” is denied.
 
-## Blasts heard inside campus, police SUVs set on fire by mob: Why Punjab's LPU is growing tense
-A protest had broken out at LPU on Saturday after reports of an alleged rape and suicide circulated on social media.
-
-## Fadnavis rejects ‘vote theft’ claims, accuses Rahul Gandhi of ‘anarchy’
-Fadnavis slammed Gandhi for brandishing the Constitution while simultaneously trying to discredit key national institutions
-
-## ‘US won't let India become next China’: Russian envoy claims ‘Freudian slip’ revealed Washington's concerns
-The envoy’s remarks come as India faces US pressure over its purchase of Russian crude oil, especially after the Graham Act was signed into law.
-
-## 'Such tactics...': Dipke says Mumbai Police denied permission for CJP's October 2 protest against CEC Gyanesh Kumar
-Cockroach Janta Party co-founder Abhijeet Dipke said the Mumbai Police has denied permission for launching its protest against CEC Gyanesh Kumar.
+## Called us ‘cockroaches’, ‘anti-national’: Kolkata's SRFTI students, right-wing group clash during event
+The situation turned tense after students objected to outsiders being present on the campus and asked why a private organisation was allowed to hold an event.
 
 ## How Beijing is neutralising Washington’s sanctions machine
 Last week, the president of the United States stood at the podium of the United Nations General Assembly and asked aloud whether he should “annihilate the Islamic Republic and do it quickly”. Donald Trump then turned to Venezuela’s oil and declared: “To the victor belong the spoils, you’ve all heard
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Finding Desert Angels: Searching for the missing at the US-Mexico border
-An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.
+## Stuck between Israeli military checkpoints
+Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.
 
-## For Libya, the Hormuz crisis can be a trap or an opportunity
-Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.
+## Palestine Action protesters arrested in Liverpool
+Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.
 
-## Strait of Hormuz tensions linger as Iran and US move further from a deal
-There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.
+## At least 12 dead and dozens missing after a vessel capsizes in DRC
+This incident comes only two days after at least 41 people died in another boat capsizing in DRC.
 
-## True Crime Reports: The Dosa King’s Deadly Obsession
-The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.
+## South Korea, Ukraine relations sour over North Korean POW transfer
+South Korea's presidential office criticises Ukraine for denying POW nondisclosure agreement.
 
-## Yemen’s health system could collapse in some areas, minister warns
-Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.
+## ‘Iran ready for doomsday war’, FM Araghchi says
+Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
 
-## Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?
-Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.
+## Mike Waltz: US offered to sell Iran uranium for civilian programme
+US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
 
-## US installation commemorates victims of South African ‘white genocide’
-Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
+## One month after Nepal’s catastrophic floods, thousands remain missing
+A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
 
-## Ethiopians celebrate Meskel and call for peace amid fighting
-Ethiopians celebrate Meskel and call for peace amid fighting
+## Giant pandas arrive in Atlanta as part of 10-year US-China agreement
+The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
