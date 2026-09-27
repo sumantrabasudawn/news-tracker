@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Northern Ireland in tense stand-off as protests block Orange Order parade
+March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
+
+## FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says
+Also in today’s newsletter: terrorism arrests made near RAF Fairford and Nicaragua hands Chinese miners rights to a tenth of its land
+
+## World’s worst-performing market slashes minimum price for stocks
+Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent
+
+## Trump asked Xi if China wanted to buy American weapons, US envoy says
+Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing
+
+## ‘Hope again’: Burnham returns to Labour conference to sell his vision
+Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
+
 ## Burnham signals he will fight election on tax rises to fund social care reform
 Prime minister says shake-up would be ‘hard’ to do in current parliament
 
@@ -14,15 +29,6 @@ US businesses far beyond Silicon Valley are adopting Chinese alternatives to Ope
 
 ## The real lesson from the Man City affair
 Owners should be free to spend their own money on football — as long as they’re fit and proper
-
-## ‘Hope again’: Burnham returns to Labour conference to sell his vision
-Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
-
-## Northern Ireland in tense stand-off as protests block Orange Order parade
-March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
-
-## Spain erupts in fury over housing after eviction of 87-year-old woman
-Thousands take to the streets after Maricarmen Abascal forced to leave Madrid flat she had lived in for seven decades
 
 ## Pay to play in the age of corporate migration
 States are feeling more pressure from companies demanding subsidies and tax breaks
@@ -114,6 +120,9 @@ Abhijeet Dipke warned that the CJP will launch a Jail Bharo Andolan in Mumbai on
 ## Called us ‘cockroaches’, ‘anti-national’: Kolkata's SRFTI students, right-wing group clash during event
 The situation turned tense after students objected to outsiders being present on the campus and asked why a private organisation was allowed to hold an event.
 
+## Mapping Biology’s Next Frontier
+After two decades backing some of the world’s earliest artificial-intelligence companies, Liu Wei has moved from investor to builder. A longtime technology enthusiast, Wei spent 18 years as an early-stage investor, including as general partner of Legend Star Ventures and founding CEO of Baidu Ventur
+
 ## How Beijing is neutralising Washington’s sanctions machine
 Last week, the president of the United States stood at the podium of the United Nations General Assembly and asked aloud whether he should “annihilate the Islamic Republic and do it quickly”. Donald Trump then turned to Venezuela’s oil and declared: “To the victor belong the spoils, you’ve all heard
 
@@ -134,9 +143,6 @@ Chinese biotech deal making is moving beyond the licensing of individual drug ca
 
 ## Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut
 Beijing Eswin Computing Technology will start soliciting orders from institutional and public investors on Monday ahead of its Hong Kong initial public offering (IPO), aiming to raise around US$300 million, according to people familiar with the matter. The Chinese chipmaker had already started gaugi
-
-## Why Hong Kong banks have shut down 40% of branches in recent years
-New York may be known as the city that never sleeps, but many Hongkongers like to take care of banking transactions at 2am – a truth that helps explain why 40 per cent of physical branches have disappeared in recent years, according to local bank executives. While the number of Hong Kong licensed ba
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Stuck between Israeli military checkpoints
-Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.
+## Ireland defeats Israel in controversial UEFA Nations League match
+Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
 
-## Palestine Action protesters arrested in Liverpool
-Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.
+## Alleged rape on campus sparks violent protest at Indian university
+Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
 
-## At least 12 dead and dozens missing after a vessel capsizes in DRC
-This incident comes only two days after at least 41 people died in another boat capsizing in DRC.
+## Floods inundate roads in southeastern Algeria
+Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
 
-## South Korea, Ukraine relations sour over North Korean POW transfer
-South Korea's presidential office criticises Ukraine for denying POW nondisclosure agreement.
+## Ramos fires holders Portugal to 2-1 Nations League win in Norway
+Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.
 
-## ‘Iran ready for doomsday war’, FM Araghchi says
-Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
+## Deadly strike hits market in Yemen’s Taiz
+A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.
 
-## Mike Waltz: US offered to sell Iran uranium for civilian programme
-US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
+## Israeli strikes continue in southern Lebanon despite ceasefire
+An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.
 
-## One month after Nepal’s catastrophic floods, thousands remain missing
-A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
+## Five arrested near UK RAF base over suspected explosives ‘terror’ plot
+Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.
 
-## Giant pandas arrive in Atlanta as part of 10-year US-China agreement
-The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.
+## Ethiopian army reportedly recaptures strategic town as fighting spreads
+Ethiopia’s army has reportedly recaptured the strategic town of Sekota from Tigrayan forces as fighting spreads.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
