@@ -1,70 +1,61 @@
 # AION Intelligence
 
-## German and Russian foreign ministers meet for first time in over four years
-Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’
+## Swiss voters to decide fate of centuries-old neutrality
+A Yes vote would bar the country from co-operating with military alliances unless attacked
 
-## Trump and Xi to meet twice more after summit fails to resolve tensions
-Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off
+## Value of old supertankers soars past new builds as market goes ‘bananas’
+As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers
 
-## Northern Ireland High Court suspends contentious Orange Order parade
-Judge urges all sides to ‘step back from the abyss’ in snowballing row over march that has fuelled sectarian tensions
+## Big dreams and tiny revenue are the new norm for AI IPOs
+The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking
 
-## Burnham to revive Help to Buy scheme in bid to aid first-time buyers
-Concern mounts among ministers that low housing construction volumes could hit growth forecasts
+## The UK’s IMF bailout has things to teach us 50 years on
+A different Healey may be chancellor but he faces a set of parallel challenges
 
-## Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz
-Tehran offered a week-long break in hostilities to kick-start peace talks aimed at ending seven-month-long conflict
+## Europe braces for LNG tug of war with Asia
+Competition for cargoes could intensify in coming months as EU gas stores are at record lows
 
-## Energy costs and AI power demand reshape climate talks in New York
-Disruption of global energy markets dominates discussions that previously concentrated more on cutting emissions
+## Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land
+Dozens of mining concessions deepen Beijing’s strategic foothold as it tussles with US for influence in Central America
 
-## Manchester City verdict poses latest test to UK-UAE relations
-Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment
+## US housing crunch puts private equity in midterm campaign crosshairs
+FT analysis shows that institutional investors are being blamed for soaring costs
 
-## The gangs testing Colombia’s hardline new leader
-Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy
+## The west London high street fighting against bookies and chicken shops
+Residents’ campaign to diversify Uxbridge Road comes as prime minister pledges to tackle UK’s ‘hollowed out’ neighbourhoods
 
-## Manchester City rule breaches — potential punishments, appeals and next steps
-The case could run for several years, legal experts warn
+## The rules of AI etiquette
+Just because a bot can do something for you doesn’t mean it should
 
-## Hackers hijack AI accounts and servers to fuel new cyber crime boom
-Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources
+## Private credit turmoil eases as investor withdrawals slow
+‘Too early to call the bottom’ but redemption requests from retail investors fall
 
-## Monzo in talks with Brazil’s Nubank about sale
-UK fintech is also in discussions with private equity about selling a significant stake in the business
+## OpenAI pauses training of latest AI after agentic models gains unauthorised access to US government sites
+Another agentic AI system under training in internet-free environment gained access to the web to reach an external, third-party chatbot.
 
-## Manchester City’s moment of reckoning
-Also in today’s newsletter: how Roger Federer built the Laver Cup and US sports leagues warm to private equity
+## WOI India acquires SwiftSeed Ventures; appoints founder Amar Dixit as CEO
+The acquisition brings SwiftSeed's founder-investor community into WOI India's broader entrepreneurship ecosystem
 
-## Medicines run short in Iran under US sanctions
-Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult
+## India’s tourism sector contributes 5.22% to GDP, supports 8.46 crore jobs: Govt
+Foreign exchange earnings from tourism rose to ₹2,76,831 crore in 2025, from ₹63,978 crore in 2021
 
-## Apax nears deal to buy Warburg Pincus out of €6.5bn telecoms group Odido
-Purchase would follow private equity owners’ decision to shelve planned listing of Dutch operator due to market instability
+## Rajasthan CM dedicates projects worth ₹924 crore in Udaipur division
+Sharma said tribal art and cultural traditions form a distinctive and strong identity for Rajasthan
 
-## Jaishankar calls targeting of commercial shipping, seafarers ‘simply unacceptable’ amid Gulf conflict
-India urged restraint and de-escalation while highlighting threats to civilians, energy supplies, commerce, maritime security and developing nations.
+## Andhra Pradesh to host southern regional workshop under 'Mission Karmayogi' on Sep 29
+The regional workshop is aimed at capacity building among government employees and enhancing administrative skills, an official release said.
 
-## India’s right to defend itself against terrorism will be exercised, Jaishankar tells UNGA
-Speaking at the General Debate, the External Affairs Minister highlighted peace, development, global cooperation and India’s contributions across the Global South
+## Film City to get global-level upgrade in its 50th year: Minister Shelar
+Shelar visits the Goregaon-based Chitranagari on the 49th foundation day of the Maharashtra Film, Theatre and Cultural Development Corporation.
 
-## China says US agrees to $30 billion tariff-reduction arrangement, AI dialogue
-The agreement followed President Xi Jinping’s three-day summit with Donald Trump, which ended Friday after talks focused on bilateral relations.
+## Stock market news: Liqvd Digital IPO, Axiom Gas debut and NSE’s dabba trading warning
+Liqvd Digital India SME IPO subscribed 5.08 times
 
-## Zydus Lifesciences’ New Jersey facility clears USFDA inspection with nil observations
-The inspection covered the company’s pharmacovigilance and post-marketing surveillance system and was conducted from September 22 to September 25.
+## OpenAI, Anthropic CEOs called to appear at Australian AI probe
+The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the US
 
-## Dr Lal PathLabs’ arm acquires 80% stake in Ghana’s Sunshine Healthcare
-The acquisition was completed under the agreement and applicable provisions in Ghana, making Sunshine Healthcare a step-down subsidiary of Dr Lal PathLabs.
+## Mehli Mistry to leave Tata Med Centre Trust, his 6th such exit
 
-## Should you buy PB Fintech, Turtlemint after nearly 40% crash in two days?
-Seven of the 11 listed insurance companies fell 1-8 per cent, resulting in a net erosion of about ₹9,800 crore in market capitalisation, post IRDAI’s consultation paper release on September 23
-
-## Alkem Labs: Hold on till growth gets a new boost
-CDMO and medtech segments should supplement base business growth in the long term
-
-## New-age IPOs: Five years on, still show-me stories
-While many companies have scaled revenue and achieved break-even, investors are paying ₹260 for every ₹1 of profit earned by these firms
 
 ## Gift Nifty Sets New Records: turnover hits $23.67bn, open interest at $21.87bn; NSE IX hails “new era”
 On September 25, 2026, GIFT Nifty reported unprecedented turnover and open interest, showcasing impressive expansion. The platform achieved a total cumulative turnover of $3.52 trillion since its inception, alongside trading 76.19 million contracts. The NSE IX indicated a substantial uptick in tradi
@@ -87,32 +78,32 @@ Oil prices dropped by more than 2% amid the initiation of US-Iran truce talks, a
 ## Ties with US in 'uneasy equilibrium': CEA
 
 
-## No extra time for realising export proceeds
+## Second Punjab varsity hit by ‘rape-suicide’ protests; buildings set ablaze, Delhi-Amritsar highway blocked
+The protesting students also blocked the Delhi-Amritsar national highway outside the university around 4am, demanding that an FIR be registered.
 
+## United Naga Council seeks Manipur deputy CM Nemcha Kipgen’s removal amid fresh violence
+The United Naga Council also called for the arrest of Kuki National Front chief Thangboi Kipgen and suspension of the SoO pact with Kuki groups.
 
-## Telangana to remove eligible private properties from 22-A list
-Telangana has removed private properties from the prohibited list for registration, benefiting 1.41 lakh homes and plots, amid political controversy.
+## Bihar govt demolishes huts linked to 3 absconding accused in Banka molestation case
+Police are conducting raids to arrest the three accused, while an FSL team inspected the site and collected evidence in the case.
 
-## 'Countries far from conflicts being penalised': Jaishankar invokes PM Modi's remark at UNGA
-Jaishankar called upon the UN assembly to "face up to the true state of affairs".
+## Severe floods across India claim 18 lives, displace thousands amid heavy monsoon rains
+The affected regions face severe flooding, crop damage, and widespread evacuations, with thousands displaced from their homes.
 
-## 'Serial practitioner of terrorism misrepresented facts': Jaishankar hits out at Pakistan PM Sharif at UNGA
-Without naming him, Jaishankar said Pakistan PM Sharif had invoked arguments to “normalise terrorism” and “claim immunity” from its consequences.
+## Federation of Indian Pilots seeks say on independent review of AI-171 crash probe report
+They emphasize the need for pilot perspectives in the investigation process for improved aviation safety.
 
-## Uttarakhand bans loud sound systems near Badrinath Dham temple, other religious sites in Chamoli
-Officials have been directed to ensure strict compliance, with legal action to be taken against organisers or committees violating the order.
+## HT morning news brief September 27: EC says all SIR calls unanimous; Endgame re-release nets ₹15 crore
+Here's your roundup of today's top stories in politics, world affairs, sports, and entertainment — everything you need to start your day informed.
 
-## Tamil Nadu YouTuber’s gold, cash flaunting on social media backfires as burglars steal jewellery
-The woman, identified as Madhumitha, runs a YouTube channel where she regularly shares reels and lifestyle videos.
+## ‘Durable peace requires 2-state solution’: India at UN on Israel-Palestine
+“In the meantime, India is contributing to humanitarian assistance and relief efforts for the Palestinian people,” Jaishankar said.
 
-## 'Gyanu must go,' says Dipke after ex-bureaucrat claims Gyanesh Kumar offered him BJP candidature
-The CEC is at the heart of a controversy surrounding the commission after reports of alleged differences between the two election commissioners and Kumar.
+## Supreme Court judges among 17 to recuse from cases involving Uttarakhand IFS officer Sanjiv Chaturvedi
+The most recent was Rajveer Singh Verma on September 21, adding to a history of withdrawal by judges since 2013 due to varying circumstances.
 
-## 17-year-old Nikita Kumari shines as India beat Iran to win kabaddi gold
-Haryana’s 17-year-old Nikita Kumari made her senior India debut count, delivering a crucial performance as India defeated Iran to win women’s kabaddi gold.
-
-## Child drug abuse is a child protection issue, not just health: CJI Surya Kant
-CJI Surya Kant said children facing substance abuse need dignity, confidentiality and rehabilitation, warning that stigma can discourage them from seeking help.
+## How Asia-Pacific property markets are drawing fresh capital despite US rate uncertainty
+Property markets in the Asia-Pacific region are likely to remain attractive despite heightened uncertainty over monetary policy after the US Federal Reserve delivered its first interest rate increase in more than three years this month, analysts say, with several asset classes and sectors expected t
 
 ## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
 EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
@@ -134,9 +125,6 @@ Mooncakes, a sweet staple for China’s annual Mid-Autumn Festival, are not just
 
 ## HSBC, Hang Seng to unify staff benefits across Hong Kong from January: internal memos
 HSBC and its main Hong Kong subsidiary, Hang Seng Bank, are set to harmonise their frameworks for employee benefits across the Asian financial hub from January 1, according to internal memos seen by the South China Morning Post. The move aims to simplify benefit administration across both lenders, e
-
-## Morgan Stanley deal leak triggers rival poaching, security warnings for Hong Kong banks
-After Morgan Stanley’s leak of internal deal information in a client email, rival investment banks in Hong Kong are aggressively moving to poach clients dissatisfied with the breach, according to several people familiar with the matter. Competitors are actively approaching companies named in the lea
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -234,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Four American tourists among 6 killed in suspected gas leak blast in Athens
-Two women reportedly injured after building collapse in Athens' historic Plaka district.
+## Huge crowds cheer Pope Leo as he leads open-air Mass in Paris
+Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde
 
-## Powerful storm brings flooding, power outages to northeastern United States
-Authorities warn residents that extreme conditions in the region could pose risks.
+## Ethiopia’s army promises restraint amid fears of new civil war
+Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.
 
-## Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines
-Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.
+## Detained Tunisian flotilla activists: Worsening health amid family anguish
+As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.
 
-## Student protesters disrupt NVIDIA AI climate panel
-Student protesters have interrupted an NVIDIA panel during NYC Climate Week.
+## German, Russian foreign ministers hold rare talks amid rising tensions
+Russia's Lavrov dismisses Wadephul's call to abandon 'dangerous path of escalation' with Europe.
 
-## Trump says he is rolling back Biden-era US fuel economy rules for cars
-The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.
+## Bangkok declared disaster zone after heavy rains submerge roads
+Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.
 
-## Yamal nets in Spain’s 3-2 comeback win against England in Nations League
-Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
+## Thousands protest in Madrid against Spain’s housing crisis
+Thousands of protesters in Madrid demand answers after the eviction of 87-year-old Maricarmen Abascal.
 
-## Russia scales up strikes on Ukraine as largest steelmaker halts operations
-A wave of Russian strikes has hit various regions across Ukraine.
+## Powerful storm batters US Northeast disrupting power and travel
+Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.
 
-## Why is violence between Pakistan and Afghanistan recurring?
-Pakistan has carried out new strikes inside Afghanistan.
+## Did the biggest week of diplomacy make headway in ending the US-Iran war?
+The UN General Assembly wraps up with mixed diplomatic outcomes.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
