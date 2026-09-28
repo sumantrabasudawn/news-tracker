@@ -1,49 +1,49 @@
 # AION Intelligence
 
-## Shein’s profits fall by two-thirds in first earnings report as a public company
-Fast-fashion retailer squeezed by rising freight costs and increased tariffs as business model comes under pressure
+## Netanyahu under pressure over reports he was warned about October 7
+Opposition attacks Israeli premier ahead of election over leaks suggesting Egyptian and Emirati officials alerted him to Hamas threat
 
-## Blair-era money is ‘not there now’, Healey warns Labour
-UK chancellor uses conference speech to prepare ruling party for Budget tax rises
-
-## Without a resilient economy, central banks have limited choices
-Responding to geopolitical or climate-related supply shocks after the fact is never as effective as taking preventive action
+## Fed exposed to security ‘deficiencies’, watchdog warns
+US central bank remains target for country’s foreign adversaries
 
 ## Five men arrested over alleged RAF Fairford terror plot released on bail
-Suspects are in their twenties and residents of London
+Police said suspects ‘remain under investigation as we explore multiple lines of enquiry’
 
-## Russian drones hit Kyiv science academy and hospital
-One person killed and six injured in attack on capital, as Volodymyr Zelenskyy urges countries to do more to protect Ukraine
+## Bond sell-off deepens as oil prices rise
+Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade
 
-## Post-Covid economic inactivity in UK was much lower than thought, says ONS
-Findings come days after agency said UK productivity grew twice as fast as estimated after global financial crisis
+## Can the Democrats win the Senate?
+The races, the money and the issues that will determine the final half of Trump’s second term
 
-## A TV series shows Britain is woefully unprepared for war
-Sky’s ‘The Wargame’ may be fiction but the defence vulnerabilities it reveals are very real
-
-## SpaceX’s Starship rocket reaches orbit for the first time despite engine failure
-Successful launch marks a milestone for Musk, as system is pivotal to winning more Nasa contracts and to transport humans to space
-
-## Evonik rejects €10.3bn BASF bid to consolidate chemicals industry
-Size of premium may increase pressure on management and biggest shareholder
-
-## MFS owner blames Barclays for collapse amid fraud allegations
-Paresh Raja denies claims he siphoned at least £1.3bn from mortgage firm in response to High Court lawsuit
-
-## Pass the popcorn: New York’s film-goers are on the warpath
-In an unexpected plot twist, cinemas are back
+## Ministers abandon plan to make overseas visitors pay for England’s top museums
+Culture secretary Lisa Nandy says the 15 national museums and galleries ‘must be free, forever, for everyone to access’
 
 ## Shares in UK housebuilders surge on new Help to Buy scheme
 Prime Minister Andy Burnham unveils ‘Your First Home’ plan to help people on to housing ladder
 
-## The UK ‘aircraft carrier’ launching Chinese cars into the EU
-Brussels is urging UK tariffs on Chinese electric vehicles, but it might take more than that
+## BASF should take another crack at chemicals M&A
+Evonik, governed by the RAG-Stiftung foundation, may find it hard to turn up its nose at a higher number
 
-## Nvidia launches record $150bn share buyback
-Chipmaker’s plan to repurchase stock comes as share price gains have slowed this year
+## HSBC moves to bolster Hang Seng by cleaning up balance sheet
+$1.4bn sale of Hong Kong lender’s loan portfolio part of push to improve its capital efficiency
 
-## What is the AI capex breakeven rate?
-Heroic ROIC
+## Software glitch will delay US approval of newest Boeing 737
+Shares in aerospace group fall 6 per cent on Monday to $184.
+
+## AMD to buy Fei-Fei Li’s AI start-up for $8bn
+World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments
+
+## Tata family scion hits back with plan to keep holding company private
+Charitable group chaired by Noel Tata says merging with group’s electronics arm would remove need for forced blockbuster IPO
+
+## TotalEnergies boosts buybacks and dividends as oil prices surge
+French energy company increases shareholder payouts as effect of Iran war increases cash flows
+
+## Meta launches enterprise AI business seeking to cash in on vast spending
+Chief executive Mark Zuckerberg opens a new front in his push to turn huge investment in the technology into profits
+
+## Moneyview IPO subscription hits 98x on final day; A-One Steels crosses 11x demand
+A-One Steels India raised ₹120.90 crore from anchor investors and allotted 29,85,160 equity shares to anchor investors at ₹405 apiece
 
 ## El Nino effect: India’s coal imports may rise in October-December
 Coal generation rose to 114 terawatt-hour in August, nearly 14 per cent above last year, while power sector consumption rises to roughly 77 mt
@@ -51,29 +51,26 @@ Coal generation rose to 114 terawatt-hour in August, nearly 14 per cent above la
 ## Markets sink to six-month low as oil shock wipes out ₹7.5 lakh crore in investor wealth
 The Nifty 50 closed at 22,780.25, down 360 points, while the BSE Sensex settled at 72,771.72, shedding 1,124 points
 
-## Be an entrepreneur rather than job seeker, says TN Assembly speaker
-There is transparency in starting new businesses, and everything is based on open tender, he said
+## Inflows into gold ETFs continue to be positive for 10th week in a row
+But outflows matched investments last week, with US investors choosing to exit
 
-## SC reserves judgement on the front-of-the-pack warning label matter, says its order will be binding on FSSAI
-The bench directed all parties to file their final written submissions within three days.
+## Rationale for reform
 
-## Bharatiya Kisan Sangh to hold conclave for women farmers
-The day-long event will also highlight contribution of women to farming, livestock and fisheries, and is likely to be attended by 7,000 women farmers from across the country
 
-## Front-of-the-pack warning labels : An explainer
-The FSSAI has said that it will adopt threshold values for added sugar, added fat and salt as provided in the Dietary Guidelines for Indians, 2024, issued by ICMR-NIN
+## SEBI settlement overhaul separates fund recovery from settlement payment
+Lawyers say diverted funds, disgorgement and settlement amount will have separate treatment
 
-## If neither a tax nor fee, what is this ‘expropriation’, SC asks govt on MDR
-Refuses plea by petitioner for interim stay, but issues notice
+## Noel Tata moots merger of 2 group firms with Tata Sons to keep it private
+Merge plan aims to push Tata Sons outside RBI’s NBFC and CIC thresholds
 
-## Editorial. Omissions and commissions
-Insurance distribution reforms must be expedited
+## SEBI orders winding-up of Growpital farmland investment scheme
+Regulator finds unauthorised CIS raised ₹192.88 crore from 5,208 investors; directs refund with 12 per cent interest
 
-## Tata Trusts propose merging 2 firms with Tata Sons to avoid RBI listing mandate
-In a strategic move, Tata Trusts have put forth a plan to merge Tata Electronics Systems Solutions Pvt Ltd and Tata Consulting Engineers into Tata Sons. This restructuring aims to redefine Tata Sons' regulatory classification, thereby sidestepping extra regulatory burdens. Before any actions are tak
+## SiMa.ai raises $150mn to scale physical AI
 
-## IEX subsidiary seeks licence to set up coal trading exchange in India
 
+## Rs 5.2 crore cash deposit, but Rs 7.65 lakh ITR: Why ITAT quashed tax notice
+The AO issued several notices to the individual seeking an explanation for the cash deposit and details relating to his ITR. The responses did not satisfy the tax department, following which the AO passed an assessment order. Through the order, the Rs 5.2 crore deposit was treated as unexplained mon
 
 ## Sensex, Nifty sink further: Indices at six‑month lows; Rs 17.17 lakh crore wiped out in a month
 The sell-off intensified on Monday. The BSE benchmark plunged 1,124.02 points, or 1.52%, to close at 72,771.72, marking its lowest closing level since March 30, 2026. The Nifty fell 360.25 points, or 1.56%, to finish at 22,780.25, its lowest level in nearly six months. The weakness was also visible 
@@ -81,41 +78,44 @@ The sell-off intensified on Monday. The BSE benchmark plunged 1,124.02 points, o
 ## CBDT extends tax audit report deadline till October 21, ITR filing last date to November 21
 The Central Board of Direct Taxes has officially updated the deadlines for income-tax return submissions, providing taxpayers who are subject to audit an extension until November 21, 2026. Additionally, the deadline for submitting audit reports has shifted to October 21, 2026. This amendment pertain
 
-## Industrial Output Accelerates: IIP jumps 8% in Aug on MoSPI data; cumulative growth hits 6.7%
-In August 2026, India's industrial production showcased an impressive year-on-year growth of 8 percent, building on a revised growth rate from July. The manufacturing sector alone surged by 9 percent, significantly boosting overall productivity. The Electricity and Gas Supply sector excelled too, wi
+## Tata Trusts propose merging 2 firms with Tata Sons to avoid RBI listing mandate
+In a strategic move, Tata Trusts have put forth a plan to merge Tata Electronics Systems Solutions Pvt Ltd and Tata Consulting Engineers into Tata Sons. This restructuring aims to redefine Tata Sons' regulatory classification, thereby sidestepping extra regulatory burdens. Before any actions are tak
 
 ## After hydrogen, India’s gets its first LNG train; check details
 The dual-fuel arrangement allows LNG to substitute for around 40 per cent of diesel consumption. The move is part of the national transporter’s broader push to reduce carbon emissions and move towards more sustainable modes of transport. A full tank of LNG is expected to support around 1,600 km of o
 
-## China cuts tariffs on US farm goods, but keeps soybeans on the other side
-In a significant move, China has announced plans to lower tariffs on a variety of US agricultural products, while keeping the 10% tariff on soybeans intact. The revised list highlights items like corn, wheat, vegetable oils, and dairy. This action comes in the wake of discussions between Chinese Pre
-
 ## Tenant stayed after rent agreement expired; HC orders Rs 3.27 cr + interest to be paid
 The Delhi High Court recently this very principle of mesne profits in a case involving a bank, directing the tenant to pay out, along with 6% annual interest, to the landlady for continuing to occupy the premises beyond the agreed tenancy period.
+
+## IEX subsidiary seeks licence to set up coal trading exchange in India
+
+
+## India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
+India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
+
+## US sets zero tariff on certain speciality drugs, ingredients from India, 19 other nations
+An ad valorem tariff is a set percentage of the monetary value of the goods to be taxed, according to the World Customs Organisation.
+
+## Ujjain mosque demolition: MP HC disposes of pleas by Muslim side after 'settlement' with civic body
+The bench said assurances provided by Ujjain Municipal Corporation in its response and interim notice in Shahi Masjid case would be binding on the civic body.
+
+## Campus defaced, vehicles burnt, classes suspended: Punjab's LPU returns to uneasy calm day after violent protests
+The protests escalated on Sunday evening when some protesters allegedly pelted police personnel with stones and attacked their vehicles, injuring several cops.
+
+## 120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found
+The FDA also suspended the licences of Arun Vilas Farsan in Dharavi and Ruchi Veg Restaurant in Parel over hygiene and sanitation violations.
+
+## PETA India urges Centre to prohibit meat advertisements across media from October 2
+PETA India has asked the Centre to stop meat advertising from October 2, citing concerns linked to animal welfare, public health and the environment
+
+## Supreme Court suggests ways to recover unpaid traffic challans of ₹20,000 crore: 'Add it to electricity bill'
+A Supreme Court Bench made the suggestions while hearing a plea on the electronic enforcement of traffic violations and the recovery of fines.
 
 ## ‘Ask for PM Modi's resignation directly': Arvind Kejriwal to CJP amid protest call against CEC Gyanesh Kumar
 Arvind Kejriwal's remarks come after CJP founder Abhijeet Dipke warned of nationwide protests on October 2 if the CEC did not step down by September 26.
 
-## Odisha, Chhattisgarh CMs to meet Amit Shah over Mahanadi water dispute
-The development follows a September 20 meeting between CM Mohan Charan Majhi and his Chhattisgarh counterpart Vishnu Deo Sai in Bhubaneswar
-
-## Odisha man beaten to death, body burnt over witchcraft suspicion: Police
-Police said some villagers of Merama came to Malik’s house on the hillock around 2am and took him away
-
-## Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident
-Parvesh Verma had clarified on Sunday that the man he slapped had abused his family.
-
-## India, Brazil, South Africa oppose attacks on multilateralism, back West Asia dialogue
-The three ministers emphasised the need to protect civilians and civilian infrastructure in line with international law and the UN Charter
-
-## Who is Siwet Tomar? Reality TV star draws attention after thrashing Shehzad Poonawalla in Rise & Fall season 2
-Siwet Tomar was reportedly evicted from the second season of Rise and Fall 2 for allegedly beating Shehzad Poonawalla.
-
-## Piyush Goyal to visit US for G20 meet, push for interim bilateral trade deal
-The minister will also engage bilaterally with his counterpart from the US as part of ongoing efforts to advance a balanced and mutually beneficial India-US BTA
-
-## NHAI flags improper crash barriers, tightens highway safety standards
-NHAI has also specified E350-grade steel conforming to IS 2062 (Part 1):2025. Posts, spacers and fasteners must be hot-dip galvanised
+## JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues
+Jamie Dimon’s recent whirlwind visit to Hong Kong followed a similar script: a schedule packed with meetings involving the entrepreneurs and business leaders connecting China with global markets. But it was his increasingly visible stance on global issues that appeared to extend his career beyond ma
 
 ## VW, Gotion ramp up battery production in Europe, Morocco amid rising EV demand
 Volkswagen Group and its Chinese partner Gotion High-tech have stepped up a gear in tapping global demand for electric vehicle (EV) batteries with plans to invest a combined €3.22 billion (US$3.66 billion) to set up three production lines in Europe and North Africa. The factories, to be jointly owne
@@ -138,8 +138,14 @@ The Hong Kong government has appointed Bryan Chan Ping-keung, a former executive
 ## ‘Accomplices’ in espionage: Beijing’s stance on cryptocurrencies hardens
 China’s top intelligence and security agency on Monday issued a stark new warning on the risks of cryptocurrencies, highlighting their role in crime and stressing that transactions are not anonymous. Here are three things to know about the fresh warning from the Ministry of State Security (MSS) and 
 
-## China’s Nio and Geely deepen commitment to EV battery swapping tech in stake sale
-Chinese electric vehicle (EV) maker Nio has deepened its partnership with Zhejiang Geely Holding Group after agreeing to sell a stake in its battery swap subsidiary to the automotive conglomerate in a deal that values the unit at 16 billion yuan (US$2.4 billion). Geely Holding, controlled by Chinese
+## What Xi Actually Thinks of Trump
+China’s president has likely concluded that the U.S. under Trump has lost its way.
+
+## The U.S. and China Agree to Slash Tariffs
+The cuts are on $60 billion worth of goods—but, crucially, soybeans aren’t included.
+
+## How Trump Is Sparking a Slovenian Website Boom
+The president’s call to rebrand AI as “super intelligence” has led to a surge of interest in Slovenia’s “.si” web domain.
 
 ## Brazil Has No Answers for Its China Problem
 The country’s troubling relationship to China is at the center of its presidential campaign.
@@ -156,38 +162,32 @@ The Tigray People’s Liberation Front, now allied with six other armed groups, 
 ## 6 Russian Words for a Country Sliding Into Authoritarianism
 How ordinary people describe power, repression, absurdity, and life under Putin.
 
-## ‘Furious’ Is an Angry Show for the World of Epstein and Trump
-A tumultuous TV thriller delves into damage and revenge.
+## Options for the Royal Brunei Air Force’s Fast-jet Decision
+One important mantra for the RBAirF: Don’t try to run before you can walk.
 
-## The Twilight of the Francis Fukuyama Era
-The famous thinker’s new memoir reveals a fateful political and intellectual blind spot.
+## Europe’s Read of the Trump-Xi Summit
+Decisions taken in Washington and Beijing increasingly shape European trade, technology, energy, and security.
 
-## Big Tech Is Destroying Democracy. Here’s How to Fight Back.
-A conversation with Nobel laureate Maria Ressa.
+## Lee Asks Trump to Help Revive North Korea Talks During New York Trip
+During a Lee-Trump meeting at the U.N. General Assembly, Seoul said the U.S. president reaffirmed his willingness to talk with North Korean leader Kim Jong Un.
 
-## Another Lao Activist Vanishes in Thailand
-Khieo Lapchanh is the latest Lao exile to fall victim to the growing authoritarian collaboration between the Mekong region's governments.
+## The Trump-Xi Summit Is Over, But Taiwan Is Still Bracing for the Fallout
+Given what happened in May, Taiwanese may have been more nervous after the latest Trump-Xi summit ended.
 
-## Filipina Drug Trafficker Walks Free After Receiving Presidential Pardon
-Mary Jane Veloso has always maintained her innocence, claiming that a relative tricked into carrying a large shipment of drugs.
+## Ismat Ara on India’s Crackdown on Love
+Ara explains the insidious harm of the “love jihad” myth: “A deeply personal decision, two people deciding to marry, gradually becomes something that others felt entitled to violently police.”
 
-## Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?
-Data centers, the Sovereign Wealth Fund, and a hydropower plant – will any of it better the lives of Mongolian people?
+## Why Pakistan Turned on the Taliban (and Vice Versa)
+Why did Pakistan declare “an open war” against its one-time protégé?
 
-## China’s Visibility Gap Around the Trump-Xi Summit
-Xi’s U.S. visit was extensively covered by official outlets. It's much harder to gauge public opinion or even interest.
+## Indonesia Finally Has Its Aircraft Carrier. Now Comes the Hard Part.
+Following a controversial acquisition, the most pressing question is whether and how Indonesia can convert the vessel into a viable military asset.
 
-## From Idols to KOICA: South Korea’s Disaster Support for Nepal
-Pop star donations and state aid work together to give Seoul a durable bond with Nepal.
+## The Islamabad Memorandum Returns to the Spotlight
+For Pakistan, the coming days will test whether its mediation capacity can keep pace with a conflict that continues to expand in both geography and complexity.
 
-## What Lies Behind the Rise in Anti-Israel Sentiment in Thailand?
-Nationalist rabble-rousers have accused Israelis of trying to seize Thai territory, and Israeli tourists of misbehaving or disrespecting the country's culture.
-
-## North Korea’s Ukraine POWs Are Now in South Korea. What Comes Next?
-Both the South Korean government and the two former soldiers face an unprecedented resettlement process.
-
-## The Militarization of Outer Space: Chinese Infrastructure in the Global South
-Projects developed within bilateral frameworks could form an international infrastructure that provides China with operational advantages in space.
+## Why the Week’s Most Important Story Went Unwritten
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## Collective Defense in an Era of Tokens and Data Links
 NATO’s Supreme Allied Commander Transformation, Adm. Pierre Vandier, returns to the studio to discuss how the alliance is continuously adapting to a new era of warfare driven by software, data, and uncrewed systems, and where it still lags. He explains why NATO is favoring field experimentation, how
@@ -209,9 +209,6 @@ Traumatic brain injury became the signature wound of the post-9/11 wars because 
 
 ## South Korea’s Deliberate Strategic Ambiguity on Taiwan
 In 2021, Sungmin Cho wrote, “South Korea’s Taiwan Conundrum,” where he argued Seoul’s complex strategic position makes engagement on questions of involvement over a Taiwan contingency complicated. Five years later, we asked him to revisit his arguments.Image: U.S. Navy (Photo by Seaman Apprentice Ca
-
-## Winning by the Rules: Optimizing Weapons Reviews in the Age of Technological Innovation
-We spare the reader another detailed story from Ukraine to establish the now-familiar point that battlefield technology changes faster than militaries can acquire, review, and field it. The villain in this story is easy to identify: bureaucracy. The fashionable remedies are equally familiar — cut th
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
-Israeli national security minister declares 'we are the owners of the place in Al-Aqsa' amid heavily guarded incursion.
+## Hundreds set up tent encampments in Madrid over housing crisis
+Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
 
-## Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games
-Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers' woes.
+## Olise scores late to grab France 1-0 Nations League win at Belgium
+Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
 
-## Cattle to feed: Why a global meat crisis is looming
-World's top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology.
+## ‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment
+Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.
 
-## Iraq looks for oil export alternatives to the troubled Strait of Hormuz
-The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil.
+## French far-right leader Bardella refutes anti-Semitism allegations
+Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats.
 
-## Bandung: The Meeting That Terrified the Superpowers | Al Jazeera Originals
-How 29 newly independent nations challenged the imperial order and awakened the power of the Global South.
+## South Sudan calls for sanctions to be lifted at UNGA
+Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted
 
-## UN commemoration of Durban Declaration: What’s on agenda, who will attend?
-UN General Assembly marks 25th anniversary of the 2011 Durban Declaration, which called for combating racism.
+## Slovenia’s U-turn towards Israel
+Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.
 
-## We need to talk about Bandung
-In today’s turbulent times, the 1955 conference offers important lessons on global cooperation.
+## Gaza’s young inventors build robots with what they have
+At a youth hackathon in Gaza City, young inventors are developing robots.
 
-## Sri Lanka’s Rumesh Pathirage wins Asian Games javelin gold
-Sri Lankan star ends an incredible season with gold, while India's Yashvir Singh and Rohit Yadav take silver and bronze.
+## Apple ordered to pay $5.7bn in patent infringement case
+California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.
 
 ## Tata companies face a tough call on Chandra vote at AGM
 Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
