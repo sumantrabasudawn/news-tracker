@@ -1,121 +1,130 @@
 # AION Intelligence
 
-## Trump to have White House dinner with Anthropic CEO Dario Amodei
-First face-to-face meeting hints at rapprochement between US president and tech boss as fears over safety of AI become election issue
+## Terrorism arrests made in ‘major incident’ near US air base in UK
+Trump suggests US worked with Britain to prevent attack on RAF Fairford, which US Air Force is using for strikes on Iran
 
-## JCB’s Anthony Bamford names youngest child George as co-chair
-Construction equipment billionaire’s heir steps up as family-owned digger maker reports drop in profits
+## Australia’s biggest gold miner rejects $27bn takeover bid
+Elliott Management calls on Northern Star Resources to hold talks with South Africa’s Gold Fields
 
-## Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan
-Chancellor will pledge that work on building three new floating docks on the Clyde in Scotland will be carried out by British firms
+## Oil price rise puts more pressure on government bonds
+Brent trades above $107 a barrel as 10-year Treasury yields hit 5.2%
 
-## UK to restart resettlement scheme, Mahmood to tell Labour conference
-Home secretary to portray the initiative as an opportunity for ‘genuine refugees’ to live in Britain
+## The Pope and the EU’s holy founding father
+Pope Leo will defend European integration in hometown of Robert Schuman, who is on a path to Catholic sainthood
 
-## Northern Ireland in tense stand-off as protests block Orange Order parade
-March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
+## ‘Xi got face’: China relishes equal treatment from Trump
+Chinese state media hail the respect that US president offered their country’s leader
 
-## FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says
-Also in today’s newsletter: terrorism arrests made near RAF Fairford and Nicaragua hands Chinese miners rights to a tenth of its land
+## Helen Thompson: “I don’t think we’re ever going back.”
+Geopolitical phase change
 
-## World’s worst-performing market slashes minimum price for stocks
-Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent
+## Can the EU help to build a ‘hybrid defence’ against Russia?
+Also in this newsletter: Latvia under Moscow’s propaganda bombardment
 
-## Trump asked Xi if China wanted to buy American weapons, US envoy says
-Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing
+## FirstFT: EU weighs response to Russian hybrid attacks
+Also in today’s newsletter: US-China trade and Healey’s navy plan
 
-## Corporate America embraces cheaper ‘open’ AI models
-US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems
+## Goldman’s hedge fund fee bonanza
+Plus, Blackstone sparks firestorm, the global bond malaise and Mary Cassatt in Paris
 
-## The real lesson from the Man City affair
-Owners should be free to spend their own money on football — as long as they’re fit and proper
+## The Bank of England’s balance sheet has already stopped shrinking
+So is it QE on the QT?
 
-## Pay to play in the age of corporate migration
-States are feeling more pressure from companies demanding subsidies and tax breaks
+## UK biodiesel industry attacks rejection of duties on cheaper US imports
+Decision ignored recommendation that levies of more than £250 a tonne were warranted to protect local producers
 
-## Maha split shows all is not well with Kennedy’s US health revolution
-Republicans worry Make America Healthy Again is an electoral liability while activists claim it has abandoned its values
+## GM warns on US market as carmakers seek ‘safe haven’ from Chinese rivals
+Detroit group to keep cutting costs and focus on cheaper EVs as global competitors expand American presence
 
-## Investors pursue Dubai investment group over missing payments
-AIX accused of having skipped or delayed payouts on bond-like products offering double-digit annual returns
+## The bargain between shareholders and companies is being eroded
+Investor protections are good for the market as a whole and must be defended
 
-## The rules of AI etiquette
-Just because a bot can do something for you doesn’t mean it should
+## Want to electrify your classic car? Start here
+10 of the best EV converters
 
-## Value of old supertankers soars past new builds as market goes ‘bananas’
-As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers
+## Housing sales in top 7 cities up 3% in Jul-Sep at 1 lakh units: Anarock
+Anarock said total sales rose 2% to ₹1.55 lakh crore in July-September from ₹1.52 lakh crore a year earlier
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Manappuram Finance (₹334)
-Sensex, Nifty, Share Prices Live: The stock of Manappuram Finance saw a decline in price in the recent weeks. However, the long-term trend remains bullish. Since June 2022, such price corrections were followed by a fresh leg of rally.
+## El Nino may turn 'very strong' by late 2026: IRI; experts see elevated risk for India
+All 22 forecast models it surveyed, 13 dynamical and nine statistical, forecast "very strong" El Nino conditions through the 2026-27 winter
 
-## Bangladesh’s Rooppur nuclear plant uranium shipment delayed over Pakistan airspace block
-The shipment was expected in Dhaka on September 24, but officials say preparations were completed before the flight was halted
+## Sensex today | Stock Market Live: Sensex crashes over 950 pts, Nifty down 300 pts
+Sensex, Nifty, Share Prices Live: Markets opened in the red on Monday, September 28, extending their losing streak as renewed geopolitical uncertainty over the Strait of Hormuz pushed crude oil prices higher and kept investor sentiment cautious.
 
-## Iran ready for ‘doomsday war’ with US, says Foreign Minister Araghchi
-The latest statements highlight sharply differing positions over frozen Iranian assets, sanctions, nuclear negotiations and the future of the shipping route
+## World Bank arm IFC commits ₹672 crore to JNPA for shore power infra
+The financing will help JNPA enable ships at berth to switch off their diesel engines and plug into land-based electricity
 
-## Trump says US is ‘very seriously’ considering diesel export ban to tackle high prices
-The administration is weighing several measures as global fuel disruptions, refinery attacks and strong overseas demand pressure the US diesel market
+## Envision Energy Accelerates the Evolution of Global Wind Technology with DNV Certification for TG Pro
+Envision Energy Accelerates the Evolution of Global Wind Technology with DNV Certification for TG Pro
 
-## Bank strike deferred after IBA assurance on five-day work week
-The decision follows an agreement to form a high-level committee to examine remaining Saturdays as holidays and address other pending demands
+## Alive App Raises $1 Million From Powerhouse Ventures and Flipkart Ventures to Accelerate India's Experience Economy
+Alive App Raises $1 Million From Powerhouse Ventures and Flipkart Ventures to Accelerate India's Experience Economy
 
-## Building robust AI in India, for the world
-Boundless Ventures banks on an interdisciplinary team to identify emerging categories early on
+## Anant National University Hosts Mass Timber Workshop 2026, Championing Sustainable Construction and a Greener Future
+Anant National University Hosts Mass Timber Workshop 2026, Championing Sustainable Construction and a Greener Future
 
-## Why local is vital for the fabless crowd
-For Indian chip startups, the domestic market offers a commercialisation pathway and a link to overseas buyers
+## Midea To Unveil Industry-First Power-Cooling Hyperconvergence Architecture at Data Center World Asia 2026
+Midea To Unveil Industry-First Power-Cooling Hyperconvergence Architecture at Data Center World Asia 2026
 
-## Why Indian startups flipped for more than two decades
-Some of the smartest startups to emerge out of India moved their corporate domicile overseas
+## Gold price prediction: What are the factors that will drive gold this week?
+Gold price prediction: Overall, the weekly bias remains range bound. Immediate support is placed at Rs 148,000, followed by Rs 145,000 and Rs 142,000–143,000, while resistance is seen at Rs 151,000, Rs 152,300–153,600 and Rs 155,300–156,800.
 
-## Exempted PF trusts get more options for investment
+## Gold price crash today: Why is MCX Gold down over 2% & what should you do? Explained
+On the domestic bourse, MCX silver futures for September 2026 delivery fell Rs 6,661 to Rs 2,28,035 per kg. Gold futures for October 2026 delivery declined Rs 3,214 to Rs 1,47,667 per 10 grams.
 
+## Stock market crashes: Sensex tumbles over 1,000 points, Nifty50 trades below 23,000
+Dalal Street opened the week with a significant decline as the BSE Sensex dropped by more than 500 points. This downturn was driven by investor apprehension over climbing crude oil prices and heightened geopolitical tensions in the Middle East. Concerns about India's import bill and inflation loom l
 
-## NMDC commissions Rs 5.4k cr integrated project in Chhattisgarh
+## Sensex tanks over 1,000 points: Why is stock market crashing today? Top reasons explained
+Stock market crash today: While Sensex crashed over 1,000 points, Nifty50 went below 22,850. At 10:40 AM, Nifty50 was trading at 22,835.15, down 305 points or 1.32%. BSE Sensex was at 72,909.34, down 986 points or 1.33%.
 
+## Rupee slips 20 paise against US Dollar as crude oil tops $106, foreign outflows continue
+Beginning the week on a down note, the rupee slipped to 95.95 against the US dollar amidst various economic hurdles. Factors contributing to this decline include a strengthening dollar, extensive foreign fund withdrawals, and escalating crude oil prices, with Brent crude futures notably rising. This
 
-## PLI: Electronics firms got Rs 19k cr
-
-
-## Geopolitical developments, oil prices to steer markets this week
-
-
-## Edible oil duty cut may lift margins of snack makers
-
-
-## 'MDR to boost UPI use in cross border payments'
+## Gold, Silver rate today live updates: Gold drops more than 2% as oil surge boosts US rate hike bets
 
 
-## IITM-backed deeptech fund raises Rs 453 cr in first close
+## Top stocks to buy: Stock recommendations for September 28, 2026 week - check list
+Stock market recommendations: Pearl Global, and Indegene - these are the top stocks you can consider buying for the week starting September 28, 2026, as recommended by Motilal Oswal Wealth Management Research Desk.
 
+## Banks open today? Why 3-day bank strike has been deferred by unions; all you want to know
+This means that all banks across the country will continue to function as usual for the strike period that had been announced September 28-30. This also assumes significance since it's the time for half yearly closing.
 
-## Apple bets on heart-health features to win watch buyers
+## Abhijeet Dipke announces 'Jail Bharo Andolan' in Mumbai on October 2
+The CJP had planned the protest against Chief Election Commissioner Gyanesh Kumar and had called for his resignation.
 
+## 'Medical fraternity cannot be touched': SC cancels Shiv Sena corporator Ramesh Mhatre's bail
+The bench said the Mhatre incident also shows that he was involved in 19 criminal cases, including the present matter.
 
-## 56 dead in 48 hours as heavy rain wreaks havoc across UP, 1,000 houses damaged
-Excessive rainfall in 56 districts raised concerns of rising casualty figures and ongoing adverse weather conditions.
+## Minimum force used against protesting students, but vandals to face action: Punjab DGP at LPU
+Minimum force used against protesting students, but vandals to face action: Punjab DGP at LPU
 
-## Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
-Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
+## Pro-Khalistan slogans raised as US envoy Sergio Gor visits Amritsar's Golden Temple
+The delegation comprises prominent US Senators, senior government officials, and foreign policy scholars.
 
-## 3-day bank strike deferred after talks between bank body and unions
-The three-day bank strike from September 28 to 30 has been deferred as UFBU and IBA begin talks on Saturday holidays.
+## Liquor to get costlier in Delhi ahead of festive season? Here’s why
+The removal of fixed margins could therefore make it more viable for Delhi retailers to stock premium imported liquor.
 
-## ‘Hooliganism won’t be tolerated; what is his crime?': Rahul Gandhi, AAP rage over Parvesh Verma's slapgate
-The controversy began after the video purportedly showing Parvesh Verma slapping a man during road inspection went viral on social media.
+## About 1,500 pilgrims stranded along Kedarnath trek route evacuated after landslide
+Disaster response teams successfully evacuated 1,500 stranded pilgrims along the Kedarnath trek following a landslide.
 
-## High alert in Uttarkashi after IMD rain warning, administration issues advisory
-Disaster management teams, the Revenue Department, Police, SDRF and NDRF are on alert in the district.
+## 11-year-old boy sexually assaulted at Satlok Ashram in Sonepat, sevadar held
+According to the complaint the victim’s family, originally from Uttar Pradesh, had come to the ashram to perform seva.
 
-## LPU postpones mid-term exams, suspends classes for 10 days amid violent protests
-The university has also suspended regular classes for 10 days starting September 28, it said in a release.
+## Punjab govt employees to rally in CM Mann's constituency over DA order
+According to senior government officials, the DA accrual will involve an additional expenditure of ₹231 crore a month.
 
-## Ashutosh Ranka says team CJP's ‘illegal detention’ by Assam Police 'finally ended'; Dipke reacts
-CJP chief Abhijeet Dipke reacted to Ranka's post and said, “Abey yaar… I was actually looking forward to joining your strike at the police station tomorrow.”
+## Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources
+Zhuhai Amicro Technology, a Xiaomi-backed chipmaker, is preparing to begin premarketing for a Hong Kong initial public offering (IPO) of more than US$100 million as early as this week, according to people familiar with the matter. The company passed its listing hearing with bourse operator Hong Kong
 
-## Why Mumbai police denied permission to CJP for October 2 protest against CEC Gyanesh Kumar
-Abhijeet Dipke warned that the CJP will launch a Jail Bharo Andolan in Mumbai on Gandhi Jayanti if their “right to protest” is denied.
+## Asia’s safe harbour for wealth
+[The content of this article has been produced by our advertising partner.] Global markets have rarely lacked opportunity, but the conditions affecting them have become far more difficult to read. Geopolitical tensions and rapid technological change can reshape both investment and business outlooks.
+
+## China fund managers warn of premium risks as fresh quotas fail to ease demand
+Several Chinese mutual funds investing in US stocks have warned investors about risks associated with hefty premiums to their net asset values, highlighting persistent demand for US equities even after Beijing expanded quotas for outbound investment. At least six fund houses, including China Asset M
+
+## Strategic allocation to Asia fixed income
+[The content of this article has been produced by our advertising partner.] Global markets currently face high levels of uncertainty. Inflation remains elevated in developed economies, the trajectory of monetary policy is unclear, and complex geopolitical tensions add further complexity to the outlo
 
 ## Italy attracts wealthy Chinese property buyers with food, fashion – and flat tax
 Italy is becoming a magnet for wealthy property investors thanks to its high quality of life and flat tax regime, and interest is also on the rise among mainland Chinese and Hong Kong buyers, according to property agents. Rome introduced a flat tax regime nine years ago to attract high-net-worth ind
@@ -129,17 +138,8 @@ Last week, the president of the United States stood at the podium of the United 
 ## Buyers snap up new Hong Kong flats ahead of likely interest rate rises
 Hong Kong developers have already sold all of the more than 290 new flats they launched over the weekend, as buyers look to lock in mortgages ahead of an anticipated rise in interest rates later this year, according to property agents. The decision by the city’s major banks to hold rates steady desp
 
-## Global property investors see signs of recovery in China, but wary of oversupply: JLL
-International investors who have seen early signs of recovery in mainland China’s office and retail property markets are expected to start buying when oversupply concerns are eased, according to global real estate firm JLL. Stuart Crow, JLL’s CEO for capital markets in the Asia-Pacific region, said 
-
-## How Asia-Pacific property markets are drawing fresh capital despite US rate uncertainty
-Property markets in the Asia-Pacific region are likely to remain attractive despite heightened uncertainty over monetary policy after the US Federal Reserve delivered its first interest rate increase in more than three years this month, analysts say, with several asset classes and sectors expected t
-
-## Hong Kong tycoon-backed start-up bets on new battery to challenge energy-storage giants
-EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Hong Kong tycoon Peter Lee Ka-kit, has begun manufacturing a new battery it expects to challenge existing energy-storage technologies dominated by mainland Chinese players, amid surging global demand for green energy. The 
-
-## China’s biotech firms move up value chain as drug deals evolve beyond licensing: analysts
-Chinese biotech deal making is moving beyond the licensing of individual drug candidates, as the country transforms from a follower to a global innovation leader, according to analysts. The latest transaction underscores that shift. Beijing-based cancer drug developer InnoCare Pharma said on Thursda
+## John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
+The oil tycoon was celebrated as a pioneer before the public turned on him.
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -161,9 +161,6 @@ Neither appealing to Washington nor diversifying security partners nor back-chan
 
 ## The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks
 Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.
-
-## What Arab Israelis Really Think About Israel’s Election
-Ethnic Arabs could decide Israel's coming election—and its democratic future.
 
 ## Mongolia’s New Government Set Ambitious Goals. But Are They Realistic?
 Data centers, the Sovereign Wealth Fund, and a hydropower plant – will any of it better the lives of Mongolian people?
@@ -237,29 +234,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Refugees in South Africa fear new attacks as September 30 deadline looms
-Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.
+## US, China list goods recommended for tariff cuts following Trump-Xi summit
+Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.
 
-## South African police discover body of 11th woman near Johannesburg
-Police are investigating the killings in a country with one of the highest femicide rates in the world.
+## Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?
+The country's early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.
 
-## Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions
-Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.
+## Virat Kohli passes 15,000 ODI runs as India beat West Indies
+Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.
 
-## Pope pledges action on clergy child abuse in meeting with French survivors
-Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven survivors in French town of Lourdes.
+## ‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins
+As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.
 
-## Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past
-Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.
+## Russian strikes kill eight, injure dozens across Ukraine
+Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.
 
-## Powerful storm floods US Northeast, causes power outages
-The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.
+## Sudanese army impounds dozens of motorcycles in Blue Nile curfew
+Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.
 
-## Ireland defeats Israel in controversial UEFA Nations League match
-Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
+## Serbia’s president resigns to run for prime minister
+Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.
 
-## Alleged rape on campus sparks violent protest at Indian university
-Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
+## 14 killed, a dozen missing as Nepal is hit by more floods and landslides
+At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.
+
+## Tata companies face a tough call on Chandra vote at AGM
+Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
+
+## Holding companies, NBFCs rejig assets, income to escape RBI scrutiny
+Groups are restructuring NBFC and holding-company balance sheets to stay outside RBI’s regulatory definitions and avoid registration and compliance requirements, sources said. NBFCs are boosting non-financial income, while CICs are changing their asset mix.
+
+## SEBI settlement overhaul may speed up recovery of siphoned funds, strengthen shareholder protection
+The Securities and Exchange Board of India's (SEBI) proposed overhaul of settlement norms could help speed up the recovery of diverted funds and strengthen shareholder protection in cases involving financial misrepresentation and siphoning of money, according to SEBI officials and legal experts.
+
+## SC clears forensic audit of Fortis-IHH deal involving erstwhile Religare promoters Singh brothers
+The Supreme Court has cleared the way for a Delhi High Court-appointed forensic auditor to examine transactions involving Fortis Healthcare, Malaysia’s IHH Healthcare and entities linked to former promoters Malvinder and Shivinder Singh. The audit will trace assets linked to the brothers and examine
+
+## OpenAI pauses training, evaluation of top AI models after agent bypasses internet restrictions
+OpenAI has paused training, evaluation and tool-based use of its most capable artificial intelligence models after an AI agent in a training run managed to bypass the company's internet restrictions and access a public chatbot service.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
@@ -270,20 +282,8 @@ Banks could combine a five-day employee work week with rotational branch operati
 ## ICAI to certify independent directors, new course likely by October-end
 Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
 
-## ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill
-A majority of the suggestions made by the ICAI on changes to NFRA have been accepted by the government, according to a senior ICAI official, as the Centre continues work on the revised legislation ahead of its expected introduction during the Winter Session.
-
-## ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms
-Proposals likely to include measured deregulation of non assurance services, wider professional networks, recognition of aggregation structures and capital infusion.
-
-## UPI MDR: 18% GST to add cost for exempt businesses, hit thin-margin sectors
-UPI MDR charges will attract 18% GST, with the tax generally available as input tax credit for businesses making taxable supplies. However, exempt sectors such as hospitals and schools may have to bear the GST as a cost, while thin-margin businesses could see a more visible impact on profitability a
-
-## ICAI rolls out SSA 5000 to align India’s sustainability assurance with global norms from April 2027
-New standard aligned with IAASB’s ISSA 5000, with India specific carveouts; applicable to financial years beginning on or after April 1, 2027.
-
-## Why Do India’s Best Boards Fail? The Structural Flaws that Corporate Law Ignores
-Tata Sons and ICICI Bank represent two contrasting governance models, yet both have faced boardroom crises. Dr. Ashok Haldia, former Secretary, ICAI, examines whether such episodes expose deeper weaknesses in India’s corporate governance framework, questioning the limits of board independence, promo
+## Russian crude supplies enabled India to cushion against oil supply shocks caused by West Asian war: Deputy FM
+Russia has significantly increased oil supply to India in response to disruptions from the conflict in West Asia. Indian imports of Russian crude oil nearly doubled following the outbreak of conflict, reaching 2.25 million barrels per day. The Indian government emphasizes the importance of multiple 
 
 ## Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries
 The Securities and Exchange Board of India (Sebi) has expanded its definition of accredited investors, now permitting individuals with securities market assets of INR 5 crore and corporate entities with INR 20 crore to qualify. Furthermore, it has instituted a Common Advertisement Code for market in
@@ -302,7 +302,4 @@ Rising borrowing costs and a possible increase in the Reserve Bank of India's (R
 
 ## Govt set to consider auto PLI applications with Chinese investment after FDI nod
 The Indian government is likely to consider production-linked incentive applications from auto companies with Chinese investments. This decision comes after President Xi Jinping's recent visit to India and improving relations. Existing applications with foreign direct investment (FDI) approvals will
-
-## India co-sponsors inaugural partners for multilateralism summit at UN
-India co-sponsored a UN summit on multilateralism, stressing participative deliberations. Leaders met as the global order faces significant stress and geopolitical tensions. They discussed addressing crises like fuel, food, and finance through cooperation. Reformed multilateralism is essential for s
 
