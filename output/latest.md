@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Trump to have White House dinner with Anthropic CEO Dario Amodei
+First face-to-face meeting hints at rapprochement between US president and tech boss as fears over safety of AI become election issue
+
+## JCB’s Anthony Bamford names youngest child George as co-chair
+Construction equipment billionaire’s heir steps up as family-owned digger maker reports drop in profits
+
+## Healey to promise ‘new age of industrialisation’ with £6bn Royal Navy plan
+Chancellor will pledge that work on building three new floating docks on the Clyde in Scotland will be carried out by British firms
+
+## UK to restart resettlement scheme, Mahmood to tell Labour conference
+Home secretary to portray the initiative as an opportunity for ‘genuine refugees’ to live in Britain
+
 ## Northern Ireland in tense stand-off as protests block Orange Order parade
 March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road
 
@@ -11,18 +23,6 @@ Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fra
 
 ## Trump asked Xi if China wanted to buy American weapons, US envoy says
 Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing
-
-## ‘Hope again’: Burnham returns to Labour conference to sell his vision
-Party leader will rely on keynote speech in Liverpool to maintain momentum early in premiership
-
-## Burnham signals he will fight election on tax rises to fund social care reform
-Prime minister says shake-up would be ‘hard’ to do in current parliament
-
-## Terrorism arrests made in ‘major incident’ near RAF Fairford
-President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran
-
-## Burnham’s high-stakes speech unlikely to produce a Clause IV moment
-UK prime minister addresses his party and the nation, Brazilian presidential elections get under way, US-Canada trade war intensifies
 
 ## Corporate America embraces cheaper ‘open’ AI models
 US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems
@@ -45,56 +45,56 @@ Just because a bot can do something for you doesn’t mean it should
 ## Value of old supertankers soars past new builds as market goes ‘bananas’
 As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers
 
-## Big dreams and tiny revenue are the new norm for AI IPOs
-The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking
+## Sensex today | Stock Market Live Updates: Stock to buy today: Manappuram Finance (₹334)
+Sensex, Nifty, Share Prices Live: The stock of Manappuram Finance saw a decline in price in the recent weeks. However, the long-term trend remains bullish. Since June 2022, such price corrections were followed by a fresh leg of rally.
+
+## Bangladesh’s Rooppur nuclear plant uranium shipment delayed over Pakistan airspace block
+The shipment was expected in Dhaka on September 24, but officials say preparations were completed before the flight was halted
+
+## Iran ready for ‘doomsday war’ with US, says Foreign Minister Araghchi
+The latest statements highlight sharply differing positions over frozen Iranian assets, sanctions, nuclear negotiations and the future of the shipping route
+
+## Trump says US is ‘very seriously’ considering diesel export ban to tackle high prices
+The administration is weighing several measures as global fuel disruptions, refinery attacks and strong overseas demand pressure the US diesel market
 
 ## Bank strike deferred after IBA assurance on five-day work week
 The decision follows an agreement to form a high-level committee to examine remaining Saturdays as holidays and address other pending demands
 
-## A great personality, committed to nation-building
-Born into a respected Prayagraj family, Singhal dedicated his life to Bharat’s revival, earning wide respect from saints, seers, and Karyakartas alike, while leaving a lasting imprint on education, music, and social unity.
+## Building robust AI in India, for the world
+Boundless Ventures banks on an interdisciplinary team to identify emerging categories early on
 
-## Demand estimate of fertilizer for Rabi 2026-27 may be 2 LT higher
-India plans a nearly 350 lakh-tonne fertilizer demand for Rabi 2026-27, with Urea leading, amid mixed monsoon impact and policy focus.
+## Why local is vital for the fabless crowd
+For Indian chip startups, the domestic market offers a commercialisation pathway and a link to overseas buyers
 
-## Centre plans major aviation infra push in West Bengal
-AAI, State government to sign MoU next month covering Hasimara, Kalaikunda, Malda and Balurghat, say sources
+## Why Indian startups flipped for more than two decades
+Some of the smartest startups to emerge out of India moved their corporate domicile overseas
 
-## Editorial. Spam traps
-TRAI’s AI-led initiative needs fine-tuning
+## Exempted PF trusts get more options for investment
 
-## SBI developing GIFT City specific products for NRI customers, says Chairman Setty
-The SBI Chief emphasised that SBI’s GIFT City IBU complements its domestic branches by offering good interest rates to customers for periods of less than one year
 
-## PSBs, RRBs, old-generation private sector banks keep branches open on Sunday ahead of 3-day nationwide strike
-The ministry noted that the Reserve Bank of India has granted approval for all bank branches, offices, ATM-link branches and Currency Chests to remain fully operational on September
+## NMDC commissions Rs 5.4k cr integrated project in Chhattisgarh
 
-## Mehli Mistry steps down from Tata Medical Center trust
-Mistry, a confidante of late Ratan Tata, informed the board of the medical center he will not seek a re-election upon the end of his term on September 30
 
-## India sees 30% increase in Michelin Key hotels in second year of rating here
-India has seen an increase in luxury hotels evaluated by the Michelin Guide, with 47 hotels receiving Keys. These hotels were assessed based on five universal criteria to maintain high standards. Prominent establishments like Taj Falaknuma Palace and Taj Lake Palace received three Keys each. India's
+## PLI: Electronics firms got Rs 19k cr
 
-## Foreign secy Misri meets US lawmakers; Russia sanctions bill and India-US ties in focus
-Vikram Misri recently engaged with a bipartisan US Congressional delegation to delve into significant facets of India-US relations. Their dialogue emphasized the repercussions of the newly enacted Sanctioning Russia and Iran Act and examined critical themes such as energy security and strategic coop
 
-## Made-in-India electronics get PLI boost as firms draw Rs 20,580 crore investment
-India's ambitious push in electronics manufacturing has garnered remarkable incentives totaling Rs 19,090.98 crore, enabling the production of more mobile devices. The surge in smartphone exports is astounding, leaping from $5.5 billion to nearly $30 billion over the period from 2021-22 to 2025-26. 
+## Geopolitical developments, oil prices to steer markets this week
 
-## US diesel ban: Why cheaper diesel could come with a gasoline price shock
-A potential restriction on U.S. diesel exports could initially lower domestic diesel prices due to a spike in supply, but may ultimately cause gasoline prices to rise if refiners cut back on production. Goldman Sachs warns that sustained export limits could significantly elevate retail gasoline cost
 
-## Gold and silver outlook: Job data, crude and more in focus to guide bullion this week
-The gold and silver markets are poised for significant fluctuations as crucial US jobs and inflation data are on the horizon. Investors are keenly aware of the Federal Reserve's hints about possible policy adjustments, which could greatly influence precious metals. Additionally, consumer confidence,
+## Edible oil duty cut may lift margins of snack makers
 
-## EAM Jaishankar, Canada FM Anand discuss taking bilateral ties ‘to a higher level’
-India and Canada are actively enhancing their bilateral ties as External Affairs Minister S Jaishankar engages with Anita Anand. This meeting is a part of trade negotiations aiming for a significant increase in trade by 2030. Canadian Prime Minister Mark Carney hinted at a potential visit from Prime
 
-## Barrier-free tolling: FASTag & ANPR will help collect toll from your vehicle automatically
-With barrier-free tolling, vehicles can move through at normal highway speeds while cameras and FASTag systems identify the vehicle and collect the toll automatically.
+## 'MDR to boost UPI use in cross border payments'
 
-## Bank closure this week: When and where will banks stay shut from Sept 28 to Oct 4
-Prepare for some interruptions in banking services next week as banks will be closing for several days. A nationwide strike is set from September 28 to 30, followed by a holiday on October 2. While you can still access digital banking, in-person services will be limited. Make sure to visit your loca
+
+## IITM-backed deeptech fund raises Rs 453 cr in first close
+
+
+## Apple bets on heart-health features to win watch buyers
+
+
+## 56 dead in 48 hours as heavy rain wreaks havoc across UP, 1,000 houses damaged
+Excessive rainfall in 56 districts raised concerns of rising casualty figures and ongoing adverse weather conditions.
 
 ## Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
 Odisha CM tours flood-hit districts as govt moves over 1 lakh people to relief camps
@@ -117,8 +117,8 @@ CJP chief Abhijeet Dipke reacted to Ranka's post and said, “Abey yaar… I was
 ## Why Mumbai police denied permission to CJP for October 2 protest against CEC Gyanesh Kumar
 Abhijeet Dipke warned that the CJP will launch a Jail Bharo Andolan in Mumbai on Gandhi Jayanti if their “right to protest” is denied.
 
-## Called us ‘cockroaches’, ‘anti-national’: Kolkata's SRFTI students, right-wing group clash during event
-The situation turned tense after students objected to outsiders being present on the campus and asked why a private organisation was allowed to hold an event.
+## Italy attracts wealthy Chinese property buyers with food, fashion – and flat tax
+Italy is becoming a magnet for wealthy property investors thanks to its high quality of life and flat tax regime, and interest is also on the rise among mainland Chinese and Hong Kong buyers, according to property agents. Rome introduced a flat tax regime nine years ago to attract high-net-worth ind
 
 ## Mapping Biology’s Next Frontier
 After two decades backing some of the world’s earliest artificial-intelligence companies, Liu Wei has moved from investor to builder. A longtime technology enthusiast, Wei spent 18 years as an early-stage investor, including as general partner of Legend Star Ventures and founding CEO of Baidu Ventur
@@ -140,9 +140,6 @@ EnerVenue, a start-up co-founded by Full Vision Capital, the family office of Ho
 
 ## China’s biotech firms move up value chain as drug deals evolve beyond licensing: analysts
 Chinese biotech deal making is moving beyond the licensing of individual drug candidates, as the country transforms from a follower to a global innovation leader, according to analysts. The latest transaction underscores that shift. Beijing-based cancer drug developer InnoCare Pharma said on Thursda
-
-## Chinese RISC-V chipmaker Eswin seeks US$300m in Hong Kong IPO ahead of October debut
-Beijing Eswin Computing Technology will start soliciting orders from institutional and public investors on Monday ahead of its Hong Kong initial public offering (IPO), aiming to raise around US$300 million, according to people familiar with the matter. The Chinese chipmaker had already started gaugi
 
 ## Ethiopia Returns to Civil War
 The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Refugees in South Africa fear new attacks as September 30 deadline looms
+Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.
+
+## South African police discover body of 11th woman near Johannesburg
+Police are investigating the killings in a country with one of the highest femicide rates in the world.
+
+## Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions
+Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.
+
+## Pope pledges action on clergy child abuse in meeting with French survivors
+Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven survivors in French town of Lourdes.
+
+## Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past
+Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.
+
+## Powerful storm floods US Northeast, causes power outages
+The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.
+
 ## Ireland defeats Israel in controversial UEFA Nations League match
 Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
 
 ## Alleged rape on campus sparks violent protest at Indian university
 Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
-
-## Floods inundate roads in southeastern Algeria
-Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
-
-## Ramos fires holders Portugal to 2-1 Nations League win in Norway
-Goncalo Ramos starts in place of Cristiano Ronaldo and scores the winner for Portugal in Oslo.
-
-## Deadly strike hits market in Yemen’s Taiz
-A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.
-
-## Israeli strikes continue in southern Lebanon despite ceasefire
-An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.
-
-## Five arrested near UK RAF base over suspected explosives ‘terror’ plot
-Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.
-
-## Ethiopian army reportedly recaptures strategic town as fighting spreads
-Ethiopia’s army has reportedly recaptured the strategic town of Sekota from Tigrayan forces as fighting spreads.
 
 ## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
 India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
