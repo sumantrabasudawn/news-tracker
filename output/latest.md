@@ -1,64 +1,76 @@
 # AION Intelligence
 
-## SpaceX’s Starship rocket reaches orbit for the first time despite engine failure
-Milestone for Musk because the system is pivotal to winning more Nasa contracts and to transport humans to space
+## Australia raises interest rate to highest level in 15 years
+RBA governor says Iran war has ‘made people poorer’ as central bank seeks to tackle persistent inflation
 
-## US Treasury threatens crackdown on Wall Street tax-avoidance strategies
-Department limits use of ETFs to avoid taxable gains and says it could target other ‘potentially abusive’ tactics
+## Toyota’s China sales tumble as high fuel prices deter buyers
+Japanese carmaker grapples with prolonged slump in world’s biggest auto market
 
-## AMD to buy Fei-Fei Li’s AI start-up for $8bn
-World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments
+## Brussels’ protectionist turn spooks bloc’s free-market stalwarts
+Also in this newsletter: energy ministers brace for winter
 
-## Bond sell-off deepens and oil rises as Iran-US deal hopes fade
-Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade
+## FirstFT: Anthropic IPO filing warns of ‘existential risks’
+Also in today’s newsletter: oil-bonds link and EU budget
 
-## Burnham vows to break with ‘politics as usual’ by tackling UK’s biggest issues
-PM will unveil at Labour conference a ‘serious prospectus’ that aims to confront problems including social care crisis and youth unemployment
+## Nvidia turns to insurers to spread the risk of AI build-out
+World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom
 
-## FirstFT: Seoul accuses Ukraine of violating secrecy agreement on North Korean soldiers
-Also in today’s newsletter: Nvidia’s $150bn share buyback and Tata family scion hits back with plan to keep holding company private
+## Big money, bigger problems in Big Law
+Weil’s loss of important partners to rivals is, to some, an illustration of how a few exits can start a stampede
 
-## Erdoğan bids to contain fallout from Turkey’s $18bn stock market scandal
-President says those ‘engaged in manipulative schemes’ will be held to account as deputy chair of governing party resigns
+## Private equity wrestles with its own generational wealth gap
+Joe Baratta of Blackstone will retire a billionaire, but future up-and-comers will struggle to match his record
 
-## Software glitch will delay US approval of newest Boeing 737
-Shares in aerospace group fall 6 per cent on Monday to $184.
+## What ‘Choosin’ Texas’ tells us about Burnham’s social care obstacles
+Convincing the British public to pay higher taxes for something they wrongly assume the state provides will not be easy
 
-## HSBC moves to bolster Hang Seng by cleaning up balance sheet
-$1.4bn sale of Hong Kong lender’s loan portfolio part of push to improve its capital efficiency
+## Rolex was for crypto, Ferrari is for AI
+Cars: the new coins
 
-## Shares in UK housebuilders surge on new Help to Buy scheme
-Prime Minister Andy Burnham unveils ‘Your First Home’ plan to help people on to housing ladder
+## Why a £10bn Monzo takeover could be good for the UK
+Brazil-based Nubank has considered moving its legal domicile to the City
 
-## BASF should take another crack at chemicals M&A
-Evonik, governed by the RAG-Stiftung foundation, may find it hard to turn up its nose at a higher number
+## UniCredit’s Orcel moves to seize control of Commerzbank within months
+Italian executive aims to replace 10 board members and oust CEO as soon as January, say people familiar with plans
 
-## Tata family scion hits back with plan to keep holding company private
-Charitable group chaired by Noel Tata says merging with group’s electronics arm would remove need for forced blockbuster IPO
+## Sensex today | Stock Market Live Updates: Sensex down 210 pts, Nifty drops to 22,720 pts as crude hits $107
+Sensex, Nifty, Share Prices Live: Markets off day’s low at noon. Sensex traded 130.38 pts or 0.18% lower at 72,641.34. Nifty 50 dipped 37.75 pts or 0.17% to 22,742.50.
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Parag Milk Foods (₹275) – BUY
-Sensex, Nifty, Share Prices Live: The short-term outlook for Parag Milk Foods is bullish. The stock began the week on a positive note, rising over 2 per cent on Monday.
+## IPO LIVE Today: Orient Cables IPO subscribed 20X, German Green Steel nears 12X, AceVector nearly 2 times, Runwal Enterprises cross 1X
+SRIT India IPO, Shah Investor IPO, AceVector IPO, German Green Steel IPO, Runwal Enterprises IPO, Orient Cables IPO Day 2 & 3 updates, news today live updates: Stay tuned
 
-## Coforge appoints former Bharti Enterprises vice-chairman Akhil Gupta as chairperson
-The appointment follows weeks of boardroom turmoil after the resignation of former chairman O P Bhatt and NRC chairperson D K Singh
+## HDFC Bank shares dip, Q2 results due October 17
+The stock opened at ₹713.70 and rose to an intraday high of ₹715.90, but continued to trade below its previous close of ₹719.05
 
-## Buzzing stocks: Tata Group, Anupam Rasayan, HCLSoftware, IRFC, NCC, Pidilite and others in focus
-Corporate restructuring, strategic acquisitions, new partnerships, major project orders, fleet expansion and renewable-energy capacity additions marked a busy day of announcements from Indian companies
+## Anupam Rasayan completes purchase of 48.2% stake in Bliss GVS Pharma for ₹1,750 cr
+The controlling stake was acquired via the promoter/Share Purchase Agreement (SPA) route at ₹299 per share, plus an open offer and a small on-market top-up.
 
-## TRAI mandates telecom operators to act against AI-flagged spam callers
-The amended regulations introduce new procedures for identifying suspected spammers, checking linked connections and restricting telecom resources following violations
+## India's Biggest CX Benchmark Just Got Bigger: Twimbit, Nasscom and Kyndryl Set to Launch The State of CX India 2026, Benchmarking 500 Companies Across India
+India's Biggest CX Benchmark Just Got Bigger: Twimbit, Nasscom and Kyndryl Set to Launch The State of CX India 2026, Benchmarking 500 Companies Across India
 
-## Trump announces Essar Group’s $15-billion steel plant project in Iowa
-The facility is projected to create up to 1,750 permanent jobs and use iron ore from a new Minnesota mine
+## CTM and Huawei Jointly Launch the World's First Integrated QKD-Communication Target IP Network to Reinforce Digital Security Across the Greater Bay Area
+CTM and Huawei Jointly Launch the World's First Integrated QKD-Communication Target IP Network to Reinforce Digital Security Across the Greater Bay Area
 
-## HCLTech arm to acquire Croatia-based RPA platform Robotiq.ai for ₹98 crore
-The transaction will give the software division full ownership of the Zagreb-based automation company, which serves large banks, insurers and telecom firms
+## 99% of Indian entrepreneurs are reshaping their businesses for AI: HSBC Report
+99% of Indian entrepreneurs are reshaping their businesses for AI: HSBC Report
 
-## Natco Pharma raises proposed investment in eGenesis to $16.70 million
-The drug maker said the investment will support new-age therapeutic programmes focused on critical unmet medical needs.
+## High battery prices may delay commissioning of 12 GWh BESS capacity
+Nearly 21% of the under-construction BESS capacity, equivalent to about 12 GWh, faces weak return potential which may lead to some delays in commissioning, Crisil Ratings said
 
-## USFDA inspection at Zydus Lifesciences’ Ahmedabad facility ends with one observation
-The inspection covered the manufacturing facility from September 21 to 28, with the company saying it will address the observation
+## US exempts India, 19 other countries from 100% tariff on speciality drugs
+
+
+## Sensex, Nifty extend slide: Stock market crash continues as oil and yields rattle sentiment
+Dalal Street was also tracking the broader weakness across global markets. US stocks ended the previous session sharply lower, with the tech-heavy Nasdaq falling more than 0.9% and the S&P 500 declining around 0.8%. At around 10:25 AM, Nifty50 was trading at 22,586.60, down 194 points or 0.85%. BSE 
+
+## Infosys to shift a third of 320,000 staff into specialist roles; here’s why
+Infosys has more than 320,000 employees, but the growing impact of AI on billing models based on the number of people deployed on projects is putting pressure on the traditional headcount-driven pricing structure. The Bengaluru-headquartered IT services company is recruiting talent from leading Indi
+
+## Stock market today: Sensex tumbles over 600 points, Nifty50 below 22,650
+
+
+## Oil prices rise for second session as Middle East supply risks persist
+
 
 ## Piyush Goyal to hold talks for trade deal with US
 
@@ -69,68 +81,53 @@ The inspection covered the manufacturing facility from September 21 to 28, with 
 ## IIP growth surges to 8% in August
 
 
-## Suitability platform to assess NPS investors' risk appetite in works
+## US's F-35A Lightning II jets debut at Tarang Shakti in India
+The second edition of the multinational Exercise Tarang Shakti is ongoing at Air Force Station Jodhpur in Rajasthan.
 
+## Jaishankar reveals what India told China amid strained ties, but took them 'a while’ to agree to
+Speaking at an event in New York, Jaishankar said if he was to compare the ties between India and China at present against before, his answer would be positive.
 
-## Growpital told to shut down by regulator
+## Delhi’s minimum temp drops to 21°C as rain spell ends; mercury likely to rise
+The IMD has forecast mainly clear skies on Tuesday, with the maximum temperature expected to reach around 33°C
 
+## SC scraps NSA order against Sambhal violence accused, slaps ₹10L cost on UP govt
+The Supreme Court ruled that the state government had “illegally exercised” the power of detention against Mulla Afroz
 
-## As consumers go big on experiences, private equity follows
+## Fresh Pocso case filed against granite baron R Veeramani in Tamil Nadu
+Tamil Nadu police registered a fresh POCSO case against R Veeramani after a woman alleged that he sexually assaulted her minor daughter.
 
+## Supreme Court to hear plea raising doubts over CEC Gyanesh Kumar's decisions next week
+The matter was mentioned before a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana.
 
-## Safety, profitability top priorities: Air India CEO designate
+## Kingpin of counterfeit pharma racket arrested at Bengaluru airport after Sharjah return
+The alleged kingpin of a multi-state counterfeit medicine racket was arrested after investigators seized drugs and equipment worth ₹5.05 crore.
 
+## ‘Everybody’s dealing with everybody’: Jaishankar says world is headed for multipolarity amid churn
+Jaishankar was speaking at an event organised by the Asia Society in New York on Monday.
 
-## Gold hits 7-week low as oil surge fuels rate hike bets
+## Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut
+Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs). Automated equipment manufacturer RoboTechnik Int
 
+## Why is JPMorgan expanding in China? CEO Dimon sees another decade of sharp growth
+JPMorgan Chase, the world’s top bank by market capitalisation, plans to expand hiring and technology investment across mainland China and Hong Kong and is looking to take advantage of the city’s strengthening capital markets as well as its platform for serving companies operating in and out of the C
 
-## Centre to disable 15.8 million ‘inactive’ ration cards from October
-The government is giving the cancelled ration cards three months to verify eligibility through e-KYC to reactivate cards.
+## Chinese brokerages get in line with Beijing’s crackdown on overseas stock trading
+Some securities companies have begun to clean up non-compliant overseas stock trading by mainland Chinese investors following a regulatory crackdown that started months ago with fines on Tiger Brokers and Futu Securities International. Orient Securities’ mainland-based clients that have trading acco
 
-## Amid new EC rules, Delhi BLOs struggle to balance exams, SIR duty and 13-hour work days
-Many officers express difficulty managing their increased responsibilities, highlighting the strain on their personal and professional lives.
+## AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies
+US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia. The acquisition, expected to
 
-## Supreme Court censures Delhi government for public safety failures amid rising sexual offences
-It ordered an audit of public spaces by the police, aiming to identify vulnerabilities and enhance security measures, with a report due by October 5.
+## Future-ready: how Asia’s wealthiest should plan for the age of longevity
+[The content of this article has been produced by our advertising partner.] Going by the figures alone, there is no escaping just how important investment in future planning has become for Asia’s high-net-worth (HNW) and ultra-high-net-worth (UHNW) families, with industry watchers predicting they wi
 
-## Gangster Goldy Brar added to FBI's 10 Most Wanted list with $1 million reward
-US law enforcement authorities have offered a reward of up to $1 million for information leading to Goldy Brar's arrest.
-
-## India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
-India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
-
-## US sets zero tariff on certain speciality drugs, ingredients from India, 19 other nations
-An ad valorem tariff is a set percentage of the monetary value of the goods to be taxed, according to the World Customs Organisation.
-
-## Ujjain mosque demolition: MP HC disposes of pleas by Muslim side after 'settlement' with civic body
-The bench said assurances provided by Ujjain Municipal Corporation in its response and interim notice in Shahi Masjid case would be binding on the civic body.
-
-## Campus defaced, vehicles burnt, classes suspended: Punjab's LPU returns to uneasy calm day after violent protests
-The protests escalated on Sunday evening when some protesters allegedly pelted police personnel with stones and attacked their vehicles, injuring several cops.
+## Shein drops 14% to record low after profit misses in first results since Hong Kong IPO
+Shares of Shein Global Holdings fell nearly 14 per cent to a record low in Hong Kong on Tuesday after the online fashion retailer posted a 67 per cent drop in second-quarter profit in its first earnings report since listing, warning that tariff headwinds and logistics cost volatility would persist f
 
 ## Plan to turn Hong Kong office block into flats rejected amid high commercial vacancy rates
 Hong Kong’s Town Planning Board has rejected an application from a consortium of developers to rezone a commercial project in Kowloon for development as residential flats, leaving sellers struggling with high vacancy rates, according to analysts. A consortium formed by CSI Properties, Asia Standard 
 
 ## JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues
 Jamie Dimon’s recent whirlwind visit to Hong Kong followed a similar script: a schedule packed with meetings involving the entrepreneurs and business leaders connecting China with global markets. But it was his increasingly visible stance on global issues that appeared to extend his career beyond ma
-
-## VW, Gotion ramp up battery production in Europe, Morocco amid rising EV demand
-Volkswagen Group and its Chinese partner Gotion High-tech have stepped up a gear in tapping global demand for electric vehicle (EV) batteries with plans to invest a combined €3.22 billion (US$3.66 billion) to set up three production lines in Europe and North Africa. The factories, to be jointly owne
-
-## China is no longer just the world’s factory. It’s the HQ
-The global electronics industry is entering a structural transition. For over two decades, China served as the dominant manufacturing centre, with an unmatched concentration of suppliers, skilled labour, infrastructure, logistics and engineering capabilities. That concentration is being diluted. But
-
-## AIIB plans to double financing by 2030. Can it bridge Asia’s infrastructure gap?
-The Asian Infrastructure Investment Bank (AIIB) plans to double its annual financing to about US$20 billion by 2030 as the Beijing-headquartered multilateral lender enters its second decade, its president said on Monday. Announcing the target at the opening of the bank’s 11th annual meeting in Doha,
-
-## Hong Kong office expansion lags hiring push as tenants optimise current space: Colliers
-More than a third of Hong Kong’s office tenants are expecting to increase headcounts over the next 12 months, but only a fifth are likely to expand their real estate footprint, according to a survey by Colliers. The results of the fourth annual Hong Kong occupier survey by the property consultancy p
-
-## Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom
-Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s most sought-after tech listings this year, as investors bet on its push into silicon photonics and its role in domestic artificial intelligence infrastructure. The Guangzhou-based 
-
-## Hong Kong finds gold-trading leader in former exchange executive Bryan Chan
-The Hong Kong government has appointed Bryan Chan Ping-keung, a former executive at bourse operator Hong Kong Exchanges and Clearing (HKEX), as CEO to lead the development and operation of the city’s new central clearing and settlement system for gold. Chan will head Hong Kong Precious Metals Centra
 
 ## What Xi Actually Thinks of Trump
 China’s president has likely concluded that the U.S. under Trump has lost its way.
@@ -180,6 +177,9 @@ Given what happened in May, Taiwanese may have been more nervous after the lates
 ## Ismat Ara on India’s Crackdown on Love
 Ara explains the insidious harm of the “love jihad” myth: “A deeply personal decision, two people deciding to marry, gradually becomes something that others felt entitled to violently police.”
 
+## The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course
+Analogies for artificial intelligence abound. In recent years, analysts have likened the development of AI to the advent of electricity, the Industrial Revolution, contact with extraterrestrials, and at least fifty other things. One analogy, however, appears to have won out over the rest: AI is like
+
 ## Why the Week’s Most Important Story Went Unwritten
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
@@ -200,9 +200,6 @@ Pyongyang has a long history of conducting irregular warfare and asymmetric oper
 
 ## The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home
 Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed — including the Department of Veterans Affairs’ own adjudication frame
-
-## South Korea’s Deliberate Strategic Ambiguity on Taiwan
-In 2021, Sungmin Cho wrote, “South Korea’s Taiwan Conundrum,” where he argued Seoul’s complex strategic position makes engagement on questions of involvement over a Taiwan contingency complicated. Five years later, we asked him to revisit his arguments.Image: U.S. Navy (Photo by Seaman Apprentice Ca
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +225,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
-Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
+## FIFA could disburse millions to members as Infantino seeks re-election
+FIFA president Infantino is open to providing 'greatest level of additional funding' to associations amid opposition.
 
-## OpenAI scraps release of latest AI model over safety concerns
-AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
+## Asian Games: South Korea volleyball team latest to be taken to wrong venue
+Transporting athletes to the wrong location has emerged as a recurring issue at the Asian Games in Japan.
 
-## Africa’s space ambitions are moving from policy to practice
-As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
+## Australia raises interest rates to 15-year high
+Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation.
 
-## Inside Al Jazeera’s UNGA coverage
-Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.
+## AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana
+Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.
 
-## Iran war live: Trump says he did not offer Tehran sanctions relief
-US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.
+## Public transport drivers strike in Manila over soaring fuel prices
+Public transport drivers in Manila begin a three-day strike over soaring fuel prices.
 
-## Fiery end for SpaceX Starship mission
-Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.
+## More than 80 reported abducted in Nigeria as police find human remains
+Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.
 
-## UK: ‘Too soon’ to blame airbase plot on foreign state
-UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford
+## Pope Leo says AI risk concerns not ‘fake news’
+Leader of the Catholic Church says AI safety issues should be taken seriously and acted on.
 
-## Anti-South Asian ‘hate speech’ has exploded online in US, report finds
-Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US.
+## Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait
+Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.
+
+## DCB Bank Targets 18-20% annual asset growth, bets on SME and affordable housing to drive expansion: CFO
+DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
+
+## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
+Aggregation of CA Firms committee chairman, vice chairman meet DoE Secretary; institute working on draft proposing Rs 5 crore government consulting contracts for small and mid sized firms, with joint credentials for registered network firms.
+
+## Tata Trusts pitch Tata Sons restructuring as alternative to listing
+Tata Trusts have proposed merging Tata Electronics Systems Solutions and Tata Consulting Engineers with Tata Sons to alter its regulatory classification and preserve its unlisted private status. The Trusts said the restructuring would increase operating revenue and reduce investments in group compan
+
+## Four Adani Group companies settle public shareholding violations case with Sebi. Check details
+Adani Enterprises and three other companies have settled with Sebi over minimum public shareholding violations. The total settlement amount paid by the companies and directors is Rs 1.48 crore. Sebi initiated its investigation after receiving complaints in 2020 regarding non-compliance with public s
+
+## Finance Ministry seeks banks' inputs on AI tools for loan collection, assesses adoption
+The finance ministry has sought feedback from banks on their use of AI-driven loan collection tools to assess adoption and customer-protection practices. Most banks are using AI for borrower engagement and repayment, while only a few have implemented conversational AI for collections.
 
 ## Tata companies face a tough call on Chandra vote at AGM
 Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
@@ -261,21 +273,6 @@ Groups are restructuring NBFC and holding-company balance sheets to stay outside
 ## SEBI settlement overhaul may speed up recovery of siphoned funds, strengthen shareholder protection
 The Securities and Exchange Board of India's (SEBI) proposed overhaul of settlement norms could help speed up the recovery of diverted funds and strengthen shareholder protection in cases involving financial misrepresentation and siphoning of money, according to SEBI officials and legal experts.
 
-## SC clears forensic audit of Fortis-IHH deal involving erstwhile Religare promoters Singh brothers
-The Supreme Court has cleared the way for a Delhi High Court-appointed forensic auditor to examine transactions involving Fortis Healthcare, Malaysia’s IHH Healthcare and entities linked to former promoters Malvinder and Shivinder Singh. The audit will trace assets linked to the brothers and examine
-
-## OpenAI pauses training, evaluation of top AI models after agent bypasses internet restrictions
-OpenAI has paused training, evaluation and tool-based use of its most capable artificial intelligence models after an AI agent in a training run managed to bypass the company's internet restrictions and access a public chatbot service.
-
-## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
-India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
-
-## Five-day work week: The larger productivity debate
-Banks could combine a five-day employee work week with rotational branch operations, greater digital adoption, flexible staffing, better workforce planning and productivity-linked measurement. Branches where Saturday demand is genuinely high could operate with a smaller or rotational workforce, whil
-
-## ICAI to certify independent directors, new course likely by October-end
-Institute plans dedicated programme to train board members on Companies Act duties, questioning management and promoters and consequences of failing to discharge responsibilities.
-
 ## RBI to raise interest rates to 5.50% in October as inflation broadens
 The Reserve Bank of India is projected to increase interest rates by 25 basis points to 5.50% this October, marking the first adjustment since February 2023, as inflationary trends intensify. Economists note that inflation has surpassed the RBI’s medium-term target of 4% for the third month in a row
 
@@ -284,6 +281,9 @@ India's GDP growth in the second quarter of FY2026-27 came in significantly abov
 
 ## Russian crude supplies enabled India to cushion against oil supply shocks caused by West Asian war: Deputy FM
 Russia has significantly increased oil supply to India in response to disruptions from the conflict in West Asia. Indian imports of Russian crude oil nearly doubled following the outbreak of conflict, reaching 2.25 million barrels per day. The Indian government emphasizes the importance of multiple 
+
+## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
+India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
 
 ## Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries
 The Securities and Exchange Board of India (Sebi) has expanded its definition of accredited investors, now permitting individuals with securities market assets of INR 5 crore and corporate entities with INR 20 crore to qualify. Furthermore, it has instituted a Common Advertisement Code for market in
