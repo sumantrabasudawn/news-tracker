@@ -1,46 +1,49 @@
 # AION Intelligence
 
-## Trump meets tech chiefs including Amodei, Musk and Zuckerberg over AI safety
-White House hosts lunch with tech bosses as president resists calls for regulation
+## Trump praises ‘tremendous self-regulation’ of AI after summoning tech bosses to the White House
+President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders
 
-## Mediators push to break US-Iran deadlock
-Negotiators have shuttled between the American and Iranian officials in an effort to renew talks to end the seven-month war
+## The Lady Gaga moment for corporate Japan
+Recruitment ad by megastar points to the mounting labour problems and misallocation of human capital
 
-## Saudi crown prince holds talks with senior Emirati royal in push to mend rift
-Meeting is first since long-simmering tensions between the traditional allies erupted into the open over Yemen in January
+## FirstFT: Trump says AI bosses agreed to ‘self-regulation’ amid safety fears
+Also in today’s newsletter: Lady Gaga urges Japanese to work at FamilyMart and China unveils mortgage subsidies to boost economy
 
-## Counterterror police found petrol, not explosives, in vans near RAF Fairford
-The air base is being used as a base for B-1 bombers and other aircraft involved in what the US calls defensive strikes on Iran
+## Australia battles black market for cigarettes after decade of tax rises
+How policy created a multibillion dollar opportunity for organised crime
 
-## Andy Burnham’s ‘jam tomorrow’ vision
-Speech was more a bold manifesto for the next election than an urgent action plan
+## Hegseth to slash top US military officer roles by 20%
+Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services
 
-## EU discusses oil stocks release as fuel costs surge
-Bloc says it has spent an extra €100bn since the Iran war started as energy ministers meet in Dublin
+## Shell-led consortium backs $23bn expansion of LNG Canada project
+Flagship liquefied natural gas project’s production capacity will double
 
-## How would Andy Burnham’s social care shake-up work?
-By scrapping the triple lock on pensions, the PM hopes to be able to fund free-at-the-point-of-use social care in England
+## UK bosses left in dark by Burnham and Healey’s emphasis on ‘cost of business’
+Chief executives welcome bold action on pensions triple lock but brace for potential tax rises in Budget next month
 
-## Middle Eastern oil exports rise to highest level since Iran war began
-Shuttle services through Strait of Hormuz have brought shipments to more than 80% of prewar daily average
+## Suspect in RAF Fairford incident called 999 shortly before arrest
+Motive for the emergency call is unclear, as police continue to investigate incident at air base used by US bombers
 
-## Man City found to have artificially boosted finances by more than £900mn
-Independent commission said Premier League football club arranged ‘sham’ commercial deals to disguise sources of funding
+## Deloitte partner pay rises to record £1.1mn as firm cuts staff
+Profits in UK business jump even as accounting and consulting sector confronts AI disruption
 
-## OpenAI launches new AI personal assistant
-Sam Altman’s start-up seeks to meet challenge from Meta amid scrutiny of its safety record
+## Shein’s pain is high street retailers’ gain
+The UK’s imminent end of the duty-free loophole for low-cost imports will benefit the Hong Kong-listed company’s rivals
 
-## Spain seeks to ban ‘vulture funds’ from housing market
-Pedro Sánchez’s government responds to public outrage after 87-year-old was evicted by corporate landlord
+## Altman says OpenAI will delay its IPO until it overcomes safety concerns
+ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse
 
-## Barclays waters down return-to-office mandate after staff backlash
-Bank gives workers more time to comply with three-days-a-week rule
+## An ode to stock picking
+Can the dying art of active share investment make a comeback?
 
-## Average UK diesel price set to reach £2 a litre within days
-Fuel predicted to breach ‘psychological price point’ for first time owing to US export threat and disruption to Middle East and Russian supplies
+## Trump rejects new federal AI rules, backs industry self-regulation
+Top Silicon Valley executives met Trump amid growing concerns over AI security, safety risks, regulation and the technology’s rapid expansion
 
-## Dangote’s $16bn oil refinery blocked by Kenyan court
-Major industrial project aiming to reduce dependence on imported fuel paused over land dispute
+## US Supreme Court allows Trump administration to resume third-country deportations
+The order puts a federal judge’s requirements on hold as justices prepare to hear arguments over the administration’s removal policy in December
+
+## Noel Tata hopes Tata Sons, RBI find common ground; says merger proposal can help avoid listing
+Tata Trusts chairman Noel Tata said the proposed restructuring would transform Tata Sons into a holding-plus-operating company while addressing regulatory concerns
 
 ## Prestige Estates raises ₹3,000 crore from CPPIB for hospitality arm
 The investment marks CPP Investments’ first direct exposure to India’s hospitality sector and will support expansion of the hotel platform
@@ -56,15 +59,6 @@ The discussions covered stronger economic engagement, maritime commerce, tax cer
 
 ## AU SFB’s microfinance network crosses 1,000 branches across India
 The network’s expansion deepens financial access across villages, supporting women-led enterprises, rural livelihoods and small businesses in multiple states
-
-## Tata Trusts’ proposal could pave way for merger of Tata’s two iPhone manufacturing units
-Tata Trusts advisor FarokhSubedar said TESS has the right to buy the balance 40 per cent shares
-
-## ‘Nuclear energy is the only clean, reliable 24x7 source of base load power’
-Kirill Komarov of Russia’s State-owned nuclear energy corporation Rosatom, says India’s goal to achieve 100 GW of installed nuclear energy capacity in 20 years is ambitious
-
-## Foreign Secretary flags concerns over US Russia sanctions law to US lawmakers
-There are indications that the SRIA may be used as a leverage in the ongoing India-US negotiations for a bilateral trade agreement, sources said
 
 ## Centre picks 50 cities for PRAGATI-50 clean-city initiative
 
@@ -114,6 +108,9 @@ The NIA conducted searches at 16 locations across Assam, West Bengal and Kerala 
 ## ‘Unwarranted, no locus standi’: India rejects Turkish President Erdogan's Kashmir remarks at UNGA
 MEA spokesperson Randhir Jaiswal said the matter pertained to India's “sovereignty and territorial integrity”.
 
+## AI uptake sees wealth management headcounts in Hong Kong trail growth in assets
+Hong Kong has seen strong growth in private wealth assets, but the industry has not yet seen the same scale of hiring, as private banks and wealth management companies have adopted technology including AI to serve customers, according to consulting firm Capco. “When assets under management by privat
+
 ## The Vertex developer hit with HK$770,000 fine over disclosure failures
 The developer of The Vertex – a residential project in Cheung Sha Wan once owned by failed property giant China Evergrande Group – has been fined HK$770,000 (US$98,100) for failing to properly record transactions related to the complex. Twin City Holdings Limited was found to have violated a residen
 
@@ -135,8 +132,14 @@ Shares of Akeso surged after British drug maker AstraZeneca moved to advance the
 ## ‘180-degree flip’ sees global investors turn to China for diversification: Pimco president
 Global investors are turning to China again in search of alternatives to crowded US asset markets, with Pimco seeing Chinese bonds as one of the safest ways to diversify portfolios after sentiment towards the world’s second-largest economy “flipped 180 degrees”. The US-based asset manager, which ove
 
-## Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut
-Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs). Automated equipment manufacturer RoboTechnik Int
+## Spain’s Housing Reform
+Mass protests over an 87-year-old’s eviction prompt new proposed legislation.
+
+## Was Xi’s U.S. Visit a Bust?
+In the U.S.-China relationship at present, nothing might be better than something.
+
+## Is Egypt’s Diplomacy Clever or Clumsy?
+Regional wars have required Cairo to maneuver between competing demands.
 
 ## Trump’s Global Tariffs Are Likely to Fail in Court (Again)
 Despite having a better legal foundation than past attempts, these duties may also be struck down.
@@ -152,15 +155,6 @@ Even rigged elections used to be an outlet for discontent. That avenue is now cl
 
 ## Turkey Is Turning Its Breadbasket Into an Oil Hub
 As wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.
-
-## Why Nobody Can End the War in Ukraine
-It’s in everyone’s interest to stop the fighting. That’s still not enough.
-
-## What Xi Actually Thinks of Trump
-China’s president has likely concluded that the U.S. under Trump has lost its way.
-
-## The U.S. and China Agree to Slash Tariffs
-The cuts are on $60 billion worth of goods—but, crucially, soybeans aren’t included.
 
 ## Kyrgyz Presidential Election Set for January 2027, Candidates Start to Step Forward
 So far, incumbent President Sadyr Japarov and Omurbek Suvanaliev – a politician and former minister of internal affairs – have announced their intentions to run.
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Madrid residents feel the impact of Spain’s housing crisis
-Spain’s housing crisis is deepening as soaring rents and a shortage of homes put affordable housing out of reach.
+## Iraq begins high-stakes security balancing act as US troops withdraw
+Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.
 
-## Jerusalem Daily: Israeli worshippers attack Palestinian man
-Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.
+## Man City CEO: Premier League verdict based on ‘conspiracy theory’
+Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.
 
-## Trump unveils new site to simplify access to government services
-America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.
+## UN extends mandate of Gang Suppression Force in Haiti for six months
+Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.
 
-## ‘Truly historic’: Morocco’s king appoints first woman prime minister
-Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.
+## US consumer confidence hits its lowest level since 2014 ahead of midterms
+Rising goods and fuel costs are cited as key factors in the sharp drop in consumer confidence.
 
-## Schoolboy kills teacher, injures two in Slovakia school stabbing
-Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.
+## US Supreme Court allows Trump to continue third-country deportations
+The high court grants an emergency petition ahead of expected arguments in the case, slated for December.
 
-## Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
-Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.
+## Yamal stars as Spain thrash Croatia
+Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3
 
-## Ethiopia blames regional rivals as risk of conflict spillover rises
-Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.
+## ‘Netanyahu targets Qatar to deflect from Gaza war crimes’
+In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes
 
-## Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike
-Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.
+## French students clash with police as protests over education cuts spread
+French school students have blocked schools across France, demanding better learning conditions.
 
 ## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
