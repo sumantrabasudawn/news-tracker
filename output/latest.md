@@ -1,61 +1,88 @@
 # AION Intelligence
 
-## Australia raises interest rate to highest level in 15 years
-RBA governor says Iran war has ‘made people poorer’ as central bank seeks to tackle persistent inflation
+## Sheikh Mansour visits Riyadh in push to mend UAE-Saudi Arabia rift
+Meeting is first since long-simmering tensions erupted into the open over Yemen in January
 
-## Toyota’s China sales tumble as high fuel prices deter buyers
-Japanese carmaker grapples with prolonged slump in world’s biggest auto market
+## A warning of ‘breakdowns and deficiencies’ in security at the US central bank
+Also in today’s newsletter, Marco Rubio blames ‘foreign actor’ for UK terror plot and US completes Iraqi troop withdrawal
 
-## Brussels’ protectionist turn spooks bloc’s free-market stalwarts
-Also in this newsletter: energy ministers brace for winter
+## Trump to meet AI chiefs over safety outcry
+White House will host lunch with tech bosses as president resists calls for regulation
+
+## Average UK diesel price set to reach £2 a litre within days
+Fuel predicted to breach ‘psychological price point’ for first time owing to US export threat and disruption to Middle East and Russian supplies
+
+## Dangote’s $16bn oil refinery blocked by Kenyan court
+Major industrial project aiming to reduce dependence on imported fuel paused over land dispute
+
+## Le Pen deputy engulfed by antisemitism scandal
+Far-right party leader Jordan Bardella denies allegations by French news site that he wrote anti-Israel messages as a teenager
+
+## Apollo and Oaktree sue Patrick Drahi over US telco restructuring
+Bondholders argue billionaire is liable for ‘brazen’ plan to move Optimum Communications’ most valuable cable TV assets out of reach
+
+## Breaking a central banking taboo
+It turns out that monetary policy affects supply as well as demand
+
+## Smart ring start-up Oura delays IPO
+Finnish-American company had been seeking a valuation of as much as $14bn
+
+## M&S strikes beauty deal with LVMH’s Sephora
+Cosmetics chain to begin opening concessions in 100 Marks and Spencer stores next spring
+
+## Why a UK-backed tungsten mine is supplying the US defence stockpile
+A recent deal exemplifies the complexities of standing up non-Chinese supply chains for metals used in aerospace and military supply chains
+
+## Who is driving the massive surge in repo borrowing?
+You can probably guess this one
+
+## Grant Thornton takes on Big Four with £40,000 graduate salaries and ‘golden hello’
+Accounting firm seeks to compete against larger rivals in sector where junior pay has lagged behind sectors such as law
 
 ## FirstFT: Anthropic IPO filing warns of ‘existential risks’
-Also in today’s newsletter: oil-bonds link and EU budget
+Also in today’s newsletter: oil bonds link and Rubio says ‘foreign actor’ behind UK terror plot
 
-## Nvidia turns to insurers to spread the risk of AI build-out
-World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom
+## Rosatom in talks with Adani Group, RIL, NTPC for nuclear power push in India
+The Russian nuclear energy giant believes private participation will allow more companies to invest, build capacity in the sector
 
-## Big money, bigger problems in Big Law
-Weil’s loss of important partners to rivals is, to some, an illustration of how a few exits can start a stampede
+## Sensex, Nifty slip to near six-month lows as Rupee tests 96 against dollar
+The Sensex closed at 72,529.07, down 242.65 points or 0.33% and The Nifty 50 settled at 22,716.20, lower by 64 points or 0.28%
 
-## Private equity wrestles with its own generational wealth gap
-Joe Baratta of Blackstone will retire a billionaire, but future up-and-comers will struggle to match his record
+## US exempts select Indian specialty drugs from 100% tariff
+The move gives Indian drugmakers tariff-free access for these products as Washington begins imposing a 100 per cent tariff on covered patented pharmaceutical products
 
-## What ‘Choosin’ Texas’ tells us about Burnham’s social care obstacles
-Convincing the British public to pay higher taxes for something they wrongly assume the state provides will not be easy
+## Economy strong, but India needs to cut dependence on energy imports, says Shaktikanta Das
+Das highlighted three specific areas of reform that are still playing out and can be lessons for the global south
 
-## Rolex was for crypto, Ferrari is for AI
-Cars: the new coins
+## AIF real estate investments fall, but fund managers see continued demand
+Repayments and refinancing may be offsetting fresh deployment even as funds see opportunities across residential, warehousing and redevelopment
 
-## Why a £10bn Monzo takeover could be good for the UK
-Brazil-based Nubank has considered moving its legal domicile to the City
+## Yellow.ai Launches Nexus EDGE, the Agentic Desktop Interface That Resolves Employee IT, HR, and Operations Issues -- Not Just Answers Them
+Yellow.ai Launches Nexus EDGE, the Agentic Desktop Interface That Resolves Employee IT, HR, and Operations Issues -- Not Just Answers Them
 
-## UniCredit’s Orcel moves to seize control of Commerzbank within months
-Italian executive aims to replace 10 board members and oust CEO as soon as January, say people familiar with plans
+## Ampace Launches AIDC Battery Solutions White Paper, Exploring the Evolving Role of Batteries Beyond Backup Power
+Ampace Launches AIDC Battery Solutions White Paper, Exploring the Evolving Role of Batteries Beyond Backup Power
 
-## Sensex today | Stock Market Live Updates: Sensex down 210 pts, Nifty drops to 22,720 pts as crude hits $107
-Sensex, Nifty, Share Prices Live: Markets off day’s low at noon. Sensex traded 130.38 pts or 0.18% lower at 72,641.34. Nifty 50 dipped 37.75 pts or 0.17% to 22,742.50.
+## Rajnath Singh calls for boosting export of indigenous warships as domestic content exceeds 75%
+He said this during his address at the second edition of the three-day Indian Navy’s biannual Commanders’ Conference 2026 that began on Tuesday
 
-## IPO LIVE Today: Orient Cables IPO subscribed 20X, German Green Steel nears 12X, AceVector nearly 2 times, Runwal Enterprises cross 1X
-SRIT India IPO, Shah Investor IPO, AceVector IPO, German Green Steel IPO, Runwal Enterprises IPO, Orient Cables IPO Day 2 & 3 updates, news today live updates: Stay tuned
+## Son died, LIC denied father Rs 5 lakh over heart condition; Commission orders payout with interest
+The Commission referred to a National Consumer Disputes Redressal Commission decision concerning "silent diseases", observing that a person may not necessarily be aware of a condition until it aggravates and symptoms become apparent. It also referred to a Punjab and Haryana High Court judgment conce
 
-## HDFC Bank shares dip, Q2 results due October 17
-The stock opened at ₹713.70 and rose to an intraday high of ₹715.90, but continued to trade below its previous close of ₹719.05
+## Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India
+The underlying issue is not Russia's access to crude oil but its ability to convert crude into usable fuels. Refinery outages and infrastructure disruptions have constrained domestic production, forcing Russia to import products such as gasoline. In terms of magnitude, Russia’s import volume of oil 
 
-## Anupam Rasayan completes purchase of 48.2% stake in Bliss GVS Pharma for ₹1,750 cr
-The controlling stake was acquired via the promoter/Share Purchase Agreement (SPA) route at ₹299 per share, plus an open offer and a small on-market top-up.
+## Nvidia announces record $150 billion share buyback amid AI boom
 
-## India's Biggest CX Benchmark Just Got Bigger: Twimbit, Nasscom and Kyndryl Set to Launch The State of CX India 2026, Benchmarking 500 Companies Across India
-India's Biggest CX Benchmark Just Got Bigger: Twimbit, Nasscom and Kyndryl Set to Launch The State of CX India 2026, Benchmarking 500 Companies Across India
 
-## CTM and Huawei Jointly Launch the World's First Integrated QKD-Communication Target IP Network to Reinforce Digital Security Across the Greater Bay Area
-CTM and Huawei Jointly Launch the World's First Integrated QKD-Communication Target IP Network to Reinforce Digital Security Across the Greater Bay Area
+## Nitin Gadkari: Rs 61,500 crore, 630-km highway to link Siliguri, Guwahati, Shillong
+The project is estimated to cost Rs 61,500 crore. The road transport ministry has also initiated an expressway connectivity project between Gorakhpur in Uttar Pradesh and Siliguri. Once these projects are complete, a high-speed highway connectivity will be established between Uttar Pradesh and the N
 
-## 99% of Indian entrepreneurs are reshaping their businesses for AI: HSBC Report
-99% of Indian entrepreneurs are reshaping their businesses for AI: HSBC Report
+## Family found Gulmarg hotel missing, spent night in car at -4C; travel portal to pay Rs 48,775
+The advocate had reportedly reserved a family room at an inn in Srinagar for December 27 and 28, 2025. He paid Rs 5,788 for the booking. For the next leg of the trip, he booked two rooms at a hotel Gulmarg for December 28 and 29 at a cost of Rs 12,987.
 
-## High battery prices may delay commissioning of 12 GWh BESS capacity
-Nearly 21% of the under-construction BESS capacity, equivalent to about 12 GWh, faces weak return potential which may lead to some delays in commissioning, Crisil Ratings said
+## Gold price outlook: Gold under extreme pressure; analyst sees rallies as opportunity to sell
+Gold price prediction: Gold is under extreme downside pressure on exponential rise in real yields and a firmer US Dollar on robust US data and hawkish Federal Reserve. It is to be noted that the Fed officials continue to maintain a hawkish view post-FOMC decision.
 
 ## US exempts India, 19 other countries from 100% tariff on speciality drugs
 
@@ -63,71 +90,68 @@ Nearly 21% of the under-construction BESS capacity, equivalent to about 12 GWh, 
 ## Sensex, Nifty extend slide: Stock market crash continues as oil and yields rattle sentiment
 Dalal Street was also tracking the broader weakness across global markets. US stocks ended the previous session sharply lower, with the tech-heavy Nasdaq falling more than 0.9% and the S&P 500 declining around 0.8%. At around 10:25 AM, Nifty50 was trading at 22,586.60, down 194 points or 0.85%. BSE 
 
-## Infosys to shift a third of 320,000 staff into specialist roles; here’s why
-Infosys has more than 320,000 employees, but the growing impact of AI on billing models based on the number of people deployed on projects is putting pressure on the traditional headcount-driven pricing structure. The Bengaluru-headquartered IT services company is recruiting talent from leading Indi
+## NIA arrests 6 in Assam, searches 16 sites in Imam Mahmuder Kafila terror probe
+The NIA conducted searches at 16 locations across Assam, West Bengal and Kerala in connection with an investigation into IMK
 
-## Stock market today: Sensex tumbles over 600 points, Nifty50 below 22,650
+## ‘Unwarranted, no locus standi’: India rejects Turkish President Erdogan's Kashmir remarks at UNGA
+“This is a matter pertaining to India’s territorial integrity and no external party has any locus standi on this issue,” MEA spokesperson Randhir Jaiswal said.
 
+## Pune fort murder: Ketan Agarwal got fiancee Siya Goyal’s name tattooed as birthday gift, says father
+Ketan Agarwal allegedly died after being pushed off a cliff at Lohagad Fort near Pune on June 18.
 
-## Oil prices rise for second session as Middle East supply risks persist
+## Tattoo clue cracks Andhra murder case after woman’s body cut into 9 pieces, dumped in canal
+According to the investigation, the accused took the woman to his house in Bhavanipuram on September 17.
 
+## HT Evening Brief Sept 29: Kharge seeks CEC Gyanesh Kumar's removal; Neeru shoots historic gold at Asian Games
+Here are the top headlines from the day covering India, the world, sports, and entertainment.
 
-## Piyush Goyal to hold talks for trade deal with US
+## Revanth Reddy's ‘rich God, poor God’ remark faces heat, BJP slams Telangana CM's 'absurd' statement
+Telangana CM Revanth Reddy on Monday claimed that Lord Ram was the God of the rich and Lord Shiva was the God of the poor.
 
+## CAQM removes exemptions for older goods vehicles under strict GRAP stages
+Separately, CAQM has extended web-portal registration and monitoring of dust-control measures to eligible construction
 
-## UAE may invest another $25bn: Piyush Goyal
+## India pursues Xinjiang air route with China to mitigate Pakistan airspace ban: Aviation minister Ram Mohan Naidu
+Ram Mohan Naidu said the proposed corridor over Hotan in southwestern Xinjiang would offer a significantly shorter route
 
+## The Vertex developer hit with HK$770,000 fine over disclosure failures
+The developer of The Vertex – a residential project in Cheung Sha Wan once owned by failed property giant China Evergrande Group – has been fined HK$770,000 (US$98,100) for failing to properly record transactions related to the complex. Twin City Holdings Limited was found to have violated a residen
 
-## IIP growth surges to 8% in August
+## Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture
+Hong Kong businesses are lagging behind their mainland Chinese peers in adopting artificial intelligence, as entrenched legacy systems and a risk-averse corporate mindset slow the city’s digital transition, according to a senior executive at consultancy Accenture. Only 10 per cent of Hong Kong firms
 
+## Eunis Chan, Angela Leong sell luxury Hong Kong properties as rate increases loom
+As the shadow of possible interest rate increases darkens Hong Kong’s property market outlook, well-known people including model-actress Eunis Chan Ka-yung and billionaire Angela Leong On-kei have recently decided the time was right to sell luxury properties, according to market sources. Chan sold a
 
-## US's F-35A Lightning II jets debut at Tarang Shakti in India
-The second edition of the multinational Exercise Tarang Shakti is ongoing at Air Force Station Jodhpur in Rajasthan.
+## China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source
+Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital going to domestic suppliers of chipmaking equipment, according to a source. The firm, listed on the Shanghai Stock Exchange’s Star Market
 
-## Jaishankar reveals what India told China amid strained ties, but took them 'a while’ to agree to
-Speaking at an event in New York, Jaishankar said if he was to compare the ties between India and China at present against before, his answer would be positive.
+## Why Citi is betting on China’s 30-year bonds as US Treasury yields climb
+Citi Research has turned bullish on China’s 30-year government bonds, projecting that yields will fall further even as US Treasury yields climb. In a Monday research note, analysts at the Wall Street bank recommended that investors go long on China’s 30-year sovereign debt, saying they expected the 
 
-## Delhi’s minimum temp drops to 21°C as rain spell ends; mercury likely to rise
-The IMD has forecast mainly clear skies on Tuesday, with the maximum temperature expected to reach around 33°C
+## AstraZeneca, Merck, Novo deals boost Chinese biotech as global interest grows
+Shares of Akeso surged after British drug maker AstraZeneca moved to advance the Chinese biotech firm’s flagship cancer drug, while a new deal from US giant Merck further underscored the sector’s global momentum amid easing fears of US curbs. AstraZeneca on Tuesday announced a US$2 billion equity in
 
-## SC scraps NSA order against Sambhal violence accused, slaps ₹10L cost on UP govt
-The Supreme Court ruled that the state government had “illegally exercised” the power of detention against Mulla Afroz
-
-## Fresh Pocso case filed against granite baron R Veeramani in Tamil Nadu
-Tamil Nadu police registered a fresh POCSO case against R Veeramani after a woman alleged that he sexually assaulted her minor daughter.
-
-## Supreme Court to hear plea raising doubts over CEC Gyanesh Kumar's decisions next week
-The matter was mentioned before a bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana.
-
-## Kingpin of counterfeit pharma racket arrested at Bengaluru airport after Sharjah return
-The alleged kingpin of a multi-state counterfeit medicine racket was arrested after investigators seized drugs and equipment worth ₹5.05 crore.
-
-## ‘Everybody’s dealing with everybody’: Jaishankar says world is headed for multipolarity amid churn
-Jaishankar was speaking at an event organised by the Asia Society in New York on Monday.
+## ‘180-degree flip’ sees global investors turn to China for diversification: Pimco president
+Global investors are turning to China again in search of alternatives to crowded US asset markets, with Pimco seeing Chinese bonds as one of the safest ways to diversify portfolios after sentiment towards the world’s second-largest economy “flipped 180 degrees”. The US-based asset manager, which ove
 
 ## Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut
 Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs). Automated equipment manufacturer RoboTechnik Int
 
-## Why is JPMorgan expanding in China? CEO Dimon sees another decade of sharp growth
-JPMorgan Chase, the world’s top bank by market capitalisation, plans to expand hiring and technology investment across mainland China and Hong Kong and is looking to take advantage of the city’s strengthening capital markets as well as its platform for serving companies operating in and out of the C
+## Don’t Ban Diesel Exports
+Trump’s proposed solution to rising diesel prices would backfire economically and geopolitically.
 
-## Chinese brokerages get in line with Beijing’s crackdown on overseas stock trading
-Some securities companies have begun to clean up non-compliant overseas stock trading by mainland Chinese investors following a regulatory crackdown that started months ago with fines on Tiger Brokers and Futu Securities International. Orient Securities’ mainland-based clients that have trading acco
+## Russia’s Sahel Intervention Is Riskier Than It Looks
+No one—not least in postcolonial West Africa—loves an army of occupation.
 
-## AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies
-US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia. The acquisition, expected to
+## The True Meaning of Russia’s Sham Election
+Even rigged elections used to be an outlet for discontent. That avenue is now closed.
 
-## Future-ready: how Asia’s wealthiest should plan for the age of longevity
-[The content of this article has been produced by our advertising partner.] Going by the figures alone, there is no escaping just how important investment in future planning has become for Asia’s high-net-worth (HNW) and ultra-high-net-worth (UHNW) families, with industry watchers predicting they wi
+## Turkey Is Turning Its Breadbasket Into an Oil Hub
+As wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.
 
-## Shein drops 14% to record low after profit misses in first results since Hong Kong IPO
-Shares of Shein Global Holdings fell nearly 14 per cent to a record low in Hong Kong on Tuesday after the online fashion retailer posted a 67 per cent drop in second-quarter profit in its first earnings report since listing, warning that tariff headwinds and logistics cost volatility would persist f
-
-## Plan to turn Hong Kong office block into flats rejected amid high commercial vacancy rates
-Hong Kong’s Town Planning Board has rejected an application from a consortium of developers to rezone a commercial project in Kowloon for development as residential flats, leaving sellers struggling with high vacancy rates, according to analysts. A consortium formed by CSI Properties, Asia Standard 
-
-## JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues
-Jamie Dimon’s recent whirlwind visit to Hong Kong followed a similar script: a schedule packed with meetings involving the entrepreneurs and business leaders connecting China with global markets. But it was his increasingly visible stance on global issues that appeared to extend his career beyond ma
+## Why Nobody Can End the War in Ukraine
+It’s in everyone’s interest to stop the fighting. That’s still not enough.
 
 ## What Xi Actually Thinks of Trump
 China’s president has likely concluded that the U.S. under Trump has lost its way.
@@ -138,20 +162,23 @@ The cuts are on $60 billion worth of goods—but, crucially, soybeans aren’t i
 ## How Trump Is Sparking a Slovenian Website Boom
 The president’s call to rebrand AI as “super intelligence” has led to a surge of interest in Slovenia’s “.si” web domain.
 
-## Brazil Has No Answers for Its China Problem
-The country’s troubling relationship to China is at the center of its presidential campaign.
+## South Korean Submarines Could Save Australia From the AUKUS Shambles
+Could the conventionally-powered KSS-III sub offer a more affordable and timely alternative to the planned nuclear-powered fleet?
 
-## Trump’s ‘Greater North America’ Is Fascist Geopolitics
-The administration’s hemispheric vision has dangerous roots and dangerous implications.
+## Vietnam Confirms Arrest of Viet Tan Activists Reported Missing in Cambodia
+Rights groups claim that Nguyen Duc Thuan and Tran Hiep were abducted in Cambodia, in line with a pattern of growing transnational repression by the Vietnamese state.
 
-## John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
-The oil tycoon was celebrated as a pioneer before the public turned on him.
+## The Global Data Center Boom Has Arrived in Southeast Asia
+Will the region's demand for artificial intelligence services justify the enormous outlays of money and resources?
 
-## Ethiopia Returns to Civil War
-The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.
+## Thailand’s Constitutional Court Dismisses Petition Seeking Annulment of General Election
+The petition concerned the use of barcodes and QR codes on ballot papers, which some claimed could breach constitutional requirements for secret voting.
 
-## 6 Russian Words for a Country Sliding Into Authoritarianism
-How ordinary people describe power, repression, absurdity, and life under Putin.
+## China’s Young Women Are Rewriting the Rules of Adulthood
+Modernization has expanded women’s choices and made the traditional sequence of adulthood – marry, have children, settle near family – less inevitable.
+
+## Trump Doesn’t Need to Be a Prop in Xi’s Political Show
+Whether he means to or not, the U.S. president is feeding China’s active disinformation campaigns – especially on Taiwan.
 
 ## What South Korea Means by Protecting ‘Diverse Families’
 A record family ministry budget proposal expands support beyond the traditional household, but a bill to recognize unmarried civil partnerships remains under review.
@@ -159,23 +186,11 @@ A record family ministry budget proposal expands support beyond the traditional 
 ## India’s Sheikh Hasina Dilemma
 New Delhi’s difficult decision serves as a masterclass in how personal diplomacy can trap a major power.
 
-## Is AUKUS Too Big to Fail?
-The AUKUS partnership survived the Trump transition, and for Canberra it may be too big a deal to ever let fail.
+## The Unhedgeable Bet: What the Future Combat Systems Can Teach Us About Acquisition
+The Pentagon describes Golden Dome for America as a “system of systems,” an integrated air and missile defense architecture that combines space-based sensors, orbital interceptors, ground systems, and a command network designed to defeat any aerial attack. Eighteen months after its founding executiv
 
-## Options for the Royal Brunei Air Force’s Fast-jet Decision
-One important mantra for the RBAirF: Don’t try to run before you can walk.
-
-## Europe’s Read of the Trump-Xi Summit
-Decisions taken in Washington and Beijing increasingly shape European trade, technology, energy, and security.
-
-## Lee Asks Trump to Help Revive North Korea Talks During New York Trip
-During a Lee-Trump meeting at the U.N. General Assembly, Seoul said the U.S. president reaffirmed his willingness to talk with North Korean leader Kim Jong Un.
-
-## The Trump-Xi Summit Is Over, But Taiwan Is Still Bracing for the Fallout
-Given what happened in May, Taiwanese may have been more nervous after the latest Trump-Xi summit ended.
-
-## Ismat Ara on India’s Crackdown on Love
-Ara explains the insidious harm of the “love jihad” myth: “A deeply personal decision, two people deciding to marry, gradually becomes something that others felt entitled to violently police.”
+## The Discipline of Refusal: Constitutional Concerns About Lawful Orders in the U.S. Military
+Military doctrine gives officers a clear rule for manifestly unlawful orders: Refuse them. It offers no comparable rule when lawful action appears to threaten the constitutional structure the military serves. The first response is neither refusal nor resignation, but rather deliberative friction.Del
 
 ## The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course
 Analogies for artificial intelligence abound. In recent years, analysts have likened the development of AI to the advent of electricity, the Industrial Revolution, contact with extraterrestrials, and at least fifty other things. One analogy, however, appears to have won out over the rest: AI is like
@@ -194,12 +209,6 @@ Movies, shows, and books have long been at the forefront of imagining the future
 
 ## North Korea’s Irregular Warfare After Ukraine
 Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intended objectives of its missions and lost its
-
-## Power, Prudence, and Restraint in Fénelon’s Telemachus
-“If one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many people.” -Pierre-Valentin Faydit in La T
-
-## The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home
-Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed — including the Department of Veterans Affairs’ own adjudication frame
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,31 +234,31 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FIFA could disburse millions to members as Infantino seeks re-election
-FIFA president Infantino is open to providing 'greatest level of additional funding' to associations amid opposition.
+## Does international law still matter?
+Does international law still matter?
 
-## Asian Games: South Korea volleyball team latest to be taken to wrong venue
-Transporting athletes to the wrong location has emerged as a recurring issue at the Asian Games in Japan.
+## Estonia says Russia ordered August arson attack on defence company
+Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.
 
-## Australia raises interest rates to 15-year high
-Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation.
+## Tourists face legal action over turtle-riding video in Oman
+Tourists face legal action over turtle-riding video in Oman
 
-## AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana
-Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.
+## Are Houthis using new modified cruise missiles in Yemen’s war?
+Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.
 
-## Public transport drivers strike in Manila over soaring fuel prices
-Public transport drivers in Manila begin a three-day strike over soaring fuel prices.
+## Formula One’s Fernando Alonso to stay with Aston Martin next season
+Spain's Alonso, the oldest active F1 driver, joined Aston Martin in 2023 and has taken eight podiums with the team.
 
-## More than 80 reported abducted in Nigeria as police find human remains
-Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.
+## Iran downplays possible role in Houthis’ recent Yemen victories
+Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?
 
-## Pope Leo says AI risk concerns not ‘fake news’
-Leader of the Catholic Church says AI safety issues should be taken seriously and acted on.
+## Man City’s Premier League charges: What’s the latest and what comes next?
+Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.
 
-## Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait
-Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.
+## Walkouts, clashes and moments that defined UNGA 2026
+From mass walkouts and heated exchanges to protests, this year’s UNGA produced no shortage of memorable moments.
 
-## DCB Bank Targets 18-20% annual asset growth, bets on SME and affordable housing to drive expansion: CFO
+## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
 
 ## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
@@ -273,6 +282,12 @@ Groups are restructuring NBFC and holding-company balance sheets to stay outside
 ## SEBI settlement overhaul may speed up recovery of siphoned funds, strengthen shareholder protection
 The Securities and Exchange Board of India's (SEBI) proposed overhaul of settlement norms could help speed up the recovery of diverted funds and strengthen shareholder protection in cases involving financial misrepresentation and siphoning of money, according to SEBI officials and legal experts.
 
+## RBI now has less room to keep interest rates unchanged: Report
+Rising crude oil prices, inflation and higher bond yields globally has narrowed Reserve Bank of India's room to hold rates unchanged, a report said on Tuesday.
+
+## FCNR(B) liquidity may squeeze bank margins, offer relief to NBFCs: Report
+Banks with higher FCNR(B) mobilisation could face sharper margin pressure in the second quarter of FY27, while increased banking-system liquidity could help contain funding costs and cushion margins for NBFCs according to a report by Nuvama.
+
 ## RBI to raise interest rates to 5.50% in October as inflation broadens
 The Reserve Bank of India is projected to increase interest rates by 25 basis points to 5.50% this October, marking the first adjustment since February 2023, as inflationary trends intensify. Economists note that inflation has surpassed the RBI’s medium-term target of 4% for the third month in a row
 
@@ -290,10 +305,4 @@ The Securities and Exchange Board of India (Sebi) has expanded its definition of
 
 ## Banks to deploy excess liquidity over next few months: RBI DG
 RBI deputy governor Rohit Jain stated that banks will likely deploy additional liquidity from FCNR deposits soon. He noted that strong credit demand is anticipated during the festive season. Banks have mobilised $133 billion under the FCNR(B) deposit scheme, which closed on August 31. Discussions wi
-
-## Ministry of Finance to engage with banks and traders to allay Merchant Discount Rate concerns
-In an effort to shield consumers from additional Merchant Discount Rate (MDR) charges, the finance ministry is set to consult with the Indian Banks Association. Meetings with traders' organizations are also scheduled to directly address their concerns about the recent MDR levy. Effective from Octobe
-
-## Fair case for rupee to stabilise and appreciate from current levels: RBI Deputy Governor
-The rupee has cumulatively depreciated by 13.1 per cent (on a point-to-point basis) from March 31, 2025 to September 16, 2026, and there is a fair case for the Indian currency to not only stabilise but also appreciate from current levels, according to Poonam Gupta, the Reserve Bank of India's (RBI) 
 
