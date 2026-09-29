@@ -1,22 +1,31 @@
 # AION Intelligence
 
-## Netanyahu under pressure over reports he was warned about October 7
-Opposition attacks Israeli premier ahead of election over leaks suggesting Egyptian and Emirati officials alerted him to Hamas threat
+## SpaceX’s Starship rocket reaches orbit for the first time despite engine failure
+Milestone for Musk because the system is pivotal to winning more Nasa contracts and to transport humans to space
 
-## Fed exposed to security ‘deficiencies’, watchdog warns
-US central bank remains target for country’s foreign adversaries
+## US Treasury threatens crackdown on Wall Street tax-avoidance strategies
+Department limits use of ETFs to avoid taxable gains and says it could target other ‘potentially abusive’ tactics
 
-## Five men arrested over alleged RAF Fairford terror plot released on bail
-Police said suspects ‘remain under investigation as we explore multiple lines of enquiry’
+## AMD to buy Fei-Fei Li’s AI start-up for $8bn
+World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments
 
-## Bond sell-off deepens as oil prices rise
+## Bond sell-off deepens and oil rises as Iran-US deal hopes fade
 Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade
 
-## Can the Democrats win the Senate?
-The races, the money and the issues that will determine the final half of Trump’s second term
+## Burnham vows to break with ‘politics as usual’ by tackling UK’s biggest issues
+PM will unveil at Labour conference a ‘serious prospectus’ that aims to confront problems including social care crisis and youth unemployment
 
-## Ministers abandon plan to make overseas visitors pay for England’s top museums
-Culture secretary Lisa Nandy says the 15 national museums and galleries ‘must be free, forever, for everyone to access’
+## FirstFT: Seoul accuses Ukraine of violating secrecy agreement on North Korean soldiers
+Also in today’s newsletter: Nvidia’s $150bn share buyback and Tata family scion hits back with plan to keep holding company private
+
+## Erdoğan bids to contain fallout from Turkey’s $18bn stock market scandal
+President says those ‘engaged in manipulative schemes’ will be held to account as deputy chair of governing party resigns
+
+## Software glitch will delay US approval of newest Boeing 737
+Shares in aerospace group fall 6 per cent on Monday to $184.
+
+## HSBC moves to bolster Hang Seng by cleaning up balance sheet
+$1.4bn sale of Hong Kong lender’s loan portfolio part of push to improve its capital efficiency
 
 ## Shares in UK housebuilders surge on new Help to Buy scheme
 Prime Minister Andy Burnham unveils ‘Your First Home’ plan to help people on to housing ladder
@@ -24,71 +33,68 @@ Prime Minister Andy Burnham unveils ‘Your First Home’ plan to help people on
 ## BASF should take another crack at chemicals M&A
 Evonik, governed by the RAG-Stiftung foundation, may find it hard to turn up its nose at a higher number
 
-## HSBC moves to bolster Hang Seng by cleaning up balance sheet
-$1.4bn sale of Hong Kong lender’s loan portfolio part of push to improve its capital efficiency
-
-## Software glitch will delay US approval of newest Boeing 737
-Shares in aerospace group fall 6 per cent on Monday to $184.
-
-## AMD to buy Fei-Fei Li’s AI start-up for $8bn
-World Labs was founded by Stanford University researcher to work on AI models that understand 3D environments
-
 ## Tata family scion hits back with plan to keep holding company private
 Charitable group chaired by Noel Tata says merging with group’s electronics arm would remove need for forced blockbuster IPO
 
-## TotalEnergies boosts buybacks and dividends as oil prices surge
-French energy company increases shareholder payouts as effect of Iran war increases cash flows
+## Sensex today | Stock Market Live Updates: Stock to buy today: Parag Milk Foods (₹275) – BUY
+Sensex, Nifty, Share Prices Live: The short-term outlook for Parag Milk Foods is bullish. The stock began the week on a positive note, rising over 2 per cent on Monday.
 
-## Meta launches enterprise AI business seeking to cash in on vast spending
-Chief executive Mark Zuckerberg opens a new front in his push to turn huge investment in the technology into profits
+## Coforge appoints former Bharti Enterprises vice-chairman Akhil Gupta as chairperson
+The appointment follows weeks of boardroom turmoil after the resignation of former chairman O P Bhatt and NRC chairperson D K Singh
 
-## Moneyview IPO subscription hits 98x on final day; A-One Steels crosses 11x demand
-A-One Steels India raised ₹120.90 crore from anchor investors and allotted 29,85,160 equity shares to anchor investors at ₹405 apiece
+## Buzzing stocks: Tata Group, Anupam Rasayan, HCLSoftware, IRFC, NCC, Pidilite and others in focus
+Corporate restructuring, strategic acquisitions, new partnerships, major project orders, fleet expansion and renewable-energy capacity additions marked a busy day of announcements from Indian companies
 
-## El Nino effect: India’s coal imports may rise in October-December
-Coal generation rose to 114 terawatt-hour in August, nearly 14 per cent above last year, while power sector consumption rises to roughly 77 mt
+## TRAI mandates telecom operators to act against AI-flagged spam callers
+The amended regulations introduce new procedures for identifying suspected spammers, checking linked connections and restricting telecom resources following violations
 
-## Markets sink to six-month low as oil shock wipes out ₹7.5 lakh crore in investor wealth
-The Nifty 50 closed at 22,780.25, down 360 points, while the BSE Sensex settled at 72,771.72, shedding 1,124 points
+## Trump announces Essar Group’s $15-billion steel plant project in Iowa
+The facility is projected to create up to 1,750 permanent jobs and use iron ore from a new Minnesota mine
 
-## Inflows into gold ETFs continue to be positive for 10th week in a row
-But outflows matched investments last week, with US investors choosing to exit
+## HCLTech arm to acquire Croatia-based RPA platform Robotiq.ai for ₹98 crore
+The transaction will give the software division full ownership of the Zagreb-based automation company, which serves large banks, insurers and telecom firms
 
-## Rationale for reform
+## Natco Pharma raises proposed investment in eGenesis to $16.70 million
+The drug maker said the investment will support new-age therapeutic programmes focused on critical unmet medical needs.
 
+## USFDA inspection at Zydus Lifesciences’ Ahmedabad facility ends with one observation
+The inspection covered the manufacturing facility from September 21 to 28, with the company saying it will address the observation
 
-## SEBI settlement overhaul separates fund recovery from settlement payment
-Lawyers say diverted funds, disgorgement and settlement amount will have separate treatment
-
-## Noel Tata moots merger of 2 group firms with Tata Sons to keep it private
-Merge plan aims to push Tata Sons outside RBI’s NBFC and CIC thresholds
-
-## SEBI orders winding-up of Growpital farmland investment scheme
-Regulator finds unauthorised CIS raised ₹192.88 crore from 5,208 investors; directs refund with 12 per cent interest
-
-## SiMa.ai raises $150mn to scale physical AI
+## Piyush Goyal to hold talks for trade deal with US
 
 
-## Rs 5.2 crore cash deposit, but Rs 7.65 lakh ITR: Why ITAT quashed tax notice
-The AO issued several notices to the individual seeking an explanation for the cash deposit and details relating to his ITR. The responses did not satisfy the tax department, following which the AO passed an assessment order. Through the order, the Rs 5.2 crore deposit was treated as unexplained mon
+## UAE may invest another $25bn: Piyush Goyal
 
-## Sensex, Nifty sink further: Indices at six‑month lows; Rs 17.17 lakh crore wiped out in a month
-The sell-off intensified on Monday. The BSE benchmark plunged 1,124.02 points, or 1.52%, to close at 72,771.72, marking its lowest closing level since March 30, 2026. The Nifty fell 360.25 points, or 1.56%, to finish at 22,780.25, its lowest level in nearly six months. The weakness was also visible 
 
-## CBDT extends tax audit report deadline till October 21, ITR filing last date to November 21
-The Central Board of Direct Taxes has officially updated the deadlines for income-tax return submissions, providing taxpayers who are subject to audit an extension until November 21, 2026. Additionally, the deadline for submitting audit reports has shifted to October 21, 2026. This amendment pertain
+## IIP growth surges to 8% in August
 
-## Tata Trusts propose merging 2 firms with Tata Sons to avoid RBI listing mandate
-In a strategic move, Tata Trusts have put forth a plan to merge Tata Electronics Systems Solutions Pvt Ltd and Tata Consulting Engineers into Tata Sons. This restructuring aims to redefine Tata Sons' regulatory classification, thereby sidestepping extra regulatory burdens. Before any actions are tak
 
-## After hydrogen, India’s gets its first LNG train; check details
-The dual-fuel arrangement allows LNG to substitute for around 40 per cent of diesel consumption. The move is part of the national transporter’s broader push to reduce carbon emissions and move towards more sustainable modes of transport. A full tank of LNG is expected to support around 1,600 km of o
+## Suitability platform to assess NPS investors' risk appetite in works
 
-## Tenant stayed after rent agreement expired; HC orders Rs 3.27 cr + interest to be paid
-The Delhi High Court recently this very principle of mesne profits in a case involving a bank, directing the tenant to pay out, along with 6% annual interest, to the landlady for continuing to occupy the premises beyond the agreed tenancy period.
 
-## IEX subsidiary seeks licence to set up coal trading exchange in India
+## Growpital told to shut down by regulator
 
+
+## As consumers go big on experiences, private equity follows
+
+
+## Safety, profitability top priorities: Air India CEO designate
+
+
+## Gold hits 7-week low as oil surge fuels rate hike bets
+
+
+## Centre to disable 15.8 million ‘inactive’ ration cards from October
+The government is giving the cancelled ration cards three months to verify eligibility through e-KYC to reactivate cards.
+
+## Amid new EC rules, Delhi BLOs struggle to balance exams, SIR duty and 13-hour work days
+Many officers express difficulty managing their increased responsibilities, highlighting the strain on their personal and professional lives.
+
+## Supreme Court censures Delhi government for public safety failures amid rising sexual offences
+It ordered an audit of public spaces by the police, aiming to identify vulnerabilities and enhance security measures, with a report due by October 5.
+
+## Gangster Goldy Brar added to FBI's 10 Most Wanted list with $1 million reward
+US law enforcement authorities have offered a reward of up to $1 million for information leading to Goldy Brar's arrest.
 
 ## India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
 India, Fiji hold key meeting to boost cooperation in maritime security, cyber training
@@ -102,17 +108,8 @@ The bench said assurances provided by Ujjain Municipal Corporation in its respon
 ## Campus defaced, vehicles burnt, classes suspended: Punjab's LPU returns to uneasy calm day after violent protests
 The protests escalated on Sunday evening when some protesters allegedly pelted police personnel with stones and attacked their vehicles, injuring several cops.
 
-## 120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found
-The FDA also suspended the licences of Arun Vilas Farsan in Dharavi and Ruchi Veg Restaurant in Parel over hygiene and sanitation violations.
-
-## PETA India urges Centre to prohibit meat advertisements across media from October 2
-PETA India has asked the Centre to stop meat advertising from October 2, citing concerns linked to animal welfare, public health and the environment
-
-## Supreme Court suggests ways to recover unpaid traffic challans of ₹20,000 crore: 'Add it to electricity bill'
-A Supreme Court Bench made the suggestions while hearing a plea on the electronic enforcement of traffic violations and the recovery of fines.
-
-## ‘Ask for PM Modi's resignation directly': Arvind Kejriwal to CJP amid protest call against CEC Gyanesh Kumar
-Arvind Kejriwal's remarks come after CJP founder Abhijeet Dipke warned of nationwide protests on October 2 if the CEC did not step down by September 26.
+## Plan to turn Hong Kong office block into flats rejected amid high commercial vacancy rates
+Hong Kong’s Town Planning Board has rejected an application from a consortium of developers to rezone a commercial project in Kowloon for development as residential flats, leaving sellers struggling with high vacancy rates, according to analysts. A consortium formed by CSI Properties, Asia Standard 
 
 ## JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues
 Jamie Dimon’s recent whirlwind visit to Hong Kong followed a similar script: a schedule packed with meetings involving the entrepreneurs and business leaders connecting China with global markets. But it was his increasingly visible stance on global issues that appeared to extend his career beyond ma
@@ -134,9 +131,6 @@ Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IP
 
 ## Hong Kong finds gold-trading leader in former exchange executive Bryan Chan
 The Hong Kong government has appointed Bryan Chan Ping-keung, a former executive at bourse operator Hong Kong Exchanges and Clearing (HKEX), as CEO to lead the development and operation of the city’s new central clearing and settlement system for gold. Chan will head Hong Kong Precious Metals Centra
-
-## ‘Accomplices’ in espionage: Beijing’s stance on cryptocurrencies hardens
-China’s top intelligence and security agency on Monday issued a stark new warning on the risks of cryptocurrencies, highlighting their role in crime and stressing that transactions are not anonymous. Here are three things to know about the fresh warning from the Ministry of State Security (MSS) and 
 
 ## What Xi Actually Thinks of Trump
 China’s president has likely concluded that the U.S. under Trump has lost its way.
@@ -162,6 +156,15 @@ The Tigray People’s Liberation Front, now allied with six other armed groups, 
 ## 6 Russian Words for a Country Sliding Into Authoritarianism
 How ordinary people describe power, repression, absurdity, and life under Putin.
 
+## What South Korea Means by Protecting ‘Diverse Families’
+A record family ministry budget proposal expands support beyond the traditional household, but a bill to recognize unmarried civil partnerships remains under review.
+
+## India’s Sheikh Hasina Dilemma
+New Delhi’s difficult decision serves as a masterclass in how personal diplomacy can trap a major power.
+
+## Is AUKUS Too Big to Fail?
+The AUKUS partnership survived the Trump transition, and for Canberra it may be too big a deal to ever let fail.
+
 ## Options for the Royal Brunei Air Force’s Fast-jet Decision
 One important mantra for the RBAirF: Don’t try to run before you can walk.
 
@@ -176,15 +179,6 @@ Given what happened in May, Taiwanese may have been more nervous after the lates
 
 ## Ismat Ara on India’s Crackdown on Love
 Ara explains the insidious harm of the “love jihad” myth: “A deeply personal decision, two people deciding to marry, gradually becomes something that others felt entitled to violently police.”
-
-## Why Pakistan Turned on the Taliban (and Vice Versa)
-Why did Pakistan declare “an open war” against its one-time protégé?
-
-## Indonesia Finally Has Its Aircraft Carrier. Now Comes the Hard Part.
-Following a controversial acquisition, the most pressing question is whether and how Indonesia can convert the vessel into a viable military asset.
-
-## The Islamabad Memorandum Returns to the Spotlight
-For Pakistan, the coming days will test whether its mediation capacity can keep pace with a conflict that continues to expand in both geography and complexity.
 
 ## Why the Week’s Most Important Story Went Unwritten
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hundreds set up tent encampments in Madrid over housing crisis
-Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
+## Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
+Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
 
-## Olise scores late to grab France 1-0 Nations League win at Belgium
-Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
+## OpenAI scraps release of latest AI model over safety concerns
+AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
-## ‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment
-Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.
+## Africa’s space ambitions are moving from policy to practice
+As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
 
-## French far-right leader Bardella refutes anti-Semitism allegations
-Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats.
+## Inside Al Jazeera’s UNGA coverage
+Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.
 
-## South Sudan calls for sanctions to be lifted at UNGA
-Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted
+## Iran war live: Trump says he did not offer Tehran sanctions relief
+US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.
 
-## Slovenia’s U-turn towards Israel
-Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.
+## Fiery end for SpaceX Starship mission
+Elon Musk’s SpaceX's next-generation Starship rocket reached orbit for the first time despite an engine shutdown.
 
-## Gaza’s young inventors build robots with what they have
-At a youth hackathon in Gaza City, young inventors are developing robots.
+## UK: ‘Too soon’ to blame airbase plot on foreign state
+UK Defence Minister Wes Streeting said it was ‘too soon’ to blame a foreign state for a suspected plot near RAF Fairford
 
-## Apple ordered to pay $5.7bn in patent infringement case
-California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.
+## Anti-South Asian ‘hate speech’ has exploded online in US, report finds
+Researchers link the rise to immigration politics, economic anxiety and the growing visibility of South Asians in US.
 
 ## Tata companies face a tough call on Chandra vote at AGM
 Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
