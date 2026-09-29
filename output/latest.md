@@ -1,13 +1,40 @@
 # AION Intelligence
 
-## Sheikh Mansour visits Riyadh in push to mend UAE-Saudi Arabia rift
-Meeting is first since long-simmering tensions erupted into the open over Yemen in January
+## Trump meets tech chiefs including Amodei, Musk and Zuckerberg over AI safety
+White House hosts lunch with tech bosses as president resists calls for regulation
 
-## A warning of ‘breakdowns and deficiencies’ in security at the US central bank
-Also in today’s newsletter, Marco Rubio blames ‘foreign actor’ for UK terror plot and US completes Iraqi troop withdrawal
+## Mediators push to break US-Iran deadlock
+Negotiators have shuttled between the American and Iranian officials in an effort to renew talks to end the seven-month war
 
-## Trump to meet AI chiefs over safety outcry
-White House will host lunch with tech bosses as president resists calls for regulation
+## Saudi crown prince holds talks with senior Emirati royal in push to mend rift
+Meeting is first since long-simmering tensions between the traditional allies erupted into the open over Yemen in January
+
+## Counterterror police found petrol, not explosives, in vans near RAF Fairford
+The air base is being used as a base for B-1 bombers and other aircraft involved in what the US calls defensive strikes on Iran
+
+## Andy Burnham’s ‘jam tomorrow’ vision
+Speech was more a bold manifesto for the next election than an urgent action plan
+
+## EU discusses oil stocks release as fuel costs surge
+Bloc says it has spent an extra €100bn since the Iran war started as energy ministers meet in Dublin
+
+## How would Andy Burnham’s social care shake-up work?
+By scrapping the triple lock on pensions, the PM hopes to be able to fund free-at-the-point-of-use social care in England
+
+## Middle Eastern oil exports rise to highest level since Iran war began
+Shuttle services through Strait of Hormuz have brought shipments to more than 80% of prewar daily average
+
+## Man City found to have artificially boosted finances by more than £900mn
+Independent commission said Premier League football club arranged ‘sham’ commercial deals to disguise sources of funding
+
+## OpenAI launches new AI personal assistant
+Sam Altman’s start-up seeks to meet challenge from Meta amid scrutiny of its safety record
+
+## Spain seeks to ban ‘vulture funds’ from housing market
+Pedro Sánchez’s government responds to public outrage after 87-year-old was evicted by corporate landlord
+
+## Barclays waters down return-to-office mandate after staff backlash
+Bank gives workers more time to comply with three-days-a-week rule
 
 ## Average UK diesel price set to reach £2 a litre within days
 Fuel predicted to breach ‘psychological price point’ for first time owing to US export threat and disruption to Middle East and Russian supplies
@@ -15,56 +42,35 @@ Fuel predicted to breach ‘psychological price point’ for first time owing to
 ## Dangote’s $16bn oil refinery blocked by Kenyan court
 Major industrial project aiming to reduce dependence on imported fuel paused over land dispute
 
-## Le Pen deputy engulfed by antisemitism scandal
-Far-right party leader Jordan Bardella denies allegations by French news site that he wrote anti-Israel messages as a teenager
+## Prestige Estates raises ₹3,000 crore from CPPIB for hospitality arm
+The investment marks CPP Investments’ first direct exposure to India’s hospitality sector and will support expansion of the hotel platform
 
-## Apollo and Oaktree sue Patrick Drahi over US telco restructuring
-Bondholders argue billionaire is liable for ‘brazen’ plan to move Optimum Communications’ most valuable cable TV assets out of reach
+## Insurance brokers warn IRDAI reforms could hurt policyholders and jobs
+It urged IRDAI to retain the 2023 expense-of-management framework, with tighter computation rules
 
-## Breaking a central banking taboo
-It turns out that monetary policy affects supply as well as demand
+## Spain overhauls housing rules as rent crisis sparks protests
+The package follows growing public anger over affordability, with young people protesting as home ownership remains out of reach for many
 
-## Smart ring start-up Oura delays IPO
-Finnish-American company had been seeking a valuation of as much as $14bn
+## India, Qatar step up talks on investment treaty and free trade agreement
+The discussions covered stronger economic engagement, maritime commerce, tax certainty and opportunities for businesses from both countries amid global uncertainty
 
-## M&S strikes beauty deal with LVMH’s Sephora
-Cosmetics chain to begin opening concessions in 100 Marks and Spencer stores next spring
+## AU SFB’s microfinance network crosses 1,000 branches across India
+The network’s expansion deepens financial access across villages, supporting women-led enterprises, rural livelihoods and small businesses in multiple states
 
-## Why a UK-backed tungsten mine is supplying the US defence stockpile
-A recent deal exemplifies the complexities of standing up non-Chinese supply chains for metals used in aerospace and military supply chains
+## Tata Trusts’ proposal could pave way for merger of Tata’s two iPhone manufacturing units
+Tata Trusts advisor FarokhSubedar said TESS has the right to buy the balance 40 per cent shares
 
-## Who is driving the massive surge in repo borrowing?
-You can probably guess this one
+## ‘Nuclear energy is the only clean, reliable 24x7 source of base load power’
+Kirill Komarov of Russia’s State-owned nuclear energy corporation Rosatom, says India’s goal to achieve 100 GW of installed nuclear energy capacity in 20 years is ambitious
 
-## Grant Thornton takes on Big Four with £40,000 graduate salaries and ‘golden hello’
-Accounting firm seeks to compete against larger rivals in sector where junior pay has lagged behind sectors such as law
+## Foreign Secretary flags concerns over US Russia sanctions law to US lawmakers
+There are indications that the SRIA may be used as a leverage in the ongoing India-US negotiations for a bilateral trade agreement, sources said
 
-## FirstFT: Anthropic IPO filing warns of ‘existential risks’
-Also in today’s newsletter: oil bonds link and Rubio says ‘foreign actor’ behind UK terror plot
+## Centre picks 50 cities for PRAGATI-50 clean-city initiative
 
-## Rosatom in talks with Adani Group, RIL, NTPC for nuclear power push in India
-The Russian nuclear energy giant believes private participation will allow more companies to invest, build capacity in the sector
 
-## Sensex, Nifty slip to near six-month lows as Rupee tests 96 against dollar
-The Sensex closed at 72,529.07, down 242.65 points or 0.33% and The Nifty 50 settled at 22,716.20, lower by 64 points or 0.28%
-
-## US exempts select Indian specialty drugs from 100% tariff
-The move gives Indian drugmakers tariff-free access for these products as Washington begins imposing a 100 per cent tariff on covered patented pharmaceutical products
-
-## Economy strong, but India needs to cut dependence on energy imports, says Shaktikanta Das
-Das highlighted three specific areas of reform that are still playing out and can be lessons for the global south
-
-## AIF real estate investments fall, but fund managers see continued demand
-Repayments and refinancing may be offsetting fresh deployment even as funds see opportunities across residential, warehousing and redevelopment
-
-## Yellow.ai Launches Nexus EDGE, the Agentic Desktop Interface That Resolves Employee IT, HR, and Operations Issues -- Not Just Answers Them
-Yellow.ai Launches Nexus EDGE, the Agentic Desktop Interface That Resolves Employee IT, HR, and Operations Issues -- Not Just Answers Them
-
-## Ampace Launches AIDC Battery Solutions White Paper, Exploring the Evolving Role of Batteries Beyond Backup Power
-Ampace Launches AIDC Battery Solutions White Paper, Exploring the Evolving Role of Batteries Beyond Backup Power
-
-## Rajnath Singh calls for boosting export of indigenous warships as domestic content exceeds 75%
-He said this during his address at the second edition of the three-day Indian Navy’s biannual Commanders’ Conference 2026 that began on Tuesday
+## Indians buying gold at Rs 5,000 per 10 grams discount on cash deals
+For bulk purchases, such off-the-record cash deals can bring prices down by as much as 6% from prevailing market rates. Dealers who take cash can avoid certain taxes and share some of those savings with buyers. The revival of this informal market is an unintended outcome of a policy intended to redu
 
 ## Son died, LIC denied father Rs 5 lakh over heart condition; Commission orders payout with interest
 The Commission referred to a National Consumer Disputes Redressal Commission decision concerning "silent diseases", observing that a person may not necessarily be aware of a condition until it aggravates and symptoms become apparent. It also referred to a Punjab and Haryana High Court judgment conce
@@ -84,35 +90,29 @@ The advocate had reportedly reserved a family room at an inn in Srinagar for Dec
 ## Gold price outlook: Gold under extreme pressure; analyst sees rallies as opportunity to sell
 Gold price prediction: Gold is under extreme downside pressure on exponential rise in real yields and a firmer US Dollar on robust US data and hawkish Federal Reserve. It is to be noted that the Fed officials continue to maintain a hawkish view post-FOMC decision.
 
-## US exempts India, 19 other countries from 100% tariff on speciality drugs
+## SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota
+The court was monitoring the implementation of its January 13 direction which mandated strict enforcement of the provision under section 12(1)(c) of the Right of Children to Free and Compulsory Education Act, 2009.
 
+## Jamia student suspended for five days over protest, AISA demands revocation
+The action followed a protest on September 28 against the recent eviction of hostel residents, particularly women hostellers.
 
-## Sensex, Nifty extend slide: Stock market crash continues as oil and yields rattle sentiment
-Dalal Street was also tracking the broader weakness across global markets. US stocks ended the previous session sharply lower, with the tech-heavy Nasdaq falling more than 0.9% and the S&P 500 declining around 0.8%. At around 10:25 AM, Nifty50 was trading at 22,586.60, down 194 points or 0.85%. BSE 
+## Keralam man arrested for stabbing 20-year-old woman at resort: Police
+According to the victim’s colleagues, the accused arrived at the resort in Kozhencherry around 1pm on Tuesday
 
-## NIA arrests 6 in Assam, searches 16 sites in Imam Mahmuder Kafila terror probe
+## CISF jawan kills four colleagues with AK-47 in suspected fratricide in J&K's Kathua, arrested
+The four deceased included an assistant commandant, one SI and two constables. All four succumbed to their injuries after being admitted to a hospital.
+
+## NIA arrests 13 in Assam, Bengal, Keralam over links with IMK terror outfit
+Four persons were arrested in West Bengal, eight were intercepted in Assam and one was held in Keralam
+
+## MP govt to transfer ₹600 each to 5.8 million students for school uniforms
+The state cabinet approved ₹348.07 crore for the 2026-27 academic session to provide uniform allowances to 5.8 million students
+
+## NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe
 The NIA conducted searches at 16 locations across Assam, West Bengal and Kerala in connection with an investigation into IMK
 
 ## ‘Unwarranted, no locus standi’: India rejects Turkish President Erdogan's Kashmir remarks at UNGA
-“This is a matter pertaining to India’s territorial integrity and no external party has any locus standi on this issue,” MEA spokesperson Randhir Jaiswal said.
-
-## Pune fort murder: Ketan Agarwal got fiancee Siya Goyal’s name tattooed as birthday gift, says father
-Ketan Agarwal allegedly died after being pushed off a cliff at Lohagad Fort near Pune on June 18.
-
-## Tattoo clue cracks Andhra murder case after woman’s body cut into 9 pieces, dumped in canal
-According to the investigation, the accused took the woman to his house in Bhavanipuram on September 17.
-
-## HT Evening Brief Sept 29: Kharge seeks CEC Gyanesh Kumar's removal; Neeru shoots historic gold at Asian Games
-Here are the top headlines from the day covering India, the world, sports, and entertainment.
-
-## Revanth Reddy's ‘rich God, poor God’ remark faces heat, BJP slams Telangana CM's 'absurd' statement
-Telangana CM Revanth Reddy on Monday claimed that Lord Ram was the God of the rich and Lord Shiva was the God of the poor.
-
-## CAQM removes exemptions for older goods vehicles under strict GRAP stages
-Separately, CAQM has extended web-portal registration and monitoring of dust-control measures to eligible construction
-
-## India pursues Xinjiang air route with China to mitigate Pakistan airspace ban: Aviation minister Ram Mohan Naidu
-Ram Mohan Naidu said the proposed corridor over Hotan in southwestern Xinjiang would offer a significantly shorter route
+MEA spokesperson Randhir Jaiswal said the matter pertained to India's “sovereignty and territorial integrity”.
 
 ## The Vertex developer hit with HK$770,000 fine over disclosure failures
 The developer of The Vertex – a residential project in Cheung Sha Wan once owned by failed property giant China Evergrande Group – has been fined HK$770,000 (US$98,100) for failing to properly record transactions related to the complex. Twin City Holdings Limited was found to have violated a residen
@@ -138,6 +138,9 @@ Global investors are turning to China again in search of alternatives to crowded
 ## Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut
 Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs). Automated equipment manufacturer RoboTechnik Int
 
+## Trump’s Global Tariffs Are Likely to Fail in Court (Again)
+Despite having a better legal foundation than past attempts, these duties may also be struck down.
+
 ## Don’t Ban Diesel Exports
 Trump’s proposed solution to rising diesel prices would backfire economically and geopolitically.
 
@@ -159,8 +162,23 @@ China’s president has likely concluded that the U.S. under Trump has lost its 
 ## The U.S. and China Agree to Slash Tariffs
 The cuts are on $60 billion worth of goods—but, crucially, soybeans aren’t included.
 
-## How Trump Is Sparking a Slovenian Website Boom
-The president’s call to rebrand AI as “super intelligence” has led to a surge of interest in Slovenia’s “.si” web domain.
+## Kyrgyz Presidential Election Set for January 2027, Candidates Start to Step Forward
+So far, incumbent President Sadyr Japarov and Omurbek Suvanaliev – a politician and former minister of internal affairs – have announced their intentions to run.
+
+## What Did Chinese Analysts Think of the Trump-Xi Summit?
+To some, Trump's hospitality was “historic.” To others, it was an attempt to “lull China into a false sense of security.”
+
+## Rahul Bajoria, Bank of America Chief Economist, on India’s Manufacturing Ambitions
+Why has India's manufacturing sector has remained stuck at around 15 percent of GDP despite decades of rapid growth?
+
+## Why Has the Maldives Inserted Itself Into the Chagos Sovereignty Dispute?
+Muizzu has promised to submit evidence supporting the Maldives’ claim to Chagos to relevant international bodies.
+
+## US Republicans Weren’t Happy With Trump’s Hosting of Xi
+A spate of Republican senators took umbrage at Trump's reception of “a brutal, unelected, and oppressive dictator.”
+
+## Pakistan and Terrorism: When the Tables Turn
+Islamabad cannot use its own people’s suffering to erase its record of supporting forces that have devastated lives in other countries.
 
 ## South Korean Submarines Could Save Australia From the AUKUS Shambles
 Could the conventionally-powered KSS-III sub offer a more affordable and timely alternative to the planned nuclear-powered fleet?
@@ -168,23 +186,8 @@ Could the conventionally-powered KSS-III sub offer a more affordable and timely 
 ## Vietnam Confirms Arrest of Viet Tan Activists Reported Missing in Cambodia
 Rights groups claim that Nguyen Duc Thuan and Tran Hiep were abducted in Cambodia, in line with a pattern of growing transnational repression by the Vietnamese state.
 
-## The Global Data Center Boom Has Arrived in Southeast Asia
-Will the region's demand for artificial intelligence services justify the enormous outlays of money and resources?
-
-## Thailand’s Constitutional Court Dismisses Petition Seeking Annulment of General Election
-The petition concerned the use of barcodes and QR codes on ballot papers, which some claimed could breach constitutional requirements for secret voting.
-
-## China’s Young Women Are Rewriting the Rules of Adulthood
-Modernization has expanded women’s choices and made the traditional sequence of adulthood – marry, have children, settle near family – less inevitable.
-
-## Trump Doesn’t Need to Be a Prop in Xi’s Political Show
-Whether he means to or not, the U.S. president is feeding China’s active disinformation campaigns – especially on Taiwan.
-
-## What South Korea Means by Protecting ‘Diverse Families’
-A record family ministry budget proposal expands support beyond the traditional household, but a bill to recognize unmarried civil partnerships remains under review.
-
-## India’s Sheikh Hasina Dilemma
-New Delhi’s difficult decision serves as a masterclass in how personal diplomacy can trap a major power.
+## What Will Hegseth’s “State of the Force” Reprise Reveal?
+Secretary of Defense Pete Hegseth is expected to convene a high-profile meeting of military personnel for a “State of the Force” address this week. Will it show the U.S. armed forces as healthy? The answer may depend on how the audience responds, regardless of what Hegseth says. How the audience han
 
 ## The Unhedgeable Bet: What the Future Combat Systems Can Teach Us About Acquisition
 The Pentagon describes Golden Dome for America as a “system of systems,” an integrated air and missile defense architecture that combines space-based sensors, orbital interceptors, ground systems, and a command network designed to defeat any aerial attack. Eighteen months after its founding executiv
@@ -206,9 +209,6 @@ I spent more than 20 years in U.S. Army air defense, much of it in cramped contr
 
 ## Tracing the Future Soldier’s Tech Stack
 Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the “future soldier,” you’d likely picture the genetically engineered super soldiers that have captivated — and horrified — audiences for decades. Soldiers have been depicted as being engi
-
-## North Korea’s Irregular Warfare After Ukraine
-Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intended objectives of its missions and lost its
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Does international law still matter?
-Does international law still matter?
+## Madrid residents feel the impact of Spain’s housing crisis
+Spain’s housing crisis is deepening as soaring rents and a shortage of homes put affordable housing out of reach.
 
-## Estonia says Russia ordered August arson attack on defence company
-Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.
+## Jerusalem Daily: Israeli worshippers attack Palestinian man
+Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.
 
-## Tourists face legal action over turtle-riding video in Oman
-Tourists face legal action over turtle-riding video in Oman
+## Trump unveils new site to simplify access to government services
+America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.
 
-## Are Houthis using new modified cruise missiles in Yemen’s war?
-Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.
+## ‘Truly historic’: Morocco’s king appoints first woman prime minister
+Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.
 
-## Formula One’s Fernando Alonso to stay with Aston Martin next season
-Spain's Alonso, the oldest active F1 driver, joined Aston Martin in 2023 and has taken eight podiums with the team.
+## Schoolboy kills teacher, injures two in Slovakia school stabbing
+Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.
 
-## Iran downplays possible role in Houthis’ recent Yemen victories
-Iran has long been accused of links with the Houthis in Yemen, but how far do these links go?
+## Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
+Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.
 
-## Man City’s Premier League charges: What’s the latest and what comes next?
-Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.
+## Ethiopia blames regional rivals as risk of conflict spillover rises
+Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.
 
-## Walkouts, clashes and moments that defined UNGA 2026
-From mass walkouts and heated exchanges to protests, this year’s UNGA produced no shortage of memorable moments.
+## Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike
+Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.
 
 ## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
