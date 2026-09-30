@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## Trump praises ‘tremendous self-regulation’ of AI after summoning tech bosses to the White House
+## Pentagon awards Boeing $20bn contract for Navy stealth fighter jet
+Virginia-headquartered company marks a revival of its role with the defence department
+
+## Labour Party conference: Hope again?
+Andy Burnham promises a new direction for Britain
+
+## Trump praises tech bosses’ ‘tremendous self-regulation’ of AI
 President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders
 
 ## The Lady Gaga moment for corporate Japan
@@ -18,12 +24,6 @@ Generals’ and admirals’ positions will be cut as part of the defence secreta
 ## Shell-led consortium backs $23bn expansion of LNG Canada project
 Flagship liquefied natural gas project’s production capacity will double
 
-## UK bosses left in dark by Burnham and Healey’s emphasis on ‘cost of business’
-Chief executives welcome bold action on pensions triple lock but brace for potential tax rises in Budget next month
-
-## Suspect in RAF Fairford incident called 999 shortly before arrest
-Motive for the emergency call is unclear, as police continue to investigate incident at air base used by US bombers
-
 ## Deloitte partner pay rises to record £1.1mn as firm cuts staff
 Profits in UK business jump even as accounting and consulting sector confronts AI disruption
 
@@ -33,32 +33,35 @@ The UK’s imminent end of the duty-free loophole for low-cost imports will bene
 ## Altman says OpenAI will delay its IPO until it overcomes safety concerns
 ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse
 
-## An ode to stock picking
-Can the dying art of active share investment make a comeback?
+## Sensex today | Stock Market Live Updates: Indian equities poised for weak start
+Sensex, Nifty, Share Prices Live: Amid mixed global cues, Indian stock markets are likely to see another bearish day on Wednesday.
 
-## Trump rejects new federal AI rules, backs industry self-regulation
-Top Silicon Valley executives met Trump amid growing concerns over AI security, safety risks, regulation and the technology’s rapid expansion
+## Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharma's Aurora Facility
+Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharma's Aurora Facility
 
-## US Supreme Court allows Trump administration to resume third-country deportations
-The order puts a federal judge’s requirements on hold as justices prepare to hear arguments over the administration’s removal policy in December
+## CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally
+CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally
 
-## Noel Tata hopes Tata Sons, RBI find common ground; says merger proposal can help avoid listing
-Tata Trusts chairman Noel Tata said the proposed restructuring would transform Tata Sons into a holding-plus-operating company while addressing regulatory concerns
+## On World School Milk Day, Tetra Pak Highlights the Role of Technology in Strengthening School Feeding Programmes
+On World School Milk Day, Tetra Pak Highlights the Role of Technology in Strengthening School Feeding Programmes
 
-## Prestige Estates raises ₹3,000 crore from CPPIB for hospitality arm
-The investment marks CPP Investments’ first direct exposure to India’s hospitality sector and will support expansion of the hotel platform
+## Negative opening likely for Indian stock markets
+Analysts said there is no positive triggers at present to revive the market sentiment
 
-## Insurance brokers warn IRDAI reforms could hurt policyholders and jobs
-It urged IRDAI to retain the 2023 expense-of-management framework, with tighter computation rules
+## IPO News Updates: Orient Cables IPO hits 20X subscription, German Green Steel nears 12X, AceVector nearly 2 times, Runwal crosses 1X
+SRIT India IPO, Shah Investor IPO, AceVector IPO, German Green Steel IPO, Runwal Enterprises IPO, Orient Cables IPO Day 2 & 3 updates, news today live updates: Stay tuned
 
-## Spain overhauls housing rules as rent crisis sparks protests
-The package follows growing public anger over affordability, with young people protesting as home ownership remains out of reach for many
+## 20 stocks to hog the limelight in Wednesday’s trade, including Tata Steel, Time Technoplast, Shiva Cement/JSW Cement, KPI Energy, Exide Industries, Ganesh Benzoplast, and Power Mech Projects
+Broad gains in metals, energy, and engineering amid strategic deals, acquisitions, and large-scale EPC orders
 
-## India, Qatar step up talks on investment treaty and free trade agreement
-The discussions covered stronger economic engagement, maritime commerce, tax certainty and opportunities for businesses from both countries amid global uncertainty
+## OpenAI unveils Dots AI agents as Sam Altman promises ‘always-on’ AI helper
+Altman said AI should give people more power to create, learn, discover and expand knowledge rather than automate every aspect of lif
 
-## AU SFB’s microfinance network crosses 1,000 branches across India
-The network’s expansion deepens financial access across villages, supporting women-led enterprises, rural livelihoods and small businesses in multiple states
+## Oil stays above $103 after Trump denies easing sanctions on Iran
+Rising oil prices are reflecting a renewed uncertainty over US sanctions on Iran, with Brent crude surpassing $103 a barrel and WTI hovering around $89. As Qatar works hard to ease tensions between the United States and Iran, Saudi Arabia has resumed oil exports from the Red Sea, aiding recovery in 
+
+## Walking a tightrope: 5 hurdles facing Noel Tata and an unlisted Tata Sons
+Noel Tata's plan for merging Tata companies seeks to maintain the private status of Tata Sons, avoiding any public listing. However, the Reserve Bank of India has already rejected previous requests to ease regulatory restrictions on Tata Sons. Additionally, potential dissent within the Tata Sons boa
 
 ## Centre picks 50 cities for PRAGATI-50 clean-city initiative
 
@@ -78,35 +81,35 @@ The underlying issue is not Russia's access to crude oil but its ability to conv
 ## Nitin Gadkari: Rs 61,500 crore, 630-km highway to link Siliguri, Guwahati, Shillong
 The project is estimated to cost Rs 61,500 crore. The road transport ministry has also initiated an expressway connectivity project between Gorakhpur in Uttar Pradesh and Siliguri. Once these projects are complete, a high-speed highway connectivity will be established between Uttar Pradesh and the N
 
-## Family found Gulmarg hotel missing, spent night in car at -4C; travel portal to pay Rs 48,775
-The advocate had reportedly reserved a family room at an inn in Srinagar for December 27 and 28, 2025. He paid Rs 5,788 for the booking. For the next leg of the trip, he booked two rooms at a hotel Gulmarg for December 28 and 29 at a cost of Rs 12,987.
+## CISF personnel including those on Parl, VIP duty, to undergo psychometric assessment
+The initiative focuses on identifying personnel in high-pressure, sensitive roles where the job exposes them to prolonged stress and intense responsibilities
 
-## Gold price outlook: Gold under extreme pressure; analyst sees rallies as opportunity to sell
-Gold price prediction: Gold is under extreme downside pressure on exponential rise in real yields and a firmer US Dollar on robust US data and hawkish Federal Reserve. It is to be noted that the Fed officials continue to maintain a hawkish view post-FOMC decision.
+## Delhi high court junks FSSAI’s order against Red Bull over ‘energy drink’ tag
+A bench of justice Amit Mahajan directed FSSAI to consider the matter afresh after giving the company an opportunity of being heard.
+
+## Can’t detain under National Security Act based on confession: Supreme Court on Sambhal mosque violence case
+The Supreme Court slapped a cost of ₹10 lakh on the Uttar Pradesh government for passing an order under the National Security Act against an accused.
+
+## Lack of concern over terrorism can affect ties: EAM S Jaishankar on India-US relations
+External affairs minister S Jaishankar made the remarks in New York on Monday, identifying the issue as one of the challenges facing the partnership.
+
+## PM Modi to hold 2nd round of Chintan Shivir in October; dates yet to be finalised
+The first round was held on September 23 and 24, when ministers were divided into four groups of 17-18 members each for discussions with PM Modi
 
 ## SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota
 The court was monitoring the implementation of its January 13 direction which mandated strict enforcement of the provision under section 12(1)(c) of the Right of Children to Free and Compulsory Education Act, 2009.
 
-## Jamia student suspended for five days over protest, AISA demands revocation
-The action followed a protest on September 28 against the recent eviction of hostel residents, particularly women hostellers.
+## SBI raises concerns over proposed FCRA asset rules, says ‘clarity required’
+SBI has supported the objectives of the proposed amendments to the FCRA, but the latter said the legislation poses some challenges from the banker’s perspective
 
-## Keralam man arrested for stabbing 20-year-old woman at resort: Police
-According to the victim’s colleagues, the accused arrived at the resort in Kozhencherry around 1pm on Tuesday
+## BS-IV and below vehicles no more exempt from Delhi-NCR pollution curbs Grap III & IV
+The change removes the exemption for light and medium goods vehicles (LGVs and MGVs) at Stage III, and for trucks and heavy goods vehicles (HGVs) at Stage IV.
 
-## CISF jawan kills four colleagues with AK-47 in suspected fratricide in J&K's Kathua, arrested
-The four deceased included an assistant commandant, one SI and two constables. All four succumbed to their injuries after being admitted to a hospital.
+## Looming interest rate rises will not hit Hong Kong as hard as 2022: analysts
+Hong Kong looks set to be hit by a wave of interest rate rises in the coming months, but the city’s property market is unlikely to suffer the same level of damage as during the last rate cycle in 2022-2023, according to analysts. Though major Hong Kong banks have so far held rates steady despite the
 
-## NIA arrests 13 in Assam, Bengal, Keralam over links with IMK terror outfit
-Four persons were arrested in West Bengal, eight were intercepted in Assam and one was held in Keralam
-
-## MP govt to transfer ₹600 each to 5.8 million students for school uniforms
-The state cabinet approved ₹348.07 crore for the 2026-27 academic session to provide uniform allowances to 5.8 million students
-
-## NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe
-The NIA conducted searches at 16 locations across Assam, West Bengal and Kerala in connection with an investigation into IMK
-
-## ‘Unwarranted, no locus standi’: India rejects Turkish President Erdogan's Kashmir remarks at UNGA
-MEA spokesperson Randhir Jaiswal said the matter pertained to India's “sovereignty and territorial integrity”.
+## Hong Kong’s executives are ‘ill prepared’ for AI era, report finds
+Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to a new report by Grant Thornton Hong Kong. The firm’s 15th annual Corporate Gove
 
 ## AI uptake sees wealth management headcounts in Hong Kong trail growth in assets
 Hong Kong has seen strong growth in private wealth assets, but the industry has not yet seen the same scale of hiring, as private banks and wealth management companies have adopted technology including AI to serve customers, according to consulting firm Capco. “When assets under management by privat
@@ -125,12 +128,6 @@ Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34
 
 ## Why Citi is betting on China’s 30-year bonds as US Treasury yields climb
 Citi Research has turned bullish on China’s 30-year government bonds, projecting that yields will fall further even as US Treasury yields climb. In a Monday research note, analysts at the Wall Street bank recommended that investors go long on China’s 30-year sovereign debt, saying they expected the 
-
-## AstraZeneca, Merck, Novo deals boost Chinese biotech as global interest grows
-Shares of Akeso surged after British drug maker AstraZeneca moved to advance the Chinese biotech firm’s flagship cancer drug, while a new deal from US giant Merck further underscored the sector’s global momentum amid easing fears of US curbs. AstraZeneca on Tuesday announced a US$2 billion equity in
-
-## ‘180-degree flip’ sees global investors turn to China for diversification: Pimco president
-Global investors are turning to China again in search of alternatives to crowded US asset markets, with Pimco seeing Chinese bonds as one of the safest ways to diversify portfolios after sentiment towards the world’s second-largest economy “flipped 180 degrees”. The US-based asset manager, which ove
 
 ## Spain’s Housing Reform
 Mass protests over an 87-year-old’s eviction prompt new proposed legislation.
@@ -156,29 +153,29 @@ Even rigged elections used to be an outlet for discontent. That avenue is now cl
 ## Turkey Is Turning Its Breadbasket Into an Oil Hub
 As wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.
 
+## Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case
+The debate over the death penalty is back in Uzbekistan, this time involving the country’s most senior officials.
+
+## Living Under a Lethal Sky: Myanmar’s Arakan on Edge as Military Airstrikes on Civilians Grow
+Airstrikes are no longer intermittent dangers as they were two years ago, but a constant hazard. They are part of the people’s daily lives, woven into their collective consciousness.
+
+## Why Are China and Japan Still So Focused on the ‘Enemy State Clauses’ of the UN Charter?
+The UNGA voted to delete those sections 20 years ago. But the issue has acquired renewed political significance as Sino-Japanese relations have deteriorated.
+
+## Taiwan Should Be Kept Off the Negotiating Table
+The fact that Trump didn’t give anything new away on Taiwan shouldn’t obscure how much ground he has already conceded to Xi.
+
+## After the Flood, Can China, Nepal, and India Move From Earth Observation to Regional Preparedness?
+A blueprint for building resilience in the Hindu Kush Himalaya.
+
+## Pakistan’s Escalating Response to Cross-Border Terrorism
+The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?
+
 ## Kyrgyz Presidential Election Set for January 2027, Candidates Start to Step Forward
 So far, incumbent President Sadyr Japarov and Omurbek Suvanaliev – a politician and former minister of internal affairs – have announced their intentions to run.
 
 ## What Did Chinese Analysts Think of the Trump-Xi Summit?
 To some, Trump's hospitality was “historic.” To others, it was an attempt to “lull China into a false sense of security.”
-
-## Rahul Bajoria, Bank of America Chief Economist, on India’s Manufacturing Ambitions
-Why has India's manufacturing sector has remained stuck at around 15 percent of GDP despite decades of rapid growth?
-
-## Why Has the Maldives Inserted Itself Into the Chagos Sovereignty Dispute?
-Muizzu has promised to submit evidence supporting the Maldives’ claim to Chagos to relevant international bodies.
-
-## US Republicans Weren’t Happy With Trump’s Hosting of Xi
-A spate of Republican senators took umbrage at Trump's reception of “a brutal, unelected, and oppressive dictator.”
-
-## Pakistan and Terrorism: When the Tables Turn
-Islamabad cannot use its own people’s suffering to erase its record of supporting forces that have devastated lives in other countries.
-
-## South Korean Submarines Could Save Australia From the AUKUS Shambles
-Could the conventionally-powered KSS-III sub offer a more affordable and timely alternative to the planned nuclear-powered fleet?
-
-## Vietnam Confirms Arrest of Viet Tan Activists Reported Missing in Cambodia
-Rights groups claim that Nguyen Duc Thuan and Tran Hiep were abducted in Cambodia, in line with a pattern of growing transnational repression by the Vietnamese state.
 
 ## What Will Hegseth’s “State of the Force” Reprise Reveal?
 Secretary of Defense Pete Hegseth is expected to convene a high-profile meeting of military personnel for a “State of the Force” address this week. Will it show the U.S. armed forces as healthy? The answer may depend on how the audience responds, regardless of what Hegseth says. How the audience han
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq begins high-stakes security balancing act as US troops withdraw
-Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.
+## Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties
+Protests across Morocco highlight gap between public opposition to normalisation and Rabat’s closer ties with Israel.
 
-## Man City CEO: Premier League verdict based on ‘conspiracy theory’
-Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.
+## Indonesia suspends five officials over luxury apartments for inmates
+Warden among five officials suspended over the discovery of an apartment-style compound for inmates at Cibinong prison.
 
-## UN extends mandate of Gang Suppression Force in Haiti for six months
-Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.
+## Iran war live: Trump claims war will end ‘very soon’, gives no details
+US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
 
-## US consumer confidence hits its lowest level since 2014 ahead of midterms
-Rising goods and fuel costs are cited as key factors in the sharp drop in consumer confidence.
+## Trump says he plans to campaign for 32 days before midterm elections
+US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
 
-## US Supreme Court allows Trump to continue third-country deportations
-The high court grants an emergency petition ahead of expected arguments in the case, slated for December.
+## ‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza
+Qatar's top diplomat says Israel has undermined Doha's efforts to broker a ceasefire in Gaza from 'day one'.
 
-## Yamal stars as Spain thrash Croatia
-Lamine Yamal scores twice and assists another as Spain beat Croatia 4-1 in UEFA Nations League Group A3
+## Trump, top tech firms sign accord to ‘self-police’ AI development
+Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.
 
-## ‘Netanyahu targets Qatar to deflect from Gaza war crimes’
-In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes
+## Jack Smith defends investigations into Trump during tense US Senate hearing
+Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.
 
-## French students clash with police as protests over education cuts spread
-French school students have blocked schools across France, demanding better learning conditions.
+## Venezuelan man shot by ICE officer in Texas is charged with assault
+Wilber Rafael Garces Perez has disputed the government's account of what led to his shooting during a DoorDash delivery.
 
 ## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
