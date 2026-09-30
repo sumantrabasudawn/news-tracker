@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## How will Trump ‘accord’ for AI to ‘self-regulate’ work?
-US president touts voluntary commitment which may create unexpected legal liabilities for AI companies
+## US government debt rout triggers ‘vicious loop’ of selling
+Yields on 10-year Treasuries soar half a percentage point in worst month in four years
 
-## What are Burnham’s options on Europe?
-The prime minister has reopened the debate on EU membership, a decade after the Brexit referendum
+## Google releases most advanced Gemini AI model
+Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence
 
-## AI voice start-up ElevenLabs doubles valuation to $22bn
-Existing investors and employees at speech-generation software company sell $300mn worth of stock
+## Burnham clears path to EU summit with post-Brexit breakthrough
+UK and Brussels to go ahead with key November meeting after agreeing to kick talks on industrial subsidies into next year
 
-## Morocco’s first female prime minister launches coalition talks
-King appoints Fatima Ezzahra El-Mansouri over presumed favourite and head of Royal Moroccan Football Federation Fouzi Lekjaa
+## Esther Rantzen, broadcaster and campaigner, dies aged 86
+TV personality had in recent years called vocally for assisted dying to be legalised in UK
 
-## Bond markets steady after sell-off despite strong US data
-Oil prices rise after falling earlier in the day
+## MI5 warns universities to cut ties with Chinese organisation
+China General Technology Research Institute has ‘very strong ties’ to Chinese intelligence, says UK agency in unusual espionage alert
 
-## Weak PCE inflation eases pressure for Fed rate increases
-Both core and headline personal consumption spending inflation arrived below expectations for August
+## How the UAE became a destination for Israelis
+Security incident on a Flydubai plane to Tel Aviv risks casts doubt on the Arab nation’s status as a safe haven for Israelis
 
-## The UK needs to do more to support its own AI companies
-The prime minister needs a plan to avoid a US ban on Chinese models that would divide the world
+## UK retreats on climate reporting rules for listed companies
+Decision by Financial Conduct Authority comes as regulators globally walk back on transparency on environmental issues
 
-## Novo’s weight-loss deal highlights its weakness and the seller’s strengths
-Hengrui deserves attention because it has not had much of late
+## Bond markets resume sell-off after strong US data
+Treasury yields rise further on news that economy grew faster than previously estimated, although personal consumption expenditures inflation falls
 
-## SEC proposes performance fees for retail funds in private markets push
-US securities regulator seeks to widen access to alternative assets and overhaul fund fee rules
-
-## AI debt surge raises risk of sharp market correction, warns Bank of England
-Governor says regulators ‘cannot stand aside’ and assume AI industry will resolve the risks it presents to financial system stability
-
-## Netanyahu says pilot of Israel-bound flight tried to crash the plane
+## One pilot of Israel-bound flight stabbed the other and tried to crash plane
 Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code
 
-## KKR warns of growing credit market risks from AI borrowing spree
-Investment firm wary of risks of ‘overexposure’ and ‘concentration’ and predicts broader volatility if there is a downturn in booming sector
+## 18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe
+Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another
 
-## Modi, Donald Trump speak over phone; review trade, defence and energy ties
-They also exchanged views on regional and international issues
+## Boots owner nearing $9bn sale of chemist to Canada’s Weston family
+Takeover would mark the billionaire family’s return to UK retail four years after its sale of Selfridges
 
-## Walmart bets on AI to drive the next phase of retail shopping
-Walmart’s AI journey has four phases: answering, recommending, acting with supervision, and acting autonomously
+## What we know about the Flydubai flight to Israel
+Plane made emergency landing in Saudi Arabia after terrifying fight in cockpit
 
-## South Indian Bank appoints Mahesh Muralidhar Pai as MD & CEO
-Mahesh Pai brings nearly three decades of experience across various facets of universal banking
+## To fix housing affordability, build more homes
+Faced with rising mortgage costs, governments should resist stoking demand
 
-## Letters to Editor
+## US hikes EB-5 visa fees for investors; key charges to more than double from November 30
+The revised fee structure covers investor petitions, regional-centre applications and permanent-residency conditions under the US immigrant investor programme
 
+## Government cuts windfall tax on diesel, ATF exports; petrol duty unchanged
+The revised levies will apply for a fortnight, with the finance ministry also retaining existing duties on fuel cleared for domestic consumption
 
-## SC weighs in favour of conditional relaxation on next gen joined green crackers ahead of festive season
-The apex court had queried in July whether a “partial relaxation with respect to certain types of crackers may be possible, with specific reference to noise”
+## India’s second half of FY27 to be challenging amid global risks, rising interest rates: CEA
+Nageswaran said July-August high-frequency indicators point to continued economic momentum, while September has been difficult amid rising oil prices.
 
-## Oil Ministry aims to amend Petroleum act to decriminalise minor offences
-Accordingly, the Ministry has proposed to amend the Petroleum Act, 1934 through amendment of Chapter three, which relates to “Penalties and Procedure”
+## Bank lending rates mixed in August; fresh deposit rates fall: RBI
+The one-year median MCLR also declined in September, while external benchmark-linked loans gained share among outstanding floating-rate rupee loans.
 
-## India may get normal rain during Oct-Dec as S-W monsoon ends with 14th lowest rainfall in 125 years
-IMD predicts below-normal rainfall in October, but the southern peninsula is poised to receive normal rainfall; 313 districts out of 741 received deficient precipitation
+## Bank loans against fixed deposits surge 43.2% to ₹2.04 lakh crore in August
+Bank advances against fixed deposits grew faster than overall credit, while foreign-currency deposit and borrowing inflows crossed $143 billion by September 18.
 
-## Indian Cabinet approves 1-10% hike in rabi crops minimum support price
-MSP for wheat now stands at ₹2,610 per quintal against ₹2,585 per quintal announced for 2026-27 marketing season (April-March)
+## RoSCTL scheme extended by three months till December 31 for textile exporters
+The extension will continue remission of eligible embedded State and Central taxes and levies for exporters at existing rates and guidelines.
+
+## IATA opposes forced relocation of flights to Navi Mumbai airport
+IATA has said MIAL’s communication for shift from October 1 created a confusion and a transition framework should be developed in collaborative consultation with airlines.
+
+## Government extends RoDTEP scheme for exporters by three months till December 31
+Government extends RoDTEP scheme for exporters by three months till December 31
+
+## 5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more
+The money changes include a reduction in the number of free ATM transactions for certain State Bank of India (SBI) salary account customers, new disclosure norms for interest rates on bulk fixed deposits (FDs), revised charges under the National Pension System (NPS) and mandatory Aadhaar authenticat
 
 ## Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000
 A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English.
@@ -81,32 +87,32 @@ Bank customers are advised to organize their visits in light of several upcoming
 ## New CAFE-III fuel-efficiency rules: What changes for EVs, hybrids and small cars
 As of April 1, 2027, India will roll out new Corporate Average Fuel Economy (CAFE) regulations aimed at passenger vehicles, demanding increasing fuel-efficiency targets that will evolve each year until 2032. These rules support credit trading, promote cleaner technologies, and incentivize alternativ
 
-## RBI rate hikes ahead? BofA sees 100 bps repo rate increase through H1 2027
-Bank of America Securities anticipates that the Reserve Bank of India will implement significant interest rate hikes by mid-2027. They have adjusted their forecast for the initial hike to October instead of December, predicting a cumulative increase of 100 basis points, resulting in a terminal rate 
+## Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft
+Netanyahu praised Indian pilot Capt. Smit Machchar’s bravery in the flydubai incident. Machchar opened the cockpit door saving 174 lives.
 
-## India-US economic ties moving beyond trade to investment, tech, innovation: Goyal
-Addressing a business roundtable in Milwaukee, commerce and industry minister Piyush Goyal invited American manufacturers to deepen their presence in India,
+## At bypoll rally, Vijay continues attack on Oppn DMK, AIADMK
+Tamil Nadu CM C Joseph Vijay alleges AIADMK plans to ally with "evil" DMK, accusing them of betraying MGR and Jayalalithaa at a rally in Dharapuram.
 
-## Jharkhand CM Hemant Soren charged in PMLA case over alleged 8.86-acre land fraud case
-A Ranchi PMLA court framed charges against Jharkhand CM Hemant Soren under Section 3 of the PMLA in an alleged 8.86-acre land fraud case.
+## Religion not under threat in UP, people are: Chandra Shekhar Azad
+Religion not under threat in UP, people are: Chandra Shekhar Azad
 
-## 'Reduce the rate': Gadkari tells auto industry to lower EV prices in consumers' interest
-Nitin Gadkari asked the industry to lower rates "in the interest of the consumer" and predicted that rising production would force companies to do so anyway.
+## ECI extends SIR schedule in Andhra Pradesh, Meghalaya; new dates announced
+The Election Commission extended the SIR schedule in Andhra Pradesh and Meghalaya, with final electoral rolls now due on October 16 and October 26.
 
-## Bank holidays in October 2026: Full list of public, festival holidays across India
-All scheduled and non-scheduled banks will remain closed on all Sundays and the second and fourth Saturdays of the month.
+## Delhi records lowest September AQI in five years at 102, highest ‘moderate’ air quality days in 2026
+The monthly average AQI was recorded at 105 in September 2025, 105 in 2024, 108 in 2023 and 104 in 2022.
 
-## India monsoon ends 12.6% below normal, fourth-lowest rainfall since 2001
-India’s southwest monsoon ended on Wednesday with rainfall 12.6% below normal. The country recorded 759.4 mm of rain during June-September
+## Giribala Singh’s advocate says CBI drops Dowry Act charges in initial chargesheet of Twisha Sharma case
+CBI has dropped the dowry harassment charge against retired judge Giribala Singh, an accused in the Twisha Sharma suicide case, Singh’s lawyer Surendra Singh said
 
-## Tigress from Bihar’s Valmiki Tiger Reserve to be introduced at Bengal’s Buxa on Oct 2
-A three-year-old tigress was flown in from Bihar’s Valmiki Tiger Reserve to West Bengal’s Buxa Tiger Reserve on Wednesday
+## Woman arrested for murder of 5-year-old daughter, 3-year-old son in Kerala’s Palakkad
+A day after two siblings were found dead in a water tub inside the bathroom of their rented home in Menonpara in Kerala’s Palakkad district, their mother was arrested for murder
 
-## ED arrests promoter, chairman of Gurugram-based Vatika Group in money laundering case
-The Enforcement Directorate (ED) has arrested the promoter and the chairman of Gurugram-based realty firm Vatika Group in connection with a money laundering probe
+## Haryana seeks to drive next chapter of auto industry with EVs, batteries, R&D: Minister Arvind Sharma
+Arvind Sharma said Haryana’s position as an automotive powerhouse was built on skilled workers, connectivity and government support.
 
-## Gola vs Googoo: HT's exit poll reveals intensity of Delhi's fattest dogs finale, a ‘four-legged’ election battle
-The voting booths opened at 3pm and closed at 7pm, and the ballots there are likely to be just a fraction of the count on Instagram.
+## Hong Kong banks set golden week lures for mainland Chinese visitors despite new levies
+Hong Kong commercial banks continue to offer incentives to attract mainland visitors during the first golden week after Beijing tightened cross-border investment rules and enforced the collection of a 20 per cent levy on overseas investment or insurance gains. HSBC would offer up to HK$88,000 (US$11
 
 ## New World Development posts HK$26.8b loss after 11 Skies termination
 New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall project. Echo Huang, the firm’s chief executive, said at a W
@@ -129,8 +135,14 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources
 Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public offerings (IPOs) in the fourth quarter, according to people famili
 
-## Chinese biopharma’s global expansion
-–
+## Trump Unleashed
+How the U.S. president might escalate against Iran after the midterm elections.
+
+## The Case for Trump’s Global Strategy
+U.N. ambassador Mike Waltz on Iran, Sudan, China, Russia, and more.
+
+## Lula Bets Big on Defense Ahead of Election
+Brazil’s leftist leader has unusually put military spending at the heart of his campaign.
 
 ## Populism’s New Rallying Cry Is ‘Expropriation’
 Germany’s leftist party swept to victory in Berlin by vowing to confiscate and socialize housing.
@@ -147,38 +159,32 @@ The country faces a plummeting birth rate sooner than some of its global south p
 ## Why Have Indonesia’s Fires Gotten So Bad?
 This could be their worst-ever year.
 
-## Spain’s Housing Reform
-Mass protests over an 87-year-old’s eviction prompt new proposed legislation.
+## Who Is Russia’s New Ambassador to North Korea?
+What can Andrei Podelyshev’s appointment tell us about North Korea-Russia relations?
 
-## Was Xi’s U.S. Visit a Bust?
-In the U.S.-China relationship at present, nothing might be better than something.
+## The Geopolitics of AI in the Asia-Pacific
+Insights from Jouko Ahvenainen.
 
-## Is Egypt’s Diplomacy Clever or Clumsy?
-Regional wars have required Cairo to maneuver between competing demands.
+## Australia Launches Bid for a UN Security Council Seat
+If Australia is successful in returning to the council in 2029, it will be under significantly different circumstances than when it last held a seat.
+
+## Why Is Brazil So Interested in ASEAN?
+With its traditional markets less reliable, Brazil sees immense potential in Southeast Asia's growing economies.
+
+## What Will Indonesia Do With Its New Aircraft Carrier?
+The KRI Sriwijaya is a small aircraft carrier and may be better understood as an amphibious support ship.
+
+## Goodbye, ‘China Plus One’: The Real Change in US China Policy
+Beneath the pageantry, here's the change that matters: Washington has stopped talking about leaving China.
+
+## India’s Javelin Deal: The Unending Loop of Procurement
+The deal is one of the earliest defense deals between India and the U.S. It is also the one that dragged on the longest.
 
 ## The Future of Shipbuilding in Southeast Asia
 There are significant opportunities – and risks.
 
-## Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case
-The debate over the death penalty is back in Uzbekistan, this time involving the country’s most senior officials.
-
-## Living Under a Lethal Sky: Myanmar’s Arakan on Edge as Military Airstrikes on Civilians Grow
-Airstrikes are no longer intermittent dangers as they were two years ago, but a constant hazard. They are part of the people’s daily lives, woven into their collective consciousness.
-
-## Why Are China and Japan Still So Focused on the ‘Enemy State Clauses’ of the UN Charter?
-The UNGA voted to delete those sections 20 years ago. But the issue has acquired renewed political significance as Sino-Japanese relations have deteriorated.
-
-## Taiwan Should Be Kept Off the Negotiating Table
-The fact that Trump didn’t give anything new away on Taiwan shouldn’t obscure how much ground he has already conceded to Xi.
-
-## After the Flood, Can China, Nepal, and India Move From Earth Observation to Regional Preparedness?
-A blueprint for building resilience in the Hindu Kush Himalaya.
-
-## Pakistan’s Escalating Response to Cross-Border Terrorism
-The recurring clashes represent the failure of months of diplomacy and external mediation. Where does the Afghanistan-Pakistan relationship go from here?
-
-## Kyrgyz Presidential Election Set for January 2027, Candidates Start to Step Forward
-So far, incumbent President Sadyr Japarov and Omurbek Suvanaliev – a politician and former minister of internal affairs – have announced their intentions to run.
+## Triumph or Procrastination? Experts Split on the Trump-Xi Summit
+Over the better part of three days, President Donald Trump hosted Chinese President Xi Jinping in Washington for a summit that drew international attention for its high-stakes agenda, from trade and AI to Taiwan. While some experts saw the summit as an exercise in kicking the can down the road on ma
 
 ## Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure
 “We want to stop the North Koreans as far from Pusan as we can. Block the main road as far north as possible. Contact General Church. If you can’t locate him, go to Taejon and beyond if you can. Sorry I can’t give you more information. That’s all I’ve got. Good luck to you, and God bless you and you
@@ -200,9 +206,6 @@ Analogies for artificial intelligence abound. In recent years, analysts have lik
 
 ## Why the Week’s Most Important Story Went Unwritten
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
-
-## Collective Defense in an Era of Tokens and Data Links
-NATO’s Supreme Allied Commander Transformation, Adm. Pierre Vandier, returns to the studio to discuss how the alliance is continuously adapting to a new era of warfare driven by software, data, and uncrewed systems, and where it still lags. He explains why NATO is favoring field experimentation, how
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface
-Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.
+## Israeli attacks across Gaza kill at least eight
+Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday
 
-## China extends 52-year unbeaten record as Asian Games organisers apologise
-Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.
+## US judge rules Wisconsin mosque leader Salah Sarsour can be deported
+Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.
 
-## Is Spain’s anti-eviction decree a fix for its housing crisis?
-The government blames 'savage speculation' as critics say new measures leave small landlords 'out in the cold'.
+## Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight
+The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.
 
-## Why is Hegseth cutting 20 percent of US general and admiral positions?
-The overhaul could reshape the US military as Hegseth faces scrutiny over senior officers’ removal.
+## US regulator launches probe into AI companies
+FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.
 
-## Pep Guardiola backs Man City after guilty verdict on financial charges
-The Spanish coach won 20 trophies during a glittering 10 years as City manager before departing in May.
+## How does Trump’s White House AI accord work?
+Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations.
 
-## Palestinian archaeologists race against time to save Gaza’s heritage
-A Palestinian team rescued Gaza's artefacts. The question now is where to store them.
+## Displaced by war, young Sudanese turn to entrepeneurship to survive
+Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.
 
-## Why Israel is interfering in Palestinian education
-The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.
+## French court sentences 13 men over deadliest small-boat crossing to UK
+Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.
 
-## Christa Pike seeks firing squad, not lethal injection: Inside US executions
-Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?
+## Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded
+Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.
 
 ## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
 From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
