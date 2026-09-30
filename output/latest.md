@@ -1,133 +1,142 @@
 # AION Intelligence
 
-## Pentagon awards Boeing $20bn contract for Navy stealth fighter jet
-Virginia-headquartered company marks a revival of its role with the defence department
+## Vanguard warns France is ‘degrading credit’ as borrowing costs surge
+Iran war has exacerbated fiscal pressures on Paris as budget battle looms
 
-## Labour Party conference: Hope again?
-Andy Burnham promises a new direction for Britain
+## Burnham’s courageous speech had one striking omission
+Prime minister touched some of the most controversial policy areas, but said nothing about Budget or spending review
 
-## Trump praises tech bosses’ ‘tremendous self-regulation’ of AI
-President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders
+## UK energy price cap forecast to rise to nearly £2,000 as Iran war drives up prices
+Household energy bills forecast to see biggest rise in four years between January and March
 
-## The Lady Gaga moment for corporate Japan
-Recruitment ad by megastar points to the mounting labour problems and misallocation of human capital
+## Ken Griffin donates $3bn to Carnegie Mellon as university plots Miami campus
+Record contribution comes as the billionaire seeks to reshape the Florida city to rival the likes of New York and London
 
-## FirstFT: Trump says AI bosses agreed to ‘self-regulation’ amid safety fears
-Also in today’s newsletter: Lady Gaga urges Japanese to work at FamilyMart and China unveils mortgage subsidies to boost economy
+## Bond markets rebound after sell-off
+US long-term borrowing costs hit highest level in almost 25 years on Tuesday
 
-## Australia battles black market for cigarettes after decade of tax rises
-How policy created a multibillion dollar opportunity for organised crime
+## Singapore’s Temasek to open first Middle East outposts
+Region’s long-term fundamentals remain ‘highly attractive’, says sovereign investor’s chief executive
 
-## Hegseth to slash top US military officer roles by 20%
-Generals’ and admirals’ positions will be cut as part of the defence secretary’s wide-ranging overhaul of the armed services
+## Burnham says rejoining EU an option for the UK
+Prime minister says ‘going all the way’ is an option as government reviews relations with 27-country bloc
 
-## Shell-led consortium backs $23bn expansion of LNG Canada project
-Flagship liquefied natural gas project’s production capacity will double
+## UK economy grows faster than first estimated in second quarter
+Modest upward revision comes ahead of Budget next month
 
-## Deloitte partner pay rises to record £1.1mn as firm cuts staff
-Profits in UK business jump even as accounting and consulting sector confronts AI disruption
+## Greggs to cut 740 factory jobs to save costs
+Shares rise as bakery chain raises profit outlook for the year
 
-## Shein’s pain is high street retailers’ gain
-The UK’s imminent end of the duty-free loophole for low-cost imports will benefit the Hong Kong-listed company’s rivals
+## EU decarbonisation incentives do not add up, says US chemicals giant
+Also in this newsletter: Turkey warns of ‘Made in Europe’ retaliation
 
-## Altman says OpenAI will delay its IPO until it overcomes safety concerns
-ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse
+## Self-fulfilling bank runs just aren’t really a thing
+Or, at least, that’s what the data seems to suggest
 
-## Sensex today | Stock Market Live Updates: Indian equities poised for weak start
-Sensex, Nifty, Share Prices Live: Amid mixed global cues, Indian stock markets are likely to see another bearish day on Wednesday.
+## FirstFT: US holds crunch talks over diesel export ban
+Also in today’s newsletter: UK social care shake-up and French credit
 
-## Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharma's Aurora Facility
-Ontario Contributes $1.7 Million Investment to Advance Life Sciences Innovation at Piramal Pharma's Aurora Facility
+## AI industry moves to thwart data centre backlash ahead of US midterms
+AI Infrastructure Coalition, whose members include Google, Meta and Microsoft, unveils commitments to cover energy costs and minimise water usage
 
-## CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally
-CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally
+## HDFC Capital, Shalimar Corp form ₹750-cr platform to develop realty projects in UP
+The platform will develop over 5 million sq. ft. of area and around 3,000 homes
 
-## On World School Milk Day, Tetra Pak Highlights the Role of Technology in Strengthening School Feeding Programmes
-On World School Milk Day, Tetra Pak Highlights the Role of Technology in Strengthening School Feeding Programmes
+## Today’s Gold Rate in India September 30: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat and other cities
+22, 24 carat Gold prices up across other cities on September 30
 
-## Negative opening likely for Indian stock markets
-Analysts said there is no positive triggers at present to revive the market sentiment
+## Today’s Gold Rate in India September 30: Gold prices up in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices up across metro cities on September 30
 
-## IPO News Updates: Orient Cables IPO hits 20X subscription, German Green Steel nears 12X, AceVector nearly 2 times, Runwal crosses 1X
-SRIT India IPO, Shah Investor IPO, AceVector IPO, German Green Steel IPO, Runwal Enterprises IPO, Orient Cables IPO Day 2 & 3 updates, news today live updates: Stay tuned
+## Apollo, Max Health, Yatharth, KIMS hospital stocks under pressure after SC remarks on drug prices
+SC remarks on drug prices trigger pressure
 
-## 20 stocks to hog the limelight in Wednesday’s trade, including Tata Steel, Time Technoplast, Shiva Cement/JSW Cement, KPI Energy, Exide Industries, Ganesh Benzoplast, and Power Mech Projects
-Broad gains in metals, energy, and engineering amid strategic deals, acquisitions, and large-scale EPC orders
+## IMD: Rain likely in coastal AP, Ktka, TN, Lakshadweep for next 7 days
+The monsoon enters its last day as thunderstorms, lightning and high winds are set to sweep the South Peninsula followed by widespread to fairly widespread and isolated to scattered showers this week
 
-## OpenAI unveils Dots AI agents as Sam Altman promises ‘always-on’ AI helper
-Altman said AI should give people more power to create, learn, discover and expand knowledge rather than automate every aspect of lif
+## Sensex today | Stock Market Live Updates: Sensex, Nifty rebound after weak start; Sensex gains 425 pts at 72,954, Nifty at 22,780
+Sensex, Nifty, Share Prices Live: Market benchmark indices Sensex and Nifty rebounded in early trade on Wednesday after two days of losses amid easing crude oil prices and buying in blue-chip IT stocks.
 
-## Oil stays above $103 after Trump denies easing sanctions on Iran
-Rising oil prices are reflecting a renewed uncertainty over US sanctions on Iran, with Brent crude surpassing $103 a barrel and WTI hovering around $89. As Qatar works hard to ease tensions between the United States and Iran, Saudi Arabia has resumed oil exports from the Red Sea, aiding recovery in 
+## CAFE-III norms notified with benefit to all; debate ends for small cars vs big cars; EVs vs non-EVs
+Rules from April 2027 give super-credits to EVs and other alternate-fuel vehicles; targets tighten 16.7% by 2031–32
 
-## Walking a tightrope: 5 hurdles facing Noel Tata and an unlisted Tata Sons
-Noel Tata's plan for merging Tata companies seeks to maintain the private status of Tata Sons, avoiding any public listing. However, the Reserve Bank of India has already rejected previous requests to ease regulatory restrictions on Tata Sons. Additionally, potential dissent within the Tata Sons boa
+## India revives E100 push with Toyota Innova launch in October as feedstock concerns grow
+100% ethanol Innova expected in October as industry looks to maize, rice and farm waste to support the next phase beyond E20
 
-## Centre picks 50 cities for PRAGATI-50 clean-city initiative
+## RBI rate hikes ahead? BofA sees 100 bps repo rate increase through H1 2027
+Bank of America Securities anticipates that the Reserve Bank of India will implement significant interest rate hikes by mid-2027. They have adjusted their forecast for the initial hike to October instead of December, predicting a cumulative increase of 100 basis points, resulting in a terminal rate 
 
+## Son claims share in mother’s house, cites Rs 2.1 lakh given; couple ordered to vacate
+The case involved a son who continued living in his mother's house after his marriage despite having no independent title over the property. His mother, meanwhile, relied on a General Power of Attorney (GPA), an Agreement to Sale and a Will as documents establishing her ownership of the house.
 
-## Indians buying gold at Rs 5,000 per 10 grams discount on cash deals
-For bulk purchases, such off-the-record cash deals can bring prices down by as much as 6% from prevailing market rates. Dealers who take cash can avoid certain taxes and share some of those savings with buyers. The revival of this informal market is an unintended outcome of a policy intended to redu
+## Rs 1.54 lakh crore and counting: Why Indians still choose PPF, SSY, SCSS
+The net collections under small savings schemes are expected to surpass the budgeted Rs 3.59 lakh crore target for financial year 2026-27 by a comfortable margin, with inflows during the first four months of the fiscal already 56% higher than in the corresponding period last year. Officials expect F
 
-## Son died, LIC denied father Rs 5 lakh over heart condition; Commission orders payout with interest
-The Commission referred to a National Consumer Disputes Redressal Commission decision concerning "silent diseases", observing that a person may not necessarily be aware of a condition until it aggravates and symptoms become apparent. It also referred to a Punjab and Haryana High Court judgment conce
+## Anthropic Ipo Prospectus: firm seeks $2trn valuation with 12x 2025 revenue; $518bn capex fuels AI trade
+Aiming for a valuation surpassing $2 trillion, Anthropic has pledged an impressive $518 billion in infrastructure investments. In 2025, the company saw its revenue multiply by twelve times, capturing the attention of investors. However, the persistent losses may cause some hesitation regarding its v
 
-## Trade irony amid Trump threat: Why Russia is buying its own oil as fuel from India
-The underlying issue is not Russia's access to crude oil but its ability to convert crude into usable fuels. Refinery outages and infrastructure disruptions have constrained domestic production, forcing Russia to import products such as gasoline. In terms of magnitude, Russia’s import volume of oil 
+## Gold price prediction today: Gold sinks to seven-week low; analyst says bias stays cautious
+Gold price prediction today: Gold has had a rough month. It's fallen nearly 12% from its August highs, touching a seven-week low of $4,111 an ounce. Treasury yields have been the biggest headwind, with the 30-year touching its highest level since 2002 and the 10-year near its highest since 2007.
 
-## Nvidia announces record $150 billion share buyback amid AI boom
+## Economy Showing Strength: Das says India stays robust on demand; warns Global South on risks
+The Indian economy showcases resilience, buoyed by strong domestic demand and ongoing sectoral activity. High-frequency indicators reveal a widespread economic uptick, particularly driven by increased rural demand. Nevertheless, the crisis in West Asia has led to rising energy costs and inflation ch
 
+## Rupee slips to 95.97: Currency hovers near 96 amid oil demand, FPI outflows
+In the early trading session, the rupee opened at 95.87 against the US dollar but quickly fell to 95.97. This decline is attributed to strong demand for dollars from oil marketing companies. To curb the rupee's decline below the 96 mark, state-run banks are stepping in. Additionally, foreign portfol
 
-## Nitin Gadkari: Rs 61,500 crore, 630-km highway to link Siliguri, Guwahati, Shillong
-The project is estimated to cost Rs 61,500 crore. The road transport ministry has also initiated an expressway connectivity project between Gorakhpur in Uttar Pradesh and Siliguri. Once these projects are complete, a high-speed highway connectivity will be established between Uttar Pradesh and the N
+## CJ Desai to lead Meta’s enterprise AI business
+Chirantan CJ Desai has taken the helm of Meta’s innovative enterprise platform, a significant step in enhancing their AI capabilities for businesses. Reporting directly to CEO Mark Zuckerberg, Desai's impressive background in business software includes pivotal roles at MongoDB and ServiceNow. His tr
 
-## CISF personnel including those on Parl, VIP duty, to undergo psychometric assessment
-The initiative focuses on identifying personnel in high-pressure, sensitive roles where the job exposes them to prolonged stress and intense responsibilities
+## Two more detained in Secunderabad military arms theft case
+Telangana police detained two armoury in-charges linked to a theft of arms from the Indian Army, assisting retired havildar Mallesh, arrested earlier.
 
-## Delhi high court junks FSSAI’s order against Red Bull over ‘energy drink’ tag
-A bench of justice Amit Mahajan directed FSSAI to consider the matter afresh after giving the company an opportunity of being heard.
+## CAG finds financial irregularities in previous Odisha govt's high school transformation prog
+CAG finds financial irregularities in previous Odisha govt's high school transformation prog
 
-## Can’t detain under National Security Act based on confession: Supreme Court on Sambhal mosque violence case
-The Supreme Court slapped a cost of ₹10 lakh on the Uttar Pradesh government for passing an order under the National Security Act against an accused.
+## Retd IAS officer killed in Bhopal home, assailant left LPG line open: Police
+Shailendra Chauhan, additional commissioner of police (Addl CP) Bhopal, said Agarwal’s caretaker, Varun Kumar, was the prime suspect.
 
-## Lack of concern over terrorism can affect ties: EAM S Jaishankar on India-US relations
-External affairs minister S Jaishankar made the remarks in New York on Monday, identifying the issue as one of the challenges facing the partnership.
+## Varanasi temple dance video goes viral, police call it AI-generated
+The purported video showed women dressed in ghaghra and sleeveless choli dancing on a raised platform to Bhojpuri songs.
 
-## PM Modi to hold 2nd round of Chintan Shivir in October; dates yet to be finalised
-The first round was held on September 23 and 24, when ministers were divided into four groups of 17-18 members each for discussions with PM Modi
+## SC settles un-relied-documents row: Accused can use them in trial
+The ruling arose from an alleged conspiracy between 2010 and 2014 to award consultancy work for permanent campus of Central University of Jharkhand, Ranchi, on basis of allegedly fake documents
 
-## SC pulls up NCPCR for ‘indifferent’ implemention of 25% EWS quota
-The court was monitoring the implementation of its January 13 direction which mandated strict enforcement of the provision under section 12(1)(c) of the Right of Children to Free and Compulsory Education Act, 2009.
+## Fake Apple tech support call centre that duped US residents busted in Delhi
+Delhi Police dismantled a fake Apple support call center in Naraina, arresting seven for duping US residents into buying gift cards.
 
-## SBI raises concerns over proposed FCRA asset rules, says ‘clarity required’
-SBI has supported the objectives of the proposed amendments to the FCRA, but the latter said the legislation poses some challenges from the banker’s perspective
+## FSSAI suspends Seven Seas Hospitality licence over foul odour, fungal growth, filth
+The company achieved a "compliance score of only 30 per cent," the regulator pointed out.
 
-## BS-IV and below vehicles no more exempt from Delhi-NCR pollution curbs Grap III & IV
-The change removes the exemption for light and medium goods vehicles (LGVs and MGVs) at Stage III, and for trucks and heavy goods vehicles (HGVs) at Stage IV.
+## ‘Real masterminds’: Sanjay Raut blames Eknath Shinde camp for Thane leader’s murder
+Pradeep Punekar’s family linked Meenakshi Shinde, the former Thane mayor and women’s wing chief of Shiv Sena, and her husband Rajendra Shinde to the murder.
 
-## Looming interest rate rises will not hit Hong Kong as hard as 2022: analysts
-Hong Kong looks set to be hit by a wave of interest rate rises in the coming months, but the city’s property market is unlikely to suffer the same level of damage as during the last rate cycle in 2022-2023, according to analysts. Though major Hong Kong banks have so far held rates steady despite the
+## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
+Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
 
-## Hong Kong’s executives are ‘ill prepared’ for AI era, report finds
-Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to a new report by Grant Thornton Hong Kong. The firm’s 15th annual Corporate Gove
+## How Hong Kong entices Europe’s young start-up talent
+Hong Kong’s efforts in advancing the city’s innovation and technology (I&T) industry have been highlighted in a number of international surveys in recent years. One of the most recent was the International Institute for Management Development’s “World Competitiveness Ranking 2026”, which placed Hong
 
-## AI uptake sees wealth management headcounts in Hong Kong trail growth in assets
-Hong Kong has seen strong growth in private wealth assets, but the industry has not yet seen the same scale of hiring, as private banks and wealth management companies have adopted technology including AI to serve customers, according to consulting firm Capco. “When assets under management by privat
+## China’s 2030 solid-state battery goal, Chinese carmakers see boost in Europe: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction A pub
 
-## The Vertex developer hit with HK$770,000 fine over disclosure failures
-The developer of The Vertex – a residential project in Cheung Sha Wan once owned by failed property giant China Evergrande Group – has been fined HK$770,000 (US$98,100) for failing to properly record transactions related to the complex. Twin City Holdings Limited was found to have violated a residen
+## Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources
+Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public offerings (IPOs) in the fourth quarter, according to people famili
 
-## Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture
-Hong Kong businesses are lagging behind their mainland Chinese peers in adopting artificial intelligence, as entrenched legacy systems and a risk-averse corporate mindset slow the city’s digital transition, according to a senior executive at consultancy Accenture. Only 10 per cent of Hong Kong firms
+## Chinese biopharma’s global expansion
+–
 
-## Eunis Chan, Angela Leong sell luxury Hong Kong properties as rate increases loom
-As the shadow of possible interest rate increases darkens Hong Kong’s property market outlook, well-known people including model-actress Eunis Chan Ka-yung and billionaire Angela Leong On-kei have recently decided the time was right to sell luxury properties, according to market sources. Chan sold a
+## Mainland Chinese, Hong Kong stocks face bumpy fourth quarter as risks mount: analysts
+Mainland Chinese and Hong Kong stocks may face a challenging fourth quarter as investors contend with underwhelming stimulus measures from Beijing, tighter financial conditions in the US and a shift in the narrative around the artificial intelligence trade, according to analysts. The two markets wer
 
-## China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source
-Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital going to domestic suppliers of chipmaking equipment, according to a source. The firm, listed on the Shanghai Stock Exchange’s Star Market
+## Former CSRC chairman Yi Huiman formally prosecuted for taking ‘especially large’ bribes
+Yi Huiman, the former chairman of China’s securities regulator, has been formally prosecuted for allegedly accepting “especially large” bribes, as Beijing presses ahead with a sweeping anti-corruption campaign in the financial sector. Prosecutors in the eastern city of Qingdao recently filed a case 
 
-## Why Citi is betting on China’s 30-year bonds as US Treasury yields climb
-Citi Research has turned bullish on China’s 30-year government bonds, projecting that yields will fall further even as US Treasury yields climb. In a Monday research note, analysts at the Wall Street bank recommended that investors go long on China’s 30-year sovereign debt, saying they expected the 
+## Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis
+China’s corporate sector remains considerably weaker than it was before the Covid-19 pandemic, but the country is emerging as a key beneficiary of the global artificial intelligence boom thanks to its ample power capacity, according to a Natixis survey of thousands of firms and a separate research r
+
+## Why Have Indonesia’s Fires Gotten So Bad?
+This could be their worst-ever year.
 
 ## Spain’s Housing Reform
 Mass protests over an 87-year-old’s eviction prompt new proposed legislation.
@@ -150,8 +159,8 @@ No one—not least in postcolonial West Africa—loves an army of occupation.
 ## The True Meaning of Russia’s Sham Election
 Even rigged elections used to be an outlet for discontent. That avenue is now closed.
 
-## Turkey Is Turning Its Breadbasket Into an Oil Hub
-As wars disrupt traditional export routes, Ankara is moving quickly to capitalize—at the expense of the last standing heartland of the Fertile Crescent.
+## The Future of Shipbuilding in Southeast Asia
+There are significant opportunities – and risks.
 
 ## Uzbekistan’s Death Penalty Debate Returns After Child Abuse Case
 The debate over the death penalty is back in Uzbekistan, this time involving the country’s most senior officials.
@@ -174,8 +183,11 @@ The recurring clashes represent the failure of months of diplomacy and external 
 ## Kyrgyz Presidential Election Set for January 2027, Candidates Start to Step Forward
 So far, incumbent President Sadyr Japarov and Omurbek Suvanaliev – a politician and former minister of internal affairs – have announced their intentions to run.
 
-## What Did Chinese Analysts Think of the Trump-Xi Summit?
-To some, Trump's hospitality was “historic.” To others, it was an attempt to “lull China into a false sense of security.”
+## Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure
+“We want to stop the North Koreans as far from Pusan as we can. Block the main road as far north as possible. Contact General Church. If you can’t locate him, go to Taejon and beyond if you can. Sorry I can’t give you more information. That’s all I’ve got. Good luck to you, and God bless you and you
+
+## Writing the Playbook: A Strategy and Doctrine for American Economic Security
+In January, this article series opened with a blunt question: Economic statecraft is back, but is America ready?Driving the question, in part, was the fact that the United States had not yet articulated (at least overtly) a strategy for economic statecraft. This was despite widening recognition that
 
 ## What Will Hegseth’s “State of the Force” Reprise Reveal?
 Secretary of Defense Pete Hegseth is expected to convene a high-profile meeting of military personnel for a “State of the Force” address this week. Will it show the U.S. armed forces as healthy? The answer may depend on how the audience responds, regardless of what Hegseth says. How the audience han
@@ -194,12 +206,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Collective Defense in an Era of Tokens and Data Links
 NATO’s Supreme Allied Commander Transformation, Adm. Pierre Vandier, returns to the studio to discuss how the alliance is continuously adapting to a new era of warfare driven by software, data, and uncrewed systems, and where it still lags. He explains why NATO is favoring field experimentation, how
-
-## Speed to Fielding Is Not Speed to Combat Power
-I spent more than 20 years in U.S. Army air defense, much of it in cramped control stations where the difference between a successful engagement and a catastrophic loss came down to the soldier at the console. The radar did its job. The fire control system did its job. But the responsibility, the we
-
-## Tracing the Future Soldier’s Tech Stack
-Movies, shows, and books have long been at the forefront of imagining the future of war. If you were to picture the “future soldier,” you’d likely picture the genetically engineered super soldiers that have captivated — and horrified — audiences for decades. Soldiers have been depicted as being engi
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,35 +231,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties
-Protests across Morocco highlight gap between public opposition to normalisation and Rabat’s closer ties with Israel.
+## Hijabi students turned away from school in Azerbaijan
+Female students leave a school in Azerbaijan after reportedly being denied entry for wearing headscarves.
 
-## Indonesia suspends five officials over luxury apartments for inmates
-Warden among five officials suspended over the discovery of an apartment-style compound for inmates at Cibinong prison.
+## S Korea demands apology over DMZ blasts as N Korea denies planting mines
+South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.
 
-## Iran war live: Trump claims war will end ‘very soon’, gives no details
-US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
+## Flydubai flight to Israel diverted to Saudi Arabia after emergency alert
+Airline says plane experiences 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.
 
-## Trump says he plans to campaign for 32 days before midterm elections
-US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
+## ‘Dire situation’: Lebanese prisoners on hunger strike for 18 days
+The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.
 
-## ‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza
-Qatar's top diplomat says Israel has undermined Doha's efforts to broker a ceasefire in Gaza from 'day one'.
+## Pakistan vows to defend Saudi Arabia against Houthis
+Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.
 
-## Trump, top tech firms sign accord to ‘self-police’ AI development
-Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.
+## Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks
+The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.
 
-## Jack Smith defends investigations into Trump during tense US Senate hearing
-Former US special counsel rejects claims that his probes improperly targeted Republicans and conservative groups.
+## Gentle giant Backpack wins Alaska’s Fat Bear Week
+The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.
 
-## Venezuelan man shot by ICE officer in Texas is charged with assault
-Wilber Rafael Garces Perez has disputed the government's account of what led to his shooting during a DoorDash delivery.
+## Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal
+US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.
+
+## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
+From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
 
 ## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
 
 ## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
 Aggregation of CA Firms committee chairman, vice chairman meet DoE Secretary; institute working on draft proposing Rs 5 crore government consulting contracts for small and mid sized firms, with joint credentials for registered network firms.
+
+## Britannia rejigs top brass: N Venkataraman new Deputy MD, R Jayaraman to be CFO
+Venkataraman has been with the company since 2007 and will now oversee its finance, strategy, legal, secretarial and IT functions alongside Hargave, Britannia said. He previously worked in finance roles at Eicher Motors and Hindustan Aeronautics.
 
 ## Tata Trusts pitch Tata Sons restructuring as alternative to listing
 Tata Trusts have proposed merging Tata Electronics Systems Solutions and Tata Consulting Engineers with Tata Sons to alter its regulatory classification and preserve its unlisted private status. The Trusts said the restructuring would increase operating revenue and reduce investments in group compan
@@ -267,11 +279,20 @@ The finance ministry has sought feedback from banks on their use of AI-driven lo
 ## Tata companies face a tough call on Chandra vote at AGM
 Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
 
-## Holding companies, NBFCs rejig assets, income to escape RBI scrutiny
-Groups are restructuring NBFC and holding-company balance sheets to stay outside RBI’s regulatory definitions and avoid registration and compliance requirements, sources said. NBFCs are boosting non-financial income, while CICs are changing their asset mix.
+## PMS has potential to grow over 20 pc CAGR as investment participation deepens: SEBI Chairman
+As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday.
 
-## SEBI settlement overhaul may speed up recovery of siphoned funds, strengthen shareholder protection
-The Securities and Exchange Board of India's (SEBI) proposed overhaul of settlement norms could help speed up the recovery of diverted funds and strengthen shareholder protection in cases involving financial misrepresentation and siphoning of money, according to SEBI officials and legal experts.
+## PMS regulation must evolve with industry, SEBI to cut compliance friction: Tuhin Kanta Pandey
+Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday said regulation for portfolio managers must evolve with the industry's growth, with the market regulator seeking to reduce unnecessary compliance friction while enabling innovation without compromising investor pr
+
+## RoDTEP scheme extension likely for exporters as September 30 deadline nears
+The government plans to extend the Remission of Duties and Taxes on Exported Products scheme to support exporters. This initiative aims to provide refunds for various embedded taxes, which could otherwise raise costs for Indian goods abroad. The commerce ministry is consulting with the finance minis
+
+## India flags concerns over US Russia sanctions law, warns of impact on ties, energy market
+Foreign Secretary Vikram Misri met a US Congressional delegation led by Brian Mast in New Delhi. Misri conveyed concerns regarding the implications of the Sanctioning Russia and Iran Act on bilateral relations. The Act permits high tariffs on countries purchasing Russian oil, affecting India directl
+
+## Panel proposes raising RBI's ways and means advances corpus by 11.2% to Rs 67,839 crore
+The panel has also recommended an annual review of the WMA corpus capping annual upward revision at 4%. The extent of upward revision could be based on the last three years of accounts while there would be no reduction in the existing limit.
 
 ## RBI now has less room to keep interest rates unchanged: Report
 Rising crude oil prices, inflation and higher bond yields globally has narrowed Reserve Bank of India's room to hold rates unchanged, a report said on Tuesday.
@@ -281,19 +302,4 @@ Banks with higher FCNR(B) mobilisation could face sharper margin pressure in the
 
 ## RBI to raise interest rates to 5.50% in October as inflation broadens
 The Reserve Bank of India is projected to increase interest rates by 25 basis points to 5.50% this October, marking the first adjustment since February 2023, as inflationary trends intensify. Economists note that inflation has surpassed the RBI’s medium-term target of 4% for the third month in a row
-
-## HSBC expects RBI to raise repo rate by 50 bps in FY27 amid strong growth, inflation pressures
-India's GDP growth in the second quarter of FY2026-27 came in significantly above the Reserve Bank of India's (RBI) 7 per cent forecast, prompting expectations of a gradual rate-hiking cycle, according to a HSBC Global Investment Research report.
-
-## Russian crude supplies enabled India to cushion against oil supply shocks caused by West Asian war: Deputy FM
-Russia has significantly increased oil supply to India in response to disruptions from the conflict in West Asia. Indian imports of Russian crude oil nearly doubled following the outbreak of conflict, reaching 2.25 million barrels per day. The Indian government emphasizes the importance of multiple 
-
-## India, Australia working on comprehensive economic pact, bilateral investment treaty: Piyush Goyal
-India and Australia are working towards a comprehensive economic cooperation agreement and a Bilateral Investment Treaty to deepen trade and investment ties, Commerce Minister Piyush Goyal said. The countries are also expanding cooperation in critical minerals and education, while addressing cross-b
-
-## Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries
-The Securities and Exchange Board of India (Sebi) has expanded its definition of accredited investors, now permitting individuals with securities market assets of INR 5 crore and corporate entities with INR 20 crore to qualify. Furthermore, it has instituted a Common Advertisement Code for market in
-
-## Banks to deploy excess liquidity over next few months: RBI DG
-RBI deputy governor Rohit Jain stated that banks will likely deploy additional liquidity from FCNR deposits soon. He noted that strong credit demand is anticipated during the festive season. Banks have mobilised $133 billion under the FCNR(B) deposit scheme, which closed on August 31. Discussions wi
 
