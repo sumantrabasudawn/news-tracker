@@ -1,115 +1,121 @@
 # AION Intelligence
 
-## Vanguard warns France is ‘degrading credit’ as borrowing costs surge
-Iran war has exacerbated fiscal pressures on Paris as budget battle looms
+## How will Trump ‘accord’ for AI to ‘self-regulate’ work?
+US president touts voluntary commitment which may create unexpected legal liabilities for AI companies
 
-## Burnham’s courageous speech had one striking omission
-Prime minister touched some of the most controversial policy areas, but said nothing about Budget or spending review
+## What are Burnham’s options on Europe?
+The prime minister has reopened the debate on EU membership, a decade after the Brexit referendum
 
-## UK energy price cap forecast to rise to nearly £2,000 as Iran war drives up prices
-Household energy bills forecast to see biggest rise in four years between January and March
+## AI voice start-up ElevenLabs doubles valuation to $22bn
+Existing investors and employees at speech-generation software company sell $300mn worth of stock
 
-## Ken Griffin donates $3bn to Carnegie Mellon as university plots Miami campus
-Record contribution comes as the billionaire seeks to reshape the Florida city to rival the likes of New York and London
+## Morocco’s first female prime minister launches coalition talks
+King appoints Fatima Ezzahra El-Mansouri over presumed favourite and head of Royal Moroccan Football Federation Fouzi Lekjaa
 
-## Bond markets rebound after sell-off
-US long-term borrowing costs hit highest level in almost 25 years on Tuesday
+## Bond markets steady after sell-off despite strong US data
+Oil prices rise after falling earlier in the day
 
-## Singapore’s Temasek to open first Middle East outposts
-Region’s long-term fundamentals remain ‘highly attractive’, says sovereign investor’s chief executive
+## Weak PCE inflation eases pressure for Fed rate increases
+Both core and headline personal consumption spending inflation arrived below expectations for August
 
-## Burnham says rejoining EU an option for the UK
-Prime minister says ‘going all the way’ is an option as government reviews relations with 27-country bloc
+## The UK needs to do more to support its own AI companies
+The prime minister needs a plan to avoid a US ban on Chinese models that would divide the world
 
-## UK economy grows faster than first estimated in second quarter
-Modest upward revision comes ahead of Budget next month
+## Novo’s weight-loss deal highlights its weakness and the seller’s strengths
+Hengrui deserves attention because it has not had much of late
 
-## Greggs to cut 740 factory jobs to save costs
-Shares rise as bakery chain raises profit outlook for the year
+## SEC proposes performance fees for retail funds in private markets push
+US securities regulator seeks to widen access to alternative assets and overhaul fund fee rules
 
-## EU decarbonisation incentives do not add up, says US chemicals giant
-Also in this newsletter: Turkey warns of ‘Made in Europe’ retaliation
+## AI debt surge raises risk of sharp market correction, warns Bank of England
+Governor says regulators ‘cannot stand aside’ and assume AI industry will resolve the risks it presents to financial system stability
 
-## Self-fulfilling bank runs just aren’t really a thing
-Or, at least, that’s what the data seems to suggest
+## Netanyahu says pilot of Israel-bound flight tried to crash the plane
+Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code
 
-## FirstFT: US holds crunch talks over diesel export ban
-Also in today’s newsletter: UK social care shake-up and French credit
+## KKR warns of growing credit market risks from AI borrowing spree
+Investment firm wary of risks of ‘overexposure’ and ‘concentration’ and predicts broader volatility if there is a downturn in booming sector
 
-## AI industry moves to thwart data centre backlash ahead of US midterms
-AI Infrastructure Coalition, whose members include Google, Meta and Microsoft, unveils commitments to cover energy costs and minimise water usage
+## Modi, Donald Trump speak over phone; review trade, defence and energy ties
+They also exchanged views on regional and international issues
 
-## HDFC Capital, Shalimar Corp form ₹750-cr platform to develop realty projects in UP
-The platform will develop over 5 million sq. ft. of area and around 3,000 homes
+## Walmart bets on AI to drive the next phase of retail shopping
+Walmart’s AI journey has four phases: answering, recommending, acting with supervision, and acting autonomously
 
-## Today’s Gold Rate in India September 30: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat and other cities
-22, 24 carat Gold prices up across other cities on September 30
+## South Indian Bank appoints Mahesh Muralidhar Pai as MD & CEO
+Mahesh Pai brings nearly three decades of experience across various facets of universal banking
 
-## Today’s Gold Rate in India September 30: Gold prices up in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices up across metro cities on September 30
+## Letters to Editor
 
-## Apollo, Max Health, Yatharth, KIMS hospital stocks under pressure after SC remarks on drug prices
-SC remarks on drug prices trigger pressure
 
-## IMD: Rain likely in coastal AP, Ktka, TN, Lakshadweep for next 7 days
-The monsoon enters its last day as thunderstorms, lightning and high winds are set to sweep the South Peninsula followed by widespread to fairly widespread and isolated to scattered showers this week
+## SC weighs in favour of conditional relaxation on next gen joined green crackers ahead of festive season
+The apex court had queried in July whether a “partial relaxation with respect to certain types of crackers may be possible, with specific reference to noise”
 
-## Sensex today | Stock Market Live Updates: Sensex, Nifty rebound after weak start; Sensex gains 425 pts at 72,954, Nifty at 22,780
-Sensex, Nifty, Share Prices Live: Market benchmark indices Sensex and Nifty rebounded in early trade on Wednesday after two days of losses amid easing crude oil prices and buying in blue-chip IT stocks.
+## Oil Ministry aims to amend Petroleum act to decriminalise minor offences
+Accordingly, the Ministry has proposed to amend the Petroleum Act, 1934 through amendment of Chapter three, which relates to “Penalties and Procedure”
 
-## CAFE-III norms notified with benefit to all; debate ends for small cars vs big cars; EVs vs non-EVs
-Rules from April 2027 give super-credits to EVs and other alternate-fuel vehicles; targets tighten 16.7% by 2031–32
+## India may get normal rain during Oct-Dec as S-W monsoon ends with 14th lowest rainfall in 125 years
+IMD predicts below-normal rainfall in October, but the southern peninsula is poised to receive normal rainfall; 313 districts out of 741 received deficient precipitation
 
-## India revives E100 push with Toyota Innova launch in October as feedstock concerns grow
-100% ethanol Innova expected in October as industry looks to maize, rice and farm waste to support the next phase beyond E20
+## Indian Cabinet approves 1-10% hike in rabi crops minimum support price
+MSP for wheat now stands at ₹2,610 per quintal against ₹2,585 per quintal announced for 2026-27 marketing season (April-March)
+
+## Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000
+A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English.
+
+## Nitin Gadkari: 100% ethanol flex-fuel engines being developed
+India currently imports petroleum worth around Rs 22 lakh crore, Gadkari said, underlining the need to reduce the country's dependence on imported fuels through greater use of ethanol, electricity, hydrogen and other alternative energy sources. The government is also encouraging the adoption of elec
+
+## Delhi traffic gets ‘brain’: How new Rs 1,789cr traffic system will change your commute
+Delhi will soon introduce an Intelligent Traffic Management System to improve traffic management across the capital. The project aims to adjust traffic signals based on real-time conditions and reduce congestion. Emergency vehicles, such as ambulances, will receive priority during peak traffic times
+
+## Switched to the new income tax regime? Why these older tax-saving instruments still make sense
+While the usual go-to avenues may have lost some of their appeal as tax-saving instruments, they still hold great financial value in terms of long-term financial security. Many taxpayers view life insurance as a tax-saving tool, but its value is far greater. PPF may not have the growth of equity inv
+
+## Rabi MSP hike, Rs 1.86 lakh crore green corridor, Delhi AI traffic system: Cabinet clears 3 key measures
+The Union Cabinet has sanctioned increased Minimum Support Prices for Rabi crops, fostering agricultural growth for farmers across the country. Additionally, a new financial boost for the Green Energy Corridor-III scheme aims to enhance renewable energy transmission between states. In a bid to allev
+
+## Bank holidays in October: When and where will banks remain closed?
+Bank customers are advised to organize their visits in light of several upcoming regional and national holidays that will lead to branch closures. Key dates to remember include Mahatma Gandhi Jayanti on October 2 and Dussehra on October 19, which will affect various states. Furthermore, expect closu
+
+## New CAFE-III fuel-efficiency rules: What changes for EVs, hybrids and small cars
+As of April 1, 2027, India will roll out new Corporate Average Fuel Economy (CAFE) regulations aimed at passenger vehicles, demanding increasing fuel-efficiency targets that will evolve each year until 2032. These rules support credit trading, promote cleaner technologies, and incentivize alternativ
 
 ## RBI rate hikes ahead? BofA sees 100 bps repo rate increase through H1 2027
 Bank of America Securities anticipates that the Reserve Bank of India will implement significant interest rate hikes by mid-2027. They have adjusted their forecast for the initial hike to October instead of December, predicting a cumulative increase of 100 basis points, resulting in a terminal rate 
 
-## Son claims share in mother’s house, cites Rs 2.1 lakh given; couple ordered to vacate
-The case involved a son who continued living in his mother's house after his marriage despite having no independent title over the property. His mother, meanwhile, relied on a General Power of Attorney (GPA), an Agreement to Sale and a Will as documents establishing her ownership of the house.
+## India-US economic ties moving beyond trade to investment, tech, innovation: Goyal
+Addressing a business roundtable in Milwaukee, commerce and industry minister Piyush Goyal invited American manufacturers to deepen their presence in India,
 
-## Rs 1.54 lakh crore and counting: Why Indians still choose PPF, SSY, SCSS
-The net collections under small savings schemes are expected to surpass the budgeted Rs 3.59 lakh crore target for financial year 2026-27 by a comfortable margin, with inflows during the first four months of the fiscal already 56% higher than in the corresponding period last year. Officials expect F
+## Jharkhand CM Hemant Soren charged in PMLA case over alleged 8.86-acre land fraud case
+A Ranchi PMLA court framed charges against Jharkhand CM Hemant Soren under Section 3 of the PMLA in an alleged 8.86-acre land fraud case.
 
-## Anthropic Ipo Prospectus: firm seeks $2trn valuation with 12x 2025 revenue; $518bn capex fuels AI trade
-Aiming for a valuation surpassing $2 trillion, Anthropic has pledged an impressive $518 billion in infrastructure investments. In 2025, the company saw its revenue multiply by twelve times, capturing the attention of investors. However, the persistent losses may cause some hesitation regarding its v
+## 'Reduce the rate': Gadkari tells auto industry to lower EV prices in consumers' interest
+Nitin Gadkari asked the industry to lower rates "in the interest of the consumer" and predicted that rising production would force companies to do so anyway.
 
-## Gold price prediction today: Gold sinks to seven-week low; analyst says bias stays cautious
-Gold price prediction today: Gold has had a rough month. It's fallen nearly 12% from its August highs, touching a seven-week low of $4,111 an ounce. Treasury yields have been the biggest headwind, with the 30-year touching its highest level since 2002 and the 10-year near its highest since 2007.
+## Bank holidays in October 2026: Full list of public, festival holidays across India
+All scheduled and non-scheduled banks will remain closed on all Sundays and the second and fourth Saturdays of the month.
 
-## Economy Showing Strength: Das says India stays robust on demand; warns Global South on risks
-The Indian economy showcases resilience, buoyed by strong domestic demand and ongoing sectoral activity. High-frequency indicators reveal a widespread economic uptick, particularly driven by increased rural demand. Nevertheless, the crisis in West Asia has led to rising energy costs and inflation ch
+## India monsoon ends 12.6% below normal, fourth-lowest rainfall since 2001
+India’s southwest monsoon ended on Wednesday with rainfall 12.6% below normal. The country recorded 759.4 mm of rain during June-September
 
-## Rupee slips to 95.97: Currency hovers near 96 amid oil demand, FPI outflows
-In the early trading session, the rupee opened at 95.87 against the US dollar but quickly fell to 95.97. This decline is attributed to strong demand for dollars from oil marketing companies. To curb the rupee's decline below the 96 mark, state-run banks are stepping in. Additionally, foreign portfol
+## Tigress from Bihar’s Valmiki Tiger Reserve to be introduced at Bengal’s Buxa on Oct 2
+A three-year-old tigress was flown in from Bihar’s Valmiki Tiger Reserve to West Bengal’s Buxa Tiger Reserve on Wednesday
 
-## CJ Desai to lead Meta’s enterprise AI business
-Chirantan CJ Desai has taken the helm of Meta’s innovative enterprise platform, a significant step in enhancing their AI capabilities for businesses. Reporting directly to CEO Mark Zuckerberg, Desai's impressive background in business software includes pivotal roles at MongoDB and ServiceNow. His tr
+## ED arrests promoter, chairman of Gurugram-based Vatika Group in money laundering case
+The Enforcement Directorate (ED) has arrested the promoter and the chairman of Gurugram-based realty firm Vatika Group in connection with a money laundering probe
 
-## Two more detained in Secunderabad military arms theft case
-Telangana police detained two armoury in-charges linked to a theft of arms from the Indian Army, assisting retired havildar Mallesh, arrested earlier.
+## Gola vs Googoo: HT's exit poll reveals intensity of Delhi's fattest dogs finale, a ‘four-legged’ election battle
+The voting booths opened at 3pm and closed at 7pm, and the ballots there are likely to be just a fraction of the count on Instagram.
 
-## CAG finds financial irregularities in previous Odisha govt's high school transformation prog
-CAG finds financial irregularities in previous Odisha govt's high school transformation prog
+## New World Development posts HK$26.8b loss after 11 Skies termination
+New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall project. Echo Huang, the firm’s chief executive, said at a W
 
-## Retd IAS officer killed in Bhopal home, assailant left LPG line open: Police
-Shailendra Chauhan, additional commissioner of police (Addl CP) Bhopal, said Agarwal’s caretaker, Varun Kumar, was the prime suspect.
+## DFI Retail sells stake in Maxim’s in return for Starbucks business, US$340m
+Maxim’s Caterers has struck a deal to buy back its shares from DFI Retail Group for US$340 million plus control of its licensed Starbucks business, according to an exchange filing released on Wednesday. The deal will mark the start of a fresh chapter for Maxim’s, bringing an end to decades of part o
 
-## Varanasi temple dance video goes viral, police call it AI-generated
-The purported video showed women dressed in ghaghra and sleeveless choli dancing on a raised platform to Bhojpuri songs.
-
-## SC settles un-relied-documents row: Accused can use them in trial
-The ruling arose from an alleged conspiracy between 2010 and 2014 to award consultancy work for permanent campus of Central University of Jharkhand, Ranchi, on basis of allegedly fake documents
-
-## Fake Apple tech support call centre that duped US residents busted in Delhi
-Delhi Police dismantled a fake Apple support call center in Naraina, arresting seven for duping US residents into buying gift cards.
-
-## FSSAI suspends Seven Seas Hospitality licence over foul odour, fungal growth, filth
-The company achieved a "compliance score of only 30 per cent," the regulator pointed out.
-
-## ‘Real masterminds’: Sanjay Raut blames Eknath Shinde camp for Thane leader’s murder
-Pradeep Punekar’s family linked Meenakshi Shinde, the former Thane mayor and women’s wing chief of Shiv Sena, and her husband Rajendra Shinde to the murder.
+## Singapore beefs up rivalry with Hong Kong by picking 5 firms to boost equity market
+Singapore’s central bank has selected five international asset managers to handle S$1.45 billion (US$1.3 billion) in locally focused equity strategies, making its latest effort to revive the city state’s stock market amid sharpening rivalry with regional financial hub Hong Kong. Amundi, Franklin Tem
 
 ## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
 Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
@@ -126,14 +132,17 @@ Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision
 ## Chinese biopharma’s global expansion
 –
 
-## Mainland Chinese, Hong Kong stocks face bumpy fourth quarter as risks mount: analysts
-Mainland Chinese and Hong Kong stocks may face a challenging fourth quarter as investors contend with underwhelming stimulus measures from Beijing, tighter financial conditions in the US and a shift in the narrative around the artificial intelligence trade, according to analysts. The two markets wer
+## Populism’s New Rallying Cry Is ‘Expropriation’
+Germany’s leftist party swept to victory in Berlin by vowing to confiscate and socialize housing.
 
-## Former CSRC chairman Yi Huiman formally prosecuted for taking ‘especially large’ bribes
-Yi Huiman, the former chairman of China’s securities regulator, has been formally prosecuted for allegedly accepting “especially large” bribes, as Beijing presses ahead with a sweeping anti-corruption campaign in the financial sector. Prosecutors in the eastern city of Qingdao recently filed a case 
+## How Far Will the Canada-EU Lovefest Go?
+Both Ottawa and Brussels have good reasons to improve ties, but the EU will need to become more flexible.
 
-## Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis
-China’s corporate sector remains considerably weaker than it was before the Covid-19 pandemic, but the country is emerging as a key beneficiary of the global artificial intelligence boom thanks to its ample power capacity, according to a Natixis survey of thousands of firms and a separate research r
+## Everyone Got Pete Hegseth Wrong
+The secretary of defense is now the most influential senior official in the Trump administration.
+
+## Thailand’s Demographic Crisis Arrives Early
+The country faces a plummeting birth rate sooner than some of its global south peers.
 
 ## Why Have Indonesia’s Fires Gotten So Bad?
 This could be their worst-ever year.
@@ -146,18 +155,6 @@ In the U.S.-China relationship at present, nothing might be better than somethin
 
 ## Is Egypt’s Diplomacy Clever or Clumsy?
 Regional wars have required Cairo to maneuver between competing demands.
-
-## Trump’s Global Tariffs Are Likely to Fail in Court (Again)
-Despite having a better legal foundation than past attempts, these duties may also be struck down.
-
-## Don’t Ban Diesel Exports
-Trump’s proposed solution to rising diesel prices would backfire economically and geopolitically.
-
-## Russia’s Sahel Intervention Is Riskier Than It Looks
-No one—not least in postcolonial West Africa—loves an army of occupation.
-
-## The True Meaning of Russia’s Sham Election
-Even rigged elections used to be an outlet for discontent. That avenue is now closed.
 
 ## The Future of Shipbuilding in Southeast Asia
 There are significant opportunities – and risks.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hijabi students turned away from school in Azerbaijan
-Female students leave a school in Azerbaijan after reportedly being denied entry for wearing headscarves.
+## Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface
+Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.
 
-## S Korea demands apology over DMZ blasts as N Korea denies planting mines
-South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.
+## China extends 52-year unbeaten record as Asian Games organisers apologise
+Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.
 
-## Flydubai flight to Israel diverted to Saudi Arabia after emergency alert
-Airline says plane experiences 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.
+## Is Spain’s anti-eviction decree a fix for its housing crisis?
+The government blames 'savage speculation' as critics say new measures leave small landlords 'out in the cold'.
 
-## ‘Dire situation’: Lebanese prisoners on hunger strike for 18 days
-The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.
+## Why is Hegseth cutting 20 percent of US general and admiral positions?
+The overhaul could reshape the US military as Hegseth faces scrutiny over senior officers’ removal.
 
-## Pakistan vows to defend Saudi Arabia against Houthis
-Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.
+## Pep Guardiola backs Man City after guilty verdict on financial charges
+The Spanish coach won 20 trophies during a glittering 10 years as City manager before departing in May.
 
-## Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks
-The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.
+## Palestinian archaeologists race against time to save Gaza’s heritage
+A Palestinian team rescued Gaza's artefacts. The question now is where to store them.
 
-## Gentle giant Backpack wins Alaska’s Fat Bear Week
-The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.
+## Why Israel is interfering in Palestinian education
+The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.
 
-## Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal
-US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.
+## Christa Pike seeks firing squad, not lethal injection: Inside US executions
+Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?
 
 ## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
 From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
