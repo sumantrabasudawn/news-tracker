@@ -1,112 +1,112 @@
 # AION Intelligence
 
-## Philippines central bank braces for ‘Godzilla’ El Niño
-Severe Pacific Ocean weather event could fuel inflationary pressures and hit agricultural production across region
+## Global bond sell-off deepens as Asian yields jump
+Japanese and Australian sovereign debt costs mount despite oil price dipping
 
-## Baillie Gifford Prize for Non-Fiction 2026 — literary and historical lives dominate the shortlist
-Patrick Radden Keefe’s ‘London Falling’ and Anand Gopal’s ‘Days of Love and Rage’ are joined by four works of biography, from Alexander the Great to James Baldwin
+## Indian Flydubai pilot praised after disaster averted
+Captain Smit Machchhar fought off attack by co-pilot with help from crew and passengers
 
-## Trump says South Korea will invest $200bn in US energy projects
-Pledges to launch initiatives in states including Alaska and Texas come as midterm elections loom
+## France and Germany inch towards grand bargain on EU car regulation
+Also in this newsletter: Migration as a ‘political tomb’
 
-## Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal
-Ynon Kreiz appointed as the entertainment company looks to integrate two of the most storied entertainment studios
+## FirstFT: Big Tech’s heavy Brussels lobbying
+Also in today’s newsletter: US bond rout and warming UK-EU ties
 
-## Hegseth extols overhaul of US military in ‘state of the force’ speech
-Defence secretary says armed forces no longer ‘weak’ as he announces a range of new initiatives
+## Boots set to get carved out of private equity
+Buyout firm Sycamore is nearing a $9bn deal to sell the chemist to the billionaire Weston family
 
-## ‘Strong indications’ Iran was involved in RAF Fairford incident, says Burnham
-Prime minister says the UK is working closely with the US administration following the release of five suspects on bail
+## OpenAI’s agents obscured hacking activity in government site breaches
+New findings by Asymmetric Security provide further evidence of novel tactics AI tools use to conduct hacks
 
-## US competition watchdog expands investigation of Anthropic and OpenAI
-The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies
+## EU steel exports hit by high energy costs, tariffs and China oversupply
+Shipments abroad have fallen by a fifth with production at historic lows
 
-## Paramount stumps up high borrowing costs to fund Warner Bros deal
-Investors pile into the record-breaking $52bn financing package as yields near 9%
+## UBS should make the positive case for staying Swiss
+Too much doom-mongering may be bad for the bank’s business
 
-## Top Man City sponsor threatens legal action against Premier League
-Etihad Airways says football body’s communication on critical report into club has ‘damaging implications’
+## Why we can thumb our noses at AI
+Our sense of smell helps us to keep a few shreds of privacy intact and maintains a dividing line between real and virtual worlds
 
-## Google releases most advanced Gemini AI model
-Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence
+## Manchester City chair shielded by diplomatic immunity
+Khaldoon al-Mubarak was granted immunity six years ago, protecting him from potential legal proceedings in the UK
 
-## One pilot of Israel-bound flight stabbed the other and tried to crash plane
-Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code
+## King’s bank Coutts hit with new lawsuit after ‘debanking’
+Shipping executive Philip Adkins sues lender over claims it kept dossier of inaccurate information that sparked US probe
 
-## 18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe
-Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another
+## India oil refiners change tactics and hire ships to cross Hormuz
+The shipping regulator, which had earlier banned shippers from deploying Indian staff on voyages to the strait, has softened its advisory, asking shipowners to obtain the consent of Indian seafarers before going through Hormuz
 
-## Flydubai cockpit attack: Indian pilot fought off co-pilot, Israeli PM hails him as ‘true hero’
-The incident triggered emergency signals and a diversion to Saudi Arabia, as passengers described panic before the cockpit was secured
+## Sensex today | Stock Market Live: Sensex trades flat, Nifty below 22,560 on weak global cues
+Sensex, Nifty, Share Prices Live: At 11 am, Sensex dipped 63.48 pts or 0.09% to 72,416.81. Nifty 50 slid 66.15 pts or 0.29% to 22,554.30.
 
-## Trump hails Indian flydubai pilot Smit Machchhar as ‘hero’ after cockpit knife attack
-The incident unfolded aboard a Dubai-Tel Aviv flight after the pilot was attacked and passengers intervened to prevent further danger
+## Piyush Goyal invites Rockwell Automation to expand operations in India
+Goyal extended the invitation to Rockwell Automation during a meeting with the company’s Chairman and CEO Blake Moret in Milwaukee
 
-## Modi, Trump review India-US cooperation in trade, defence, energy and critical technologies
-The leaders reaffirmed their commitment to deepen cooperation, exchanged views on global developments and agreed to remain in close touch
+## Sundaram Finance partners with GMT Engineers to finance advanced metal forming machinery
+Collaboration designed to support small and medium-sized manufacturers, job shops, and industrial enterprises
 
-## Noel Tata files a caveat with Charity Commissioner on Venu Srinivasan’s complaint
-The move comes as Srinivasan seeks a regulatory inquiry, a restraining order against Tata’s participation in related meetings, and to preserve the SDTT board’s status quo
+## Hyundai Motor India records 'highest-ever' monthly sales in Sept at 77,916 units
+This includes monthly domestic sales of 57,166 units (up 10.9 pc year-on-year) and exports of 20,750 units (up 10.4 pc year-on-year).
 
-## US hikes EB-5 visa fees for investors; key charges to more than double from November 30
-The revised fee structure covers investor petitions, regional-centre applications and permanent-residency conditions under the US immigrant investor programme
+## Trump says he is still considering diesel export ban
+Trump said an export ban would “have a negative ‌impact on gasoline” prices, but could lower diesel costs
 
-## Government cuts windfall tax on diesel, ATF exports; petrol duty unchanged
-The revised levies will apply for a fortnight, with the finance ministry also retaining existing duties on fuel cleared for domestic consumption
+## Moneyview shares debut at 63.5% premium, A-One Steels at 14% premium
+The Moneyview IPO comprised a fresh issue of shares worth ₹750 crore and an OFS of 10.05 crore equity shares
 
-## India’s second half of FY27 to be challenging amid global risks, rising interest rates: CEA
-Nageswaran said July-August high-frequency indicators point to continued economic momentum, while September has been difficult amid rising oil prices.
+## Anarock Property Consultants files papers for ₹1,000-crore IPO
+The proposed IPO comprises a fresh issue of equity shares aggregating up to ₹550 crore and an Offer-for-Sale (OFS) of up to ₹450 crore
 
-## Bank lending rates mixed in August; fresh deposit rates fall: RBI
-The one-year median MCLR also declined in September, while external benchmark-linked loans gained share among outstanding floating-rate rupee loans.
+## Gold price prediction: Where are gold and silver headed on October 1, 2026?
+Gold and silver price prediction today: MCX Gold has moved higher after taking support near the 147,000 levels, indicating renewed buying interest at lower levels. The price structure remains positive as gold continues to hold above its key support zone, suggesting that the broader uptrend is still 
+
+## Scotch whisky gets cheaper in India after trade deal with US; check new prices
+Under the India-UK agreement, the import tariff on British whisky was reduced to 75% from 150%, effectively cutting the rate by half. The tariff is scheduled to decline further to 40% over the next 10 years. However, the reduction in import duty does not result in a similar reduction in the final re
 
 ## Senior citizen wrongly paid tax on Rs 25.42 lakh bond interest; ITAT orders Rs 9.91 lakh refund
 Each year, the senior citizen reported the interest earned from his investments in tax-free bonds under the ‘exempt income’ category in his income tax return (ITR). But made a mistake in one year. The man realised the error only after the deadline for filing a revised ITR had passed. He therefore ap
 
-## 5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more
-The money changes include a reduction in the number of free ATM transactions for certain State Bank of India (SBI) salary account customers, new disclosure norms for interest rates on bulk fixed deposits (FDs), revised charges under the National Pension System (NPS) and mandatory Aadhaar authenticat
+## Piyush Goyal gets a ‘trade minister for life’ tag from US trade chief at G20
+At the G20 trade ministers' meeting in Milwaukee, US trade representative Jamieson Greer discussed key trade issues with Indian minister Piyush Goyal. They focused on food security, steel overcapacity, and the Most-Favoured-Nation principle, which Greer suggested re-examining. Goyal emphasized the i
 
 ## Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000
 A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English.
 
-## Nitin Gadkari: 100% ethanol flex-fuel engines being developed
-India currently imports petroleum worth around Rs 22 lakh crore, Gadkari said, underlining the need to reduce the country's dependence on imported fuels through greater use of ethanol, electricity, hydrogen and other alternative energy sources. The government is also encouraging the adoption of elec
+## LPG price hike: 19-kg commercial cylinder gets Rs 62.50 costlier
+The cost of 19-kg commercial LPG cylinders has surged by Rs 62.50, now totaling Rs 2,810. Similarly, aviation turbine fuel (ATF) prices have jumped by around Rs 16 per litre, reaching Rs 137. From October 1, 2026, users will need biometric Aadhaar authentication to book subsidized LPG refills. Failu
 
-## Delhi traffic gets ‘brain’: How new Rs 1,789cr traffic system will change your commute
-Delhi will soon introduce an Intelligent Traffic Management System to improve traffic management across the capital. The project aims to adjust traffic signals based on real-time conditions and reduce congestion. Emergency vehicles, such as ambulances, will receive priority during peak traffic times
+## Son claims share in mother’s house, cites Rs 2.1 lakh given; couple ordered to vacate
+The case involved a son who continued living in his mother's house after his marriage despite having no independent title over the property. His mother, meanwhile, relied on a General Power of Attorney (GPA), an Agreement to Sale and a Will as documents establishing her ownership of the house.
 
-## Switched to the new income tax regime? Why these older tax-saving instruments still make sense
-While the usual go-to avenues may have lost some of their appeal as tax-saving instruments, they still hold great financial value in terms of long-term financial security. Many taxpayers view life insurance as a tax-saving tool, but its value is far greater. PPF may not have the growth of equity inv
+## Stock market today: BSE Sensex tumbles over 90 points, NSE Nifty50 opens below 22,600
 
-## Rabi MSP hike, Rs 1.86 lakh crore green corridor, Delhi AI traffic system: Cabinet clears 3 key measures
-The Union Cabinet has sanctioned increased Minimum Support Prices for Rabi crops, fostering agricultural growth for farmers across the country. Additionally, a new financial boost for the Green Energy Corridor-III scheme aims to enhance renewable energy transmission between states. In a bid to allev
 
-## Bank holidays in October: When and where will banks remain closed?
-Bank customers are advised to organize their visits in light of several upcoming regional and national holidays that will lead to branch closures. Key dates to remember include Mahatma Gandhi Jayanti on October 2 and Dussehra on October 19, which will affect various states. Furthermore, expect closu
+## Kannada actor Ranya Rao fined ₹89 crore in gold smuggling case, 3 others face ₹155 crore penalty
+Customs penalised four accused more than ₹244 crore after its investigation into an alleged gold smuggling network linked to Dubai.
 
-## Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft
-Netanyahu praised Indian pilot Capt. Smit Machchar’s bravery in the flydubai incident. Machchar opened the cockpit door saving 174 lives.
+## RSS to meet in Indore in November, roll out structural changes
+The meet will deliberate on the current political and social issues, including the Opposition’s sharpened attacks on the Centre over SIR.
 
-## At bypoll rally, Vijay continues attack on Oppn DMK, AIADMK
-Tamil Nadu CM C Joseph Vijay alleges AIADMK plans to ally with "evil" DMK, accusing them of betraying MGR and Jayalalithaa at a rally in Dharapuram.
+## Odisha chief electoral officer Gopalan applies for voluntary retirement after SIR
+Gopalan submitted his voluntary retirement application on Wednesday a week after the completion of the SIR in the state
 
-## Religion not under threat in UP, people are: Chandra Shekhar Azad
-Religion not under threat in UP, people are: Chandra Shekhar Azad
+## Geopolitical tensions, high crude may fuel India's imported inflation, says government report
+INDIA-ECONOMY:Geopolitical tensions, high crude may fuel India's imported inflation, says government report
 
-## ECI extends SIR schedule in Andhra Pradesh, Meghalaya; new dates announced
-The Election Commission extended the SIR schedule in Andhra Pradesh and Meghalaya, with final electoral rolls now due on October 16 and October 26.
+## From stole to stage: Mamata and Sonia's bond outlasts political upheavals
+To be sure, the equation between the Trinamool (Mamata) and the Congress had not always been entirely smooth in the recent past.
 
-## Delhi records lowest September AQI in five years at 102, highest ‘moderate’ air quality days in 2026
-The monthly average AQI was recorded at 105 in September 2025, 105 in 2024, 108 in 2023 and 104 in 2022.
+## PM Modi speaks to Indian pilot Smit Machchhar's wife and parents after he leads brave landing of flydubai flight: Sources
+Smit Machchhar, the captain of flydubai flight FZ1073, was seriously injured after being attacked by his co-pilot during the flight.
 
-## Giribala Singh’s advocate says CBI drops Dowry Act charges in initial chargesheet of Twisha Sharma case
-CBI has dropped the dowry harassment charge against retired judge Giribala Singh, an accused in the Twisha Sharma suicide case, Singh’s lawyer Surendra Singh said
+## Bhopal court sentences 2, years after missing truck unraveled 30 murders
+Eight years after their arrest, a Bhopal court sentenced Khambra and Prajapati to double life imprisonment on Wednesday
 
-## Woman arrested for murder of 5-year-old daughter, 3-year-old son in Kerala’s Palakkad
-A day after two siblings were found dead in a water tub inside the bathroom of their rented home in Menonpara in Kerala’s Palakkad district, their mother was arrested for murder
+## Warm morning in Delhi as min temp rises to 24°C; AQI remains ‘moderate’
+The air quality was recorded in the ‘moderate’ category at 9 am, with an Air Quality Index (AQI) reading of 161
 
-## Haryana seeks to drive next chapter of auto industry with EVs, batteries, R&D: Minister Arvind Sharma
-Arvind Sharma said Haryana’s position as an automotive powerhouse was built on skilled workers, connectivity and government support.
+## China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off
+Chinese automotive groups have cause to celebrate their go-global strategy amid breakneck export growth in recent years, with deliveries in 2026 expected to beat expectations already buoyed by an international energy shock caused by conflict in the Middle East. Leading carmakers from BYD to Chery Au
 
 ## ‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom
 Chinese-American billionaire investor Duan Yongping, often called China’s Warren Buffett, has added 30,000 shares of Shanghai-listed baijiu maker Kweichou Moutai to his portfolio in his third public stake increase this year amid a deep sector-wide adjustment. Moutai’s premium valuation has long reli
@@ -128,9 +128,6 @@ Funds raised through Hong Kong initial public offerings (IPOs) doubled in the fi
 
 ## How Hong Kong entices Europe’s young start-up talent
 Hong Kong’s efforts in advancing the city’s innovation and technology (I&T) industry have been highlighted in a number of international surveys in recent years. One of the most recent was the International Institute for Management Development’s “World Competitiveness Ranking 2026”, which placed Hong
-
-## China’s 2030 solid-state battery goal, Chinese carmakers see boost in Europe: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction A pub
 
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump hints US could strike Iran, warns time coming
-Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.
+## India vs Pakistan live: Asian Games hockey semifinal
+Follow our build-up to the match in Japan, field hockey rivalry history, score, photos and live text commentary.
 
-## Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight
-An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.
+## Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs
+After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.
 
-## Pennsylvania confirms fifth measles-associated death as US outbreak grows
-Cases have more than doubled since August as a dispute with federal health officials over the death count continues.
+## Mourners bury DR Congo official killed after defending Ebola response
+Marie-Celestin Karondwa died of his injuries after being beaten at his home in Butembo, an Ebola hotspot, on Sunday.
 
-## US judge approves settlement allowing Paramount to acquire Warner Bros
-Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
+## Gaza prepares to bury 105 Palestinians killed in October 2023
+The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.
 
-## US Senate rejects bill targeting AI data centre electricity costs
-Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills.
+## ‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves
+Scientists are warning that Switzerland's glaciers have lost an ‘enormous’ amount of ice this year.
 
-## Hong Kong journalist arrested on sedition charge
-Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.
+## Execution of US woman Christa Pike fails after botched lethal injection
+The high-profile execution of murderer Christa Pike is in disarray after two lethal injections failed to kill her.
 
-## Russian drone crashes into Kyiv playground without exploding
-A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.
+## Pakistan says 22 fighters killed in air attacks on Afghanistan
+Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.
 
-## It’s the ‘closest thing to an HIV vaccine’, but who gets access?
-A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.
+## South Korea’s exports hit record high on AI boom
+Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.
 
 ## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
 From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
@@ -276,6 +273,9 @@ The finance ministry has sought feedback from banks on their use of AI-driven lo
 ## Tata companies face a tough call on Chandra vote at AGM
 Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
 
+## India extends RoDTEP scheme till December 31, keeps export refund rates unchanged
+The government extended the Remission of Duties and Taxes on Exported Products scheme until December 31, 2026. This extension ensures that exporters receive continued refunds for eligible duties and taxes incurred during production. The existing rates and caps for the scheme remain unchanged during 
+
 ## PMS has potential to grow over 20 pc CAGR as investment participation deepens: SEBI Chairman
 As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday.
 
@@ -296,7 +296,4 @@ Rising crude oil prices, inflation and higher bond yields globally has narrowed 
 
 ## FCNR(B) liquidity may squeeze bank margins, offer relief to NBFCs: Report
 Banks with higher FCNR(B) mobilisation could face sharper margin pressure in the second quarter of FY27, while increased banking-system liquidity could help contain funding costs and cushion margins for NBFCs according to a report by Nuvama.
-
-## RBI to raise interest rates to 5.50% in October as inflation broadens
-The Reserve Bank of India is projected to increase interest rates by 25 basis points to 5.50% this October, marking the first adjustment since February 2023, as inflationary trends intensify. Economists note that inflation has surpassed the RBI’s medium-term target of 4% for the third month in a row
 
