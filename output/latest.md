@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## US government debt rout triggers ‘vicious loop’ of selling
-Yields on 10-year Treasuries soar half a percentage point in worst month in four years
+## Philippines central bank braces for ‘Godzilla’ El Niño
+Severe Pacific Ocean weather event could fuel inflationary pressures and hit agricultural production across region
+
+## Baillie Gifford Prize for Non-Fiction 2026 — literary and historical lives dominate the shortlist
+Patrick Radden Keefe’s ‘London Falling’ and Anand Gopal’s ‘Days of Love and Rage’ are joined by four works of biography, from Alexander the Great to James Baldwin
+
+## Trump says South Korea will invest $200bn in US energy projects
+Pledges to launch initiatives in states including Alaska and Texas come as midterm elections loom
+
+## Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal
+Ynon Kreiz appointed as the entertainment company looks to integrate two of the most storied entertainment studios
+
+## Hegseth extols overhaul of US military in ‘state of the force’ speech
+Defence secretary says armed forces no longer ‘weak’ as he announces a range of new initiatives
+
+## ‘Strong indications’ Iran was involved in RAF Fairford incident, says Burnham
+Prime minister says the UK is working closely with the US administration following the release of five suspects on bail
+
+## US competition watchdog expands investigation of Anthropic and OpenAI
+The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies
+
+## Paramount stumps up high borrowing costs to fund Warner Bros deal
+Investors pile into the record-breaking $52bn financing package as yields near 9%
+
+## Top Man City sponsor threatens legal action against Premier League
+Etihad Airways says football body’s communication on critical report into club has ‘damaging implications’
 
 ## Google releases most advanced Gemini AI model
 Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence
-
-## Burnham clears path to EU summit with post-Brexit breakthrough
-UK and Brussels to go ahead with key November meeting after agreeing to kick talks on industrial subsidies into next year
-
-## Esther Rantzen, broadcaster and campaigner, dies aged 86
-TV personality had in recent years called vocally for assisted dying to be legalised in UK
-
-## MI5 warns universities to cut ties with Chinese organisation
-China General Technology Research Institute has ‘very strong ties’ to Chinese intelligence, says UK agency in unusual espionage alert
-
-## How the UAE became a destination for Israelis
-Security incident on a Flydubai plane to Tel Aviv risks casts doubt on the Arab nation’s status as a safe haven for Israelis
-
-## UK retreats on climate reporting rules for listed companies
-Decision by Financial Conduct Authority comes as regulators globally walk back on transparency on environmental issues
-
-## Bond markets resume sell-off after strong US data
-Treasury yields rise further on news that economy grew faster than previously estimated, although personal consumption expenditures inflation falls
 
 ## One pilot of Israel-bound flight stabbed the other and tried to crash plane
 Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code
@@ -30,14 +36,17 @@ Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Sau
 ## 18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe
 Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another
 
-## Boots owner nearing $9bn sale of chemist to Canada’s Weston family
-Takeover would mark the billionaire family’s return to UK retail four years after its sale of Selfridges
+## Flydubai cockpit attack: Indian pilot fought off co-pilot, Israeli PM hails him as ‘true hero’
+The incident triggered emergency signals and a diversion to Saudi Arabia, as passengers described panic before the cockpit was secured
 
-## What we know about the Flydubai flight to Israel
-Plane made emergency landing in Saudi Arabia after terrifying fight in cockpit
+## Trump hails Indian flydubai pilot Smit Machchhar as ‘hero’ after cockpit knife attack
+The incident unfolded aboard a Dubai-Tel Aviv flight after the pilot was attacked and passengers intervened to prevent further danger
 
-## To fix housing affordability, build more homes
-Faced with rising mortgage costs, governments should resist stoking demand
+## Modi, Trump review India-US cooperation in trade, defence, energy and critical technologies
+The leaders reaffirmed their commitment to deepen cooperation, exchanged views on global developments and agreed to remain in close touch
+
+## Noel Tata files a caveat with Charity Commissioner on Venu Srinivasan’s complaint
+The move comes as Srinivasan seeks a regulatory inquiry, a restraining order against Tata’s participation in related meetings, and to preserve the SDTT board’s status quo
 
 ## US hikes EB-5 visa fees for investors; key charges to more than double from November 30
 The revised fee structure covers investor petitions, regional-centre applications and permanent-residency conditions under the US immigrant investor programme
@@ -51,17 +60,8 @@ Nageswaran said July-August high-frequency indicators point to continued economi
 ## Bank lending rates mixed in August; fresh deposit rates fall: RBI
 The one-year median MCLR also declined in September, while external benchmark-linked loans gained share among outstanding floating-rate rupee loans.
 
-## Bank loans against fixed deposits surge 43.2% to ₹2.04 lakh crore in August
-Bank advances against fixed deposits grew faster than overall credit, while foreign-currency deposit and borrowing inflows crossed $143 billion by September 18.
-
-## RoSCTL scheme extended by three months till December 31 for textile exporters
-The extension will continue remission of eligible embedded State and Central taxes and levies for exporters at existing rates and guidelines.
-
-## IATA opposes forced relocation of flights to Navi Mumbai airport
-IATA has said MIAL’s communication for shift from October 1 created a confusion and a transition framework should be developed in collaborative consultation with airlines.
-
-## Government extends RoDTEP scheme for exporters by three months till December 31
-Government extends RoDTEP scheme for exporters by three months till December 31
+## Senior citizen wrongly paid tax on Rs 25.42 lakh bond interest; ITAT orders Rs 9.91 lakh refund
+Each year, the senior citizen reported the interest earned from his investments in tax-free bonds under the ‘exempt income’ category in his income tax return (ITR). But made a mistake in one year. The man realised the error only after the deadline for filing a revised ITR had passed. He therefore ap
 
 ## 5 money changes in Oct: Bulk FD rates, UPI MDR, SBI ATM limit cut, LPG KYC & more
 The money changes include a reduction in the number of free ATM transactions for certain State Bank of India (SBI) salary account customers, new disclosure norms for interest rates on bulk fixed deposits (FDs), revised charges under the National Pension System (NPS) and mandatory Aadhaar authenticat
@@ -83,9 +83,6 @@ The Union Cabinet has sanctioned increased Minimum Support Prices for Rabi crops
 
 ## Bank holidays in October: When and where will banks remain closed?
 Bank customers are advised to organize their visits in light of several upcoming regional and national holidays that will lead to branch closures. Key dates to remember include Mahatma Gandhi Jayanti on October 2 and Dussehra on October 19, which will affect various states. Furthermore, expect closu
-
-## New CAFE-III fuel-efficiency rules: What changes for EVs, hybrids and small cars
-As of April 1, 2027, India will roll out new Corporate Average Fuel Economy (CAFE) regulations aimed at passenger vehicles, demanding increasing fuel-efficiency targets that will evolve each year until 2032. These rules support credit trading, promote cleaner technologies, and incentivize alternativ
 
 ## Israel's Netanyahu hails Indian pilot Smit Machchar's heroics in saving 174 lives aboard flydubai aircraft
 Netanyahu praised Indian pilot Capt. Smit Machchar’s bravery in the flydubai incident. Machchar opened the cockpit door saving 174 lives.
@@ -111,6 +108,9 @@ A day after two siblings were found dead in a water tub inside the bathroom of t
 ## Haryana seeks to drive next chapter of auto industry with EVs, batteries, R&D: Minister Arvind Sharma
 Arvind Sharma said Haryana’s position as an automotive powerhouse was built on skilled workers, connectivity and government support.
 
+## ‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom
+Chinese-American billionaire investor Duan Yongping, often called China’s Warren Buffett, has added 30,000 shares of Shanghai-listed baijiu maker Kweichou Moutai to his portfolio in his third public stake increase this year amid a deep sector-wide adjustment. Moutai’s premium valuation has long reli
+
 ## Hong Kong banks set golden week lures for mainland Chinese visitors despite new levies
 Hong Kong commercial banks continue to offer incentives to attract mainland visitors during the first golden week after Beijing tightened cross-border investment rules and enforced the collection of a 20 per cent levy on overseas investment or insurance gains. HSBC would offer up to HK$88,000 (US$11
 
@@ -132,8 +132,17 @@ Hong Kong’s efforts in advancing the city’s innovation and technology (I&T) 
 ## China’s 2030 solid-state battery goal, Chinese carmakers see boost in Europe: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction A pub
 
-## Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources
-Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public offerings (IPOs) in the fourth quarter, according to people famili
+## Would Better U.S.-China Ties Harm India?
+Washington and New Delhi have more to focus on than Beijing.
+
+## U.S. Forces Leave Behind a Power Vacuum in Iraq
+Washington’s adversaries, including Iran and the Islamic State, are likely to take advantage of the pullout.
+
+## How Far Can Russia Probe NATO’s Collective Defense?
+Latvia’s president warns that Putin’s “appetite for risk is increasing.”
+
+## Ethiopia’s Return to War Threatens to Engulf the Horn of Africa
+Analysts fear that the renewed conflict could quickly draw in other regional actors.
 
 ## Trump Unleashed
 How the U.S. president might escalate against Iran after the midterm elections.
@@ -146,18 +155,6 @@ Brazil’s leftist leader has unusually put military spending at the heart of hi
 
 ## Populism’s New Rallying Cry Is ‘Expropriation’
 Germany’s leftist party swept to victory in Berlin by vowing to confiscate and socialize housing.
-
-## How Far Will the Canada-EU Lovefest Go?
-Both Ottawa and Brussels have good reasons to improve ties, but the EU will need to become more flexible.
-
-## Everyone Got Pete Hegseth Wrong
-The secretary of defense is now the most influential senior official in the Trump administration.
-
-## Thailand’s Demographic Crisis Arrives Early
-The country faces a plummeting birth rate sooner than some of its global south peers.
-
-## Why Have Indonesia’s Fires Gotten So Bad?
-This could be their worst-ever year.
 
 ## Who Is Russia’s New Ambassador to North Korea?
 What can Andrei Podelyshev’s appointment tell us about North Korea-Russia relations?
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli attacks across Gaza kill at least eight
-Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday
+## Iran war live: Trump hints US could strike Iran, warns time coming
+Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.
 
-## US judge rules Wisconsin mosque leader Salah Sarsour can be deported
-Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.
+## Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight
+An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.
 
-## Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight
-The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.
+## Pennsylvania confirms fifth measles-associated death as US outbreak grows
+Cases have more than doubled since August as a dispute with federal health officials over the death count continues.
 
-## US regulator launches probe into AI companies
-FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.
+## US judge approves settlement allowing Paramount to acquire Warner Bros
+Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
 
-## How does Trump’s White House AI accord work?
-Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations.
+## US Senate rejects bill targeting AI data centre electricity costs
+Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills.
 
-## Displaced by war, young Sudanese turn to entrepeneurship to survive
-Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.
+## Hong Kong journalist arrested on sedition charge
+Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.
 
-## French court sentences 13 men over deadliest small-boat crossing to UK
-Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.
+## Russian drone crashes into Kyiv playground without exploding
+A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.
 
-## Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded
-Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.
+## It’s the ‘closest thing to an HIV vaccine’, but who gets access?
+A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.
 
 ## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
 From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
