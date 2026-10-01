@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## International Criminal Court cuts ties with Axa over US sanctions
-Move follows fears that broad US sanctions on the war crimes tribunal would force the insurer to cease doing business with it or face punishment
+## Burnham criticised over support for Manchester City owners
+Prime minister praised City Football Group, controlled by Sheikh Mansour bin Zayed al-Nahyan, for its part in building modern Manchester
 
-## UAE investigates if Flydubai attack was ‘terrorist activity’
-Israel also involved in probe into flight between Dubai and Tel Aviv
+## Europe braces for ‘severe hybrid attacks’ from Russia, says Merz
+German chancellor says Moscow’s escalation shows ‘desperation’ over war in Ukraine
 
-## Israel flight near-miss triggers election furore
-Benjamin Netanyahu’s opponents accuse prime minister of exploiting incident for political gain ahead of this month’s polls
+## Top Fed official signals central bank will keep rates on hold in October
+Vice-chair for monetary policy Philip Jefferson echoes dovish remarks made by New York central bank head John Williams
+
+## British-Iranian man arrested under terror laws over RAF Fairford incident
+Sixth arrest comes after prime minister says there is ‘strong indications’ of Tehran’s involvement
+
+## Ex-HSBC banker banned for dodging £5,900 in train fares
+Joseph Molloy was convicted this year of using a ‘doughnutting’ scam to avoid paying for tickets
+
+## Europe should take Trump’s diesel ban seriously, if not literally
+Even if the president backs down, his threat should prompt Europe to be more energy independent
+
+## France meets fiscal reality with a crunch
+A surge in borrowing costs leaves the country on the edge of a debt spiral
 
 ## Train driver accelerated through red signal before fatal crash
 Investigators say ‘black box’ showed Shaun Burton acknowledged automated alert ahead of Bedfordshire collision
 
-## What does the bond sell-off mean for the global economy?
-Economics leader writer Tej Parikh and European economics commentator Martin Sandbu replied to reader questions
-
-## Pete Hegseth announces creation of Autonomous Warfare Command
-Also in today’s newsletter, White House holds crisis talks on potential US diesel export ban
-
-## Australia’s banks show how to prepare for cable blackouts
-The country is making its financial system resilient enough to withstand the cutting of undersea lines
-
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
-
 ## EU countries in crisis talks over release of diesel stocks
 Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so
 
-## Is circular financing in AI a problem?
-Only if the wheel stops spinning
+## BT seeks government nod for potential TalkTalk takeover
+Telecoms group holds talks with UK officials over possible antitrust issues involved in buying smaller competitor
 
-## Is AI supercharging science?
-Productivity gains in analysis are getting stuck in physical-world bottlenecks
+## Dealmakers line up to test EU’s appetite to create European champions
+As Brussels opens the door to bigger deals within industries, companies look for a test case of the new approach
 
-## Accenture shares surge as consultancy boosts sales
-Firm reports full-year revenues of $74.2bn despite fears of hit to sector from AI
+## Accenture shares surge 22% as consultancy confounds AI fears
+Group says revenues could accelerate in the coming year despite worries over demand for its services
 
-## Who should pay for the LA wildfires?
-The California company at the centre of last year’s blazes has called for a cap on utilities’ wildfire liability
+## UAE investigates if Flydubai attack was ‘terrorist activity’
+Israel also involved in probe into flight between Dubai and Tel Aviv
 
-## NaBFID raises $750 million in debut US dollar bond issuance
-The 10-year benchmark bond marks the first drawdown under NaBFID’s $4 billion Global Medium-Term Note programme for infrastructure financing
+## S&P praises Indian economy, but points to gathering clouds
+India beat forecasts while contending with the same inflationary pressures, geopolitical conflicts and slower growth as others
 
-## Indian govt halves stock limit for traders to 100 tonnes
-The order will come into force from October 15 and will be valid till November 30
+## Shriram Properties sees an 8-10% increase in raw material costs; bets on Chennai
+The increase is particularly pronounced in construction products linked to oil imports, including lifts, sanitary fittings and tiles
 
-## Disruption on supply routes driving up prices: Oil Minister
-Puri pointed out that the global energy situation remains challenging, but the government is closely monitoring the situation
+## Solar manufacture: India’s success story
 
-## CAFE-III Gazette reveals translation error; EV metric differs 10-fold between English and Hindi texts
-English and Hindi texts differ on EV energy measurement; the headline 30 km/l equivalent benchmark does not translate into the same physical fuel consumption
 
-## KFintech, APMI launch anti-money laundering platform
-APMI has adopted InPro as the central AML compliance platform for its members, providing portfolio managers across the industry access to a common technology infrastructure for screening, reviewing and managing AML alerts
+## Spotlight: Kotak Mahindra Bank’s MD & CEO designate Saha could shift advances mix in favour of retail lending
+Retail veteran to lead the private bank from January 2027
 
-## INOX Air Products files DRHP for IPO; existing shareholders to sell up to 7.72 cr shares
-The proposed IPO will see existing shareholders sell up to 77,156,663 equity shares of face value ₹1 each
+## Mahindra, Embraer pick Nagpur for C-390 assembly line
+The proposed facility will support local manufacturing, assembly, supply chain development and MRO activities under the Make in India initiative.
 
-## Swiss logistics major Kuehne+Nagel opens Chennai tech centre
-To accelerate the launch, Kuehne+Nagel is working with Accenture to support the build-up of the workforce
+## Banks lose pricing advantage as RBI’s bulk deposit disclosure norm kicks in
+The change comes just before the RBI’s MPC meet, with analysts expecting a repo-rate rise that could influence funding strategies and deposit costs across the sector
 
-## Renaissance keen to invest ₹5,000 crore in Tumakuru: MB Patil
-The company has highlighted two key requirements for the proposed facility — 80 MW of power and 10 MLD of water
+## Trump’s $100,000 H-1B visa fee blocked again by US federal judge
+The ruling adds to mounting legal challenges over a fee that sharply increases the cost of hiring highly skilled foreign workers
+
+## Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm
+Vrooming ahead: Hero MotoCorp, Honda, TVS Motor had a good outing, while Bajaj Auto saw sales falling 12%
+
+## Wife gets late husband’s job, leaves in-laws; HC orders 25% salary in mother-in-law’s account
+In this case, a widow secured a government job under this provision but later allegedly left her late husband's parents on their own. The Rajasthan High Court explained that a compassionate appointment is intended to provide monetary support to a family struggling to cope with the sudden death of it
+
+## Govt limits sugar stock limit to 1,000 quintals ahead of festive season
+The Centre will implement new stock limits for sugar dealers starting October 15 until November 30. The inventory cap has been set at 1,000 quintals with a 15-day holding period. This decision follows a notable decrease in ex-mill sugar prices and aims to control hoarding during the festive season. 
+
+## BMW left overnight after puncture, found burnt; insurer rejects claim, commission orders Rs 70L
+According to the complaint filed by the man, he left the BMW on the highway overnight after it suffered a puncture. However, the next morning the vehicle was found to be completely burnt. The incident was subsequently recorded by the local police and fire department. The BMW carried an Insured Decla
+
+## Finance ministry projects 7.3% Q2 growth as economy maintains momentum
+
 
 ## Indian IT sector layoffs: Which jobs are facing pressure & which skills are in demand?
 AI is not just making some jobs in the Indian IT sector obsolete, it is also forcing firms to adapt their business models as the demand for their traditional services faces disruption. In FY27, hiring is expected to remain subdued, while attrition is increasingly being backfilled selectively rather 
@@ -75,41 +87,29 @@ Dalal Street is experiencing its longest losing streak in nearly 25 years, with 
 ## Public sector banks to stay closed on Saturdays? PIB debunks fake govt notification
 PIB Fact Check has debunked claims about a government notification for public sector banks declaring Saturdays as holidays. A fake document circulated on social media created confusion around the banking holiday issue. Public sector banks, including the State Bank of India, have not received any suc
 
-## Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95
+## Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2
+According to the advisory, special traffic arrangements will remain in place in the areas from 5 am to 11 am on Friday.
 
+## Why did the Congress decide to remove Amarinder Singh Raja Warring?
+Congress's Sachin Pilot, who replaced Bhupesh Baghel as AICC general secretary in-charge on Sept 5, held a series of discussions with state leaders and MPs.
 
-## GST collections cross Rs 2 lakh crore again, rise 14.7% in September
-India's GST collections soared past Rs 2 lakh crore in September, showcasing a commendable increase. Revenue from local transactions saw a growth of 10.1%, significantly boosting total collections. Meanwhile, GST revenues linked to imports surged by 25.9%, leading to demands for a detailed evaluatio
+## From guns to classrooms: Eight former Maoists clear Class 10 exam in Chhattisgarh’s Bastar
+Eight surrendered Maoist cadres in Chhattisgarh’s Bastar have cleared the Class 10 exam, with former cadres now pursuing education, nursing, farming and business plans.
 
-## Anthropic IPO Risks and Power: draft filing flags existential AI threat; governance concentrates control
-Anthropic plans a significant IPO, targeting a $2 trillion valuation emphasizing both transformative potential and risks of advanced AI. The company highlights that AI can enhance quality of life but also poses existential risks if not properly managed. Its prospectus dedicates substantial space to 
+## Gujarat govt compulsorily retires two IAS officers under ‘Operation Gangajal’
+The Gujarat government on Thursday compulsorily retired two Indian Administrative Service (IAS) officers, K Rajesh and Gaurav Dahiya
 
-## Fake gold hallmark stamps may rise; GJC flags fraud risk for buyers
-Consumers bear the hallmarking cost when purchasing jewellery. However, many buyers are still unaware that they can verify the Hallmark Unique Identification (HUID) number through the Bureau of Indian Standards' Care mobile application. Data from the government cited by the GJC shows that the number
+## Capt Smit Machchhar shifted to Abu Dhabi, closely monitoring his health: MEA on flydubai Indian pilot
+Indian ambassador in UAE met the pilot's family and assured them that all possible support will be extended for his health and well-being.
 
-## Odisha woman stripped, assaulted in public by villagers on witchcraft suspicion: Police
-The incident took place on September 25, but the woman lodged a complaint on Wednesday, following which police registered a case against six people, including two women
+## Amit Shah chairs meet over Odisha-Chhattisgarh Mahanadi water dispute: Key takeaways
+Chhattisgarh CM Vishnu Deo Sai has called for a fair and sustainable resolution to the long-standing Mahanadi water-sharing dispute with Odisha.
 
-## Two arrested for attack on Tipra Motha candidate during TTAADC polls in Tripura: Police
-Khachindra Reang (34), who was contesting from Ward No. 2 of the Gamaria Village Committee, was injured after unidentified persons allegedly opened fire as he got down from a vehicle
+## SC seeks affidavit from UP govt on arrests, safety compliance after Yamuna Expressway bus fire
+SC sought affidavit from UP government on action taken against driver, owner of sleeper bus whose fire in Greater Noida killed nine passengers last month
 
-## Harwinder Kumar deported from UAE, arrested by NIA in Vikas Prabhakar murder case
-VHP’s Vikas Prabhakar was shot dead by terrorists belonging to a BKI module in his confectionery shop at Nangal, district Roopnagar, Punjab, on April 13, 2024
-
-## HT Evening Brief Oct 1: Meet the 4 heroes of flydubai who helped Indian pilot; Prasidh Krishna ruled out of West Indies ODI final
-Here are the top headlines from the day covering India, the world, entertainment and sports.
-
-## Pargat Singh or Vijay Singla? Who could be the next Punjab Congress chief after Amarinder Warring's exit
-The appointment would be a significant one, owing to the upcoming Assembly elections in Punjab, expected to held in February next year.
-
-## Woman tracks husband's phone, sends men to rape his female friend after duo checks into Kerala lodge
-The gang allegedly posed as cops and barged into the lodge room from where the two were forcibly taken away in a car.
-
-## Amazon, Flipkart review CCTV camera listings on selling platforms in India after report flags ‘security risk’
-The e-commerce companies were reviewing internet-enabled surveillance cameras listed by third-party sellers, says a report.
-
-## CJP to launch nationwide protest from Oct 2, seeks Gyanesh Kumar’s resignation
-Cockroach Janata Party (CJP) founder Abhijeet Dipke has announced a nationwide agitation from October 2 over alleged irregularities in electoral rolls
+## ‘Dumping ground for anti-socials’: Rebel TMC MLA Madan Mitra as he hints at quitting politics after 30 years
+Madan Mitra was among the TMC MLAs who jumped the ship and joined the rebel camp under Ritabrata Banerjee after the TMC's Bengal poll debacle.
 
 ## Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca
 Hong Kong can attract more global biotech investments if the city builds up a new healthcare financial model, according to AstraZeneca, a Cambridge-based multinational pharmaceutical giant. While global drug makers have been doubling down on investments in mainland China in recent years, AstraZeneca
@@ -135,6 +135,18 @@ Singapore’s central bank has selected five international asset managers to han
 ## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
 Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
 
+## Oil Is Again Flowing Out of Hormuz
+But the continued shortfall of refined products means little relief at the pump.
+
+## A Space-Launch Crash Is Coming
+What happens after SpaceX’s most popular vehicle leaves the market?
+
+## ‘Everyone Is Depleted’
+Yemen was already in crisis. Then civil war broke out again.
+
+## How AI Anxiety Turns Into Extremism
+Despite shared concerns, stark differences exist in perceptions of AI in the United States and China.
+
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
 
@@ -147,41 +159,32 @@ Latvia’s president warns that Putin’s “appetite for risk is increasing.”
 ## Ethiopia’s Return to War Threatens to Engulf the Horn of Africa
 Analysts fear that the renewed conflict could quickly draw in other regional actors.
 
-## Trump Unleashed
-How the U.S. president might escalate against Iran after the midterm elections.
+## Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?
+A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.
 
-## The Case for Trump’s Global Strategy
-U.N. ambassador Mike Waltz on Iran, Sudan, China, Russia, and more.
+## China’s Stake in the Russian Duma Elections
+The topic is a controversial one in China due to the obvious parallels between the Russian and Chinese political systems and the stake the Chinese leadership has in the stability of their neighbor.
 
-## Lula Bets Big on Defense Ahead of Election
-Brazil’s leftist leader has unusually put military spending at the heart of his campaign.
+## Taiwan Can’t Fight Beijing’s History War While Erasing Its Own ROC Legacy
+The push to emphasize Taiwanese identity is at odds with the government’s attempt to center the Republic of China in World War II history.
 
-## Populism’s New Rallying Cry Is ‘Expropriation’
-Germany’s leftist party swept to victory in Berlin by vowing to confiscate and socialize housing.
+## Australia as an AI Middle Power
+As a middle power, with a range of assets and resources, Australia is not powerless in the face of change.
 
-## The Woman Who Held Mahathir’s Hand For 70 Years
-Siti Hasmah Mohamad Ali, who died this week aged 100, was a close companion of Mahathir throughout his long and tumultuous political career.
+## The New Development Bank Quietly Delivers During India’s BRICS Year
+India is in a unique position as a founding member and one of its biggest borrowers.
 
-## Can Myanmar’s New Government Revive the Stalled Dawei SEZ Project?
-The flagship project struggled even during Myanmar’s decade of opening. Attempting to revive it amid conflict and sanctions will test its economic and strategic rationale.
+## Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency
+Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.
 
-## UN Refugee Agency Expresses Concerns About Malaysia’s Deportation of Asylum Seekers to Myanmar
-The statement came as Kuala Lumpur confirmed plans to deport a further 3,500 people as part of its "voluntary repatriation program" with Myanmar.
+## Central Asia’s Diplomatic Balancing Act on Display from Bishkek to New York
+Central Asia aligns rhetorically with Beijing and Moscow in regional group settings, materially with Washington in bilateral deals, and with no one in particular at the United Nations.
 
-## China’s Military Open New Logistics and Training Facility in Laos
-The center north of Vientiane, a counterpart to a similar naval facility in Cambodia, marks a further extension of Beijing's security presence in mainland Southeast Asia.
+## Officials Detained as Kazakhstan Mourns Soldiers Perished at Sea
+Five military officials were arrested in connection to the deaths of 14 servicemen lost at sea during a combat exercise in southwestern Kazakhstan, as a day of national mourning is observed.
 
-## Japan Has Been Here Before: The 1987 Persian Gulf Crisis
-When the Gulf was last closed to tankers, Tokyo faced the same dilemma it faces today.
-
-## Who Is Russia’s New Ambassador to North Korea?
-What can Andrei Podelyshev’s appointment tell us about North Korea-Russia relations?
-
-## The Geopolitics of AI in the Asia-Pacific
-Insights from Jouko Ahvenainen.
-
-## Australia Launches Bid for a UN Security Council Seat
-If Australia is successful in returning to the council in 2029, it will be under significantly different circumstances than when it last held a seat.
+## Jaw-Jaw With Belarus, Revisited Amid Ukraine War
+In 2021, Michael Kimmage wrote, “Belarus and the Ukraine Trap,” where he argued the United States should adopt a realistic diplomatic relationship with Belarus that takes into account its strategic partnership with Russia and learns from overpromises made to Ukraine. Five years later, we asked Micha
 
 ## MacGyver at Scale: Winning Future Air Wars of Rapid Technological Adaptation
 During a recent training exercise in the western Pacific, a small group of engineers single-handedly saved the day.In the scenario, adversary covert forces used first-person view drones to intercept American helicopters that were shuttling between austere forward island airbases. Some helicopters we
@@ -203,9 +206,6 @@ Secretary of Defense Pete Hegseth is expected to convene a high-profile meeting 
 
 ## The Unhedgeable Bet: What the Future Combat Systems Can Teach Us About Acquisition
 The Pentagon describes Golden Dome for America as a “system of systems,” an integrated air and missile defense architecture that combines space-based sensors, orbital interceptors, ground systems, and a command network designed to defeat any aerial attack. Eighteen months after its founding executiv
-
-## The Discipline of Refusal: Constitutional Concerns About Lawful Orders in the U.S. Military
-Military doctrine gives officers a clear rule for manifestly unlawful orders: Refuse them. It offers no comparable rule when lawful action appears to threaten the constitutional structure the military serves. The first response is neither refusal nor resignation, but rather deliberative friction.Del
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault
-Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.
+## Canada to fast track oil pipeline meant to diversify economy away from US
+Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
 
-## Activists protest Indian police raid over kite-flying event for Palestine
-Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.
+## School protests spread as fires, blockades deepen unrest in France
+Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.
 
-## Botswana at 60 challenges the story of postcolonial African failure
-Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.
+## Palestinian children in Israeli military detention
+Palestinian children in Israeli military detention
 
-## Nigeria charges man accused of faking government agency
-What if you could invent a government agency and get the government to fund it?
+## US Supreme Court agrees to take up Trump’s ICE detention policy
+The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.
 
-## Zimbabwe businessman Wicknell Chivayo killed in helicopter crash
-The high-profile businessman known for his political connections was one of six people killed in the crash.
+## Renee Good’s family sues Trump administration over fatal ICE shooting
+Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .
 
-## Funeral held for DR Congo politician killed after defending Ebola response
-A funeral has been held for the politician who was killed in the Democratic Republic of the Congo.
+## Despite praise and White House visits, Trump avoids endorsing Netanyahu
+In a Time interview, Trump avoids directly endorsing Netanyahu but defends him over reported October 7 warnings.
 
-## How was the Flydubai pilot who attacked his co-pilot cleared to fly?
-The Flydubai scare has raised several questions for Israel and the civil aviation industry.
+## Death penalty bill for forest arsonists clears Algeria lower house
+Human rights organisations accused Algiers of using the law to target political opposition groups.
 
-## UAE investigates possible ‘terrorist’ link in attack on flight to Israel
-Investigators will probe whether incident was linked to any 'terrorist activity or intent', UAE state media reports.
+## How AI is reshaping everyday life in China
+How AI is reshaping everyday life in China
 
 ## NFRA flags deeper going concern scrutiny, sets out 35 questions for audit committees
 Cash flows, promoter support, covenant breaches and future funding plans among key areas for auditor scrutiny under SA 570.
