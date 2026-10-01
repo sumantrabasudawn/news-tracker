@@ -1,43 +1,43 @@
 # AION Intelligence
 
-## Burnham criticised over support for Manchester City owners
-Prime minister praised City Football Group, controlled by Sheikh Mansour bin Zayed al-Nahyan, for its part in building modern Manchester
+## Burnham searches for UK alternative to Palantir
+Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts
 
-## Europe braces for ‘severe hybrid attacks’ from Russia, says Merz
-German chancellor says Moscow’s escalation shows ‘desperation’ over war in Ukraine
+## Nike to cut jobs as it forecasts revenue decline in the coming year
+US sneaker and sportswear group to open an India campus under its turnaround plan
+
+## US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran
+Payments group that moved almost $7bn through global banks designated a transnational criminal organisation
+
+## US deploys thousands of troops to Middle East as Trump weighs strikes on Iran
+Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says
 
 ## Top Fed official signals central bank will keep rates on hold in October
 Vice-chair for monetary policy Philip Jefferson echoes dovish remarks made by New York central bank head John Williams
 
+## Media outlet deepens antisemitism claims against French far right’s Jordan Bardella
+Rassemblement National leader and Marine Le Pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist
+
 ## British-Iranian man arrested under terror laws over RAF Fairford incident
 Sixth arrest comes after prime minister says there is ‘strong indications’ of Tehran’s involvement
 
-## Ex-HSBC banker banned for dodging £5,900 in train fares
-Joseph Molloy was convicted this year of using a ‘doughnutting’ scam to avoid paying for tickets
-
-## Europe should take Trump’s diesel ban seriously, if not literally
-Even if the president backs down, his threat should prompt Europe to be more energy independent
-
-## France meets fiscal reality with a crunch
-A surge in borrowing costs leaves the country on the edge of a debt spiral
-
-## Train driver accelerated through red signal before fatal crash
-Investigators say ‘black box’ showed Shaun Burton acknowledged automated alert ahead of Bedfordshire collision
+## Europe braces for ‘severe hybrid attacks’ from Russia, says Merz
+German chancellor says Moscow’s escalation shows ‘desperation’ over the war in Ukraine
 
 ## EU countries in crisis talks over release of diesel stocks
 Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so
 
-## BT seeks government nod for potential TalkTalk takeover
-Telecoms group holds talks with UK officials over possible antitrust issues involved in buying smaller competitor
+## Branching out: Audemars Piguet adds Royal Oak jewellery line to court female buyers
+The watchmaker is building on historic connections with jewellers as pressure increases on the market for timepieces
 
-## Dealmakers line up to test EU’s appetite to create European champions
-As Brussels opens the door to bigger deals within industries, companies look for a test case of the new approach
-
-## Accenture shares surge 22% as consultancy confounds AI fears
+## Accenture shares surge as consultancy confounds AI fears
 Group says revenues could accelerate in the coming year despite worries over demand for its services
 
-## UAE investigates if Flydubai attack was ‘terrorist activity’
-Israel also involved in probe into flight between Dubai and Tel Aviv
+## KPMG general counsel retires after Australia whistleblower scandal
+Retirement of Anne Collins comes as part of a wider leadership transition at the Big Four firm’s global headquarters
+
+## US mortgage rates jump the most in four years in blow to housing market
+Homebuilders and prospective buyers continue to face challenging market conditions with midterms looming weeks away
 
 ## S&P praises Indian economy, but points to gathering clouds
 India beat forecasts while contending with the same inflationary pressures, geopolitical conflicts and slower growth as others
@@ -63,6 +63,9 @@ The ruling adds to mounting legal challenges over a fee that sharply increases t
 ## Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm
 Vrooming ahead: Hero MotoCorp, Honda, TVS Motor had a good outing, while Bajaj Auto saw sales falling 12%
 
+## Tax raid finds Rs 4.34 lakh forex; man wins ITAT case with sister-in-law’s help
+During the operation, officials discovered Rs 1.12 crore in Indian currency and foreign currency worth Rs 4.34 lakh. The man was subsequently taken in for questioning by the tax authorities. Despite the investigation team's acceptance of the explanation, the AO treated both the Indian cash and forei
+
 ## Wife gets late husband’s job, leaves in-laws; HC orders 25% salary in mother-in-law’s account
 In this case, a widow secured a government job under this provision but later allegedly left her late husband's parents on their own. The Rajasthan High Court explained that a compassionate appointment is intended to provide monetary support to a family struggling to cope with the sudden death of it
 
@@ -83,9 +86,6 @@ A pilot test section was laid recently along the main carriageway of NH-44 in Jh
 
 ## Rs 6L cr wiped out! D-Street suffers worst week in 25 yrs; what caused the crash?
 Dalal Street is experiencing its longest losing streak in nearly 25 years, with investors incurring significant losses. Foreign investor outflows and rising US bond yields are contributing to market concerns and pressure. The BSE Sensex and NSE Nifty50 have fallen notably, with major selloffs occurr
-
-## Public sector banks to stay closed on Saturdays? PIB debunks fake govt notification
-PIB Fact Check has debunked claims about a government notification for public sector banks declaring Saturdays as holidays. A fake document circulated on social media created confusion around the banking holiday issue. Public sector banks, including the State Bank of India, have not received any suc
 
 ## Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2
 According to the advisory, special traffic arrangements will remain in place in the areas from 5 am to 11 am on Friday.
@@ -135,6 +135,15 @@ Singapore’s central bank has selected five international asset managers to han
 ## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
 Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
 
+## Hegseth Wants More
+The U.S. defense secretary announced ambitious plans in a “State of the Force” speech.
+
+## Violent Student Protests Loom Over France’s Budget Proposal
+Paris is hoping to rein in the country’s deficit and avoid another no-confidence vote.
+
+## Modi Faces Protest Threat Over Election Commission Scandal
+India’s opposition parties and the Cockroach movement are ready to march over fresh allegations of bias.
+
 ## Oil Is Again Flowing Out of Hormuz
 But the continued shortfall of refined products means little relief at the pump.
 
@@ -149,15 +158,6 @@ Despite shared concerns, stark differences exist in perceptions of AI in the Uni
 
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
-
-## U.S. Forces Leave Behind a Power Vacuum in Iraq
-Washington’s adversaries, including Iran and the Islamic State, are likely to take advantage of the pullout.
-
-## How Far Can Russia Probe NATO’s Collective Defense?
-Latvia’s president warns that Putin’s “appetite for risk is increasing.”
-
-## Ethiopia’s Return to War Threatens to Engulf the Horn of Africa
-Analysts fear that the renewed conflict could quickly draw in other regional actors.
 
 ## Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?
 A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Canada to fast track oil pipeline meant to diversify economy away from US
-Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
+## Brazilian government calls for probe into US funding of far-right causes
+Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
 
-## School protests spread as fires, blockades deepen unrest in France
-Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.
+## 94-year-old Jewish barrister arrested for supporting Palestine Action
+A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
 
-## Palestinian children in Israeli military detention
-Palestinian children in Israeli military detention
+## France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form
+France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured.
 
-## US Supreme Court agrees to take up Trump’s ICE detention policy
-The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.
+## India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup
+The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.
 
-## Renee Good’s family sues Trump administration over fatal ICE shooting
-Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .
+## Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?
+As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.
 
-## Despite praise and White House visits, Trump avoids endorsing Netanyahu
-In a Time interview, Trump avoids directly endorsing Netanyahu but defends him over reported October 7 warnings.
+## Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe
+Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team.
 
-## Death penalty bill for forest arsonists clears Algeria lower house
-Human rights organisations accused Algiers of using the law to target political opposition groups.
+## Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow
+Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.
 
-## How AI is reshaping everyday life in China
-How AI is reshaping everyday life in China
+## Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
+Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria.
 
 ## NFRA flags deeper going concern scrutiny, sets out 35 questions for audit committees
 Cash flows, promoter support, covenant breaches and future funding plans among key areas for auditor scrutiny under SA 570.
