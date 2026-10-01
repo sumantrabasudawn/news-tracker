@@ -1,109 +1,118 @@
 # AION Intelligence
 
-## Global bond sell-off deepens as Asian yields jump
-Japanese and Australian sovereign debt costs mount despite oil price dipping
+## International Criminal Court cuts ties with Axa over US sanctions
+Move follows fears that broad US sanctions on the war crimes tribunal would force the insurer to cease doing business with it or face punishment
 
-## Indian Flydubai pilot praised after disaster averted
-Captain Smit Machchhar fought off attack by co-pilot with help from crew and passengers
+## UAE investigates if Flydubai attack was ‘terrorist activity’
+Israel also involved in probe into flight between Dubai and Tel Aviv
 
-## France and Germany inch towards grand bargain on EU car regulation
-Also in this newsletter: Migration as a ‘political tomb’
+## Israel flight near-miss triggers election furore
+Benjamin Netanyahu’s opponents accuse prime minister of exploiting incident for political gain ahead of this month’s polls
 
-## FirstFT: Big Tech’s heavy Brussels lobbying
-Also in today’s newsletter: US bond rout and warming UK-EU ties
+## Train driver accelerated through red signal before fatal crash
+Investigators say ‘black box’ showed Shaun Burton acknowledged automated alert ahead of Bedfordshire collision
 
-## Boots set to get carved out of private equity
-Buyout firm Sycamore is nearing a $9bn deal to sell the chemist to the billionaire Weston family
+## What does the bond sell-off mean for the global economy?
+Economics leader writer Tej Parikh and European economics commentator Martin Sandbu replied to reader questions
 
-## OpenAI’s agents obscured hacking activity in government site breaches
-New findings by Asymmetric Security provide further evidence of novel tactics AI tools use to conduct hacks
+## Pete Hegseth announces creation of Autonomous Warfare Command
+Also in today’s newsletter, White House holds crisis talks on potential US diesel export ban
 
-## EU steel exports hit by high energy costs, tariffs and China oversupply
-Shipments abroad have fallen by a fifth with production at historic lows
+## Australia’s banks show how to prepare for cable blackouts
+The country is making its financial system resilient enough to withstand the cutting of undersea lines
 
-## UBS should make the positive case for staying Swiss
-Too much doom-mongering may be bad for the bank’s business
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
 
-## Why we can thumb our noses at AI
-Our sense of smell helps us to keep a few shreds of privacy intact and maintains a dividing line between real and virtual worlds
+## EU countries in crisis talks over release of diesel stocks
+Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so
 
-## Manchester City chair shielded by diplomatic immunity
-Khaldoon al-Mubarak was granted immunity six years ago, protecting him from potential legal proceedings in the UK
+## Is circular financing in AI a problem?
+Only if the wheel stops spinning
 
-## King’s bank Coutts hit with new lawsuit after ‘debanking’
-Shipping executive Philip Adkins sues lender over claims it kept dossier of inaccurate information that sparked US probe
+## Is AI supercharging science?
+Productivity gains in analysis are getting stuck in physical-world bottlenecks
 
-## India oil refiners change tactics and hire ships to cross Hormuz
-The shipping regulator, which had earlier banned shippers from deploying Indian staff on voyages to the strait, has softened its advisory, asking shipowners to obtain the consent of Indian seafarers before going through Hormuz
+## Accenture shares surge as consultancy boosts sales
+Firm reports full-year revenues of $74.2bn despite fears of hit to sector from AI
 
-## Sensex today | Stock Market Live: Sensex trades flat, Nifty below 22,560 on weak global cues
-Sensex, Nifty, Share Prices Live: At 11 am, Sensex dipped 63.48 pts or 0.09% to 72,416.81. Nifty 50 slid 66.15 pts or 0.29% to 22,554.30.
+## Who should pay for the LA wildfires?
+The California company at the centre of last year’s blazes has called for a cap on utilities’ wildfire liability
 
-## Piyush Goyal invites Rockwell Automation to expand operations in India
-Goyal extended the invitation to Rockwell Automation during a meeting with the company’s Chairman and CEO Blake Moret in Milwaukee
+## NaBFID raises $750 million in debut US dollar bond issuance
+The 10-year benchmark bond marks the first drawdown under NaBFID’s $4 billion Global Medium-Term Note programme for infrastructure financing
 
-## Sundaram Finance partners with GMT Engineers to finance advanced metal forming machinery
-Collaboration designed to support small and medium-sized manufacturers, job shops, and industrial enterprises
+## Indian govt halves stock limit for traders to 100 tonnes
+The order will come into force from October 15 and will be valid till November 30
 
-## Hyundai Motor India records 'highest-ever' monthly sales in Sept at 77,916 units
-This includes monthly domestic sales of 57,166 units (up 10.9 pc year-on-year) and exports of 20,750 units (up 10.4 pc year-on-year).
+## Disruption on supply routes driving up prices: Oil Minister
+Puri pointed out that the global energy situation remains challenging, but the government is closely monitoring the situation
 
-## Trump says he is still considering diesel export ban
-Trump said an export ban would “have a negative ‌impact on gasoline” prices, but could lower diesel costs
+## CAFE-III Gazette reveals translation error; EV metric differs 10-fold between English and Hindi texts
+English and Hindi texts differ on EV energy measurement; the headline 30 km/l equivalent benchmark does not translate into the same physical fuel consumption
 
-## Moneyview shares debut at 63.5% premium, A-One Steels at 14% premium
-The Moneyview IPO comprised a fresh issue of shares worth ₹750 crore and an OFS of 10.05 crore equity shares
+## KFintech, APMI launch anti-money laundering platform
+APMI has adopted InPro as the central AML compliance platform for its members, providing portfolio managers across the industry access to a common technology infrastructure for screening, reviewing and managing AML alerts
 
-## Anarock Property Consultants files papers for ₹1,000-crore IPO
-The proposed IPO comprises a fresh issue of equity shares aggregating up to ₹550 crore and an Offer-for-Sale (OFS) of up to ₹450 crore
+## INOX Air Products files DRHP for IPO; existing shareholders to sell up to 7.72 cr shares
+The proposed IPO will see existing shareholders sell up to 77,156,663 equity shares of face value ₹1 each
 
-## Gold price prediction: Where are gold and silver headed on October 1, 2026?
-Gold and silver price prediction today: MCX Gold has moved higher after taking support near the 147,000 levels, indicating renewed buying interest at lower levels. The price structure remains positive as gold continues to hold above its key support zone, suggesting that the broader uptrend is still 
+## Swiss logistics major Kuehne+Nagel opens Chennai tech centre
+To accelerate the launch, Kuehne+Nagel is working with Accenture to support the build-up of the workforce
 
-## Scotch whisky gets cheaper in India after trade deal with US; check new prices
-Under the India-UK agreement, the import tariff on British whisky was reduced to 75% from 150%, effectively cutting the rate by half. The tariff is scheduled to decline further to 40% over the next 10 years. However, the reduction in import duty does not result in a similar reduction in the final re
+## Renaissance keen to invest ₹5,000 crore in Tumakuru: MB Patil
+The company has highlighted two key requirements for the proposed facility — 80 MW of power and 10 MLD of water
 
-## Senior citizen wrongly paid tax on Rs 25.42 lakh bond interest; ITAT orders Rs 9.91 lakh refund
-Each year, the senior citizen reported the interest earned from his investments in tax-free bonds under the ‘exempt income’ category in his income tax return (ITR). But made a mistake in one year. The man realised the error only after the deadline for filing a revised ITR had passed. He therefore ap
+## Indian IT sector layoffs: Which jobs are facing pressure & which skills are in demand?
+AI is not just making some jobs in the Indian IT sector obsolete, it is also forcing firms to adapt their business models as the demand for their traditional services faces disruption. In FY27, hiring is expected to remain subdued, while attrition is increasingly being backfilled selectively rather 
 
-## Piyush Goyal gets a ‘trade minister for life’ tag from US trade chief at G20
-At the G20 trade ministers' meeting in Milwaukee, US trade representative Jamieson Greer discussed key trade issues with Indian minister Piyush Goyal. They focused on food security, steel overcapacity, and the Most-Favoured-Nation principle, which Greer suggested re-examining. Goyal emphasized the i
+## Gadkari backs IIT tech; waste plastic used in bitumen for national highway for first time
+A pilot test section was laid recently along the main carriageway of NH-44 in Jhansi. Officials involved in the pilot said the technology could lower the consumption of conventional bitumen by around 4%, reducing demand for a material that India largely imports to meet its domestic needs.
 
-## Mother and nominee son died; bank delayed funds to father, ordered to pay Rs 15,000
-A woman had Rs 62,541 in her savings account. Her son was registered as the nominee. Both the mother and son passed away, leaving her 83-year-old husband as the only surviving member of the family. The man was a farmer and was not very familiar with English.
+## Rs 6L cr wiped out! D-Street suffers worst week in 25 yrs; what caused the crash?
+Dalal Street is experiencing its longest losing streak in nearly 25 years, with investors incurring significant losses. Foreign investor outflows and rising US bond yields are contributing to market concerns and pressure. The BSE Sensex and NSE Nifty50 have fallen notably, with major selloffs occurr
 
-## LPG price hike: 19-kg commercial cylinder gets Rs 62.50 costlier
-The cost of 19-kg commercial LPG cylinders has surged by Rs 62.50, now totaling Rs 2,810. Similarly, aviation turbine fuel (ATF) prices have jumped by around Rs 16 per litre, reaching Rs 137. From October 1, 2026, users will need biometric Aadhaar authentication to book subsidized LPG refills. Failu
+## Public sector banks to stay closed on Saturdays? PIB debunks fake govt notification
+PIB Fact Check has debunked claims about a government notification for public sector banks declaring Saturdays as holidays. A fake document circulated on social media created confusion around the banking holiday issue. Public sector banks, including the State Bank of India, have not received any suc
 
-## Son claims share in mother’s house, cites Rs 2.1 lakh given; couple ordered to vacate
-The case involved a son who continued living in his mother's house after his marriage despite having no independent title over the property. His mother, meanwhile, relied on a General Power of Attorney (GPA), an Agreement to Sale and a Will as documents establishing her ownership of the house.
-
-## Stock market today: BSE Sensex tumbles over 90 points, NSE Nifty50 opens below 22,600
+## Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95
 
 
-## Kannada actor Ranya Rao fined ₹89 crore in gold smuggling case, 3 others face ₹155 crore penalty
-Customs penalised four accused more than ₹244 crore after its investigation into an alleged gold smuggling network linked to Dubai.
+## GST collections cross Rs 2 lakh crore again, rise 14.7% in September
+India's GST collections soared past Rs 2 lakh crore in September, showcasing a commendable increase. Revenue from local transactions saw a growth of 10.1%, significantly boosting total collections. Meanwhile, GST revenues linked to imports surged by 25.9%, leading to demands for a detailed evaluatio
 
-## RSS to meet in Indore in November, roll out structural changes
-The meet will deliberate on the current political and social issues, including the Opposition’s sharpened attacks on the Centre over SIR.
+## Anthropic IPO Risks and Power: draft filing flags existential AI threat; governance concentrates control
+Anthropic plans a significant IPO, targeting a $2 trillion valuation emphasizing both transformative potential and risks of advanced AI. The company highlights that AI can enhance quality of life but also poses existential risks if not properly managed. Its prospectus dedicates substantial space to 
 
-## Odisha chief electoral officer Gopalan applies for voluntary retirement after SIR
-Gopalan submitted his voluntary retirement application on Wednesday a week after the completion of the SIR in the state
+## Fake gold hallmark stamps may rise; GJC flags fraud risk for buyers
+Consumers bear the hallmarking cost when purchasing jewellery. However, many buyers are still unaware that they can verify the Hallmark Unique Identification (HUID) number through the Bureau of Indian Standards' Care mobile application. Data from the government cited by the GJC shows that the number
 
-## Geopolitical tensions, high crude may fuel India's imported inflation, says government report
-INDIA-ECONOMY:Geopolitical tensions, high crude may fuel India's imported inflation, says government report
+## Odisha woman stripped, assaulted in public by villagers on witchcraft suspicion: Police
+The incident took place on September 25, but the woman lodged a complaint on Wednesday, following which police registered a case against six people, including two women
 
-## From stole to stage: Mamata and Sonia's bond outlasts political upheavals
-To be sure, the equation between the Trinamool (Mamata) and the Congress had not always been entirely smooth in the recent past.
+## Two arrested for attack on Tipra Motha candidate during TTAADC polls in Tripura: Police
+Khachindra Reang (34), who was contesting from Ward No. 2 of the Gamaria Village Committee, was injured after unidentified persons allegedly opened fire as he got down from a vehicle
 
-## PM Modi speaks to Indian pilot Smit Machchhar's wife and parents after he leads brave landing of flydubai flight: Sources
-Smit Machchhar, the captain of flydubai flight FZ1073, was seriously injured after being attacked by his co-pilot during the flight.
+## Harwinder Kumar deported from UAE, arrested by NIA in Vikas Prabhakar murder case
+VHP’s Vikas Prabhakar was shot dead by terrorists belonging to a BKI module in his confectionery shop at Nangal, district Roopnagar, Punjab, on April 13, 2024
 
-## Bhopal court sentences 2, years after missing truck unraveled 30 murders
-Eight years after their arrest, a Bhopal court sentenced Khambra and Prajapati to double life imprisonment on Wednesday
+## HT Evening Brief Oct 1: Meet the 4 heroes of flydubai who helped Indian pilot; Prasidh Krishna ruled out of West Indies ODI final
+Here are the top headlines from the day covering India, the world, entertainment and sports.
 
-## Warm morning in Delhi as min temp rises to 24°C; AQI remains ‘moderate’
-The air quality was recorded in the ‘moderate’ category at 9 am, with an Air Quality Index (AQI) reading of 161
+## Pargat Singh or Vijay Singla? Who could be the next Punjab Congress chief after Amarinder Warring's exit
+The appointment would be a significant one, owing to the upcoming Assembly elections in Punjab, expected to held in February next year.
+
+## Woman tracks husband's phone, sends men to rape his female friend after duo checks into Kerala lodge
+The gang allegedly posed as cops and barged into the lodge room from where the two were forcibly taken away in a car.
+
+## Amazon, Flipkart review CCTV camera listings on selling platforms in India after report flags ‘security risk’
+The e-commerce companies were reviewing internet-enabled surveillance cameras listed by third-party sellers, says a report.
+
+## CJP to launch nationwide protest from Oct 2, seeks Gyanesh Kumar’s resignation
+Cockroach Janata Party (CJP) founder Abhijeet Dipke has announced a nationwide agitation from October 2 over alleged irregularities in electoral rolls
+
+## Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca
+Hong Kong can attract more global biotech investments if the city builds up a new healthcare financial model, according to AstraZeneca, a Cambridge-based multinational pharmaceutical giant. While global drug makers have been doubling down on investments in mainland China in recent years, AstraZeneca
 
 ## China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off
 Chinese automotive groups have cause to celebrate their go-global strategy amid breakneck export growth in recent years, with deliveries in 2026 expected to beat expectations already buoyed by an international energy shock caused by conflict in the Middle East. Leading carmakers from BYD to Chery Au
@@ -125,9 +134,6 @@ Singapore’s central bank has selected five international asset managers to han
 
 ## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
 Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
-
-## How Hong Kong entices Europe’s young start-up talent
-Hong Kong’s efforts in advancing the city’s innovation and technology (I&T) industry have been highlighted in a number of international surveys in recent years. One of the most recent was the International Institute for Management Development’s “World Competitiveness Ranking 2026”, which placed Hong
 
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
@@ -153,6 +159,21 @@ Brazil’s leftist leader has unusually put military spending at the heart of hi
 ## Populism’s New Rallying Cry Is ‘Expropriation’
 Germany’s leftist party swept to victory in Berlin by vowing to confiscate and socialize housing.
 
+## The Woman Who Held Mahathir’s Hand For 70 Years
+Siti Hasmah Mohamad Ali, who died this week aged 100, was a close companion of Mahathir throughout his long and tumultuous political career.
+
+## Can Myanmar’s New Government Revive the Stalled Dawei SEZ Project?
+The flagship project struggled even during Myanmar’s decade of opening. Attempting to revive it amid conflict and sanctions will test its economic and strategic rationale.
+
+## UN Refugee Agency Expresses Concerns About Malaysia’s Deportation of Asylum Seekers to Myanmar
+The statement came as Kuala Lumpur confirmed plans to deport a further 3,500 people as part of its "voluntary repatriation program" with Myanmar.
+
+## China’s Military Open New Logistics and Training Facility in Laos
+The center north of Vientiane, a counterpart to a similar naval facility in Cambodia, marks a further extension of Beijing's security presence in mainland Southeast Asia.
+
+## Japan Has Been Here Before: The 1987 Persian Gulf Crisis
+When the Gulf was last closed to tankers, Tokyo faced the same dilemma it faces today.
+
 ## Who Is Russia’s New Ambassador to North Korea?
 What can Andrei Podelyshev’s appointment tell us about North Korea-Russia relations?
 
@@ -162,20 +183,11 @@ Insights from Jouko Ahvenainen.
 ## Australia Launches Bid for a UN Security Council Seat
 If Australia is successful in returning to the council in 2029, it will be under significantly different circumstances than when it last held a seat.
 
-## Why Is Brazil So Interested in ASEAN?
-With its traditional markets less reliable, Brazil sees immense potential in Southeast Asia's growing economies.
+## MacGyver at Scale: Winning Future Air Wars of Rapid Technological Adaptation
+During a recent training exercise in the western Pacific, a small group of engineers single-handedly saved the day.In the scenario, adversary covert forces used first-person view drones to intercept American helicopters that were shuttling between austere forward island airbases. Some helicopters we
 
-## What Will Indonesia Do With Its New Aircraft Carrier?
-The KRI Sriwijaya is a small aircraft carrier and may be better understood as an amphibious support ship.
-
-## Goodbye, ‘China Plus One’: The Real Change in US China Policy
-Beneath the pageantry, here's the change that matters: Washington has stopped talking about leaving China.
-
-## India’s Javelin Deal: The Unending Loop of Procurement
-The deal is one of the earliest defense deals between India and the U.S. It is also the one that dragged on the longest.
-
-## The Future of Shipbuilding in Southeast Asia
-There are significant opportunities – and risks.
+## School of War or School of Battle? Educating for an Uncertain Future
+In 1901, military analyst Jan Bloch declared that new military technologies had changed war so radically that the study of history had become useless. He castigated military officers who prepared for future war based on “musty precedents” and who failed to recognize that the past was as irrelevant t
 
 ## Triumph or Procrastination? Experts Split on the Trump-Xi Summit
 Over the better part of three days, President Donald Trump hosted Chinese President Xi Jinping in Washington for a summit that drew international attention for its high-stakes agenda, from trade and AI to Taiwan. While some experts saw the summit as an exercise in kicking the can down the road on ma
@@ -194,12 +206,6 @@ The Pentagon describes Golden Dome for America as a “system of systems,” an 
 
 ## The Discipline of Refusal: Constitutional Concerns About Lawful Orders in the U.S. Military
 Military doctrine gives officers a clear rule for manifestly unlawful orders: Refuse them. It offers no comparable rule when lawful action appears to threaten the constitutional structure the military serves. The first response is neither refusal nor resignation, but rather deliberative friction.Del
-
-## The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course
-Analogies for artificial intelligence abound. In recent years, analysts have likened the development of AI to the advent of electricity, the Industrial Revolution, contact with extraterrestrials, and at least fifty other things. One analogy, however, appears to have won out over the rest: AI is like
-
-## Why the Week’s Most Important Story Went Unwritten
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,38 +231,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India vs Pakistan live: Asian Games hockey semifinal
-Follow our build-up to the match in Japan, field hockey rivalry history, score, photos and live text commentary.
+## Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault
+Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.
 
-## Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs
-After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.
+## Activists protest Indian police raid over kite-flying event for Palestine
+Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.
 
-## Mourners bury DR Congo official killed after defending Ebola response
-Marie-Celestin Karondwa died of his injuries after being beaten at his home in Butembo, an Ebola hotspot, on Sunday.
+## Botswana at 60 challenges the story of postcolonial African failure
+Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.
 
-## Gaza prepares to bury 105 Palestinians killed in October 2023
-The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.
+## Nigeria charges man accused of faking government agency
+What if you could invent a government agency and get the government to fund it?
 
-## ‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves
-Scientists are warning that Switzerland's glaciers have lost an ‘enormous’ amount of ice this year.
+## Zimbabwe businessman Wicknell Chivayo killed in helicopter crash
+The high-profile businessman known for his political connections was one of six people killed in the crash.
 
-## Execution of US woman Christa Pike fails after botched lethal injection
-The high-profile execution of murderer Christa Pike is in disarray after two lethal injections failed to kill her.
+## Funeral held for DR Congo politician killed after defending Ebola response
+A funeral has been held for the politician who was killed in the Democratic Republic of the Congo.
 
-## Pakistan says 22 fighters killed in air attacks on Afghanistan
-Kabul says the strikes on Kunar and Helmand provinces killed nine women and children.
+## How was the Flydubai pilot who attacked his co-pilot cleared to fly?
+The Flydubai scare has raised several questions for Israel and the civil aviation industry.
 
-## South Korea’s exports hit record high on AI boom
-Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.
+## UAE investigates possible ‘terrorist’ link in attack on flight to Israel
+Investigators will probe whether incident was linked to any 'terrorist activity or intent', UAE state media reports.
+
+## NFRA flags deeper going concern scrutiny, sets out 35 questions for audit committees
+Cash flows, promoter support, covenant breaches and future funding plans among key areas for auditor scrutiny under SA 570.
+
+## Corporate Laws Bill: JPC seeks 25% ceiling on buybacks as Centre reworks rules
+Panel backs two buybacks a year for specified companies but wants equity share limit retained in law, narrowing scope for a higher percentage to be prescribed.
+
+## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
+Aggregation of CA Firms committee chairman, vice chairman meet DoE Secretary; institute working on draft proposing Rs 5 crore government consulting contracts for small and mid sized firms, with joint credentials for registered network firms.
 
 ## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
 From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
 
 ## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
 DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
-
-## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
-Aggregation of CA Firms committee chairman, vice chairman meet DoE Secretary; institute working on draft proposing Rs 5 crore government consulting contracts for small and mid sized firms, with joint credentials for registered network firms.
 
 ## Britannia rejigs top brass: N Venkataraman new Deputy MD, R Jayaraman to be CFO
 Venkataraman has been with the company since 2007 and will now oversee its finance, strategy, legal, secretarial and IT functions alongside Hargave, Britannia said. He previously worked in finance roles at Eicher Motors and Hindustan Aeronautics.
@@ -267,11 +279,14 @@ Tata Trusts have proposed merging Tata Electronics Systems Solutions and Tata Co
 ## Four Adani Group companies settle public shareholding violations case with Sebi. Check details
 Adani Enterprises and three other companies have settled with Sebi over minimum public shareholding violations. The total settlement amount paid by the companies and directors is Rs 1.48 crore. Sebi initiated its investigation after receiving complaints in 2020 regarding non-compliance with public s
 
-## Finance Ministry seeks banks' inputs on AI tools for loan collection, assesses adoption
-The finance ministry has sought feedback from banks on their use of AI-driven loan collection tools to assess adoption and customer-protection practices. Most banks are using AI for borrower engagement and repayment, while only a few have implemented conversational AI for collections.
+## RBI likely to lift repo by up to 75 bps amid geopolitical uncertainty: Report
+Reserve Bank of India may raise the policy repo rate by 50-75 basis points in the current cycle amid heightened macroeconomic headwinds and geopolitical uncertainty, a report said on Thursday.
 
-## Tata companies face a tough call on Chandra vote at AGM
-Tata Group companies are preparing for the upcoming AGM concerning N Chandrasekaran's reappointment as a director. These companies, including Tata Motors and Tata Steel, own a significant stake in Tata Sons. Noel Tata has expressed opposition to Chandrasekaran's reappointment, complicating the votin
+## NSE gets SEBI nod for proposed Corporate Bond Index Futures
+The National Stock Exchange of India (NSE) has received a No Objection Certificate (NOC) from the Securities and Exchange Board of India (SEBI) to introduce futures contracts on a Corporate Bond Index, a move aimed at providing market participants with an exchange-traded tool for managing corporate 
+
+## RBI’s success on dollar flows raises stakes in inflation fight & clamour for rate hike
+India’s record $133 billion diaspora inflow has flooded banks with liquidity, pushing overnight rates below the RBI’s 5.25% policy rate. The Reserve Bank has already drained more than ₹1 trillion as food and oil prices fuel inflation concerns. Markets now expect further liquidity measures and are in
 
 ## India extends RoDTEP scheme till December 31, keeps export refund rates unchanged
 The government extended the Remission of Duties and Taxes on Exported Products scheme until December 31, 2026. This extension ensures that exporters receive continued refunds for eligible duties and taxes incurred during production. The existing rates and caps for the scheme remain unchanged during 
@@ -287,13 +302,4 @@ The government plans to extend the Remission of Duties and Taxes on Exported Pro
 
 ## India flags concerns over US Russia sanctions law, warns of impact on ties, energy market
 Foreign Secretary Vikram Misri met a US Congressional delegation led by Brian Mast in New Delhi. Misri conveyed concerns regarding the implications of the Sanctioning Russia and Iran Act on bilateral relations. The Act permits high tariffs on countries purchasing Russian oil, affecting India directl
-
-## Panel proposes raising RBI's ways and means advances corpus by 11.2% to Rs 67,839 crore
-The panel has also recommended an annual review of the WMA corpus capping annual upward revision at 4%. The extent of upward revision could be based on the last three years of accounts while there would be no reduction in the existing limit.
-
-## RBI now has less room to keep interest rates unchanged: Report
-Rising crude oil prices, inflation and higher bond yields globally has narrowed Reserve Bank of India's room to hold rates unchanged, a report said on Tuesday.
-
-## FCNR(B) liquidity may squeeze bank margins, offer relief to NBFCs: Report
-Banks with higher FCNR(B) mobilisation could face sharper margin pressure in the second quarter of FY27, while increased banking-system liquidity could help contain funding costs and cushion margins for NBFCs according to a report by Nuvama.
 
