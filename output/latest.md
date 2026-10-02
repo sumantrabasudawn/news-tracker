@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## South Korea brings powerful prosecution agency to heel
+Overhaul is a victory for reformers, though some fear it could leave an investigative vacuum
+
+## Bangkok cements its place as gem-trading hub
+The expertise the Thai capital can offer and its breadth of coloured stones continue to draw clients from across the world
+
+## Japanese watchmakers push for overseas growth
+Exports are rising as brands large and small attract more buyers beyond their home market
+
 ## Burnham searches for UK alternative to Palantir
 Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts
 
@@ -15,29 +24,17 @@ Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the 
 ## Top Fed official signals central bank will keep rates on hold in October
 Vice-chair for monetary policy Philip Jefferson echoes dovish remarks made by New York central bank head John Williams
 
-## Media outlet deepens antisemitism claims against French far right’s Jordan Bardella
-Rassemblement National leader and Marine Le Pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist
+## Watches and Jewellery: October
+Japan’s watchmakers expand overseas; sharper diamond cuts move into the spotlight; how Caroline Scheufele shaped a Chopard mainstay; crafts revive ancient techniques from Japan; the appeal of rare sannan skarn; watch industry divide deepens over gender labels
 
-## British-Iranian man arrested under terror laws over RAF Fairford incident
-Sixth arrest comes after prime minister says there is ‘strong indications’ of Tehran’s involvement
-
-## Europe braces for ‘severe hybrid attacks’ from Russia, says Merz
-German chancellor says Moscow’s escalation shows ‘desperation’ over the war in Ukraine
+## What makes a woman’s watch? Industry divide deepens over gender labels
+As female buyers drive sales growth, the split is widening among brands between maintaining the category status quo and offering unisex designs
 
 ## EU countries in crisis talks over release of diesel stocks
 Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so
 
 ## Branching out: Audemars Piguet adds Royal Oak jewellery line to court female buyers
 The watchmaker is building on historic connections with jewellers as pressure increases on the market for timepieces
-
-## Accenture shares surge as consultancy confounds AI fears
-Group says revenues could accelerate in the coming year despite worries over demand for its services
-
-## KPMG general counsel retires after Australia whistleblower scandal
-Retirement of Anne Collins comes as part of a wider leadership transition at the Big Four firm’s global headquarters
-
-## US mortgage rates jump the most in four years in blow to housing market
-Homebuilders and prospective buyers continue to face challenging market conditions with midterms looming weeks away
 
 ## S&P praises Indian economy, but points to gathering clouds
 India beat forecasts while contending with the same inflationary pressures, geopolitical conflicts and slower growth as others
@@ -47,6 +44,9 @@ The increase is particularly pronounced in construction products linked to oil i
 
 ## Solar manufacture: India’s success story
 
+
+## Top Business & Market Headlines Today — BL Morning Report, October 2, 2026
+BL Morning Report October 2, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.
 
 ## Spotlight: Kotak Mahindra Bank’s MD & CEO designate Saha could shift advances mix in favour of retail lending
 Retail veteran to lead the private bank from January 2027
@@ -60,56 +60,59 @@ The change comes just before the RBI’s MPC meet, with analysts expecting a rep
 ## Trump’s $100,000 H-1B visa fee blocked again by US federal judge
 The ruling adds to mounting legal challenges over a fee that sharply increases the cost of hiring highly skilled foreign workers
 
-## Maruti, Tata, M&M, Hyundai see sales growth in September, led by sustained customer enthusiasm
-Vrooming ahead: Hero MotoCorp, Honda, TVS Motor had a good outing, while Bajaj Auto saw sales falling 12%
-
-## Tax raid finds Rs 4.34 lakh forex; man wins ITAT case with sister-in-law’s help
-During the operation, officials discovered Rs 1.12 crore in Indian currency and foreign currency worth Rs 4.34 lakh. The man was subsequently taken in for questioning by the tax authorities. Despite the investigation team's acceptance of the explanation, the AO treated both the Indian cash and forei
-
-## Wife gets late husband’s job, leaves in-laws; HC orders 25% salary in mother-in-law’s account
-In this case, a widow secured a government job under this provision but later allegedly left her late husband's parents on their own. The Rajasthan High Court explained that a compassionate appointment is intended to provide monetary support to a family struggling to cope with the sudden death of it
-
-## Govt limits sugar stock limit to 1,000 quintals ahead of festive season
-The Centre will implement new stock limits for sugar dealers starting October 15 until November 30. The inventory cap has been set at 1,000 quintals with a 15-day holding period. This decision follows a notable decrease in ex-mill sugar prices and aims to control hoarding during the festive season. 
-
-## BMW left overnight after puncture, found burnt; insurer rejects claim, commission orders Rs 70L
-According to the complaint filed by the man, he left the BMW on the highway overnight after it suffered a puncture. However, the next morning the vehicle was found to be completely burnt. The incident was subsequently recorded by the local police and fire department. The BMW carried an Insured Decla
-
-## Finance ministry projects 7.3% Q2 growth as economy maintains momentum
+## RBI eases rules for DIIs to buy bank shares
 
 
-## Indian IT sector layoffs: Which jobs are facing pressure & which skills are in demand?
-AI is not just making some jobs in the Indian IT sector obsolete, it is also forcing firms to adapt their business models as the demand for their traditional services faces disruption. In FY27, hiring is expected to remain subdued, while attrition is increasingly being backfilled selectively rather 
+## Sensex slides to over 2-year low as FPIs keep selling
 
-## Gadkari backs IIT tech; waste plastic used in bitumen for national highway for first time
-A pilot test section was laid recently along the main carriageway of NH-44 in Jhansi. Officials involved in the pilot said the technology could lower the consumption of conventional bitumen by around 4%, reducing demand for a material that India largely imports to meet its domestic needs.
 
-## Rs 6L cr wiped out! D-Street suffers worst week in 25 yrs; what caused the crash?
-Dalal Street is experiencing its longest losing streak in nearly 25 years, with investors incurring significant losses. Foreign investor outflows and rising US bond yields are contributing to market concerns and pressure. The BSE Sensex and NSE Nifty50 have fallen notably, with major selloffs occurr
+## Chinese phone covers face anti-dumping duty
 
-## Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2
-According to the advisory, special traffic arrangements will remain in place in the areas from 5 am to 11 am on Friday.
 
-## Why did the Congress decide to remove Amarinder Singh Raja Warring?
-Congress's Sachin Pilot, who replaced Bhupesh Baghel as AICC general secretary in-charge on Sept 5, held a series of discussions with state leaders and MPs.
+## As inflation bites, shoppers count every penny
 
-## From guns to classrooms: Eight former Maoists clear Class 10 exam in Chhattisgarh’s Bastar
-Eight surrendered Maoist cadres in Chhattisgarh’s Bastar have cleared the Class 10 exam, with former cadres now pursuing education, nursing, farming and business plans.
 
-## Gujarat govt compulsorily retires two IAS officers under ‘Operation Gangajal’
-The Gujarat government on Thursday compulsorily retired two Indian Administrative Service (IAS) officers, K Rajesh and Gaurav Dahiya
+## Economy may expand 7.3% in July-September, says finance ministry
 
-## Capt Smit Machchhar shifted to Abu Dhabi, closely monitoring his health: MEA on flydubai Indian pilot
-Indian ambassador in UAE met the pilot's family and assured them that all possible support will be extended for his health and well-being.
 
-## Amit Shah chairs meet over Odisha-Chhattisgarh Mahanadi water dispute: Key takeaways
-Chhattisgarh CM Vishnu Deo Sai has called for a fair and sustainable resolution to the long-standing Mahanadi water-sharing dispute with Odisha.
+## Anup Bagchi: ICICI pro who'll steer HDFC Bank
 
-## SC seeks affidavit from UP govt on arrests, safety compliance after Yamuna Expressway bus fire
-SC sought affidavit from UP government on action taken against driver, owner of sleeper bus whose fire in Greater Noida killed nine passengers last month
 
-## ‘Dumping ground for anti-socials’: Rebel TMC MLA Madan Mitra as he hints at quitting politics after 30 years
-Madan Mitra was among the TMC MLAs who jumped the ship and joined the rebel camp under Ritabrata Banerjee after the TMC's Bengal poll debacle.
+## Banks, NPCI to ensure MDR not passed on: SBI
+Chairman Setty says bank aspires to increase UPI transactions through Yono to 5cr per day
+
+## Macro data signals growth: Sept GST jumps 14.7%; auto, UPI, PE-VC stay strong
+GST collections rise 15%, dispatches from top 5 car companies grow in double-digit
+
+## MCD amends park rules in Delhi: Ornamental parks with 5-year event history can host social, religious functions
+Only parks with at least five years of continuous booking history can be considered, while no new ornamental park will be added to the booking system.
+
+## CJP protest Mumbai LIVE: Dipke to lead stir demanding Gyanesh Kumar's resignation, meets students in Chembur
+CJP protest Mumbai LIVE: The first demonstration will be held at 4pm at Gate No. 6 of Chhatrapati Shivaji Maharaj Park, the Cockroach Janta Party said in a statement.
+
+## Keralam: Wife hires men to abduct husband, rape girlfriend
+A woman was abducted and raped and her boyfriend was severely beaten by a six-member gang who were allegedly hired by the man’s wife, police officers in Keralam’s Thrissur said on Thursday
+
+## Delhi Police says no permission granted for Jantar Mantar protest, gears up security
+AISA plans a demonstration over electoral roll issues, while the Indian Youth Congress was also denied permission for a protest.
+
+## Goa SIR: 88 of 97 left-out voters re-included after Form 6; 3 of remaining 9 hold Portuguese passports
+Officials said three of the remaining voters were Portuguese passport holders, while six were living abroad and officials were trying to contact them.
+
+## People will decide country’s fate: AISA’s Neha Bora ahead of Jantar Mantar protests
+Neha Bora shares her insights into the central focus of the protests adding that the demand for accountability is a wildfire spreading across the country
+
+## 'Fake news': CJP denies Abhijeet Dipke's Mumbai detention reports ahead of protest. He posts a selfie
+The CJP is set to lead a protest at Mumbai’s Shivaji Park at 4 pm today, demanding Gyanesh Kumar’s resignation and changes to the SIR process.
+
+## Jantar Mantar protest LIVE: Section 163 imposed in Delhi as student groups gear for up for protest despite no nod
+Jantar Mantar protest LIVE: The proposed march by the Students' Federation of India (SFI) and the Democratic Youth Federation of India (DYFI) has not been granted permission by Delhi Police.
+
+## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
+China’s quantitative investing sector has produced 18 funds managing more than 10 billion yuan (US$1.5 billion) in assets each so far this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms are among 159 Chinese hedge funds over
+
+## Could Northern Metropolis draw educational leasing from Hong Kong’s Grade A office sector?
+As education sector demand supports Hong Kong’s Grade A office leasing activity, analysts said infrastructure that will serve the Northern Metropolis could decide whether schools and universities move their administrative and other services to this potential new centre of the city. “Over the medium 
 
 ## Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca
 Hong Kong can attract more global biotech investments if the city builds up a new healthcare financial model, according to AstraZeneca, a Cambridge-based multinational pharmaceutical giant. While global drug makers have been doubling down on investments in mainland China in recent years, AstraZeneca
@@ -128,12 +131,6 @@ New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 bill
 
 ## DFI Retail sells stake in Maxim’s in return for Starbucks business, US$340m
 Maxim’s Caterers has struck a deal to buy back its shares from DFI Retail Group for US$340 million plus control of its licensed Starbucks business, according to an exchange filing released on Wednesday. The deal will mark the start of a fresh chapter for Maxim’s, bringing an end to decades of part o
-
-## Singapore beefs up rivalry with Hong Kong by picking 5 firms to boost equity market
-Singapore’s central bank has selected five international asset managers to handle S$1.45 billion (US$1.3 billion) in locally focused equity strategies, making its latest effort to revive the city state’s stock market amid sharpening rivalry with regional financial hub Hong Kong. Amundi, Franklin Tem
-
-## Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead
-Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980. A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data re
 
 ## Hegseth Wants More
 The U.S. defense secretary announced ambitious plans in a “State of the Force” speech.
@@ -159,6 +156,12 @@ Despite shared concerns, stark differences exist in perceptions of AI in the Uni
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
 
+## Can Kashmir Learn From India’s Gen Z Movement?
+J&K has lost its statehood, local governance, and even the right to protest. But there is still a way to resist.
+
+## As University of Tokyo Gets Its First Female President, How Far Is Japan From Gender Equality?
+Fujigaki Yuko’s selection sparked controversy – and shone a light on Japan’s stubborn gender gap.
+
 ## Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?
 A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.
 
@@ -176,12 +179,6 @@ India is in a unique position as a founding member and one of its biggest borrow
 
 ## Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency
 Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.
-
-## Central Asia’s Diplomatic Balancing Act on Display from Bishkek to New York
-Central Asia aligns rhetorically with Beijing and Moscow in regional group settings, materially with Washington in bilateral deals, and with no one in particular at the United Nations.
-
-## Officials Detained as Kazakhstan Mourns Soldiers Perished at Sea
-Five military officials were arrested in connection to the deaths of 14 servicemen lost at sea during a combat exercise in southwestern Kazakhstan, as a day of national mourning is observed.
 
 ## Jaw-Jaw With Belarus, Revisited Amid Ukraine War
 In 2021, Michael Kimmage wrote, “Belarus and the Ukraine Trap,” where he argued the United States should adopt a realistic diplomatic relationship with Belarus that takes into account its strategic partnership with Russia and learns from overpromises made to Ukraine. Five years later, we asked Micha
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Brazilian government calls for probe into US funding of far-right causes
-Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
+## Everything you need to know about Brazil’s tight presidential race
+Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.
 
-## 94-year-old Jewish barrister arrested for supporting Palestine Action
-A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
+## The price Europe pays for keeping AI under control
+The European Union (EU) has introduced some of the world's strictest Artificial Intelligence (AI) laws.
 
-## France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form
-France face neighbours Italy in new coach Zinedine Zidane's first home game, with Mbappe out injured.
+## Pot banging protests across Spain over housing crisis
+Hundreds of protesters across Spain took part in pot banging demonstrations to demand political action over housing
 
-## India vs Pakistan scheduled for October 10, 2027 at Cricket World Cup
-The rivals have been grouped together again, along with holders Australia, as ICC announces schedule for the tournament.
+## Trump launches midterms campaign blitz amid record low approval ratings
+In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs.
 
-## Tyson Fury vs Anthony Joshua fight confirmed, but is the bout too late?
-As Fury and Joshua confirm long-awaited boxing fight, Al Jazeera explains the delays and exchanges between the sides.
+## Trump says US may ask Europe to release diesel reserves
+Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.
 
-## Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe
-Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team.
+## UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays
+Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.
 
-## Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow
-Putin warned the West he would deploy nuclear weapons if necessary to defend the Russian Baltic exclave of Kaliningrad.
+## Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz
+US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.
 
-## Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
-Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo's absence not felt by Portugal in Austria.
+## Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
+1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.
 
 ## NFRA flags deeper going concern scrutiny, sets out 35 questions for audit committees
 Cash flows, promoter support, covenant breaches and future funding plans among key areas for auditor scrutiny under SA 570.
