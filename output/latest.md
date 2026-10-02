@@ -1,46 +1,58 @@
 # AION Intelligence
 
-## Quant hedge funds reap big gains from global bond sell-off
-Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears
+## Widdecombe murder suspect charged with preparing terror acts against Farage
+UK’s Counter Terrorism Policing force charges Joshua Kerry after ‘complex investigation’
 
-## G7 agrees to release 100mn barrels of diesel and crude under pressure from Trump
-French President Emmanuel Macron announces move in response to threatened US ban on exports of the fuel
-
-## Pedro Sánchez loses vote on Spanish housing reform
-Parliamentary setback could push premier to call early elections
-
-## Israel’s top court overturns ban of Arab parties in upcoming election
-Supreme Court’s unanimous ruling clears way for Ra’am and Joint List to run and potentially swing balance in event of hung parliament
-
-## US economy adds just 29,000 jobs in September as hiring slows sharply
-Figure prompts traders to rein in bets on further Fed rate rises
+## October fall
+Expectations for the Federal Reserve to raise rates later this month have drifted lower
 
 ## Italy and Greece seek leeway on EU fiscal rules
 Fuel price support and rising inflation put pressure on countries’ public finances
 
-## Argentina to sell ‘golden passports’ by end of year
-Cash-strapped country will be one of world’s largest to offer citizenship by investment
+## ‘Amateurism and organisation’: Iran’s potential role in RAF Fairford incident
+Officers examine multiple lines of inquiry in the incident near the base that US bombers recently used to strike Tehran
 
-## Weak US payrolls likely to keep rate setters on the sidelines in October
-Payrolls were weaker than expected in September and unemployment also ticked higher
+## Low-profile hedge fund smashes record for New York office rent
+Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower
 
-## Tesla deliveries fall 2% as US consumers buy fewer EVs
-Drop is less than predicted as European sales continue to recover
+## Treasuries are losing their moneyness
+For four decades, US government bonds have been both securities and money. They may no longer be that special
+
+## US economy adds just 29,000 jobs in September as hiring slows sharply
+Figure renews market debate about outlook for further Fed rate rises
+
+## Global bond market steadies after sharp sell-off
+Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002
+
+## Stockpickers: AG Barr, Redcentric, Saga
+Our experts discuss which companies to buy, sell or hold this week
+
+## Our healthy obsession with fitness trackers
+Wellness wearables are more than fashion accessories, and that is good for all of us
 
 ## Investors seek refuge from bond rout in haven German debt
 Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears
 
-## US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran
-Payments group that moved almost $7bn through global banks is designated a transnational criminal organisation
+## Why does Anthropic’s IPO feel so weird?
+Compared to other blockbuster share sales, the build-up to the AI company’s stock market debut has felt discordant, even creepy
 
-## Gold miner M&A is finally producing something that glitters
-This time the dealmaking rush looks more disciplined
+## Quant hedge funds reap big gains from global bond sell-off
+Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears
 
-## Partners Group splits flagship private equity fund as clients demand cash
-Swiss firm had already capped redemptions at 5% in June
+## Bengal needs to get organised players in real estate sector, says Finance Minister Swapan Dasgupta
+Dasgupta emphasised the need for scrapping certain laws, such as the urban land ceiling act, which have so far been “impediments to development”
 
-## My mortgage is a problem for the Fed, and for America
-Homeowners like me are staying put, the market is frozen and affordability is as ugly as it was in the housing bubble
+## Centre consistently working to ensure better incomes for all farmers: Nirmala Sitharaman
+Various schemes were being implemented based on the needs of farmers, including support for aquaculture and livestock farming through joint efforts of the Centre and the State government
+
+## From captives to hybrids: GCCs enter a new phase of growth in the AI era
+Industry experts say the shift could sharpen India’s strategic edge but also requires leadership with experience across multiple technology cycles to sustain value beyond headcount growth.
+
+## Reimagining Kerala: CM calls for comprehensive transformation across key sectors
+V D Satheesan delivers 18th K P Hormis Memorial Lecture hosted by Federal Bank
+
+## Active mutual fund keep beating passive peers, but edge narrows over time
+Similarly in the first year, active small-cap funds generated returns of 3.6 per cent, while passive funds failed to deliver any gains registered a decline of 0.2 per cent
 
 ## Letters to Editor dated October 2, 2026
 
@@ -51,20 +63,8 @@ Fuel efficiency norms for cars disappointing
 ## Centre fortifies India’s AI mission with Sovereign Compute Pool amid rising GPU costs
 The official said that the government is also preparing further bids for additional computing capacity, as it seeks to build a government-controlled pool of AI compute alongside capacity sourced from private providers
 
-## Govt preparing new affordable housing policy, expected to come in next six months, says Credai
-Reiterating the importance of revising the definition of affordable housing, the realtors’ body urged the government to remove the ₹45 lakh price cap per unit and retain only the prescribed size criteria in the new policy
-
-## Sidharatha Mishra to take charge as ICICI Life Insurance Ltd’s chief
-This appointment follows the resignation of Anup Bagchi as MD & CEO of the insurer
-
-## Indian start-ups being acquired 2X faster as incumbents look to buy capabilities
-Beyond acquisitions, IPO timelines have also shortened with the average years from first funding to IPO going down from 14 years to 8.5 years
-
-## Anup Bagchi: A consensus builder who unwinds with black coffee and a non-fiction book
-Market participants believe Bagchi is likely to emphasise his trust in HDFC Bank’s existing leadership team and to take the franchise to even greater heights
-
-## Saroj Poddar Group, Keventer launch real estate-focussed AIF, target ₹400 crore corpus
-The category II Alternative Investment Fund, the first AIF launched by a real estate developer from West Bengal, is expandable to ₹600 crore through a ₹200 crore greenshoe option
+## Father got 3 bigha in 1972; HC protects married daughter's land claim after parents death
+In 1972, the Himachal Pradesh government allotted three bigha and two biswas of agricultural land in Shimla to a person under the Nautor rules for cultivation. His wife died in 2012, leaving behind their only daughter, who subsequently approached the revenue authorities once again for issuance of th
 
 ## ‘Workers growing increasingly anxious’: US adds 29k jobs, far below 90k expected
 US employers added only 29,000 jobs in September, significantly lower than economists' expectations of 90,000. The unemployment rate rose to 4.2% as more people entered the workforce without immediate jobs. Healthcare hiring showed a notable slowdown, with government job cuts further contributing to
@@ -87,10 +87,22 @@ At current prices, 10 grams of 24-karat gold costs around Rs 1.5 lakh, an amount
 ## Gold gets its festive shine back as lower prices lure Asian buyers
 Recent declines in gold prices in India have sparked greater interest among physical buyers, leading to reduced discounts from sellers. With the festival season on the horizon, demand is likely to surge, particularly for jewelry. Similarly, Singapore reports increased buying activity, as evidenced b
 
-## ‘Don’t cut salaries’: Govt’s clear directive to companies as EPF wage ceiling rises
-On September 17, the government increased the EPFO wage threshold from Rs 15,000 to Rs 25,000. The revision is expected to extend mandatory coverage to more than 10 million additional workers and give another push to workforce formalisation. In the frequently asked questions released on the matter, 
+## ‘Are you afraid of BJP’: Stalin targets CM Vijay for alleged silence over SIR-CEC
+“What is your fear, CM sir what is the fear?" Stalin asked Vijay, demanding to know the reason behind his alleged silence over SIR.
 
-## Mumbai: CJP’s Dipke warns of ‘Jantar Mantar 2.0’, demands Gyanesh Kumar’s resignation
+## Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls
+The party also named Devinder Nishad and Alok Prasad as senior vice presidents in a major reshuffle ahead of 2027 Assembly polls.
+
+## Pargat Singh appointed Punjab Congress chief after Warring's exit, takes charge ahead of 2027 Assembly polls
+Amarinder Singh Raja Warring, who had headed the state unit since April 2022, met Rahul Gandhi in Delhi and submitted his resignation.
+
+## Mohammad Deepak gets bail after arrest over Kotdwar trader altercation
+Gym owner Mohammad Deepak was granted bail by an SDM court after his preventive arrest over an alleged altercation with a Kotdwar trader.
+
+## Mini-truck crashes into road divider in dry Bihar; locals loot liquor bottles as driver flees
+Police said they were scrutinising CCTV footage and social media video clips to book people who had raided the vehicle and retrieve the liquor bottles from them
+
+## CJP’s Dipke warns of ‘Jantar Mantar 2.0’ at Mumbai protest, demands CEC Gyanesh Kumar’s resignation
 CJP founder Abhijeet Dipke demanded CEC Gyanesh Kumar’s resignation at a Mumbai protest, alleging mass voter-roll deletions under the SIR process.
 
 ## ‘They shot down their own satellite’: Ex-official recalls US' shock over India's ASAT missile test
@@ -98,21 +110,6 @@ Grusch claimed that America's National Reconaissance Office had scrambled to ass
 
 ## Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing
 The deceased, a paediatrician who recently completed her postgraduate medical training in Warangal 150km from Hyderabad.
-
-## Woman allegedly stripped, beaten at Guwahati club after drunken brawl with bouncers
-The incident allegedly took place at a nightclub in the Khanapara area of the city at around 1.30am.
-
-## Milind Deora writes to PM Modi, seeks Ashok Chakra for flydubai Captain Machchhar
-Shiv Sena MP Milind Deora said Captain Machchhar put the lives of others before his own and continued to act despite being seriously wounded
-
-## ED summons MP Avinash Reddy over ₹40 crore Vivekananda Reddy murder money trail
-The ED has summoned YSR Congress Party MP Y S Avinash Reddy for questioning on October 14 over the alleged ₹40-crore money trail in the murder case.
-
-## Teen kills mother after argument over gender identity in Lucknow, stays near her body
-Police say 17-year-old had been living separately from family over differences linked to his gender identity.
-
-## Injured, under attack, but ‘one last push’: 3 chilling details Indian pilot Smit Machchhar gave PM Modi on flydubai nightmare
-flydubai pilot-in-command Smit Machchhar, speaking to PM Modi from his hospital bed on Friday, said he "could not let all those people die.
 
 ## McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail
 As “long-dormant old money” steps back into Hong Kong’s retail property market, McDonald’s has sold the property housing its first New Territories restaurant for HK$120 million (US$15.3 million), extending its year-long sell-down of self-owned shops. The property at 10-22 Tsuen Wan Market Street, sp
@@ -138,53 +135,53 @@ A sell-off in technology stocks pushed mainland Chinese equities to their lowest
 ## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
 China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms were among 159 Chinese he
 
+## Where Does Russia’s Violent Imperialism Come From?
+A new book provides some helpful—if not always spot-on—answers.
+
+## The Illicit World of Sea Cucumbers
+How a rare delicacy in Asia drives crime oceans away.
+
+## What in the World?
+Test yourself on the week of Sept. 26: Trump pressures Zelensky, Venezuelans protest, and Morocco picks a new prime minister.
+
+## The Trauma Plot to Destroy America
+A new book examines how narratives about psychological harm have come to dominate public life.
+
+## What’s at Stake in Brazil’s Election
+Results would have broad implications on foreign policy.
+
+## ‘What Is Happening Today Is Development in Reverse’
+A conversation with UNDP chief Alexander De Croo about building infrastructure in active conflict zones.
+
+## Pashinyan Confronts the Karabakh Cause
+A crackdown on refugees pits peace against democracy in Armenia.
+
 ## How China Managed the Oil Shock
 Beijing concentrated the impact on refiners, not the public.
 
-## The Forces Shaping Brazil’s Election
-How gender, civil-military relations, and the economy help explain the contest.
+## Taiwan’s New F-16s: Why They Still Matter
+The Republic of China Air Force waited 20 years for these aircraft. What are they for?
 
-## Hegseth Wants More
-The U.S. defense secretary announced ambitious plans in a “State of the Force” speech.
+## India’s Foreign Minister Jaishankar Openly Calls Out the US
+Previously, India sorted out its differences with friendly nations quietly. Last week, it aired its grievance with Washington publicly.
 
-## Violent Student Protests Loom Over France’s Budget Proposal
-Paris is hoping to rein in the country’s deficit and avoid another no-confidence vote.
+## Concerns About ‘WWII Allies’ at US-China Summit
+How China is weaponizing WWII history
 
-## Modi Faces Protest Threat Over Election Commission Scandal
-India’s opposition parties and the Cockroach movement are ready to march over fresh allegations of bias.
+## Philippines Rejects Chinese Claim to ‘Sovereign Rights’ Over Waters Around Batanes
+The Chinese activities around the Philippines' northernmost province represent the opening of a new front in the maritime struggle between the two nations.
 
-## Oil Is Again Flowing Out of Hormuz
-But the continued shortfall of refined products means little relief at the pump.
+## Indonesia Needs to Do More to Tackle the Region’s Transboundary Haze Problem
+Under Prabowo Subianto, leadership on the issue has been lacking – and tens of millions are suffering as a result.
 
-## A Space-Launch Crash Is Coming
-What happens after SpaceX’s most popular vehicle leaves the market?
+## A Tajik Bank Shuts Side Door for Russian Cardholders
+Humo Bank's ultimatum to its Russian clients shows how Western sanctions can shape Tajikistan's banking sector.
 
-## ‘Everyone Is Depleted’
-Yemen was already in crisis. Then civil war broke out again.
+## Trouble in Shangri-La? Why Bruneians Are Going to Australia for Illegal Migrant Work
+Unemployed Bruneians are using Australian tourist visas to work as fruit pickers.
 
-## Japan and Australia: Toward a More Autonomous and Resilient Partnership
-As Washington’s reliability wavers, Tokyo and Canberra are learning to depend on each other.
-
-## Time for ASEAN to Revive its Customs Union Vision
-An idea rejected in 1986 deserves a second look.
-
-## Russia’s Navy Shows Its Reach Around Japan’s Southwestern Islands
-Vladimir Putin’s first-ever visit to a northern territory claimed by Japan comes amid a steady uptick in Russian naval activity near Japan’s southernmost islands.
-
-## ‘A Tower of Jelly’
-The United Nations, U Thant, and the 1967 Arab-Israeli War.
-
-## Indonesian President Replaces Foreign Minister With Career Diplomat
-The appointment of Arrmanatha Nasir is likely to result in a reassertion of the Foreign Ministry's role in Indonesian foreign policymaking.
-
-## Can Kashmir Learn From India’s Gen Z Movement?
-J&K has lost its statehood, local governance, and even the right to protest. But there is still a way to resist.
-
-## As University of Tokyo Gets Its First Female President, How Far Is Japan From Gender Equality?
-Fujigaki Yuko’s selection sparked controversy – and shone a light on Japan’s stubborn gender gap.
-
-## Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?
-A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.
+## Taiwan’s Local Elections Are Not About China, President Lai, or the United States
+Candidates across Taiwan are campaigning on local issues that vary by city – not topics like cross-strait relations. What can we learn from these elections?
 
 ## How Closed Airspace Threatens U.S. Military Mobility Across Eurasia
 For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of departure and its destination. Routes could ch
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spain’s parliament rejects gov’t housing decrees amid mass protests
-Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.
+## Arab party leader withdraws from Israeli elections
+Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.
 
-## G7 announces oil reserve release, as Trump hails Europe diesel deal
-Macron says G7 will release 100 million barrels over four months; diesel release to be 'frontloaded'
+## Trump says Europe agreed to release ‘massive amount’ of diesel reserves
+US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.
 
-## Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?
-Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.
+## Sudan’s army says it captured RSF stronghold in North Kordofan
+Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines.
 
-## Can India’s ‘cockroach’ movement oust Modi’s election chief?
-India's youth protests return to streets, eyeing PM Modi's prized bureaucrat who oversees the world's biggest elections.
+## Israeli barrier cuts off water to West Bank Palestinians before elections
+Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.
 
-## Man City lodge appeal after guilty finding in financial breach scandal
-The Abu Dhabi-controlled club has protested its innocence throughout the long-running case, which dates back to 2018.
+## Israel’s Supreme Court overturns election panel ban on Arab parties
+Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.
 
-## Trump vs Europe as US presses for release of emergency diesel stocks
-Europe's leaders are mulling proposals to respond to Trump's diesel demands.
+## ‘I want the truth’: NY governor appoints prosecutor in Cornell rape case
+New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.
 
-## Wolf encounter: A photographer on what humans have lost
-How a brush with the wild can expose what modern life no longer asks of us.
+## Jerusalem Daily: Who gets to run in Israel’s elections?
+Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.
 
-## Protests shutter hundreds of French schools as violence flares
-Education minister declares students 'in danger' as hundreds of injuries reported across the country.
+## How the Banco Master scandal injected chaos into Brazil’s presidential race
+Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
