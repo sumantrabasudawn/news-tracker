@@ -1,70 +1,88 @@
 # AION Intelligence
 
-## UK watchdog signals it may block major broadband deal
-CMA move over Nexfibre-Netomania tie-up could delay consolidation in fragmented sector
+## Quant hedge funds reap big gains from global bond sell-off
+Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears
 
-## Putin has told military leaders to abandon rules of war, Zelenskyy says
-Ukrainian leader tells FT his Russian counterpart has given the order that ‘there are no rules now’
+## G7 agrees to release 100mn barrels of diesel and crude under pressure from Trump
+French President Emmanuel Macron announces move in response to threatened US ban on exports of the fuel
 
-## Pro-Russian parties jostle with Kyiv supporters in crowded Latvian election
-Also in this newsletter: Dutch hail EU cutting off cash to Sierra Leone
+## Pedro Sánchez loses vote on Spanish housing reform
+Parliamentary setback could push premier to call early elections
 
-## FirstFT: Putin has told military to abandon rules of war, Zelenskyy says
-Also in today’s newsletter: US sends more troops to Middle East and bond sell-off
+## Israel’s top court overturns ban of Arab parties in upcoming election
+Supreme Court’s unanimous ruling clears way for Ra’am and Joint List to run and potentially swing balance in event of hung parliament
 
-## ‘The only answer is to show up’: Black voters rally against redrawn electoral maps
-African Americans in Louisiana predict a backlash over a Supreme Court ruling that authorised constituency changes
+## US economy adds just 29,000 jobs in September as hiring slows sharply
+Figure prompts traders to rein in bets on further Fed rate rises
 
-## UK universities comb records for China links after MI5 warning
-Security agency’s alert highlights rising compliance pressures in sensitive research areas
+## Italy and Greece seek leeway on EU fiscal rules
+Fuel price support and rising inflation put pressure on countries’ public finances
 
-## Monzo courts private equity after Nubank walks away
-Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles
+## Argentina to sell ‘golden passports’ by end of year
+Cash-strapped country will be one of world’s largest to offer citizenship by investment
 
-## Amazon seeks to offload $8bn of Nvidia chips to investors
-The move aims to improve the tech group’s balance sheet health as AI spending soars
+## Weak US payrolls likely to keep rate setters on the sidelines in October
+Payrolls were weaker than expected in September and unemployment also ticked higher
 
-## Volvo Cars issues profit warning as China sales fall
-Shares decline 4% as Swedish carmaker forecasts ‘significant negative impact’ on earnings
+## Tesla deliveries fall 2% as US consumers buy fewer EVs
+Drop is less than predicted as European sales continue to recover
 
-## Goldman bought Shein shares worth $220mn after dismal IPO
-Shares in fast-fashion retailer have tumbled 38% since listing in Hong Kong last month
+## Investors seek refuge from bond rout in haven German debt
+Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears
 
-## Shares in spreadbetter IG Group plunge by a quarter
-FTSE 100 group cuts revenue annual forecast just months after upgrading it
+## US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran
+Payments group that moved almost $7bn through global banks is designated a transnational criminal organisation
 
-## Donald Quintin: ‘We’re entering a different market now’
-The Lone Star Funds CEO on value investing, higher rates and the credit cycle
+## Gold miner M&A is finally producing something that glitters
+This time the dealmaking rush looks more disciplined
 
-## Electrification Explained: A Visual Guide
-A visual explainer about the challenges and opportunities presented by electrification. Supported by Iberdrola
+## Partners Group splits flagship private equity fund as clients demand cash
+Swiss firm had already capped redemptions at 5% in June
 
-## Meet Man City’s powerbroker
-Khaldoon al-Mubarak is one of Abu Dhabi’s most powerful non-royals and now must battle to defend his club and reputation
+## My mortgage is a problem for the Fed, and for America
+Homeowners like me are staying put, the market is frozen and affordability is as ugly as it was in the housing bubble
 
-## CJP, student groups to protest, demand Election Commission chief's resignation
-A few dozen protesters gathered at the site in Delhi on Friday morning, but police ‌bundled some into buses and took them away, while several nearby metro stations remained shut ‌and security ⁠was tightened.
+## Letters to Editor dated October 2, 2026
 
-## No supply restrictions on dealers: Nayara Energy
-The Rosneft-backed private sector oil marketing company (OMC) assured of maintaining adequate stocks at its more than 7,100 retail outlets (ROs).
 
-## Electric motorcycle sales gain traction, but capacity still far ahead of demand
-India’s electric motorcycle makers, including Revolt, Oben, Ultraviolette, and Matter, are seeing registrations rise, but sales remain a fraction of the industry’s capacity
+## Editorial. CAFE smokescreen
+Fuel efficiency norms for cars disappointing
 
-## Can India’s man-made fibre industry navigate the Iran war disruption?
-The Iran crisis has sent oil costs into a wild swing, knocking up raw-material prices and shaking up India’s man-made fibre scene—and its knitwear supply chain too. Listen to know more...
+## Centre fortifies India’s AI mission with Sovereign Compute Pool amid rising GPU costs
+The official said that the government is also preparing further bids for additional computing capacity, as it seeks to build a government-controlled pool of AI compute alongside capacity sourced from private providers
 
-## Media, entertainment sector likely to see better growth in Q3FY27 on festive spending, content pipeline: Nuvama
-Nuvama expects festive spending to improve in Q3FY27, with the late Diwali likely to support advertising and consumer engagement
+## Govt preparing new affordable housing policy, expected to come in next six months, says Credai
+Reiterating the importance of revising the definition of affordable housing, the realtors’ body urged the government to remove the ₹45 lakh price cap per unit and retain only the prescribed size criteria in the new policy
 
-## TN officials use Hindi on highway signboard, govt suspends them
-Departmental action has also been initiated against them, who are assistant engineers with the Highways Department
+## Sidharatha Mishra to take charge as ICICI Life Insurance Ltd’s chief
+This appointment follows the resignation of Anup Bagchi as MD & CEO of the insurer
 
-## Retail space leasing in shopping malls falls 38% in Jul-Sep across top 8 cities: Cushman
-Including shopping malls and high-street locations, total retail space leasing fell nearly 5% to 2.22 million square feet in the latest September quarter from 2.33 million sq ft in the year-ago period
+## Indian start-ups being acquired 2X faster as incumbents look to buy capabilities
+Beyond acquisitions, IPO timelines have also shortened with the average years from first funding to IPO going down from 14 years to 8.5 years
 
-## Nothing imminent: US Trade Representative Greer on India trade deal; Modi, Trump to talk soon
-Greer said Trump and Modi may have another phone call “very soon” to assess the progress on the trade deal
+## Anup Bagchi: A consensus builder who unwinds with black coffee and a non-fiction book
+Market participants believe Bagchi is likely to emphasise his trust in HDFC Bank’s existing leadership team and to take the franchise to even greater heights
+
+## Saroj Poddar Group, Keventer launch real estate-focussed AIF, target ₹400 crore corpus
+The category II Alternative Investment Fund, the first AIF launched by a real estate developer from West Bengal, is expandable to ₹600 crore through a ₹200 crore greenshoe option
+
+## ‘Workers growing increasingly anxious’: US adds 29k jobs, far below 90k expected
+US employers added only 29,000 jobs in September, significantly lower than economists' expectations of 90,000. The unemployment rate rose to 4.2% as more people entered the workforce without immediate jobs. Healthcare hiring showed a notable slowdown, with government job cuts further contributing to
+
+## September shipments through Hormuz hit post-war high as LNG cargoes pick up
+The month of September marked a significant spike in LNG traffic through the Strait of Hormuz, with 19 to 21 cargoes navigating the waters, the highest since war broke out. The cargoes predominantly hailed from Qatar and the United Arab Emirates. Interestingly, vessels adopted unusual routes, resort
+
+## If Trump imposes tariffs, will buying crude from Russia make economic sense for India?
+Russia became an unusually attractive supplier when Western buyers retreated after the war with Ukraine. Its share of Indian crude imports, below 2% before the war, expanded rapidly as discounts compensated refiners for longer supply chains. In the present day, the situation has become more complex,
+
+## A costly bite: Global food prices rise to their highest level in nearly four years
+In a concerning trend, global food prices have surged to their highest point in nearly four years, driven by disruptions in trade and adverse weather conditions. According to the United Nations' Food and Agriculture Organization, there are marked increases in the costs of cereals, sugar, and vegetab
+
+## Historic milestone: Watch Vande Bharat cross Chenab bridge, Anji bridges at 100 kmph
+The higher speed of 100 kmph was successfully put to the test today, according to Railway minister Ashwini Vaishnaw. Vande Bharat Express (Train No. 26401/26404) set a new record by traversing the world's highest railway bridge, Chenab Bridge, and India's first cable-stayed railway bridge, the Anji 
+
+## Gold's Rs 1.5 lakh price drives buyers to silver who get 650g silver at same price
+At current prices, 10 grams of 24-karat gold costs around Rs 1.5 lakh, an amount that would buy approximately 650 grams of silver. With gold prices remaining prohibitively high for a large section of middle-class buyers, the white metal is steadily attracting attention. High gold prices have made th
 
 ## Gold gets its festive shine back as lower prices lure Asian buyers
 Recent declines in gold prices in India have sparked greater interest among physical buyers, leading to reduced discounts from sellers. With the festival season on the horizon, demand is likely to surge, particularly for jewelry. Similarly, Singapore reports increased buying activity, as evidenced b
@@ -72,47 +90,41 @@ Recent declines in gold prices in India have sparked greater interest among phys
 ## ‘Don’t cut salaries’: Govt’s clear directive to companies as EPF wage ceiling rises
 On September 17, the government increased the EPFO wage threshold from Rs 15,000 to Rs 25,000. The revision is expected to extend mandatory coverage to more than 10 million additional workers and give another push to workforce formalisation. In the frequently asked questions released on the matter, 
 
-## Property value rose before registration; ITAT scraps Rs 11.35 lakh tax on buyer
-Under Section 56(2)(x), there is applicable taxation of such a difference in the buyer's hands if the stamp duty value of the property is higher than the purchase consideration by more than the greater of Rs 50,000 or 10% of the consideration. Here, the difference of approximately Rs 22.71 lakh exce
+## Mumbai: CJP’s Dipke warns of ‘Jantar Mantar 2.0’, demands Gyanesh Kumar’s resignation
+CJP founder Abhijeet Dipke demanded CEC Gyanesh Kumar’s resignation at a Mumbai protest, alleging mass voter-roll deletions under the SIR process.
 
-## Dollar hits 17-month high: Greenback headed for three week gaining streak as bond rout drags euro
-The US dollar has reached a 17-month high as it benefits from a global bond sell-off. Concerns regarding France’s fiscal stability have adversely affected the euro's value against the dollar. The increase in borrowing costs, particularly with US Treasuries, is influencing market dynamics. Simultaneo
+## ‘They shot down their own satellite’: Ex-official recalls US' shock over India's ASAT missile test
+Grusch claimed that America's National Reconaissance Office had scrambled to assess the impact of debris following the test.
 
-## Gandhi Jayanti: Are NSE, BSE closed for trading on October 2?
-Stock trading will be halted on October 2, 2026, in observance of Mahatma Gandhi Jayanti. Both the National Stock Exchange and Bombay Stock Exchange will be closed for the day, along with the Multi Commodity Exchange. Investors have faced declines for four consecutive sessions, impacted by foreign s
+## Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing
+The deceased, a paediatrician who recently completed her postgraduate medical training in Warangal 150km from Hyderabad.
 
-## India-US trade deal not imminent, PM Modi-Trump may hold another call soon: US trade rep
-India and the US are nearing the final stages of a significant trade agreement, with expectations of its announcement imminent. US Trade Representative Jamieson Greer revealed that teams are actively working through residual challenges. Union Minister Piyush Goyal engaged in talks with Greer during 
+## Woman allegedly stripped, beaten at Guwahati club after drunken brawl with bouncers
+The incident allegedly took place at a nightclub in the Khanapara area of the city at around 1.30am.
 
-## Oil prices soar to $103 per barrel again as Middle East supply concerns intensify
-Recent developments have led to a surge in oil prices, largely driven by new restrictions placed on Chinese fuel exports. This, combined with reports of increased US military presence in the Middle East, has heightened concerns over supply stability. Following the escalation of conflict between the 
+## Milind Deora writes to PM Modi, seeks Ashok Chakra for flydubai Captain Machchhar
+Shiv Sena MP Milind Deora said Captain Machchhar put the lives of others before his own and continued to act despite being seriously wounded
 
-## RBI eases rules for DIIs to buy bank shares
+## ED summons MP Avinash Reddy over ₹40 crore Vivekananda Reddy murder money trail
+The ED has summoned YSR Congress Party MP Y S Avinash Reddy for questioning on October 14 over the alleged ₹40-crore money trail in the murder case.
 
+## Teen kills mother after argument over gender identity in Lucknow, stays near her body
+Police say 17-year-old had been living separately from family over differences linked to his gender identity.
 
-## Delhi consumer court orders Swiggy, restaurant to pay ₹1 lakh over misleading buffet price
-A Delhi consumer court held Swiggy and a restaurant liable for misleading buffet prices on Dineout and ordered them to jointly pay ₹1 lakh to a customer.
+## Injured, under attack, but ‘one last push’: 3 chilling details Indian pilot Smit Machchhar gave PM Modi on flydubai nightmare
+flydubai pilot-in-command Smit Machchhar, speaking to PM Modi from his hospital bed on Friday, said he "could not let all those people die.
 
-## Gandhi Jayanti 2026: Are banks open or closed today? Check October 2 bank holiday status
-Are banks open today on Gandhi Jayanti? Here’s what customers need to know about branch closures and available banking services.
+## McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail
+As “long-dormant old money” steps back into Hong Kong’s retail property market, McDonald’s has sold the property housing its first New Territories restaurant for HK$120 million (US$15.3 million), extending its year-long sell-down of self-owned shops. The property at 10-22 Tsuen Wan Market Street, sp
 
-## Mithi River desilting case: Mumbai Police question Bollywood actor Dino Morea
-Bollywood actor Dino Morea and his brother, Santino Rocco Morea, were also questioned in the case in May 2025
+## Clara Chan retains helm at HKIC as HK$62b state fund aligns with city’s 5-year plan
+Hong Kong Investment Corporation (HKIC) has extended the tenure of its current CEO, Clara Chan Ka-chai, for another three years as the city vows to boost emerging industries in its first five-year plan. The wholly government-owned investment vehicle, which manages HK$62 billion (US$7.9 billion) in f
 
-## ‘Should get to cross-examine SC judge’: Ex-acting Rajasthan CJ accused of corruption
-Sharma said he has written to CJI Surya Kant seeking an opportunity to cross-examine Justice Sandeep Mehta over the allegations against him.
+## Developers vie to land plum HK$2 billion residential site in Ho Man Tin
+The sole residential site included in the Hong Kong government’s latest land sale programme has attracted interest from a host of major developers, with 10 tenders being submitted before a noon deadline on Friday. Chinachem Group, Wheelock Properties, Kerry Properties and Sun Hung Kai Properties all
 
-## After teen's gangrape, audit finds only 16 of 736 DDA parks have CCTVs
-The audit classified 190 parks as high-risk, 258 as medium-risk and 288 as low-risk.
-
-## Dharma and rashtra inseparable; India’s knowledge tradition can guide world: Bhagwat
-Dharma and rashtra inseparable; India’s knowledge tradition can guide world: Bhagwat
-
-## EC orders special drive to add ‘left-out’, first-time voters after SIR completion; BLOs to visit homes
-In a letter to the chief electoral officers, the ECI instructed a special drive to enrol left-out and first-time young electors
-
-## 28 geo features in Ladakh formally identified on Survey of India map
-Guru Rinpoche has been identified as a lake and Yangpa as a river, while Hot Spring has been classified as a water body.
+## Hong Kong IPOs falter, China aids homebuyers, EU trade talks
+Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite. Seven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines
 
 ## China’s AI compute ambitions demand innovation
 China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To reach the 2030 target while being blocked by the United States from importing th
@@ -126,17 +138,11 @@ A sell-off in technology stocks pushed mainland Chinese equities to their lowest
 ## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
 China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms were among 159 Chinese he
 
-## Could Northern Metropolis draw educational leasing from Hong Kong’s Grade A office sector?
-As education sector demand supports Hong Kong’s Grade A office leasing activity, analysts said infrastructure that will serve the Northern Metropolis could decide whether schools and universities move their administrative and other services to this potential new centre of the city. “Over the medium 
+## How China Managed the Oil Shock
+Beijing concentrated the impact on refiners, not the public.
 
-## Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca
-Hong Kong can attract more global biotech investments if the city builds up a new healthcare financial model, according to AstraZeneca, a Cambridge-based multinational pharmaceutical giant. While global drug makers have been doubling down on investments in mainland China in recent years, AstraZeneca
-
-## China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off
-Chinese automotive groups have cause to celebrate their go-global strategy amid breakneck export growth in recent years, with deliveries in 2026 expected to beat expectations already buoyed by an international energy shock caused by conflict in the Middle East. Leading carmakers from BYD to Chery Au
-
-## ‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom
-Chinese-American billionaire investor Duan Yongping, often called China’s Warren Buffett, has added 30,000 shares of Shanghai-listed baijiu maker Kweichou Moutai to his portfolio in his third public stake increase this year amid a deep sector-wide adjustment. Moutai’s premium valuation has long reli
+## The Forces Shaping Brazil’s Election
+How gender, civil-military relations, and the economy help explain the contest.
 
 ## Hegseth Wants More
 The U.S. defense secretary announced ambitious plans in a “State of the Force” speech.
@@ -155,12 +161,6 @@ What happens after SpaceX’s most popular vehicle leaves the market?
 
 ## ‘Everyone Is Depleted’
 Yemen was already in crisis. Then civil war broke out again.
-
-## How AI Anxiety Turns Into Extremism
-Despite shared concerns, stark differences exist in perceptions of AI in the United States and China.
-
-## Would Better U.S.-China Ties Harm India?
-Washington and New Delhi have more to focus on than Beijing.
 
 ## Japan and Australia: Toward a More Autonomous and Resilient Partnership
 As Washington’s reliability wavers, Tokyo and Canberra are learning to depend on each other.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation
-Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.
+## Spain’s parliament rejects gov’t housing decrees amid mass protests
+Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.
 
-## Russia tries to freeze Ukraine as it suffers record casualties and retreats
-Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.
+## G7 announces oil reserve release, as Trump hails Europe diesel deal
+Macron says G7 will release 100 million barrels over four months; diesel release to be 'frontloaded'
 
-## Indian police detain politicians at protests over election chief
-Police in New Delhi have detained opposition politicians and demonstrators during protests.
+## Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?
+Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.
 
-## Lawyers for US inmate who survived lethal injections demand release
-Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.
+## Can India’s ‘cockroach’ movement oust Modi’s election chief?
+India's youth protests return to streets, eyeing PM Modi's prized bureaucrat who oversees the world's biggest elections.
 
-## How the fighting in Ethiopia spread beyond Tigray, in maps and charts
-Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north.
+## Man City lodge appeal after guilty finding in financial breach scandal
+The Abu Dhabi-controlled club has protested its innocence throughout the long-running case, which dates back to 2018.
 
-## Miami judge rules federal noncitizen voting law violates US Constitution
-Judge Leibowitz's decision underscores state jurisdiction over voter qualifications.
+## Trump vs Europe as US presses for release of emergency diesel stocks
+Europe's leaders are mulling proposals to respond to Trump's diesel demands.
 
-## Greece pushes EU to suspend asylum during mass migration surges
-EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.
+## Wolf encounter: A photographer on what humans have lost
+How a brush with the wild can expose what modern life no longer asks of us.
 
-## Election debate cancelled in Brazil, bomb scare outside Supreme Court
-Brazilian president and opposition candidate snub the final debate ahead of the presidential election.
+## Protests shutter hundreds of French schools as violence flares
+Education minister declares students 'in danger' as hundreds of injuries reported across the country.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
