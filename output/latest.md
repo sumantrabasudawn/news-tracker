@@ -1,115 +1,130 @@
 # AION Intelligence
 
-## South Korea brings powerful prosecution agency to heel
-Overhaul is a victory for reformers, though some fear it could leave an investigative vacuum
+## UK watchdog signals it may block major broadband deal
+CMA move over Nexfibre-Netomania tie-up could delay consolidation in fragmented sector
 
-## Bangkok cements its place as gem-trading hub
-The expertise the Thai capital can offer and its breadth of coloured stones continue to draw clients from across the world
+## Putin has told military leaders to abandon rules of war, Zelenskyy says
+Ukrainian leader tells FT his Russian counterpart has given the order that ‘there are no rules now’
 
-## Japanese watchmakers push for overseas growth
-Exports are rising as brands large and small attract more buyers beyond their home market
+## Pro-Russian parties jostle with Kyiv supporters in crowded Latvian election
+Also in this newsletter: Dutch hail EU cutting off cash to Sierra Leone
 
-## Burnham searches for UK alternative to Palantir
-Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts
+## FirstFT: Putin has told military to abandon rules of war, Zelenskyy says
+Also in today’s newsletter: US sends more troops to Middle East and bond sell-off
 
-## Nike to cut jobs as it forecasts revenue decline in the coming year
-US sneaker and sportswear group to open an India campus under its turnaround plan
+## ‘The only answer is to show up’: Black voters rally against redrawn electoral maps
+African Americans in Louisiana predict a backlash over a Supreme Court ruling that authorised constituency changes
 
-## US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran
-Payments group that moved almost $7bn through global banks designated a transnational criminal organisation
+## UK universities comb records for China links after MI5 warning
+Security agency’s alert highlights rising compliance pressures in sensitive research areas
 
-## US deploys thousands of troops to Middle East as Trump weighs strikes on Iran
-Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says
+## Monzo courts private equity after Nubank walks away
+Eleven-year-old UK fintech searching for growth capital after bruising year of boardroom tussles
 
-## Top Fed official signals central bank will keep rates on hold in October
-Vice-chair for monetary policy Philip Jefferson echoes dovish remarks made by New York central bank head John Williams
+## Amazon seeks to offload $8bn of Nvidia chips to investors
+The move aims to improve the tech group’s balance sheet health as AI spending soars
 
-## Watches and Jewellery: October
-Japan’s watchmakers expand overseas; sharper diamond cuts move into the spotlight; how Caroline Scheufele shaped a Chopard mainstay; crafts revive ancient techniques from Japan; the appeal of rare sannan skarn; watch industry divide deepens over gender labels
+## Volvo Cars issues profit warning as China sales fall
+Shares decline 4% as Swedish carmaker forecasts ‘significant negative impact’ on earnings
 
-## What makes a woman’s watch? Industry divide deepens over gender labels
-As female buyers drive sales growth, the split is widening among brands between maintaining the category status quo and offering unisex designs
+## Goldman bought Shein shares worth $220mn after dismal IPO
+Shares in fast-fashion retailer have tumbled 38% since listing in Hong Kong last month
 
-## EU countries in crisis talks over release of diesel stocks
-Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so
+## Shares in spreadbetter IG Group plunge by a quarter
+FTSE 100 group cuts revenue annual forecast just months after upgrading it
 
-## Branching out: Audemars Piguet adds Royal Oak jewellery line to court female buyers
-The watchmaker is building on historic connections with jewellers as pressure increases on the market for timepieces
+## Donald Quintin: ‘We’re entering a different market now’
+The Lone Star Funds CEO on value investing, higher rates and the credit cycle
 
-## S&P praises Indian economy, but points to gathering clouds
-India beat forecasts while contending with the same inflationary pressures, geopolitical conflicts and slower growth as others
+## Electrification Explained: A Visual Guide
+A visual explainer about the challenges and opportunities presented by electrification. Supported by Iberdrola
 
-## Shriram Properties sees an 8-10% increase in raw material costs; bets on Chennai
-The increase is particularly pronounced in construction products linked to oil imports, including lifts, sanitary fittings and tiles
+## Meet Man City’s powerbroker
+Khaldoon al-Mubarak is one of Abu Dhabi’s most powerful non-royals and now must battle to defend his club and reputation
 
-## Solar manufacture: India’s success story
+## CJP, student groups to protest, demand Election Commission chief's resignation
+A few dozen protesters gathered at the site in Delhi on Friday morning, but police ‌bundled some into buses and took them away, while several nearby metro stations remained shut ‌and security ⁠was tightened.
 
+## No supply restrictions on dealers: Nayara Energy
+The Rosneft-backed private sector oil marketing company (OMC) assured of maintaining adequate stocks at its more than 7,100 retail outlets (ROs).
 
-## Top Business & Market Headlines Today — BL Morning Report, October 2, 2026
-BL Morning Report October 2, 2026: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.
+## Electric motorcycle sales gain traction, but capacity still far ahead of demand
+India’s electric motorcycle makers, including Revolt, Oben, Ultraviolette, and Matter, are seeing registrations rise, but sales remain a fraction of the industry’s capacity
 
-## Spotlight: Kotak Mahindra Bank’s MD & CEO designate Saha could shift advances mix in favour of retail lending
-Retail veteran to lead the private bank from January 2027
+## Can India’s man-made fibre industry navigate the Iran war disruption?
+The Iran crisis has sent oil costs into a wild swing, knocking up raw-material prices and shaking up India’s man-made fibre scene—and its knitwear supply chain too. Listen to know more...
 
-## Mahindra, Embraer pick Nagpur for C-390 assembly line
-The proposed facility will support local manufacturing, assembly, supply chain development and MRO activities under the Make in India initiative.
+## Media, entertainment sector likely to see better growth in Q3FY27 on festive spending, content pipeline: Nuvama
+Nuvama expects festive spending to improve in Q3FY27, with the late Diwali likely to support advertising and consumer engagement
 
-## Banks lose pricing advantage as RBI’s bulk deposit disclosure norm kicks in
-The change comes just before the RBI’s MPC meet, with analysts expecting a repo-rate rise that could influence funding strategies and deposit costs across the sector
+## TN officials use Hindi on highway signboard, govt suspends them
+Departmental action has also been initiated against them, who are assistant engineers with the Highways Department
 
-## Trump’s $100,000 H-1B visa fee blocked again by US federal judge
-The ruling adds to mounting legal challenges over a fee that sharply increases the cost of hiring highly skilled foreign workers
+## Retail space leasing in shopping malls falls 38% in Jul-Sep across top 8 cities: Cushman
+Including shopping malls and high-street locations, total retail space leasing fell nearly 5% to 2.22 million square feet in the latest September quarter from 2.33 million sq ft in the year-ago period
+
+## Nothing imminent: US Trade Representative Greer on India trade deal; Modi, Trump to talk soon
+Greer said Trump and Modi may have another phone call “very soon” to assess the progress on the trade deal
+
+## Gold gets its festive shine back as lower prices lure Asian buyers
+Recent declines in gold prices in India have sparked greater interest among physical buyers, leading to reduced discounts from sellers. With the festival season on the horizon, demand is likely to surge, particularly for jewelry. Similarly, Singapore reports increased buying activity, as evidenced b
+
+## ‘Don’t cut salaries’: Govt’s clear directive to companies as EPF wage ceiling rises
+On September 17, the government increased the EPFO wage threshold from Rs 15,000 to Rs 25,000. The revision is expected to extend mandatory coverage to more than 10 million additional workers and give another push to workforce formalisation. In the frequently asked questions released on the matter, 
+
+## Property value rose before registration; ITAT scraps Rs 11.35 lakh tax on buyer
+Under Section 56(2)(x), there is applicable taxation of such a difference in the buyer's hands if the stamp duty value of the property is higher than the purchase consideration by more than the greater of Rs 50,000 or 10% of the consideration. Here, the difference of approximately Rs 22.71 lakh exce
+
+## Dollar hits 17-month high: Greenback headed for three week gaining streak as bond rout drags euro
+The US dollar has reached a 17-month high as it benefits from a global bond sell-off. Concerns regarding France’s fiscal stability have adversely affected the euro's value against the dollar. The increase in borrowing costs, particularly with US Treasuries, is influencing market dynamics. Simultaneo
+
+## Gandhi Jayanti: Are NSE, BSE closed for trading on October 2?
+Stock trading will be halted on October 2, 2026, in observance of Mahatma Gandhi Jayanti. Both the National Stock Exchange and Bombay Stock Exchange will be closed for the day, along with the Multi Commodity Exchange. Investors have faced declines for four consecutive sessions, impacted by foreign s
+
+## India-US trade deal not imminent, PM Modi-Trump may hold another call soon: US trade rep
+India and the US are nearing the final stages of a significant trade agreement, with expectations of its announcement imminent. US Trade Representative Jamieson Greer revealed that teams are actively working through residual challenges. Union Minister Piyush Goyal engaged in talks with Greer during 
+
+## Oil prices soar to $103 per barrel again as Middle East supply concerns intensify
+Recent developments have led to a surge in oil prices, largely driven by new restrictions placed on Chinese fuel exports. This, combined with reports of increased US military presence in the Middle East, has heightened concerns over supply stability. Following the escalation of conflict between the 
 
 ## RBI eases rules for DIIs to buy bank shares
 
 
-## Sensex slides to over 2-year low as FPIs keep selling
+## Delhi consumer court orders Swiggy, restaurant to pay ₹1 lakh over misleading buffet price
+A Delhi consumer court held Swiggy and a restaurant liable for misleading buffet prices on Dineout and ordered them to jointly pay ₹1 lakh to a customer.
 
+## Gandhi Jayanti 2026: Are banks open or closed today? Check October 2 bank holiday status
+Are banks open today on Gandhi Jayanti? Here’s what customers need to know about branch closures and available banking services.
 
-## Chinese phone covers face anti-dumping duty
+## Mithi River desilting case: Mumbai Police question Bollywood actor Dino Morea
+Bollywood actor Dino Morea and his brother, Santino Rocco Morea, were also questioned in the case in May 2025
 
+## ‘Should get to cross-examine SC judge’: Ex-acting Rajasthan CJ accused of corruption
+Sharma said he has written to CJI Surya Kant seeking an opportunity to cross-examine Justice Sandeep Mehta over the allegations against him.
 
-## As inflation bites, shoppers count every penny
+## After teen's gangrape, audit finds only 16 of 736 DDA parks have CCTVs
+The audit classified 190 parks as high-risk, 258 as medium-risk and 288 as low-risk.
 
+## Dharma and rashtra inseparable; India’s knowledge tradition can guide world: Bhagwat
+Dharma and rashtra inseparable; India’s knowledge tradition can guide world: Bhagwat
 
-## Economy may expand 7.3% in July-September, says finance ministry
+## EC orders special drive to add ‘left-out’, first-time voters after SIR completion; BLOs to visit homes
+In a letter to the chief electoral officers, the ECI instructed a special drive to enrol left-out and first-time young electors
 
+## 28 geo features in Ladakh formally identified on Survey of India map
+Guru Rinpoche has been identified as a lake and Yangpa as a river, while Hot Spring has been classified as a water body.
 
-## Anup Bagchi: ICICI pro who'll steer HDFC Bank
+## China’s AI compute ambitions demand innovation
+China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To reach the 2030 target while being blocked by the United States from importing th
 
+## Hong Kong ranks 7th globally in drawing next wealthy class – trailing Singapore: study
+Hong Kong ranked seventh globally as a destination for attracting and retaining the next generation of high-net-worth individuals (HNWIs), trailing traditional rival Singapore in sixth place, according to a Savills study. The two top finance hubs in the Asia-Pacific region have been stepping up effo
 
-## Banks, NPCI to ensure MDR not passed on: SBI
-Chairman Setty says bank aspires to increase UPI transactions through Yono to 5cr per day
-
-## Macro data signals growth: Sept GST jumps 14.7%; auto, UPI, PE-VC stay strong
-GST collections rise 15%, dispatches from top 5 car companies grow in double-digit
-
-## MCD amends park rules in Delhi: Ornamental parks with 5-year event history can host social, religious functions
-Only parks with at least five years of continuous booking history can be considered, while no new ornamental park will be added to the booking system.
-
-## CJP protest Mumbai LIVE: Dipke to lead stir demanding Gyanesh Kumar's resignation, meets students in Chembur
-CJP protest Mumbai LIVE: The first demonstration will be held at 4pm at Gate No. 6 of Chhatrapati Shivaji Maharaj Park, the Cockroach Janta Party said in a statement.
-
-## Keralam: Wife hires men to abduct husband, rape girlfriend
-A woman was abducted and raped and her boyfriend was severely beaten by a six-member gang who were allegedly hired by the man’s wife, police officers in Keralam’s Thrissur said on Thursday
-
-## Delhi Police says no permission granted for Jantar Mantar protest, gears up security
-AISA plans a demonstration over electoral roll issues, while the Indian Youth Congress was also denied permission for a protest.
-
-## Goa SIR: 88 of 97 left-out voters re-included after Form 6; 3 of remaining 9 hold Portuguese passports
-Officials said three of the remaining voters were Portuguese passport holders, while six were living abroad and officials were trying to contact them.
-
-## People will decide country’s fate: AISA’s Neha Bora ahead of Jantar Mantar protests
-Neha Bora shares her insights into the central focus of the protests adding that the demand for accountability is a wildfire spreading across the country
-
-## 'Fake news': CJP denies Abhijeet Dipke's Mumbai detention reports ahead of protest. He posts a selfie
-The CJP is set to lead a protest at Mumbai’s Shivaji Park at 4 pm today, demanding Gyanesh Kumar’s resignation and changes to the SIR process.
-
-## Jantar Mantar protest LIVE: Section 163 imposed in Delhi as student groups gear for up for protest despite no nod
-Jantar Mantar protest LIVE: The proposed march by the Students' Federation of India (SFI) and the Democratic Youth Federation of India (DYFI) has not been granted permission by Delhi Police.
+## From stock losses to bond bets: 5 figures investors are watching in China
+A sell-off in technology stocks pushed mainland Chinese equities to their lowest level in more than a year, even as Beijing stepped up support for the economy with a key interest rate cut. At the same time, Chinese government bonds attracted fresh interest as US Treasury yields climbed to a new high
 
 ## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
-China’s quantitative investing sector has produced 18 funds managing more than 10 billion yuan (US$1.5 billion) in assets each so far this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms are among 159 Chinese hedge funds over
+China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms were among 159 Chinese he
 
 ## Could Northern Metropolis draw educational leasing from Hong Kong’s Grade A office sector?
 As education sector demand supports Hong Kong’s Grade A office leasing activity, analysts said infrastructure that will serve the Northern Metropolis could decide whether schools and universities move their administrative and other services to this potential new centre of the city. “Over the medium 
@@ -122,15 +137,6 @@ Chinese automotive groups have cause to celebrate their go-global strategy amid 
 
 ## ‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom
 Chinese-American billionaire investor Duan Yongping, often called China’s Warren Buffett, has added 30,000 shares of Shanghai-listed baijiu maker Kweichou Moutai to his portfolio in his third public stake increase this year amid a deep sector-wide adjustment. Moutai’s premium valuation has long reli
-
-## Hong Kong banks set golden week lures for mainland Chinese visitors despite new levies
-Hong Kong commercial banks continue to offer incentives to attract mainland visitors during the first golden week after Beijing tightened cross-border investment rules and enforced the collection of a 20 per cent levy on overseas investment or insurance gains. HSBC would offer up to HK$88,000 (US$11
-
-## New World Development posts HK$26.8b loss after 11 Skies termination
-New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall project. Echo Huang, the firm’s chief executive, said at a W
-
-## DFI Retail sells stake in Maxim’s in return for Starbucks business, US$340m
-Maxim’s Caterers has struck a deal to buy back its shares from DFI Retail Group for US$340 million plus control of its licensed Starbucks business, according to an exchange filing released on Wednesday. The deal will mark the start of a fresh chapter for Maxim’s, bringing an end to decades of part o
 
 ## Hegseth Wants More
 The U.S. defense secretary announced ambitious plans in a “State of the Force” speech.
@@ -156,6 +162,21 @@ Despite shared concerns, stark differences exist in perceptions of AI in the Uni
 ## Would Better U.S.-China Ties Harm India?
 Washington and New Delhi have more to focus on than Beijing.
 
+## Japan and Australia: Toward a More Autonomous and Resilient Partnership
+As Washington’s reliability wavers, Tokyo and Canberra are learning to depend on each other.
+
+## Time for ASEAN to Revive its Customs Union Vision
+An idea rejected in 1986 deserves a second look.
+
+## Russia’s Navy Shows Its Reach Around Japan’s Southwestern Islands
+Vladimir Putin’s first-ever visit to a northern territory claimed by Japan comes amid a steady uptick in Russian naval activity near Japan’s southernmost islands.
+
+## ‘A Tower of Jelly’
+The United Nations, U Thant, and the 1967 Arab-Israeli War.
+
+## Indonesian President Replaces Foreign Minister With Career Diplomat
+The appointment of Arrmanatha Nasir is likely to result in a reassertion of the Foreign Ministry's role in Indonesian foreign policymaking.
+
 ## Can Kashmir Learn From India’s Gen Z Movement?
 J&K has lost its statehood, local governance, and even the right to protest. But there is still a way to resist.
 
@@ -165,20 +186,11 @@ Fujigaki Yuko’s selection sparked controversy – and shone a light on Japan�
 ## Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?
 A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.
 
-## China’s Stake in the Russian Duma Elections
-The topic is a controversial one in China due to the obvious parallels between the Russian and Chinese political systems and the stake the Chinese leadership has in the stability of their neighbor.
+## How Closed Airspace Threatens U.S. Military Mobility Across Eurasia
+For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of departure and its destination. Routes could ch
 
-## Taiwan Can’t Fight Beijing’s History War While Erasing Its Own ROC Legacy
-The push to emphasize Taiwanese identity is at odds with the government’s attempt to center the Republic of China in World War II history.
-
-## Australia as an AI Middle Power
-As a middle power, with a range of assets and resources, Australia is not powerless in the face of change.
-
-## The New Development Bank Quietly Delivers During India’s BRICS Year
-India is in a unique position as a founding member and one of its biggest borrowers.
-
-## Iran War Highlights 2 Challenges for Japan in a Taiwan Contingency
-Japan can use the Iran war to reexamine its security framework, with particular attention to preparations for a contingency involving Taiwan.
+## Cyber Operators Are Deployed in Place. The Pentagon Should Treat Them That Way
+A cyber operator can spend a shift tracking an adversary halfway around the world, walk to the parking lot, and be home in time for dinner. There is no flight home, no demobilization, and no transition from an operational mission back to ordinary life. The war zone is a commute away. That arrangemen
 
 ## Jaw-Jaw With Belarus, Revisited Amid Ukraine War
 In 2021, Michael Kimmage wrote, “Belarus and the Ukraine Trap,” where he argued the United States should adopt a realistic diplomatic relationship with Belarus that takes into account its strategic partnership with Russia and learns from overpromises made to Ukraine. Five years later, we asked Micha
@@ -197,12 +209,6 @@ Over the better part of three days, President Donald Trump hosted Chinese Presid
 
 ## Writing the Playbook: A Strategy and Doctrine for American Economic Security
 In January, this article series opened with a blunt question: Economic statecraft is back, but is America ready?Driving the question, in part, was the fact that the United States had not yet articulated (at least overtly) a strategy for economic statecraft. This was despite widening recognition that
-
-## What Will Hegseth’s “State of the Force” Reprise Reveal?
-Secretary of Defense Pete Hegseth is expected to convene a high-profile meeting of military personnel for a “State of the Force” address this week. Will it show the U.S. armed forces as healthy? The answer may depend on how the audience responds, regardless of what Hegseth says. How the audience han
-
-## The Unhedgeable Bet: What the Future Combat Systems Can Teach Us About Acquisition
-The Pentagon describes Golden Dome for America as a “system of systems,” an integrated air and missile defense architecture that combines space-based sensors, orbital interceptors, ground systems, and a command network designed to defeat any aerial attack. Eighteen months after its founding executiv
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +234,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Everything you need to know about Brazil’s tight presidential race
-Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.
+## ‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation
+Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.
 
-## The price Europe pays for keeping AI under control
-The European Union (EU) has introduced some of the world's strictest Artificial Intelligence (AI) laws.
+## Russia tries to freeze Ukraine as it suffers record casualties and retreats
+Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.
 
-## Pot banging protests across Spain over housing crisis
-Hundreds of protesters across Spain took part in pot banging demonstrations to demand political action over housing
+## Indian police detain politicians at protests over election chief
+Police in New Delhi have detained opposition politicians and demonstrators during protests.
 
-## Trump launches midterms campaign blitz amid record low approval ratings
-In a series of campaign-style rallies, Trump seeks to boost Republican odds amid Iran war and rising fuel costs.
+## Lawyers for US inmate who survived lethal injections demand release
+Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.
 
-## Trump says US may ask Europe to release diesel reserves
-Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.
+## How the fighting in Ethiopia spread beyond Tigray, in maps and charts
+Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north.
 
-## UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays
-Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.
+## Miami judge rules federal noncitizen voting law violates US Constitution
+Judge Leibowitz's decision underscores state jurisdiction over voter qualifications.
 
-## Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz
-US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.
+## Greece pushes EU to suspend asylum during mass migration surges
+EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.
 
-## Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank
-1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.
+## Election debate cancelled in Brazil, bomb scare outside Supreme Court
+Brazilian president and opposition candidate snub the final debate ahead of the presidential election.
+
+## Are CFOs ready for the storm?
+While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
 
 ## NFRA flags deeper going concern scrutiny, sets out 35 questions for audit committees
 Cash flows, promoter support, covenant breaches and future funding plans among key areas for auditor scrutiny under SA 570.
@@ -272,9 +281,6 @@ Venkataraman has been with the company since 2007 and will now oversee its finan
 
 ## Tata Trusts pitch Tata Sons restructuring as alternative to listing
 Tata Trusts have proposed merging Tata Electronics Systems Solutions and Tata Consulting Engineers with Tata Sons to alter its regulatory classification and preserve its unlisted private status. The Trusts said the restructuring would increase operating revenue and reduce investments in group compan
-
-## Four Adani Group companies settle public shareholding violations case with Sebi. Check details
-Adani Enterprises and three other companies have settled with Sebi over minimum public shareholding violations. The total settlement amount paid by the companies and directors is Rs 1.48 crore. Sebi initiated its investigation after receiving complaints in 2020 regarding non-compliance with public s
 
 ## RBI likely to lift repo by up to 75 bps amid geopolitical uncertainty: Report
 Reserve Bank of India may raise the policy repo rate by 50-75 basis points in the current cycle amid heightened macroeconomic headwinds and geopolitical uncertainty, a report said on Thursday.
