@@ -1,31 +1,40 @@
 # AION Intelligence
 
+## Two Iranian small-boat migrants charged with plotting attack on Jewish targets in Manchester
+UK’s Counter Terrorism Policing said Salam Ahmadyan and Rahman Salehi may have been directed from Tehran
+
 ## Widdecombe murder suspect charged with preparing terror acts against Farage
 UK’s Counter Terrorism Policing force charges Joshua Kerry after ‘complex investigation’
 
-## October fall
-Expectations for the Federal Reserve to raise rates later this month have drifted lower
+## US justice department will not reopen criminal probe of Fed’s Jay Powell
+US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’
+
+## Healey set to delay difficult choices with ‘breathing space’ UK Budget
+Chancellor expected to focus statement on targeted help for households and businesses rather than tax rises on the scale of recent budgets
+
+## US backs down from fuel export ban threat as G7 agrees to release 100mn barrels
+Donald Trump calls decision by European nations to release diesel from strategic reserves a ‘great thing’
 
 ## Italy and Greece seek leeway on EU fiscal rules
 Fuel price support and rising inflation put pressure on countries’ public finances
 
-## ‘Amateurism and organisation’: Iran’s potential role in RAF Fairford incident
-Officers examine multiple lines of inquiry in the incident near the base that US bombers recently used to strike Tehran
+## US economy adds just 29,000 jobs in September as hiring slows sharply
+Figure renews market debate about outlook for further Fed rate rises
+
+## October fall
+Expectations for the Federal Reserve to raise rates later this month have drifted lower
+
+## Arctic sea routes boom as Gulf war and global warming divert shipping
+Transits via Northern Sea Route quadruple as melting ice makes journey more passable and vessels avoid the Middle East
 
 ## Low-profile hedge fund smashes record for New York office rent
 Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower
 
-## Treasuries are losing their moneyness
-For four decades, US government bonds have been both securities and money. They may no longer be that special
-
-## US economy adds just 29,000 jobs in September as hiring slows sharply
-Figure renews market debate about outlook for further Fed rate rises
+## Stockpickers: AG Barr, Redcentric, Saga
+Our experts discuss which companies to buy, sell or hold this week
 
 ## Global bond market steadies after sharp sell-off
 Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002
-
-## Stockpickers: AG Barr, Redcentric, Saga
-Our experts discuss which companies to buy, sell or hold this week
 
 ## Our healthy obsession with fitness trackers
 Wellness wearables are more than fashion accessories, and that is good for all of us
@@ -35,9 +44,6 @@ Bund yields have fallen this week even as US, French and other governments’ bo
 
 ## Why does Anthropic’s IPO feel so weird?
 Compared to other blockbuster share sales, the build-up to the AI company’s stock market debut has felt discordant, even creepy
-
-## Quant hedge funds reap big gains from global bond sell-off
-Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears
 
 ## Bengal needs to get organised players in real estate sector, says Finance Minister Swapan Dasgupta
 Dasgupta emphasised the need for scrapping certain laws, such as the urban land ceiling act, which have so far been “impediments to development”
@@ -135,6 +141,9 @@ A sell-off in technology stocks pushed mainland Chinese equities to their lowest
 ## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
 China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms were among 159 Chinese he
 
+## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
+The White House had threatened to ban U.S. diesel exports if Europe did not step up.
+
 ## Where Does Russia’s Violent Imperialism Come From?
 A new book provides some helpful—if not always spot-on—answers.
 
@@ -155,9 +164,6 @@ A conversation with UNDP chief Alexander De Croo about building infrastructure i
 
 ## Pashinyan Confronts the Karabakh Cause
 A crackdown on refugees pits peace against democracy in Armenia.
-
-## How China Managed the Oil Shock
-Beijing concentrated the impact on refiners, not the public.
 
 ## Taiwan’s New F-16s: Why They Still Matter
 The Republic of China Air Force waited 20 years for these aircraft. What are they for?
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Arab party leader withdraws from Israeli elections
-Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.
+## Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
+Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.
 
-## Trump says Europe agreed to release ‘massive amount’ of diesel reserves
-US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.
+## Why Carney’s economic overhaul is clashing with Canada’s unions
+Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike.
 
-## Sudan’s army says it captured RSF stronghold in North Kordofan
-Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army's goal of cutting the RSF’s supply lines.
+## Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
+Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
 
-## Israeli barrier cuts off water to West Bank Palestinians before elections
-Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.
+## Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s
+Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024.
 
-## Israel’s Supreme Court overturns election panel ban on Arab parties
-Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.
+## Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator
+Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.
 
-## ‘I want the truth’: NY governor appoints prosecutor in Cornell rape case
-New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.
+## France held 1-1 by Italy in Zidane home debut after Olise stunner
+Italy's Alessandro Bastoni cancels out Michael Olise's opener for France in 1-1 UEFA Nations League draw in Saint-Denis.
 
-## Jerusalem Daily: Who gets to run in Israel’s elections?
-Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.
+## Bosnia’s elections explained
+Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock.
 
-## How the Banco Master scandal injected chaos into Brazil’s presidential race
-Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election.
+## Israeli general: Gaza captives could have been freed a year earlier
+Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
