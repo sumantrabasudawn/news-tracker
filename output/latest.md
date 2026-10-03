@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Tories vow to scrap £100,000 ‘tax trap’ for UK’s higher earners
+Badenoch says current threshold, introduced by previous Conservative government, punishes parents for working more
+
 ## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
 Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
 
@@ -20,9 +23,6 @@ Debt market sell-off makes France’s budget woes defining election issue in tes
 
 ## What’s driving the global bond sell-off?
 Looking at the most cited factors reveals a mixed picture
-
-## Capital gains tax rise would deter equity investors, wealth bosses warn
-Any Budget increase could undermine the government’s aim to boost UK investment
 
 ## How airlines try to weed out rogue pilots
 Background checks and psychological testing aim to ensure that only those fit to fly take the controls
@@ -90,6 +90,9 @@ In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transfo
 ## Tenant claims eviction protection with unregistered rent agreement; HC denies relief
 In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he h
 
+## Netanyahu invites PM Modi, flydubai captain Smit Machchhar to light Israel Independence Day flame: 'Highest honor'
+Netanyahu invites PM Modi and flydubai captain Smit Machchhar to light a flame at Israel’s Independence Day ceremony next year.
+
 ## Ludhiana man killed after assailants open fire on moving car; cops suspect old rivalry
 The victim, Laddi Khan, was travelling with his friend Manpreet Singh who managed to escape unhurt even as the car rammed into a roadside pole.
 
@@ -110,9 +113,6 @@ India said the Union Territories of Jammu & Kashmir and Ladakh were, are and wil
 
 ## HT Evening Brief October 3: India end Asian Games with 85 medals; Dubai Crown Prince hails Indian pilot
 Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
-
-## Punjab makeup artist, influencer Mad Sandhu shot dead in Amritsar
-Sandhu, whose full first name was Madhusudan, reportedly died while being taken to hospital.
 
 ## Wuhan joins major Chinese cities in shift towards completed-home sales
 A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says
-President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.
+## Israeli settlers attack Palestinian farmers during olive harvest
+Israeli settlers attack Palestinian farmers during olive harvest
 
-## Tennessee prisons official resigns after Christa Pike’s failed US execution
-The state's governor said Frank Strada would step down as an independent review examines what went wrong.
+## Fernandes denies Portugal rift, hails Ronaldo after walk out
+Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
 
-## Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
-Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players.
+## Trump ramps up pressure on US Republicans to end US clock switching
+The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.
 
-## Somalia won’t accept Israeli presence ‘under any circumstances’: President
-In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
+## Funeral held at Gaza church for mother and daughter killed in Gaza strike
+Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.
 
-## Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
-Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
+## Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
+The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.
 
-## Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
-Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
+## Is the CJP changing India’s political landscape?
+Youth-led movement demands resignation of chief election commissioner.
 
-## What we know about the co-pilot accused in Flydubai attack
-The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.
+## Al Jazeera speaks to Palestinian schoolboy from viral photograph
+A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.
 
-## ‘Bordering on angry’: The state of play as US midterms enter final month
-Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage.
+## Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game
+Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
