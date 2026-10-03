@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
+Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
+
 ## Temu’s UK sales more than double to $171mn
 Chinese ecommerce company has been exploiting tax loophole that exempts small parcels from customs duty
 
@@ -17,9 +20,6 @@ Debt market sell-off makes France’s budget woes defining election issue in tes
 
 ## What’s driving the global bond sell-off?
 Looking at the most cited factors reveals a mixed picture
-
-## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
-Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
 
 ## Capital gains tax rise would deter equity investors, wealth bosses warn
 Any Budget increase could undermine the government’s aim to boost UK investment
@@ -42,29 +42,41 @@ Need for giant airport hubs is being challenged by rise of long-range narrow-bod
 ## Record 12,000 complaints made against Lasting Powers of Attorney
 Rising claims of alleged financial misconduct reflect anxiety over potential inheritances
 
-## Flydubai flight 1073: How passengers and off-duty pilots helped avert a crash
-The incident raised questions about the cockpit attack, passenger intervention, pilot screening and the investigation into what happened aboard.
+## Market Hero or Hiroo Onoda?
+Recognising the possibility that global markets could be witnessing a regime change is the most important message to take away from the bond tantrums playing out in developed countries today
 
-## Parliamentary panel may recommend govt for action on monitoring crypto
-The panel is currently preparing its report for submission to the Speaker of the Lok Sabha
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Balrampur Chini Mills, Paradeep Phosphates and Prestige Estates Projects
 
-## Tens of thousands protest across Spain over housing crisis, demand government action
-Saturday’s demonstrations followed a parliamentary setback for measures intended to address growing public anger over housing-related concerns
+## Equity bulls have a new competitor in global bonds
+Relentless bonds sell-off and soaring yields turn fixed income into an increasingly compelling alternative to equities
 
-## Trump announces $90 Medicare payment for more than 20 million Americans
-The proposed payments come as the Trump administration announces additional financial measures for Americans ahead of November’s midterm elections
+## Anthropic said to target mega-IPO before thanksgiving holiday
+The firm behind Claude could begin formal IPO marketing as early as the week of Nov. 9, targeting trading before Thanksgiving
 
-## Gadkari calls for global code of conduct for infrastructure sector
-Infrastructure development is the most crucial factor in transforming India into a leading economy, said Union minister Nitin Gadkari
+## Indian IT unlikely to see growth revival in Q2 as cautious spending persists
+Indian IT is bracing for a muted Q2FY27, with analysts forecasting only marginal growth
 
-## Noel Tata questions Chandrasekaran’s re-appointment, seeks Sept 17 board meeting video
-Legal view. Tata cites former CJI Chandrachud’s opinion as Tata Sons defends reappointment with other legal opinions
+## Russia to take 70,000 Indian skilled workers this year, Jaishankar tells parliamentary panel
+Jaishankar briefed the parliamentary committee on trade, investment, energy cooperation, Ukraine conflict and efforts to secure Indians serving in Russia
 
-## Indian economy’s fundamentals remain strong and are strengthening, says FM Sitharaman
-FM flags strategic resources, global openness, skills and private investment as key priorities
+## Chandrababu Naidu calls on IITians to unite for nation building, pitches Quantum Valley in Amaravati
+Addressing the PanIIT summit, Naidu outlined initiatives spanning startups, research, quantum computing, education and technology across Andhra Pradesh.
 
-## Air India Express expands fleet to 110 aircraft ahead of winter schedule
-The airline is reshaping its fleet and network as aircraft transfers and a major retrofit programme prepare it for additional operations
+## Mastering Derivatives: Managing intraday futures positions
+It is best to manually close your futures position earlier to moderate execution risk
+
+## Hydro generation falls short, strains power supply during non-solar hours in Sept
+
+
+## Third edition of Green Energy Corridor to add 51,126 ckm transmission lines, 50 GWh BESS
+The Indian government has approved the third phase of the Green Energy Corridor to enhance renewable energy transmission. This phase will create over 51,000 circuit kilometres of transmission lines and significant transformation capacity. It also includes the installation of Battery Energy Storage S
+
+## Bulk diesel price up Rs 14.6/litre as crude surge squeezes oil cos' margins
+Nayara raises petrol price by Rs 5/litre, diesel by Rs 3 as crude surge hits margins
+
+## How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit
+The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a landlord claims to have collected rent in c
 
 ## Rate hike may hurt select NBFC segments, but broad asset stress unlikely: Report
 Nuvama Institutional Equities suggests that an RBI rate hike may not broadly impact NBFC asset quality. The report indicates that past rate increases did not lead to widespread deterioration. Current risks, including the West Asia conflict, appear limited to specific NBFC segments. Healthy capital b
@@ -78,41 +90,29 @@ In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transfo
 ## Tenant claims eviction protection with unregistered rent agreement; HC denies relief
 In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he h
 
-## Need cash but don’t want to sell stocks? Here’s a way, explained in 10 points
-Investors have the option to leverage their shares in a demat account for borrowing, providing them access to immediate cash flow. The borrowing capacity hinges on the type of securities held and the lender's guidelines. It's vital for borrowers to grasp the risks associated with fluctuating share p
+## Ludhiana man killed after assailants open fire on moving car; cops suspect old rivalry
+The victim, Laddi Khan, was travelling with his friend Manpreet Singh who managed to escape unhurt even as the car rammed into a roadside pole.
 
-## Nayara hikes petrol by Rs 5, diesel by Rs 3 amid pressure from rising oil prices
-Nayara Energy has announced an increase in fuel prices, raising petrol rates by Rs 5 and diesel by Rs 3 per litre. This decision comes in response to climbing international crude oil costs. Notably, Nayara had previously reduced prices for the first time in two years as global tensions subsided.
+## Prashant Bhushan, Neha Bora among 160 detained on Day 2 of anti-CEC stir; Yogendra Yadav calls march on October 4
+A day after over 1,000 protesters were detained, several lawyers, activists and students gathered at the protest site for a second consecutive day.
 
-## Today’s resilience no guarantee for tomorrow: RBI Guv flags emerging financial risks
-During the Kautilya Economic Conclave, Reserve Bank governor Sanjay Malhotra emphasized the critical need for a resilient financial infrastructure. He pointed out the significance of monitoring new vulnerabilities to ensure the system can withstand diverse shocks. Malhotra acknowledged that systemic
+## Elderly couple flung in air, injured after being hit by car in Delhi's Kirti Nagar, woman driver flees | Video
+The video clip further shows the woman driver stopping her vehicle, coming out of it and rushing towards the elderly man who is lying on the road.
 
-## Rangpo-Gangtok rail link plan: Railways fast-tracks 34-km capital line
+## Vijay calls Stalin’s remarks on Sathyabama ‘indecent, perverse’, says TVK will respond
+Vijay strongly condemned Stalin's alleged remarks in a post on X, describing the DMK as a “force of evil”.
 
+## Ganesh 'visarjan' over, Gyanesh Kumar 'visarjan' remains: Prakash Raj
+"Ganesh visarjan is over in Karnataka, Andhra and entire India. Now, Gyanesh Kumar visarjan remains," he told reporters here.
 
-## Odisha rape accused injured in police encounter after firing at cops
-The victim lodged a first information report on Thursday at Nayapalli police station, alleging that an unidentified masked man entered her rented house
+## 'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN
+India said the Union Territories of Jammu & Kashmir and Ladakh were, are and will always remain "integral and inalienable" parts of India.
 
-## Pakistan-China 5th gen fighter jet collaboration a concern, but we possess necessary capabilities: IAF Chief
-Singh stressed on effectiveness of a fighter aircraft depends not only on the platform itself but also on how well it is integrated.
+## HT Evening Brief October 3: India end Asian Games with 85 medals; Dubai Crown Prince hails Indian pilot
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
 
-## Indian proposal for Ukraine truce ‘most comprehensive’, says Ukrainian foreign minister Andrii Sybiha
-Sybiha said similar proposals have been made by Turkey and Egypt, which proposed a truce in the Black Sea to restore grain exports from Ukraine.
-
-## No PUC, no petrol: Haryana NCR pumps told to verify certificates before refuelling from October 1
-This comes after a directive issued by Haryana transport department on October 30.
-
-## 3 serving Army personnel among 7 arrested in Telangana arms theft case: Police
-The case came to light on August 31, when Army personnel at the 20 Battalion, Madras Regiment, Bollaram, found that the locks of the Kote (arms store) and Magazine had been broken
-
-## Money woes, request to return home: Gurugram man's last chat with father before jumping off Noida high-rise
-An AC technician working in the adjacent balcony had tried stopping the man, but by the time he intervened, the Gurugram man had already jumped.
-
-## Mumbai police files FIR against CJP leaders, supporters over Shivaji Park protest
-The Mumbai police denied permission to the CJP’s representative Ajinkya Shinde for organising the protests at Shivaji Park
-
-## Mumbai Police file FIR against 500 unidentified persons, organisers over CJP's Shivaji Park protest
-Mumbai Police registered FIR against organisers, 400-500 unidentified persons for Cockroach Janta Party's protest held at Shivaji Park on Friday.
+## Punjab makeup artist, influencer Mad Sandhu shot dead in Amritsar
+Sandhu, whose full first name was Madhusudan, reportedly died while being taken to hospital.
 
 ## Wuhan joins major Chinese cities in shift towards completed-home sales
 A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## At least 17 people, mostly pilgrims, killed in Kenya road crash
-The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.
+## Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says
+President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.
 
-## What to know about Brazil’s 2026 presidential election
-Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.
+## Tennessee prisons official resigns after Christa Pike’s failed US execution
+The state's governor said Frank Strada would step down as an independent review examines what went wrong.
 
-## Israel election double standard: Arab leader forced out, far right cleared
-Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.
+## Israeli reporter’s ‘verbal attack’ ends Ireland football news conference
+Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland's players.
 
-## Britain’s military in Kenya: Allegations, immunity and a fight for justice
-Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.
+## Somalia won’t accept Israeli presence ‘under any circumstances’: President
+In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
 
-## LIVE: Croatia vs England – UEFA Nations League
-Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
+## Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
+Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
 
-## Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
-Military, pro-government forces recapture airport in Tigray's capital as fighting also rages in Amhara and Afar regions.
+## Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
+Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
 
-## French high school engulfed in flames as student protests continue
-A French high school in Metz went up in flames as student protests over school conditions spread across the country.
+## What we know about the co-pilot accused in Flydubai attack
+The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.
 
-## Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge
-Russia has also attacked another key bridge in Kyiv, the second such strike in two days.
+## ‘Bordering on angry’: The state of play as US midterms enter final month
+Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
