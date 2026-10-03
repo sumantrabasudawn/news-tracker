@@ -1,118 +1,115 @@
 # AION Intelligence
 
-## India throws Modi a month-long birthday
-Nationwide festivities celebrating the prime minister come under a cloud of protests and youth discontent
+## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
+Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
 
-## Chill out: Japan’s top vending machine maker now cools data centres
-Fuji Electric reworks its refrigeration technology into energy-efficient cooling system for servers
+## Capital gains tax rise would deter equity investors, wealth bosses warn
+Any Budget increase could undermine the government’s aim to boost UK investment
 
-## Two Iranian small-boat migrants charged with plotting attack on Jewish targets in Manchester
-UK’s Counter Terrorism Policing said Salam Ahmadyan and Rahman Salehi may have been directed from Tehran
+## The right and wrong lessons to learn from Spain’s housing crisis
+Evictions and spiralling rents are the symptom, not the underlying disease
 
-## Widdecombe murder suspect charged with preparing terror acts against Farage
-UK’s Counter Terrorism Policing force charges Joshua Kerry after ‘complex investigation’
+## Rising gilt yields attract retail investors hunting for tax-efficient assets
+30-year yields are above 6 per cent for the first time since 1998
 
-## US justice department will not reopen criminal probe of Fed’s Jay Powell
-US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’
+## Does the EU want Britain back?
+Burnham has reopened the Brexit debate. That doesn’t mean the UK will be welcomed back on its own terms
 
-## Healey set to delay difficult choices with ‘breathing space’ UK Budget
-Chancellor expected to focus statement on targeted help for households and businesses rather than tax rises on the scale of recent budgets
+## Struggle to handle Fairford plot shows need for reform, local police chief says
+Gloucestershire chief constable Maggie Blyth says suspected terrorism incident highlights issues facing small forces like hers
 
-## US backs down from fuel export ban threat as G7 agrees to release 100mn barrels
-Donald Trump calls decision by European nations to release diesel from strategic reserves a ‘great thing’
+## Zelenskyy asked Trump to block Russia and China’s Starlink rival
+Ukraine’s president says he requested his US counterpart to impose sanctions on companies involved in developing ‘Rassvet’
 
-## Italy and Greece seek leeway on EU fiscal rules
-Fuel price support and rising inflation put pressure on countries’ public finances
+## The ever-shrinking case for expanding Heathrow
+Need for giant airport hubs is being challenged by rise of long-range narrow-body planes that go to places their bigger predecessors couldn’t
 
-## Arctic sea routes boom as Gulf war and global warming divert shipping
-Transits via Northern Sea Route quadruple as melting ice makes journey more passable and vessels avoid the Middle East
+## How airlines try to weed out rogue pilots
+Background checks and psychological testing aim to ensure that only those fit to fly take the controls
 
-## Low-profile hedge fund smashes record for New York office rent
-Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower
+## Manchester City’s fightback begins
+Also in today’s newsletter: NFL fatigue in London
 
-## Stockpickers: AG Barr, Redcentric, Saga
-Our experts discuss which companies to buy, sell or hold this week
+## Record 12,000 complaints made against Lasting Powers of Attorney
+Rising claims of alleged financial misconduct reflect anxiety over potential inheritances
 
-## Global bond market steadies after sharp sell-off
-Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002
+## Dethroning FICO won’t much help US homeowners
+Housing tsar Bill Pulte wants more competition among consumer credit agencies, but borrowers may just seek the most lenient
 
-## Our healthy obsession with fitness trackers
-Wellness wearables are more than fashion accessories, and that is good for all of us
+## SEBI examining position limits for non-agri contracts to boost liquidity
+The regulator is also working to reduce structural friction in commodity markets
 
-## Investors seek refuge from bond rout in haven German debt
-Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears
+## CII welcomes RoDTEP extension, seeks five-year policy horizon for exporters
+The extension comes as India’s merchandise exports recorded strong growth during April-August, while the government targets $1 trillion exports this fiscal year
 
-## Zoho launches business version of messaging app Arattai
-Business version to allow businesses and organisations to communicate with customers and manage conversations directly through the Arattai app
+## Today’s Gold Rate in India October 3: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices down across metro cities on October 3
 
-## Govt preparing new affordable housing policy, expected to come in next six months, says Credai
-Reiterating the importance of revising the definition of affordable housing, the realtors’ body urged the government to remove the ₹45 lakh price cap per unit and retain only the prescribed size criteria in the new policy
+## Today’s Gold Rate in India October 3: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices down across other cities on October 3
 
-## Active mutual funds keep beating passive peers, but edge narrows over time
-Similarly in the first year, active small-cap funds generated returns of 3.6 per cent, while passive funds failed to deliver any gains registered a decline of 0.2 per cent
+## India defeat Pakistan to win second consecutive Asian Games cricket gold medal
+After posting 211 for six on a batting-friendly track, India restricts Pakistan to 192 for six
 
-## Bengal needs to get organised players in real estate sector, says Finance Minister Swapan Dasgupta
-Dasgupta emphasised the need for scrapping certain laws, such as the urban land ceiling act, which have so far been “impediments to development”
+## SEBI to soon issue framework on Closing Auction Session; receives over 3,500 comments
+Asked when the final framework or circular on CAS can be expected, Pandey said the regulator would quickly examine the responses and move ahead with the process
 
-## Centre consistently working to ensure better incomes for all farmers: Nirmala Sitharaman
-Various schemes were being implemented based on the needs of farmers, including support for aquaculture and livestock farming through joint efforts of the Centre and the State government
+## Resilience of financial system not a guarantee against future vulnerabilities: RBI Guv
+Today’s resilience may not necessarily imply tomorrow’s immunity, RBI Governor Sanjay Malhotra says as he flags increasing exogenous systemic risks
 
-## From captives to hybrids: GCCs enter a new phase of growth in the AI era
-Industry experts say the shift could sharpen India’s strategic edge but also requires leadership with experience across multiple technology cycles to sustain value beyond headcount growth.
+## GIFT City has rules for family offices to go global, but capital controls remain a hurdle
+GIFT City’s offshore Family Investment Fund regime allows Indian family offices to access global markets, as outbound schemes raise about $1.1 billion
 
-## Reimagining Kerala: CM calls for comprehensive transformation across key sectors
-V D Satheesan delivers 18th K P Hormis Memorial Lecture hosted by Federal Bank
+## Over 3,500 responses on CAS: Sebi to quickly move ahead with proposals
+In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to the Closing Auction Session mechanism. This initiative is driven by the feedback of over 3,500 participants who responded to the consultation paper. Apart from updating settlement prices for index and 
 
-## Letters to Editor dated October 2, 2026
+## Tenant claims eviction protection with unregistered rent agreement; HC denies relief
+In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he h
+
+## Need cash but don’t want to sell stocks? Here’s a way, explained in 10 points
+Investors have the option to leverage their shares in a demat account for borrowing, providing them access to immediate cash flow. The borrowing capacity hinges on the type of securities held and the lender's guidelines. It's vital for borrowers to grasp the risks associated with fluctuating share p
+
+## Nayara hikes petrol by Rs 5, diesel by Rs 3 amid pressure from rising oil prices
+Nayara Energy has announced an increase in fuel prices, raising petrol rates by Rs 5 and diesel by Rs 3 per litre. This decision comes in response to climbing international crude oil costs. Notably, Nayara had previously reduced prices for the first time in two years as global tensions subsided.
+
+## Today’s resilience no guarantee for tomorrow: RBI Guv flags emerging financial risks
+During the Kautilya Economic Conclave, Reserve Bank governor Sanjay Malhotra emphasized the critical need for a resilient financial infrastructure. He pointed out the significance of monitoring new vulnerabilities to ensure the system can withstand diverse shocks. Malhotra acknowledged that systemic
+
+## Rangpo-Gangtok rail link plan: Railways fast-tracks 34-km capital line
 
 
-## G7’s 100-million-barrel diesel fix: What happens after the emergency release
-The G7 announced an urgent release of 100 million barrels of oil and fuel products to counteract the ongoing diesel shortages, starting now and extending over the upcoming four months. Yet, experts warn that this withdrawal from emergency reserves could jeopardize future preparedness. Additionally, 
+## Goyal pitches India as global trade hub, eyes 75-80% of world economy
+India is actively pursuing free trade agreements with 31 nations to boost its global trade ties. Commerce Minister Piyush Goyal underscored the possibility of achieving a $30 trillion economy by 2047. He pointed out significant opportunities for both American and Indian-American entrepreneurs to eng
 
-## Irdai plan to help check mis-selling, raise returns
-Irdai has introduced proposed guidelines aimed at reshaping the commission and expense structures for insurance distribution. This shift focuses on reducing reliance on high commission models, favoring a more customer-oriented strategy. Key proposals include imposing limits on commissions for produc
+## 'Oil's' well in September: How India kept crude flowing amid the energy crisis
+September marked a significant high in India's crude oil imports, mainly spurred by boosted supplies from Gulf nations. The reintroduction of Iraqi and Kuwaiti crude has notably changed the dynamics of India's import sources, ensuring better supply availability. This surge assists Indian refiners in
 
-## Sea of red for most asset classes
+## Odisha govt announces ₹11 lakh each for Indian women's hockey team players for Asian Games win
+India ended a 44-year wait for the Asian Games women's hockey gold and qualified for the 2028 Los Angeles Olympics.
 
+## Delhi’s new traffic system to track stolen vehicles, detect traffic jams and road accidents
+Delhi’s proposed ITMS will alert traffic police about stolen vehicles, accidents, traffic jams and slow-moving stretches, with more than 2,500 cameras planned.
 
-## Father got 3 bigha in 1972; HC protects married daughter's land claim after parents death
-In 1972, the Himachal Pradesh government allotted three bigha and two biswas of agricultural land in Shimla to a person under the Nautor rules for cultivation. His wife died in 2012, leaving behind their only daughter, who subsequently approached the revenue authorities once again for issuance of th
+## ‘Everyone is proud’: Smit Machchhar's family lauds him after flydubai incident
+Smit Machchhar's father-in-law, Jaysukh Jogi, shared that prominent leaders and citizens alike have reached out to salute the captain’s extraordinary bravery.
 
-## ‘Workers growing increasingly anxious’: US adds 29k jobs, far below 90k expected
-US employers added only 29,000 jobs in September, significantly lower than economists' expectations of 90,000. The unemployment rate rose to 4.2% as more people entered the workforce without immediate jobs. Healthcare hiring showed a notable slowdown, with government job cuts further contributing to
+## Development gains must reach all; it's necessary for democracy, youth's faith in it: Vice president
+Development gains must reach all; it's necessary for democracy, youth's faith in it: Vice president
 
-## September shipments through Hormuz hit post-war high as LNG cargoes pick up
-The month of September marked a significant spike in LNG traffic through the Strait of Hormuz, with 19 to 21 cargoes navigating the waters, the highest since war broke out. The cargoes predominantly hailed from Qatar and the United Arab Emirates. Interestingly, vessels adopted unusual routes, resort
+## Gurugram man jumps from 41st floor of posh Noida society, was in monetary distress: Police
+Around 11am, the man reportedly crossed the balcony and started walking on the ledge, an officer said.
 
-## If Trump imposes tariffs, will buying crude from Russia make economic sense for India?
-Russia became an unusually attractive supplier when Western buyers retreated after the war with Ukraine. Its share of Indian crude imports, below 2% before the war, expanded rapidly as discounts compensated refiners for longer supply chains. In the present day, the situation has become more complex,
+## Rahul Gandhi launches ‘Satyagraha' platform: Will help people where truth is being crushed
+Gandhi said their protest will find a place on the Satyagraha map, adding, "you will see who else, like you, is fighting their own battle".
 
-## A costly bite: Global food prices rise to their highest level in nearly four years
-In a concerning trend, global food prices have surged to their highest point in nearly four years, driven by disruptions in trade and adverse weather conditions. According to the United Nations' Food and Agriculture Organization, there are marked increases in the costs of cereals, sugar, and vegetab
+## Bengal: Fire breaks out at Democratic-TMC Bayron Biswas’ Murshidabad home, MLA injured
+Bengal’s Sagardighi MLA Bayron Biswas suffered burn injuries after a fire broke out at his residence in Dhuliyan, Murshidabad, on Saturday morning.
 
-## Three Class 9 students drown after being swept away by waves at AP’s Vizag beach
-Three Class 9 students drowned after strong waves swept them into deeper waters at Rushikonda beach in Visakhapatnam. Their bodies were recovered later.
+## 'Not just BJP, another party thinks...': CJP takes dig at 'total buffoons', Congress leader hits out
+Saurav Das said that some people, belonging to a party other than BJP, believe that only they have the responsibility of ‘saving India, saving constitution’.
 
-## ‘They were not granted permission’: Shivaji Park resident files complaint over CJP protest in Mumbai
-Complainant thanked the Mumbai police for the assurance given to her, saying that she and others with her “simply needed assistance and wanted to feel secure”.
-
-## In a first, Vande Bharat Express crosses world's highest Chenab rail bridge at 100 kmph | Video
-The ministry of railways, sharing a video of the train crossing the bridge, wrote on X, "For the first time, Vande Bharat crosses Chenab Bridge at 100 km/h."
-
-## HT Morning Brief October 3: Anti-CEC stir thwarted in Delhi; India basks in six-gold glory at Asian Games
-Here are today's biggest headlines, from politics and world news to sports and entertainment.
-
-## 25 years of Narendra Modi: A journey of service and solutions
-The story is not simply about 25 years in office. It is about a promise to change the meaning of governance for the common citizen.
-
-## Hockey captain to 3-time MLA: Who is Pargat Singh, the new Punjab Congress chief?
-Pargat Singh is a three-time MLA from Jalandhar Cantonment. He first won the constituency in 2012 on a Shiromani Akali Dal (SAD) ticket.
-
-## LAC ‘friction points’ marked on India map
-The Ministry of Home Affairs (MHA), in consultation with the Ladakh administration, has formally identified 28 places and geographical features in the Union territory through standard names on the official map of the Survey of India, officials said on Friday
-
-## Confusion over status of 2.2mn West Bengal voters in Election Commission's special drive
-The West Bengal Congress has sought clarity from the ECI on whether 22.21 lakh appellants can submit Form 6 during the special enrolment exercise.
+## Wuhan joins major Chinese cities in shift towards completed-home sales
+A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
 
 ## More Chinese banks likely to adopt AI rules after Ping An move: analysts
 After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an early benchmark for how far the sector can go in applying the technology. The Shenz
@@ -134,9 +131,6 @@ China has set a five-year goal for the expansion of intelligent computing capaci
 
 ## Hong Kong ranks 7th globally in drawing next wealthy class – trailing Singapore: study
 Hong Kong ranked seventh globally as a destination for attracting and retaining the next generation of high-net-worth individuals (HNWIs), trailing traditional rival Singapore in sixth place, according to a Savills study. The two top finance hubs in the Asia-Pacific region have been stepping up effo
-
-## From stock losses to bond bets: 5 figures investors are watching in China
-A sell-off in technology stocks pushed mainland Chinese equities to their lowest level in more than a year, even as Beijing stepped up support for the economy with a key interest rate cut. At the same time, Chinese government bonds attracted fresh interest as US Treasury yields climbed to a new high
 
 ## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 The White House had threatened to ban U.S. diesel exports if Europe did not step up.
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India vs Pakistan live: Asian Games cricket final
-Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
+## G7 to release 100 million barrels of oil and diesel, will it curb prices?
+Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.
 
-## Dominican Republic bans Haiti from its stadiums after football fans clash
-Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.
+## Who is the mystery co-pilot behind the Flydubai attack?
+Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.
 
-## Israeli air attack on Gaza City apartment kills at least five
-No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.
+## Yemen’s army claims over 1,500 Houthi casualties in past 24 hours
+Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city.
 
-## Schools ablaze as student protests spread across France
-Students have set fire to schools and clashed with police as protests spread across France
+## Polls open in Latvia against backdrop of perceived Russia threat
+Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory, but coalition negotiations could be complex.
 
-## US and Australia suspend diplomatic operations in Brazil before election
-Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
+## Turkish court detains football refereeing chief pending corruption trial
+Seven officials face an investigation over allegations of manipulation of the referee administration process.
 
-## Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
-Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
+## No handshakes and a delayed ceremony as India beat Pakistan at Asian Games
+India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
 
-## North Korea fires ballistic missile towards the sea, South Korea says
-A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says.
+## Floods sweep cars through streets after intense rain in Spain
+Floodwaters swept cars through Madrigueras, Spain, after near-record rainfall. One woman was killed and 90 rescued.
 
-## Dutch royal house helped slave trade to survive, study finds
-In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.
+## Man City whistleblower Pinto to lose witness protection amid death threats
+Pinto says he will go into hiding for an indefinite period following the Premier League's guilty verdict against City.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
