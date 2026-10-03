@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Temu’s UK sales more than double to $171mn
+Chinese ecommerce company has been exploiting tax loophole that exempts small parcels from customs duty
+
+## Iranian small-boat migrants charged over Manchester Jewish attack plot
+UK Counter Terrorism Policing says the two men may have been directed from Tehran
+
+## The town where 94% voted for Lula — and some now waver
+Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme
+
+## China launches anti-dumping probe into European chemical exports
+Latest tit-for-tat move follows three similar investigations launched by the EU last week
+
+## Europe Express: Lies and statistics
+Debt market sell-off makes France’s budget woes defining election issue in test for far-right
+
+## What’s driving the global bond sell-off?
+Looking at the most cited factors reveals a mixed picture
+
 ## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
 Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
 
 ## Capital gains tax rise would deter equity investors, wealth bosses warn
 Any Budget increase could undermine the government’s aim to boost UK investment
-
-## The right and wrong lessons to learn from Spain’s housing crisis
-Evictions and spiralling rents are the symptom, not the underlying disease
-
-## Rising gilt yields attract retail investors hunting for tax-efficient assets
-30-year yields are above 6 per cent for the first time since 1998
-
-## Does the EU want Britain back?
-Burnham has reopened the Brexit debate. That doesn’t mean the UK will be welcomed back on its own terms
-
-## Struggle to handle Fairford plot shows need for reform, local police chief says
-Gloucestershire chief constable Maggie Blyth says suspected terrorism incident highlights issues facing small forces like hers
-
-## Zelenskyy asked Trump to block Russia and China’s Starlink rival
-Ukraine’s president says he requested his US counterpart to impose sanctions on companies involved in developing ‘Rassvet’
-
-## The ever-shrinking case for expanding Heathrow
-Need for giant airport hubs is being challenged by rise of long-range narrow-body planes that go to places their bigger predecessors couldn’t
 
 ## How airlines try to weed out rogue pilots
 Background checks and psychological testing aim to ensure that only those fit to fly take the controls
@@ -30,35 +30,47 @@ Background checks and psychological testing aim to ensure that only those fit to
 ## Manchester City’s fightback begins
 Also in today’s newsletter: NFL fatigue in London
 
+## The right and wrong lessons to learn from Spain’s housing crisis
+Evictions and spiralling rents are the symptom, not the underlying disease
+
+## Zelenskyy asked Trump to block Russia and China’s Starlink rival
+Ukraine’s president says he requested his US counterpart to impose sanctions on companies involved in developing ‘Rassvet’
+
+## The ever-shrinking case for expanding Heathrow
+Need for giant airport hubs is being challenged by rise of long-range narrow-body planes that go to places their bigger predecessors couldn’t
+
 ## Record 12,000 complaints made against Lasting Powers of Attorney
 Rising claims of alleged financial misconduct reflect anxiety over potential inheritances
 
-## Dethroning FICO won’t much help US homeowners
-Housing tsar Bill Pulte wants more competition among consumer credit agencies, but borrowers may just seek the most lenient
+## Flydubai flight 1073: How passengers and off-duty pilots helped avert a crash
+The incident raised questions about the cockpit attack, passenger intervention, pilot screening and the investigation into what happened aboard.
 
-## SEBI examining position limits for non-agri contracts to boost liquidity
-The regulator is also working to reduce structural friction in commodity markets
+## Parliamentary panel may recommend govt for action on monitoring crypto
+The panel is currently preparing its report for submission to the Speaker of the Lok Sabha
 
-## CII welcomes RoDTEP extension, seeks five-year policy horizon for exporters
-The extension comes as India’s merchandise exports recorded strong growth during April-August, while the government targets $1 trillion exports this fiscal year
+## Tens of thousands protest across Spain over housing crisis, demand government action
+Saturday’s demonstrations followed a parliamentary setback for measures intended to address growing public anger over housing-related concerns
 
-## Today’s Gold Rate in India October 3: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices down across metro cities on October 3
+## Trump announces $90 Medicare payment for more than 20 million Americans
+The proposed payments come as the Trump administration announces additional financial measures for Americans ahead of November’s midterm elections
 
-## Today’s Gold Rate in India October 3: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices down across other cities on October 3
+## Gadkari calls for global code of conduct for infrastructure sector
+Infrastructure development is the most crucial factor in transforming India into a leading economy, said Union minister Nitin Gadkari
 
-## India defeat Pakistan to win second consecutive Asian Games cricket gold medal
-After posting 211 for six on a batting-friendly track, India restricts Pakistan to 192 for six
+## Noel Tata questions Chandrasekaran’s re-appointment, seeks Sept 17 board meeting video
+Legal view. Tata cites former CJI Chandrachud’s opinion as Tata Sons defends reappointment with other legal opinions
 
-## SEBI to soon issue framework on Closing Auction Session; receives over 3,500 comments
-Asked when the final framework or circular on CAS can be expected, Pandey said the regulator would quickly examine the responses and move ahead with the process
+## Indian economy’s fundamentals remain strong and are strengthening, says FM Sitharaman
+FM flags strategic resources, global openness, skills and private investment as key priorities
 
-## Resilience of financial system not a guarantee against future vulnerabilities: RBI Guv
-Today’s resilience may not necessarily imply tomorrow’s immunity, RBI Governor Sanjay Malhotra says as he flags increasing exogenous systemic risks
+## Air India Express expands fleet to 110 aircraft ahead of winter schedule
+The airline is reshaping its fleet and network as aircraft transfers and a major retrofit programme prepare it for additional operations
 
-## GIFT City has rules for family offices to go global, but capital controls remain a hurdle
-GIFT City’s offshore Family Investment Fund regime allows Indian family offices to access global markets, as outbound schemes raise about $1.1 billion
+## Rate hike may hurt select NBFC segments, but broad asset stress unlikely: Report
+Nuvama Institutional Equities suggests that an RBI rate hike may not broadly impact NBFC asset quality. The report indicates that past rate increases did not lead to widespread deterioration. Current risks, including the West Asia conflict, appear limited to specific NBFC segments. Healthy capital b
+
+## Could a mega US-Russia oil deal tied to Trump & his allies end Ukraine war?
+
 
 ## Over 3,500 responses on CAS: Sebi to quickly move ahead with proposals
 In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to the Closing Auction Session mechanism. This initiative is driven by the feedback of over 3,500 participants who responded to the consultation paper. Apart from updating settlement prices for index and 
@@ -78,35 +90,29 @@ During the Kautilya Economic Conclave, Reserve Bank governor Sanjay Malhotra emp
 ## Rangpo-Gangtok rail link plan: Railways fast-tracks 34-km capital line
 
 
-## Goyal pitches India as global trade hub, eyes 75-80% of world economy
-India is actively pursuing free trade agreements with 31 nations to boost its global trade ties. Commerce Minister Piyush Goyal underscored the possibility of achieving a $30 trillion economy by 2047. He pointed out significant opportunities for both American and Indian-American entrepreneurs to eng
+## Odisha rape accused injured in police encounter after firing at cops
+The victim lodged a first information report on Thursday at Nayapalli police station, alleging that an unidentified masked man entered her rented house
 
-## 'Oil's' well in September: How India kept crude flowing amid the energy crisis
-September marked a significant high in India's crude oil imports, mainly spurred by boosted supplies from Gulf nations. The reintroduction of Iraqi and Kuwaiti crude has notably changed the dynamics of India's import sources, ensuring better supply availability. This surge assists Indian refiners in
+## Pakistan-China 5th gen fighter jet collaboration a concern, but we possess necessary capabilities: IAF Chief
+Singh stressed on effectiveness of a fighter aircraft depends not only on the platform itself but also on how well it is integrated.
 
-## Odisha govt announces ₹11 lakh each for Indian women's hockey team players for Asian Games win
-India ended a 44-year wait for the Asian Games women's hockey gold and qualified for the 2028 Los Angeles Olympics.
+## Indian proposal for Ukraine truce ‘most comprehensive’, says Ukrainian foreign minister Andrii Sybiha
+Sybiha said similar proposals have been made by Turkey and Egypt, which proposed a truce in the Black Sea to restore grain exports from Ukraine.
 
-## Delhi’s new traffic system to track stolen vehicles, detect traffic jams and road accidents
-Delhi’s proposed ITMS will alert traffic police about stolen vehicles, accidents, traffic jams and slow-moving stretches, with more than 2,500 cameras planned.
+## No PUC, no petrol: Haryana NCR pumps told to verify certificates before refuelling from October 1
+This comes after a directive issued by Haryana transport department on October 30.
 
-## ‘Everyone is proud’: Smit Machchhar's family lauds him after flydubai incident
-Smit Machchhar's father-in-law, Jaysukh Jogi, shared that prominent leaders and citizens alike have reached out to salute the captain’s extraordinary bravery.
+## 3 serving Army personnel among 7 arrested in Telangana arms theft case: Police
+The case came to light on August 31, when Army personnel at the 20 Battalion, Madras Regiment, Bollaram, found that the locks of the Kote (arms store) and Magazine had been broken
 
-## Development gains must reach all; it's necessary for democracy, youth's faith in it: Vice president
-Development gains must reach all; it's necessary for democracy, youth's faith in it: Vice president
+## Money woes, request to return home: Gurugram man's last chat with father before jumping off Noida high-rise
+An AC technician working in the adjacent balcony had tried stopping the man, but by the time he intervened, the Gurugram man had already jumped.
 
-## Gurugram man jumps from 41st floor of posh Noida society, was in monetary distress: Police
-Around 11am, the man reportedly crossed the balcony and started walking on the ledge, an officer said.
+## Mumbai police files FIR against CJP leaders, supporters over Shivaji Park protest
+The Mumbai police denied permission to the CJP’s representative Ajinkya Shinde for organising the protests at Shivaji Park
 
-## Rahul Gandhi launches ‘Satyagraha' platform: Will help people where truth is being crushed
-Gandhi said their protest will find a place on the Satyagraha map, adding, "you will see who else, like you, is fighting their own battle".
-
-## Bengal: Fire breaks out at Democratic-TMC Bayron Biswas’ Murshidabad home, MLA injured
-Bengal’s Sagardighi MLA Bayron Biswas suffered burn injuries after a fire broke out at his residence in Dhuliyan, Murshidabad, on Saturday morning.
-
-## 'Not just BJP, another party thinks...': CJP takes dig at 'total buffoons', Congress leader hits out
-Saurav Das said that some people, belonging to a party other than BJP, believe that only they have the responsibility of ‘saving India, saving constitution’.
+## Mumbai Police file FIR against 500 unidentified persons, organisers over CJP's Shivaji Park protest
+Mumbai Police registered FIR against organisers, 400-500 unidentified persons for Cockroach Janta Party's protest held at Shivaji Park on Friday.
 
 ## Wuhan joins major Chinese cities in shift towards completed-home sales
 A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
@@ -228,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## G7 to release 100 million barrels of oil and diesel, will it curb prices?
-Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.
+## At least 17 people, mostly pilgrims, killed in Kenya road crash
+The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.
 
-## Who is the mystery co-pilot behind the Flydubai attack?
-Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.
+## What to know about Brazil’s 2026 presidential election
+Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.
 
-## Yemen’s army claims over 1,500 Houthi casualties in past 24 hours
-Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city.
+## Israel election double standard: Arab leader forced out, far right cleared
+Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.
 
-## Polls open in Latvia against backdrop of perceived Russia threat
-Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory, but coalition negotiations could be complex.
+## Britain’s military in Kenya: Allegations, immunity and a fight for justice
+Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.
 
-## Turkish court detains football refereeing chief pending corruption trial
-Seven officials face an investigation over allegations of manipulation of the referee administration process.
+## LIVE: Croatia vs England – UEFA Nations League
+Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
 
-## No handshakes and a delayed ceremony as India beat Pakistan at Asian Games
-India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
+## Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
+Military, pro-government forces recapture airport in Tigray's capital as fighting also rages in Amhara and Afar regions.
 
-## Floods sweep cars through streets after intense rain in Spain
-Floodwaters swept cars through Madrigueras, Spain, after near-record rainfall. One woman was killed and 90 rescued.
+## French high school engulfed in flames as student protests continue
+A French high school in Metz went up in flames as student protests over school conditions spread across the country.
 
-## Man City whistleblower Pinto to lose witness protection amid death threats
-Pinto says he will go into hiding for an indefinite period following the Premier League's guilty verdict against City.
+## Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge
+Russia has also attacked another key bridge in Kyiv, the second such strike in two days.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
