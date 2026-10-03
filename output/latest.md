@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## India throws Modi a month-long birthday
+Nationwide festivities celebrating the prime minister come under a cloud of protests and youth discontent
+
+## Chill out: Japan’s top vending machine maker now cools data centres
+Fuji Electric reworks its refrigeration technology into energy-efficient cooling system for servers
+
 ## Two Iranian small-boat migrants charged with plotting attack on Jewish targets in Manchester
 UK’s Counter Terrorism Policing said Salam Ahmadyan and Rahman Salehi may have been directed from Tehran
 
@@ -17,12 +23,6 @@ Donald Trump calls decision by European nations to release diesel from strategic
 
 ## Italy and Greece seek leeway on EU fiscal rules
 Fuel price support and rising inflation put pressure on countries’ public finances
-
-## US economy adds just 29,000 jobs in September as hiring slows sharply
-Figure renews market debate about outlook for further Fed rate rises
-
-## October fall
-Expectations for the Federal Reserve to raise rates later this month have drifted lower
 
 ## Arctic sea routes boom as Gulf war and global warming divert shipping
 Transits via Northern Sea Route quadruple as melting ice makes journey more passable and vessels avoid the Middle East
@@ -42,8 +42,14 @@ Wellness wearables are more than fashion accessories, and that is good for all o
 ## Investors seek refuge from bond rout in haven German debt
 Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears
 
-## Why does Anthropic’s IPO feel so weird?
-Compared to other blockbuster share sales, the build-up to the AI company’s stock market debut has felt discordant, even creepy
+## Zoho launches business version of messaging app Arattai
+Business version to allow businesses and organisations to communicate with customers and manage conversations directly through the Arattai app
+
+## Govt preparing new affordable housing policy, expected to come in next six months, says Credai
+Reiterating the importance of revising the definition of affordable housing, the realtors’ body urged the government to remove the ₹45 lakh price cap per unit and retain only the prescribed size criteria in the new policy
+
+## Active mutual funds keep beating passive peers, but edge narrows over time
+Similarly in the first year, active small-cap funds generated returns of 3.6 per cent, while passive funds failed to deliver any gains registered a decline of 0.2 per cent
 
 ## Bengal needs to get organised players in real estate sector, says Finance Minister Swapan Dasgupta
 Dasgupta emphasised the need for scrapping certain laws, such as the urban land ceiling act, which have so far been “impediments to development”
@@ -57,17 +63,17 @@ Industry experts say the shift could sharpen India’s strategic edge but also r
 ## Reimagining Kerala: CM calls for comprehensive transformation across key sectors
 V D Satheesan delivers 18th K P Hormis Memorial Lecture hosted by Federal Bank
 
-## Active mutual fund keep beating passive peers, but edge narrows over time
-Similarly in the first year, active small-cap funds generated returns of 3.6 per cent, while passive funds failed to deliver any gains registered a decline of 0.2 per cent
-
 ## Letters to Editor dated October 2, 2026
 
 
-## Editorial. CAFE smokescreen
-Fuel efficiency norms for cars disappointing
+## G7’s 100-million-barrel diesel fix: What happens after the emergency release
+The G7 announced an urgent release of 100 million barrels of oil and fuel products to counteract the ongoing diesel shortages, starting now and extending over the upcoming four months. Yet, experts warn that this withdrawal from emergency reserves could jeopardize future preparedness. Additionally, 
 
-## Centre fortifies India’s AI mission with Sovereign Compute Pool amid rising GPU costs
-The official said that the government is also preparing further bids for additional computing capacity, as it seeks to build a government-controlled pool of AI compute alongside capacity sourced from private providers
+## Irdai plan to help check mis-selling, raise returns
+Irdai has introduced proposed guidelines aimed at reshaping the commission and expense structures for insurance distribution. This shift focuses on reducing reliance on high commission models, favoring a more customer-oriented strategy. Key proposals include imposing limits on commissions for produc
+
+## Sea of red for most asset classes
+
 
 ## Father got 3 bigha in 1972; HC protects married daughter's land claim after parents death
 In 1972, the Himachal Pradesh government allotted three bigha and two biswas of agricultural land in Shimla to a person under the Nautor rules for cultivation. His wife died in 2012, leaving behind their only daughter, who subsequently approached the revenue authorities once again for issuance of th
@@ -84,38 +90,32 @@ Russia became an unusually attractive supplier when Western buyers retreated aft
 ## A costly bite: Global food prices rise to their highest level in nearly four years
 In a concerning trend, global food prices have surged to their highest point in nearly four years, driven by disruptions in trade and adverse weather conditions. According to the United Nations' Food and Agriculture Organization, there are marked increases in the costs of cereals, sugar, and vegetab
 
-## Historic milestone: Watch Vande Bharat cross Chenab bridge, Anji bridges at 100 kmph
-The higher speed of 100 kmph was successfully put to the test today, according to Railway minister Ashwini Vaishnaw. Vande Bharat Express (Train No. 26401/26404) set a new record by traversing the world's highest railway bridge, Chenab Bridge, and India's first cable-stayed railway bridge, the Anji 
+## Three Class 9 students drown after being swept away by waves at AP’s Vizag beach
+Three Class 9 students drowned after strong waves swept them into deeper waters at Rushikonda beach in Visakhapatnam. Their bodies were recovered later.
 
-## Gold's Rs 1.5 lakh price drives buyers to silver who get 650g silver at same price
-At current prices, 10 grams of 24-karat gold costs around Rs 1.5 lakh, an amount that would buy approximately 650 grams of silver. With gold prices remaining prohibitively high for a large section of middle-class buyers, the white metal is steadily attracting attention. High gold prices have made th
+## ‘They were not granted permission’: Shivaji Park resident files complaint over CJP protest in Mumbai
+Complainant thanked the Mumbai police for the assurance given to her, saying that she and others with her “simply needed assistance and wanted to feel secure”.
 
-## Gold gets its festive shine back as lower prices lure Asian buyers
-Recent declines in gold prices in India have sparked greater interest among physical buyers, leading to reduced discounts from sellers. With the festival season on the horizon, demand is likely to surge, particularly for jewelry. Similarly, Singapore reports increased buying activity, as evidenced b
+## In a first, Vande Bharat Express crosses world's highest Chenab rail bridge at 100 kmph | Video
+The ministry of railways, sharing a video of the train crossing the bridge, wrote on X, "For the first time, Vande Bharat crosses Chenab Bridge at 100 km/h."
 
-## ‘Are you afraid of BJP’: Stalin targets CM Vijay for alleged silence over SIR-CEC
-“What is your fear, CM sir what is the fear?" Stalin asked Vijay, demanding to know the reason behind his alleged silence over SIR.
+## HT Morning Brief October 3: Anti-CEC stir thwarted in Delhi; India basks in six-gold glory at Asian Games
+Here are today's biggest headlines, from politics and world news to sports and entertainment.
 
-## Congress appoints Aradhna Mishra Mona as new UP chief, Imran Masood as working president ahead of 2027 polls
-The party also named Devinder Nishad and Alok Prasad as senior vice presidents in a major reshuffle ahead of 2027 Assembly polls.
+## 25 years of Narendra Modi: A journey of service and solutions
+The story is not simply about 25 years in office. It is about a promise to change the meaning of governance for the common citizen.
 
-## Pargat Singh appointed Punjab Congress chief after Warring's exit, takes charge ahead of 2027 Assembly polls
-Amarinder Singh Raja Warring, who had headed the state unit since April 2022, met Rahul Gandhi in Delhi and submitted his resignation.
+## Hockey captain to 3-time MLA: Who is Pargat Singh, the new Punjab Congress chief?
+Pargat Singh is a three-time MLA from Jalandhar Cantonment. He first won the constituency in 2012 on a Shiromani Akali Dal (SAD) ticket.
 
-## Mohammad Deepak gets bail after arrest over Kotdwar trader altercation
-Gym owner Mohammad Deepak was granted bail by an SDM court after his preventive arrest over an alleged altercation with a Kotdwar trader.
+## LAC ‘friction points’ marked on India map
+The Ministry of Home Affairs (MHA), in consultation with the Ladakh administration, has formally identified 28 places and geographical features in the Union territory through standard names on the official map of the Survey of India, officials said on Friday
 
-## Mini-truck crashes into road divider in dry Bihar; locals loot liquor bottles as driver flees
-Police said they were scrutinising CCTV footage and social media video clips to book people who had raided the vehicle and retrieve the liquor bottles from them
+## Confusion over status of 2.2mn West Bengal voters in Election Commission's special drive
+The West Bengal Congress has sought clarity from the ECI on whether 22.21 lakh appellants can submit Form 6 during the special enrolment exercise.
 
-## CJP’s Dipke warns of ‘Jantar Mantar 2.0’ at Mumbai protest, demands CEC Gyanesh Kumar’s resignation
-CJP founder Abhijeet Dipke demanded CEC Gyanesh Kumar’s resignation at a Mumbai protest, alleging mass voter-roll deletions under the SIR process.
-
-## ‘They shot down their own satellite’: Ex-official recalls US' shock over India's ASAT missile test
-Grusch claimed that America's National Reconaissance Office had scrambled to assess the impact of debris following the test.
-
-## Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing
-The deceased, a paediatrician who recently completed her postgraduate medical training in Warangal 150km from Hyderabad.
+## More Chinese banks likely to adopt AI rules after Ping An move: analysts
+After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an early benchmark for how far the sector can go in applying the technology. The Shenz
 
 ## McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail
 As “long-dormant old money” steps back into Hong Kong’s retail property market, McDonald’s has sold the property housing its first New Territories restaurant for HK$120 million (US$15.3 million), extending its year-long sell-down of self-owned shops. The property at 10-22 Tsuen Wan Market Street, sp
@@ -137,9 +137,6 @@ Hong Kong ranked seventh globally as a destination for attracting and retaining 
 
 ## From stock losses to bond bets: 5 figures investors are watching in China
 A sell-off in technology stocks pushed mainland Chinese equities to their lowest level in more than a year, even as Beijing stepped up support for the economy with a key interest rate cut. At the same time, Chinese government bonds attracted fresh interest as US Treasury yields climbed to a new high
-
-## DeepSeek effect? How China’s quant funds thrive amid tight regulatory scrutiny
-China’s quantitative investing sector has added 18 new members to the ranks of funds managing more than 10 billion yuan (US$1.5 billion) in assets this year, underlining the industry’s ability to generate competitive returns despite a tight regulatory environment. The firms were among 159 Chinese he
 
 ## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 The White House had threatened to ban U.S. diesel exports if Europe did not step up.
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
-Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.
+## India vs Pakistan live: Asian Games cricket final
+Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.
 
-## Why Carney’s economic overhaul is clashing with Canada’s unions
-Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike.
+## Dominican Republic bans Haiti from its stadiums after football fans clash
+Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.
 
-## Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
-Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
+## Israeli air attack on Gaza City apartment kills at least five
+No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.
 
-## Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s
-Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024.
+## Schools ablaze as student protests spread across France
+Students have set fire to schools and clashed with police as protests spread across France
 
-## Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator
-Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.
+## US and Australia suspend diplomatic operations in Brazil before election
+Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
 
-## France held 1-1 by Italy in Zidane home debut after Olise stunner
-Italy's Alessandro Bastoni cancels out Michael Olise's opener for France in 1-1 UEFA Nations League draw in Saint-Denis.
+## Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
+Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
 
-## Bosnia’s elections explained
-Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock.
+## North Korea fires ballistic missile towards the sea, South Korea says
+A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says.
 
-## Israeli general: Gaza captives could have been freed a year earlier
-Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier.
+## Dutch royal house helped slave trade to survive, study finds
+In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
