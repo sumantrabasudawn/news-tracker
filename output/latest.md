@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## Burnham reverses much of plan to scrap jury trials
-Ministers are scaling back a shake-up of the court system given the ‘strength of feeling’ over the proposals
+## Wall Street’s IPO fervour cools on tepid demand and valuation worries
+Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets
 
-## Tories vow to scrap £100,000 ‘tax trap’ for UK’s higher earners
-Badenoch says current threshold, introduced by previous Conservative government, punishes parents for working more
+## Andy Burnham and the art of corporate pitch-rolling
+The UK prime minister has many grand plans, but most won’t kick in until 2030 or even later
+
+## Bosnia elections pit EU hopes against Russian influence
+Serbian nationalists find ready support from Moscow and a US eager for deals
+
+## Israelis rush to get new settlements past ‘starting line’ before election
+Jewish settlers are expanding into the occupied West Bank in ways that a new government would struggle to reverse
+
+## How 60,000 Polish number plates exposed Italy’s tax allergy
+Giorgia Meloni is moving to cut unpopular road levies that have spawned evasion schemes using cars registered in Poland
+
+## Chinese women turn to surrogates to avoid motherhood ‘penalty’
+With surrogacy illegal in China, agencies and consultancies are increasingly connecting would-be parents with women overseas
+
+## Are Deliveroo riders really self-employed? Labour wants to change the test
+Business secretary Jonathan Reynolds proposes that rules place less emphasis on whether workers can appoint a substitute
+
+## Google set to defend £1.2bn UK lawsuit over ‘excessive’ app download charges
+British claim over Google Play Store is latest effort to challenge market power of Big Tech groups
+
+## Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet
+DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover
+
+## How Renault went from driveshafts to drones
+French carmaker turns mass-manufacturing expertise to new frontier of warfare
+
+## China closes hundreds of banks to bolster financial system
+More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part
+
+## Japanese and Korean shipbuilders deploy robots to take on China
+US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
 
 ## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
 Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
 
-## Temu’s UK sales more than double to $171mn
-Chinese ecommerce company has been exploiting tax loophole that exempts small parcels from customs duty
+## Canon eyes chip projects, plans local service centres in India
+Tech major is sensing a "great opportunity" in the upcoming semiconductor manufacturing ecosystem.
 
-## Iranian small-boat migrants charged over Manchester Jewish attack plot
-UK Counter Terrorism Policing says the two men may have been directed from Tehran
+## Indian group ArcelorMittal plans $1 billion investment in Brazil as Chinese steel imports decline
+According to Brasil 247, the company is also considering an investment of around R$5 billion to expand its Pecém plant in Ceará with a new hot-rolled coil production line
 
-## The town where 94% voted for Lula — and some now waver
-Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme
+## Automakers build up inventory to meet festive season demand
+Maruti, Hyundai and Mahindra preparing to meet higher sales.
 
-## China launches anti-dumping probe into European chemical exports
-Latest tit-for-tat move follows three similar investigations launched by the EU last week
+## India, Cyprus hold first Joint Maritime Committee meeting
+The talks covered maritime education and training, investment opportunities in both sectors, the exchange of policies and strategies as best practices, and cooperation on matters of mutual interest at the International Maritime Organization
 
-## Europe Express: Lies and statistics
-Debt market sell-off makes France’s budget woes defining election issue in test for far-right
+## Legendary filmmaker Singeetham Srinivasa Rao passes away
+His mortal remains have been kept for public homage at his residence in Virugambakkam.
 
-## How airlines try to weed out rogue pilots
-Background checks and psychological testing aim to ensure that only those fit to fly take the controls
+## Cube Highways Trust secures ₹1,150 crore through AAA-rated NCDs
+The NCDs are proposed to be utilised towards refinancing.
 
-## Manchester City’s fightback begins
-Also in today’s newsletter: NFL fatigue in London
+## 325 million oil barrels released to counter global energy crisis: IEA
+Faith Birol underlined that the impact of the Strait of Hormuz crisis on energy markets remains acute, particularly for diesel, while highlighting the IEA's ongoing efforts to support global energy security
 
-## The right and wrong lessons to learn from Spain’s housing crisis
-Evictions and spiralling rents are the symptom, not the underlying disease
-
-## Zelenskyy asked Trump to block Russia and China’s Starlink rival
-Ukraine’s president says he requested his US counterpart to impose sanctions on companies involved in developing ‘Rassvet’
-
-## The ever-shrinking case for expanding Heathrow
-Need for giant airport hubs is being challenged by rise of long-range narrow-body planes that go to places their bigger predecessors couldn’t
-
-## Record 12,000 complaints made against Lasting Powers of Attorney
-Rising claims of alleged financial misconduct reflect anxiety over potential inheritances
-
-## Market Hero or Hiroo Onoda?
-Recognising the possibility that global markets could be witnessing a regime change is the most important message to take away from the bond tantrums playing out in developed countries today
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Balrampur Chini Mills, Paradeep Phosphates and Prestige Estates Projects
-
-## Equity bulls have a new competitor in global bonds
-Relentless bonds sell-off and soaring yields turn fixed income into an increasingly compelling alternative to equities
-
-## Anthropic said to target mega-IPO before thanksgiving holiday
-The firm behind Claude could begin formal IPO marketing as early as the week of Nov. 9, targeting trading before Thanksgiving
-
-## Indian IT unlikely to see growth revival in Q2 as cautious spending persists
-Indian IT is bracing for a muted Q2FY27, with analysts forecasting only marginal growth
-
-## Russia to take 70,000 Indian skilled workers this year, Jaishankar tells parliamentary panel
-Jaishankar briefed the parliamentary committee on trade, investment, energy cooperation, Ukraine conflict and efforts to secure Indians serving in Russia
-
-## Chandrababu Naidu calls on IITians to unite for nation building, pitches Quantum Valley in Amaravati
-Addressing the PanIIT summit, Naidu outlined initiatives spanning startups, research, quantum computing, education and technology across Andhra Pradesh.
-
-## Mastering Derivatives: Managing intraday futures positions
-It is best to manually close your futures position earlier to moderate execution risk
+## Farmers' body SKM says hike in MSP for rabi crops an 'insult'; calls for agitation across villages
+The latest increase in wheat MSP amounts to just 25 paise per kg, SKM said and questions the government's claim that the new MSPs provide a 106% return over the cost of production
 
 ## Hydro generation falls short, strains power supply during non-solar hours in Sept
 
@@ -90,29 +87,35 @@ In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transfo
 ## Tenant claims eviction protection with unregistered rent agreement; HC denies relief
 In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he h
 
-## Netanyahu invites PM Modi, flydubai captain Smit Machchhar to light Israel Independence Day flame: 'Highest honor'
-Netanyahu invites PM Modi and flydubai captain Smit Machchhar to light a flame at Israel’s Independence Day ceremony next year.
+## I had that one last fight left in me: Braveheart pilot
+I had that one last fight left in me: Braveheart pilot
 
-## Ludhiana man killed after assailants open fire on moving car; cops suspect old rivalry
-The victim, Laddi Khan, was travelling with his friend Manpreet Singh who managed to escape unhurt even as the car rammed into a roadside pole.
+## Amid drought-like conditions, Latur cracks down on illegal moneylending; admin inspects 13 locations
+According to officials, searches were conducted in Latur, Udgir, and Devani in Latur district.
 
-## Prashant Bhushan, Neha Bora among 160 detained on Day 2 of anti-CEC stir; Yogendra Yadav calls march on October 4
-A day after over 1,000 protesters were detained, several lawyers, activists and students gathered at the protest site for a second consecutive day.
+## 2 arrested from Jammu and Kashmir, Rajasthan for duping Delhi man in digital arrest fraud
+The victim, a businessman, was threatened and harassed before the accused induced them to transfer ₹6 lakh, police said.
 
-## Elderly couple flung in air, injured after being hit by car in Delhi's Kirti Nagar, woman driver flees | Video
-The video clip further shows the woman driver stopping her vehicle, coming out of it and rushing towards the elderly man who is lying on the road.
+## SP MP takes 'so scared' dig at Rahul Gandhi over UP seat sharing; Congress hits back, Akhilesh Yadav intervenes
+SP MP from Pratapgarh, Shiv Pal Singh Patel, claimed that without an alliance with SP, Congress would not have won a single seat in the 2024 Lok Sabha election.
 
-## Vijay calls Stalin’s remarks on Sathyabama ‘indecent, perverse’, says TVK will respond
-Vijay strongly condemned Stalin's alleged remarks in a post on X, describing the DMK as a “force of evil”.
+## School roof in Bihar’s Kiratpur held up by benches, bricks after pillar collapses
+The precarious structure at Kiratpur Primary School in Alinagar block has raised concerns about the safety of the 191 children enrolled there.
 
-## Ganesh 'visarjan' over, Gyanesh Kumar 'visarjan' remains: Prakash Raj
-"Ganesh visarjan is over in Karnataka, Andhra and entire India. Now, Gyanesh Kumar visarjan remains," he told reporters here.
+## UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM
+UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM
 
-## 'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN
-India said the Union Territories of Jammu & Kashmir and Ladakh were, are and will always remain "integral and inalienable" parts of India.
+## Delhi AQI hits 196, highest in 82 days; no rain forecast for next week
+Delhi AQI rose to 196 on Sunday, the highest in over 82 days, as 22 monitoring stations recorded ‘poor’ air and no rain is forecast for a week.
 
-## HT Evening Brief October 3: India end Asian Games with 85 medals; Dubai Crown Prince hails Indian pilot
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+## Nashik onion wholesale prices fall to ₹46/kg from ₹55, retail rates stay high
+Nashik onion wholesale prices have fallen to ₹46/kg from ₹55 a month ago as fresh arrivals from Karnataka and Andhra Pradesh put pressure on Lasalgaon rates.
+
+## How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand
+Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property 
+
+## Quality over quantity: China’s AI microdrama producers battle viewer fatigue
+Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresse
 
 ## Wuhan joins major Chinese cities in shift towards completed-home sales
 A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
@@ -132,11 +135,8 @@ The sole residential site included in the Hong Kong government’s latest land s
 ## Hong Kong IPOs falter, China aids homebuyers, EU trade talks
 Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite. Seven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines
 
-## China’s AI compute ambitions demand innovation
-China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To reach the 2030 target while being blocked by the United States from importing th
-
-## Hong Kong ranks 7th globally in drawing next wealthy class – trailing Singapore: study
-Hong Kong ranked seventh globally as a destination for attracting and retaining the next generation of high-net-worth individuals (HNWIs), trailing traditional rival Singapore in sixth place, according to a Savills study. The two top finance hubs in the Asia-Pacific region have been stepping up effo
+## The Year Hollywood Changed the National Security Debate
+In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
 
 ## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 The White House had threatened to ban U.S. diesel exports if Europe did not step up.
@@ -158,9 +158,6 @@ Results would have broad implications on foreign policy.
 
 ## ‘What Is Happening Today Is Development in Reverse’
 A conversation with UNDP chief Alexander De Croo about building infrastructure in active conflict zones.
-
-## Pashinyan Confronts the Karabakh Cause
-A crackdown on refugees pits peace against democracy in Armenia.
 
 ## Taiwan’s New F-16s: Why They Still Matter
 The Republic of China Air Force waited 20 years for these aircraft. What are they for?
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mamdani, Irish PM play bingo, ‘split the G’ in New York
-New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.
+## West Indies beat India in record chase as Hope hits 162 in third ODI
+Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.
 
-## Brazil’s Lula and Bolsonaro close campaigns ahead of critical election
-Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.
+## Widespread damage after huge hailstones pound Paraguay capital
+Large hailstones pounded parts of Paraguay’s capital, breaking windows and denting cars.
 
-## Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way
-Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.
+## Somalia President: Houthis ‘not in a position’ to bring Yemen peace
+Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb
 
-## Air ambulance missing on flight from Bermuda to Boston
-The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
+## Bosnia general election 2026 explained in maps and charts
+Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what's at stake.
 
-## Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
-Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.
+## Trump defiant about midterm chances as he rallies for Republicans in Ohio
+US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.
 
-## Israeli settlers attack Palestinian farmers during olive harvest
-Israeli settlers attack Palestinian farmers during olive harvest
+## Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
+Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.
 
-## Fernandes denies Portugal rift, hails Ronaldo after walk out
-Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
+## Pick-up truck overturns trying to carry military chopper in Russia
+An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.
 
-## Trump ramps up pressure on US Republicans to end US clock switching
-The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.
+## Houthis claim strike on Aramco site as Yemen fighting intensifies
+Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are 'misleading'.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
