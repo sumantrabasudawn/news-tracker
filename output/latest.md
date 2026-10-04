@@ -1,67 +1,85 @@
 # AION Intelligence
 
+## Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine
+Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe
+
+## BT weighs improved TalkTalk offer after initial approach rejected
+Telecoms group seeks deal within days for debt-laden broadband provider
+
+## In defence of big business
+Despite the lionisation of small companies, prosperity hinges on a handful of large firms
+
+## EU countries shoot themselves in the foot when they veto sanctions
+A recent move by France makes talk of ‘strategic autonomy’ look like hot air
+
+## Legal risks pile up for Altman as OpenAI uncovers dozens of hacks
+Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits
+
+## What can revive the battered government bond market?
+Market Questions is the FT’s guide to the week ahead
+
+## Britain’s Budget needs to tame spending and boost growth
+Chancellor Healey can still make a low-key fiscal event a constructive one
+
+## Tories vow to end £100,000 childcare trap but keep pensions triple lock
+Kemi Badenoch says current threshold for free hours, introduced by previous Conservative government, punishes parents for working more
+
+## Why the IPO market is booming and busting
+Flotations have stalled and returns from new listings have been weak
+
+## Australian authorities probe Flydubai attacker’s links to country
+Recriminations among various governments escalate after attempted hijacking of flight from Dubai to Tel Aviv last week
+
+## Sahel juntas launch TV channel with Russian backing
+Military governments in Mali, Burkina Faso and Niger bet broadcaster will bolster popularity as they fight Islamist insurgencies
+
 ## Wall Street’s IPO fervour cools on tepid demand and valuation worries
 Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets
 
 ## Andy Burnham and the art of corporate pitch-rolling
 The UK prime minister has many grand plans, but most won’t kick in until 2030 or even later
 
-## Bosnia elections pit EU hopes against Russian influence
-Serbian nationalists find ready support from Moscow and a US eager for deals
-
-## Israelis rush to get new settlements past ‘starting line’ before election
-Jewish settlers are expanding into the occupied West Bank in ways that a new government would struggle to reverse
-
-## How 60,000 Polish number plates exposed Italy’s tax allergy
-Giorgia Meloni is moving to cut unpopular road levies that have spawned evasion schemes using cars registered in Poland
-
-## Chinese women turn to surrogates to avoid motherhood ‘penalty’
-With surrogacy illegal in China, agencies and consultancies are increasingly connecting would-be parents with women overseas
-
-## Are Deliveroo riders really self-employed? Labour wants to change the test
-Business secretary Jonathan Reynolds proposes that rules place less emphasis on whether workers can appoint a substitute
-
-## Google set to defend £1.2bn UK lawsuit over ‘excessive’ app download charges
-British claim over Google Play Store is latest effort to challenge market power of Big Tech groups
-
 ## Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet
 DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover
 
-## How Renault went from driveshafts to drones
-French carmaker turns mass-manufacturing expertise to new frontier of warfare
+## Rishabh Pant-led Rest of India clinch Irani Cup, defeat J&K by 167 runs in Srinagar
+J&K, chasing 279, were bowled out for 111 in 28.4 overs on the fourth day
 
-## China closes hundreds of banks to bolster financial system
-More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part
+## India, Chile struggle to clear critical-mineral hurdle in CEPA talks
+Year-end deadline looms as India seeks preferential access to copper, lithium, while Chile favours supply-chain cooperation and value-added exports
 
-## Japanese and Korean shipbuilders deploy robots to take on China
-US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington
+## CAFE-3 is a progressive roadmap for greener mobility: JSW Motors CEO
+The recent notification of CAFE-3 norms provides a clear roadmap for new entrants like JSW Motors as it prepares to launch its new energy vehicles in India
 
-## Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight
-Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit
+## AP Govt to implement 100 per cent housing programme by 2029: CM Naidu
 
-## Canon eyes chip projects, plans local service centres in India
-Tech major is sensing a "great opportunity" in the upcoming semiconductor manufacturing ecosystem.
 
-## Indian group ArcelorMittal plans $1 billion investment in Brazil as Chinese steel imports decline
-According to Brasil 247, the company is also considering an investment of around R$5 billion to expand its Pecém plant in Ceará with a new hot-rolled coil production line
+## Kudankulam NPP to add 1,000 MW capacity next year with Unit 3 start-up: Rosatom
+Kudankulam NPP project — India’s largest nuclear power plant — is the flagship project of Russian-Indian technological and energy cooperation
 
-## Automakers build up inventory to meet festive season demand
-Maruti, Hyundai and Mahindra preparing to meet higher sales.
+## Maneka Gandhi turns entrepreneur; launches vegan pet food brand ‘Woofly’
+After decades of relying on donations, the former Union minister is betting on a ₹40 per 100 gram vegan dog-food brand to create a sustainable funding stream for animal welfare
 
-## India, Cyprus hold first Joint Maritime Committee meeting
-The talks covered maritime education and training, investment opportunities in both sectors, the exchange of policies and strategies as best practices, and cooperation on matters of mutual interest at the International Maritime Organization
+## Kozhikode set to emerge as Keralam’s next major IT destination
+Keralam Chief Minister V D Satheesan lays foundation stone for ₹600-crore HiLITE Cyber Tower at Cyberpark, Kozhikode
 
-## Legendary filmmaker Singeetham Srinivasa Rao passes away
-His mortal remains have been kept for public homage at his residence in Virugambakkam.
+## From a nation of savers to a nation of investors: NSE bets on technology, financialisation and market depth
+Data and technology have significant long-term potential because they can scale across markets and geographies without depending solely on trading volumes, says NSE MD & CEO
 
-## Cube Highways Trust secures ₹1,150 crore through AAA-rated NCDs
-The NCDs are proposed to be utilised towards refinancing.
+## OPEC+ keeps November oil output targets steady as Iran war hits supply
 
-## 325 million oil barrels released to counter global energy crisis: IEA
-Faith Birol underlined that the impact of the Strait of Hormuz crisis on energy markets remains acute, particularly for diesel, while highlighting the IEA's ongoing efforts to support global energy security
 
-## Farmers' body SKM says hike in MSP for rabi crops an 'insult'; calls for agitation across villages
-The latest increase in wheat MSP amounts to just 25 paise per kg, SKM said and questions the government's claim that the new MSPs provide a 106% return over the cost of production
+## Jio Platforms IPO likely by Oct-end; $3.8 bn issue, $143-146 bn company valuation: Report
+Jio Platforms is preparing for its stock market debut with an estimated issue size of $3.8 billion, which could set records. The IPO aims for a valuation of $143-146 billion, with filings expected in mid-October. Reliance Jio’s expansion includes telecom, cloud, AI, and services, reporting significa
+
+## Stock market outlook: RBI rate decision, earnings, oil & more, here's what will drive D-street this week
+Volatility looms over Indian stock markets as they navigate a complex web of local and global influences. Major factors at play include the upcoming decision on interest rates from the Reserve Bank of India, alongside the eagerly awaited corporate earnings announcements. Additionally, fluctuations i
+
+## Festive demand stays strong: Appliance makers eye double-digit sales despite price hikes
+
+
+## Rs 2.47 crore cash deposit triggers tax notice: Why ITAT Delhi ruled in favour of assessee
+The shop owner said that deposited cash had come from sales generated by his pharmacy and had been properly recorded for in the concerned business books. To support his explanation, he submitted an audited balance sheet, VAT (value-added tax) returns and sample sales invoices. The Assessing Officer 
 
 ## Hydro generation falls short, strains power supply during non-solar hours in Sept
 
@@ -72,44 +90,32 @@ The Indian government has approved the third phase of the Green Energy Corridor 
 ## Bulk diesel price up Rs 14.6/litre as crude surge squeezes oil cos' margins
 Nayara raises petrol price by Rs 5/litre, diesel by Rs 3 as crude surge hits margins
 
-## How landlord won tax relief on Rs 14.96 lakh demonetisation cash deposit
-The Bangalore bench of the Income Tax Appellate Tribunal (ITAT) recently held that rental income already disclosed to the income tax authorities can be considered as an identifiable source of cash deposited into a bank account at a later date. Even where a landlord claims to have collected rent in c
+## FSSAI recalls Everest cumin power over ‘unsafe’ pesticide levels, suspends Creative Bakers' licence
+The FSSAI has, over the past six months, stepped up enforcement actions and relays them to food business operators and the public through social media.
 
-## Rate hike may hurt select NBFC segments, but broad asset stress unlikely: Report
-Nuvama Institutional Equities suggests that an RBI rate hike may not broadly impact NBFC asset quality. The report indicates that past rate increases did not lead to widespread deterioration. Current risks, including the West Asia conflict, appear limited to specific NBFC segments. Healthy capital b
+## ‘Amit Shah ji, where are you’: Oppn slams Centre, Delhi Police as women journalists await FIR in harassment case
+Rahul Gandhi, flagged the alleged police “misconduct at Jantar Mantar” on Saturday, asking why the government “fears registering a woman's complaint.”
 
-## Could a mega US-Russia oil deal tied to Trump & his allies end Ukraine war?
+## After gangrape, DDA identifies 30+ CCTV locations at Aastha Kunj
+The exercise was carried out as part of a wider security assessment of DDA parks following the alleged gangrape of a 17-year-old girl
 
+## LeT commander 'Hashim Moosa' used Ayurvedic honey remedy to heal bullet wounds in jungle
+According to the officials, Moosa sustained bullet injuries during an earlier encounter in the Dorimal-Gambhir Moghla area.
 
-## Over 3,500 responses on CAS: Sebi to quickly move ahead with proposals
-In a significant announcement, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to the Closing Auction Session mechanism. This initiative is driven by the feedback of over 3,500 participants who responded to the consultation paper. Apart from updating settlement prices for index and 
+## Elderly couple found dead at Kolkata home; note says ₹1 lakh left for funeral
+The man allegedly committed suicide, while his wife was found lying on the bed in the same room.
 
-## Tenant claims eviction protection with unregistered rent agreement; HC denies relief
-In this case of tenancy, the property owner’s counsel argued that the alleged unregistered rental agreement could not be admitted as evidence to establish the tenant's claim. The argument was that the owner’s brother himself occupied the premises only through 'permissive possession'. Therefore, he h
+## Tamil Nadu CM Vijay rides bullock cart during Dharapuram bypoll campaign, interacts with voters | Watch
+Tamil Nadu CM Vijay embarked on a roadshow in the Dharapuram assembly constituency on Sunday in support of his party candidate P Sathyabama.
 
-## I had that one last fight left in me: Braveheart pilot
-I had that one last fight left in me: Braveheart pilot
+## SC takes suo motu cognisance of 135-yr-old Central Secretariat Library space crunch
+The plight faced by CSL was recently highlighted in a news report that showed how the library, established in 1891, has no space in the Central Vista project.
 
-## Amid drought-like conditions, Latur cracks down on illegal moneylending; admin inspects 13 locations
-According to officials, searches were conducted in Latur, Udgir, and Devani in Latur district.
+## Punjab in ‘hands of mafia’: Oppn targets AAP over influencer Mad Sandhu's murder
+Congress MP Gurjeet Singh Aujla said the law and order situation in Punjab had “completely collapsed”.
 
-## 2 arrested from Jammu and Kashmir, Rajasthan for duping Delhi man in digital arrest fraud
-The victim, a businessman, was threatened and harassed before the accused induced them to transfer ₹6 lakh, police said.
-
-## SP MP takes 'so scared' dig at Rahul Gandhi over UP seat sharing; Congress hits back, Akhilesh Yadav intervenes
-SP MP from Pratapgarh, Shiv Pal Singh Patel, claimed that without an alliance with SP, Congress would not have won a single seat in the 2024 Lok Sabha election.
-
-## School roof in Bihar’s Kiratpur held up by benches, bricks after pillar collapses
-The precarious structure at Kiratpur Primary School in Alinagar block has raised concerns about the safety of the 191 children enrolled there.
-
-## UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM
-UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM
-
-## Delhi AQI hits 196, highest in 82 days; no rain forecast for next week
-Delhi AQI rose to 196 on Sunday, the highest in over 82 days, as 22 monitoring stations recorded ‘poor’ air and no rain is forecast for a week.
-
-## Nashik onion wholesale prices fall to ₹46/kg from ₹55, retail rates stay high
-Nashik onion wholesale prices have fallen to ₹46/kg from ₹55 a month ago as fresh arrivals from Karnataka and Andhra Pradesh put pressure on Lasalgaon rates.
+## More Hong Kong homes sell at a loss despite signs prices have bottomed: agents
+Despite signs that Hong Kong property prices could have bottomed out and begun rebounding in August, market sources said at least 100 secondary residential homes were sold at a loss in September, up from at least 81 the previous month. Hong Kong’s property market dodged an immediate setback from the
 
 ## How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand
 Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property 
@@ -131,9 +137,6 @@ Hong Kong Investment Corporation (HKIC) has extended the tenure of its current C
 
 ## Developers vie to land plum HK$2 billion residential site in Ho Man Tin
 The sole residential site included in the Hong Kong government’s latest land sale programme has attracted interest from a host of major developers, with 10 tenders being submitted before a noon deadline on Friday. Chinachem Group, Wheelock Properties, Kerry Properties and Sun Hung Kai Properties all
-
-## Hong Kong IPOs falter, China aids homebuyers, EU trade talks
-Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite. Seven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines
 
 ## The Year Hollywood Changed the National Security Debate
 In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## West Indies beat India in record chase as Hope hits 162 in third ODI
-Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.
+## Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital
+German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.
 
-## Widespread damage after huge hailstones pound Paraguay capital
-Large hailstones pounded parts of Paraguay’s capital, breaking windows and denting cars.
+## Brazil votes in deeply polarised election pitting Lula against Bolsonaro
+Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
 
-## Somalia President: Houthis ‘not in a position’ to bring Yemen peace
-Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb
+## Iran says Hormuz to remain closed until US meets conditions
+Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.
 
-## Bosnia general election 2026 explained in maps and charts
-Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what's at stake.
+## Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws
+Federal troops and allied fighters seen in control of the city after capturing main regional airport.
 
-## Trump defiant about midterm chances as he rallies for Republicans in Ohio
-US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.
+## Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang
+Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third.
 
-## Saudi-backed Yemeni army says 700 Houthis killed in 24 hours
-Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.
+## Is the Sudanese army gaining momentum against the RSF?
+The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.
 
-## Pick-up truck overturns trying to carry military chopper in Russia
-An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.
+## Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
+Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.
 
-## Houthis claim strike on Aramco site as Yemen fighting intensifies
-Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are 'misleading'.
+## Russia’s nuclear plants are ageing. Who will pay to dismantle them?
+Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
