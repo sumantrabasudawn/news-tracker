@@ -3,6 +3,15 @@
 ## Jewish groups attack Greens after anti-Zionism motion passes
 Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters
 
+## Pro-Russia strongman claims victory in Bosnia elections
+Milorad Dodik says he will aim for Republika Srpska to break away from the rest of the Balkan country
+
+## US recalls B-1 bombers from UK air base following alleged terror plot
+UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford
+
+## Bull run for Japan stocks at risk, warns boss of biggest trading house
+Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities
+
 ## Dealmaking slowdown threatens early end to M&A boom
 Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year
 
@@ -15,14 +24,8 @@ A fourth term for leftist leader could temper US ambitions in Latin America
 ## Russia strikes Kyiv as Germany’s Merz visits
 Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe
 
-## Burnham could learn a thing or two from Thatcher
-Centralising power may feel like speeding things up but the rest of government actually slows down, waiting for decisions
-
-## Investors look to shelter portfolios from rising AI concentration risks
-Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence
-
-## The US is looking more like Italy
-America is not so exceptional any more — and the New World is becoming more like the Old
+## Schneider Electric nears deal to buy software group PTC for $20bn
+Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers
 
 ## AkzoNobel nears deal to sell its SE Asia decorative paint unit to Nippon Paint
 Dutch group on verge of handing Japanese rival a small victory as it seeks to exit non-core markets ahead of Axalta merger
@@ -30,17 +33,14 @@ Dutch group on verge of handing Japanese rival a small victory as it seeks to ex
 ## The taxpayer-funded ADHD boom
 The growing private market for assessments is leading to concerns over misdiagnoses and providers’ soaring revenues
 
+## Investors look to shelter portfolios from rising AI concentration risks
+Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence
+
 ## BT weighs improved TalkTalk offer after initial approach rejected
 Telecoms group seeks deal within days for debt-laden broadband provider
 
 ## Legal risks pile up for Altman as OpenAI uncovers dozens of hacks
 Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits
-
-## Why the IPO market is booming and busting
-Flotations have stalled and returns from new listings have been weak
-
-## Australian authorities probe Flydubai attacker’s links to country
-Recriminations among various governments escalate after attempted hijacking of flight from Dubai to Tel Aviv last week
 
 ## Saint-Gobain plans ₹11,000 crore India push over the next five years
 French building-materials giant bets on construction chemicals, insulation and acquisition-led growth to nearly triple its India business
@@ -66,6 +66,12 @@ The centre was launched by Ganesh Lakshminarayanan, CEO and MD, Tata Communicati
 ## AI agents tried to hack Canadian government website, research firm says
 AI research firm Transluce said the attempts showed tactics consistent with prior agent activity attributed to OpenAI in a similar timeframe
 
+## Next-generation GST aimed at boosting India's next phase of growth
+
+
+## Faster registration, easier refunds: Reform rollout with GST 2.0
+GST Council plans to unveil substantial reforms aimed at improving business processes and facilitating growth. The proposed changes involve streamlined registration, easier refunds, and a more efficient input tax credit system. Decriminalisation measures are also proposed to alleviate issues for bus
+
 ## GST Council meeting on October 7: Arrest powers, ITC, prosecution threshold proposals on agenda - report
 The GST Council will meet on October 7 to discuss major reforms in GST processes and enforcement. Proposed changes include removing tax officers' arrest powers and requiring judicial consent for any arrests. Additionally, the prosecution threshold may be raised from Rs 1 crore to Rs 5 crore, with so
 
@@ -83,12 +89,6 @@ Jio Platforms is preparing for its stock market debut with an estimated issue si
 
 ## Stock market outlook: RBI rate decision, earnings, oil & more, here's what will drive D-street this week
 Volatility looms over Indian stock markets as they navigate a complex web of local and global influences. Major factors at play include the upcoming decision on interest rates from the Reserve Bank of India, alongside the eagerly awaited corporate earnings announcements. Additionally, fluctuations i
-
-## Festive demand stays strong: Appliance makers eye double-digit sales despite price hikes
-
-
-## Rs 2.47 crore cash deposit triggers tax notice: Why ITAT Delhi ruled in favour of assessee
-The shop owner said that deposited cash had come from sales generated by his pharmacy and had been properly recorded for in the concerned business books. To support his explanation, he submitted an audited balance sheet, VAT (value-added tax) returns and sample sales invoices. The Assessing Officer 
 
 ## As peace prevails, security camp in Abujhmad turns into tribal hostel
 As peace prevails, security camp in Abujhmad turns into tribal hostel
@@ -114,6 +114,9 @@ CJI Surya Kant and Justices Joymalya Bagchi and V Mohana are scheduled to hear t
 ## Nagaon LS bypoll: Campaigning ends, BJP confident of wresting Congress seat
 The Nagaon seat fell vacant in March this year after sitting Congress MP Pradyut Bordoloi resigned from the party and joined the BJP
 
+## 140 Years of Everyday Moments
+A morning stop for breakfast before work. A coffee picked up between meetings. A grocery stop on the way home. A stop for health and beauty products. A weekend trip to choose furniture for a growing family. A rewards offer that helps make the weekly shop go further. These are ordinary moments in Hon
+
 ## LIM Advisors founder George Long: ‘We’ve been here 30 years. We’re going to be around’
 [The content of this article has been produced by our advertising partner.] George Long does not talk like a man selling vision. The founder, chairman and chief investment officer of LIM Advisors is understated and unshowy. After three decades running an independent firm in Hong Kong, what comes thr
 
@@ -134,9 +137,6 @@ After Ping An Bank became the first listed Chinese lender to formally adopt rule
 
 ## McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail
 As “long-dormant old money” steps back into Hong Kong’s retail property market, McDonald’s has sold the property housing its first New Territories restaurant for HK$120 million (US$15.3 million), extending its year-long sell-down of self-owned shops. The property at 10-22 Tsuen Wan Market Street, sp
-
-## Clara Chan retains helm at HKIC as HK$62b state fund aligns with city’s 5-year plan
-Hong Kong Investment Corporation (HKIC) has extended the tenure of its current CEO, Clara Chan Ka-chai, for another three years as the city vows to boost emerging industries in its first five-year plan. The wholly government-owned investment vehicle, which manages HK$62 billion (US$7.9 billion) in f
 
 ## The Year Hollywood Changed the National Security Debate
 In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Will elections bring change to multi-ethnic Bosnia and Herzegovina?
-Balkan nation seeks EU membership, but divisions threaten that goal.
+## Mysterious luminous object burns in the skies above Libya
+A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.
 
-## France to shutter up to 500 schools as more student protests called
-Education minister cites safety concerns for closures as organisers call for resumption of protests.
+## Man’s miraculous catch saves child after balcony fall in Egypt
+Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.
 
-## Pro-Imran Khan mass rally launched after Pakistan government talks fail
-Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.
+## Nicaragua says it will withdraw from Central American Parliament
+The country's crackdown on human rights has left it increasingly isolated in Latin America.
 
-## War on Iran: Is escalation more likely than a deal?
-Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.
+## US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
+The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.
 
-## Ku Klux Klan leader claims rising support ahead of US midterm elections
-The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.
+## Cornell case puts New York’s progressive image at odds with its rape laws
+New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.
 
-## Police investigating Flydubai co-pilot’s Australia ties
-Australian police and intelligence join the list of those probing the incident.
+## Ireland refuse handshake with Israel and don armbands in Nations League tie
+Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.
 
-## Ukraine ready for US-backed talks with Russia: Zelenskyy
-Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.
+## Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
+Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo's absence.
 
-## Mass protests demanding poll chief resignation shake India for third day
-Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.
+## Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
+Israel's president declared that the 'antisemitic lie' deliberately endangers Jews and Israelis.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
