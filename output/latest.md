@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine
+## Lula and Bolsonaro neck-and-neck as Brazilians head to polls
+A fourth term for leftist leader could temper US ambitions in Latin America
+
+## Russia strikes Kyiv as Germany’s Merz visits
 Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe
+
+## Jewish groups attack Greens after anti-Zionism motion passes
+Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters
+
+## Burnham could learn a thing or two from Thatcher
+Centralising power may feel like speeding things up but the rest of government actually slows down, waiting for decisions
+
+## Investors look to shelter portfolios from rising AI concentration risks
+Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence
+
+## The US is looking more like Italy
+America is not so exceptional any more — and the New World is becoming more like the Old
 
 ## BT weighs improved TalkTalk offer after initial approach rejected
 Telecoms group seeks deal within days for debt-laden broadband provider
@@ -9,20 +24,8 @@ Telecoms group seeks deal within days for debt-laden broadband provider
 ## In defence of big business
 Despite the lionisation of small companies, prosperity hinges on a handful of large firms
 
-## EU countries shoot themselves in the foot when they veto sanctions
-A recent move by France makes talk of ‘strategic autonomy’ look like hot air
-
 ## Legal risks pile up for Altman as OpenAI uncovers dozens of hacks
 Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits
-
-## What can revive the battered government bond market?
-Market Questions is the FT’s guide to the week ahead
-
-## Britain’s Budget needs to tame spending and boost growth
-Chancellor Healey can still make a low-key fiscal event a constructive one
-
-## Tories vow to end £100,000 childcare trap but keep pensions triple lock
-Kemi Badenoch says current threshold for free hours, introduced by previous Conservative government, punishes parents for working more
 
 ## Why the IPO market is booming and busting
 Flotations have stalled and returns from new listings have been weak
@@ -39,32 +42,35 @@ Several listings have been paused in recent weeks as delay in Anthropic’s publ
 ## Andy Burnham and the art of corporate pitch-rolling
 The UK prime minister has many grand plans, but most won’t kick in until 2030 or even later
 
-## Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet
-DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover
+## Saint-Gobain plans ₹11,000 crore India push over the next five years
+French building-materials giant bets on construction chemicals, insulation and acquisition-led growth to nearly triple its India business
 
-## Rishabh Pant-led Rest of India clinch Irani Cup, defeat J&K by 167 runs in Srinagar
-J&K, chasing 279, were bowled out for 111 in 28.4 overs on the fourth day
+## businessline poll: MPC seen raising rates by 25 bps this week; majority expect 50-75 bps tightening by FY27
+From pause to tightening: 7 in 10 bank economists expect a neutral policy stance
 
-## India, Chile struggle to clear critical-mineral hurdle in CEPA talks
-Year-end deadline looms as India seeks preferential access to copper, lithium, while Chile favours supply-chain cooperation and value-added exports
+## Kiro Beauty looks beyond lips as face, skincare emerge as growth engines
+Skincare also emerges as another key growth opportunity for the company, as it looks to broaden its portfolio beyond colour cosmetics
 
-## CAFE-3 is a progressive roadmap for greener mobility: JSW Motors CEO
-The recent notification of CAFE-3 norms provides a clear roadmap for new entrants like JSW Motors as it prepares to launch its new energy vehicles in India
+## GST exemption for banks, nominated agencies for gold, silver imports may be withdrawn
+Gold, silver and precious metal imports have been a concern for the government, as they lead to an outflow of foreign currency and dent India’s forex reserves
 
-## AP Govt to implement 100 per cent housing programme by 2029: CM Naidu
+## CAFE-III is a progressive roadmap for greener mobility: JSW Motors CEO
+The recent notification of CAFE-III norms provides a clear roadmap for new entrants like JSW Motors as it prepares to launch its new energy vehicles in India
 
+## FSSAI orders Everest Food to recall select batches of cumin powder
+The food analyst’s report found pesticide residues of Azoxystrobin and Thiamethoxam at levels exceeding the prescribed maximum limits
 
-## Kudankulam NPP to add 1,000 MW capacity next year with Unit 3 start-up: Rosatom
-Kudankulam NPP project — India’s largest nuclear power plant — is the flagship project of Russian-Indian technological and energy cooperation
+## Tata Communications launches Centre of Excellence in Cybersecurity at SASTRA University
+The centre was launched by Ganesh Lakshminarayanan, CEO and MD, Tata Communications
 
-## Maneka Gandhi turns entrepreneur; launches vegan pet food brand ‘Woofly’
-After decades of relying on donations, the former Union minister is betting on a ₹40 per 100 gram vegan dog-food brand to create a sustainable funding stream for animal welfare
+## AI agents tried to hack Canadian government website, research firm says
+AI research firm Transluce said the attempts showed tactics consistent with prior agent activity attributed to OpenAI in a similar timeframe
 
-## Kozhikode set to emerge as Keralam’s next major IT destination
-Keralam Chief Minister V D Satheesan lays foundation stone for ₹600-crore HiLITE Cyber Tower at Cyberpark, Kozhikode
+## Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?
+International gold prices have fallen 26% from the record high of $5595 seen on January 29 this year. Indian gold prices peaked at the same time and are down around 23%. More recently, gold prices which rose to Rs 1,64,773/10 gm levels on MCX futures contract in the last week of August had fallen by
 
-## From a nation of savers to a nation of investors: NSE bets on technology, financialisation and market depth
-Data and technology have significant long-term potential because they can scale across markets and geographies without depending solely on trading volumes, says NSE MD & CEO
+## Gold, silver outlook: Dollar, US-Iran tensions, RBI policy among key factors to drive prices this week
+This week, prices for gold and silver are likely to experience fluctuations driven by various factors including the strength of the US dollar, rising bond yields, and continuing tensions between the US and Iran. Market participants are closely monitoring the Reserve Bank of India's impending interes
 
 ## OPEC+ keeps November oil output targets steady as Iran war hits supply
 
@@ -84,35 +90,32 @@ The shop owner said that deposited cash had come from sales generated by his pha
 ## Hydro generation falls short, strains power supply during non-solar hours in Sept
 
 
-## Third edition of Green Energy Corridor to add 51,126 ckm transmission lines, 50 GWh BESS
-The Indian government has approved the third phase of the Green Energy Corridor to enhance renewable energy transmission. This phase will create over 51,000 circuit kilometres of transmission lines and significant transformation capacity. It also includes the installation of Battery Energy Storage S
+## AISA says Neha Bora picked up by cops in private vehicle, Delhi Police denies claim
+AISA national president Neha Bora was reportedly detained during protest march near Jantar Mantar on Sunday seeking CEC Gyanesh Kumar's resignation.
 
-## Bulk diesel price up Rs 14.6/litre as crude surge squeezes oil cos' margins
-Nayara raises petrol price by Rs 5/litre, diesel by Rs 3 as crude surge hits margins
+## IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered
+Police said an FIR has been filed on the directions of the Supreme Court and on the basis of a complaint received from the Security Officer of IIT Delhi.
 
-## FSSAI recalls Everest cumin power over ‘unsafe’ pesticide levels, suspends Creative Bakers' licence
-The FSSAI has, over the past six months, stepped up enforcement actions and relays them to food business operators and the public through social media.
+## Delhi biryani seller arrested for killing wife with butcher's knife after dispute over his affair
+The accused, identified as Pradeep, had fled from the spot after stabbing his wife Sonia.
 
-## ‘Amit Shah ji, where are you’: Oppn slams Centre, Delhi Police as women journalists await FIR in harassment case
-Rahul Gandhi, flagged the alleged police “misconduct at Jantar Mantar” on Saturday, asking why the government “fears registering a woman's complaint.”
+## Tripura boy, 12, sustains bullet injury while playing: Police
+The bullet was allegedly fired from a country-made gun that he and his brother were playing with near their home
 
-## After gangrape, DDA identifies 30+ CCTV locations at Aastha Kunj
-The exercise was carried out as part of a wider security assessment of DDA parks following the alleged gangrape of a 17-year-old girl
+## Supreme Court to hear on October 5 pleas seeking CEC Gyanesh Kumar's resignation amid SIR row
+CJI Surya Kant and Justices Joymalya Bagchi and V Mohana are scheduled to hear the pleas filed by Rakesh Kumar Singh and advocate Shailendra Mani Tripathi.
 
-## LeT commander 'Hashim Moosa' used Ayurvedic honey remedy to heal bullet wounds in jungle
-According to the officials, Moosa sustained bullet injuries during an earlier encounter in the Dorimal-Gambhir Moghla area.
+## Nagaon LS bypoll: Campaigning ends, BJP confident of wresting Congress seat
+The Nagaon seat fell vacant in March this year after sitting Congress MP Pradyut Bordoloi resigned from the party and joined the BJP
 
-## Elderly couple found dead at Kolkata home; note says ₹1 lakh left for funeral
-The man allegedly committed suicide, while his wife was found lying on the bed in the same room.
+## India has 'gone beyond advocacy', held talks with both Russia and Ukraine to end war: Jaishankar
+Jaishankar also spoke at Sunday’s event on India’s long-standing positive ties with Russia and its burgeoning relationship with the European Union
 
-## Tamil Nadu CM Vijay rides bullock cart during Dharapuram bypoll campaign, interacts with voters | Watch
-Tamil Nadu CM Vijay embarked on a roadshow in the Dharapuram assembly constituency on Sunday in support of his party candidate P Sathyabama.
+## 'US has deliberately become a lonelier power': Jaishankar highlights shifting world order
+Jaishankar referred to the “radical repositioning of the United States” due to which it has in a way “deliberately become a lonelier power”.
 
-## SC takes suo motu cognisance of 135-yr-old Central Secretariat Library space crunch
-The plight faced by CSL was recently highlighted in a news report that showed how the library, established in 1891, has no space in the Central Vista project.
-
-## Punjab in ‘hands of mafia’: Oppn targets AAP over influencer Mad Sandhu's murder
-Congress MP Gurjeet Singh Aujla said the law and order situation in Punjab had “completely collapsed”.
+## LIM Advisors founder George Long: ‘We’ve been here 30 years. We’re going to be around’
+[The content of this article has been produced by our advertising partner.] George Long does not talk like a man selling vision. The founder, chairman and chief investment officer of LIM Advisors is understated and unshowy. After three decades running an independent firm in Hong Kong, what comes thr
 
 ## More Hong Kong homes sell at a loss despite signs prices have bottomed: agents
 Despite signs that Hong Kong property prices could have bottomed out and begun rebounding in August, market sources said at least 100 secondary residential homes were sold at a loss in September, up from at least 81 the previous month. Hong Kong’s property market dodged an immediate setback from the
@@ -134,9 +137,6 @@ As “long-dormant old money” steps back into Hong Kong’s retail property ma
 
 ## Clara Chan retains helm at HKIC as HK$62b state fund aligns with city’s 5-year plan
 Hong Kong Investment Corporation (HKIC) has extended the tenure of its current CEO, Clara Chan Ka-chai, for another three years as the city vows to boost emerging industries in its first five-year plan. The wholly government-owned investment vehicle, which manages HK$62 billion (US$7.9 billion) in f
-
-## Developers vie to land plum HK$2 billion residential site in Ho Man Tin
-The sole residential site included in the Hong Kong government’s latest land sale programme has attracted interest from a host of major developers, with 10 tenders being submitted before a noon deadline on Friday. Chinachem Group, Wheelock Properties, Kerry Properties and Sun Hung Kai Properties all
 
 ## The Year Hollywood Changed the National Security Debate
 In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital
-German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.
+## Mass protests demanding poll chief resignation shake India for third day
+Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.
 
-## Brazil votes in deeply polarised election pitting Lula against Bolsonaro
-Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
+## Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war
+German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid
 
-## Iran says Hormuz to remain closed until US meets conditions
-Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.
+## Air strike in Sudan kills UN aid truck driver: WFP
+Trucks were 'clearly marked as humanitarian vehicles', UN agency says.
 
-## Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws
-Federal troops and allied fighters seen in control of the city after capturing main regional airport.
+## US and Man City’s Cavan Sullivan becomes youngest international goalscorer
+Sullivan’s goal came after teenager Julian Hall, 18, had given Mauricio Pochettino's side the lead in Mexico friendly.
 
-## Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang
-Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third.
+## Three years of genocide in Gaza through one man’s camera
+For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.
 
-## Is the Sudanese army gaining momentum against the RSF?
-The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.
+## Jerusalem Daily: Israeli forces arrest school children during raid
+Jerusalem Daily: Israeli forces arrest school children during raid
 
-## Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
-Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.
+## Philippines arrests 244 suspects in online scam crackdown
+Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.
 
-## Russia’s nuclear plants are ageing. Who will pay to dismantle them?
-Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.
+## LIVE: Portugal vs Norway – UEFA Nations League
+Follow updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
