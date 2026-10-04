@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Burnham reverses much of plan to scrap jury trials
+Ministers are scaling back a shake-up of the court system given the ‘strength of feeling’ over the proposals
+
 ## Tories vow to scrap £100,000 ‘tax trap’ for UK’s higher earners
 Badenoch says current threshold, introduced by previous Conservative government, punishes parents for working more
 
@@ -20,9 +23,6 @@ Latest tit-for-tat move follows three similar investigations launched by the EU 
 
 ## Europe Express: Lies and statistics
 Debt market sell-off makes France’s budget woes defining election issue in test for far-right
-
-## What’s driving the global bond sell-off?
-Looking at the most cited factors reveals a mixed picture
 
 ## How airlines try to weed out rogue pilots
 Background checks and psychological testing aim to ensure that only those fit to fly take the controls
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mamdani, Irish PM play bingo, ‘split the G’ in New York
+New York City Mayor Zohran Mamdani shared a video riding the subway with Irish PM Micheal Martin during UN week.
+
+## Brazil’s Lula and Bolsonaro close campaigns ahead of critical election
+Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.
+
+## Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way
+Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.
+
+## Air ambulance missing on flight from Bermuda to Boston
+The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
+
+## Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
+Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.
+
 ## Israeli settlers attack Palestinian farmers during olive harvest
 Israeli settlers attack Palestinian farmers during olive harvest
 
@@ -242,21 +257,6 @@ Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within
 
 ## Trump ramps up pressure on US Republicans to end US clock switching
 The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.
-
-## Funeral held at Gaza church for mother and daughter killed in Gaza strike
-Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.
-
-## Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years
-The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.
-
-## Is the CJP changing India’s political landscape?
-Youth-led movement demands resignation of chief election commissioner.
-
-## Al Jazeera speaks to Palestinian schoolboy from viral photograph
-A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.
-
-## Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game
-Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
