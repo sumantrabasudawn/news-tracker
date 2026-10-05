@@ -1,142 +1,148 @@
 # AION Intelligence
 
-## Flávio Bolsonaro takes lead in first round of Brazil election
-Son of jailed former far-right president is the unexpected favourite against Luiz Inácio Lula da Silva
+## Spanish prime minister Pedro Sánchez calls snap election
+Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis
 
-## Jewish groups attack Greens after anti-Zionism motion passes
-Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters
+## Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers
+Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction
 
-## Pro-Russia strongman claims victory in Bosnia elections
-Milorad Dodik says he will aim for Republika Srpska to break away from the rest of the Balkan country
+## Greens’ anti-Zionism motion narrows potential base of support
+More extreme and divided party could pose problems for Labour and Conservatives if voters take a ‘whole bloc’ view of next election
 
-## US recalls B-1 bombers from UK air base following alleged terror plot
-UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford
+## Brazil’s Bolsonaro dynasty closes in on stunning comeback
+First-round vote raises prospect of dramatic victory for Flávio Bolsonaro, son of the former president
 
-## Bull run for Japan stocks at risk, warns boss of biggest trading house
-Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities
+## Former prince Andrew seeks judicial review of police searches
+Younger brother of King Charles will this week ask UK court to rule warrants were unlawful
 
-## Dealmaking slowdown threatens early end to M&A boom
-Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year
+## Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’
+Amin Nasser says inventories depleted by Middle East conflict could take up to two years to rebuild
 
-## Election season starts with possibly the most contentious result
-Nobel Peace Prize announced, and another moment of British by-election jeopardy
+## Flávio Bolsonaro takes commanding lead in Brazil election
+Son of jailed former far-right president in pole position against President Luiz Inácio Lula da Silva
 
-## Lula and Bolsonaro neck-and-neck as Brazilians head to polls
-A fourth term for leftist leader could temper US ambitions in Latin America
+## Euro slides to 17-month low against dollar
+High energy prices and concerns over France’s public finances add to pressure on the single currency
 
-## AkzoNobel agrees deal to sell its SE Asia decorative paint unit to Nippon Paint
-Dutch group on verge of handing Japanese rival a small victory as it seeks to exit non-core markets ahead of Axalta merger
+## Top Monte dei Paschi investor backs Intesa’s sweetened €34.5bn takeover bid
+Del Vecchio family support provides boost after offer raised by €800mn over weekend
 
-## Schneider Electric nears deal to buy software group PTC for $20bn
-Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers
+## BT buys struggling rival TalkTalk out of administration
+Deal will result in estimated £400mn cash hit for UK’s broadband leader and wipe out debts of smaller competitor
 
-## The taxpayer-funded ADHD boom
-The growing private market for assessments is leading to concerns over misdiagnoses and providers’ soaring revenues
+## Schneider Electric to buy software group PTC for $23.7bn
+Takeover is French conglomerate’s largest and enhances its products focused on manufacturers
 
-## Investors look to shelter portfolios from rising AI concentration risks
-Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence
+## Quant hedge funds win big from bond sell-off
+Plus, US regulator boost to private capital, German Bunds prove to be a haven and Es Devlin features at London’s Design Museum
 
-## BT weighs improved TalkTalk offer after initial approach rejected
-Telecoms group seeks deal within days for debt-laden broadband provider
+## FirstFT: US withdraws bombers from UK base
+Also in today’s newsletter: global dealmaking falls and UK banks to press Healey
 
-## Legal risks pile up for Altman as OpenAI uncovers dozens of hacks
-Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits
+## Banks will lobby Healey for capital rules cut, says senior MP
+Chair of the Treasury select committee says chancellor cannot ignore global shift to lower capital requirements
 
-## Sensex today | Stock Market Live: Stock to buy today: Schneider Electric Infrastructure (₹1,275.65)
-Sensex, Nifty, Stock Price Live: Schneider Electric Infrastructure stock has been consolidating in a narrow range of ₹1,160-1,250 over the last month. Last week, it broke out above resistance at ₹1,250, indicating that bulls are gaining traction. The price is now above both the 21- and 50-day moving
+## La Caisse tightens control over fintech FNZ after Blythe Masters’ exit
+Canadian pension fund has overhauled company’s management after losing faith in turnaround effort
 
-## Private investment picking up in India as capital formation grows at fastest pace in over three years
-India attracted record gross FDI of USD 97 billion in FY26, while first-quarter inflows in the current financial year reached about USD 30 billion
+## India-EU trade deal to boost exports, jobs in labour-intensive sectors: Sitharaman
+India has opened 92.5 per cent of tariff lines and around 97 per cent of tariff value under the agreement.
 
-## Nippon Paint to acquire AkzoNobel’s Southeast Asian decorative paints business for $1.35 billion
-AkzoNobel expects about $1 billion in net cash proceeds after tax and payments to minority partners from the proposed transaction.
+## Sensex today | Stock Market Live: Sensex, Nifty trade flat at noon as crude, bond yields cap gains
+Sensex, Nifty, Stock Price Live: Indian equity markets traded largely flat at noon after opening higher, with the Sensex up 0.07 per cent and Nifty 0.04 per cent. Improved global cues supported sentiment, while elevated crude prices and bond yields capped gains and pressured foreign flows.
 
-## More cash-out than capital raise: OFS gains ground in IPO market
-Nearly six of every 10 rupees raised through IPOs in H1 FY27 went to selling shareholders, with NSE’s mega all-OFS issue driving the shift
+## Black Opal Consultants IPO: Subscribed 69 times so far
+The IPO was offered in a price band of ₹185 to ₹197 per equity share, with a lot size of 600 equity shares
 
-## The all-seeing AI
-AI-powered code breaker unlocks the secret of a wartime missive
+## IPO Listing: Orient Cables, AceVector, Runwal, German Green make stock debuts
+Orient Cables, AceVector, Runwal Enterprises, and German Green Steel debut with mixed moves; pricing, openings, and early trading shape sentiment
 
-## Adaptable power supply: Fine-tuned electrolysis
-IIT-Madras team builds smart, reconfigurable power system for electrolysers
+## UCIL to contribute significantly to India's nuclear energy expansion plan: Official
+UCIL, at its Jaduguda event, pledges leadership in India’s nuclear energy expansion, highlighting safety, innovation, and new facilities development
 
-## The orbital data centre gambit
-Why Google and TakeMe2Space are hoping to locate data centres in space
+## BPCL plans $3 billion bond sale to fund Brazil offshore oil project
+India’s second-biggest state-owned refiner plans several funding tranches as it expands overseas energy investments and seeks to diversify supply
 
-## The heads that look like ours
-A match with brain data tells you where a model looks, and little about how it answers
+## Bharat Forge secures contract from Pratt & Whitney Canada for aerospace engine components
+The components will be manufactured at Bharat Forge's aerospace facility in India
 
-## Oil prices ease slightly as G7 and Middle East crude supplies set to hit market
-Oil prices saw a modest decline as fresh shipments from the Middle East hit the market. The G7's move to tap into emergency reserves reflects growing energy apprehensions. Nevertheless, the crude oil market stays turbulent, as conflicts in the Gulf region persist. Notably, Yemen's Saudi-backed gover
+## Zee 5 launches short-video vertical to sample platform content
+The initiative focuses on how users discover and engage with shows, using short-form content as an entry point to deeper viewing
 
-## HMSI flags pressure from rising costs
-Honda Motorcycle and Scooter India anticipates a booming festive season compared to last year. Dealers are optimistic about the demand during the festivities, and dispatches are proceeding well. Despite better business conditions, rising material costs are creating profitability challenges for the c
+## RBI Rate Hike Debate: Inflation and crude fuel calls for October move; but what about growth costs?
+To begin with, the inflation trajectory, at least until now, has largely tracked the RBI's own projected path. Unless crude prices durably reset the RBI's forward expected inflation trajectory, it is difficult to justify a hike now that the RBI itself did not deem necessary when it published its Aug
 
-## EY India chief seeks easier GST refunds, tax credits
-EY India chairman Rajiv Memani emphasized the importance of expediting GST refunds and addressing input tax credit issues. He suggested allowing companies to claim expenses related to travel and insurance as eligible credits. Memani highlighted the successful impact of recent GST reforms on India's 
+## Tata Sons Chandrasekaran hails India’s economy, lists 3 key areas for Vikisit Bharat
+During the IFQM Symposium 2026, N Chandrasekaran showcased India's economic resilience, pointing to robust domestic demand as a foundation for growth. He underscored the importance of investing in human resources and energy security for sustainable advancement. Highlighting key economic metrics like
 
-## Credit offtake stays ahead of banks' deposit growth
-In the second quarter of FY27, advances at several banks grew significantly faster than deposit growth. Smaller banks, such as Tamilnad Mercantile Bank and Karnataka Bank, recorded impressive credit expansions. Larger public sector banks like Bank of India and Canara Bank also saw substantial growth
+## Bengaluru-Mumbai Vande Bharat sleeper set to cut 24-hour journey to under 16
+The country's second Vande Bharat sleeper service is expected to substantially reduce the time taken to travel by rail between Bengaluru, India's technology hub, and Mumbai, its financial capital. Although the official launch date has not yet been declared, the railway zones have been asked to comme
 
-## Anup Bagchi's Act 1: Set HDFC house in order
-Anup Bagchi has been chosen as the new CEO of HDFC Bank after Sashidhar Jagdishan's decision not to continue. Bagchi's leadership will address critical issues within the bank, including leadership succession and regulatory concerns. He aims to recapitalize the brand while focusing on technology and 
+## Man sells ancestral land for Rs 8 cr, claims LTCG exemption; gets notice with Rs 6.36 cr additions
+In the tax return that he filed, the man declared LTCG of Rs 7.73 crore after accounting for certain expenses. He claimed tax exemptions of Rs 2.64 crore under Section 54F, which relates to residential property, and Section 54B, applicable to agricultural property. However, the Assessing Officer (AO
 
-## RBI may end rate-cut cycle with first hike since February 2023
-Bankers expect the Reserve Bank of India to raise the repo rate by 25 basis points soon. This marks the end of the rate-cutting phase that began in February 2025. Economists predict inflation will exceed the RBI’s forecasts, necessitating tightening. Experts anticipate resilient growth will provide 
+## IndiGo hikes fuel charges for all flights: Here's how much more you will end up paying
+IndiGo will implement new fuel charges for its flights starting from October 6, 2026. The increase in charges will vary based on the distance of travel for domestic flights. For international flights, the revised fuel charges will range between Rs 1,000 and Rs 10,000. This decision follows the consi
 
-## India in striking distance of 8% growth, says Shaktikanta Das
-India is expected to achieve close to 8% economic growth, aided by recent reforms and increased investment. The resilience of the economy is attributed to strategies implemented over the past decade and strong domestic demand. Former RBI governor Shaktikanta Das emphasized the significance of the fi
+## India-US trade talks hit ‘plateau’
+India and the US have reached a challenging stage in their trade negotiations, according to Finance Minister Nirmala Sitharaman. She indicated that both nations must navigate a significant trade imbalance affecting their discussions. Trade talks continue, but reaching further concessions seems incre
 
-## Next-generation GST aimed at boosting India's next phase of growth
+## Rupee hovers near 96 as oil stays above $100 per barrel, foreign selling persists
+The rupee started off on a weaker note against the US dollar due to soaring crude oil prices and foreign investors selling off. In response, the Reserve Bank of India is stepping in to curb volatile changes, as forex reserves dwindle. Market analysts anticipate a possible interest rate increase foll
 
+## Canada ‘looking forward’ to seal trade deal with India as fifth CEPA round begins
+India and Canada are gearing up for the fifth session of negotiations on the Comprehensive Economic Partnership Agreement, which will take place in Ottawa. The objective is to wrap up the trade deal by late 2026, with priority given to collaboration in sectors like energy, critical minerals, aerospa
 
-## DGCA to carry out final airline audits this week ahead of US aviation body checks
-The regulator is preparing responses to about 200 FAA questions, with the US reassessment of India’s aviation safety oversight scheduled for November 16-20.
+## Actor Koel Mallick joins BJP, files Rajya Sabha nomination months after quitting
+The BJP on Monday nominated her as its Rajya Sabha candidate from West Bengal for the October 16 by-election
 
-## Infighting strains NDA, INDIA bloc ahead of Bihar MLC polls
-What was initially expected to be another NDA-versus-INDIA bloc contest has acquired several battles within the larger battle.
+## ‘Ladli Behna has turned out to be very expensive’: MP CM Mohan Yadav to 12-year-old Bundeli creator
+The Mukhyamantri Ladli Behna scheme was announced on January 28, 2023, by the then Shivraj Singh Chouhan government.
 
-## ‘No permission taken’: Mumbai police files FIR against organisers of Thackerays' ‘Garjana Morcha’ march
-Uddhav Thackeray accused the BJP of using the Election Commission to pursue political vendettas, while Congress leader Balasaheb Thorat called for unity.
+## SC refuses to restrain Gyanesh Kumar, says can't pass order based on news report
+The SC bench made it clear that any decision found to have been taken contrary to the statutory requirements governing the ECI could subsequently be injuncted.
 
-## Extreme heat putting pregnant women, newborns at risk, says UN climate chief
-73% of maternal health professionals, including those in India, reported a rise in heat-linked cases or complications over the past five years
+## Great Nicobar project: Supreme Court rejects govt’s plea, fast-tracks HC scrutiny
+The court underlined the constitutional significance of protecting the culture of the indigenous tribes inhabiting the island
 
-## Capital punishment only possible if reformation of convict is ruled out: Supreme Court
-The bench criticised the trial court for imposing the death sentence on the same day as conviction without a separate hearing on punishment.
+## 'Need to create fear in minds of anti-social elements': What Supreme Court told police over rising rape cases in Delhi-NCR; Top quotes
+The top court was hearing a suo motu case on recent rape cases in Delhi-NCR, amid a series of alleged sexual assaults reported in recent months.
 
-## From the edge of extinction, two captive-bred Great Indian Bustards released into wild in Rajasthan
-The release marks a new phase in the conservation programme, with experts set to track whether captive-raised birds can survive and reproduce without assistance
+## Multiple schools across Delhi receive bomb threats; nothing suspicious, say police
+The school administrations informed the police and fire control room and initiated safety and security protocols, said a senior police office
 
-## Election Commission likely to hold special revision of voter rolls ahead of UP assembly elections
-The voter list for the 2027 Uttar Pradesh assembly elections is expected to be released in the first week of January.
+## Supreme Court issues notice to Centre, poll panel over CEC Gyanesh Kumar's functioning; no interim order
+Supreme Court seeks respose from EC and Centre in a week on plea alleging CEC took decisions without approval of two Election Commissioners.
 
-## As peace prevails, security camp in Abujhmad turns into tribal hostel
-As peace prevails, security camp in Abujhmad turns into tribal hostel
+## Lost crucial evidence in Manchanda murder case due to Gurugram cops delay: Delhi Police tells SC
+The Gurugram police commissioner has separately responded to the court’s September 22 order, which will also be taken up on Monday.
+
+## Hong Kong lawmakers say 5-year tax incentive too short to entice major innovative firms
+Hong Kong lawmakers have backed the government’s proposed tax incentives for large innovative companies, but many said on Monday that the planned five-year concession period is too short to attract major firms to establish headquarters or expand operations in the city. Chief Executive John Lee Ka-ch
+
+## HKTDC’s Belt and Road Summit drives momentum
+[The content of this article has been produced by our advertising partner.] The 11th Belt and Road Summit, which took place in Wan Chai on 9-10 September, brought together more than 6,200 top officials, business leaders and senior professionals from 70-plus B&R countries and regions to explore oppor
+
+## Hong Kong poised for first listed property debt fund as banks pull back
+Private equity firms are moving to plug a commercial real estate funding gap as traditional banks pull back, with one fund filing to launch Hong Kong’s first listed property debt vehicle. Gaw Capital, a Hong Kong-based real estate private equity fund which managed US$35.6 billion in assets as of lat
+
+## Huawei, Qualcomm strike multi-year patent agreement across 5G, AI
+US chip giant Qualcomm has agreed to pay to licence and acquire patents from China’s Huawei Technologies for the first time as part of a “multi-year, broad patent licence agreement” covering 5G, computing and artificial intelligence. The deal involved cross-licensing between both firms’ patent portf
+
+## Wellcome operator DFI Retail seeks buyer for fully leased shopping centre on The Peak
+DFI Retail, the food and beverage unit of Hong Kong-headquartered conglomerate Jardine Matheson, is looking to sell its mall at The Peak, one of the city’s wealthiest neighbourhoods. The entire commercial portion of the Dairy Farm Guildford Road Shopping Centre will be sold via a public tender closi
+
+## Asset manager Schroders to expand in Hong Kong after merger with Nuveen, CEO says
+UK fund house Schroders will increase investment and headcount in Hong Kong after being acquired by US asset manager Nuveen, according to Schroders’ global CEO. “Hong Kong is a critical interface for mainland China through schemes like Wealth Management Connect,” Richard Oldfield said in an online i
+
+## The Live Conversation: Education Beyond the Checklist
+Over 1,700 parents, students and educators attended the International Schools Festival – Hong Kong Island 2026. Held at Hong Kong Ocean Park Marriott Hotel on September 19, it featured 46 schools and education advisers, and offered families guidance on admissions, curricula, university applications 
 
 ## Temu took the world by storm – but has the shopping app lost its thunder?
 In February 2023, the budget shopping platform Temu announced itself on the world stage in the brashest way possible: becoming one of the youngest ever brands to buy a Super Bowl advertising spot. “Download the Temu app and shop like a billionaire,” a voice proclaimed in the 30-second commercial, as
 
-## Quant funds are ‘necessary’ to China’s ascent as financial powerhouse: investor
-Beijing has tightened scrutiny of quantitative trading funds in recent months amid fears they add to market instability. Yet a leading investor believes the future is bright for China’s quant funds, as they are “necessary for a developed economy”. Seth Huang, the head of Aris Capital, said quant fun
-
-## 140 Years of Everyday Moments
-A morning stop for breakfast before work. A coffee picked up between meetings. A grocery stop on the way home. A stop for health and beauty products. A weekend trip to choose furniture for a growing family. A rewards offer that helps make the weekly shop go further. These are ordinary moments in Hon
-
-## LIM Advisors founder George Long: ‘We’ve been here 30 years. We’re going to be around’
-[The content of this article has been produced by our advertising partner.] George Long does not talk like a man selling vision. The founder, chairman and chief investment officer of LIM Advisors is understated and unshowy. After three decades running an independent firm in Hong Kong, what comes thr
-
-## More Hong Kong homes sell at a loss despite signs prices have bottomed: agents
-Despite signs that Hong Kong property prices could have bottomed out and begun rebounding in August, market sources said at least 100 secondary residential homes were sold at a loss in September, up from at least 81 the previous month. Hong Kong’s property market dodged an immediate setback from the
-
-## How Malaysia offers Chinese investors Singapore’s comfort at prices lower than Thailand
-Malaysia is proving to be a middle ground for many Hong Kong and mainland Chinese investors looking to buy property in a country that provides the stability Singapore offers, but with competitive price points similar to those found in Thailand, according to analysts. Data from Juwai IQI, a property 
-
-## Quality over quantity: China’s AI microdrama producers battle viewer fatigue
-Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresse
-
-## Wuhan joins major Chinese cities in shift towards completed-home sales
-A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
+## How to Fix Our Global Malaise
+Focusing on local communities can have a surprising international effect.
 
 ## The Year Hollywood Changed the National Security Debate
 In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
@@ -159,8 +165,20 @@ A new book examines how narratives about psychological harm have come to dominat
 ## What’s at Stake in Brazil’s Election
 Results would have broad implications on foreign policy.
 
-## ‘What Is Happening Today Is Development in Reverse’
-A conversation with UNDP chief Alexander De Croo about building infrastructure in active conflict zones.
+## Can Australia Create Lasting Climate Impacts For the Asia-Pacific?
+Australia is set to preside over the negotiations at the upcoming COP31 climate conference in Türkiye, but its support for regional partners will need to be sustained.
+
+## It’s Time For Thailand to Amend Its Controversial Lese-Majeste Law
+Over the past decade, hundreds of political activists and ordinary people have been subjected to criminal prosecution under Article 112.
+
+## Japan’s Potential as a ‘Third Option’ for ASEAN
+ASEAN is looking for a third partner. Japan fits the bill — if it plays its cards right
+
+## Digital Asset Regulations in the Asia-Pacific
+The risks of fragmentation
+
+## Supporting Asia’s Energy Transition
+The role of alternative financing
 
 ## Taiwan’s New F-16s: Why They Still Matter
 The Republic of China Air Force waited 20 years for these aircraft. What are they for?
@@ -171,20 +189,11 @@ Previously, India sorted out its differences with friendly nations quietly. Last
 ## Concerns About ‘WWII Allies’ at US-China Summit
 How China is weaponizing WWII history
 
-## Philippines Rejects Chinese Claim to ‘Sovereign Rights’ Over Waters Around Batanes
-The Chinese activities around the Philippines' northernmost province represent the opening of a new front in the maritime struggle between the two nations.
+## The AI-Assisted Strategic Own Goal in the Kill Chain
+For eighty years, the Western alliance has anchored its strength in moral legitimacy, shared values, and the resulting credibility to shape international norms. NATO’s durability through the Cold War rested on more than nuclear deterrence alone: a shared conviction that the alliance represented a ru
 
-## Indonesia Needs to Do More to Tackle the Region’s Transboundary Haze Problem
-Under Prabowo Subianto, leadership on the issue has been lacking – and tens of millions are suffering as a result.
-
-## A Tajik Bank Shuts Side Door for Russian Cardholders
-Humo Bank's ultimatum to its Russian clients shows how Western sanctions can shape Tajikistan's banking sector.
-
-## Trouble in Shangri-La? Why Bruneians Are Going to Australia for Illegal Migrant Work
-Unemployed Bruneians are using Australian tourist visas to work as fruit pickers.
-
-## Taiwan’s Local Elections Are Not About China, President Lai, or the United States
-Candidates across Taiwan are campaigning on local issues that vary by city – not topics like cross-strait relations. What can we learn from these elections?
+## China is Watching Us. Is the U.S. Air Force Still Watching China?
+On Oct. 1, 2026, Beijing celebrated the 77th anniversary of the founding of the People’s Republic of China and the beginning of the end for the U.S. Air University’s China Aerospace Studies Institute. The institute was one of several centers of excellence established across the U.S. military’s profe
 
 ## How Closed Airspace Threatens U.S. Military Mobility Across Eurasia
 For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of departure and its destination. Routes could ch
@@ -203,12 +212,6 @@ In 1901, military analyst Jan Bloch declared that new military technologies had 
 
 ## Triumph or Procrastination? Experts Split on the Trump-Xi Summit
 Over the better part of three days, President Donald Trump hosted Chinese President Xi Jinping in Washington for a summit that drew international attention for its high-stakes agenda, from trade and AI to Taiwan. While some experts saw the summit as an exercise in kicking the can down the road on ma
-
-## Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure
-“We want to stop the North Koreans as far from Pusan as we can. Block the main road as far north as possible. Contact General Church. If you can’t locate him, go to Taejon and beyond if you can. Sorry I can’t give you more information. That’s all I’ve got. Good luck to you, and God bless you and you
-
-## Writing the Playbook: A Strategy and Doctrine for American Economic Security
-In January, this article series opened with a blunt question: Economic statecraft is back, but is America ready?Driving the question, in part, was the fact that the United States had not yet articulated (at least overtly) a strategy for economic statecraft. This was despite widening recognition that
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +237,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Brazil’s presidential race: Three key takeaways from the first round
-Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.
+## Formula One to probe software bug behind Bahrain GP chaos in Sepang
+Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track.
 
-## Can the KKK find a new foothold in the US?
-The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.
+## ‘If I didn’t write what moved me, it’d be like putting myself in prison’
+Award-winning author Arundhati Roy discusses why she's not afraid to address politically charged topics.
 
-## Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
-Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.
+## Spain’s PM Pedro Sanchez calls snap election amid housing crisis
+Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.
 
-## Ethiopia’s forces retake Mekelle amid renewed Tigray fighting
-The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.
+## Pakistan installs fishing nets at security outposts to block drone attacks
+Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.
 
-## Four African leaders issue joint declaration as Ethiopia war escalates
-Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.
+## France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
+Only one point separates Group A1 leaders France and second-placed Belgium before Monday's clash.
 
-## Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
-Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
+## Spain’s Pedro Sanchez announces snap election amid housing crisis
+Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.
 
-## Israel face spitting allegation as Ireland boss ‘delighted’ after ties over
-Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.
+## World Space Week: Which countries have sent people to space?
+At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.
 
-## Manchester City must be relegated, says Canada’s ex-Leeds manager
-Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.
+## Djokovic defeats top seed Zverev to reach China Open semifinals
+Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
+
+## Employers may soon be able to claim ITC on GST paid for employee insurance cover
+Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
+
+## Why US Treasury bond yields matter, what it means for Indian investors, and the impact on rupee
+Cutting through money jargon, one topic at a time. This week, Sanket Dhanorkar explains why yields on US Treasury bonds matter, and what it means for Indian investors. Rising US bond yields mean investors are demanding a higher return to buy and hold that debt. This reflects concerns over the weak f
+
+## GST 2.0's next move: Council may scrap officers' arrest powers, raise prosecution bar to Rs 5 crore
+The GST Council is weighing changes to GST enforcement, including ending officials' arrest powers and shifting to court-ordered arrests. Criminal prosecution may be limited to cases involving more than Rs 5 crore, while routine disputes over GST interpretation could be handled through civil penaltie
+
+## GST Council may clear sweeping compliance reforms; e-commerce sellers, genuine biz to get relief
+The GST Council is planning to review important reforms aimed at simplifying tax compliance for businesses. One proposal includes allowing small e-commerce sellers to use platform warehouses for GST registration. Another initiative seeks to protect input tax credits for genuine buyers even if suppli
+
+## GST 2.0 set to amplify ease, unlock tax credit
+India is set to implement significant reforms to the goods and services tax system, which will ease compliance. Changes may include the release of accumulated input tax credit that benefits various industries and supports growth. The GST Council plans to reconsider tax treatment for certain supplier
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
@@ -267,20 +285,11 @@ Cash flows, promoter support, covenant breaches and future funding plans among k
 ## Corporate Laws Bill: JPC seeks 25% ceiling on buybacks as Centre reworks rules
 Panel backs two buybacks a year for specified companies but wants equity share limit retained in law, narrowing scope for a higher percentage to be prescribed.
 
-## Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft proposals
-Aggregation of CA Firms committee chairman, vice chairman meet DoE Secretary; institute working on draft proposing Rs 5 crore government consulting contracts for small and mid sized firms, with joint credentials for registered network firms.
+## SEBI Chairman cautions investors, traders on 'finfluencers' as capital market industry deepens
+As India's capital market industry has become deeper, broader and more accessible over the past decade, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Monday warned investors and traders to avoid anonymous tips by finfluencers and unrealistic return claims.
 
-## CBDT tightens TDS rules for property deals involving non-resident sellers from October: Here's what changes
-From October 1, 2026, buyers from India will report detailed information on purchases from non-residents. The amendments include changes to Forms 132 and 141, including a new Schedule E for compliance. Buyers will not need a Tax Deduction Account Number while extending the TDS payment timeline to 30
-
-## DCB Bank to cross 500 branches by this year, bets on SME and affordable housing to drive expansion: CFO
-DCB Bank is targeting 18 to 20% annual asset growth and is betting on SME business loans, gold loans, SME working capital financing, and affordable housing to drive its next phase of expansion, CFO Ravi Kumar told ETCFO.
-
-## Britannia rejigs top brass: N Venkataraman new Deputy MD, R Jayaraman to be CFO
-Venkataraman has been with the company since 2007 and will now oversee its finance, strategy, legal, secretarial and IT functions alongside Hargave, Britannia said. He previously worked in finance roles at Eicher Motors and Hindustan Aeronautics.
-
-## Tata Trusts pitch Tata Sons restructuring as alternative to listing
-Tata Trusts have proposed merging Tata Electronics Systems Solutions and Tata Consulting Engineers with Tata Sons to alter its regulatory classification and preserve its unlisted private status. The Trusts said the restructuring would increase operating revenue and reduce investments in group compan
+## RBI likely to hike repo rate by 25 bps to 5.50% in October policy: ET Poll
+On Monday, the Reserve Bank of India's Monetary Policy Committee will hold important meetings. Analysts are anticipating a 25 basis points increase in the key interest rate, raising it to 5.50%. The surge in inflation is attributed to elevated crude oil costs and subpar agricultural production. Many
 
 ## RBI likely to lift repo by up to 75 bps amid geopolitical uncertainty: Report
 Reserve Bank of India may raise the policy repo rate by 50-75 basis points in the current cycle amid heightened macroeconomic headwinds and geopolitical uncertainty, a report said on Thursday.
@@ -299,10 +308,4 @@ As India's investment universe expands, portfolio management services (PMS) coul
 
 ## PMS regulation must evolve with industry, SEBI to cut compliance friction: Tuhin Kanta Pandey
 Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday said regulation for portfolio managers must evolve with the industry's growth, with the market regulator seeking to reduce unnecessary compliance friction while enabling innovation without compromising investor pr
-
-## RoDTEP scheme extension likely for exporters as September 30 deadline nears
-The government plans to extend the Remission of Duties and Taxes on Exported Products scheme to support exporters. This initiative aims to provide refunds for various embedded taxes, which could otherwise raise costs for Indian goods abroad. The commerce ministry is consulting with the finance minis
-
-## India flags concerns over US Russia sanctions law, warns of impact on ties, energy market
-Foreign Secretary Vikram Misri met a US Congressional delegation led by Brian Mast in New Delhi. Misri conveyed concerns regarding the implications of the Sanctioning Russia and Iran Act on bilateral relations. The Act permits high tariffs on countries purchasing Russian oil, affecting India directl
 
