@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Flávio Bolsonaro takes lead in first round of Brazil election
+Son of jailed former far-right president is the unexpected favourite against Luiz Inácio Lula da Silva
+
 ## Jewish groups attack Greens after anti-Zionism motion passes
 Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters
 
@@ -21,14 +24,11 @@ Nobel Peace Prize announced, and another moment of British by-election jeopardy
 ## Lula and Bolsonaro neck-and-neck as Brazilians head to polls
 A fourth term for leftist leader could temper US ambitions in Latin America
 
-## Russia strikes Kyiv as Germany’s Merz visits
-Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe
+## AkzoNobel agrees deal to sell its SE Asia decorative paint unit to Nippon Paint
+Dutch group on verge of handing Japanese rival a small victory as it seeks to exit non-core markets ahead of Axalta merger
 
 ## Schneider Electric nears deal to buy software group PTC for $20bn
 Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers
-
-## AkzoNobel nears deal to sell its SE Asia decorative paint unit to Nippon Paint
-Dutch group on verge of handing Japanese rival a small victory as it seeks to exit non-core markets ahead of Axalta merger
 
 ## The taxpayer-funded ADHD boom
 The growing private market for assessments is leading to concerns over misdiagnoses and providers’ soaring revenues
@@ -42,77 +42,83 @@ Telecoms group seeks deal within days for debt-laden broadband provider
 ## Legal risks pile up for Altman as OpenAI uncovers dozens of hacks
 Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits
 
-## Saint-Gobain plans ₹11,000 crore India push over the next five years
-French building-materials giant bets on construction chemicals, insulation and acquisition-led growth to nearly triple its India business
+## Sensex today | Stock Market Live: Stock to buy today: Schneider Electric Infrastructure (₹1,275.65)
+Sensex, Nifty, Stock Price Live: Schneider Electric Infrastructure stock has been consolidating in a narrow range of ₹1,160-1,250 over the last month. Last week, it broke out above resistance at ₹1,250, indicating that bulls are gaining traction. The price is now above both the 21- and 50-day moving
 
-## businessline poll: MPC seen raising rates by 25 bps this week; majority expect 50-75 bps tightening by FY27
-From pause to tightening: 7 in 10 bank economists expect a neutral policy stance
+## Private investment picking up in India as capital formation grows at fastest pace in over three years
+India attracted record gross FDI of USD 97 billion in FY26, while first-quarter inflows in the current financial year reached about USD 30 billion
 
-## Kiro Beauty looks beyond lips as face, skincare emerge as growth engines
-Skincare also emerges as another key growth opportunity for the company, as it looks to broaden its portfolio beyond colour cosmetics
+## Nippon Paint to acquire AkzoNobel’s Southeast Asian decorative paints business for $1.35 billion
+AkzoNobel expects about $1 billion in net cash proceeds after tax and payments to minority partners from the proposed transaction.
 
-## GST exemption for banks, nominated agencies for gold, silver imports may be withdrawn
-Gold, silver and precious metal imports have been a concern for the government, as they lead to an outflow of foreign currency and dent India’s forex reserves
+## More cash-out than capital raise: OFS gains ground in IPO market
+Nearly six of every 10 rupees raised through IPOs in H1 FY27 went to selling shareholders, with NSE’s mega all-OFS issue driving the shift
 
-## CAFE-III is a progressive roadmap for greener mobility: JSW Motors CEO
-The recent notification of CAFE-III norms provides a clear roadmap for new entrants like JSW Motors as it prepares to launch its new energy vehicles in India
+## The all-seeing AI
+AI-powered code breaker unlocks the secret of a wartime missive
 
-## FSSAI orders Everest Food to recall select batches of cumin powder
-The food analyst’s report found pesticide residues of Azoxystrobin and Thiamethoxam at levels exceeding the prescribed maximum limits
+## Adaptable power supply: Fine-tuned electrolysis
+IIT-Madras team builds smart, reconfigurable power system for electrolysers
 
-## Tata Communications launches Centre of Excellence in Cybersecurity at SASTRA University
-The centre was launched by Ganesh Lakshminarayanan, CEO and MD, Tata Communications
+## The orbital data centre gambit
+Why Google and TakeMe2Space are hoping to locate data centres in space
 
-## AI agents tried to hack Canadian government website, research firm says
-AI research firm Transluce said the attempts showed tactics consistent with prior agent activity attributed to OpenAI in a similar timeframe
+## The heads that look like ours
+A match with brain data tells you where a model looks, and little about how it answers
+
+## Oil prices ease slightly as G7 and Middle East crude supplies set to hit market
+Oil prices saw a modest decline as fresh shipments from the Middle East hit the market. The G7's move to tap into emergency reserves reflects growing energy apprehensions. Nevertheless, the crude oil market stays turbulent, as conflicts in the Gulf region persist. Notably, Yemen's Saudi-backed gover
+
+## HMSI flags pressure from rising costs
+Honda Motorcycle and Scooter India anticipates a booming festive season compared to last year. Dealers are optimistic about the demand during the festivities, and dispatches are proceeding well. Despite better business conditions, rising material costs are creating profitability challenges for the c
+
+## EY India chief seeks easier GST refunds, tax credits
+EY India chairman Rajiv Memani emphasized the importance of expediting GST refunds and addressing input tax credit issues. He suggested allowing companies to claim expenses related to travel and insurance as eligible credits. Memani highlighted the successful impact of recent GST reforms on India's 
+
+## Credit offtake stays ahead of banks' deposit growth
+In the second quarter of FY27, advances at several banks grew significantly faster than deposit growth. Smaller banks, such as Tamilnad Mercantile Bank and Karnataka Bank, recorded impressive credit expansions. Larger public sector banks like Bank of India and Canara Bank also saw substantial growth
+
+## Anup Bagchi's Act 1: Set HDFC house in order
+Anup Bagchi has been chosen as the new CEO of HDFC Bank after Sashidhar Jagdishan's decision not to continue. Bagchi's leadership will address critical issues within the bank, including leadership succession and regulatory concerns. He aims to recapitalize the brand while focusing on technology and 
+
+## RBI may end rate-cut cycle with first hike since February 2023
+Bankers expect the Reserve Bank of India to raise the repo rate by 25 basis points soon. This marks the end of the rate-cutting phase that began in February 2025. Economists predict inflation will exceed the RBI’s forecasts, necessitating tightening. Experts anticipate resilient growth will provide 
+
+## India in striking distance of 8% growth, says Shaktikanta Das
+India is expected to achieve close to 8% economic growth, aided by recent reforms and increased investment. The resilience of the economy is attributed to strategies implemented over the past decade and strong domestic demand. Former RBI governor Shaktikanta Das emphasized the significance of the fi
 
 ## Next-generation GST aimed at boosting India's next phase of growth
 
 
-## Faster registration, easier refunds: Reform rollout with GST 2.0
-GST Council plans to unveil substantial reforms aimed at improving business processes and facilitating growth. The proposed changes involve streamlined registration, easier refunds, and a more efficient input tax credit system. Decriminalisation measures are also proposed to alleviate issues for bus
+## DGCA to carry out final airline audits this week ahead of US aviation body checks
+The regulator is preparing responses to about 200 FAA questions, with the US reassessment of India’s aviation safety oversight scheduled for November 16-20.
 
-## GST Council meeting on October 7: Arrest powers, ITC, prosecution threshold proposals on agenda - report
-The GST Council will meet on October 7 to discuss major reforms in GST processes and enforcement. Proposed changes include removing tax officers' arrest powers and requiring judicial consent for any arrests. Additionally, the prosecution threshold may be raised from Rs 1 crore to Rs 5 crore, with so
+## Infighting strains NDA, INDIA bloc ahead of Bihar MLC polls
+What was initially expected to be another NDA-versus-INDIA bloc contest has acquired several battles within the larger battle.
 
-## Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?
-International gold prices have fallen 26% from the record high of $5595 seen on January 29 this year. Indian gold prices peaked at the same time and are down around 23%. More recently, gold prices which rose to Rs 1,64,773/10 gm levels on MCX futures contract in the last week of August had fallen by
+## ‘No permission taken’: Mumbai police files FIR against organisers of Thackerays' ‘Garjana Morcha’ march
+Uddhav Thackeray accused the BJP of using the Election Commission to pursue political vendettas, while Congress leader Balasaheb Thorat called for unity.
 
-## Gold, silver outlook: Dollar, US-Iran tensions, RBI policy among key factors to drive prices this week
-This week, prices for gold and silver are likely to experience fluctuations driven by various factors including the strength of the US dollar, rising bond yields, and continuing tensions between the US and Iran. Market participants are closely monitoring the Reserve Bank of India's impending interes
+## Extreme heat putting pregnant women, newborns at risk, says UN climate chief
+73% of maternal health professionals, including those in India, reported a rise in heat-linked cases or complications over the past five years
 
-## OPEC+ keeps November oil output targets steady as Iran war hits supply
+## Capital punishment only possible if reformation of convict is ruled out: Supreme Court
+The bench criticised the trial court for imposing the death sentence on the same day as conviction without a separate hearing on punishment.
 
+## From the edge of extinction, two captive-bred Great Indian Bustards released into wild in Rajasthan
+The release marks a new phase in the conservation programme, with experts set to track whether captive-raised birds can survive and reproduce without assistance
 
-## Jio Platforms IPO likely by Oct-end; $3.8 bn issue, $143-146 bn company valuation: Report
-Jio Platforms is preparing for its stock market debut with an estimated issue size of $3.8 billion, which could set records. The IPO aims for a valuation of $143-146 billion, with filings expected in mid-October. Reliance Jio’s expansion includes telecom, cloud, AI, and services, reporting significa
-
-## Stock market outlook: RBI rate decision, earnings, oil & more, here's what will drive D-street this week
-Volatility looms over Indian stock markets as they navigate a complex web of local and global influences. Major factors at play include the upcoming decision on interest rates from the Reserve Bank of India, alongside the eagerly awaited corporate earnings announcements. Additionally, fluctuations i
+## Election Commission likely to hold special revision of voter rolls ahead of UP assembly elections
+The voter list for the 2027 Uttar Pradesh assembly elections is expected to be released in the first week of January.
 
 ## As peace prevails, security camp in Abujhmad turns into tribal hostel
 As peace prevails, security camp in Abujhmad turns into tribal hostel
 
-## Bihar: Gandak recedes, 7 engineers suspended over flood response negligence
-Bihar: Gandak recedes, 7 engineers suspended over flood response negligence
+## Temu took the world by storm – but has the shopping app lost its thunder?
+In February 2023, the budget shopping platform Temu announced itself on the world stage in the brashest way possible: becoming one of the youngest ever brands to buy a Super Bowl advertising spot. “Download the Temu app and shop like a billionaire,” a voice proclaimed in the 30-second commercial, as
 
-## AISA says Neha Bora picked up by cops in ‘private vehicle’, Delhi Police deny claim
-AISA national president Neha Bora was reportedly detained during protest march near Jantar Mantar on Sunday seeking CEC Gyanesh Kumar's resignation.
-
-## IIT Delhi scholar dies at AIIMS 46 days after he was found unconscious at rented house; abetment of suicide case registered
-Police said an FIR has been filed on the directions of the Supreme Court and on the basis of a complaint received from the Security Officer of IIT Delhi.
-
-## Delhi biryani seller arrested for killing wife with butcher's knife after dispute over his affair
-The accused, identified as Pradeep, had fled from the spot after stabbing his wife Sonia.
-
-## Tripura boy, 12, sustains bullet injury while playing: Police
-The bullet was allegedly fired from a country-made gun that he and his brother were playing with near their home
-
-## Supreme Court to hear on October 5 pleas seeking CEC Gyanesh Kumar's resignation amid SIR row
-CJI Surya Kant and Justices Joymalya Bagchi and V Mohana are scheduled to hear the pleas filed by Rakesh Kumar Singh and advocate Shailendra Mani Tripathi.
-
-## Nagaon LS bypoll: Campaigning ends, BJP confident of wresting Congress seat
-The Nagaon seat fell vacant in March this year after sitting Congress MP Pradyut Bordoloi resigned from the party and joined the BJP
+## Quant funds are ‘necessary’ to China’s ascent as financial powerhouse: investor
+Beijing has tightened scrutiny of quantitative trading funds in recent months amid fears they add to market instability. Yet a leading investor believes the future is bright for China’s quant funds, as they are “necessary for a developed economy”. Seth Huang, the head of Aris Capital, said quant fun
 
 ## 140 Years of Everyday Moments
 A morning stop for breakfast before work. A coffee picked up between meetings. A grocery stop on the way home. A stop for health and beauty products. A weekend trip to choose furniture for a growing family. A rewards offer that helps make the weekly shop go further. These are ordinary moments in Hon
@@ -131,12 +137,6 @@ Two decades after stepping away from the spotlight, iconic actress Joey Wong mad
 
 ## Wuhan joins major Chinese cities in shift towards completed-home sales
 A complete supply-side transformation of China’s housing market is likely to take precedence over any immediate revival in homebuyer demand following Wuhan’s overhaul of new-home sales, according to property analysts. Wuhan, capital of the central Chinese province of Hubei, is the fourth major econo
-
-## More Chinese banks likely to adopt AI rules after Ping An move: analysts
-After Ping An Bank became the first listed Chinese lender to formally adopt rules governing its use of artificial intelligence, analysts said more mainland institutions were likely to follow, with the move setting an early benchmark for how far the sector can go in applying the technology. The Shenz
-
-## McDonald’s sells Hong Kong shop for US$15.3 million as ‘old money’ returns to retail
-As “long-dormant old money” steps back into Hong Kong’s retail property market, McDonald’s has sold the property housing its first New Territories restaurant for HK$120 million (US$15.3 million), extending its year-long sell-down of self-owned shops. The property at 10-22 Tsuen Wan Market Street, sp
 
 ## The Year Hollywood Changed the National Security Debate
 In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mysterious luminous object burns in the skies above Libya
-A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.
+## Brazil’s presidential race: Three key takeaways from the first round
+Flavio Bolsonaro beat polling expectations as Brazil’s right gained ground, setting up October 25 run-off with Lula.
 
-## Man’s miraculous catch saves child after balcony fall in Egypt
-Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.
+## Can the KKK find a new foothold in the US?
+The infamous hate group is trying to rebrand itself as the 'Knights Party' in an attempt to grow its base.
 
-## Nicaragua says it will withdraw from Central American Parliament
-The country's crackdown on human rights has left it increasingly isolated in Latin America.
+## Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings
+Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.
 
-## US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears
-The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.
+## Ethiopia’s forces retake Mekelle amid renewed Tigray fighting
+The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.
 
-## Cornell case puts New York’s progressive image at odds with its rape laws
-New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.
+## Four African leaders issue joint declaration as Ethiopia war escalates
+Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.
 
-## Ireland refuse handshake with Israel and don armbands in Nations League tie
-Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.
+## Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
+Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
 
-## Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
-Holders Portugal first team to qualify for 2026-27 UEFA Nations League despite Cristiano Ronaldo's absence.
+## Israel face spitting allegation as Ireland boss ‘delighted’ after ties over
+Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.
 
-## Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
-Israel's president declared that the 'antisemitic lie' deliberately endangers Jews and Israelis.
+## Manchester City must be relegated, says Canada’s ex-Leeds manager
+Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.
 
 ## Are CFOs ready for the storm?
 While the manufacturing is showing signs of growth, the question is whether it will continue? If yes, at what speed? But the bigger picture that CFOs are spending time to decode is still the global dynamics. The geopolitical tensions have not reduced. The market fall this week suggests that the stor
