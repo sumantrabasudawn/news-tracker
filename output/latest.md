@@ -1,79 +1,79 @@
 # AION Intelligence
 
-## Spanish prime minister Pedro Sánchez calls snap election
-Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis
+## Former prince Andrew seeks judicial review of police searches
+Younger brother of King Charles will this week ask UK court to rule warrants were unlawful
+
+## Tories pledge big tax cuts in push to win over wealthy voters
+Kemi Badenoch heralds ‘morally right’ plan to cut inheritance tax while shadow chancellor vows to cut mansion tax
+
+## Big Oil goes to US Supreme Court over pivotal climate damages claim
+ExxonMobil and Suncor Energy look to the high court to block state action
+
+## Brazil’s Bolsonaro comeback exposes Lula’s weakness
+Incumbent’s fading appeal has opened the door to a family revival in Brazil
+
+## Trump poised to ease red diesel limits in attempt to quell fuel inflation
+US president expected to announce move during trip to agricultural state of Nebraska
+
+## French central bank head warns country at risk of being ‘strangled by interest rates’
+Emmanuel Moulin says France can still reassure bond investors despite ‘serious and worrying’ market moves in recent days
+
+## Germany and France agree on last-resort tool against trade threats
+Berlin agrees on ‘second-strike weapon’ to deter threats over key supplies such as Chinese rare earths and magnets
+
+## ‘Very sensible’: Business warms to Badenoch’s pitch
+Executives left unconvinced by Andy Burnham’s plans are signalling that they are prepared to give the Tories a second chance
+
+## TotalEnergies boss hails ‘opportunities’ created by global market turmoil
+Patrick Pouyanné says he prefers ‘disruption to the peaceful world’ despite French major being among those most affected by Middle East conflict
+
+## Schneider’s bet on a new world clashes with finance’s old rules
+It is harder to be good at many things than one — and branching out into software leaves the stock exposed to AI threats
+
+## Citi to speed up promotion path for junior bankers as hiring war heats up
+Length of investment banking analyst programme to be cut to two years to try to stave off poaching of young workers by private equity
 
 ## Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers
 Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction
 
-## Greens’ anti-Zionism motion narrows potential base of support
-More extreme and divided party could pose problems for Labour and Conservatives if voters take a ‘whole bloc’ view of next election
+## The dangerous myth behind AI agent hacks
+These are not simply cyber security flaws but problems with the way that models are trained
 
-## Brazil’s Bolsonaro dynasty closes in on stunning comeback
-First-round vote raises prospect of dramatic victory for Flávio Bolsonaro, son of the former president
+## Brazil’s markets surge as investors bet on Bolsonaro win
+Rightwinger seen as more likely than current president Lula to enact quick spending cuts
 
-## Former prince Andrew seeks judicial review of police searches
-Younger brother of King Charles will this week ask UK court to rule warrants were unlawful
+## Ellison sticks with Thompson as CNN boss amid Trump attacks
+Decision comes a day before blockbuster deal to combine Paramount and Warner Bros is expected to close
 
-## Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’
-Amin Nasser says inventories depleted by Middle East conflict could take up to two years to rebuild
+## Indian pharma company’s Ukraine plant hit by Russian drone, one worker killed
+‘We just want to work,’ says Kusum Group co-founder; firm employs more than 200 people at the Sumy plant, all of them local Ukrainians
 
-## Flávio Bolsonaro takes commanding lead in Brazil election
-Son of jailed former far-right president in pole position against President Luiz Inácio Lula da Silva
+## First international cargo leaves Assam’s Bogibeel for Dhaka since independence
+The vessel will travel about 768 kilometres down National Waterway-2 on the Brahmaputra River in India to the Indo-Bangladesh border, then continue along the Indo-Bangladesh Protocol Route (IBPR)
 
-## Euro slides to 17-month low against dollar
-High energy prices and concerns over France’s public finances add to pressure on the single currency
+## Air India, Express may share key teams in cost-cutting push
+Common HR, finance, IT and engineering functions under review
 
-## Top Monte dei Paschi investor backs Intesa’s sweetened €34.5bn takeover bid
-Del Vecchio family support provides boost after offer raised by €800mn over weekend
+## Did SIR deletions change Tamil Nadu assembly election’s outcome?
+While a businessline analysis reveals a striking geographical overlap between high voter removals and TVK victories, experts urge caution against reading it as a conspiracy
 
-## BT buys struggling rival TalkTalk out of administration
-Deal will result in estimated £400mn cash hit for UK’s broadband leader and wipe out debts of smaller competitor
+## Amazon Prime bets on Tier 2/3 cities, prime-only discounts to drive festive shopping
+Prime membership base set to double from 2023 by the year-end, says Akshay Sahi, VP – Prime & Customer Fulfilment Experience, India and Emerging Countries, Amazon
 
-## Schneider Electric to buy software group PTC for $23.7bn
-Takeover is French conglomerate’s largest and enhances its products focused on manufacturers
+## Letters to the Editor dated October 5, 2026
 
-## Quant hedge funds win big from bond sell-off
-Plus, US regulator boost to private capital, German Bunds prove to be a haven and Es Devlin features at London’s Design Museum
 
-## FirstFT: US withdraws bombers from UK base
-Also in today’s newsletter: global dealmaking falls and UK banks to press Healey
+## Clastek Engineering files DRHP for IPO on NSE Emerge
+IPO to be a fresh issue of up to 55 lakh equity shares
 
-## Banks will lobby Healey for capital rules cut, says senior MP
-Chair of the Treasury select committee says chancellor cannot ignore global shift to lower capital requirements
+## KP Group targets 10 GW each in owned power, EPC and 10 GWh battery manufacturing by FY32
+The group is also pursuing international opportunities in Botswana, Zambia, Tanzania, and Saudi Arabia. In Botswana, an initial 500 MW phase is planned within a proposed 5 GW development
 
-## La Caisse tightens control over fintech FNZ after Blythe Masters’ exit
-Canadian pension fund has overhauled company’s management after losing faith in turnaround effort
+## PPF at 7.1%, SCSS at 8.2%, NSC at 7.7%: Check Oct-Dec post office scheme rates
+Latest small savings schemes interest rates: The Ministry of Finance decides the interest rates for all small savings schemes every quarter. For the October to December 2026 quarter, the interest rates on all small savings schemes have been kept unchanged. The decision extends the period of unchange
 
-## India-EU trade deal to boost exports, jobs in labour-intensive sectors: Sitharaman
-India has opened 92.5 per cent of tariff lines and around 97 per cent of tariff value under the agreement.
-
-## Sensex today | Stock Market Live: Sensex, Nifty trade flat at noon as crude, bond yields cap gains
-Sensex, Nifty, Stock Price Live: Indian equity markets traded largely flat at noon after opening higher, with the Sensex up 0.07 per cent and Nifty 0.04 per cent. Improved global cues supported sentiment, while elevated crude prices and bond yields capped gains and pressured foreign flows.
-
-## Black Opal Consultants IPO: Subscribed 69 times so far
-The IPO was offered in a price band of ₹185 to ₹197 per equity share, with a lot size of 600 equity shares
-
-## IPO Listing: Orient Cables, AceVector, Runwal, German Green make stock debuts
-Orient Cables, AceVector, Runwal Enterprises, and German Green Steel debut with mixed moves; pricing, openings, and early trading shape sentiment
-
-## UCIL to contribute significantly to India's nuclear energy expansion plan: Official
-UCIL, at its Jaduguda event, pledges leadership in India’s nuclear energy expansion, highlighting safety, innovation, and new facilities development
-
-## BPCL plans $3 billion bond sale to fund Brazil offshore oil project
-India’s second-biggest state-owned refiner plans several funding tranches as it expands overseas energy investments and seeks to diversify supply
-
-## Bharat Forge secures contract from Pratt & Whitney Canada for aerospace engine components
-The components will be manufactured at Bharat Forge's aerospace facility in India
-
-## Zee 5 launches short-video vertical to sample platform content
-The initiative focuses on how users discover and engage with shows, using short-form content as an entry point to deeper viewing
-
-## RBI Rate Hike Debate: Inflation and crude fuel calls for October move; but what about growth costs?
-To begin with, the inflation trajectory, at least until now, has largely tracked the RBI's own projected path. Unless crude prices durably reset the RBI's forward expected inflation trajectory, it is difficult to justify a hike now that the RBI itself did not deem necessary when it published its Aug
-
-## Tata Sons Chandrasekaran hails India’s economy, lists 3 key areas for Vikisit Bharat
-During the IFQM Symposium 2026, N Chandrasekaran showcased India's economic resilience, pointing to robust domestic demand as a foundation for growth. He underscored the importance of investing in human resources and energy security for sustainable advancement. Highlighting key economic metrics like
+## Man paid Rs 1.73 cr for Gurgaon flat, waited for a decade; commission orders refund + 12% interest
+In 2012, the man booked the 2,600 sq ft apartment in a project located in Sector 83, Gurgaon. The basic sale price was fixed at Rs 6,428.50 per sq ft, apart from other applicable charges. The basic sale price of the apartment was stipulated at Rs 1.67 crore. Relying on the assurances given by the de
 
 ## Bengaluru-Mumbai Vande Bharat sleeper set to cut 24-hour journey to under 16
 The country's second Vande Bharat sleeper service is expected to substantially reduce the time taken to travel by rail between Bengaluru, India's technology hub, and Mumbai, its financial capital. Although the official launch date has not yet been declared, the railway zones have been asked to comme
@@ -81,41 +81,50 @@ The country's second Vande Bharat sleeper service is expected to substantially r
 ## Man sells ancestral land for Rs 8 cr, claims LTCG exemption; gets notice with Rs 6.36 cr additions
 In the tax return that he filed, the man declared LTCG of Rs 7.73 crore after accounting for certain expenses. He claimed tax exemptions of Rs 2.64 crore under Section 54F, which relates to residential property, and Section 54B, applicable to agricultural property. However, the Assessing Officer (AO
 
-## IndiGo hikes fuel charges for all flights: Here's how much more you will end up paying
-IndiGo will implement new fuel charges for its flights starting from October 6, 2026. The increase in charges will vary based on the distance of travel for domestic flights. For international flights, the revised fuel charges will range between Rs 1,000 and Rs 10,000. This decision follows the consi
+## Airfares soar: Delhi-Hyderabad up 68%; IndiGo hikes surcharge by up to Rs 350
+Data from global aviation analytics firm OAG shows that airlines have scheduled 5% fewer domestic flights for the October-December quarter than during the same period last year. However, total seat capacity has fallen by only 1.2%. This indicates that airlines are operating fewer flights while deplo
 
-## India-US trade talks hit ‘plateau’
-India and the US have reached a challenging stage in their trade negotiations, according to Finance Minister Nirmala Sitharaman. She indicated that both nations must navigate a significant trade imbalance affecting their discussions. Trade talks continue, but reaching further concessions seems incre
+## 'Don't invest because everyone is,' says Sebi chief, flags investor frauds
 
-## Rupee hovers near 96 as oil stays above $100 per barrel, foreign selling persists
-The rupee started off on a weaker note against the US dollar due to soaring crude oil prices and foreign investors selling off. In response, the Reserve Bank of India is stepping in to curb volatile changes, as forex reserves dwindle. Market analysts anticipate a possible interest rate increase foll
 
-## Canada ‘looking forward’ to seal trade deal with India as fifth CEPA round begins
-India and Canada are gearing up for the fifth session of negotiations on the Comprehensive Economic Partnership Agreement, which will take place in Ottawa. The objective is to wrap up the trade deal by late 2026, with priority given to collaboration in sectors like energy, critical minerals, aerospa
+## Wall Street's $10 billion bet on Indian hospitals becomes a blame game among stakeholders
+Wall Street has significantly invested in Indian hospitals, focusing on expanding hospital infrastructure and care capacity. This influx of foreign capital has helped private healthcare providers grow, yet costs are escalating for patients. Medical inflation is alarming, with treatment at private fa
 
-## Actor Koel Mallick joins BJP, files Rajya Sabha nomination months after quitting
-The BJP on Monday nominated her as its Rajya Sabha candidate from West Bengal for the October 16 by-election
+## Jio plans to launch IPO on October 21: Listing, face value and key details
+Mukesh Ambani's Jio Platforms is preparing for a significant IPO to raise approximately $3.8 billion. The IPO is expected to open on October 21 and shares will debut on October 28. This IPO aims to reduce debt and will involve a fresh issue of equity shares. Jio Platforms seeks a valuation between $
 
-## ‘Ladli Behna has turned out to be very expensive’: MP CM Mohan Yadav to 12-year-old Bundeli creator
-The Mukhyamantri Ladli Behna scheme was announced on January 28, 2023, by the then Shivraj Singh Chouhan government.
+## Telangana tea seller sets himself ablaze outside police station, cops cite dispute with grocer over cigarettes
+The 55-year-old tea seller walked to the polcie station with a bottle of petrol and a matchbox and allegedly set himself ablaze.
 
-## SC refuses to restrain Gyanesh Kumar, says can't pass order based on news report
-The SC bench made it clear that any decision found to have been taken contrary to the statutory requirements governing the ECI could subsequently be injuncted.
+## ‘Females treated with dignity’: Delhi Police reject assault claims, issue journalist guidelines as accused cop gets promoted
+Amid allegations of sexual harassment by women reporters at Jantar Mantar, Delhi Police has issued guidelines for journalists covering protests.
 
-## Great Nicobar project: Supreme Court rejects govt’s plea, fast-tracks HC scrutiny
-The court underlined the constitutional significance of protecting the culture of the indigenous tribes inhabiting the island
+## India, Switzerland sign 5 pacts as PM Modi, President Guy Parmelin discuss trade, defence and nuclear energy
+India and Switzerland signed agreements covering migration and mobility, young professionals, transportation, research, and innovation and technology transfer.
 
-## 'Need to create fear in minds of anti-social elements': What Supreme Court told police over rising rape cases in Delhi-NCR; Top quotes
-The top court was hearing a suo motu case on recent rape cases in Delhi-NCR, amid a series of alleged sexual assaults reported in recent months.
+## ‘Proved misbehaviour’: Ex-bureaucrats, activists serve ‘impeachment notice’ against CEC Gyanesh Kumar; list 6 charges
+The delegation accused Gyanesh Kumar of taking decisions in the name of the ECI without adequate consideration by the full commission.
 
-## Multiple schools across Delhi receive bomb threats; nothing suspicious, say police
-The school administrations informed the police and fire control room and initiated safety and security protocols, said a senior police office
+## Prisons DIG Somashekar held over forged SC order used to free life convict in 2018
+DIG M Somashekar was arrested for allegedly using a forged Supreme Court order to release a life convict in 2018. Police investigate the case.
 
-## Supreme Court issues notice to Centre, poll panel over CEC Gyanesh Kumar's functioning; no interim order
-Supreme Court seeks respose from EC and Centre in a week on plea alleging CEC took decisions without approval of two Election Commissioners.
+## Mamata Banerjee sends notice to SSKM Hospital for allegedly leaking her medical reports
+This comes days after Adhikari said that Banerjee faked her leg injury while releasing a five-year-old medical report
 
-## Lost crucial evidence in Manchanda murder case due to Gurugram cops delay: Delhi Police tells SC
-The Gurugram police commissioner has separately responded to the court’s September 22 order, which will also be taken up on Monday.
+## Delhi police official, accused of sexually harassing journalist during anti-CEC protest at Jantar Mantar, promoted
+Three women journalists have accused senior Delhi Police officers of sexual harassment during Saturday's protest against EC at Jantar Mantar.
+
+## Tripura: TIPRA Motha wins over 2000 seats in TTAADC village council polls
+Though 4,597 seats were supposed to go for polls under 587 village committees, voting took place in 2,950 seats
+
+## ​​​​​​​Planning a Legacy for Lives that Keep Moving
+[The content of this article has been produced by our advertising partner.] Passing wealth to the next generation can require flexibility over when, how and in which currency it is received. Designed to accommodate evolving family circumstances, Chubb MyLegacy Multi-Currency Insurance Plan offers cu
+
+## Adrian Cheng, former scion of Hong Kong’s NWD, expands K11 brand in Xiamen
+Adrian Cheng Chi-kong, former heir apparent to Hong Kong’s New World Development (NWD), is expanding his K11 cultural retail business in mainland China, launching a venture of his own as his family’s property group grapples with heavy debt. Xiamen K11 Select, developed by Cheng’s K11 by AC Group alo
+
+## HKMA licenses Bakai Bank, city’s first from Central Asia
+Hong Kong Monetary Authority (HKMA) has granted a banking licence to Bakai Bank, marking the first Central Asian bank to set up in Hong Kong amid closer ties in the economy and trade flows between China and the region, according to a statement on Monday. Bakai Bank, one of the largest lenders in Kyr
 
 ## Hong Kong lawmakers say 5-year tax incentive too short to entice major innovative firms
 Hong Kong lawmakers have backed the government’s proposed tax incentives for large innovative companies, but many said on Monday that the planned five-year concession period is too short to attract major firms to establish headquarters or expand operations in the city. Chief Executive John Lee Ka-ch
@@ -132,14 +141,20 @@ US chip giant Qualcomm has agreed to pay to licence and acquire patents from Chi
 ## Wellcome operator DFI Retail seeks buyer for fully leased shopping centre on The Peak
 DFI Retail, the food and beverage unit of Hong Kong-headquartered conglomerate Jardine Matheson, is looking to sell its mall at The Peak, one of the city’s wealthiest neighbourhoods. The entire commercial portion of the Dairy Farm Guildford Road Shopping Centre will be sold via a public tender closi
 
-## Asset manager Schroders to expand in Hong Kong after merger with Nuveen, CEO says
-UK fund house Schroders will increase investment and headcount in Hong Kong after being acquired by US asset manager Nuveen, according to Schroders’ global CEO. “Hong Kong is a critical interface for mainland China through schemes like Wealth Management Connect,” Richard Oldfield said in an online i
+## France’s Catholic Revival Is Fueling Its Far Right
+French religiosity is surging—in tandem with political extremism.
 
-## The Live Conversation: Education Beyond the Checklist
-Over 1,700 parents, students and educators attended the International Schools Festival – Hong Kong Island 2026. Held at Hong Kong Ocean Park Marriott Hotel on September 19, it featured 46 schools and education advisers, and offered families guidance on admissions, curricula, university applications 
+## Russia’s Air War Aims to Bleed Ukraine Dry
+Vladimir Putin’s latest plan for victory puts a cease-fire well out of reach.
 
-## Temu took the world by storm – but has the shopping app lost its thunder?
-In February 2023, the budget shopping platform Temu announced itself on the world stage in the brashest way possible: becoming one of the youngest ever brands to buy a Super Bowl advertising spot. “Download the Temu app and shop like a billionaire,” a voice proclaimed in the 30-second commercial, as
+## How the U.S. Can Once Again Lead on Human Rights
+In the post-Trump era, Washington will need to regain credibility. Pluralism is where it should start.
+
+## Europe’s Chance to Revive Middle East Peace
+History suggests that when Washington loses interest, the Europeans step in.
+
+## Israel’s Government Is in Thrall to ‘the Concept’
+A Hebrew term for complacent blindness still captures Netanyahu’s policies.
 
 ## How to Fix Our Global Malaise
 Focusing on local communities can have a surprising international effect.
@@ -150,44 +165,29 @@ In 1983, two movies sought to educate and alarm the public about the risks of ne
 ## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 The White House had threatened to ban U.S. diesel exports if Europe did not step up.
 
-## Where Does Russia’s Violent Imperialism Come From?
-A new book provides some helpful—if not always spot-on—answers.
+## Pyongyang’s Ukraine Gamble: What Kim Jong Un Bought With North Korean Blood
+For a military that has not fought a large-scale war since 1953, experience on the Ukrainian front is tremendously valuable to North Korea.
 
-## The Illicit World of Sea Cucumbers
-How a rare delicacy in Asia drives crime oceans away.
+## A Woman Exposed China’s Cat-Abuse Networks – and Paid a Terrible Price
+When the law lags behind, citizens end up doing investigative work themselves, and pay for it when the people they expose strike back.
 
-## What in the World?
-Test yourself on the week of Sept. 26: Trump pressures Zelensky, Venezuelans protest, and Morocco picks a new prime minister.
+## Can Japan Counter China’s Dominance in AI?
+Since 2025, Tokyo has acted boldly and decisively to ward off foreign AI-related threats by developing AI for Japan, in Japan.
 
-## The Trauma Plot to Destroy America
-A new book examines how narratives about psychological harm have come to dominate public life.
+## Tajikistan Taps Iran as Russian Fuel Runs Dry
+Dushanbe's emergency hedge against Russia's fuel crisis puts Tajikistan in the path of U.S. secondary sanctions.
 
-## What’s at Stake in Brazil’s Election
-Results would have broad implications on foreign policy.
+## Bhutan’s ‘Mindfulness City’ Hides a Dark Reality
+As Bhutan sells its new Gelephu Mindfulness City mega-project to the world, exiled communities see a high-tech gloss over an unresolved past.
 
-## Can Australia Create Lasting Climate Impacts For the Asia-Pacific?
-Australia is set to preside over the negotiations at the upcoming COP31 climate conference in Türkiye, but its support for regional partners will need to be sustained.
+## Data Centers in the Asia-Pacific
+Navigating a new era of resource regulation
 
-## It’s Time For Thailand to Amend Its Controversial Lese-Majeste Law
-Over the past decade, hundreds of political activists and ordinary people have been subjected to criminal prosecution under Article 112.
+## US Allied Shipbuilding Gains Momentum, But Ambitions May Collide
+Japan, South Korea, and the U.S. appear to have given little thought to which country should build what, or who controls the key technologies that every shipyard depends on.
 
-## Japan’s Potential as a ‘Third Option’ for ASEAN
-ASEAN is looking for a third partner. Japan fits the bill — if it plays its cards right
-
-## Digital Asset Regulations in the Asia-Pacific
-The risks of fragmentation
-
-## Supporting Asia’s Energy Transition
-The role of alternative financing
-
-## Taiwan’s New F-16s: Why They Still Matter
-The Republic of China Air Force waited 20 years for these aircraft. What are they for?
-
-## India’s Foreign Minister Jaishankar Openly Calls Out the US
-Previously, India sorted out its differences with friendly nations quietly. Last week, it aired its grievance with Washington publicly.
-
-## Concerns About ‘WWII Allies’ at US-China Summit
-How China is weaponizing WWII history
+## Pakistan’s GSP+ Advantage Is Fading. Competitiveness Must Come Next
+Preferential access has taken Pakistan about as far as it can without deeper reforms at home.
 
 ## The AI-Assisted Strategic Own Goal in the Kill Chain
 For eighty years, the Western alliance has anchored its strength in moral legitimacy, shared values, and the resulting credibility to shape international norms. NATO’s durability through the Cold War rested on more than nuclear deterrence alone: a shared conviction that the alliance represented a ru
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Formula One to probe software bug behind Bahrain GP chaos in Sepang
-Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track.
+## Mecca alliance agrees to activate collective deterrence measures
+This is a breaking news story.
 
-## ‘If I didn’t write what moved me, it’d be like putting myself in prison’
-Award-winning author Arundhati Roy discusses why she's not afraid to address politically charged topics.
+## What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?
+Israel is developing a reservoir on land in the occupied West Bank, with water syphoned off from Palestinians.
 
-## Spain’s PM Pedro Sanchez calls snap election amid housing crisis
-Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.
+## Rubio: No direct link between US bombers removal and UK base incident
+Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK
 
-## Pakistan installs fishing nets at security outposts to block drone attacks
-Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.
+## Spain calls snap election amid housing crisis
+Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29
 
-## France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format
-Only one point separates Group A1 leaders France and second-placed Belgium before Monday's clash.
+## Jerusalem Daily: Netanyahu gives voters dramatic ultimatum
+Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.
 
-## Spain’s Pedro Sanchez announces snap election amid housing crisis
-Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.
+## DR Congo boat collision kills at least 30, dozens missing
+Two vessels crashed while navigating the Congo River in Equateur province at night.
 
-## World Space Week: Which countries have sent people to space?
-At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.
+## Rohingya activist says it’s unfair to send refugees back to Myanmar
+Rohingya activist says it’s unfair to send refugees back to Myanmar
 
-## Djokovic defeats top seed Zverev to reach China Open semifinals
-Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
+## Medvedev disqualified from China Open for hitting fan with a ball
+Russia's Daniil Medvedev disqualified from China Open for hitting spectator with ball during match with Novak Djokovic.
 
 ## Employers may soon be able to claim ITC on GST paid for employee insurance cover
 Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
@@ -285,6 +285,15 @@ Cash flows, promoter support, covenant breaches and future funding plans among k
 ## Corporate Laws Bill: JPC seeks 25% ceiling on buybacks as Centre reworks rules
 Panel backs two buybacks a year for specified companies but wants equity share limit retained in law, narrowing scope for a higher percentage to be prescribed.
 
+## RBI MPC begins 3-day meeting today amid expectations of first rate hike since 2023
+The Reserve Bank of India's Monetary Policy Committee is meeting to discuss potential interest rate hikes. Inflationary pressures and external factors are leading to anticipation of a rate increase. Analysts expect a 25 basis points hike in the upcoming policy announcement. This decision aligns with
+
+## Sebi to partly reverse derivative settlement rules after pushback: Report
+Sebi is likely to change its closing auction mechanism after sharp derivatives price swings on expiry days. The regulator may stop using the closing auction for derivatives settlement for at least a year, shifting to a 30-minute volume-weighted average price, while retaining the auction for less-liq
+
+## RBI MPC begins 3-day meeting today amid expectations of first rate hike since 2023
+The Reserve Bank of India's Monetary Policy Committee is meeting to discuss potential interest rate hikes. Inflationary pressures and external factors are leading to anticipation of a rate increase. Analysts expect a 25 basis points hike in the upcoming policy announcement. This decision aligns with
+
 ## SEBI Chairman cautions investors, traders on 'finfluencers' as capital market industry deepens
 As India's capital market industry has become deeper, broader and more accessible over the past decade, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Monday warned investors and traders to avoid anonymous tips by finfluencers and unrealistic return claims.
 
@@ -299,13 +308,4 @@ The National Stock Exchange of India (NSE) has received a No Objection Certifica
 
 ## RBI’s success on dollar flows raises stakes in inflation fight & clamour for rate hike
 India’s record $133 billion diaspora inflow has flooded banks with liquidity, pushing overnight rates below the RBI’s 5.25% policy rate. The Reserve Bank has already drained more than ₹1 trillion as food and oil prices fuel inflation concerns. Markets now expect further liquidity measures and are in
-
-## India extends RoDTEP scheme till December 31, keeps export refund rates unchanged
-The government extended the Remission of Duties and Taxes on Exported Products scheme until December 31, 2026. This extension ensures that exporters receive continued refunds for eligible duties and taxes incurred during production. The existing rates and caps for the scheme remain unchanged during 
-
-## PMS has potential to grow over 20 pc CAGR as investment participation deepens: SEBI Chairman
-As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey said on Wednesday.
-
-## PMS regulation must evolve with industry, SEBI to cut compliance friction: Tuhin Kanta Pandey
-Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday said regulation for portfolio managers must evolve with the industry's growth, with the market regulator seeking to reduce unnecessary compliance friction while enabling innovation without compromising investor pr
 
