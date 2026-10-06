@@ -1,46 +1,43 @@
 # AION Intelligence
 
-## Jim Clyburn urges Democrats to woo Black voters with affordability pitch
-Congress member says Trump is ushering in ‘Jim Crow 2.0’ and says Republicans will ‘reap the reaction’ for redistricting
+## Trump says he will speak with Putin about pneumonic plague
+Washington increases pressure on Moscow to share more about the incident in which one person has died
 
-## German far right secures first regional parliament president
-Tobias Rausch wins secret support from four mystery backers from established parties
+## SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo
+Blockbuster debt deal is the latest sign of the vast spending on chips and other infrastructure underpinning AI
+
+## FirstFT: Crypto company known for risky ‘perps’ vexes Singapore
+Also in today’s newsletter: Indian protesters demand electoral chief resigns and former German spy chief arrested for treason
+
+## Jim Clyburn urges Black voters not to be ‘fooled’ by Trump
+Civil rights veteran says Republicans will ‘reap the reaction’ for redistricting moves ahead of midterm elections
+
+## Trump says he is considering suspending federal petrol tax
+Surging fuel prices are heaping pressure on the president and his Republican Party four weeks ahead of midterm elections
+
+## ‘Most dangerous product in crypto’ vexes Singapore
+City-state averse to risk and scandal tries to distance itself from homegrown Hyperliquid Labs and its popular ‘perps’
 
 ## S&P 500 hits record high as AI stocks shrug off bond market slump
-Wall Street’s benchmark index touches fresh peak but rally increasingly reliant on handful of tech stocks
-
-## Pedro Sánchez’s big electoral gamble
-Opinion polls suggest it may be the last for the Spanish prime minister
+Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks
 
 ## Anduril plans shipyard to manufacture parts for US Navy’s top submarines
 Palmer Luckey’s defence tech start-up to invest $3.7bn as Trump attempts to reduce dependence on leading ‘prime’ contractors
 
-## Tory plan to rip up UK-EU food deal risks ‘huge uncertainty’
-Food and drink industry fears it may be forced to comply with different regulatory regimes every few years
+## Ships’ captains paid $100,000 a month to transit Strait of Hormuz
+Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks
 
-## Badenoch pledges to halve employers’ NI contributions for younger workers
-Tories say policy for 21 to 24-year-olds would cost £2.3bn once extra tax receipts and lower welfare spending were taken into account
+## There is only one trade
+Has every market become a bet on the AI boom?
 
-## Silicon Valley’s acqui-hire ruse may have passed its prime
-Nvidia’s raid on a rival’s top talent has raised hackles among employees not invited to the party
+## Goldman Sachs and Man Group exposed in EY data breach
+Disclosures widen the circle of victims of a hacking incident earlier this year
 
 ## ExxonMobil looks to offshore projects in Trinidad and Tobago for next boom
 US oil major aims to replicate its success in Guyana with further Caribbean drilling
 
 ## Asos investigating after app notification warned customers of ‘hack’
 Shares in FTSE 250 retailer fall 11% after mobile users receive message threatening to leak unspecified material
-
-## Palmer Luckey’s Erebor surges to more than $7bn in deposits since launch
-Start-up bank for technology industry seeks to fill the void left by the collapse of Silicon Valley Bank
-
-## Would you buy a Yankees ETF?
-Everything is gambling these days
-
-## McKesson and CD&R strike $5.8bn deal to buy infusion services provider
-Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples
-
-## Vitol chief warns of tanker shortage and risk of $200-a-barrel oil
-Head of world’s largest independent oil trader says shipping squeeze is creating new bottleneck despite increased Gulf flows
 
 ## 4.9-magnitude earthquake hits Uttarakhand’s Chamoli, tremors felt in Delhi
 The National Center for Seismology said the quake struck at 10:23 pm, with its epicentre located 13 km deep
@@ -69,6 +66,9 @@ In its latest India Development Update, the World Bank notes that medium-term pr
 ## ‘System already straining’: Global oil buffers shrink amid mounting supply risks, say industry leaders
 
 
+## Man deposits Rs 85.3 lakh given to him as cash gifts, gets notice; ITAT gives relief
+In one such case in Chennai, a man received cash gifts of Rs 85.03 lakh from his relatives. The Income Tax Department began making enquiries into the source of the Rs 85.03 lakh deposited by the man. The department also sent tax notices to the relatives who had given him the cash. The man eventually
+
 ## He bought an SUV for Rs 13.69 lakh; gets Rs 10.99 lakh refund plus interest over repeated DPF issues
 The Kurnool District Consumer Disputes Redressal Commission has directed the car manufacturer and its dealer to refund the ex-showroom price of a diesel car to its owner after the vehicle was found to have developed recurring diesel particulate filter (DPF) problems. The Kurnool District Consumer Di
 
@@ -86,9 +86,6 @@ Prime Minister Narendra Modi led the Union Cabinet in approving innovative strat
 
 ## Sikkim to get first train link by 2027; Railways fast-tracks Rs 9,000 crore Gangtok line
 The 44.5-km Sivok-Rangpo railway line is being constructed at an estimated cost of Rs 17,124 crore and will provide Sikkim with its first direct railway connection. The Rangpo-Gangtok line would serve as an extension of the railway network once the ongoing Sivok-Rangpo project, connecting Sivok in D
-
-## Cabinet may clear Rs 10,000 crore SME growth fund, integrated logistics authority
-The Union Cabinet is expected to review proposals regarding an Integrated Transport and Logistics Authority and a SME Growth Fund. The SME Growth Fund aims to support micro, small, and medium enterprises, enhancing their equity base. Additional funding for the Self-Reliant India Fund will also be co
 
 ## Dentist recalls 45 minutes of trying to save Smit Machchhar's life: 'Please don’t sleep, we need you'
 Dentist Shota Musaev recounted the 45 minutes of him trying to save Smit Machchhar, whom he said was bleeding profusely from the head and his left hand.
@@ -114,6 +111,9 @@ The committee appealed to Muslim youth and students to avoid attending Garba eve
 ## Congress shares video of Rahul's ‘dhappa’ as he enters Akashwani Bhawan to reach ECI office amid INDIA bloc march
 The video showed visuals of the Congress leader entering the Akashwani Bhawan complex, which is barely 100 metres away from the poll body office.
 
+## Hong Kong’s first-store appeal grows as more Japanese, South Korean and Thai brands arrive
+Japanese, South Korean and Thai brands have increased their share of new entrants in Hong Kong’s retail property market by 7 percentage points to more than one-third in the first nine months of 2026, while the demand for shops from mainland Chinese brands has slipped, according to Cushman & Wakefiel
+
 ## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
 Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
 
@@ -135,8 +135,14 @@ Even as geopolitical frictions and market swings unsettle venture investors, Hon
 ## How a Hong Kong property investor still made US$30 million – after a 40% price cut
 Amid concerns over rising interest rates and a weak retail property market, a long-time investor has sold a portfolio of prime street shops in Tsim Sha Tsui – held for more than four decades – and locked in a profit of nearly HK$237 million (US$30.2 million) despite accepting a deal more than 40 per
 
-## ​​​​​​​Planning a Legacy for Lives that Keep Moving
-[The content of this article has been produced by our advertising partner.] Passing wealth to the next generation can require flexibility over when, how and in which currency it is received. Designed to accommodate evolving family circumstances, Chubb MyLegacy Multi-Currency Insurance Plan offers cu
+## How to Avoid Disaster in the Next Iran War
+Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.
+
+## Pakistan, Saudi Arabia, Turkey Trigger Mutual Defense Pact
+Even the threat of joint involvement could dramatically shift the Saudi-Houthi conflict.
+
+## Why Chinese Parents Don’t Want Two Kids
+Beijing is pushing for bigger families, but the realities of childbirth and early parenting make it a hard sell.
 
 ## What’s Freezing the U.S. Housing Market?
 A hot, AI-driven economy certainly plays a role.
@@ -153,19 +159,22 @@ Jakarta’s attempts to align with Washington face a growing backlash at home.
 ## AI Made the List—but Humans Still Did the Killing
 In the film “NAZA,” Israeli soldiers reveal the workings of autonomous warfare.
 
-## Sánchez Calls Snap Elections Over Spain’s Housing Crisis
-The vote’s timing makes it a litmus test for progressive politics across Europe.
+## Farewell to Russia: The View From Kazakhstan
+Karaganda and its environs are home to some of the largest-scale coal-mining on the planet. And once, the home to an immense gulag.
 
-## France’s Catholic Revival Is Fueling Its Far Right
-French religiosity is surging—in tandem with political extremism.
+## South Korea’s $60 Billion Semiconductor Exports to Drive the KOSPI’s Resurgence
+South Korea’s economy has become intrinsically linked to the ongoing artificial intelligence boom.
 
-## Russia’s Air War Aims to Bleed Ukraine Dry
-Vladimir Putin’s latest plan for victory puts a cease-fire well out of reach.
+## China’s Revised Defense Mobilization Law Touches Nearly Every Sector
+The circumstances under which mobilization can be declared are wider than ever, and a large number of entities – including private firms – are legally obligated to the state during wartime.
+
+## Will US President Donald Trump Visit Central Asia?
+No U.S. president has ever traveled to Central Asia while in office. Could Donald Trump be the first? Sure. But will he be? That’s a different question.
 
 ## What Would Europe Do in a Taiwan Crisis?
 Washington should not take European assistance for granted, especially if states can't agree on how to label Beijing's actions.
 
-## Taiwan’s Maritime Law Enforcement Operation Has Sparked Anger in Chinese Society
+## Taiwan’s Maritime Law Enforcement Operations Spark Anger in Chinese Society
 The reaction to a Taiwan Coast Guard confrontation reflects the existence of a particularly hardline strand of opinion on Taiwan among mainland Chinese.
 
 ## Iranian Ships Test Sri Lanka’s Sovereignty Again
@@ -174,17 +183,8 @@ The U.S. has threatened Sri Lanka with sanctions if it provides supplies to Iran
 ## Urban Rail in Southeast Asia Is Booming
 Due to rapid economic growth and Chinese knowhow, public transit in the region's cities is entering something of a golden age.
 
-## Laos Replaces Prime Minister in Major Leadership Reshuffle
-Saleumxay Kommasith, a former foreign minister and permanent representative to the UN, has been appointed to the top job.
-
-## China’s AI Governance Push and the Race to Shape Global AI Rules
-In contrast to Washington's fragmented approach, Beijing is showing an impressive ability to enact and coordinate regulations, policies, technical standards, and enforcement.
-
-## At Least 8 Dead in Myanmar Air Strikes, Rakhine Rebel Group Claims
-In a desperate bid to claw back territory from the Arakan Army, the Myanmar military has ramped up its use of air power.
-
-## How Christian Networks in Asia Are Shaping Support for Israel
-As Israel faces growing pressure in the West, Eagles’ Wings mission brings Christian leaders from across the globe to show support for the Jewish people and Israel
+## Kindling, Catalyst, and Containment: Will the West Bank Ignite?
+As violence by Israeli settlers against Palestinians in the West Bank has escalated, often with the acquiescence or support of Israel’s military, and the Israeli government has increasingly constricted Palestinian daily life, the potential for a new intifada — or uprising — has intensified. The firs
 
 ## Iran Faces Severe Challenges to Rebuild Missile and Drone Production
 With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran’s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack drones i
@@ -206,9 +206,6 @@ A cyber operator can spend a shift tracking an adversary halfway around the worl
 
 ## Jaw-Jaw With Belarus, Revisited Amid Ukraine War
 In 2021, Michael Kimmage wrote, “Belarus and the Ukraine Trap,” where he argued the United States should adopt a realistic diplomatic relationship with Belarus that takes into account its strategic partnership with Russia and learns from overpromises made to Ukraine. Five years later, we asked Micha
-
-## MacGyver at Scale: Winning Future Air Wars of Rapid Technological Adaptation
-During a recent training exercise in the western Pacific, a small group of engineers single-handedly saved the day.In the scenario, adversary covert forces used first-person view drones to intercept American helicopters that were shuttling between austere forward island airbases. Some helicopters we
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,32 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Catalan separatist Puigdemont to return to Spain after warrant lifted
-Spain's Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.
+## ‘We are desperate’: Venezuela’s power cuts fuel growing public anger
+Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.
 
-## Amid protests, Kosovo’s political deadlock raises prospect of new elections
-Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.
+## Christa Pike lawyers say she is speaking one week after failed execution
+The 50-year-old has regained consciousness and is receiving care nearly one week after being sent to the hospital.
 
-## Indian opposition leaders detained during voter lists protest
-Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers
+## Fans flood Buenos Aires ahead of Messi’s final international match
+Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.
 
-## Tuareg rebels withdraw from strategic town of Kidal in northern Mali
-The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.
+## Houthis, Saudi-led forces claim victories as Yemen fighting rages on
+Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.
 
-## Jerusalem Daily: Tension high in Israel ahead of October 7
-Jerusalem Daily: Tension high in Israel ahead of October 7
+## Harry Kane equals England record, scores twice in 3-0 win over Czechia
+England's Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
 
-## Yemen’s Taiz residents fear food and fuel crisis amid fighting
-Yemen’s Taiz residents fear food and fuel crisis amid fighting
+## CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
+The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
 
-## Kenya confirms first Ebola case as man dies in Nairobi after DRC return
-More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300.
+## US arrests suspect in connection with Tumbler Ridge school shooting
+The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
 
-## Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
-Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz's third of the year.
+## Merino scores twice as Spain beat Croatia 2-1 in Nations League
+Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.
+
+## ICAI advances Ind AS 118 work, eyes Schedule III revamp
+Ind AS 118 implementation gathers pace as ICAI works with MCA on Schedule III alignment, while advancing work on new accounting standards and emerging financial reporting issues.
 
 ## 57th GST Council meeting rescheduled for October 8 from October 7; to be held at Bharat Mandapam in New Delhi
 The 57th meeting of the Goods and Services Tax Council has been rescheduled to October 8, starting at 11 am. The meeting's location is the Summit Room, Bharat Mandapam, in New Delhi. An Office Memorandum cited unavoidable circumstances for the date change without providing further details. Members o
+
+## Audit rotation boom puts Big Four under sharper scrutiny
+India’s audit rotation cycle is prompting companies to scrutinise prospective auditors far beyond credentials, examining team stability, sector expertise, regulatory records, technology capabilities and conflicts involving non-audit services. With over 1,000 mandates expiring in FY27, audit committe
 
 ## Tata Trusts rift deepens: Noel Tata-led trustees say 'Trusts do not run Tata Sons' as they defend restructuring plan to avoid listing
 Trustees of Tata Trusts have rebuffed objections from two senior trustees concerning a proposed restructuring of Tata Sons. They emphasized that the Reserve Bank of India has not required a listing for Tata Sons. Additionally, they asserted that the restructuring does not jeopardize the charitable s
@@ -270,11 +273,11 @@ In a significant move, the central government is set to implement a consolidated
 ## Employers may soon be able to claim ITC on GST paid for employee insurance cover
 Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
 
+## GST Council may clear sweeping compliance reforms; e-commerce sellers, genuine biz to get relief
+The GST Council is planning to review important reforms aimed at simplifying tax compliance for businesses. One proposal includes allowing small e-commerce sellers to use platform warehouses for GST registration. Another initiative seeks to protect input tax credits for genuine buyers even if suppli
+
 ## Why US Treasury bond yields matter, what it means for Indian investors, and the impact on rupee
 Cutting through money jargon, one topic at a time. This week, Sanket Dhanorkar explains why yields on US Treasury bonds matter, and what it means for Indian investors. Rising US bond yields mean investors are demanding a higher return to buy and hold that debt. This reflects concerns over the weak f
-
-## GST 2.0 set to amplify ease, unlock tax credit
-India is set to implement significant reforms to the goods and services tax system, which will ease compliance. Changes may include the release of accumulated input tax credit that benefits various industries and supports growth. The GST Council plans to reconsider tax treatment for certain supplier
 
 ## Sebi says Jane Street’s appeal for more details a delaying ploy
 Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms a
