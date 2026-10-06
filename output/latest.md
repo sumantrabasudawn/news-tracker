@@ -1,49 +1,46 @@
 # AION Intelligence
 
-## Former prince Andrew seeks judicial review of police searches
-Younger brother of King Charles will this week ask UK court to rule warrants were unlawful
+## Trump says US pulled bombers from UK after ‘threats’
+Washington and London have suggested Iran was involved in a recent incident near RAF Fairford base
 
-## Tories pledge big tax cuts in push to win over wealthy voters
-Kemi Badenoch heralds ‘morally right’ plan to cut inheritance tax while shadow chancellor vows to cut mansion tax
-
-## Big Oil goes to US Supreme Court over pivotal climate damages claim
-ExxonMobil and Suncor Energy look to the high court to block state action
-
-## Brazil’s Bolsonaro comeback exposes Lula’s weakness
-Incumbent’s fading appeal has opened the door to a family revival in Brazil
-
-## Trump poised to ease red diesel limits in attempt to quell fuel inflation
-US president expected to announce move during trip to agricultural state of Nebraska
-
-## French central bank head warns country at risk of being ‘strangled by interest rates’
-Emmanuel Moulin says France can still reassure bond investors despite ‘serious and worrying’ market moves in recent days
-
-## Germany and France agree on last-resort tool against trade threats
-Berlin agrees on ‘second-strike weapon’ to deter threats over key supplies such as Chinese rare earths and magnets
+## US affordability tracker: the data that could decide the 2026 midterm elections
+The FT is tracking changes to the cost of living that will affect American voters
 
 ## ‘Very sensible’: Business warms to Badenoch’s pitch
 Executives left unconvinced by Andy Burnham’s plans are signalling that they are prepared to give the Tories a second chance
 
-## TotalEnergies boss hails ‘opportunities’ created by global market turmoil
-Patrick Pouyanné says he prefers ‘disruption to the peaceful world’ despite French major being among those most affected by Middle East conflict
+## Tories pledge ‘Britannia Shield’ to protect UK from drone attacks
+A planned network of radar, command and control systems and interceptor missiles would strengthen defences against aerial threats
 
-## Schneider’s bet on a new world clashes with finance’s old rules
-It is harder to be good at many things than one — and branching out into software leaves the stock exposed to AI threats
+## Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic
+Syndication of the massive financing package tests lending appetite amid growing concerns over mounting AI debt
 
-## Citi to speed up promotion path for junior bankers as hiring war heats up
-Length of investment banking analyst programme to be cut to two years to try to stave off poaching of young workers by private equity
-
-## Nvidia’s $20bn licensing deal with Groq faces lawsuit from jilted engineers
-Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction
-
-## The dangerous myth behind AI agent hacks
-These are not simply cyber security flaws but problems with the way that models are trained
+## McKesson and CD&R near $5bn-plus deal to buy infusion services provider
+Acquisition of Option Care Health would be the latest buyout of an undervalued healthcare services company
 
 ## Brazil’s markets surge as investors bet on Bolsonaro win
 Rightwinger seen as more likely than current president Lula to enact quick spending cuts
 
-## Ellison sticks with Thompson as CNN boss amid Trump attacks
-Decision comes a day before blockbuster deal to combine Paramount and Warner Bros is expected to close
+## Reflection AI boosts US ambition to compete with Chinese ‘open’ models
+Start-up claims new model Beam is on par with leading Chinese competitor as battle with Beijing intensifies
+
+## FCA to examine how it treated whistleblower who died by suicide
+Simon Andriesz revealed alleged wrongdoing at Cantor Fitzgerald-controlled brokerage
+
+## When a label costs you $4bn in market cap
+Liquidia feels the pressure
+
+## Big Oil goes to US Supreme Court over pivotal climate damages claim
+ExxonMobil and Suncor Energy look to the high court to block state action
+
+## FBI Director Kash Patel engaged to country singer Alexis Wilkins
+The couple have been dating since before Patel took over as FBI director, with Wilkins attending his swearing-in ceremony in 2025
+
+## British novelist and former politician Jeffrey Archer dies aged 86
+Archer became a prominent Conservative politician before a 2001 conviction for perjury and perverting the course of justice
+
+## Maharashtra Charity Commissioner gives Tata Trusts seven days to respond to trustees’ complaints
+Tata Trusts has been asked to respond to complaints filed by trustees Venu Srinivasan and Vijay Singh by October 12
 
 ## Indian pharma company’s Ukraine plant hit by Russian drone, one worker killed
 ‘We just want to work,’ says Kusum Group co-founder; firm employs more than 200 people at the Sumy plant, all of them local Ukrainians
@@ -60,14 +57,20 @@ While a businessline analysis reveals a striking geographical overlap between hi
 ## Amazon Prime bets on Tier 2/3 cities, prime-only discounts to drive festive shopping
 Prime membership base set to double from 2023 by the year-end, says Akshay Sahi, VP – Prime & Customer Fulfilment Experience, India and Emerging Countries, Amazon
 
-## Letters to the Editor dated October 5, 2026
+## Sebi keeping close watch on improper tips: Tuhin Kanta Pandey
+To protect investors, Sebi is actively removing 6,000 to 7,000 unauthorized stock tips from social media each month. The regulatory body aims to educate investors about financial risks and prevention of fraud. Project Jagrook was launched to improve investor education and promote informed investment
+
+## Team Noel hits back at Vijay Singh, Venu Srinivasan
+Four trustees of Sir Dorabji Tata Trust responded to accusations from vice-chairmen Venu Srinivasan and Vijay Singh. The trustees claimed the vice-chairmen breached fiduciary duties by not discussing concerns directly with them. They emphasized that Noel Tata's merger proposal aimed to maintain Tata
+
+## Indian workers spend Rs 785 monthly on commute; urban travel cost to office 70% higher: Govt survey
+According to the National Household Travel Survey, Indian workers spend an average of Rs 785 monthly on commuting. Urban workers face higher commuting costs, averaging Rs 1,044 compared to Rs 612 in rural areas. The survey indicates a gender gap, with male workers spending more than female workers o
+
+## GST Council meeting postponed again, now set for October 8
 
 
-## Clastek Engineering files DRHP for IPO on NSE Emerge
-IPO to be a fresh issue of up to 55 lakh equity shares
-
-## KP Group targets 10 GW each in owned power, EPC and 10 GWh battery manufacturing by FY32
-The group is also pursuing international opportunities in Botswana, Zambia, Tanzania, and Saudi Arabia. In Botswana, an initial 500 MW phase is planned within a proposed 5 GW development
+## Woman declares Rs 67.4 lakh ancestral jewellery in ITR; tax dept sends notice, she wins in ITAT
+The assessment threw up two separate issues. The first concerned jewellery worth Rs 67,39,949 that the woman had disclosed in Schedule AL of her income tax return. The tribunal also examined whether the Rs 12 lakh paid to the HUF represented a genuine brokerage expense when the same person, the HUF'
 
 ## PPF at 7.1%, SCSS at 8.2%, NSC at 7.7%: Check Oct-Dec post office scheme rates
 Latest small savings schemes interest rates: The Ministry of Finance decides the interest rates for all small savings schemes every quarter. For the October to December 2026 quarter, the interest rates on all small savings schemes have been kept unchanged. The decision extends the period of unchange
@@ -78,20 +81,8 @@ In 2012, the man booked the 2,600 sq ft apartment in a project located in Sector
 ## Bengaluru-Mumbai Vande Bharat sleeper set to cut 24-hour journey to under 16
 The country's second Vande Bharat sleeper service is expected to substantially reduce the time taken to travel by rail between Bengaluru, India's technology hub, and Mumbai, its financial capital. Although the official launch date has not yet been declared, the railway zones have been asked to comme
 
-## Man sells ancestral land for Rs 8 cr, claims LTCG exemption; gets notice with Rs 6.36 cr additions
-In the tax return that he filed, the man declared LTCG of Rs 7.73 crore after accounting for certain expenses. He claimed tax exemptions of Rs 2.64 crore under Section 54F, which relates to residential property, and Section 54B, applicable to agricultural property. However, the Assessing Officer (AO
-
-## Airfares soar: Delhi-Hyderabad up 68%; IndiGo hikes surcharge by up to Rs 350
-Data from global aviation analytics firm OAG shows that airlines have scheduled 5% fewer domestic flights for the October-December quarter than during the same period last year. However, total seat capacity has fallen by only 1.2%. This indicates that airlines are operating fewer flights while deplo
-
-## 'Don't invest because everyone is,' says Sebi chief, flags investor frauds
-
-
-## Wall Street's $10 billion bet on Indian hospitals becomes a blame game among stakeholders
-Wall Street has significantly invested in Indian hospitals, focusing on expanding hospital infrastructure and care capacity. This influx of foreign capital has helped private healthcare providers grow, yet costs are escalating for patients. Medical inflation is alarming, with treatment at private fa
-
-## Jio plans to launch IPO on October 21: Listing, face value and key details
-Mukesh Ambani's Jio Platforms is preparing for a significant IPO to raise approximately $3.8 billion. The IPO is expected to open on October 21 and shares will debut on October 28. This IPO aims to reduce debt and will involve a fresh issue of equity shares. Jio Platforms seeks a valuation between $
+## Mayawati takes nephew Akash back in BSP, re-appoints him national convenor
+Mayawati takes nephew Akash back in BSP, re-appoints him national convenor
 
 ## Telangana tea seller sets himself ablaze outside police station, cops cite dispute with grocer over cigarettes
 The 55-year-old tea seller walked to the polcie station with a bottle of petrol and a matchbox and allegedly set himself ablaze.
@@ -114,8 +105,8 @@ This comes days after Adhikari said that Banerjee faked her leg injury while rel
 ## Delhi police official, accused of sexually harassing journalist during anti-CEC protest at Jantar Mantar, promoted
 Three women journalists have accused senior Delhi Police officers of sexual harassment during Saturday's protest against EC at Jantar Mantar.
 
-## Tripura: TIPRA Motha wins over 2000 seats in TTAADC village council polls
-Though 4,597 seats were supposed to go for polls under 587 village committees, voting took place in 2,950 seats
+## How a Hong Kong property investor still made US$30 million – after a 40% price cut
+Amid concerns over rising interest rates and a weak retail property market, a long-time investor has sold a portfolio of prime street shops in Tsim Sha Tsui – held for more than four decades – and locked in a profit of nearly HK$237 million (US$30.2 million) despite accepting a deal more than 40 per
 
 ## ​​​​​​​Planning a Legacy for Lives that Keep Moving
 [The content of this article has been produced by our advertising partner.] Passing wealth to the next generation can require flexibility over when, how and in which currency it is received. Designed to accommodate evolving family circumstances, Chubb MyLegacy Multi-Currency Insurance Plan offers cu
@@ -138,8 +129,11 @@ Private equity firms are moving to plug a commercial real estate funding gap as 
 ## Huawei, Qualcomm strike multi-year patent agreement across 5G, AI
 US chip giant Qualcomm has agreed to pay to licence and acquire patents from China’s Huawei Technologies for the first time as part of a “multi-year, broad patent licence agreement” covering 5G, computing and artificial intelligence. The deal involved cross-licensing between both firms’ patent portf
 
-## Wellcome operator DFI Retail seeks buyer for fully leased shopping centre on The Peak
-DFI Retail, the food and beverage unit of Hong Kong-headquartered conglomerate Jardine Matheson, is looking to sell its mall at The Peak, one of the city’s wealthiest neighbourhoods. The entire commercial portion of the Dairy Farm Guildford Road Shopping Centre will be sold via a public tender closi
+## AI Made the List—but Humans Still Did the Killing
+In the film “NAZA,” Israeli soldiers reveal the workings of autonomous warfare.
+
+## Sánchez Calls Snap Elections Over Spain’s Housing Crisis
+The vote’s timing makes it a litmus test for progressive politics across Europe.
 
 ## France’s Catholic Revival Is Fueling Its Far Right
 French religiosity is surging—in tandem with political extremism.
@@ -159,11 +153,23 @@ A Hebrew term for complacent blindness still captures Netanyahu’s policies.
 ## How to Fix Our Global Malaise
 Focusing on local communities can have a surprising international effect.
 
-## The Year Hollywood Changed the National Security Debate
-In 1983, two movies sought to educate and alarm the public about the risks of new technologies.
+## US Marine’s Arrest for Murder Tests Okinawa’s New Governor
+An alleged killing days after Koja Genta took office threatens Tokyo’s hopes for closer cooperation with Okinawa on its expanding southwestern defense posture.
 
-## G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
-The White House had threatened to ban U.S. diesel exports if Europe did not step up.
+## Mine Blast Tests South Korean Engagement Policy as Pyongyang Rejects Any Contact
+North Korea has denied planting the mines and refused talks on the boundary line.
+
+## The New Nixon Shock? Why Japan Fears a Trump-Xi Deal
+Some history helps explain why the symbolism of the China-U.S. summit matters so much to Tokyo.
+
+## The Surprising Drama in Taipei’s 2026 Mayor Race
+Few gave the DPP's Puma Shen much of a chance in traditionally pan-Blue Taipei. But the race is proving more competitive than expected.
+
+## China’s LinkedIn Espionage Is Only Getting More Advanced
+The U.S. has benefited from hard-earned lessons in the fight against transnational online scams. It’s time to apply them to address China’s sophisticated and relentless cyber spying.
+
+## Can Japan Optimize Its Record Defense Budget?
+All nine priority areas require substantial spending, and the investment needs to be sustained over many years to come.
 
 ## Pyongyang’s Ukraine Gamble: What Kim Jong Un Bought With North Korean Blood
 For a military that has not fought a large-scale war since 1953, experience on the Ukrainian front is tremendously valuable to North Korea.
@@ -171,23 +177,8 @@ For a military that has not fought a large-scale war since 1953, experience on t
 ## A Woman Exposed China’s Cat-Abuse Networks – and Paid a Terrible Price
 When the law lags behind, citizens end up doing investigative work themselves, and pay for it when the people they expose strike back.
 
-## Can Japan Counter China’s Dominance in AI?
-Since 2025, Tokyo has acted boldly and decisively to ward off foreign AI-related threats by developing AI for Japan, in Japan.
-
-## Tajikistan Taps Iran as Russian Fuel Runs Dry
-Dushanbe's emergency hedge against Russia's fuel crisis puts Tajikistan in the path of U.S. secondary sanctions.
-
-## Bhutan’s ‘Mindfulness City’ Hides a Dark Reality
-As Bhutan sells its new Gelephu Mindfulness City mega-project to the world, exiled communities see a high-tech gloss over an unresolved past.
-
-## Data Centers in the Asia-Pacific
-Navigating a new era of resource regulation
-
-## US Allied Shipbuilding Gains Momentum, But Ambitions May Collide
-Japan, South Korea, and the U.S. appear to have given little thought to which country should build what, or who controls the key technologies that every shipyard depends on.
-
-## Pakistan’s GSP+ Advantage Is Fading. Competitiveness Must Come Next
-Preferential access has taken Pakistan about as far as it can without deeper reforms at home.
+## Certainty is a Luxury Ukrainians Must Create
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The AI-Assisted Strategic Own Goal in the Kill Chain
 For eighty years, the Western alliance has anchored its strength in moral legitimacy, shared values, and the resulting credibility to shape international norms. NATO’s durability through the Cold War rested on more than nuclear deterrence alone: a shared conviction that the alliance represented a ru
@@ -209,9 +200,6 @@ During a recent training exercise in the western Pacific, a small group of engin
 
 ## School of War or School of Battle? Educating for an Uncertain Future
 In 1901, military analyst Jan Bloch declared that new military technologies had changed war so radically that the study of history had become useless. He castigated military officers who prepared for future war based on “musty precedents” and who failed to recognize that the past was as irrelevant t
-
-## Triumph or Procrastination? Experts Split on the Trump-Xi Summit
-Over the better part of three days, President Donald Trump hosted Chinese President Xi Jinping in Washington for a summit that drew international attention for its high-stakes agenda, from trade and AI to Taiwan. While some experts saw the summit as an exercise in kicking the can down the road on ma
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mecca alliance agrees to activate collective deterrence measures
-This is a breaking news story.
+## Moroccan journalists recount years of surveillance amid new Amnesty claim
+Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.
 
-## What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?
-Israel is developing a reservoir on land in the occupied West Bank, with water syphoned off from Palestinians.
+## Police clash with Kosovo protesters over bid to curb Hague war crimes court
+The political dispute over the court has become a factor in negotiations to hold a new presidential election.
 
-## Rubio: No direct link between US bombers removal and UK base incident
-Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK
+## Trump officials pursue record number of cases to strip US citizenship
+Top officials have sought to expand the use of rarely invoked laws that can strip naturalised Americans of citizenship.
 
-## Spain calls snap election amid housing crisis
-Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29
+## New York state declares measles disaster amid resurgence of disease in US
+US had largely eliminated disease by 2000 but has seen several outbreaks amid declining vaccination rates.
 
-## Jerusalem Daily: Netanyahu gives voters dramatic ultimatum
-Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.
+## Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis
+Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi security as part of the Mecca defence pact.
 
-## DR Congo boat collision kills at least 30, dozens missing
-Two vessels crashed while navigating the Congo River in Equateur province at night.
+## What’s happening in Ethiopia?
+Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.
 
-## Rohingya activist says it’s unfair to send refugees back to Myanmar
-Rohingya activist says it’s unfair to send refugees back to Myanmar
+## Whistleblower warns that humans don’t control AI
+Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.
 
-## Medvedev disqualified from China Open for hitting fan with a ball
-Russia's Daniil Medvedev disqualified from China Open for hitting spectator with ball during match with Novak Djokovic.
+## Trump’s approval hits new low among Hispanic voters ahead of midterms
+Hispanic voters are twice as likely to favour Democratic Party over Trump's Republican Party in the November elections.
 
 ## Employers may soon be able to claim ITC on GST paid for employee insurance cover
 Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
