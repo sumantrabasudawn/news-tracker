@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## S&P 500 hits record high as AI stocks shrug off bond market slump
-Wall Street’s blue-chip index touches fresh peak but rally increasingly reliant on handful of tech stocks
-
-## The bond market turns on France
-The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone
-
-## McKesson and CD&R strike $5.8bn deal to buy infusion services provider
-Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples
+## Jim Clyburn urges Democrats to woo Black voters with affordability pitch
+Congress member says Trump is ushering in ‘Jim Crow 2.0’ and says Republicans will ‘reap the reaction’ for redistricting
 
 ## German far right secures first regional parliament president
 Tobias Rausch wins secret support from four mystery backers from established parties
 
+## S&P 500 hits record high as AI stocks shrug off bond market slump
+Wall Street’s benchmark index touches fresh peak but rally increasingly reliant on handful of tech stocks
+
+## Pedro Sánchez’s big electoral gamble
+Opinion polls suggest it may be the last for the Spanish prime minister
+
+## Anduril plans shipyard to manufacture parts for US Navy’s top submarines
+Palmer Luckey’s defence tech start-up to invest $3.7bn as Trump attempts to reduce dependence on leading ‘prime’ contractors
+
+## Tory plan to rip up UK-EU food deal risks ‘huge uncertainty’
+Food and drink industry fears it may be forced to comply with different regulatory regimes every few years
+
+## Badenoch pledges to halve employers’ NI contributions for younger workers
+Tories say policy for 21 to 24-year-olds would cost £2.3bn once extra tax receipts and lower welfare spending were taken into account
+
+## Silicon Valley’s acqui-hire ruse may have passed its prime
+Nvidia’s raid on a rival’s top talent has raised hackles among employees not invited to the party
+
+## ExxonMobil looks to offshore projects in Trinidad and Tobago for next boom
+US oil major aims to replicate its success in Guyana with further Caribbean drilling
+
+## Asos investigating after app notification warned customers of ‘hack’
+Shares in FTSE 250 retailer fall 11% after mobile users receive message threatening to leak unspecified material
+
+## Palmer Luckey’s Erebor surges to more than $7bn in deposits since launch
+Start-up bank for technology industry seeks to fill the void left by the collapse of Silicon Valley Bank
+
+## Would you buy a Yankees ETF?
+Everything is gambling these days
+
+## McKesson and CD&R strike $5.8bn deal to buy infusion services provider
+Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples
+
 ## Vitol chief warns of tanker shortage and risk of $200-a-barrel oil
 Head of world’s largest independent oil trader says shipping squeeze is creating new bottleneck despite increased Gulf flows
 
-## Trump fumes over ‘destructive’ Supreme Court judges
-Also in today’s newsletter, Pentagon bombers pulled from UK air base after Iranian drone attack threat
+## 4.9-magnitude earthquake hits Uttarakhand’s Chamoli, tremors felt in Delhi
+The National Center for Seismology said the quake struck at 10:23 pm, with its epicentre located 13 km deep
 
-## Paramount closes $111bn takeover of Warner Bros
-Heavy cuts expected as boss David Ellison seeks to deliver $6bn of cost savings at combined group to be known as Skydance
+## Nandini milk price set to rise by ₹8 as rising feed costs squeeze dairy unions
+Dairy unions have sought higher prices as cattle feed, fodder, veterinary medicines, processing, transportation and packaging costs continue to rise
 
-## We should call time on the ‘end times’
-Narratives of looming apocalypse are a sign that something has gone seriously wrong with our politics
+## How mutual funds play across market caps
+Domestic mutual funds spread their investments across companies of different sizes, with each market-cap segment offering a distinct risk-return profile. Large-cap stocks typically provide greater stability and tend to be less volatile, making them a core component of many portfolios. Mid-caps offer
 
-## Informa to buy rival events business Clarion from Blackstone for £2.2bn
-FTSE 100-listed company is also separating its academic business to focus on live operations
+## GST Council to deliberate on five focus areas to further ease of doing business
+Apart from a few minor adjustments, tax rate changes are not on the agenda.
 
-## Forvis Mazars named top UK financial advice firm
-FT Adviser’s Top 100 rankings are now in their 30th year
+## ElevenLabs, Karnataka join hands to advance voice AI adoption
+The Bengaluru summit also outlined language expansion, voice restoration and tools for seniors and mental-health training
 
-## Healey warns banks that UK faces ‘challenging’ fiscal picture but stays tight-lipped on tax
-Chancellor refuses to give executives from banks including Barclays, HSBC and NatWest any guidance on whether they will face Budget tax increases
+## India in top 10 leading emerging-market performers on AI readiness, says World Bank
+The World Bank on Tuesday said that India is well positioned to harness AI with the help of its large technical workforce
 
-## Big Oil’s day in court
-The US Supreme Court heard arguments in a pivotal case that seeks to hold top polluters liable for the costs of climate change
+## ElevenLabs sees India voice AI demand surge, plans 10X FDE team expansion
+The company now works with more than 250 businesses and enterprises across India
 
-## Asos customers report notification warning of ‘hack’
-Shares in FTSE 250 retailer fall more than 10% following reports from mobile users
+## World Bank ups India’s growth to 7.1% in FY27
+In its latest India Development Update, the World Bank notes that medium-term prospects are strong but also cautions that “external risks are elevated”
 
-## Public banks lag in rate cut transmission this easing cycle
-Fresh rupee loan rates fell 81 bps against a 125 bps repo cut, with public sector banks trailing private and foreign banks
+## ‘System already straining’: Global oil buffers shrink amid mounting supply risks, say industry leaders
 
-## Reliance wins court reprieve against 'energy drink' label ban for Campa brand products
-The court questioned the lack of notice before the FSSAI order, with the case listed next on November 5
 
-## One in eight vehicles sold in India is now electric
-Electric two-wheelers contribute more than 60 per cent of EV volumes and electric car registrations have nearly doubled from a year earlier
-
-## MDR cannot be passed on to consumers; retail customers to pay only posted price: Punjab & Sind Bank MD
-‘Merchants onboarded cannot pass on MDR charges to customers while accepting payments through UPI. The framework ensures consumers pay only the posted price’
-
-## Beyond the GI tag, Tamil Nadu looks to build premium farm brands
-Tamil Nadu has already secured GI registration for nine agricultural commodities and has filed applications for another 32 products
-
-## HEG Advanced Materials surges 8% on fresh orders, demerger plans
-Under the demerger scheme, the graphite electrodes business is being carved out into HEG Graphite, which will list as a standalone graphite electrodes company by October-end
-
-## Lower demand, high cost to exert pressure on cement companies’ Q2 profit
-Monsoon led to weak demand, which in turn, prevented companies from passing on higher costs to consumers
-
-## Did SIR deletions change Tamil Nadu assembly election’s outcome?
-While a businessline analysis reveals a striking geographical overlap between high voter removals and TVK victories, experts urge caution against reading it as a conspiracy
+## He bought an SUV for Rs 13.69 lakh; gets Rs 10.99 lakh refund plus interest over repeated DPF issues
+The Kurnool District Consumer Disputes Redressal Commission has directed the car manufacturer and its dealer to refund the ex-showroom price of a diesel car to its owner after the vehicle was found to have developed recurring diesel particulate filter (DPF) problems. The Kurnool District Consumer Di
 
 ## ATF price shock: Govt weighs revival of stabilisation fund as airlines feel fuel heat - report
 
@@ -81,35 +90,29 @@ The 44.5-km Sivok-Rangpo railway line is being constructed at an estimated cost 
 ## Cabinet may clear Rs 10,000 crore SME growth fund, integrated logistics authority
 The Union Cabinet is expected to review proposals regarding an Integrated Transport and Logistics Authority and a SME Growth Fund. The SME Growth Fund aims to support micro, small, and medium enterprises, enhancing their equity base. Additional funding for the Self-Reliant India Fund will also be co
 
-## Gold price prediction: Where are gold prices headed on October 6, 2026?
-Gold price prediction today: Easing October Fed rate hike probability, soft US nonfarm payroll report (September) and robust ETF inflows support the shiny metal; however, elevated yields and firm oil prices amid healthy risk appetite cap the gains. The Fed leaders signalling a brief pause in rate hi
+## Dentist recalls 45 minutes of trying to save Smit Machchhar's life: 'Please don’t sleep, we need you'
+Dentist Shota Musaev recounted the 45 minutes of him trying to save Smit Machchhar, whom he said was bleeding profusely from the head and his left hand.
 
-## Rupee falls to 96.39 against dollar as oil rises, FII outflows continue
-The rupee faced downward pressure against the US dollar, dropping to 96.39 early in the trading session. This decline stems from rising crude oil prices and ongoing selling by foreign investors. Despite this, domestic equities saw gains, softening the rupee's fall. On Monday, Foreign Institutional I
+## Delhi traffic update: Curbs on October 7 as BJP marks PM Modi’s 25 years in public life; check affected routes, timings
+No traffic will be permitted on Secretariat Road and Velodrome Road from 6 am onwards, as per operational requirements, police said.
 
-## ‘Afraid of Vijay?’ DMK takes jibe at Rahul, asks him to clarify stand on SIR in Tamil Nadu
-DMK spokesperson Saravanan Annadurai questioned why Rahul had not “endorsed” Congress president Mallikarjun Kharge's stand on “dissolution” of state assemblies.
+## CBI files FIR against Punjab CM Bhagwant Mann’s OSD, 5 others; What are the charges?
+The CBI said it registered the FIR to investigate allegations of corruption against Mann’s OSD and his associates
 
-## Controversy after fire tender sent to Gujarat BJP MLA’s house to wash it
-A viral video shows a fire tender cleaning former Gujarat minister Bachubhai Khabad's house, sparking controversy over misuse during a municipal water shortage.
+## Magnitude 4.9 earthquake hits Uttarakhand's Chamoli; tremors felt in Delhi-NCR
+The earthquake occurred at 22:23:23 pm IST at a depth of 13 kilometres, the NCS said in a post on X.
 
-## Opposition wants to discredit constitutional bodies, says Fadnavis
-Fadnavis said the Opposition was spreading falsehoods to create a perception that constitutional bodies had failed to deliver justice.
+## ‘240 MPs at Parliament Annexe unusual and unacceptable': Why ECI rejected meeting with Opposition MPs
+The poll body's statement comes after over 300 Opposition MPs of the INDIA bloc began a march from Parliament Complex to the Election Commission office.
 
-## Navy staff among 2 arrested in Andhra Pradesh for sharing sensitive defence information with Pakistan: ‘Shared OTP, communicated with them’
-The suspects are Annam Sai Varaprasad, a civilian driver for Naval officers, and Pradeep Mukherjee, an Indian Navy employee at Visakhapatnam naval base.
+## 'No party sought meeting till 4 pm': EC on INDIA bloc sit-in against CEC Gyanesh Kumar
+The ECI said it was informed by the Delhi Police at around 4 pm that a delegation of MPs, led by Congress leader Rahul Gandhi, wanted to meet the Commission.
 
-## Who is Air Marshal Ashutosh Dixit? Op Sindoor and Safed Sagar veteran appointed new IAF chief
-Air Marshal Ashutosh Dixit has logged more than 3,500 hours of flying on aircraft including the Mirage-2000, Jaguar, MiG variants and Tejas.
+## 'Don't attend Garba for reels and views': Madhya Pradesh Islamic body tells Muslim youth
+The committee appealed to Muslim youth and students to avoid attending Garba events just for reels, likes and views.
 
-## India, Bangladesh seek to break the ice with trade and visa talks
-India and Bangladesh are also working on dates for a meeting of the joint working group on consular matters, which Dhaka will host
-
-## YouTuber Anurag Dobhal, 3 others held for assaulting brother-in-law in Dehradun: Police
-YouTuber Anurag Dobhal and three others were arrested after assaulting his wife’s cousin in Dehradun. Police said a case was also registered based on the victim’s complaint.
-
-## CBI raids Punjab CM Bhagwant Mann's camp office, his OSD's home in Chandigarh
-The action comes a day after the Punjab and Haryana HC directed CBI to register a case and probe allegations of corruption linked to Bhagwant Mann's office.
+## Congress shares video of Rahul's ‘dhappa’ as he enters Akashwani Bhawan to reach ECI office amid INDIA bloc march
+The video showed visuals of the Congress leader entering the Akashwani Bhawan complex, which is barely 100 metres away from the poll body office.
 
 ## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
 Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
@@ -135,6 +138,15 @@ Amid concerns over rising interest rates and a weak retail property market, a lo
 ## ​​​​​​​Planning a Legacy for Lives that Keep Moving
 [The content of this article has been produced by our advertising partner.] Passing wealth to the next generation can require flexibility over when, how and in which currency it is received. Designed to accommodate evolving family circumstances, Chubb MyLegacy Multi-Currency Insurance Plan offers cu
 
+## What’s Freezing the U.S. Housing Market?
+A hot, AI-driven economy certainly plays a role.
+
+## China Doesn’t Need to Invade Taiwan to Control It
+A bloodless political victory may be far harder for Washington to handle.
+
+## Trump’s Red-Dye Diesel Plan Has a Major Flaw
+Cutting fuel taxes for truckers might bring a little relief, but it won’t add any new supplies.
+
 ## How Much More Trump Trouble Can Indonesia’s Prabowo Take?
 Jakarta’s attempts to align with Washington face a growing backlash at home.
 
@@ -150,14 +162,14 @@ French religiosity is surging—in tandem with political extremism.
 ## Russia’s Air War Aims to Bleed Ukraine Dry
 Vladimir Putin’s latest plan for victory puts a cease-fire well out of reach.
 
-## How the U.S. Can Once Again Lead on Human Rights
-In the post-Trump era, Washington will need to regain credibility. Pluralism is where it should start.
+## What Would Europe Do in a Taiwan Crisis?
+Washington should not take European assistance for granted, especially if states can't agree on how to label Beijing's actions.
 
-## Europe’s Chance to Revive Middle East Peace
-History suggests that when Washington loses interest, the Europeans step in.
+## Taiwan’s Maritime Law Enforcement Operation Has Sparked Anger in Chinese Society
+The reaction to a Taiwan Coast Guard confrontation reflects the existence of a particularly hardline strand of opinion on Taiwan among mainland Chinese.
 
-## Israel’s Government Is in Thrall to ‘the Concept’
-A Hebrew term for complacent blindness still captures Netanyahu’s policies.
+## Iranian Ships Test Sri Lanka’s Sovereignty Again
+The U.S. has threatened Sri Lanka with sanctions if it provides supplies to Iranian vessels stranded off its coasts.
 
 ## Urban Rail in Southeast Asia Is Booming
 Due to rapid economic growth and Chinese knowhow, public transit in the region's cities is entering something of a golden age.
@@ -173,15 +185,6 @@ In a desperate bid to claw back territory from the Arakan Army, the Myanmar mili
 
 ## How Christian Networks in Asia Are Shaping Support for Israel
 As Israel faces growing pressure in the West, Eagles’ Wings mission brings Christian leaders from across the globe to show support for the Jewish people and Israel
-
-## The Scam Industry Is Becoming a Big Problem in India
-According to the FBI, American nationals lost around $50 million to one network of online scammers based in India.
-
-## US Marine’s Arrest for Murder Tests Okinawa’s New Governor
-An alleged killing days after Koja Genta took office threatens Tokyo’s hopes for closer cooperation with Okinawa on its expanding southwestern defense posture.
-
-## Mine Blast Tests South Korean Engagement Policy as Pyongyang Rejects Any Contact
-North Korea has denied planting the mines and refused talks on the boundary line.
 
 ## Iran Faces Severe Challenges to Rebuild Missile and Drone Production
 With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran’s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack drones i
@@ -231,38 +234,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK police arrest British national linked to airbase incident
-22-year old British national arrested on suspicion of a terror offence after other suspects released on bail.
+## Catalan separatist Puigdemont to return to Spain after warrant lifted
+Spain's Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.
 
-## Demonstrators clash with riot police in France as education protests mount
-School blockades and clashes intensify in France as frustration rises over government education policy.
+## Amid protests, Kosovo’s political deadlock raises prospect of new elections
+Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.
 
-## Former German spy chief arrested on suspicion of treason and espionage
-August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.
+## Indian opposition leaders detained during voter lists protest
+Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers
 
-## Ukraine launches major drone attack on Russia’s Moscow region, killing two
-Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.
+## Tuareg rebels withdraw from strategic town of Kidal in northern Mali
+The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.
 
-## Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’
-Belgian physicist worked to build Antarctic observatory that tracks neutrinos from deep space.
+## Jerusalem Daily: Tension high in Israel ahead of October 7
+Jerusalem Daily: Tension high in Israel ahead of October 7
 
-## Mapping where US bombers are based globally
-The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here's where else they can fly from.
+## Yemen’s Taiz residents fear food and fuel crisis amid fighting
+Yemen’s Taiz residents fear food and fuel crisis amid fighting
 
-## Pakistan, Turkiye and Saudi deterrence against Houthis: What that means
-Islamabad says its role is defensive, but Riyadh's offensive in Yemen tests how long it can stay out of the fight.
+## Kenya confirms first Ebola case as man dies in Nairobi after DRC return
+More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300.
 
-## Qatar and India among seven countries bidding for 2036 Olympics, IOC says
-South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.
-
-## ICAI advances Ind AS 118 work, eyes Schedule III revamp
-Ind AS 118 implementation gathers pace as ICAI works with MCA on Schedule III alignment, while advancing work on new accounting standards and emerging financial reporting issues.
+## Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
+Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz's third of the year.
 
 ## 57th GST Council meeting rescheduled for October 8 from October 7; to be held at Bharat Mandapam in New Delhi
 The 57th meeting of the Goods and Services Tax Council has been rescheduled to October 8, starting at 11 am. The meeting's location is the Summit Room, Bharat Mandapam, in New Delhi. An Office Memorandum cited unavoidable circumstances for the date change without providing further details. Members o
-
-## Audit rotation boom puts Big Four under sharper scrutiny
-India’s audit rotation cycle is prompting companies to scrutinise prospective auditors far beyond credentials, examining team stability, sector expertise, regulatory records, technology capabilities and conflicts involving non-audit services. With over 1,000 mandates expiring in FY27, audit committe
 
 ## Tata Trusts rift deepens: Noel Tata-led trustees say 'Trusts do not run Tata Sons' as they defend restructuring plan to avoid listing
 Trustees of Tata Trusts have rebuffed objections from two senior trustees concerning a proposed restructuring of Tata Sons. They emphasized that the Reserve Bank of India has not required a listing for Tata Sons. Additionally, they asserted that the restructuring does not jeopardize the charitable s
@@ -273,11 +270,11 @@ In a significant move, the central government is set to implement a consolidated
 ## Employers may soon be able to claim ITC on GST paid for employee insurance cover
 Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
 
-## GST Council may clear sweeping compliance reforms; e-commerce sellers, genuine biz to get relief
-The GST Council is planning to review important reforms aimed at simplifying tax compliance for businesses. One proposal includes allowing small e-commerce sellers to use platform warehouses for GST registration. Another initiative seeks to protect input tax credits for genuine buyers even if suppli
-
 ## Why US Treasury bond yields matter, what it means for Indian investors, and the impact on rupee
 Cutting through money jargon, one topic at a time. This week, Sanket Dhanorkar explains why yields on US Treasury bonds matter, and what it means for Indian investors. Rising US bond yields mean investors are demanding a higher return to buy and hold that debt. This reflects concerns over the weak f
+
+## GST 2.0 set to amplify ease, unlock tax credit
+India is set to implement significant reforms to the goods and services tax system, which will ease compliance. Changes may include the release of accumulated input tax credit that benefits various industries and supports growth. The GST Council plans to reconsider tax treatment for certain supplier
 
 ## Sebi says Jane Street’s appeal for more details a delaying ploy
 Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms a
