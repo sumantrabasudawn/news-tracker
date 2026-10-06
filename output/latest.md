@@ -1,64 +1,85 @@
 # AION Intelligence
 
-## AI models used in bank cyber attacks, warns South Korea’s president
-Lee Jae Myung highlights public anxiety over what one official calls a ‘completely new kind of crisis’
+## S&P 500 hits record high as AI stocks shrug off bond market slump
+Wall Street’s blue-chip index touches fresh peak but rally increasingly reliant on handful of tech stocks
 
-## How AI could scupper the dollar
-Things are fine until they’re not
+## The bond market turns on France
+The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone
 
-## China fuels tensions with partners over scaled-back summit plans
-Apec forum in Shenzhen plans to move ministers’ meeting online and skip leaders’ retreat
+## McKesson and CD&R strike $5.8bn deal to buy infusion services provider
+Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples
 
-## Germany’s pivot on China trade is a long time coming for other EU capitals
-Also in this newsletter: Moldova’s PM urges Brussels to keep enlargement window ‘open’
+## German far right secures first regional parliament president
+Tobias Rausch wins secret support from four mystery backers from established parties
 
-## The not very secret life of A7’s front companies
-The Tolkien shops and ring cycles at the centre of Russia’s money laundering network
+## Vitol chief warns of tanker shortage and risk of $200-a-barrel oil
+Head of world’s largest independent oil trader says shipping squeeze is creating new bottleneck despite increased Gulf flows
 
-## FirstFT: French central bank chief warns on rising rates
-Also in today’s newsletter: ‘rogue’ AI liability and London gold futures
+## Trump fumes over ‘destructive’ Supreme Court judges
+Also in today’s newsletter, Pentagon bombers pulled from UK air base after Iranian drone attack threat
 
-## BT’s swoop on TalkTalk has regulators over a barrel
-UK watchdog typically takes a robust view of reduced competition in telecoms market but is taking a back seat this time
+## Paramount closes $111bn takeover of Warner Bros
+Heavy cuts expected as boss David Ellison seeks to deliver $6bn of cost savings at combined group to be known as Skydance
 
-## Labour mayor of West Midlands urges chancellor to relax electric car targets
-Richard Parker says mandate for 80% of all new vehicles sold by end of decade to be all-electric will damage carmakers and suppliers
+## We should call time on the ‘end times’
+Narratives of looming apocalypse are a sign that something has gone seriously wrong with our politics
 
 ## Informa to buy rival events business Clarion from Blackstone for £2.2bn
 FTSE 100-listed company is also separating its academic business to focus on live operations
 
-## France’s BPCE buys ‘friendly’ stake in Spain’s Sabadell
-7% acquisition bolsters Spanish bank a year after hostile approach from domestic rival BBVA collapsed
+## Forvis Mazars named top UK financial advice firm
+FT Adviser’s Top 100 rankings are now in their 30th year
 
-## The creditor bloodbath in UK telecoms
-BT struck a deal to buy TalkTalk but the majority of the struggling broadband provider’s creditors are likely to be left with nothing
+## Healey warns banks that UK faces ‘challenging’ fiscal picture but stays tight-lipped on tax
+Chancellor refuses to give executives from banks including Barclays, HSBC and NatWest any guidance on whether they will face Budget tax increases
 
-## Why accountancy firm listings don’t add up
-Private equity’s role in consolidating the sector is raising the stakes, making partnerships less sustainable
+## Big Oil’s day in court
+The US Supreme Court heard arguments in a pivotal case that seeks to hold top polluters liable for the costs of climate change
 
-## SRIT India, Shah Investors Home shares make positive debut, stocks hit upper circuit
-SRIT India shares listed at ₹148 on the NSE, marking a 13.85% premium over the IPO price of ₹130
+## Asos customers report notification warning of ‘hack’
+Shares in FTSE 250 retailer fall more than 10% following reports from mobile users
 
-## Honasa surges 8% after flagging strong Q2 revenue, margin improvement
-At around 12.16 PM, the stock was trading at ₹478.20 on the NSE, up ₹36.10 or 8.17% from its previous close of ₹442.10
+## Public banks lag in rate cut transmission this easing cycle
+Fresh rupee loan rates fell 81 bps against a 125 bps repo cut, with public sector banks trailing private and foreign banks
 
-## HDFC Bank Shares Flat: Why Bernstein sees upside with ₹1,150 target
-At 10.40 am, HDFC Bank shares were trading at ₹708.90, compared with the previous close of ₹704.80
+## Reliance wins court reprieve against 'energy drink' label ban for Campa brand products
+The court questioned the lack of notice before the FSSAI order, with the case listed next on November 5
 
-## India's services sector growth touches 3-month high in Sep on strong domestic demand: PMI
-The seasonally adjusted HSBC India Services PMI Business Activity Index rose to 55.2 in September, from 54.1 in August, signalling the strongest upturn since June
+## One in eight vehicles sold in India is now electric
+Electric two-wheelers contribute more than 60 per cent of EV volumes and electric car registrations have nearly doubled from a year earlier
 
-## Sensex today | Stock Market Live: Sensex up 450 points, Nifty above 22,600 as RBI rate decision looms
-Sensex, Nifty, Stock Price Live: Indian equities extended their rebound on Tuesday, supported by positive global cues and quarterly business updates, while investors remained focused on the RBI’s upcoming policy decision amid expectations of a 25-basis-point rate hike and continued strength in domes
+## MDR cannot be passed on to consumers; retail customers to pay only posted price: Punjab & Sind Bank MD
+‘Merchants onboarded cannot pass on MDR charges to customers while accepting payments through UPI. The framework ensures consumers pay only the posted price’
 
-## TN by-polls: Madurantakam, Dharapuram register 35.55%, 37.28% polling at 11 am
-An election official said the polling stations in both constituencies have been witnessing a steady footfall of voters across various age profiles since morning
+## Beyond the GI tag, Tamil Nadu looks to build premium farm brands
+Tamil Nadu has already secured GI registration for nine agricultural commodities and has filed applications for another 32 products
 
-## Hope to have Made-in-India civilian aircraft in 2 years: Naidu
-Highlighting the growth potential of the country's civil aviation sector, the minister says airlines have more than 1,600 aircraft on order that are estimated to be worth about $100 billion
+## HEG Advanced Materials surges 8% on fresh orders, demerger plans
+Under the demerger scheme, the graphite electrodes business is being carved out into HEG Graphite, which will list as a standalone graphite electrodes company by October-end
 
-## World Bank ups India’s growth to 7.1% in FY27
-In its latest India Development Update, World Bank notes that medium term prospects are strong but also cautions that “external risks are elevated”
+## Lower demand, high cost to exert pressure on cement companies’ Q2 profit
+Monsoon led to weak demand, which in turn, prevented companies from passing on higher costs to consumers
+
+## Did SIR deletions change Tamil Nadu assembly election’s outcome?
+While a businessline analysis reveals a striking geographical overlap between high voter removals and TVK victories, experts urge caution against reading it as a conspiracy
+
+## ATF price shock: Govt weighs revival of stabilisation fund as airlines feel fuel heat - report
+
+
+## US-Iran war, Trump tariff threat: Why India can't take its high growth for granted
+While India’s domestic growth story stays resilient, the external sector risks continue, and with mounting impact and ripple effects. As the Department of Economic Affairs notes, global conditions have turned unfavourable again. Oil prices have spiked in September. Global bond yields have moved shar
+
+## MMTC, STC may lose gold tax edge as 3% GST weighed
+The proposal is aimed at ensuring that different channels used to import bullion face similar tax treatment and at reducing classification and valuation disputes that have resulted in lengthy litigation. The issue is likely to be discussed at the GST Council meeting on October 8. Currently, banks an
+
+## From SME fund to hailing PM’s 25 years as govt head: Cabinet decisions & resolutions
+Prime Minister Narendra Modi led the Union Cabinet in approving innovative strategies to bolster small businesses and enhance transport infrastructure. The introduction of a Rs 10,000 crore SME Growth Fund aims to empower small and medium enterprises in their growth and tech advancements. Moreover, 
+
+## Sikkim to get first train link by 2027; Railways fast-tracks Rs 9,000 crore Gangtok line
+The 44.5-km Sivok-Rangpo railway line is being constructed at an estimated cost of Rs 17,124 crore and will provide Sikkim with its first direct railway connection. The Rangpo-Gangtok line would serve as an extension of the railway network once the ongoing Sivok-Rangpo project, connecting Sivok in D
+
+## Cabinet may clear Rs 10,000 crore SME growth fund, integrated logistics authority
+The Union Cabinet is expected to review proposals regarding an Integrated Transport and Logistics Authority and a SME Growth Fund. The SME Growth Fund aims to support micro, small, and medium enterprises, enhancing their equity base. Additional funding for the Self-Reliant India Fund will also be co
 
 ## Gold price prediction: Where are gold prices headed on October 6, 2026?
 Gold price prediction today: Easing October Fed rate hike probability, soft US nonfarm payroll report (September) and robust ETF inflows support the shiny metal; however, elevated yields and firm oil prices amid healthy risk appetite cap the gains. The Fed leaders signalling a brief pause in rate hi
@@ -66,47 +87,41 @@ Gold price prediction today: Easing October Fed rate hike probability, soft US n
 ## Rupee falls to 96.39 against dollar as oil rises, FII outflows continue
 The rupee faced downward pressure against the US dollar, dropping to 96.39 early in the trading session. This decline stems from rising crude oil prices and ongoing selling by foreign investors. Despite this, domestic equities saw gains, softening the rupee's fall. On Monday, Foreign Institutional I
 
-## South Korea ships over 150,000T fuel to Russia while backing Ukraine financially
-In a nuanced twist, South Korea has been sending considerable quantities of diesel fuel to Russia even as it lends support to Ukraine amidst the ongoing invasion. Recent months have seen multiple shipments, indicating a complex dynamic between the two nations. Notably, this fuel trade continues desp
+## ‘Afraid of Vijay?’ DMK takes jibe at Rahul, asks him to clarify stand on SIR in Tamil Nadu
+DMK spokesperson Saravanan Annadurai questioned why Rahul had not “endorsed” Congress president Mallikarjun Kharge's stand on “dissolution” of state assemblies.
 
-## Man gets 6 flats under builder deal, transfers 5 to wife; gets tax notice for Rs 4.14 crore additions
-The assessing officer made two major additions in this case. The first, Rs 1,93,78,293, was treated as long-term capital gains on the ground that the man had converted a capital asset into stock-in-trade. The second, of Rs 2,20,98,985, was treated as business income arising from the alleged sale of 
+## Controversy after fire tender sent to Gujarat BJP MLA’s house to wash it
+A viral video shows a fire tender cleaning former Gujarat minister Bachubhai Khabad's house, sparking controversy over misuse during a municipal water shortage.
 
-## Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom
-Google is close to finalizing a deal to procure nuclear power from Constellation Energy to support its data centres. This agreement, anticipated to exceed $1 billion, aims to provide reliable electricity amid rising demands from artificial intelligence. In recent months, Google has secured deals wit
+## Opposition wants to discredit constitutional bodies, says Fadnavis
+Fadnavis said the Opposition was spreading falsehoods to create a perception that constitutional bodies had failed to deliver justice.
 
-## Woman declares Rs 67.4 lakh ancestral jewellery in ITR; tax dept sends notice, she wins in ITAT
-The assessment threw up two separate issues. The first concerned jewellery worth Rs 67,39,949 that the woman had disclosed in Schedule AL of her income tax return. The tribunal also examined whether the Rs 12 lakh paid to the HUF represented a genuine brokerage expense when the same person, the HUF'
+## Navy staff among 2 arrested in Andhra Pradesh for sharing sensitive defence information with Pakistan: ‘Shared OTP, communicated with them’
+The suspects are Annam Sai Varaprasad, a civilian driver for Naval officers, and Pradeep Mukherjee, an Indian Navy employee at Visakhapatnam naval base.
 
-## Which are the top stocks you should buy or sell on October 6, 2026?
-Stock market recommendations: Dixon Technologies, GAIL, and Prestige Estates Projects have been identified as the top stocks to sell by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan on October 6, 2026.
+## Who is Air Marshal Ashutosh Dixit? Op Sindoor and Safed Sagar veteran appointed new IAF chief
+Air Marshal Ashutosh Dixit has logged more than 3,500 hours of flying on aircraft including the Mirage-2000, Jaguar, MiG variants and Tejas.
 
-## Stock market today: NSE Nifty50, BSE Sensex open flat as crude prices hold near $100
+## India, Bangladesh seek to break the ice with trade and visa talks
+India and Bangladesh are also working on dates for a meeting of the joint working group on consular matters, which Dhaka will host
 
+## YouTuber Anurag Dobhal, 3 others held for assaulting brother-in-law in Dehradun: Police
+YouTuber Anurag Dobhal and three others were arrested after assaulting his wife’s cousin in Dehradun. Police said a case was also registered based on the victim’s complaint.
 
-## ‘Did Rahul and Sonia Gandhi win elections through vote chori’: BJP as poll process row intensifies
-BJP spokesperson Sambit Patra asked if the governments in Karnataka, Kerala, Tamil Nadu and Himachal Pradesh were formed through the alleged vote theft.
+## CBI raids Punjab CM Bhagwant Mann's camp office, his OSD's home in Chandigarh
+The action comes a day after the Punjab and Haryana HC directed CBI to register a case and probe allegations of corruption linked to Bhagwant Mann's office.
 
-## SC agrees to hear plea against CBI probe into Punjab CMO-linked graft charges
-The court declined an urgent hearing, saying the matter could be accommodated on Wednesday or Thursday
+## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
+Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
 
-## e-Sanjeevani: National Telemedicine Service crosses 500 mn tele consultations
-The start of National Telemedicine Service was governent’s efforts to leverage digital technology and make quality healthcare more accessible, affordable, and equitable for citizens across the country
+## As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge
+On September 22, the global artificial intelligence landscape spun on its axis within a matter of hours. In Beijing, Xiaomi engineers went live with an unusual broadcast, streaming the training run of their new MiMo-V2.6 model. In San Francisco, Anthropic unveiled its frontier Opus 5.5 model. About 
 
-## 7-judge SC bench closes 22-year-old case, leaves legislative privilege questions unanswered
-The order closes the proceedings without ruling on the substantive constitutional questions referred to the larger bench nearly two decades ago.
+## China’s Transsion, Africa’s top phone maker, targets US$500 million Hong Kong listing
+Shenzhen Transsion Holdings, the maker of Africa’s bestselling phones, aims to kick off its Hong Kong share offering on Wednesday to raise up to US$500 million ahead of a targeted October 15 listing, according to people familiar with the matter. The company, which already trades in Shanghai and has 
 
-## No contradiction in getting House panel head role as TMC MP: Kakoli Ghosh Dastidar
-Kakoli Ghosh Dastidar was named the chemicals and fertilisers panel head in a reshuffle of House committees
-
-## ‘UN is gridlocked’: Jaishankar says global body ‘largely irrelevant’ in decision-making
-Jaishankar made the remarks while responding to a question during an interactive session at the 5th Kautilya Economic Conclave in Delhi.
-
-## Students protest RSS leader’s presence at Vande Mataram event in Central University of Kerala
-Students protest RSS leader’s presence at Vande Mataram event in Central University of Kerala
-
-## Masked man slashes teen girl's throat with blade after barging inside home in Haryana's Faridabad
-Faridabad police said that the victim, a BCA third-year student, was undergoing treatment at the hospital.
+## Mox, BOCHK, ZA Bank and Citibank apps land among Asia-Pacific’s 10 best, study says
+Banking apps from Mox Bank, Bank of China (Hong Kong) (BOCHK), ZA Bank and Citibank Hong Kong are among the top 10 in Asia-Pacific, according to a study exclusively previewed by the South China Morning Post. Sia, an international consulting firm, assessed 145 banking apps in 20 markets in Europe, As
 
 ## Hong Kong’s Hermitage Capital stays devoted to top-tier tech stocks amid jitters
 Even as geopolitical frictions and market swings unsettle venture investors, Hong Kong-founded Hermitage Capital is sticking to a global strategy of backing frontier technology companies wherever they emerge. With a US$1.5 billion war chest that is 80 per cent in US dollars, with the remainder in re
@@ -120,17 +135,8 @@ Amid concerns over rising interest rates and a weak retail property market, a lo
 ## ​​​​​​​Planning a Legacy for Lives that Keep Moving
 [The content of this article has been produced by our advertising partner.] Passing wealth to the next generation can require flexibility over when, how and in which currency it is received. Designed to accommodate evolving family circumstances, Chubb MyLegacy Multi-Currency Insurance Plan offers cu
 
-## Adrian Cheng, former scion of Hong Kong’s NWD, expands K11 brand in Xiamen
-Adrian Cheng Chi-kong, former heir apparent to Hong Kong’s New World Development (NWD), is expanding his K11 cultural retail business in mainland China, launching a venture of his own as his family’s property group grapples with heavy debt. Xiamen K11 Select, developed by Cheng’s K11 by AC Group alo
-
-## HKMA licenses Bakai Bank, city’s first from Central Asia
-Hong Kong Monetary Authority (HKMA) has granted a banking licence to Bakai Bank, marking the first Central Asian bank to set up in Hong Kong amid closer ties in the economy and trade flows between China and the region, according to a statement on Monday. Bakai Bank, one of the largest lenders in Kyr
-
-## Hong Kong lawmakers say 5-year tax incentive too short to entice major innovative firms
-Hong Kong lawmakers have backed the government’s proposed tax incentives for large innovative companies, but many said on Monday that the planned five-year concession period is too short to attract major firms to establish headquarters or expand operations in the city. Chief Executive John Lee Ka-ch
-
-## HKTDC’s Belt and Road Summit drives momentum
-[The content of this article has been produced by our advertising partner.] The 11th Belt and Road Summit, which took place in Wan Chai on 9-10 September, brought together more than 6,200 top officials, business leaders and senior professionals from 70-plus B&R countries and regions to explore oppor
+## How Much More Trump Trouble Can Indonesia’s Prabowo Take?
+Jakarta’s attempts to align with Washington face a growing backlash at home.
 
 ## AI Made the List—but Humans Still Did the Killing
 In the film “NAZA,” Israeli soldiers reveal the workings of autonomous warfare.
@@ -152,9 +158,6 @@ History suggests that when Washington loses interest, the Europeans step in.
 
 ## Israel’s Government Is in Thrall to ‘the Concept’
 A Hebrew term for complacent blindness still captures Netanyahu’s policies.
-
-## How to Fix Our Global Malaise
-Focusing on local communities can have a surprising international effect.
 
 ## Urban Rail in Southeast Asia Is Booming
 Due to rapid economic growth and Chinese knowhow, public transit in the region's cities is entering something of a golden age.
@@ -180,6 +183,9 @@ An alleged killing days after Koja Genta took office threatens Tokyo’s hopes f
 ## Mine Blast Tests South Korean Engagement Policy as Pyongyang Rejects Any Contact
 North Korea has denied planting the mines and refused talks on the boundary line.
 
+## Iran Faces Severe Challenges to Rebuild Missile and Drone Production
+With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran’s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack drones i
+
 ## Certainty is a Luxury Ukrainians Must Create
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
@@ -200,9 +206,6 @@ In 2021, Michael Kimmage wrote, “Belarus and the Ukraine Trap,” where he arg
 
 ## MacGyver at Scale: Winning Future Air Wars of Rapid Technological Adaptation
 During a recent training exercise in the western Pacific, a small group of engineers single-handedly saved the day.In the scenario, adversary covert forces used first-person view drones to intercept American helicopters that were shuttling between austere forward island airbases. Some helicopters we
-
-## School of War or School of Battle? Educating for an Uncertain Future
-In 1901, military analyst Jan Bloch declared that new military technologies had changed war so radically that the study of history had become useless. He castigated military officers who prepared for future war based on “musty precedents” and who failed to recognize that the past was as irrelevant t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?
-Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.
+## UK police arrest British national linked to airbase incident
+22-year old British national arrested on suspicion of a terror offence after other suspects released on bail.
 
-## Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head
-Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.
+## Demonstrators clash with riot police in France as education protests mount
+School blockades and clashes intensify in France as frustration rises over government education policy.
 
-## Widowed twice: A Gaza mother’s story of loss and survival
-A young mother has lost two husbands and two children during Israel's genocidal war on Gaza.
+## Former German spy chief arrested on suspicion of treason and espionage
+August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.
 
-## Erling Haaland faces injury scare ahead of Man City vs Liverpool
-The Manchester City star asked to be substituted and was replaced in the 67th minute of the 2-1 defeat in Porto.
+## Ukraine launches major drone attack on Russia’s Moscow region, killing two
+Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.
 
-## Violent clashes erupt after mass housing protest in Barcelona
-Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.
+## Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’
+Belgian physicist worked to build Antarctic observatory that tracks neutrinos from deep space.
 
-## Quebec separatists win election reviving push for independence
-Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.
+## Mapping where US bombers are based globally
+The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here's where else they can fly from.
 
-## Mexican and Colombian cartel mercenaries filmed fighting in Ukraine
-Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.
+## Pakistan, Turkiye and Saudi deterrence against Houthis: What that means
+Islamabad says its role is defensive, but Riyadh's offensive in Yemen tests how long it can stay out of the fight.
 
-## Secessionist party wins Quebec election in Canada
-Parti Quebecois returns to power, promising a third referendum on Quebec's independence from Canada.
+## Qatar and India among seven countries bidding for 2036 Olympics, IOC says
+South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.
 
 ## ICAI advances Ind AS 118 work, eyes Schedule III revamp
 Ind AS 118 implementation gathers pace as ICAI works with MCA on Schedule III alignment, while advancing work on new accounting standards and emerging financial reporting issues.
@@ -276,6 +279,12 @@ The GST Council is planning to review important reforms aimed at simplifying tax
 ## Why US Treasury bond yields matter, what it means for Indian investors, and the impact on rupee
 Cutting through money jargon, one topic at a time. This week, Sanket Dhanorkar explains why yields on US Treasury bonds matter, and what it means for Indian investors. Rising US bond yields mean investors are demanding a higher return to buy and hold that debt. This reflects concerns over the weak f
 
+## Sebi says Jane Street’s appeal for more details a delaying ploy
+Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms a
+
+## RBI seen starting rate-hike cycle, repo could rise to 6% by FY27-end: Reports
+The Reserve Bank of India is likely to increase the repo rate to combat rising inflation and support stronger growth. Reports indicate that a rate-hike cycle of 75 basis points is anticipated, potentially reaching 6 percent by FY27. While inflation drives this tightening, geopolitical factors could 
+
 ## RBI swap scheme boosts private banks' Q2 business numbers
 Private banks witnessed considerable credit and deposit growth in the second quarter of FY27. This growth was driven by the RBI's concessional dollar-rupee swap facility for FCNR(B) deposits. Major banks like Axis Bank, Kotak, and HDFC Bank reported varying growth figures, showing the impact of inte
 
@@ -293,10 +302,4 @@ The Reserve Bank of India's Monetary Policy Committee is meeting to discuss pote
 
 ## SEBI Chairman cautions investors, traders on 'finfluencers' as capital market industry deepens
 As India's capital market industry has become deeper, broader and more accessible over the past decade, Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Monday warned investors and traders to avoid anonymous tips by finfluencers and unrealistic return claims.
-
-## RBI likely to hike repo rate by 25 bps to 5.50% in October policy: ET Poll
-On Monday, the Reserve Bank of India's Monetary Policy Committee will hold important meetings. Analysts are anticipating a 25 basis points increase in the key interest rate, raising it to 5.50%. The surge in inflation is attributed to elevated crude oil costs and subpar agricultural production. Many
-
-## RBI likely to lift repo by up to 75 bps amid geopolitical uncertainty: Report
-Reserve Bank of India may raise the policy repo rate by 50-75 basis points in the current cycle amid heightened macroeconomic headwinds and geopolitical uncertainty, a report said on Thursday.
 
