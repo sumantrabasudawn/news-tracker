@@ -1,49 +1,52 @@
 # AION Intelligence
 
-## Chrysler Building taken over as New York luxury office market booms
-New owners to pay $235mn and plan an upgrade for the landmark suffering from low occupancy and disrepair
+## FirstFT: China rejects EU request for voluntary curbs on hybrid car exports
+Also in today’s newsletter: SpaceX credit risk jumps and India raises interest rates
+
+## Trump considers ‘terminating’ campaign advisers over Balkans trip
+President says Chris LaCivita and James Blair guiding pro-Russian party less than a month before midterms could be a ‘conflict’
+
+## AI upends Singapore’s ‘quant Olympics’
+Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars
+
+## Fed minutes indicate broad agreement for another rate rise this year
+Records from the Fed’s September decision showed a clear consensus
+
+## Iran war blows near-£12bn hole in Britain’s public finances
+FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half
+
+## US government bonds steady after strong 10-year Treasury auction
+French, Italian and UK government bonds under pressure in volatile trading
 
 ## SEC warns asset managers against collaborating on activist campaigns
 US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members
 
-## French central bank chief says ECB intervention not needed to ease bond rout
-Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far left
+## Marco Rubio urges western countries to uphold traditional values
+US secretary of state warns alternative is ‘atrophy, servitude and decline’ in Athens speech
 
-## Badenoch’s UK Conservatives are a work in progress
-Burnham’s leftward shift opens space in the centre. The Tories should occupy it
+## Diesel price jumps after IEA says no additional fuel will be released
+Agency members say 100mn barrels promised by G7 will come from 400mn stock release agreed in March
 
-## China slaps down EU request for voluntary curbs on hybrid car exports
-European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict
+## Kirkland & Ellis to stop disclosing financial performance
+World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking
 
-## Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002
-French, Italian and UK government bonds also come under pressure in volatile trading
+## The online life of the Flydubai attacker
+Co-pilot of flight 1073 gravitated towards the ‘manosphere’ and expressed misogynistic views
 
-## Merz’s conservatives in new crisis over alleged support for AfD
-Far-right party claims it secured votes from regional CDU lawmakers in Saxony-Anhalt
+## SpaceX credit risk jumps on worries over its borrowing spree
+Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips
 
-## Israelis commemorate victims of October 7 as election looms
-Hamas’s attack reverberates through Israeli politics three years on
+## London hedge fund Arini falls 16 per cent on soured credit bets
+Flagship strategy raised $1.5bn in recent weeks after suffering three consecutive months of losses
 
-## Nobel Prize in chemistry honours mirror molecule research
-Henri Kagan and Kenso Soai triumph for work crucial to drug development
+## Meta acts on 5.3 million child sexual exploitation items in India, deploys new AI tools
+Meta said predators have shifted tactics to advertising, using seemingly harmless ads to direct people towards illegal material hosted elsewhere.
 
-## Australian court ruling on climate impact of coal mining a ‘blow’, says industry
-Verdict is latest in a series of legal cases to examine the relationship between fossil fuel producers and global warming
+## US proposes $70,000 OPT fee for international students, $30,000 for renewals
+The proposal could affect Indian students, who formed the largest group of international students enrolled in US institutions in 2024-25
 
-## US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz
-American security push aims to spur Asian refining as diesel shortages stoke inflation
-
-## Sleepy European telcos turn to data centre craze
-With data centres, companies in the sector may finally be on to happier hunting grounds
-
-## Billionaire Weston family to buy Boots in $8.9bn deal
-Canadian owner of Loblaws and Shoppers Drug Mart to buy UK pharmacy chain from private equity firm Sycamore Partners
-
-## Ex-Barclays traders’ rate-rigging convictions quashed
-Court of Appeal ruling comes after Tom Hayes’s guilty verdict was overturned last year
-
-## What we know about the suspected plague case in Russia
-Death of lab worker at anti-plague institute in Siberia has spurred speculation that she contracted the infection
+## SEBI relaxes private placement norms, allows up to 17 ISINs to mature in a year
+The revised framework includes separate limits for plain vanilla debt, structured debt and specified bonds, with some securities excluded from calculations
 
 ## RBI rate hike: Major banks raise lending rates, making loans costlier
 The lending-rate increases took effect or will take effect from October 8, while some banks kept MCLR and Base Rate unchanged
@@ -60,14 +63,8 @@ They stress the need for a collaborative approach to ensure reliable edible oil 
 ## Lekha Wireless to integrate Analog Devices radio technology in 5G and 4G products
 irm will upgrade its RAN portfolio with ADI’s Samana platform for simpler, lower-power designs
 
-## Soket AI unveils LOOP Harness to advance India’s frontier AI capabilities
-The LOOP is an open-source harness designed to enable AI agents to work continuously for weeks, not minutes
-
-## Serena Williams, Olympic gold and nine egos: Abhinav Bindra’s playbook for corporate India
-Olympic champion Abhinav Bindra says exceptional performance does not require exceptional confidence — a lesson drawn from a 22-year sporting career marked by self-doubt, difficult team dynamics and relentless preparation that now shapes his approach to business and investing.
-
-## Karnataka beer sales surge 41% after AIB tax regime, excise revenue rises 13.4%
-During April–September 2026, IMFL sales have held ground at 1.1%, whereas the tax revenue from IMFL has jumped by 13%
+## Loans set to get dearer as RBI hikes repo rate after 44 months
+The Reserve Bank of India has announced a 25 basis points increase in the repo rate to 5.5%. This decision reflects growing inflation pressures and stronger than anticipated economic growth. The rise in interest rates will lead to higher loan EMIs, impacting consumption during the festive season. Ba
 
 ## RBI’s big move: Your consolidated account statement will now have details of MFs, stocks & FDs!
 For individuals who receive a CAS, this means information on their mutual funds, stocks and, going forward, fixed deposits (FDs) can be viewed together in one place. The change will allow demat account holders to see details of their demat holdings as well as bank deposit accounts together in a sing
@@ -90,8 +87,8 @@ Starlink has completed a major ground infrastructure with 20 gateway sites and h
 ## RBI governor Sanjay Malhotra on what happens if India-US trade deal is not finalised
 India-US trade dea: Asked about the possible impact on the economy if the India-US trade deal is not finalised, RBI governor Sanjay Malhotra said, “The impact depends on what extent tariffs are going to be applied. So it's premature to answer. But obviously, it will have some negative impact. At the
 
-## Why RBI hiked repo rate by 25 basis points to 5.5% in the MPC review
-Two factors worked to decide MPC’s move: inflationary pressures persist and growth is beating estimates. Hence, a hike in repo rate, while helping keep inflation in check, is unlikely to substantially impact GDP growth. The Indian economy has remained robust, with growth momentum spread across vario
+## India proposes senior diplomat Sudhakar Dalela as next ambassador to Nepal
+India has proposed senior diplomat Sudhakar Dalela, currently BRICS Sherpa, as its next ambassador to Nepal following the retirement of Naveen Srivastava.
 
 ## Repair T1, don't force passengers and airlines to move to Navi Mumbai airport: Aaditya Thackeray
 Adani Airport Holdings Ltd has asked airlines to shift 33% of their international flights from Mumbai's CSMIA to Navi Mumbai International Airport
@@ -113,9 +110,6 @@ Petroleum minister Hardeep Singh Puri and IndianOil have sought swift action fro
 
 ## IIT Bombay Senate restores 2015 exam rules, gives students chance to explain in malpractice cases
 IIT Bombay’s Senate decided to go back to its 2015 rules dealing with unfair means during examinations, giving students opportunity to explain before disciplinary action is initiated
-
-## BJP claims Rahul Gandhi tried to push woman cop ‘in his eagerness to make a reel’ during Opposition protest
-Opposition MPs of the INDIA bloc held a sit-in protest at Ashoka Road to raise the issue of 'vote chori' and seek the ouster of CEC Gyanesh Kumar.
 
 ## Hong Kong tech index to harness fast-growth companies in bid for better performance
 Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has missed out on artificial intelligence-driven gains. The threshold is among a set of n
@@ -141,6 +135,18 @@ Japanese, South Korean and Thai brands have increased their share of new entrant
 ## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
 Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
 
+## Pakistan’s Opposition on the March
+Simmering anger over former leader Imran Khan’s imprisonment drives protesters back to the streets—and toward Islamabad.
+
+## IMF Chief Issues Stark Economic Warning for 2027
+Kristalina Georgieva urges world leaders to implement protective measures to help keep the lights on.
+
+## China Might Lap the United States on AI Adoption
+Beijing’s collaborative approach is winning over other states.
+
+## Can Regional Powers Prevent Ethiopia’s Conflict From Spreading?
+Addis Ababa’s forces have recaptured a key town as rifts deepen in the Horn of Africa.
+
 ## Here’s What to Do About Trump’s War Crimes
 Despite the obstacles, foreign governments and U.S. lawmakers can begin the process of holding the president accountable.
 
@@ -152,18 +158,6 @@ Beijing’s third overseas base is also its second in Southeast Asia.
 
 ## How to Avoid Disaster in the Next Iran War
 Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.
-
-## Pakistan, Saudi Arabia, Turkey Trigger Mutual Defense Pact
-Even the threat of joint involvement could dramatically shift the Saudi-Houthi conflict.
-
-## Why Chinese Parents Don’t Want Two Kids
-Beijing is pushing for bigger families, but the realities of childbirth and early parenting make it a hard sell.
-
-## What’s Freezing the U.S. Housing Market?
-A hot, AI-driven economy certainly plays a role.
-
-## China Doesn’t Need to Invade Taiwan to Control It
-A bloodless political victory may be far harder for Washington to handle.
 
 ## Poland’s President in the Philippines: Black Hawks, ASEAN, and US Defense Interests
 Could Nawrocki’s visit to Manila serve to promote further Black Hawk sales across ASEAN, potentially benefiting U.S. industrial interests?
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Over 100 arrested in Belgium student protests over education costs
-Protesting students have demanded education reforms in French-speaking areas of the country.
+## ‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
+Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off.
 
-## US mortgage rates hit their highest level in three years
-Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.
+## Judge orders officials to preserve Pike execution evidence
+A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike’s failed execution
 
-## UEFA football leaders meet to shape strategy to oust FIFA’s Infantino
-European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.
+## Pro-Palestine university groups march in London on October 7 anniversary
+Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
 
-## Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains
-Far-right and far-left parties gain ground in local elections as Merz's approval rating sinks.
+## Trump on why he thinks he deserves the Nobel Peace Prize
+US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
 
-## More than 200,000 displaced as fighting escalates in Yemen, UN says
-With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.
+## South Africa host Australia who battle more than ‘Sandpapergate’ memories
+WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
 
-## The mass killing does not mean Israel’s winning
-Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.
+## Harmanpreet Kaur: The captain who changed how India’s women played cricket
+Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title.
 
-## How Israel’s genocide in Gaza pulled Britons into the Palestine movement
-Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.
+## Gaza child’s autoimmune condition triggered amid Israel’s war
+Gaza child’s autoimmune condition triggered amid Israel’s war
 
-## Ex-German spy chief arrested: A history of spooks working for enemy powers
-There have been many cases of top spies giving classified information to enemy nations. Here are some of the highlights.
+## Inside SpaceX’s new look for AI data centres in orbit
+Inside SpaceX’s new look for AI data centres in orbit
 
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
