@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Eva Langret’s guide to London’s best museums — and the perfect gift shop
-The Paris-born artistic director of Frieze London on peerless postmodern architecture, the city’s most underrated museum and the artist who helped her understand the UK
+## Chrysler Building taken over as New York luxury office market booms
+New owners to pay $235mn and plan an upgrade for the landmark suffering from low occupancy and disrepair
 
-## Badenoch accuses Burnham of ‘spending money we don’t have’
-Watch live as Conservative leader closes event with party trailing Labour and Reform in opinion polls
+## SEC warns asset managers against collaborating on activist campaigns
+US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members
 
-## UK urged to impose tariffs on Chinese chemical at centre of EU trade dispute
-Trade watchdog’s findings leave ministers facing tough decision on whether to follow recommendation
+## French central bank chief says ECB intervention not needed to ease bond rout
+Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far left
 
-## Houthi rebels target Riyadh and Aden in new missile barrage
-Assault comes days after government forces announced major offensive to reclaim strategic Bab al-Mandab waterway
+## Badenoch’s UK Conservatives are a work in progress
+Burnham’s leftward shift opens space in the centre. The Tories should occupy it
 
-## David Ellison built a Hollywood colossus. Now he needs to run it
-Media mogul faces a steep challenge after closing his $111bn deal to bring together Paramount and Warner Bros
+## China slaps down EU request for voluntary curbs on hybrid car exports
+European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict
 
-## FirstFT: China’s great tax crackdown
-Also in today’s newsletter: Apollo leads $40bn SpaceX fundraising, and ‘danger money’ for ship captains
+## Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002
+French, Italian and UK government bonds also come under pressure in volatile trading
 
-## Fumagalli & Dossi’s empire of plaster casts
-Meet the Milanese duo keeping the gipsoteca alive
+## Merz’s conservatives in new crisis over alleged support for AfD
+Far-right party claims it secured votes from regional CDU lawmakers in Saxony-Anhalt
 
-## Four Seasons Hotel at The Surf Club review: the glamour of Miami’s golden age
-This former playground of Hollywood royalty may be the Magic City’s most atmospheric and alluring hotel
+## Israelis commemorate victims of October 7 as election looms
+Hamas’s attack reverberates through Israeli politics three years on
 
-## Volkswagen sets aside £725mn for car mis-selling scandal
-Figure is biggest yet for a car manufacturer and raises total hit to automotive industry to more than £1.5bn
+## Nobel Prize in chemistry honours mirror molecule research
+Henri Kagan and Kenso Soai triumph for work crucial to drug development
 
-## Ineos arm’s oil and gas earnings offset chemicals downturn
-Division of Jim Ratcliffe’s conglomerate posts loss of €2.2bn last year
+## Australian court ruling on climate impact of coal mining a ‘blow’, says industry
+Verdict is latest in a series of legal cases to examine the relationship between fossil fuel producers and global warming
 
-## AI agents could cost banks $500bn — by winning savers better rates
-Banks will gain from AI as well as lose
+## US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz
+American security push aims to spur Asian refining as diesel shortages stoke inflation
 
-## Mike Ashley’s Frasers Group snaps up stake in Under Armour
-Move is latest in series of bets by UK retail tycoon best known as Sports Direct owner
+## Sleepy European telcos turn to data centre craze
+With data centres, companies in the sector may finally be on to happier hunting grounds
 
-## Porsche to raise top model prices by 20%
-German sports-car maker echoes Ferrari with bet on exclusivity to boost profits
+## Billionaire Weston family to buy Boots in $8.9bn deal
+Canadian owner of Loblaws and Shoppers Drug Mart to buy UK pharmacy chain from private equity firm Sycamore Partners
 
-## Sensex today | Stock Market Live: Sensex closes 429 pts, Nifty slips 0.76% as RBI rate hike; Adani Enterprises, Hindalco top losers
-Sensex, Nifty, Stock Price Live Updates: Indian equities turned volatile and traded lower on Wednesday after the RBI raised its repo rate by 25 basis points and shifted towards tighter monetary policy.
+## Ex-Barclays traders’ rate-rigging convictions quashed
+Court of Appeal ruling comes after Tom Hayes’s guilty verdict was overturned last year
 
-## C-DIT Centre of Excellence in AVGC-XR opens in Thiruvananthapuram
-Facility under C-DIT to support jobs and link animation, gaming and extended reality with industry, tourism and government services
+## What we know about the suspected plague case in Russia
+Death of lab worker at anti-plague institute in Siberia has spurred speculation that she contracted the infection
 
-## Nobel Prize in chemistry awarded to Kagan, Soai for developing 'spectacular' chemical reactions
-The literature prize is set to be awarded Thursday. After Friday's peace prize is awarded, the Nobel Memorial Prize in Economic Sciences will be announced Monday
+## RBI rate hike: Major banks raise lending rates, making loans costlier
+The lending-rate increases took effect or will take effect from October 8, while some banks kept MCLR and Base Rate unchanged
 
-## IMC 2026: Starink has designed its operations to comply with India’s security, regulatory needs: Starlink VP Dreyer
-Centre has granted licences to three companies, including the Elon Musk-led Starlink, Bharti Airtel and Reliance Jio, to provide satellite communication services in India
+## Starlink being blocked by certain oligarchs in India, a crime against people: Elon Musk
+Company says it has built the ground infrastructure but crucial last mile to connect users remains uncovered
 
-## Rupee tumbles 43 paise to close at 96.78 against US dollar following RBI policy decision
-Rupee was weighed down by RBI rate hike and the central bank’s hawkish stance amid inflation worries
+## SEBI introduces colour-coded credit risk-o-meter for debt securities
+The new framework will apply to listed and proposed listed debt instruments issued through public issues or private placements.
 
-## Granules India expecting sole first to file status on Ruxolitinib Extended-Release Tablets
-If confirmed by the FDA and all applicable statutory and regulatory requirements are satisfied, first-to-file status may provide eligibility for 180 days of generic drug exclusivity under US law
+## Palm oil producing countries keen on ties with India
+They stress the need for a collaborative approach to ensure reliable edible oil supplies, supporting farmers and promoting sustainable growth
 
-## Apple Watch Series 12 review: The biggest overhaul of the Apple Watch yet
-The Apple Watch Series 12 debuts at a time when the wellness industry has moved beyond exercise tracking to areas like recovery and longevity
+## Lekha Wireless to integrate Analog Devices radio technology in 5G and 4G products
+irm will upgrade its RAN portfolio with ADI’s Samana platform for simpler, lower-power designs
 
-## Bharti Airtel shares rise after postpaid tariff hike, Motilal Oswal retains buy
-The new plans will come into effect on October 8, 2026, and existing postpaid subscribers will be moved to the nearest higher plan within a month, Bharti Airtel told the stock exchanges
+## Soket AI unveils LOOP Harness to advance India’s frontier AI capabilities
+The LOOP is an open-source harness designed to enable AI agents to work continuously for weeks, not minutes
+
+## Serena Williams, Olympic gold and nine egos: Abhinav Bindra’s playbook for corporate India
+Olympic champion Abhinav Bindra says exceptional performance does not require exceptional confidence — a lesson drawn from a 22-year sporting career marked by self-doubt, difficult team dynamics and relentless preparation that now shapes his approach to business and investing.
+
+## Karnataka beer sales surge 41% after AIB tax regime, excise revenue rises 13.4%
+During April–September 2026, IMFL sales have held ground at 1.1%, whereas the tax revenue from IMFL has jumped by 13%
+
+## RBI’s big move: Your consolidated account statement will now have details of MFs, stocks & FDs!
+For individuals who receive a CAS, this means information on their mutual funds, stocks and, going forward, fixed deposits (FDs) can be viewed together in one place. The change will allow demat account holders to see details of their demat holdings as well as bank deposit accounts together in a sing
+
+## Woman got Rs 12.28 lakh, but sought maintenance from granddaughter & son’s widow; Court rejects plea
+An 83-year old retired woman in Kerala filed a case seeking monthly maintenance payment of Rs 15,000 and also claimed a share in the widow family pension. The woman is a retired employee of the Kerala Government Fisheries Department and receives a pension following her retirement. The court said it 
+
+## Housing society sought defaulter tag over Rs 1.42 lakh dues; court gives doctor interim protection
+The man, a doctor in Mumbai, owns a ground-floor unit in Building No. 1 of the housing society. He said he was willing to pay the maintenance charges, but the society had not issued him any bills since 2014. By April 2015, the outstanding maintenance amount had risen to Rs 1.42 lakh. The housing soc
 
 ## After 3.5 years, RBI hikes repo rate: How does it impact your EMIs & loan interest payout? Explained
 Why does a hike in repo rate hit your pocket? Does the repo rate hike mean an automatic increase in your loan EMIs? Is it better for you to opt for an EMI hike or an extension of your loan tenor? And how does this step from RBI help people looking to invest in fixed deposits? We decode:
@@ -78,38 +93,32 @@ India-US trade dea: Asked about the possible impact on the economy if the India-
 ## Why RBI hiked repo rate by 25 basis points to 5.5% in the MPC review
 Two factors worked to decide MPC’s move: inflationary pressures persist and growth is beating estimates. Hence, a hike in repo rate, while helping keep inflation in check, is unlikely to substantially impact GDP growth. The Indian economy has remained robust, with growth momentum spread across vario
 
-## Gold price prediction today: Where is gold headed on October 7, 2026?
-Gold price prediction today: The big event is the Fed's September meeting minutes, due out Wednesday, which should offer more clarity on how policymakers are thinking about further rate hikes. Markets are already leaning dovish for October, but December hike odds remain high at over 85%, so any hawk
+## Repair T1, don't force passengers and airlines to move to Navi Mumbai airport: Aaditya Thackeray
+Adani Airport Holdings Ltd has asked airlines to shift 33% of their international flights from Mumbai's CSMIA to Navi Mumbai International Airport
 
-## Stock market today: BSE Sensex down 400 points, NSE Nifty50 holds near 22,600
+## Elon Musk blames Starlink hurdles in India on ‘monopolistic chokeholds’
+Musk said Starlink is being blocked by “certain oligarchs” in India seeking to maintain a “monopolistic chokehold” on people.
 
+## ‘Responding well’: MEA gives health update on pilot Smit Machchhar after flydubai cockpit attack
+MEA spokesperson Randhir Jaiswal assured that Indian diplomatic authorities were in continuous contact with the hospital team overseeing his care.
 
-## Man’s VRS payout of Rs 65.21 lakh taxed as salary; ITAT Pune says it is capital receipt
-The man had been employed in Aurangabad. During FY 2018-19, his employer shut down its Aurangabad plant and introduced a financial scheme for its employees. The man opted for voluntary retirement under the scheme and received a total payment of Rs 65,21,105. The amount consisted of ex-gratia/severan
+## Delhi Customs destroys 165 kg of seized drugs worth ₹515 crore at incineration facility
+Delhi Customs recorded 89 cases of drug seizures at Indira Gandhi International Airport during the financial year 2025-26, from April to September 2026.
 
-## Google Maps, design flaw or AAP-era planning? Barapullah traffic mess triggers blame game
-The Phase-III corridor connects Mayur Vihar Phase-I on Noida Link Road with Sarai Kale Khan on Ring Road and was expected to ease congestion significantly.
+## ‘Very happy’: Ex-Japan PM Shinzo Abe’s widow tears up as memorial corridor honouring late husband opens in Varanasi
+Akie Abe and Uttar Pradesh chief minister Yogi Adityanath jointly inaugurated the ‘Shinzo Abe Memorial Corridor’ at the Rudraksh Convention Centre.
 
-## 'Every FIR a medal…my target is 100': Rahul Gandhi firm on Gyanesh Kumar's resignation demand
-Rahul Gandhi said he is aiming for 100 FIRs as Opposition MPs continued protesting against CEC Gyanesh Kumar on Wednesday, demanding his resignation.
+## IndianOil officer stabbed 7 times during op to seal Maha petrol pump; Petroleum minister seeks swift action
+Petroleum minister Hardeep Singh Puri and IndianOil have sought swift action from the Maharashtra government and police.
 
-## Telangana Cyber Security Bureau arrests 101 in multi-state cybercrime crackdown
-TGCSB director Shika Goel said the two-week coordinated operation, which began on September 23, covered Kerala, Andhra Pradesh, Karnataka, Tamil Nadu, Telangana and Puducherry.
+## IIT Bombay Senate restores 2015 exam rules, gives students chance to explain in malpractice cases
+IIT Bombay’s Senate decided to go back to its 2015 rules dealing with unfair means during examinations, giving students opportunity to explain before disciplinary action is initiated
 
-## Starlink built India setup to meet security norms, says SpaceX executive; awaits nod
-Starlink said ground infrastructure, including 20 gateway sites comprising hundreds of antennas, is already in place with operations ready to kickstart.
+## BJP claims Rahul Gandhi tried to push woman cop ‘in his eagerness to make a reel’ during Opposition protest
+Opposition MPs of the INDIA bloc held a sit-in protest at Ashoka Road to raise the issue of 'vote chori' and seek the ouster of CEC Gyanesh Kumar.
 
-## 10 schools in Ahmedabad receive bomb threats, along with a warning against Dosanjh’s concert; threats revealed to be hoax after security checks
-The email, linked to the “Khalistan National Army”, threatened blasts related to singer Diljit Dosanjh's concerts. Security checks found no threats.
-
-## Puri Jagannath airport gets final environmental clearance despite wildlife concerns
-The proposed Shree Jagannath International Airport in Odisha’s Puri has received final environmental clearance from the Ministry of Environment, Forest and Climate Change
-
-## Bhopal doctor attacks friend who broke up with him, attempts suicide
-The 26-year-old doctor allegedly attacked the woman, a postgraduate medical student, after a bitter argument over their breakup a few months ago, police said
-
-## Don't cut capacity without talks: Global airline body on Mumbai airport operator's Navi Mumbai shift plan
-Mumbai International Airport Ltd (MIAL), which operates Mumbai airport, had sought a reduction of around 33% in international departure slots from October 25.
+## Hong Kong tech index to harness fast-growth companies in bid for better performance
+Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has missed out on artificial intelligence-driven gains. The threshold is among a set of n
 
 ## Why Morgan Stanley sees more upside in Hong Kong offices than New York towers
 Higher interest rates have weighed on property markets in both Hong Kong and New York, but Morgan Stanley sees greater upside potential in the Asian financial hub – particularly the office segment – in the months ahead, according to its latest report. The US investment bank highlighted the similarit
@@ -132,8 +141,11 @@ Japanese, South Korean and Thai brands have increased their share of new entrant
 ## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
 Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
 
-## As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge
-On September 22, the global artificial intelligence landscape spun on its axis within a matter of hours. In Beijing, Xiaomi engineers went live with an unusual broadcast, streaming the training run of their new MiMo-V2.6 model. In San Francisco, Anthropic unveiled its frontier Opus 5.5 model. About 
+## Here’s What to Do About Trump’s War Crimes
+Despite the obstacles, foreign governments and U.S. lawmakers can begin the process of holding the president accountable.
+
+## China’s AI Rollout Has No Off Switch
+Beijing may talk about safety, but its model of AI diffusion is made to go rogue.
 
 ## What Does China’s New Military Base in Laos Mean?
 Beijing’s third overseas base is also its second in Southeast Asia.
@@ -153,11 +165,17 @@ A hot, AI-driven economy certainly plays a role.
 ## China Doesn’t Need to Invade Taiwan to Control It
 A bloodless political victory may be far harder for Washington to handle.
 
-## Trump’s Red-Dye Diesel Plan Has a Major Flaw
-Cutting fuel taxes for truckers might bring a little relief, but it won’t add any new supplies.
+## Poland’s President in the Philippines: Black Hawks, ASEAN, and US Defense Interests
+Could Nawrocki’s visit to Manila serve to promote further Black Hawk sales across ASEAN, potentially benefiting U.S. industrial interests?
 
-## How Much More Trump Trouble Can Indonesia’s Prabowo Take?
-Jakarta’s attempts to align with Washington face a growing backlash at home.
+## Pakistan’s Solar Revolution is Reshaping its Power Sector
+Solar power generation has expanded rapidly in recent years and has overtaken nuclear power generation for the first time.
+
+## As Tide Turns Against Modi, More Parties Back INDIA Bloc Protests
+Police detained scores of opposition lawmakers, who held a sit-in to press their demand for the resignation of Chief Election Commissioner Gyanesh Kumar.
+
+## Why the Mecca Agreement Might Fail
+If each member preserves its own partnerships while expecting the others to absorb its security risks, what does the promise that an attack against one is an attack against all mean when a crisis arrives?
 
 ## Missing the Forest for the Trees in Taiwan’s Defense Preparations
 Beyond exercises and equipment, strategic developments in Taiwan’s military preparedness are being overlooked.
@@ -171,17 +189,8 @@ South Korea’s economy has become intrinsically linked to the ongoing artificia
 ## China’s Revised Defense Mobilization Law Touches Nearly Every Sector
 The circumstances under which mobilization can be declared are wider than ever, and a large number of entities – including private firms – are legally obligated to the state during wartime.
 
-## Will US President Donald Trump Visit Central Asia?
-No U.S. president has ever traveled to Central Asia while in office. Could Donald Trump be the first? Sure. But will he be? That’s a different question.
-
-## What Would Europe Do in a Taiwan Crisis?
-Washington should not take European assistance for granted, especially if states can't agree on how to label Beijing's actions.
-
-## Taiwan’s Maritime Law Enforcement Operations Spark Anger in Chinese Society
-The reaction to a Taiwan Coast Guard confrontation reflects the existence of a particularly hardline strand of opinion on Taiwan among mainland Chinese.
-
-## Iranian Ships Test Sri Lanka’s Sovereignty Again
-The U.S. has threatened Sri Lanka with sanctions if it provides supplies to Iranian vessels stranded off its coasts.
+## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
+For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience
 
 ## The Navy’s Missing Welders Are Stocking Shelves
 The U.S. Navy’s May 2026 shipbuilding plan, signed by Acting Secretary of the Navy Hung Cao, uses the word “innovative” eight times. The plan applies that word, among other things, to the Columbia-class submarine, an acquisition strategy for the medium landing ship, and new approaches to running the
@@ -203,9 +212,6 @@ For eighty years, the Western alliance has anchored its strength in moral legiti
 
 ## China is Watching Us. Is the U.S. Air Force Still Watching China?
 On Oct. 1, 2026, Beijing celebrated the 77th anniversary of the founding of the People’s Republic of China and the beginning of the end for the U.S. Air University’s China Aerospace Studies Institute. The institute was one of several centers of excellence established across the U.S. military’s profe
-
-## How Closed Airspace Threatens U.S. Military Mobility Across Eurasia
-For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of departure and its destination. Routes could ch
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## CAS to hear Senegal appeal over AFCON title awarded to Morocco
-Court of Arbitration for Sport (CAS) hearing set to begin after Senegal stripped of Africa Cup of Nations title by CAF.
+## Over 100 arrested in Belgium student protests over education costs
+Protesting students have demanded education reforms in French-speaking areas of the country.
 
-## Christa Pike is awake after surviving execution: What happens now?
-Tennessee death row inmate survives execution attempt, sparking legal and medical concerns.
+## US mortgage rates hit their highest level in three years
+Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.
 
-## Bulgaria ends search for missing crew after drone strike sinks cargo ship
-Rescuers halt operation off the coast after finding no survivors.
+## UEFA football leaders meet to shape strategy to oust FIFA’s Infantino
+European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.
 
-## Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin
-Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.
+## Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains
+Far-right and far-left parties gain ground in local elections as Merz's approval rating sinks.
 
-## France halts police use of stun grenades at student protests
-Prime Minister Sebastien Lecornu to make public address after thousands rally to demand more funding for education.
+## More than 200,000 displaced as fighting escalates in Yemen, UN says
+With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.
 
-## What does a year-long ceasefire in Gaza look like?
-Israel attacked Gaza nine days out of 10 during a so-called ceasefire.
+## The mass killing does not mean Israel’s winning
+Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.
 
-## Fear and a far-right lurch: How October 7 reshaped Israel
-Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.
+## How Israel’s genocide in Gaza pulled Britons into the Palestine movement
+Britons are risking freedom and reputations to stand with Palestinians and challenge government policy.
 
-## Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
-Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
+## Ex-German spy chief arrested: A history of spooks working for enemy powers
+There have been many cases of top spies giving classified information to enemy nations. Here are some of the highlights.
 
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
@@ -279,6 +285,12 @@ In a significant move, the central government is set to implement a consolidated
 ## Employers may soon be able to claim ITC on GST paid for employee insurance cover
 Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
 
+## Markets can be irrational in the short run: What RBI Governor Sanjay Malhotra said as rupee nears lifetime low
+The rupee neared its record low after the RBI raised the repo rate to 5.50%. Governor Sanjay Malhotra said the currency may be undervalued, while analysts viewed the hawkish stance and higher inflation outlook as supportive of the rupee.
+
+## Strong possibility of another RBI rate hike in December: Crisil Chief Economist
+Crisil's chief economist, Dharmakirti Joshi, predicts a possible repo rate hike in December, citing inflation risks and robust domestic demand as red flags. He also pointed to the influence of the West Asian conflict and potential monsoon impacts on supply-side inflation. While the domestic economy 
+
 ## Rupee may be undervalued despite market depreciation bias: RBI Governor
 The Reserve Bank of India (RBI) Governor Sanjay Malhotra on Wednesday said financial markets can often behave irrationally in the short term and suggested that several indicators point to the rupee being undervalued rather than overvalued.
 
@@ -293,10 +305,4 @@ Indian central bank announced three additional measures, including interoperabil
 
 ## Sebi says Jane Street’s appeal for more details a delaying ploy
 Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms a
-
-## RBI seen starting rate-hike cycle, repo could rise to 6% by FY27-end: Reports
-The Reserve Bank of India is likely to increase the repo rate to combat rising inflation and support stronger growth. Reports indicate that a rate-hike cycle of 75 basis points is anticipated, potentially reaching 6 percent by FY27. While inflation drives this tightening, geopolitical factors could 
-
-## RBI swap scheme boosts private banks' Q2 business numbers
-Private banks witnessed considerable credit and deposit growth in the second quarter of FY27. This growth was driven by the RBI's concessional dollar-rupee swap facility for FCNR(B) deposits. Major banks like Axis Bank, Kotak, and HDFC Bank reported varying growth figures, showing the impact of inte
 
