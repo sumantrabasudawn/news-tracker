@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Two Latvian nationals arrested on suspicion of trespass at RAF base
-Men arrested inside perimeter of Cambridgeshire military facility on suspicion of ‘entering a prohibited place for a purpose prejudicial to the UK’
+## Singapore gears up for smog-choked Grand Prix
+Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years
 
-## Over 100 Riyadh flights cancelled after Houthis target airport
-Saudi-led coalition said it intercepted missiles as residents hear booms over the capital
+## US justice department orders playbook refresh for frauds on government
+Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences
 
-## Iran war blows near-£12bn hole in Britain’s public finances
-FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half
-
-## French bond sell-off prompts ‘bottom fishing’ across Europe
-Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say
-
-## Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz
-Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply
-
-## Pension ‘triple lock’ was first costed at just £50mn, says ex-government adviser
-Guarantee on value of state pension was a demand of Liberal Democrats in negotiations to form coalition with Tories after 2010 election
-
-## Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska
-Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity
-
-## Former prince Andrew wins legal challenge over search warrants
-Police accept unlawfulness of warrants obtained to search properties belonging to younger brother of King Charles but said investigation ongoing
-
-## EY challenges Deloitte in outsourcing as revenue growth accelerates
-Big Four firm’s annual revenue rises 4.7% to $57bn as dealmaking and consulting services expand
-
-## Goldman to pay top executives $500mn in special bonuses
-Wall Street bank preparing to hand out equity awards from five-year scheme to senior leaders
+## OpenAI annualised revenues $20bn less than previously signalled
+AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported
 
 ## Starbucks has explored takeover of Chipotle in restaurant megadeal
 Purchase of $41bn market-value burrito chain would rank as largest restaurant acquisition of all time
 
-## UK investors face three-month wait to recoup money from property funds
-FCA seeks to avoid repeat of fund suspensions during market turmoil by restricting immediate access to investments in illiquid assets
+## Trump says US ‘will not be attacking Iran’ before midterm elections
+President says Washington and Tehran are having ‘productive discussions’
 
-## Avocado giant Mission Produce banks on orchards outside Mexico to help meet US demand
-Farms in Peru and Guatemala help offset import troubles from violence-stricken growing regions
+## Is France too blasé about borrowing costs?
+Rising bond yields raise concerns about wider contagion
 
-## Personal protective equipment market set to touch $4.84 bn in 7 years
-Government fast tracks 186 research projects to design protective workwear for the Indian climate
+## Microsoft banned from sponsoring foreign workers for US residency
+Announcement impacting several tech groups marks White House’s latest attempt to limit immigration
 
-## Editorial. Snuff it out
-Sale of nicotine pouches should be banned
+## US adds torture charges to case against former Venezuelan president
+New York federal prosecutors allege Nicolás Maduro and his wife Cilia Flores conspired to commit torture of American citizens
 
-## Ola Electric plunges nearly 10% as ₹1,000-cr rights issue puts shareholders in a bind
-The stock touched ₹32.70 on the NSE, down 9.96 per cent from Wednesday’s ₹36.32 close, before recovering to ₹34.63, a decline of 4.65 per cent
+## Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz
+Transit via vital waterway rose close to 90% of prewar levels last month but has since fallen sharply
 
-## Nifty hits intra-day high on open for the sixth time in 2026
-This is the sixth such instance in 2026. The market opening-at-day-high occurred six times in 2023. In 2025 it happened five times, and in 2024 three times
+## Boots buyout proves old age can be an asset on the UK high street
+A pivot to beauty products has helped. Its next opportunity may lie in offering more services, such as in-store health checks
+
+## Big Tech sets out its pitches on AI agents
+Race to develop new services has moved into high gear with a series of launches
+
+## French bond sell-off prompts ‘bottom fishing’ across Europe
+Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say
+
+## EY challenges Deloitte in outsourcing as revenue growth accelerates
+Big Four firm’s annual revenue rises 4.7% to $57bn as dealmaking and consulting services expand
+
+## US PERM suspension: Indian IT firms cut reliance on H-1B visas, says Nasscom
+Nasscom said immigration and skilled talent mobility are distinct issues, while H-1B visas continue to address short-term skill gaps in America
+
+## Cognizant, Infosys, TCS, Wipro and HCL among IT firms suspended from US green card programme
+"We will not accept any new or process any pending permanent labour certification applications involving these companies,” US Labour Secretary said
+
+## Jantar Mantar protest: Delhi shuts liquor vends for two days citing police inputs
+The closure follows inputs from the Delhi Police and comes ahead of a planned demonstration at Jantar Mantar on October 10
+
+## IIT Madras Research Park launches Phyto-Innovation Accelerator for plant-based innovations
+The programme is anchored by the Herbalife-IITM Centre of Excellence, established this year for sustainable and scalable herbal biomass production
+
+## MRPL, ONGC and OPaL form new petrochemicals marketing joint venture
+The new entity will oversee branding, pricing, distribution, logistics, customer management and sales planning for the group’s downstream products
 
 ## TCS trumps Q2 estimates on global, AI-led growth; Net profit jumps 15% to ₹13,884 crore
 Porsche and Best Buy wins boost growth; India business declines 10.3% sequentially
 
-## Murli Manohar Joshi cautions fair elections vital for democracy amid opposition’s ‘vote chori’ protests
-Joshi, known for occasionally speaking his mind, invoked Abraham Lincoln’s classic definition of democracy to assert that any constitutional violations must be examined by the Supreme Court
+## Public banks lag in rate cut transmission this easing cycle
+Fresh rupee loan rates fell 81 bps against a 125 bps repo cut, with public sector banks trailing private and foreign banks
 
-## bp chief meets PM, Oil Minister; to bid in OALP rounds
-bp discusses technical collaboration with ONGC to enhance production from Mumbai High and Western offshore
+## Nifty hits 52-week low as crude, FII selling weigh
+Nifty fell 1.64% to close at 22,231.80, while the Sensex declined 1.44% or 1,045.46 points to 71,593.24
 
-## GST Council: No more arrest powers, no rate rejig
-GST reforms shift focus towards faster refunds, simpler compliance and proportionate enforcement
+## US sanctions Indian firms, individuals as Iran oil crackdown widens
+On Thursday, the United States targeted two Mumbai-based companies over their alleged oil trade involvement with Iran. The sanctions affected five Indian nationals connected to SSPL Solutions Private Limited and Samudra Marine Services Private Limited. These measures are part of a broader crackdown 
+
+## Woman claims 2.5 acres was ancestral after stepmother sold it; why HC rejected plea
+The Madras High Court held that the property was not ancestral but self-acquired. As a result, under Hindu law, the man and his mother were legally entitled to execute the gift settlement deed in favour of the man’s second wife, who could subsequently sell the property.
 
 ## GST reforms: Top things announced by FM Sitharaman-led GST Council & what they mean for businesses
 The GST Council approved a series of changes aimed at easing compliance, including removing the power of tax officials to make arrests and raising the prosecution threshold fivefold to Rs 5 crore. FM Nirmala Sitharaman said the GST Council had largely dealt with anomalies arising from input tax cred
@@ -81,11 +87,11 @@ India is experiencing impressive GDP growth of 7.8%, while the World Bank revise
 ## AI regulation consultation paper next month, says IT minister Vaishnaw
 Union minister Ashwini Vaishnaw announced plans for a Consultation paper on AI regulations to address specific concerns. The focus will include AI safety, deepfakes, user harm, and the need for skilling. The government aims to establish a regulatory framework while involving various stakeholders in 
 
-## Mumbai-Pune in 48 min, Delhi-Varanasi under 4 hours: 7 bullet train routes
-Seven new bullet train corridors in works: In the coming years, Indian Railways is looking to make that a reality with seven new bullet train corridors in the works. Bullet trains typically operate at speeds of around 300 kmph, while some definitions of high-speed rail cover services operating at ar
+## Elon Musk asks why Starlink still lacks India licence, gets a reply from Rahul Gandhi
+SpaceX CEO Musk noted that while Starlink is licensed in 165 countries, it has spent five years complying with Indian laws and government requirements.
 
-## RBI rate hike impact: Bond yields may hold near 7.25% after policy shift
-In a significant policy change, the Reserve Bank of India has upped its key interest rate to 5.50% with a 25 basis point hike, the first in nearly four years. This adjustment reflects a shift to a calibrated tightening approach, hinting at potential future increases. However, contrary to market expe
+## Days after narrating drought plight to minister, Maharashtra farmer ends life by jumping in well
+Rajendra Sapate, a resident of Dhop taluka in Mohadi, jumped into a well in a paddy field between 8am and 9am, he said.
 
 ## After IndiGo, Air India and Akasa raise fuel costs amid ATF spike
 The latest fuel price hike has further raised airline operating costs, with fuel continuing to account for a substantial share of overall airline expenditure.
@@ -104,12 +110,6 @@ Mamata Banerjee said she may join the CJP’s October 10 protest at Jantar Manta
 
 ## 10 of 20 rebel TMC MPs skip Kolkata meeting to discuss disqualification notice by LS Speaker
 Half of the rebel MPs skipped a Kolkata meeting as the group faced a deadline to respond to notices over their alignment with the NCPI.
-
-## CAPF Act that governs officer posts, deputation comes into force
-The new law creates a common framework for recruitment, promotion and service conditions of officers in five Central Armed Police Forces.
-
-## Chhattisgarh court awards death penalty to three for killing cop’s wife, minor daughter
-A Fast Track Court in Chhattisgarh awarded death penalty to three men and life imprisonment to another for killing the wife and 11-year-old daughter of a police head constable in 2024
 
 ## HKTDC’s twin electronics fairs put Hong Kong in pole position
 [The content of this article has been produced by our advertising partner.] The 46th Hong Kong Electronics Fair (Autumn Edition) and the 29th electronicAsia are expected to attract some 3,200 exhibitors from 15 countries and regions and thousands of business visitors from around the world. Held conc
@@ -135,29 +135,29 @@ China’s biggest sportswear maker, Anta Sports, has strengthened its challenge 
 ## ByteDance heads first SCMP Plus Going Global 100 ranking
 TikTok owner ByteDance is China’s Going Global champion, according to a new SCMP Plus databank tracking mainland companies’ overseas expansion efforts. The social media giant topped the debut SCMP Plus Going Global 100 ranking ahead of Apple assembler Foxconn Industrial Internet, online fashion reta
 
-## The Leverage Middle Powers Have in the AI Race
-Allied democracies can offer something U.S. industry desperately needs.
+## How America and China Compare on AI
+And why the two countries have different definitions of winning.
 
-## Pakistan’s Opposition on the March
-Simmering anger over former leader Imran Khan’s imprisonment drives protesters back to the streets—and toward Islamabad.
+## Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines
+Washington is pressing Shiite groups to disarm while ignoring the real fears that keep them armed.
 
-## IMF Chief Issues Stark Economic Warning for 2027
-Kristalina Georgieva urges world leaders to implement protective measures to help keep the lights on.
+## The Next Iran War Is This Iran War
+The Iran war is, and always was, about regime change.
 
-## China Might Lap the United States on AI Adoption
-Beijing’s collaborative approach is winning over other states.
+## To Understand France’s Unrest, Look Back to 1982
+François Mitterrand’s U-turn decades ago holds lessons for today.
 
-## Can Regional Powers Prevent Ethiopia’s Conflict From Spreading?
-Addis Ababa’s forces have recaptured a key town as rifts deepen in the Horn of Africa.
+## Where the Saudi-Houthi War Stands Now
+The Yemeni rebel forces ramp up strikes on Saudi airports, oil refineries, and other critical infrastructure.
 
-## Here’s What to Do About Trump’s War Crimes
-Despite the obstacles, foreign governments and U.S. lawmakers can begin the process of holding the president accountable.
+## Can a New Credit Rating Agency Help Africans Borrow at Better Rates?
+The African Union is challenging the big three rating agencies’ approach to assessing African borrowing risk.
 
-## China’s AI Rollout Has No Off Switch
-Beijing may talk about safety, but its model of AI diffusion is made to go rogue.
+## The Real Danger May Be AI as Dumb as Us
+Talk of “super intelligence” distracts from frequent screwups.
 
-## What Does China’s New Military Base in Laos Mean?
-Beijing’s third overseas base is also its second in Southeast Asia.
+## America’s Best Answer to the China-Russia Alliance
+Washington can exploit friction, strengthen allies, and make the axis harder to sustain.
 
 ## The Afghan Taliban’s Growing Drone War Against Pakistan
 For Pakistan, the most worrying possibility is small, relatively cheap drone systems falling into the hands of terrorist groups.
@@ -187,7 +187,7 @@ So far, Jakarta is yet to come to grips with problem that has arisen alongside P
 For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
 
 ## Achieving Breakthrough: Maneuver Warfare in the Face of Robotic Mass
-In 1914, European armies entered a war with forces designed to move. Within months, they were digging themselves into the earth. Ffires from newly introduced machine guns and heavy artillery made movement across exposed ground a proposition far more deadly than in any war that had ever afflicted hum
+In 1914, European armies entered a war with forces designed to move. Within months, they were digging themselves into the earth. Fires from newly introduced machine guns and heavy artillery made movement across exposed ground a proposition far more deadly than in any war that had ever afflicted huma
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Man City must ‘stick together’ after Premier League charges, says Haaland
-Erling Haaland calls on Man City to unite as Premier League club appeals more than 100 charges of wrongdoing.
+## Police use tear gas and water cannons on student protestors in Paris
+Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
 
-## UK ex-prince Andrew search warrants quashed after police accept legal error
-London-based judge says error 'does not bring investigation to an end' as police probe disgraced former royal.
+## Trump gives top US science awards to Elon Musk and other tech executives
+The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.
 
-## Video said to show Mali army in Kidal after retaking city
-Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
+## What is the Mecca defence pact?
+Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.
 
-## Venezuela’s Nicolas Maduro and his wife charged over torture allegations
-The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.
+## US charges Venezuela’s Nicolas Maduro over torture allegations
+Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.
 
-## London voters go to polls for Holborn and St Pancras by-election
-The vote in London's Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.
+## South Africa protests turn violent amid rage over asylum ruling
+Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.
 
-## What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?
-Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.
+## Israel shuts down British consulate in occupied East Jerusalem
+The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.
 
-## More killed in Kramatorsk as Russia targets Ukraine’s transportation system
-Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.
+## How much worse can Yemen’s humanitarian crisis become?
+UN says fighting has displaced more than 200,000 people in five weeks.
 
-## Saudi-led coalition says it intercepts three Houthi ballistic missiles
-Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.
+## Israeli settlers take Palestinian olives, and their harvest traditions
+As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.
 
 ## GST Council 57th Meeting: Faster Refunds, ITC, Registration, Lower Penalties — All Key Announcements Explained
 GST Council 2026 Highlights: The GST Council has approved a series of major reforms, including faster GST refunds, easier registration and cancellation, wider ITC eligibility, no notices below ₹10,000, lower prosecution and penalty thresholds, simplified compliance for small businesses and easier GS
