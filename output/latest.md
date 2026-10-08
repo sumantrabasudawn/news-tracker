@@ -1,109 +1,127 @@
 # AION Intelligence
 
+## Deloitte fined £6mn for audit failures at Southeastern rail operator
+Accounting watchdog criticises ‘highly concerning pattern of failure’ in work at Go-Ahead over five years
+
+## US critical minerals stockpile risks driving up prices, defence groups warn
+Industry urges Washington to ‘proceed with caution’ as competition for scarce materials intensifies
+
+## Badenoch’s speech drew a moral dividing line between Tories and Reform
+Opposition leader’s remarks will help distance her party from unpopular views on Englishness and court professional voters
+
+## British consulate in Jerusalem becomes ‘UK Mission’ after Israel orders closure
+Arrangement is part of a deal between Israel and UK aimed at containing escalating diplomatic feud
+
 ## Samsung profit surges ninefold to $80bn on AI chip demand
 World’s largest memory-chip maker posts record earnings for the three months to September
 
-## IMF’s Georgieva urges governments to rein in spending
-Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields
+## Royal Navy serviceman charged with spying for foreign power
+Teddy Young set to appear at Westminster Magistrates’ Court on Thursday
 
-## China races to build AI data centres across energy-rich hinterland
-In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition
+## Iran war blows near-£12bn hole in Britain’s public finances
+FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half
 
-## Higher mortgage rates inflict ‘pain’ on UK housing market
-Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds
+## Burnham heads to Berlin in bid to win support from Merz for closer EU ties
+Prime minister to hold talks after embarking on review of government’s European policy
 
-## FirstFT: China rejects EU request for voluntary curbs on hybrid car exports
-Also in today’s newsletter: SpaceX credit risk jumps and India raises interest rates
+## Germany’s ex-spymaster admits holding files but denies treason
+August Hanning’s lawyer says his client was ‘in possession’ of confidential documents but never paid for them or passed them on to foreign powers
 
-## Trump considers ‘terminating’ campaign advisers after Balkans trip
-President says Chris LaCivita and James Blair guiding pro-Russian government less than a month before midterms could be a ‘conflict’
+## DRam demand and dramas are Asian obsessions
+DRam demand and dramas are Asian obsessions
 
-## AI upends Singapore’s ‘quant Olympics’
-Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars
+## Tesco predicts less boozy Christmas for UK shoppers
+Supermarket group raises profit outlook as it benefits from weaker trading at Asda and Morrisons
 
-## Fed minutes indicate broad agreement for another rate rise this year
-Records from the Fed’s September decision showed a clear consensus
+## FirstFT: Iran war wipes £12bn from UK public finances
+Also in today’s newsletter: China-EU trade and UK mortgage rates
 
-## SEC warns asset managers against collaborating on activist campaigns
-US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members
+## Kirkland’s money machine goes dark
+The world’s highest-grossing law firm will stop sharing its financial figures with the legal industry’s flagship ranking of law firm profits and revenues
 
-## Diesel price jumps after IEA says no additional fuel will be released
-Agency members say 100mn barrels promised by G7 will come from 400mn stock release agreed in March
+## Indian Food Ministry finds discrepancies in GST filings by sugar mills
+Government initiates action against erring units, asks them to furnish further details from August 20-31
 
-## Kirkland & Ellis to stop disclosing financial performance
-World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking
+## MRF receives significant reduction in tax demand in ongoing CST litigation
+The company is examining the order and will take an appropriate decision to challenge the demand, the announcement said
 
-## Sensex today | Stock Market Live: Stock to buy today: BHEL (₹448.90)
-Sensex, Nifty, Stock Price Live Updates: The short-term outlook is bullish for Bharat Heavy Electricals Limited (BHEL). After surging over 5 per cent on Tuesday, the stock remained stable on Wednesday. Tuesday’s rise has taken the share price well above a key resistance level of ₹439. It also marks 
+## Nifty falls below 22,300 at noon as Adani Stocks, ITC, Metals slide
+IT sector emerges as lone bright spot
 
-## Indian stock markets set for weak opening as global cues turn negative
-Weakness across Asia followed adverse signals from Europe and the US, while investors awaited TCS quarterly results and its outlook
+## Crunchyroll brings Manga to India with 250+ titles under new premium tier
+The service, called Crunchyroll Manga, is accessible on iOS, Android, and web, and is bundled under the new “Ultimate Fan” membership, which allows streaming on up to six devices simultaneously
 
-## Samsung projects nearly nine-fold jump in Q3 operating profit on AI chip demand
-Tight supplies of DRAM, NAND and high-bandwidth memory have lifted prices as artificial intelligence infrastructure expands globally
+## Sensex today | Stock Market Live: Sensex plunges over 1,100 points, Nifty falls 1.72% as RBI stance, crude prices weigh
+Sensex, Nifty, Stock Price Live Updates: Sensex dragged 1129.46 pts or 1.55% to 71,509.24 by 2.18 pm, and Nifty 50 plunged 388.25 pts or 1.72% to 22,214.80 from previous closing levels.
 
-## Amazon cuts jobs in Stores unit as latest layoffs affect US, India and UK
-The latest reductions come during Prime Big Deal Days and follow a larger round of 30,000 job cuts that began last year
+## TCS Q2 Results LIVE: TCS shares give up early gains amid market slump, Q2 results today, GM Breweries PAT rises in Q2
+TCS Q2 results today live updates, Q2FY27 live updates: businessline brings to you the latest Q2 results 2026 updates on our live, scroll down for more
 
-## India, Canada strengthen security ties with focus on crime, terrorism and extradition
-The agreement follows sustained bilateral engagement and seeks stronger communication, information-sharing and practical cooperation on shared security concerns
+## Citi tops India investment banking rankings, doubles revenue in 2026
+Citi also leads India’s mergers and acquisitions advisory league table with a 28% market share, having advised on deals worth $36.81 billion across 10 transactions
 
-## India, Ghana sign MoU to boost agricultural research and technology transfer
-The agreement will facilitate scientific exchanges and collaborative projects while addressing crop production, processing, value addition and post-harvest losses
+## Vedanta declares first interim dividend of ₹5 a share
+The dividend marks the first payout by Vedanta since the completion of its demerger, reinforcing the company’s focus on delivering value to shareholders
 
-## RBI removes Paytm Payments Bank from scheduled banks list
-The move follows regulatory action against the bank and a Delhi High Court order directing its winding up under applicable laws
+## RBI rate hike impact: Bond yields may hold near 7.25% after policy shift
+In a significant policy change, the Reserve Bank of India has upped its key interest rate to 5.50% with a 25 basis point hike, the first in nearly four years. This adjustment reflects a shift to a calibrated tightening approach, hinting at potential future increases. However, contrary to market expe
 
-## India’s Venezuelan oil imports set to hit highest level in nearly seven years
-India’s crude sourcing is shifting as Venezuelan barrels offer refiners an attractive price advantage over increasingly costly Russian supplies
+## No MDR on UPI from October 15? Government considers delaying rollout of fees: Report
+MDR on UPI: Last month, the government ended the zero-fee regime for UPI by allowing merchants to be charged 0.4% on transactions above Rs 2,000. UPI is used by more than 500 million people across the country for payments ranging from roadside cups of tea to iPhones. The charge is scheduled to take 
 
-## Oil remains beyond $100 per barrel as Middle East supply concerns persist
-As tensions escalate in the Middle East, particularly around the Strait of Hormuz, oil prices have surged amid fears of potential supply disruptions. Recent assaults on tankers heighten the danger of transporting crude through this vital corridor. Additionally, American crude inventories are dwindli
+## Gold price prediction: What is the gold price outlook on October 8, 2026?
+Gold price prediction today: Gold and silver prices are expected to trade with a negative bias in the coming days. On the lower side, MCX Gold is expected to gradually move towards the Rs 1,45,000 level, which remains the key downside target. A decisive break below the immediate support zone could a
 
-## Airtel hikes postpaid tariffs, others may follow
-Bharti Airtel is set to raise its postpaid tariffs by 3-10% starting Thursday, which affects all users. The new plans will incorporate free international roaming, valued at Rs 2,000 for each SIM once per trip. This change means that postpaid plans will now begin at Rs 499, reflecting increased costs
+## Russia eyes return to Europe's gas market despite sanctions, Ukraine war: Report
+Reports indicate that Russia is looking to reestablish gas supplies via the Nord Stream pipelines by negotiating with US investors, including Jared Kushner and a Russian adviser to Putin. This effort faces formidable challenges due to existing US and EU sanctions. Germany has taken a hard line again
 
-## Brookfield to acquire 8 ESR logistics parks for $450 million
-Brookfield is entering the industrial and logistics real estate market by acquiring eight warehousing parks from ESR India. This acquisition amounts to $450 million and expands Brookfield's operations beyond office and hospitality spaces. The warehousing portfolio spans nearly 400 acres across major
+## Why BSE Sensex, Nifty50 are crashing on October 8, 2026? Top reasons
+Stock market crash today: At 1:25 PM, Nifty50 was trading at 22,260.70, down 342 points or 1.51%. BSE Sensex was at 71,670.06, down 968 points or 1.33%. Sustained selling in large-caps by the FIIs have contributed significantly to this trend. With the US 10-year bond yield hovering above 5.3%, FIIs 
 
-## Consolidated account statements to reflect deposits in banks
-Individuals will soon benefit from easier access to financial assets in one place through RBI's measures. Interoperable account aggregators will enable customers to access financial information across various banks with consent. Survivors of deceased account holders will find it simpler to discover 
+## Man got leave encashment, but exemption limit was hiked later; ITAT allows full Rs 12.27 lakh relief
+The ITAT Chennai bench viewed the increase from Rs 3 lakh to Rs 25 lakh as an enhancement of an existing benefit, rather than the creation of a new exemption. The Tribunal also found the change beneficial and remedial in nature and said it was intended to reduce hardship and bring parity between gov
 
-## At 107, National Company Law Tribunal OKs record insolvency cases
-The National Company Law Tribunal approved 107 corporate insolvency cases in the last quarter of the fiscal year. These cases had an estimated value of Rs 11,000 crore compared to previous quarters. However, the tribunal now faces significant vacancies among its members and challenges in its operati
+## Stock market today: BSE Sensex plunges over 750 points, NSE Nifty50 slips below 22,400
 
-## Premium spirits sales soar past cheaper liquor: Report
-Premium spirits in India are experiencing significant growth with a rise in sales volumes projected until 2025. Cheaper liquor categories show slower growth, which indicates a changing market composition. Indian malt whiskies are among the fastest-growing segments, surpassing Scotch malts in sales v
 
-## Survey: 12% in India report being scammed in last 1 year
-According to a recent GSMA survey, 12% of respondents in India reported being scammed recently. Online shopping scams are the most prevalent type among Indian consumers compared to other scams. The survey indicates that messaging apps are frequently used by scammers targeting Indian victims. GSMA hi
+## Rupee rises 10 paise against US dollar: What is supporting the currency?
+The rupee opened at 96.71 against the dollar but improved to 96.65 thanks to intervention from the Reserve Bank of India. External factors, like a robust US dollar and climbing crude oil prices, are still putting pressure on the currency. Additionally, India's forex reserves are diminishing, leading
 
-## Rupee may be undervalued, markets can be irrational: RBI governor Sanjay Malhotra
-RBI governor Sanjay Malhotra indicated that the rupee is undervalued and the central bank will intervene. The rupee closed at 96.78, down 36 paise from the previous day, hitting a five-month low. Malhotra mentioned that global AI stock corrections could attract foreign capital to India. Despite a ro
+## Gauhati HC sets aside life term of woman accused of killing one-month-old daughter, rejects confession
+The Gauhati High Court has acquitted a woman sentenced to life imprisonment for allegedly murdering her one-month-old daughter
 
-## Ahead of COP31 next month, what has India committed to and what does it expect?
-COP31 will take place from November 9 to 20, 2026 in Turkiye, with Australia serving as the president of negotiations
+## Rising onion, edible oil, LPG prices push up cost of home thali: Crisil report
+The cost of a vegetarian thali rose to ₹30.8 in September from ₹28.1 a year earlier, while the non-vegetarian thali increased to ₹59.5 from ₹56.
 
-## LCA Mk-1A, LCA Mk-2, MRFA: Key projects new IAF chief is expected to push
-Air Marshal Ashutosh Dixit’s appointment comes at a critical juncture as the Indian Air Force grapples with a shortage of fighter jets
+## After recent Delhi-NCR rape cases, SC orders more patrolling near schools, cab driver checks
+The court also called for dedicated command centres or “war rooms” to monitor police patrolling and CCTV infrastructure.
 
-## Oppn protest demanding CEC Gyanesh Kumar's resignation to continue in Delhi after day 2 of detentions
-Around 200 lawmakers faced police barricades during attempts to march to Jantar Mantar, including Congress leaders Rahul and Priyanka Gandhi.
+## Delhi cops deploy teams at Connaught Place as INDIA bloc plans lunch, protest against CEC
+Paramilitary forces are also being sent to the area in case the leaders try to move towards Jantar Mantar or the Election Commission’s office again.
 
-## Reserve Bank raises rates by 25 basis points; signals more tightening ahead
-The increase will make corporate and retail loans, including mortgages, more expensive amid geopolitical uncertainty.
+## Seemapuri collapse: 3-year-old survives with minor injuries, mother among 5 dead
+Neighbours found the three-year-old child crying next to his grandmother Salma, who was writhing in pain
 
-## ECINET flaws were flagged to poll body, cyber-security agency CERT-In in July: Researcher
-CERT-In recently confirmed one fix, but many critical vulnerabilities remain unresolved, raising concerns about electoral security.
+## Shooter behind Mad Sandhu's murder arrested in Ahmedabad; cops to probe link with gangster Goldy Dhillon
+Officials are also probing the link between Sandhu's killing and gangster Goldy Dhillon’s international network.
 
-## India plans to invite Canadian PM Mark Carney as Republic Day chief guest amid trade deal talks
-PM Narendra Modi is expected to visit Canada in December, alongside trips to Belgium and the US.
+## Punjab CBI probe: SC puts off state’s plea, declines interim order
+The case has unfolded against a charged political backdrop in Punjab, with assembly polls due early next year and the Mann government alleging CBI and ED action is politically motivated targeting
 
-## Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes
-According to preliminary information, the possibility of the aircraft having encountered lightning amid adverse weather conditions is being examined.
+## 'Lost control of its Frankenstein': India lambasts Pakistan's doublespeak on terrorism at UN
+The first secretary also recalled the 9/11 terror attacks in New York, whose main perpetrator, Osama Bin Laden, was found in Pakistan's Abbottabad.
 
-## India proposes BRICS sherpa Sudhakar Dalela as Nepal envoy
-Dalela played a key role as the official in-charge of the team at the external affairs ministry that helped forge consensus on a joint BRICS declaration.
+## Uniqlo sees profits soar in China despite Beijing-Tokyo tensions
+Fast Retailing, the parent company of Japanese clothing retailer Uniqlo, has defied the ongoing political tensions between Beijing and Tokyo and soft consumer sentiment in China to log a rebound in sales and profits on the Chinese mainland. The Japanese firm said the 2026 financial year, which ended
+
+## Hong Kong IPO boom at risk as cornerstone backers get cold feet, sources say
+Exuberance among cornerstone investors in Hong Kong’s booming initial public offering (IPO) market seems to be fading, forcing some issuers that had hoped to list this month to postpone their offerings. With more than 60 per cent of new listings in the third quarter now trading below their issue pri
+
+## How Puma fits into Chinese sportswear maker Anta’s plan to challenge global rivals
+China’s biggest sportswear maker, Anta Sports, has strengthened its challenge to global rivals such as Nike and Adidas by becoming the largest shareholder in Puma, the German brand recognised worldwide for its sports and casual footwear. The Hong Kong-listed company completed the acquisition of a 29
+
+## ByteDance heads first SCMP Plus Going Global 100 ranking
+TikTok owner ByteDance is China’s Going Global champion, according to a new SCMP Plus databank tracking mainland companies’ overseas expansion efforts. The social media giant topped the debut SCMP Plus Going Global 100 ranking ahead of Apple assembler Foxconn Industrial Internet, online fashion reta
 
 ## More global investors eye Chinese equities, ending 4-year underweight run, bank says
 Global investors are taking another look at Chinese equities after years of cautious positioning, drawn by relatively cheap valuations and opportunities in artificial intelligence, although an end to persistent selling does not indicate an outright bullish turn, according to analysts. Global active 
@@ -117,17 +135,8 @@ The furore over alleged construction defects at luxury development One Stanley t
 ## Hong Kong tech index to harness fast-growth companies in bid for better performance
 Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has missed out on artificial intelligence-driven gains. The threshold is among a set of n
 
-## Why Morgan Stanley sees more upside in Hong Kong offices than New York towers
-Higher interest rates have weighed on property markets in both Hong Kong and New York, but Morgan Stanley sees greater upside potential in the Asian financial hub – particularly the office segment – in the months ahead, according to its latest report. The US investment bank highlighted the similarit
-
-## Family offices branch out into private equity, infrastructure and alternative investments
-Some financial analysts and wealth managers in recent years have suggested that the second- and third-generation leaders of family offices in Asia are moving away from the basic principles that helped to create and accumulate their existing assets, but that is not strictly accurate. Rather, just as 
-
-## Asian investors turn to housing, real assets as global tension shakes market confidence
-Amid various macro uncertainties, interest in private credit declined sharply to 48 per cent from 71 – among alternative investments – while interest in real estate jumped to 52 from 39 per cent, according to the 2026 Asia Advisor Survey released today by financial technology company iCapital. This 
-
-## US firm ArriVent’s plunge shows risks facing China’s biotech expansion into global markets
-US firm ArriVent BioPharma’s shares plummeted after a late-stage trial failure involving a cancer drug licensed from China, a setback that analysts said highlighted the challenges facing Chinese biotech companies expanding overseas. New York-listed ArriVent closed down nearly 47 per cent on Tuesday 
+## The Leverage Middle Powers Have in the AI Race
+Allied democracies can offer something U.S. industry desperately needs.
 
 ## Pakistan’s Opposition on the March
 Simmering anger over former leader Imran Khan’s imprisonment drives protesters back to the streets—and toward Islamabad.
@@ -150,8 +159,17 @@ Beijing may talk about safety, but its model of AI diffusion is made to go rogue
 ## What Does China’s New Military Base in Laos Mean?
 Beijing’s third overseas base is also its second in Southeast Asia.
 
-## How to Avoid Disaster in the Next Iran War
-Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.
+## How Indonesians Are Being Recruited Into the Russian Army
+So far, Jakarta is yet to come to grips with problem that has arisen alongside President Prabowo Subianto’s efforts to build a closer relationship with Russia.
+
+## From Military Base to Pax Silica: Clark and Capas in Philippine History
+The history of U.S. involvement in the region demonstrates how domestic political dynamics can get entangled with regional and global geopolitics.
+
+## Trade Agreement With US Close to Completion, Thai Prime Minister Says
+Anutin Charnvirakul said that he expected to sign the Agreement on ⁠Reciprocal Trade during President Donald Trump's next visit to Asia.
+
+## The Lessons the Taliban Have Learned
+Afghanistan's leaders haven’t changed ideologically. But five years after returning to power, they have learnt from where the "first emirate" went wrong.
 
 ## China’s High-Tech Ambitions Have a Blue-Collar Status Problem
 Most Chinese still view vocational schools and skilled labor as low status and undesirable.
@@ -165,17 +183,11 @@ Ban Keun poses only a limited direct threat to the South China Sea or Taiwan, bu
 ## AI and the Risk to Democracy
 Insights from Matthew Botvinick.
 
-## Russia’s Wildberries Finding Fertile Ground in Central Asia
-The Russian e-commerce retailer has announced yet another new logistics facility, this time in Uzbekistan.
+## Ten Wartime Technologies at America’s 250th
+For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
 
-## Poland’s President in the Philippines: Black Hawks, ASEAN, and US Defense Interests
-Could Nawrocki’s visit to Manila serve to promote further Black Hawk sales across ASEAN, potentially benefiting U.S. industrial interests?
-
-## Pakistan’s Solar Revolution is Reshaping its Power Sector
-Solar power generation has expanded rapidly in recent years and has overtaken nuclear power generation for the first time.
-
-## As Tide Turns Against Modi, More Parties Back INDIA Bloc Protests
-Police detained scores of opposition lawmakers, who held a sit-in to press their demand for the resignation of Chief Election Commissioner Gyanesh Kumar.
+## Achieving Breakthrough: Maneuver Warfare in the Face of Robotic Mass
+In 1914, European armies entered a war with forces designed to move. Within months, they were digging themselves into the earth. Ffires from newly introduced machine guns and heavy artillery made movement across exposed ground a proposition far more deadly than in any war that had ever afflicted hum
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience
@@ -194,12 +206,6 @@ With the significant Israeli and U.S. military attacks against Iran in 2025 and 
 
 ## Certainty is a Luxury Ukrainians Must Create
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
-
-## The AI-Assisted Strategic Own Goal in the Kill Chain
-For eighty years, the Western alliance has anchored its strength in moral legitimacy, shared values, and the resulting credibility to shape international norms. NATO’s durability through the Cold War rested on more than nuclear deterrence alone: a shared conviction that the alliance represented a ru
-
-## China is Watching Us. Is the U.S. Air Force Still Watching China?
-On Oct. 1, 2026, Beijing celebrated the 77th anniversary of the founding of the People’s Republic of China and the beginning of the end for the U.S. Air University’s China Aerospace Studies Institute. The institute was one of several centers of excellence established across the U.S. military’s profe
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why is Guantanamo prison still open?
-Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
+## Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
+'Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,' his lawyer said.
 
-## Democrats sue US President Trump over taxpayer-funded ad campaign
-Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
+## ‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
+Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.
 
-## Death of 87-year old sparks furious Spain housing protests
-Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
+## How Gaza war sped up India’s shift towards Israel under Modi
+As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.
 
-## Yemeni government forces claim 1,860 Houthis ‘neutralised’
-Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.
+## Christa Pike almost taken off life support before she woke up
+Death row inmate Christa Pike has regained consciousness following a botched execution in Tennessee, her lawyer says.
 
-## How kidnappings are hitting Nigeria’s Borno families hard
-Across Borno, abductions are leaving families with depleted savings, missing loved ones and disrupted education.
+## Video: Signs removed from British consulate in occupied East Jerusalem
+Signs from the British consulate in occupied East Jerusalem were removed overnight as a deadline for its closure loomed.
 
-## US stocks slide as oil prices fluctuate over renewed Iran war fears
-Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.
+## Why Israel loves skunk water
+Israel’s foul-smelling weapon turns Palestinian repression into a sales pitch.
 
-## Russia dismisses reports of second plague case as ‘false information’
-Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.
+## India defends satellite internet approval process after Elon Musk jab
+Musk has claimed unnamed entities are blocking Starlink's launch to maintain their monopoly.
 
-## Saudi Arabia confirms three dead in Houthi strikes on its airports
-Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.
+## Southampton manager Eckert can stay on despite role in ‘spygate’ scandal
+Tonda Eckert let off with fine and reprimand but avoids ban and will continue in his role with the club.
+
+## RBI Rate Hike: India Inc CFOs see limited impact on growth, flags crude, rupee risks
+India Inc's finance heads took the rate hike rather positively, as the RBI also raised India’s GDP growth forecast to 7.1% for FY27 from its earlier projection of 6.7%. Though they cautioned that domestically, a weak monsoon and El Niño put the Rabi crop and food prices at risk. Externally, crude pr
+
+## NBFC services to banks will attract 18% GST
+The interest on the underlying loan will remain exempt from GST. The 18% levy will apply to the taxable service supplied by the NBFC to the bank in the co-lending arrangement. The committee also decided to align the valuation of the NBFC's service with the methodology prescribed by the Reserve Bank 
 
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
@@ -267,11 +279,14 @@ India’s audit rotation cycle is prompting companies to scrutinise prospective 
 ## Tata Trusts rift deepens: Noel Tata-led trustees say 'Trusts do not run Tata Sons' as they defend restructuring plan to avoid listing
 Trustees of Tata Trusts have rebuffed objections from two senior trustees concerning a proposed restructuring of Tata Sons. They emphasized that the Reserve Bank of India has not required a listing for Tata Sons. Additionally, they asserted that the restructuring does not jeopardize the charitable s
 
-## Single-window GST registration for multistate businesses set for pilot this week
-In a significant move, the central government is set to implement a consolidated goods and services tax registration system for businesses operating across multiple states. This innovative system will facilitate a single application process, minimizing the administrative challenges associated with m
+## UPI MDR rollout may be deferred beyond festive season to Jan 1; shares fall: Report
+A proposal is under consideration to defer the rollout of merchant discount rates on UPI to January 1. This decision may provide relief to retailers ahead of the festive season.
 
-## Employers may soon be able to claim ITC on GST paid for employee insurance cover
-Under the Goods and Services Tax law, GST is exempt on individuals buying life or health policies for themselves or their family. However, when a business buys life or health cover for its employees, tax is charged on that cover, and until now the business could not claim ITC on it.
+## RBI excludes Paytm Payments Bank from list of scheduled banks
+The Reserve Bank of India (RBI) has excluded Paytm Payments Bank Limited (PPBL) from the list of scheduled banks under the Second Schedule to the Reserve Bank of India Act, 1934.
+
+## After RBI policy rate hike, several banks raise lending rates
+In a response to the Reserve Bank of India's recent hike in the benchmark interest rate, several leading banks have amended their lending rates accordingly. Punjab National Bank set its Repo Linked Lending Rate at 8.35 percent, effective from October 8. Indian Bank has increased its lending rate to 
 
 ## Markets can be irrational in the short run: What RBI Governor Sanjay Malhotra said as rupee nears lifetime low
 The rupee neared its record low after the RBI raised the repo rate to 5.50%. Governor Sanjay Malhotra said the currency may be undervalued, while analysts viewed the hawkish stance and higher inflation outlook as supportive of the rupee.
@@ -287,10 +302,4 @@ India's foreign exchange reserves have fallen for the fourth consecutive week to
 
 ## RBI allows Sebi-regulated depositories to include customer deposit details in statements: What changes for investors?
 RBI announced measures to simplify financial tracking, allowing SEBI-registered depositories to include bank deposit details alongside securities, equity and debt holdings in a single consolidated statement by end-2026. It also approved interoperability among NBFC account aggregators, enabling finan
-
-## RBI Oct MPC additional measures: Account aggregator interoperability, deposit statements, markets panel
-Indian central bank announced three additional measures, including interoperability among NBFC account aggregators, inclusion of bank deposits in consolidated account statements and a technical consultative committee for financial markets.
-
-## Sebi says Jane Street’s appeal for more details a delaying ploy
-Sebi has called Jane Street’s demand for additional documents a “dilatory” tactic as the Wall Street trading firm challenges the regulator’s market manipulation allegations. The dispute centres on Jane Street’s trading in Nifty Bank derivatives. The outcome could influence how global trading firms a
 
