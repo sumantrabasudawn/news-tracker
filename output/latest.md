@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## Samsung profit surges ninefold to $80bn on AI chip demand
+World’s largest memory-chip maker posts record earnings for the three months to September
+
+## IMF’s Georgieva urges governments to rein in spending
+Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields
+
+## China races to build AI data centres across energy-rich hinterland
+In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition
+
+## Higher mortgage rates inflict ‘pain’ on UK housing market
+Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds
+
 ## FirstFT: China rejects EU request for voluntary curbs on hybrid car exports
 Also in today’s newsletter: SpaceX credit risk jumps and India raises interest rates
 
-## Trump considers ‘terminating’ campaign advisers over Balkans trip
-President says Chris LaCivita and James Blair guiding pro-Russian party less than a month before midterms could be a ‘conflict’
+## Trump considers ‘terminating’ campaign advisers after Balkans trip
+President says Chris LaCivita and James Blair guiding pro-Russian government less than a month before midterms could be a ‘conflict’
 
 ## AI upends Singapore’s ‘quant Olympics’
 Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars
@@ -12,17 +24,8 @@ Nigerian student Victor Ayebameru takes first place in competition that identifi
 ## Fed minutes indicate broad agreement for another rate rise this year
 Records from the Fed’s September decision showed a clear consensus
 
-## Iran war blows near-£12bn hole in Britain’s public finances
-FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half
-
-## US government bonds steady after strong 10-year Treasury auction
-French, Italian and UK government bonds under pressure in volatile trading
-
 ## SEC warns asset managers against collaborating on activist campaigns
 US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members
-
-## Marco Rubio urges western countries to uphold traditional values
-US secretary of state warns alternative is ‘atrophy, servitude and decline’ in Athens speech
 
 ## Diesel price jumps after IEA says no additional fuel will be released
 Agency members say 100mn barrels promised by G7 will come from 400mn stock release agreed in March
@@ -30,86 +33,86 @@ Agency members say 100mn barrels promised by G7 will come from 400mn stock relea
 ## Kirkland & Ellis to stop disclosing financial performance
 World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking
 
-## The online life of the Flydubai attacker
-Co-pilot of flight 1073 gravitated towards the ‘manosphere’ and expressed misogynistic views
+## Sensex today | Stock Market Live: Stock to buy today: BHEL (₹448.90)
+Sensex, Nifty, Stock Price Live Updates: The short-term outlook is bullish for Bharat Heavy Electricals Limited (BHEL). After surging over 5 per cent on Tuesday, the stock remained stable on Wednesday. Tuesday’s rise has taken the share price well above a key resistance level of ₹439. It also marks 
 
-## SpaceX credit risk jumps on worries over its borrowing spree
-Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips
+## Indian stock markets set for weak opening as global cues turn negative
+Weakness across Asia followed adverse signals from Europe and the US, while investors awaited TCS quarterly results and its outlook
 
-## London hedge fund Arini falls 16 per cent on soured credit bets
-Flagship strategy raised $1.5bn in recent weeks after suffering three consecutive months of losses
+## Samsung projects nearly nine-fold jump in Q3 operating profit on AI chip demand
+Tight supplies of DRAM, NAND and high-bandwidth memory have lifted prices as artificial intelligence infrastructure expands globally
 
-## Meta acts on 5.3 million child sexual exploitation items in India, deploys new AI tools
-Meta said predators have shifted tactics to advertising, using seemingly harmless ads to direct people towards illegal material hosted elsewhere.
+## Amazon cuts jobs in Stores unit as latest layoffs affect US, India and UK
+The latest reductions come during Prime Big Deal Days and follow a larger round of 30,000 job cuts that began last year
 
-## US proposes $70,000 OPT fee for international students, $30,000 for renewals
-The proposal could affect Indian students, who formed the largest group of international students enrolled in US institutions in 2024-25
+## India, Canada strengthen security ties with focus on crime, terrorism and extradition
+The agreement follows sustained bilateral engagement and seeks stronger communication, information-sharing and practical cooperation on shared security concerns
 
-## SEBI relaxes private placement norms, allows up to 17 ISINs to mature in a year
-The revised framework includes separate limits for plain vanilla debt, structured debt and specified bonds, with some securities excluded from calculations
+## India, Ghana sign MoU to boost agricultural research and technology transfer
+The agreement will facilitate scientific exchanges and collaborative projects while addressing crop production, processing, value addition and post-harvest losses
 
-## RBI rate hike: Major banks raise lending rates, making loans costlier
-The lending-rate increases took effect or will take effect from October 8, while some banks kept MCLR and Base Rate unchanged
+## RBI removes Paytm Payments Bank from scheduled banks list
+The move follows regulatory action against the bank and a Delhi High Court order directing its winding up under applicable laws
 
-## Starlink being blocked by certain oligarchs in India, a crime against people: Elon Musk
-Company says it has built the ground infrastructure but crucial last mile to connect users remains uncovered
+## India’s Venezuelan oil imports set to hit highest level in nearly seven years
+India’s crude sourcing is shifting as Venezuelan barrels offer refiners an attractive price advantage over increasingly costly Russian supplies
 
-## SEBI introduces colour-coded credit risk-o-meter for debt securities
-The new framework will apply to listed and proposed listed debt instruments issued through public issues or private placements.
+## Oil remains beyond $100 per barrel as Middle East supply concerns persist
+As tensions escalate in the Middle East, particularly around the Strait of Hormuz, oil prices have surged amid fears of potential supply disruptions. Recent assaults on tankers heighten the danger of transporting crude through this vital corridor. Additionally, American crude inventories are dwindli
 
-## Palm oil producing countries keen on ties with India
-They stress the need for a collaborative approach to ensure reliable edible oil supplies, supporting farmers and promoting sustainable growth
+## Airtel hikes postpaid tariffs, others may follow
+Bharti Airtel is set to raise its postpaid tariffs by 3-10% starting Thursday, which affects all users. The new plans will incorporate free international roaming, valued at Rs 2,000 for each SIM once per trip. This change means that postpaid plans will now begin at Rs 499, reflecting increased costs
 
-## Lekha Wireless to integrate Analog Devices radio technology in 5G and 4G products
-irm will upgrade its RAN portfolio with ADI’s Samana platform for simpler, lower-power designs
+## Brookfield to acquire 8 ESR logistics parks for $450 million
+Brookfield is entering the industrial and logistics real estate market by acquiring eight warehousing parks from ESR India. This acquisition amounts to $450 million and expands Brookfield's operations beyond office and hospitality spaces. The warehousing portfolio spans nearly 400 acres across major
 
-## Loans set to get dearer as RBI hikes repo rate after 44 months
-The Reserve Bank of India has announced a 25 basis points increase in the repo rate to 5.5%. This decision reflects growing inflation pressures and stronger than anticipated economic growth. The rise in interest rates will lead to higher loan EMIs, impacting consumption during the festive season. Ba
+## Consolidated account statements to reflect deposits in banks
+Individuals will soon benefit from easier access to financial assets in one place through RBI's measures. Interoperable account aggregators will enable customers to access financial information across various banks with consent. Survivors of deceased account holders will find it simpler to discover 
 
-## RBI’s big move: Your consolidated account statement will now have details of MFs, stocks & FDs!
-For individuals who receive a CAS, this means information on their mutual funds, stocks and, going forward, fixed deposits (FDs) can be viewed together in one place. The change will allow demat account holders to see details of their demat holdings as well as bank deposit accounts together in a sing
+## At 107, National Company Law Tribunal OKs record insolvency cases
+The National Company Law Tribunal approved 107 corporate insolvency cases in the last quarter of the fiscal year. These cases had an estimated value of Rs 11,000 crore compared to previous quarters. However, the tribunal now faces significant vacancies among its members and challenges in its operati
 
-## Woman got Rs 12.28 lakh, but sought maintenance from granddaughter & son’s widow; Court rejects plea
-An 83-year old retired woman in Kerala filed a case seeking monthly maintenance payment of Rs 15,000 and also claimed a share in the widow family pension. The woman is a retired employee of the Kerala Government Fisheries Department and receives a pension following her retirement. The court said it 
+## Premium spirits sales soar past cheaper liquor: Report
+Premium spirits in India are experiencing significant growth with a rise in sales volumes projected until 2025. Cheaper liquor categories show slower growth, which indicates a changing market composition. Indian malt whiskies are among the fastest-growing segments, surpassing Scotch malts in sales v
 
-## Housing society sought defaulter tag over Rs 1.42 lakh dues; court gives doctor interim protection
-The man, a doctor in Mumbai, owns a ground-floor unit in Building No. 1 of the housing society. He said he was willing to pay the maintenance charges, but the society had not issued him any bills since 2014. By April 2015, the outstanding maintenance amount had risen to Rs 1.42 lakh. The housing soc
+## Survey: 12% in India report being scammed in last 1 year
+According to a recent GSMA survey, 12% of respondents in India reported being scammed recently. Online shopping scams are the most prevalent type among Indian consumers compared to other scams. The survey indicates that messaging apps are frequently used by scammers targeting Indian victims. GSMA hi
 
-## After 3.5 years, RBI hikes repo rate: How does it impact your EMIs & loan interest payout? Explained
-Why does a hike in repo rate hit your pocket? Does the repo rate hike mean an automatic increase in your loan EMIs? Is it better for you to opt for an EMI hike or an extension of your loan tenor? And how does this step from RBI help people looking to invest in fixed deposits? We decode:
+## Rupee may be undervalued, markets can be irrational: RBI governor Sanjay Malhotra
+RBI governor Sanjay Malhotra indicated that the rupee is undervalued and the central bank will intervene. The rupee closed at 96.78, down 36 paise from the previous day, hitting a five-month low. Malhotra mentioned that global AI stock corrections could attract foreign capital to India. Despite a ro
 
-## Dinar Weakens Against Dollar: Iraq resets rate to 1,500 per US dollar; market crosses 1,700
-Iraq has officially established a new currency conversion rate of 1,500 dinars for every dollar, responding to recent market instability. The reality, however, shows the market rate has surged past 1,700 dinars due to persistent economic obstacles. Factors including the US-Iran tensions and shipping
+## Ahead of COP31 next month, what has India committed to and what does it expect?
+COP31 will take place from November 9 to 20, 2026 in Turkiye, with Australia serving as the president of negotiations
 
-## Starlink gets India-ready with 20 gateway sites, local data controls
-Starlink has completed a major ground infrastructure with 20 gateway sites and hundreds of antennas in India. The company has developed security controls to keep Indian users’ data within India while engaging with local regulators. Starlink has been granted licenses to operate in India after five ye
+## LCA Mk-1A, LCA Mk-2, MRFA: Key projects new IAF chief is expected to push
+Air Marshal Ashutosh Dixit’s appointment comes at a critical juncture as the Indian Air Force grapples with a shortage of fighter jets
 
-## RBI governor Sanjay Malhotra on what happens if India-US trade deal is not finalised
-India-US trade dea: Asked about the possible impact on the economy if the India-US trade deal is not finalised, RBI governor Sanjay Malhotra said, “The impact depends on what extent tariffs are going to be applied. So it's premature to answer. But obviously, it will have some negative impact. At the
+## Oppn protest demanding CEC Gyanesh Kumar's resignation to continue in Delhi after day 2 of detentions
+Around 200 lawmakers faced police barricades during attempts to march to Jantar Mantar, including Congress leaders Rahul and Priyanka Gandhi.
 
-## India proposes senior diplomat Sudhakar Dalela as next ambassador to Nepal
-India has proposed senior diplomat Sudhakar Dalela, currently BRICS Sherpa, as its next ambassador to Nepal following the retirement of Naveen Srivastava.
+## Reserve Bank raises rates by 25 basis points; signals more tightening ahead
+The increase will make corporate and retail loans, including mortgages, more expensive amid geopolitical uncertainty.
 
-## Repair T1, don't force passengers and airlines to move to Navi Mumbai airport: Aaditya Thackeray
-Adani Airport Holdings Ltd has asked airlines to shift 33% of their international flights from Mumbai's CSMIA to Navi Mumbai International Airport
+## ECINET flaws were flagged to poll body, cyber-security agency CERT-In in July: Researcher
+CERT-In recently confirmed one fix, but many critical vulnerabilities remain unresolved, raising concerns about electoral security.
 
-## Elon Musk blames Starlink hurdles in India on ‘monopolistic chokeholds’
-Musk said Starlink is being blocked by “certain oligarchs” in India seeking to maintain a “monopolistic chokehold” on people.
+## India plans to invite Canadian PM Mark Carney as Republic Day chief guest amid trade deal talks
+PM Narendra Modi is expected to visit Canada in December, alongside trips to Belgium and the US.
 
-## ‘Responding well’: MEA gives health update on pilot Smit Machchhar after flydubai cockpit attack
-MEA spokesperson Randhir Jaiswal assured that Indian diplomatic authorities were in continuous contact with the hospital team overseeing his care.
+## Patna-Lucknow IndiGo flight’s nose suffers damage, lightning strike among suspected causes
+According to preliminary information, the possibility of the aircraft having encountered lightning amid adverse weather conditions is being examined.
 
-## Delhi Customs destroys 165 kg of seized drugs worth ₹515 crore at incineration facility
-Delhi Customs recorded 89 cases of drug seizures at Indira Gandhi International Airport during the financial year 2025-26, from April to September 2026.
+## India proposes BRICS sherpa Sudhakar Dalela as Nepal envoy
+Dalela played a key role as the official in-charge of the team at the external affairs ministry that helped forge consensus on a joint BRICS declaration.
 
-## ‘Very happy’: Ex-Japan PM Shinzo Abe’s widow tears up as memorial corridor honouring late husband opens in Varanasi
-Akie Abe and Uttar Pradesh chief minister Yogi Adityanath jointly inaugurated the ‘Shinzo Abe Memorial Corridor’ at the Rudraksh Convention Centre.
+## More global investors eye Chinese equities, ending 4-year underweight run, bank says
+Global investors are taking another look at Chinese equities after years of cautious positioning, drawn by relatively cheap valuations and opportunities in artificial intelligence, although an end to persistent selling does not indicate an outright bullish turn, according to analysts. Global active 
 
-## IndianOil officer stabbed 7 times during op to seal Maha petrol pump; Petroleum minister seeks swift action
-Petroleum minister Hardeep Singh Puri and IndianOil have sought swift action from the Maharashtra government and police.
+## DBS Hong Kong and Manulife Hong Kong mark 10 years of partnership with HK$1 million donation to support healthcare workers’ wellbeing
+[The content of this article has been produced by our advertising partner.] As DBS Hong Kong and Manulife Hong Kong celebrate the 10th anniversary of their bancassurance partnership, the two organizations are marking the milestone with a HK$1 million donation to Oasis – Centre for Personal Growth & 
 
-## IIT Bombay Senate restores 2015 exam rules, gives students chance to explain in malpractice cases
-IIT Bombay’s Senate decided to go back to its 2015 rules dealing with unfair means during examinations, giving students opportunity to explain before disciplinary action is initiated
+## Hong Kong banks grow cautious on One Stanley mortgages amid investigation
+The furore over alleged construction defects at luxury development One Stanley threatens to cast a shadow over Hong Kong’s recovering super-prime property market, as banks hold off on mortgages and property agents suspend viewings at the complex while an investigation continues. “Most [banks] are ad
 
 ## Hong Kong tech index to harness fast-growth companies in bid for better performance
 Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has missed out on artificial intelligence-driven gains. The threshold is among a set of n
@@ -125,15 +128,6 @@ Amid various macro uncertainties, interest in private credit declined sharply to
 
 ## US firm ArriVent’s plunge shows risks facing China’s biotech expansion into global markets
 US firm ArriVent BioPharma’s shares plummeted after a late-stage trial failure involving a cancer drug licensed from China, a setback that analysts said highlighted the challenges facing Chinese biotech companies expanding overseas. New York-listed ArriVent closed down nearly 47 per cent on Tuesday 
-
-## Hong Kong’s MPF has gained nearly HK$100b this year despite September loss: report
-Hong Kong’s Mandatory Provident Fund (MPF) recorded a loss in September but still made overall gains of nearly HK$100 billion (US$12.8 billion) over the first nine months of the year, according to data from MPF Ratings released on Wednesday. The 382 investment funds under the MPF schemes delivered a
-
-## Hong Kong’s first-store appeal grows as more Japanese, South Korean and Thai brands arrive
-Japanese, South Korean and Thai brands have increased their share of new entrants in Hong Kong’s retail property market by 7 percentage points to more than one-third in the first nine months of 2026, while the demand for shops from mainland Chinese brands has slipped, according to Cushman & Wakefiel
-
-## Hong Kong land sale stuns market as HK$4.3b bid hits 5-year Kowloon high
-Kerry Properties has won a land plot in Ho Man Tin for HK$4.31 billion (US$549 million), the highest price paid for a residential site in Kowloon in nearly five years, as developers show confidence in demand for luxury homes. The site on Fat Kwong Street sold at HK$20,738 per square foot of gross fl
 
 ## Pakistan’s Opposition on the March
 Simmering anger over former leader Imran Khan’s imprisonment drives protesters back to the streets—and toward Islamabad.
@@ -159,6 +153,21 @@ Beijing’s third overseas base is also its second in Southeast Asia.
 ## How to Avoid Disaster in the Next Iran War
 Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.
 
+## China’s High-Tech Ambitions Have a Blue-Collar Status Problem
+Most Chinese still view vocational schools and skilled labor as low status and undesirable.
+
+## The Quiet, Careful Growth of Philippine-Taiwan Ties
+Manila is exploiting the space between its One China policy and functional cooperation with Taipei.
+
+## The Strategic Implications of China’s Military Facility in Laos
+Ban Keun poses only a limited direct threat to the South China Sea or Taiwan, but it will enhance China’s ability to place pressure on U.S. naval forces.
+
+## AI and the Risk to Democracy
+Insights from Matthew Botvinick.
+
+## Russia’s Wildberries Finding Fertile Ground in Central Asia
+The Russian e-commerce retailer has announced yet another new logistics facility, this time in Uzbekistan.
+
 ## Poland’s President in the Philippines: Black Hawks, ASEAN, and US Defense Interests
 Could Nawrocki’s visit to Manila serve to promote further Black Hawk sales across ASEAN, potentially benefiting U.S. industrial interests?
 
@@ -167,21 +176,6 @@ Solar power generation has expanded rapidly in recent years and has overtaken nu
 
 ## As Tide Turns Against Modi, More Parties Back INDIA Bloc Protests
 Police detained scores of opposition lawmakers, who held a sit-in to press their demand for the resignation of Chief Election Commissioner Gyanesh Kumar.
-
-## Why the Mecca Agreement Might Fail
-If each member preserves its own partnerships while expecting the others to absorb its security risks, what does the promise that an attack against one is an attack against all mean when a crisis arrives?
-
-## Missing the Forest for the Trees in Taiwan’s Defense Preparations
-Beyond exercises and equipment, strategic developments in Taiwan’s military preparedness are being overlooked.
-
-## Farewell to Russia: The View From Kazakhstan
-Karaganda and its environs are home to some of the largest-scale coal-mining on the planet. And once, the home to an immense gulag.
-
-## South Korea’s $60 Billion Semiconductor Exports to Drive the KOSPI’s Resurgence
-South Korea’s economy has become intrinsically linked to the ongoing artificial intelligence boom.
-
-## China’s Revised Defense Mobilization Law Touches Nearly Every Sector
-The circumstances under which mobilization can be declared are wider than ever, and a large number of entities – including private firms – are legally obligated to the state during wartime.
 
 ## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
 For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
-Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off.
+## Why is Guantanamo prison still open?
+Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
 
-## Judge orders officials to preserve Pike execution evidence
-A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike’s failed execution
+## Democrats sue US President Trump over taxpayer-funded ad campaign
+Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
 
-## Pro-Palestine university groups march in London on October 7 anniversary
-Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
+## Death of 87-year old sparks furious Spain housing protests
+Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
 
-## Trump on why he thinks he deserves the Nobel Peace Prize
-US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
+## Yemeni government forces claim 1,860 Houthis ‘neutralised’
+Yemeni government forces said in a social media post that they carried out 2,103 'precise targeting operations'.
 
-## South Africa host Australia who battle more than ‘Sandpapergate’ memories
-WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
+## How kidnappings are hitting Nigeria’s Borno families hard
+Across Borno, abductions are leaving families with depleted savings, missing loved ones and disrupted education.
 
-## Harmanpreet Kaur: The captain who changed how India’s women played cricket
-Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title.
+## US stocks slide as oil prices fluctuate over renewed Iran war fears
+Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.
 
-## Gaza child’s autoimmune condition triggered amid Israel’s war
-Gaza child’s autoimmune condition triggered amid Israel’s war
+## Russia dismisses reports of second plague case as ‘false information’
+Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.
 
-## Inside SpaceX’s new look for AI data centres in orbit
-Inside SpaceX’s new look for AI data centres in orbit
+## Saudi Arabia confirms three dead in Houthi strikes on its airports
+Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.
 
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
