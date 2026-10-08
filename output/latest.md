@@ -1,115 +1,127 @@
 # AION Intelligence
 
-## Deloitte fined £6mn for audit failures at Southeastern rail operator
-Accounting watchdog criticises ‘highly concerning pattern of failure’ in work at Go-Ahead over five years
+## Two Latvian nationals arrested on suspicion of trespass at RAF base
+Men arrested inside perimeter of Cambridgeshire military facility on suspicion of ‘entering a prohibited place for a purpose prejudicial to the UK’
 
-## US critical minerals stockpile risks driving up prices, defence groups warn
-Industry urges Washington to ‘proceed with caution’ as competition for scarce materials intensifies
-
-## Badenoch’s speech drew a moral dividing line between Tories and Reform
-Opposition leader’s remarks will help distance her party from unpopular views on Englishness and court professional voters
-
-## British consulate in Jerusalem becomes ‘UK Mission’ after Israel orders closure
-Arrangement is part of a deal between Israel and UK aimed at containing escalating diplomatic feud
-
-## Samsung profit surges ninefold to $80bn on AI chip demand
-World’s largest memory-chip maker posts record earnings for the three months to September
-
-## Royal Navy serviceman charged with spying for foreign power
-Teddy Young set to appear at Westminster Magistrates’ Court on Thursday
+## Over 100 Riyadh flights cancelled after Houthis target airport
+Saudi-led coalition said it intercepted missiles as residents hear booms over the capital
 
 ## Iran war blows near-£12bn hole in Britain’s public finances
 FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half
 
-## Burnham heads to Berlin in bid to win support from Merz for closer EU ties
-Prime minister to hold talks after embarking on review of government’s European policy
+## French bond sell-off prompts ‘bottom fishing’ across Europe
+Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say
 
-## Germany’s ex-spymaster admits holding files but denies treason
-August Hanning’s lawyer says his client was ‘in possession’ of confidential documents but never paid for them or passed them on to foreign powers
+## Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz
+Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply
 
-## DRam demand and dramas are Asian obsessions
-DRam demand and dramas are Asian obsessions
+## Pension ‘triple lock’ was first costed at just £50mn, says ex-government adviser
+Guarantee on value of state pension was a demand of Liberal Democrats in negotiations to form coalition with Tories after 2010 election
 
-## Tesco predicts less boozy Christmas for UK shoppers
-Supermarket group raises profit outlook as it benefits from weaker trading at Asda and Morrisons
+## Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska
+Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity
 
-## FirstFT: Iran war wipes £12bn from UK public finances
-Also in today’s newsletter: China-EU trade and UK mortgage rates
+## Former prince Andrew wins legal challenge over search warrants
+Police accept unlawfulness of warrants obtained to search properties belonging to younger brother of King Charles but said investigation ongoing
 
-## Kirkland’s money machine goes dark
-The world’s highest-grossing law firm will stop sharing its financial figures with the legal industry’s flagship ranking of law firm profits and revenues
+## EY challenges Deloitte in outsourcing as revenue growth accelerates
+Big Four firm’s annual revenue rises 4.7% to $57bn as dealmaking and consulting services expand
 
-## Indian Food Ministry finds discrepancies in GST filings by sugar mills
-Government initiates action against erring units, asks them to furnish further details from August 20-31
+## Goldman to pay top executives $500mn in special bonuses
+Wall Street bank preparing to hand out equity awards from five-year scheme to senior leaders
 
-## MRF receives significant reduction in tax demand in ongoing CST litigation
-The company is examining the order and will take an appropriate decision to challenge the demand, the announcement said
+## Starbucks has explored takeover of Chipotle in restaurant megadeal
+Purchase of $41bn market-value burrito chain would rank as largest restaurant acquisition of all time
 
-## Nifty falls below 22,300 at noon as Adani Stocks, ITC, Metals slide
-IT sector emerges as lone bright spot
+## UK investors face three-month wait to recoup money from property funds
+FCA seeks to avoid repeat of fund suspensions during market turmoil by restricting immediate access to investments in illiquid assets
 
-## Crunchyroll brings Manga to India with 250+ titles under new premium tier
-The service, called Crunchyroll Manga, is accessible on iOS, Android, and web, and is bundled under the new “Ultimate Fan” membership, which allows streaming on up to six devices simultaneously
+## Avocado giant Mission Produce banks on orchards outside Mexico to help meet US demand
+Farms in Peru and Guatemala help offset import troubles from violence-stricken growing regions
 
-## Sensex today | Stock Market Live: Sensex plunges over 1,100 points, Nifty falls 1.72% as RBI stance, crude prices weigh
-Sensex, Nifty, Stock Price Live Updates: Sensex dragged 1129.46 pts or 1.55% to 71,509.24 by 2.18 pm, and Nifty 50 plunged 388.25 pts or 1.72% to 22,214.80 from previous closing levels.
+## Personal protective equipment market set to touch $4.84 bn in 7 years
+Government fast tracks 186 research projects to design protective workwear for the Indian climate
 
-## TCS Q2 Results LIVE: TCS shares give up early gains amid market slump, Q2 results today, GM Breweries PAT rises in Q2
-TCS Q2 results today live updates, Q2FY27 live updates: businessline brings to you the latest Q2 results 2026 updates on our live, scroll down for more
+## Editorial. Snuff it out
+Sale of nicotine pouches should be banned
 
-## Citi tops India investment banking rankings, doubles revenue in 2026
-Citi also leads India’s mergers and acquisitions advisory league table with a 28% market share, having advised on deals worth $36.81 billion across 10 transactions
+## Ola Electric plunges nearly 10% as ₹1,000-cr rights issue puts shareholders in a bind
+The stock touched ₹32.70 on the NSE, down 9.96 per cent from Wednesday’s ₹36.32 close, before recovering to ₹34.63, a decline of 4.65 per cent
 
-## Vedanta declares first interim dividend of ₹5 a share
-The dividend marks the first payout by Vedanta since the completion of its demerger, reinforcing the company’s focus on delivering value to shareholders
+## Nifty hits intra-day high on open for the sixth time in 2026
+This is the sixth such instance in 2026. The market opening-at-day-high occurred six times in 2023. In 2025 it happened five times, and in 2024 three times
+
+## TCS trumps Q2 estimates on global, AI-led growth; Net profit jumps 15% to ₹13,884 crore
+Porsche and Best Buy wins boost growth; India business declines 10.3% sequentially
+
+## Murli Manohar Joshi cautions fair elections vital for democracy amid opposition’s ‘vote chori’ protests
+Joshi, known for occasionally speaking his mind, invoked Abraham Lincoln’s classic definition of democracy to assert that any constitutional violations must be examined by the Supreme Court
+
+## bp chief meets PM, Oil Minister; to bid in OALP rounds
+bp discusses technical collaboration with ONGC to enhance production from Mumbai High and Western offshore
+
+## GST Council: No more arrest powers, no rate rejig
+GST reforms shift focus towards faster refunds, simpler compliance and proportionate enforcement
+
+## GST reforms: Top things announced by FM Sitharaman-led GST Council & what they mean for businesses
+The GST Council approved a series of changes aimed at easing compliance, including removing the power of tax officials to make arrests and raising the prosecution threshold fivefold to Rs 5 crore. FM Nirmala Sitharaman said the GST Council had largely dealt with anomalies arising from input tax cred
+
+## As Trump sours H-1B visa dream, which Indian IT professionals face biggest hit?
+Three H-1B related changes are stacking on top of each other: the multiple $100,000 fee proposals, the wage-weighted lottery favoring more senior workers, new layoff and compliance scrutiny, and now the OPT/STEM-OPT $70,000 fee proposal for students looking to work in the US. The pathway is set to b
+
+## GST Council scraps tax officers' arrest powers; prosecution threshold raised to Rs 5 cr
+The GST Council made a landmark decision by abolishing the arrest powers of tax officers. They've raised the prosecution threshold from Rs 1 crore to Rs 5 crore, easing the pressure on small sellers using e-commerce platforms. Union Finance Minister Nirmala Sitharaman announced that notices under Rs
+
+## Tcs Q2 Results: TCS profit jumps 15% to ₹13,884cr, AI revenue tops $3.1bn; board announces ₹12 dividend
+Tata Consultancy Services has reported a notable 15% surge in net profit for the September quarter, achieving Rs 13,884 crore. The operations revenue grew by 11.22% year-on-year, hitting Rs 73,188 crore. AI revenue also surpassed $3 billion, contributing over 10% to the total income. With 4,258 new 
+
+## India's GDP is booming, but stock market is crashing: What's going wrong?
+India is experiencing impressive GDP growth of 7.8%, while the World Bank revises its growth outlook to 7.1%. Yet, Dalal Street faces turbulence as benchmark indices suffer losses exceeding 1%. This is largely due to foreign investors offloading shares and rising bond yields globally, fostering a ca
+
+## AI regulation consultation paper next month, says IT minister Vaishnaw
+Union minister Ashwini Vaishnaw announced plans for a Consultation paper on AI regulations to address specific concerns. The focus will include AI safety, deepfakes, user harm, and the need for skilling. The government aims to establish a regulatory framework while involving various stakeholders in 
+
+## Mumbai-Pune in 48 min, Delhi-Varanasi under 4 hours: 7 bullet train routes
+Seven new bullet train corridors in works: In the coming years, Indian Railways is looking to make that a reality with seven new bullet train corridors in the works. Bullet trains typically operate at speeds of around 300 kmph, while some definitions of high-speed rail cover services operating at ar
 
 ## RBI rate hike impact: Bond yields may hold near 7.25% after policy shift
 In a significant policy change, the Reserve Bank of India has upped its key interest rate to 5.50% with a 25 basis point hike, the first in nearly four years. This adjustment reflects a shift to a calibrated tightening approach, hinting at potential future increases. However, contrary to market expe
 
-## No MDR on UPI from October 15? Government considers delaying rollout of fees: Report
-MDR on UPI: Last month, the government ended the zero-fee regime for UPI by allowing merchants to be charged 0.4% on transactions above Rs 2,000. UPI is used by more than 500 million people across the country for payments ranging from roadside cups of tea to iPhones. The charge is scheduled to take 
+## After IndiGo, Air India and Akasa raise fuel costs amid ATF spike
+The latest fuel price hike has further raised airline operating costs, with fuel continuing to account for a substantial share of overall airline expenditure.
 
-## Gold price prediction: What is the gold price outlook on October 8, 2026?
-Gold price prediction today: Gold and silver prices are expected to trade with a negative bias in the coming days. On the lower side, MCX Gold is expected to gradually move towards the Rs 1,45,000 level, which remains the key downside target. A decisive break below the immediate support zone could a
+## Bihar EOU recovers ₹52 lakh cash, ₹35 lakh ornaments from executive engineer’s premises
+EOU team carried out simultaneous searches at 5 locations in Patna, Muzaffarpur, Bhagalpur and Munger in connection with case registered against Bihar government executive engineer
 
-## Russia eyes return to Europe's gas market despite sanctions, Ukraine war: Report
-Reports indicate that Russia is looking to reestablish gas supplies via the Nord Stream pipelines by negotiating with US investors, including Jared Kushner and a Russian adviser to Putin. This effort faces formidable challenges due to existing US and EU sanctions. Germany has taken a hard line again
+## CAPF Act notified two days before SC special bench hearing pleas against it
+The Centre on Thursday notified the Central Armed Police Forces (General Administration) Act, 2026, bringing it into force from October 8
 
-## Why BSE Sensex, Nifty50 are crashing on October 8, 2026? Top reasons
-Stock market crash today: At 1:25 PM, Nifty50 was trading at 22,260.70, down 342 points or 1.51%. BSE Sensex was at 71,670.06, down 968 points or 1.33%. Sustained selling in large-caps by the FIIs have contributed significantly to this trend. With the US 10-year bond yield hovering above 5.3%, FIIs 
+## Four CRPF personnel injured in accidental blast while disposing explosives in Chhattisgarh
+Four CRPF personnel, including two ASIs, were injured in an accidental blast while disposing of unserviceable and leftover explosives near a camp in Sukma.
 
-## Man got leave encashment, but exemption limit was hiked later; ITAT allows full Rs 12.27 lakh relief
-The ITAT Chennai bench viewed the increase from Rs 3 lakh to Rs 25 lakh as an enhancement of an existing benefit, rather than the creation of a new exemption. The Tribunal also found the change beneficial and remedial in nature and said it was intended to reduce hardship and bring parity between gov
+## Mamata Banerjee may join CJP protest against CEC Gyanesh Kumar at Jantar Mantar on Oct 10
+Mamata Banerjee said she may join the CJP’s October 10 protest at Jantar Mantar seeking the removal of Chief Election Commissioner Gyanesh Kumar.
 
-## Stock market today: BSE Sensex plunges over 750 points, NSE Nifty50 slips below 22,400
+## 10 of 20 rebel TMC MPs skip Kolkata meeting to discuss disqualification notice by LS Speaker
+Half of the rebel MPs skipped a Kolkata meeting as the group faced a deadline to respond to notices over their alignment with the NCPI.
 
+## CAPF Act that governs officer posts, deputation comes into force
+The new law creates a common framework for recruitment, promotion and service conditions of officers in five Central Armed Police Forces.
 
-## Rupee rises 10 paise against US dollar: What is supporting the currency?
-The rupee opened at 96.71 against the dollar but improved to 96.65 thanks to intervention from the Reserve Bank of India. External factors, like a robust US dollar and climbing crude oil prices, are still putting pressure on the currency. Additionally, India's forex reserves are diminishing, leading
+## Chhattisgarh court awards death penalty to three for killing cop’s wife, minor daughter
+A Fast Track Court in Chhattisgarh awarded death penalty to three men and life imprisonment to another for killing the wife and 11-year-old daughter of a police head constable in 2024
 
-## Gauhati HC sets aside life term of woman accused of killing one-month-old daughter, rejects confession
-The Gauhati High Court has acquitted a woman sentenced to life imprisonment for allegedly murdering her one-month-old daughter
+## HKTDC’s twin electronics fairs put Hong Kong in pole position
+[The content of this article has been produced by our advertising partner.] The 46th Hong Kong Electronics Fair (Autumn Edition) and the 29th electronicAsia are expected to attract some 3,200 exhibitors from 15 countries and regions and thousands of business visitors from around the world. Held conc
 
-## Rising onion, edible oil, LPG prices push up cost of home thali: Crisil report
-The cost of a vegetarian thali rose to ₹30.8 in September from ₹28.1 a year earlier, while the non-vegetarian thali increased to ₹59.5 from ₹56.
+## Amid battle for AI edge, Hong Kong presses HSBC over Singapore hub decision: sources
+As Hong Kong and Singapore compete for leadership in businesses ranging from foreign exchange trading to wealth management, the battleground has extended to artificial intelligence, with both cities vying to attract investment from HSBC Holdings and other major corporations, according to industry pl
 
-## After recent Delhi-NCR rape cases, SC orders more patrolling near schools, cab driver checks
-The court also called for dedicated command centres or “war rooms” to monitor police patrolling and CCTV infrastructure.
+## Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts
+Alibaba Group Holding is expected to report a 50 per cent revenue surge for its cloud and artificial intelligence unit for the September quarter, driven by strong returns on its aggressive AI investments, according to analysts. Analysts across several financial institutions projected revenue growth 
 
-## Delhi cops deploy teams at Connaught Place as INDIA bloc plans lunch, protest against CEC
-Paramilitary forces are also being sent to the area in case the leaders try to move towards Jantar Mantar or the Election Commission’s office again.
-
-## Seemapuri collapse: 3-year-old survives with minor injuries, mother among 5 dead
-Neighbours found the three-year-old child crying next to his grandmother Salma, who was writhing in pain
-
-## Shooter behind Mad Sandhu's murder arrested in Ahmedabad; cops to probe link with gangster Goldy Dhillon
-Officials are also probing the link between Sandhu's killing and gangster Goldy Dhillon’s international network.
-
-## Punjab CBI probe: SC puts off state’s plea, declines interim order
-The case has unfolded against a charged political backdrop in Punjab, with assembly polls due early next year and the Mann government alleging CBI and ED action is politically motivated targeting
-
-## 'Lost control of its Frankenstein': India lambasts Pakistan's doublespeak on terrorism at UN
-The first secretary also recalled the 9/11 terror attacks in New York, whose main perpetrator, Osama Bin Laden, was found in Pakistan's Abbottabad.
+## Retail properties offloaded for losses in weak market as revaluations spark bank concerns
+Several retail properties sold recently by prominent Hong Kong investors have been offloaded at a loss – a trend analysts attributed to banks maintaining a tough stance on debt collection. Stanley Poon Chi-ming, managing director at Centaline Commercial, said retail property prices had fallen by 30 
 
 ## Uniqlo sees profits soar in China despite Beijing-Tokyo tensions
 Fast Retailing, the parent company of Japanese clothing retailer Uniqlo, has defied the ongoing political tensions between Beijing and Tokyo and soft consumer sentiment in China to log a rebound in sales and profits on the Chinese mainland. The Japanese firm said the 2026 financial year, which ended
@@ -122,18 +134,6 @@ China’s biggest sportswear maker, Anta Sports, has strengthened its challenge 
 
 ## ByteDance heads first SCMP Plus Going Global 100 ranking
 TikTok owner ByteDance is China’s Going Global champion, according to a new SCMP Plus databank tracking mainland companies’ overseas expansion efforts. The social media giant topped the debut SCMP Plus Going Global 100 ranking ahead of Apple assembler Foxconn Industrial Internet, online fashion reta
-
-## More global investors eye Chinese equities, ending 4-year underweight run, bank says
-Global investors are taking another look at Chinese equities after years of cautious positioning, drawn by relatively cheap valuations and opportunities in artificial intelligence, although an end to persistent selling does not indicate an outright bullish turn, according to analysts. Global active 
-
-## DBS Hong Kong and Manulife Hong Kong mark 10 years of partnership with HK$1 million donation to support healthcare workers’ wellbeing
-[The content of this article has been produced by our advertising partner.] As DBS Hong Kong and Manulife Hong Kong celebrate the 10th anniversary of their bancassurance partnership, the two organizations are marking the milestone with a HK$1 million donation to Oasis – Centre for Personal Growth & 
-
-## Hong Kong banks grow cautious on One Stanley mortgages amid investigation
-The furore over alleged construction defects at luxury development One Stanley threatens to cast a shadow over Hong Kong’s recovering super-prime property market, as banks hold off on mortgages and property agents suspend viewings at the complex while an investigation continues. “Most [banks] are ad
-
-## Hong Kong tech index to harness fast-growth companies in bid for better performance
-Hong Kong’s stock index compiler will add 10 fast-growing companies with at least HK$500 million (US$64 million) in annual sales into the city’s technology-focused benchmark in a bid to revitalise an index that has missed out on artificial intelligence-driven gains. The threshold is among a set of n
 
 ## The Leverage Middle Powers Have in the AI Race
 Allied democracies can offer something U.S. industry desperately needs.
@@ -159,29 +159,29 @@ Beijing may talk about safety, but its model of AI diffusion is made to go rogue
 ## What Does China’s New Military Base in Laos Mean?
 Beijing’s third overseas base is also its second in Southeast Asia.
 
+## The Afghan Taliban’s Growing Drone War Against Pakistan
+For Pakistan, the most worrying possibility is small, relatively cheap drone systems falling into the hands of terrorist groups.
+
+## Investigation Finds That Former High-Ranking Uzbek Security Official Acquired UAE Citizenship
+According to a OCCRP and Ozodlik investigation, Otabek Umarov, the Uzbek president’s son-in-law, obtained Emirati citizenship in 2023, while he was deputy head of the Presidential Security Service.
+
+## Beyond Deference: India’s Bangladesh Reckoning
+A course correction is needed in New Delhi.
+
+## Afghanistan and the BLA’s Evolving Capabilities
+Reported discussions in Kandahar point to a possible expansion of the BLA’s external support networks as the group comes under pressure in Pakistan.
+
+## Gen Z Women Take to the Streets Over Spate of Rapes in India’s Capital
+Urban Indian women are refusing to be cowed down or slut shamed or policed for their attire or forced to stay indoors in the evenings to ensure their safety.
+
+## Anwar is Bargaining Myanmar Lives For Political Gain – And He Will Lose
+Min Aung Hlaing should not be trusted to resolve a refugee crisis that is a direct result of his own past policies.
+
+## In a Diplomatic Shift, Malaysian PM Hosts Myanmar’s Min Aung Hlaing
+While the talks focused on the repatriation of refugees, Anwar also appeared to endorse Myanmar's reintegration into ASEAN.
+
 ## How Indonesians Are Being Recruited Into the Russian Army
 So far, Jakarta is yet to come to grips with problem that has arisen alongside President Prabowo Subianto’s efforts to build a closer relationship with Russia.
-
-## From Military Base to Pax Silica: Clark and Capas in Philippine History
-The history of U.S. involvement in the region demonstrates how domestic political dynamics can get entangled with regional and global geopolitics.
-
-## Trade Agreement With US Close to Completion, Thai Prime Minister Says
-Anutin Charnvirakul said that he expected to sign the Agreement on ⁠Reciprocal Trade during President Donald Trump's next visit to Asia.
-
-## The Lessons the Taliban Have Learned
-Afghanistan's leaders haven’t changed ideologically. But five years after returning to power, they have learnt from where the "first emirate" went wrong.
-
-## China’s High-Tech Ambitions Have a Blue-Collar Status Problem
-Most Chinese still view vocational schools and skilled labor as low status and undesirable.
-
-## The Quiet, Careful Growth of Philippine-Taiwan Ties
-Manila is exploiting the space between its One China policy and functional cooperation with Taipei.
-
-## The Strategic Implications of China’s Military Facility in Laos
-Ban Keun poses only a limited direct threat to the South China Sea or Taiwan, but it will enhance China’s ability to place pressure on U.S. naval forces.
-
-## AI and the Risk to Democracy
-Insights from Matthew Botvinick.
 
 ## Ten Wartime Technologies at America’s 250th
 For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
@@ -231,29 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
-'Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,' his lawyer said.
+## Man City must ‘stick together’ after Premier League charges, says Haaland
+Erling Haaland calls on Man City to unite as Premier League club appeals more than 100 charges of wrongdoing.
 
-## ‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
-Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.
+## UK ex-prince Andrew search warrants quashed after police accept legal error
+London-based judge says error 'does not bring investigation to an end' as police probe disgraced former royal.
 
-## How Gaza war sped up India’s shift towards Israel under Modi
-As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.
+## Video said to show Mali army in Kidal after retaking city
+Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
 
-## Christa Pike almost taken off life support before she woke up
-Death row inmate Christa Pike has regained consciousness following a botched execution in Tennessee, her lawyer says.
+## Venezuela’s Nicolas Maduro and his wife charged over torture allegations
+The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.
 
-## Video: Signs removed from British consulate in occupied East Jerusalem
-Signs from the British consulate in occupied East Jerusalem were removed overnight as a deadline for its closure loomed.
+## London voters go to polls for Holborn and St Pancras by-election
+The vote in London's Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.
 
-## Why Israel loves skunk water
-Israel’s foul-smelling weapon turns Palestinian repression into a sales pitch.
+## What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?
+Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.
 
-## India defends satellite internet approval process after Elon Musk jab
-Musk has claimed unnamed entities are blocking Starlink's launch to maintain their monopoly.
+## More killed in Kramatorsk as Russia targets Ukraine’s transportation system
+Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.
 
-## Southampton manager Eckert can stay on despite role in ‘spygate’ scandal
-Tonda Eckert let off with fine and reprimand but avoids ban and will continue in his role with the club.
+## Saudi-led coalition says it intercepts three Houthi ballistic missiles
+Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.
+
+## GST Council 57th Meeting: Faster Refunds, ITC, Registration, Lower Penalties — All Key Announcements Explained
+GST Council 2026 Highlights: The GST Council has approved a series of major reforms, including faster GST refunds, easier registration and cancellation, wider ITC eligibility, no notices below ₹10,000, lower prosecution and penalty thresholds, simplified compliance for small businesses and easier GS
+
+## GST Council highlights: What FM Sitharaman announced for India Inc
+The GST Council on Thursday recommended a broad package of compliance reforms for India Inc, including simpler registration, faster refunds and wider ITC eligibility, while scrapping tax officers’ arrest powers and raising the prosecution threshold to Rs 5 crore from Rs 1 crore. Here are the key ann
+
+## GST Council scraps arrest power of tax officers, raises prosecution threshold to Rs 5 crore
+No GST rate changes; Finance Ministry says existing rate structure is settled.
 
 ## RBI Rate Hike: India Inc CFOs see limited impact on growth, flags crude, rupee risks
 India Inc's finance heads took the rate hike rather positively, as the RBI also raised India’s GDP growth forecast to 7.1% for FY27 from its earlier projection of 6.7%. Though they cautioned that domestically, a weak monsoon and El Niño put the Rabi crop and food prices at risk. Externally, crude pr
@@ -270,14 +279,11 @@ Faster refunds, smoother input tax credit, simpler registration and lower compli
 ## ICAI advances Ind AS 118 work, eyes Schedule III revamp
 Ind AS 118 implementation gathers pace as ICAI works with MCA on Schedule III alignment, while advancing work on new accounting standards and emerging financial reporting issues.
 
-## 57th GST Council meeting rescheduled for October 8 from October 7; to be held at Bharat Mandapam in New Delhi
-The 57th meeting of the Goods and Services Tax Council has been rescheduled to October 8, starting at 11 am. The meeting's location is the Summit Room, Bharat Mandapam, in New Delhi. An Office Memorandum cited unavoidable circumstances for the date change without providing further details. Members o
+## Deposit rate hikes unlikely for 3 months; RBI action to help NIMs: SBI chairman C S Setty
+State Bank of India Chairman C S Setty stated there will be no deposit rate hikes for the next three months. He cited sufficient liquidity in the system as a key reason for this prediction. Setty mentioned that credit growth is expected to sustain at 14 to 15 percent over time. He emphasized that ba
 
-## Audit rotation boom puts Big Four under sharper scrutiny
-India’s audit rotation cycle is prompting companies to scrutinise prospective auditors far beyond credentials, examining team stability, sector expertise, regulatory records, technology capabilities and conflicts involving non-audit services. With over 1,000 mandates expiring in FY27, audit committe
-
-## Tata Trusts rift deepens: Noel Tata-led trustees say 'Trusts do not run Tata Sons' as they defend restructuring plan to avoid listing
-Trustees of Tata Trusts have rebuffed objections from two senior trustees concerning a proposed restructuring of Tata Sons. They emphasized that the Reserve Bank of India has not required a listing for Tata Sons. Additionally, they asserted that the restructuring does not jeopardize the charitable s
+## RBI rate hike will not stem outflows, leaving central bank in a bind
+India’s first RBI rate hike in four years may not stop record capital outflows or ease pressure on the rupee, which has fallen 7% this year. Foreign investors have withdrawn $30 billion from Indian equities, while rising hedging costs and narrowing India-US rate differentials threaten the appeal of 
 
 ## UPI MDR rollout may be deferred beyond festive season to Jan 1; shares fall: Report
 A proposal is under consideration to defer the rollout of merchant discount rates on UPI to January 1. This decision may provide relief to retailers ahead of the festive season.
@@ -296,10 +302,4 @@ Crisil's chief economist, Dharmakirti Joshi, predicts a possible repo rate hike 
 
 ## Rupee may be undervalued despite market depreciation bias: RBI Governor
 The Reserve Bank of India (RBI) Governor Sanjay Malhotra on Wednesday said financial markets can often behave irrationally in the short term and suggested that several indicators point to the rupee being undervalued rather than overvalued.
-
-## India's FX reserves fall for fourth week, down $50 billion from September peak
-India's foreign exchange reserves have fallen for the fourth consecutive week to $734.6 billion. This decline follows a recent peak of $785.71 billion on September 4. The Reserve Bank of India has intervened in the market to support the rupee's value amid rising pressures. Elevated oil prices, incre
-
-## RBI allows Sebi-regulated depositories to include customer deposit details in statements: What changes for investors?
-RBI announced measures to simplify financial tracking, allowing SEBI-registered depositories to include bank deposit details alongside securities, equity and debt holdings in a single consolidated statement by end-2026. It also approved interoperability among NBFC account aggregators, enabling finan
 
