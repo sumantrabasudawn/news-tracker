@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## Labour holds off Greens’ Polanski to win London by-election
-UK’s ruling party wins Holborn and St Pancras by-election, seeing off challenge from Zack Polanski’s Greens
+## Donald Trump launches committee to investigate Fed governor Lisa Cook
+Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker
 
-## Microsoft and Indian IT groups banned from sponsoring workers for US residency
-Announcement affecting several tech groups marks White House’s latest attempt to limit immigration
+## Germany pivots away from ECB presidency push
+Finance minister Lars Klingbeil told colleagues in Luxembourg that Berlin would nominate candidate to succeed executive board member Isabel Schnabel
 
-## EU capitals caught between markets and metrics as debt fears rise
-Also in this newsletter: Putin meets his central Asian frenemies
+## US telcos shed $45bn in value after SpaceX announces spectrum purchase
+Elon Musk takes big step towards launching Starlink mobile service for US consumers
+
+## Delta slashes profit outlook as higher fuel prices bite
+US airline warns over continued impact of Iran conflict even as third-quarter revenues rise
+
+## India’s interest rate rise tests an economy of two speeds
+Plus, meet the Tata kingmaker
+
+## Lib Dem MP launches attempt to topple leader Ed Davey
+Resignation of Treasury spokesperson Charlie Maynard comes amid frustration about centre-left party’s sagging poll ratings
+
+## China and EU reach ‘understanding’ on hybrid cars, Beijing says
+Statement follows two days of talks aimed at avoiding full-scale trade conflict
+
+## Submit your questions: who’s doing better in their trade battles with China — the EU or the US?
+Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)
+
+## Former prince Andrew makes £1.5mn payment after early surrender of Royal Lodge lease
+Mountbatten-Windsor charged £1.8mn for damage to property in Windsor Great Park but was owed £302,000 in compensation for moving out early
+
+## Iran attacks tankers beyond Strait of Hormuz
+Escalation comes as Tehran tries to maintain leverage over strait crucial for global energy supplies
+
+## Former Deutsche Bank star trader has rate-rigging conviction quashed
+Christian Bittar pleaded guilty in 2018 to manipulating the Euribor rate
+
+## Japan declares cyber space emergency as attacks soar
+Dozens of targets including car rental operators, barbecue chains and rail group JR East disclose data leaks
 
 ## FirstFT: SoftBank turns to Gulf for $100bn in AI financing
-Also in today’s newsletter: Maersk’s shopping spree and UBS’s options
+Also in today’s newsletter: US to publicly execute former army major and SpaceX to launch consumer mobile service
 
-## SoftBank seeks $100bn from Gulf investors to expand AI bet
-Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks
+## Three Saudis killed in Houthi attack on Riyadh airport
+Deadly barrage prompted several international carriers to suspend flights
 
-## Nobel laureate Machado says Venezuela is ‘ready’ for new elections
-Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration
+## Bharat Spice Map to drive value addition, global competitiveness of Indian spices
+It will help to align spice production with industry requirements and evolving global demand. By aligning India’s diverse spice resources with scientific insights
 
-## A Starbucks-Chipotle merger offers the wrong kind of synergy
-The overlap between the two brands is unlikely to be enough to justify a takeover premium
+## Coal stock depletion slows, but rebuilding yet to commence: Coal Ministry
+Coal stock position needs to be viewed alongside the improvement since the September trough in supplies, says Coal Ministry
 
-## Raising capital gains tax would be ‘so stupid’, says Jim O’Neill
-Former Burnham adviser tells FT that chancellor must not undermine confidence just as growth returns to economy
+## RBI OMO sale fears spur bond sell-off; 10-year G-Sec hits three year high
+Yield rises to 7.31 per cent as traders brace for more RBI liquidity absorption, sticky inflation and a higher rate trajectory
 
-## Most countries unprepared for bank failures, watchdog warns
-Financial Stability Board says only US, UK, Japan and Hong Kong have a ‘credible public sector backstop’ to keep troubled lenders afloat before a sale or wind-down
+## Global refining shock lifts India’s diesel exports to a 12-month high in September
+West Asia conflict and drone attacks on Russia hit 8 mb/d of global refining capacity, say traders
 
-## Hedge funds as systemic risks
-And another word on inflation-linked bonds
+## KICL receives Type Certificate from DGCA for KOAIR-10L Drone
+The company announced to the BSE that the Type Certificate was issued on October 9 under the Drone Rules, 2021
 
-## Games Workshop’s wall of worry
-Games Workshop’s wall of worry keeps getting steeper
+## No impact on workforce strategy due to US ban: TCS
+The company’s workforce strategy in the US is anchored in hiring local talent, supported by a robust campus recruitment model, as per management
 
-## The Business of Formula 1
-In this edition: Iran war boosts case for new Asian race venue; prospect of another new champion broadens sport’s commercial appeal; Red Bull rues building best F1 engine at first attempt; interview with Cadillac’s Valtteri Bottas; F1 is shifting away from Europe; could mid-race refuelling make a co
+## e3W sales surge 40% in September; market share rises to 64.9%
+Bajaj leads the chart followed by Mahindra and TVS
 
-## FT Schools: How to plan a career in finance
-A guide for school students and young adults on how to get into the most interesting roles in finance — start early, act fast and do not be afraid to aim high. This report is part of the Financial Times free schools access programme
+## Mark-to-market losses in equity markets to test profitability of MFs
+Steady inflows into equity schemes through SIPs and lump-sum investments could provide a saving grace
 
-## Sensex today | Stock Market Live: Sensex gains over 900 points, Nifty tops 22,500 as all sectoral indices turn green
-Sensex, Nifty, Share Prices LIVE: Indian equities rebounded on Friday after a sharp selloff, with all Nifty sectoral indices trading higher, though elevated crude prices, heavy FPI outflows and global uncertainties continued to cloud the outlook.
+## UPI vs credit cards: What should you choose for payments after MDR?
+The overall value of a transaction depends on several factors including the payment mode, transaction value, the applicable MDR (if any), and the value-back attached to the payment method. This becomes particularly relevant as UPI increasingly intersects with the credit card ecosystem through RuPay 
 
-## NABVENTURES announces first close of Fund II at ₹450 crore
-It will invest across high-potential early- to growth-stage companies in sectors such as agri tech, food and agribusiness, rural fintech, climate-smart solutions, supply chain and logistics
+## How Trump's move to suspend 8 IT firms from PERM will hit Indian professionals badly
+The list of companies which have been suspended by the Trump administration from the Permanent Labour Certification Programme (PERM) includes IT sector majors like TCS, Infosys, Microsoft, Wipro, and Cognizant. By suspending major IT companies from the PERM programme, the US government is effectivel
 
-## Starlink row: Former CEA tells Rahul Gandhi, Congress to change anti-national perception
-The exchange comes as the government defends its satellite communication licensing process, insisting all operators must meet security requirements before launching services
-
-## Nifty rebounds past 22,490 as IT, Consumption stocks lead rally
-Nifty IT index emerges as the best-performing sectoral index, while Nifty Oil & Gas was the sole sectoral laggard
-
-## US PERM suspension: How the move could impact Indian IT companies
-Although Indian IT companies have reduced their dependence on the US H-1B visa programme, the PERM suspension could add to existing immigration-related challenges
-
-## We will not allow any monopoly in Satcom sector: Scindia
-The Telecom Minister says individual companies have to get clearances from the Ministry of Home Affairs, before they can start the services
-
-## Gold demand drops in India as prices rebound
-Consumers are waiting for correction, Indian jeweller says
-
-## Q2 Results Today Live: Poonawalla Fincorp, Anand Rathi Wealth, HSBC Life Insurance Company to announce Q2 results
-Several companies are scheduled to announce their results for the quarter ended September 30, 2026, on Friday. Anand Rathi Wealth, Can Fin Homes, Canara Robeco Asset Management Company and Poonawalla Fincorp are among the companies in focus as the September-quarter earnings season progresses. Follow
+## Sisters sought 1/3rd share in parents' property; Madras HC rules in favour of brother
+In this case, the parents of two daughters and a son owned several properties. The daughters got married and moved to their husbands' homes. On September 10, 2026, the Madras High Court dismissed the sisters' appeal for a share, allowing their brother to retain the land.
 
 ## Delays of several hours: Passenger trains using slower freight locos amid shortage
 Indian Railways records contain several instances in which a lack of locomotives designed for passenger services led to trains being hauled by freight engines, which operate at lower speeds. The use of these locomotives has affected running times and caused operational delays, the records show. The 
@@ -78,38 +90,44 @@ The Income Tax Appellate Tribunal (ITAT), Chennai, has quashed a reassessment in
 ## Stock market today: BSE Sensex jumps over 750 points, Nifty50 climbs above 22,480
 
 
-## TCS says Trump's PERM suspension won't affect US plans, targets 15,000 new hires
-Tata Consultancy Services (TCS) stated that the US government's suspension of the PERM programme would not affect its workforce strategy. The company emphasized its commitment to hiring local talent across its numerous offices in the US. TCS plans to increase its workforce in the US by hiring 15,000
+## ‘I guarantee this govt will fall’: Rahul Gandhi tells INIDA bloc MPs amid anti-CEC protest
+On Wednesday, INDIA bloc MPs, packed into three buses, attempted to launch a massive protest against CEC Gyanesh Kumar but were stopped by the Delhi Police.
 
-## Stock recommendations: Which stocks should you buy or sell on October 9, 2026?
-Stock market recommendations: Axis Bank, and Authum Investment & Infrastructure Ltd have been recommended as the top stocks to buy today on October 9, 2026 by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
+## Karnataka seizes 565 tonnes of subsidised rice meant for public distribution
+Karnataka seized 565 tonnes of subsidised PDS rice worth ₹1.34 crore over an alleged racket diverting FCI grain for illegal export to Africa via Chennai port.
 
-## Oil prices today: Brent slips as Trump cites 'productive talks' with Iran
+## SC directs Sir Ganga Ram Hospital to provide full treatment to Delhi acid attack survivor
+The Supreme Court has directed Sir Ganga Ram Hospital in Delhi to provide an acid attack survivor full treatment, including plastic surgery and medicines, regardless of cost.
 
+## Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh
+Assam CM Himanta Biswa Sarma has written to railway minister Ashwini Vaishnaw and Andhra CM Chandrababu Naidu seeking a time-bound probe into Himashree Boro’s death.
 
-## Supreme Court summons CJP, student organisations at 2pm today amid row over Delhi curbs
-The bench stressed that the right to protest had to be exercised within the framework of applicable laws and permissions.
+## Evening News Brief October 9: BJP’s bypoll wins, Indian-origin woman’s Nobel, Iran’s Hormuz warning and more
+From bypoll wins and Navi Pillay’s Nobel to Iran’s Hormuz warning and key Supreme Court directions, here are the top stories of the day.
 
-## Home Guard strangles wife, daughter with data cable in Lucknow; held
-Home Guard strangles wife, daughter with data cable in Lucknow; held
+## Vijay's magic continues in Tamil Nadu, TVK wins both bypolls to boost numbers in assembly
+In Dharapuram, TVK candidate P Sathyabama initially faced a see-saw battle with the AIADMK but later established a clear lead to secure victory.
 
-## India doesn't allow monopoly; satcom licencees can start only after security norms met: Scindia
-Scindia said that three entities, Musk's Starlink, Reliance Jio's satellite venture Jio Satcom and Bharti-backed Eutelsat OneWeb, have already secured licences.
+## Gauhati HC grants bail to Zubeen Garg’s bandmate Amritprava Mahanta in murder trial
+The Gauhati High Court on Friday granted bail to Amritprava Mahanta, a band member of Zubeen Garg, in connection with the murder trial of the late singer-composer.
 
-## Jewar airport to be renamed Narendra Modi International Airport, UP passes resolution
-Jewar airport to be renamed Narendra Modi International Airport.
+## Pakistan spends $6 mn on Hague arbitration, including India’s share, amid austerity drive
+Pakistan’s budget allocates $7.9 million to its Indus Waters mission, while spending on flood-related priorities remains far lower amid an austerity drive.
 
-## CM Lalduhoma urges non-Mizo AIS officers to learn local language, culture
-CM Lalduhoma urges non-Mizo AIS officers to learn local language, culture
+## K&K offers extra warranty to One Stanley homebuyers amid building defects furore
+Developer K&K Property has announced plans to offer a six-year structural warranty to homeowners at its luxury One Stanley development, as the company seeks to move on from a growing furore over alleged construction defects at the complex. “As the developer of the One Stanley development project, we
 
-## ‘Serious questions over Dhruv Rathee's citizenship, visa after Bengaluru stir’: Ex-IPS officer writes to home ministry
-Former IPS officer Bhaskar Rao said that the letter was “not motivated by any disagreement” with Rathee's political opinions.
+## Hong Kong outlines new liquidity reforms as US market rally pulls funds away
+Hong Kong’s securities watchdog is renewing its push to boost market liquidity, setting out further reforms as emerging markets grapple with capital outflow pressure amid a rally in US equities and a strengthening dollar. Speaking at a conference organised by the Asian Securities & Financial Markets
 
-## Expired products, unhygienic conditions: Karnataka FDA uncovers violations at several ice cream units
-The FDA collected 70 samples of ice cream, milk, milk powder, flavouring substances, sugar, food additives and other raw materials for laboratory testing.
+## China’s hotel room rates disappoint during ‘golden week’ despite tourism boom
+Hotel room rates across mainland China fell short of expectations during the National Day “golden week” holiday despite a tourism boom, as company officials and analysts called for stronger asset and revenue management to ease pricing pressure. Hotel tariffs remained largely unchanged from the previ
 
-## 'Please appreciate, see students' future': Top court refuses to reopen FIRs over CJP's July stir
-The bench also drew a distinction between the students and protesters involved in the cases and individuals with serious criminal backgrounds.
+## DFI Retail Group says it will continue to invest in Hong Kong supermarkets
+Hong Kong-headquartered DFI Retail Group, which owns and operates the city’s largest supermarket network, says it will continue to invest in new stores even though consumers remain cautious. Darren Chan, the group’s managing director for food in Hong Kong and Macau, said DFI – whose supermarket chai
+
+## China state funds double down on Hua Hong in legacy chip push
+Chinese state funds are ramping up support for the country’s second-largest contract chipmaker, pouring billions of yuan into the parent of Hua Hong Grace Semiconductor and a new manufacturing facility to fuel Beijing’s drive for self-reliance in mature-node chips. The capital blitz, spanning Hua Ho
 
 ## China holiday travel spikes, global funds shift: 5 figures investors are watching in China
 Hong Kong’s property market showed renewed strength as a Kowloon residential site fetched its highest price in nearly five years, while the city’s pension funds posted solid gains despite a September setback. Meanwhile, global investors returned to Chinese equities after years of caution, as US Trea
@@ -120,20 +138,8 @@ A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve
 ## Can China use its widening US yield gap to boost the yuan’s global role?
 China should seize a window opened by the widening US-China yield gap to strengthen the financing, hedging and asset-absorption systems behind the yuan, turning its cyclical low-interest-rate advantage into lasting global use of the currency, according to a researcher from a Beijing-based government
 
-## Finance or gambling? Prediction-market players push for regulatory clarity in Asia
-Fintech industry executives have stepped up lobbying for clearer regulations regarding prediction markets as they attempt to distance the business from gambling and also play down its risks. The calls, made at Thursday’s iFX Expo Asia in Hong Kong, come as regulators and legal experts in the city an
-
-## Hong Kong’s AI Marketing Moment is Here. The Question is Whether Business Leaders are Moving Fast Enough
-[The content of this article has been produced by our advertising partner.] AI is moving faster than many businesses can absorb. Across Asia, brands are testing new tools, automating workflows and rethinking how customers are reached. Yet one question remains unresolved: are companies truly transfor
-
-## Central retail shop bought by Swiss heir in ‘rare’ Hong Kong market move
-In a rare market move, a long-established local developer sold a Central retail shop that was held for over 50 years to an heir of Swiss underwear maker Triumph, according to data from the Land Registry, a deal analysts have called “highly unusual”. The use of international capital to acquire local 
-
-## HKTDC’s twin electronics fairs put Hong Kong in pole position
-[The content of this article has been produced by our advertising partner.] The 46th Hong Kong Electronics Fair (Autumn Edition) and the 29th electronicAsia are expected to attract some 3,200 exhibitors from 15 countries and regions and thousands of business visitors from around the world. Held conc
-
-## Amid battle for AI edge, Hong Kong presses HSBC over Singapore hub decision: sources
-As Hong Kong and Singapore compete for leadership in businesses ranging from foreign exchange trading to wealth management, the battleground has extended to artificial intelligence, with both cities vying to attract investment from HSBC Holdings and other major corporations, according to industry pl
+## Brazil’s Far-Right Resurgence
+The Bolsonaro family looks likely to retake the presidency.
 
 ## Mecca Pact, Activated
 What Pakistan and Turkey will likely do (and want) in Saudi Arabia.
@@ -156,8 +162,14 @@ The Yemeni rebel forces ramp up strikes on Saudi airports, oil refineries, and o
 ## Can a New Credit Rating Agency Help Africans Borrow at Better Rates?
 The African Union is challenging the big three rating agencies’ approach to assessing African borrowing risk.
 
-## The Real Danger May Be AI as Dumb as Us
-Talk of “super intelligence” distracts from frequent screwups.
+## Why Is China Proposing Reciprocal Nuclear Laboratory Visits?
+While China and the U.S. still disagree on the size of nuclear forces and the path of arms control, can they exchange meaningful information on certain technical issues?
+
+## India’s Energy Transition Is Complicated, But Progressing
+While coal continues to dominate India’s power supply, the country is also building clean energy at one of the fastest rates in the world.
+
+## What Pakistan Will and Won’t Do in Yemen
+Operationally, it would make little sense for Pakistan to send in large conventional ground forces to Yemen simply to put the brakes on Houthi advances.
 
 ## A Raid on a Gay Bar Risks Taiwan’s LGBTQ-Friendly Reputation
 An attorney says authorities overstepped legal bounds, and activists warn of discrimination ahead of Asia's largest Pride event.
@@ -173,15 +185,6 @@ The outreach, which marks a significant shift in U.S. policy, is aimed at curbin
 
 ## What ‘Beyond Advocacy’ Means for India’s Role in the Russia-Ukraine Conflict
 India’s possible role as a facilitator will be driven by its own economic interests, rather than any need to increase its political heft on the global stage.
-
-## One Year On, China’s K Visa Remains an Opaque Promise
-China’s flagship talent visa can be found in the official application system, but most of the specifics on who can apply, and how to do so, are still missing.
-
-## The Afghan Taliban’s Growing Drone War Against Pakistan
-For Pakistan, the most worrying possibility is small, relatively cheap drone systems falling into the hands of terrorist groups.
-
-## Investigation Finds That Former High-Ranking Uzbek Security Official Acquired UAE Citizenship
-According to an OCCRP and Ozodlik investigation, Otabek Umarov, the Uzbek president’s son-in-law, obtained Emirati citizenship in 2023, while he was deputy head of the Presidential Security Service.
 
 ## The Last Mile of Pentagon Reform Runs Through the Brigade
 A kill chain measured in seconds cannot depend on processes measured in weeks or months. The Pentagon recognizes that drone proliferation and AI-enabled lethal targeting are reducing decision cycles and increasing the premium on speed. The 2025 drone and acquisition reforms and the 2026 Artificial I
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
-Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.
+## Man City charges: How Premier League reacted – United, Arsenal, Liverpool
+After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.
 
-## Three years after October 7, prolonged war takes its toll on Israelis
-Children’s psychiatric emergency visits have more than doubled in Israel, study shows.
+## US sanctions International Criminal Court itself in latest escalation
+Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.
 
-## Why has Iraq decided to ban online map service Waze?
-Iraq plans to ban Waze, citing Israeli origins, and suggests alternatives like Google Maps or local app in development.
+## Trump’s planned DC arch faces new lawsuit
+A Virginia county governing board filed the suit, claiming that planning for the monument near DC was rushed.
 
-## Who is Dov Lando, the Israeli rabbi criticising Zionism?
-The senior rabbi, whose party is in Netanyahu's coalition, has caused uproar in Israel by calling Zionism disastrous.
+## Man City case causing ‘uncertainty’ for whole Premier League, says Iraola
+Liverpool's Andoni Iraola looks to Manchester City clash and rival's appeal over guilty verdict for financial breaches.
 
-## Afghanistan’s emerald miners struggle with tools but attract global buyers
-Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.
+## US to livestream Fort Hood shooter’s execution: Is that legal?​
+Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.
 
-## Trump says US will not strike Iran before midterm elections
-Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.
+## Man City face Liverpool after being found guilty of financial breaches
+Manchester City face Liverpool at Anfield after being found guilty of financial breaches.
 
-## Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro
-Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.
+## Driver films from inside vehicle as car swept away in Chile floods
+Driver films from inside vehicle as car swept away in Chile floods
 
-## From Aden to Sanaa, Yemenis struggle to deal with soaring living costs
-As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.
+## Ethiopia and Eritrea accuse one another of launching war
+Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
