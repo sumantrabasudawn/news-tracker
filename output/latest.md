@@ -1,70 +1,64 @@
 # AION Intelligence
 
-## Donald Trump launches committee to investigate Fed governor Lisa Cook
-Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker
-
-## Germany pivots away from ECB presidency push
-Finance minister Lars Klingbeil told colleagues in Luxembourg that Berlin would nominate candidate to succeed executive board member Isabel Schnabel
-
-## US telcos shed $45bn in value after SpaceX announces spectrum purchase
-Elon Musk takes big step towards launching Starlink mobile service for US consumers
-
 ## Delta slashes profit outlook as higher fuel prices bite
 US airline warns over continued impact of Iran conflict even as third-quarter revenues rise
 
-## India’s interest rate rise tests an economy of two speeds
-Plus, meet the Tata kingmaker
+## JD Vance casts doubt on Pentagon’s plan to livestream execution
+Split reveals an emerging schism in the Republican Party over plan to broadcast killing of Fort Hood shooter
 
-## Lib Dem MP launches attempt to topple leader Ed Davey
-Resignation of Treasury spokesperson Charlie Maynard comes amid frustration about centre-left party’s sagging poll ratings
+## US telcos shed $60bn in value after SpaceX announces spectrum purchase
+Elon Musk takes big step towards launching Starlink mobile service for US consumers
 
-## China and EU reach ‘understanding’ on hybrid cars, Beijing says
-Statement follows two days of talks aimed at avoiding full-scale trade conflict
+## Flydubai co-pilot planned 9/11-style attack on Tel Aviv airport, UAE says
+Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’
 
-## Submit your questions: who’s doing better in their trade battles with China — the EU or the US?
-Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)
+## Airlines sound the alarm as bleak winter looms
+Some smaller carriers will struggle to survive as demand falls in coming months, warns IAG chief Luis Gallego
 
-## Former prince Andrew makes £1.5mn payment after early surrender of Royal Lodge lease
-Mountbatten-Windsor charged £1.8mn for damage to property in Windsor Great Park but was owed £302,000 in compensation for moving out early
+## Trump agrees deal with Putin for Russia to release diesel
+Pact between Washington and Moscow comes just weeks before critical midterm elections in the US
 
-## Iran attacks tankers beyond Strait of Hormuz
-Escalation comes as Tehran tries to maintain leverage over strait crucial for global energy supplies
+## Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf
+First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi
 
-## Former Deutsche Bank star trader has rate-rigging conviction quashed
-Christian Bittar pleaded guilty in 2018 to manipulating the Euribor rate
+## Bessent to miss IMF annual meetings in Bangkok
+US Treasury secretary’s absence is due to ‘domestic engagements’, say officials
 
-## Japan declares cyber space emergency as attacks soar
-Dozens of targets including car rental operators, barbecue chains and rail group JR East disclose data leaks
+## Trump pressures Mexico for energy deals in crunch trade talks
+Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity
 
-## FirstFT: SoftBank turns to Gulf for $100bn in AI financing
-Also in today’s newsletter: US to publicly execute former army major and SpaceX to launch consumer mobile service
+## Stockpickers: Avingtrans, Tesco, JD Wetherspoon
+Our experts discuss which companies to buy, sell or hold this week
 
-## Three Saudis killed in Houthi attack on Riyadh airport
-Deadly barrage prompted several international carriers to suspend flights
+## Directors’ Deals: CMC directors buy in as choppy markets boost trading
+Founder Lord Cruddas extends his holding
 
-## Bharat Spice Map to drive value addition, global competitiveness of Indian spices
-It will help to align spice production with industry requirements and evolving global demand. By aligning India’s diverse spice resources with scientific insights
+## ‘TVS group’s 2020 family partition can be a model for Venu Srinivasan family settlement’
+Lakshmi Venu seeks a fair, transparent settlement of TVS family wealth mirroring the 2020 partition through dialogue and mediation.
 
-## Coal stock depletion slows, but rebuilding yet to commence: Coal Ministry
-Coal stock position needs to be viewed alongside the improvement since the September trough in supplies, says Coal Ministry
+## Tata Motors raises Iveco takeover offer to €14.40 per share
+Tata Motors has revised its Iveco takeover bid, citing delays in regulatory authorisations, while the Italian truckmaker has welcomed the higher offer
 
-## RBI OMO sale fears spur bond sell-off; 10-year G-Sec hits three year high
-Yield rises to 7.31 per cent as traders brace for more RBI liquidity absorption, sticky inflation and a higher rate trajectory
+## US imposes sanctions on International Criminal Court, hours after former judge wins Nobel
+The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and said they would not halt the tribunal's work
 
-## Global refining shock lifts India’s diesel exports to a 12-month high in September
-West Asia conflict and drone attacks on Russia hit 8 mb/d of global refining capacity, say traders
+## Delhi on high alert ahead of protest against CEC
+57 Metro stations to shut, 45 trains cancelled
 
-## KICL receives Type Certificate from DGCA for KOAIR-10L Drone
-The company announced to the BSE that the Type Certificate was issued on October 9 under the Drone Rules, 2021
+## Funding crunch dims lights at Puja Pandals
+Administrative delays, cuts in corporate spending quieten Kolkata’s festive beat
 
-## No impact on workforce strategy due to US ban: TCS
-The company’s workforce strategy in the US is anchored in hiring local talent, supported by a robust campus recruitment model, as per management
+## BJP sweeps Bengal Assembly bypolls by winning both Nandigram and Rejinagar by record margin
+West Bengal on Tuesday saw a high voter turnout in the high-stakes by-elections in Nandigram and Rejinagar
 
-## e3W sales surge 40% in September; market share rises to 64.9%
-Bajaj leads the chart followed by Mahindra and TVS
+## Make in India, measured against wrong decade
+The last 10-12 years have been marked by progress despite the pandemic, tariff wars and armed conflict. A comparison would require a long-term view
 
-## Mark-to-market losses in equity markets to test profitability of MFs
-Steady inflows into equity schemes through SIPs and lump-sum investments could provide a saving grace
+## Ahmedabad Metro train fault disrupts GIFT City service; two staff suspended
+An empty train, run daily before passenger service, developed a technical issue at the siding near GIFT City station around 6 am
+
+## Teacher denied gratuity for working past 60; Allahabad HC orders payment with 6% interest
+A woman joined an educational institution in Faizabad as an assistant teacher on August 16, 1992. She continued working there until March 31, 2019, when she retired. However, the institution declined to pay her gratuity, arguing that the prescribed retirement age was 60 and she had remained in servi
 
 ## UPI vs credit cards: What should you choose for payments after MDR?
 The overall value of a transaction depends on several factors including the payment mode, transaction value, the applicable MDR (if any), and the value-back attached to the payment method. This becomes particularly relevant as UPI increasingly intersects with the credit card ecosystem through RuPay 
@@ -87,32 +81,29 @@ The natural question for investors at this point is what to do next. Sticking to
 ## Rs 2 crore deposit, no ITR, Rs 2.51 crore addition; ITAT quashes because reassessment is 5 days late
 The Income Tax Appellate Tribunal (ITAT), Chennai, has quashed a reassessment involving Rs 2.51 crore additionals after holding that the Income Tax Department had issued the reopening notice after the statutory time limit had already expired.
 
-## Stock market today: BSE Sensex jumps over 750 points, Nifty50 climbs above 22,480
+## Public safety, past lapses: Why Delhi Police denied CJP permission for Jantar Mantar protest
+Delhi police said the right to protest is a fundamental right but that granting permission also requires authorities to consider the rights of other citizens.
 
+## Parliamentary panel asks for a public tech strategy and a new coordination body
+The committee is also learnt to have recommended a separate “technology diplomacy strategy” for the MEA
 
-## ‘I guarantee this govt will fall’: Rahul Gandhi tells INIDA bloc MPs amid anti-CEC protest
-On Wednesday, INDIA bloc MPs, packed into three buses, attempted to launch a massive protest against CEC Gyanesh Kumar but were stopped by the Delhi Police.
+## Trump says Iran war will be ‘over soon’, claims US stopped Tehran from getting nuclear weapon
+Speaking at a White House event, Trump also predicted that gas prices would fall, saying the conflict would end “one way or the other”.
 
-## Karnataka seizes 565 tonnes of subsidised rice meant for public distribution
-Karnataka seized 565 tonnes of subsidised PDS rice worth ₹1.34 crore over an alleged racket diverting FCI grain for illegal export to Africa via Chennai port.
+## ‘Gaurav Gogoi failed completely, should resign’: Akhil Gogoi slams Congress after Nagaon Lok Sabha bypoll setback
+Akhil Gogoi also blamed Assam Congress president Gaurav Gogoi for the party's poor performance and called for his immediate resignation.
 
-## SC directs Sir Ganga Ram Hospital to provide full treatment to Delhi acid attack survivor
-The Supreme Court has directed Sir Ganga Ram Hospital in Delhi to provide an acid attack survivor full treatment, including plastic surgery and medicines, regardless of cost.
+## ECI fortified, 254 trains cancelled, metro affected, internet shut: Delhi braces for CJP's October 10 protest against CEC Gyanesh Kumar
+Delhi Police has imposed Section 163 BNSS restrictions in ‘sensitive areas’ to maintain public order and prevent potential security threats.
 
-## Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh
-Assam CM Himanta Biswa Sarma has written to railway minister Ashwini Vaishnaw and Andhra CM Chandrababu Naidu seeking a time-bound probe into Himashree Boro’s death.
+## 'Final call': Dipke releases video message ahead of CJP protest, anticipates arrest upon landing in Delhi
+Dipke said he would travel from Mumbai to Delhi on morning of October and urged people to join the protest in large numbers
 
-## Evening News Brief October 9: BJP’s bypoll wins, Indian-origin woman’s Nobel, Iran’s Hormuz warning and more
-From bypoll wins and Navi Pillay’s Nobel to Iran’s Hormuz warning and key Supreme Court directions, here are the top stories of the day.
+## 'Shocked that President accepted what we said': Rahul Gandhi makes big claim after meet over CEC row
+A delegation of Opposition MPs met President Murmu on Friday and submitted the memorandum over SIR irregulariries.
 
-## Vijay's magic continues in Tamil Nadu, TVK wins both bypolls to boost numbers in assembly
-In Dharapuram, TVK candidate P Sathyabama initially faced a see-saw battle with the AIADMK but later established a clear lead to secure victory.
-
-## Gauhati HC grants bail to Zubeen Garg’s bandmate Amritprava Mahanta in murder trial
-The Gauhati High Court on Friday granted bail to Amritprava Mahanta, a band member of Zubeen Garg, in connection with the murder trial of the late singer-composer.
-
-## Pakistan spends $6 mn on Hague arbitration, including India’s share, amid austerity drive
-Pakistan’s budget allocates $7.9 million to its Indus Waters mission, while spending on flood-related priorities remains far lower amid an austerity drive.
+## DMRC revises order after Supreme Court rap, 45 Delhi Metro stations to remain affected
+The Supreme Court directed the Centre and Delhi Police to lift blanket restrictions on metro and railway services ahead of CJP's protests in Delhi on Saturday.
 
 ## K&K offers extra warranty to One Stanley homebuyers amid building defects furore
 Developer K&K Property has announced plans to offer a six-year structural warranty to homeowners at its luxury One Stanley development, as the company seeks to move on from a growing furore over alleged construction defects at the complex. “As the developer of the One Stanley development project, we
@@ -138,29 +129,29 @@ A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve
 ## Can China use its widening US yield gap to boost the yuan’s global role?
 China should seize a window opened by the widening US-China yield gap to strengthen the financing, hedging and asset-absorption systems behind the yuan, turning its cyclical low-interest-rate advantage into lasting global use of the currency, according to a researcher from a Beijing-based government
 
+## The Global Diesel Crisis, Explained
+How did the world reach a tipping point, and who holds the leverage?
+
+## Arnold Toynbee’s Chinese Century
+A forgotten historian enjoys a strange afterlife in Beijing.
+
+## Russian Sabotage in Europe Is No Longer ‘Symbolic’
+The Kremlin’s strategy has entered a dangerous new phase, Estonia’s counterintelligence chief says.
+
+## The United States Is Not Ready for the Arctic Age
+Rana Foroohar’s “Sea Change” shows why Washington can’t compete at the top of the world.
+
+## How Italy Spawned the Western Far Right
+A longtime Rome correspondent reflects on the political trends in his adopted home.
+
+## What Life Was Like for a Jewish Artist in 1930s Berlin
+The debut novel “Venus, Vanishing” is a fast-paced tale of deception, forgery, sex, and escape.
+
+## What in the World?
+Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.
+
 ## Brazil’s Far-Right Resurgence
 The Bolsonaro family looks likely to retake the presidency.
-
-## Mecca Pact, Activated
-What Pakistan and Turkey will likely do (and want) in Saudi Arabia.
-
-## How America and China Compare on AI
-And why the two countries have different definitions of winning.
-
-## Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines
-Washington is pressing Shiite groups to disarm while ignoring the real fears that keep them armed.
-
-## The Next Iran War Is This Iran War
-The Iran war is, and always was, about regime change.
-
-## To Understand France’s Unrest, Look Back to 1982
-François Mitterrand’s U-turn decades ago holds lessons for today.
-
-## Where the Saudi-Houthi War Stands Now
-The Yemeni rebel forces ramp up strikes on Saudi airports, oil refineries, and other critical infrastructure.
-
-## Can a New Credit Rating Agency Help Africans Borrow at Better Rates?
-The African Union is challenging the big three rating agencies’ approach to assessing African borrowing risk.
 
 ## Why Is China Proposing Reciprocal Nuclear Laboratory Visits?
 While China and the U.S. still disagree on the size of nuclear forces and the path of arms control, can they exchange meaningful information on certain technical issues?
@@ -186,6 +177,9 @@ The outreach, which marks a significant shift in U.S. policy, is aimed at curbin
 ## What ‘Beyond Advocacy’ Means for India’s Role in the Russia-Ukraine Conflict
 India’s possible role as a facilitator will be driven by its own economic interests, rather than any need to increase its political heft on the global stage.
 
+## Shows of Strength and Signs of Strain
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
+
 ## The Last Mile of Pentagon Reform Runs Through the Brigade
 A kill chain measured in seconds cannot depend on processes measured in weeks or months. The Pentagon recognizes that drone proliferation and AI-enabled lethal targeting are reducing decision cycles and increasing the premium on speed. The 2025 drone and acquisition reforms and the 2026 Artificial I
 
@@ -206,9 +200,6 @@ The U.S. Navy’s May 2026 shipbuilding plan, signed by Acting Secretary of the 
 
 ## How to Defend Against AI-Designed Viruses
 Anthropic recently disclosed five cases in which users hid their countries while asking Claude for help enhancing pathogens or toxins. This added fuel to the ongoing debate over whether progress in AI should be slowed. Insider warnings of threats to human lives from artificial intelligence have been
-
-## Kindling, Catalyst, and Containment: Will the West Bank Ignite?
-As violence by Israeli settlers against Palestinians in the West Bank has escalated, often with the acquiescence or support of Israel’s military, and the Israeli government has increasingly constricted Palestinian daily life, the potential for a new intifada — or uprising — has intensified. The firs
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Man City charges: How Premier League reacted – United, Arsenal, Liverpool
-After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.
+## Trump announces Russian diesel deal amid soaring US fuel prices
+Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
-## US sanctions International Criminal Court itself in latest escalation
-Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.
+## European states, Canada, Japan and UN back ICC against US sanctions
+Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.
 
-## Trump’s planned DC arch faces new lawsuit
-A Virginia county governing board filed the suit, claiming that planning for the monument near DC was rushed.
+## Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
+Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.
 
-## Man City case causing ‘uncertainty’ for whole Premier League, says Iraola
-Liverpool's Andoni Iraola looks to Manchester City clash and rival's appeal over guilty verdict for financial breaches.
+## Injured Orangutan rescued from Indonesia wildfires
+A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.
 
-## US to livestream Fort Hood shooter’s execution: Is that legal?​
-Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.
+## Katie Zacharia ‘offered’ position as White House press secretary
+The role has been vacant since former White House press secretary Karoline Leavitt left in August.
 
-## Man City face Liverpool after being found guilty of financial breaches
-Manchester City face Liverpool at Anfield after being found guilty of financial breaches.
+## ‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution
+Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad.
 
-## Driver films from inside vehicle as car swept away in Chile floods
-Driver films from inside vehicle as car swept away in Chile floods
+## AI deepfake ads grow more popular in US midterm campaigns, blurring truth
+The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.
 
-## Ethiopia and Eritrea accuse one another of launching war
-Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.
+## Gaza ceasefire ‘exists in name only’, more than 100 NGOs say
+Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
