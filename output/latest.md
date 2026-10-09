@@ -1,109 +1,124 @@
 # AION Intelligence
 
-## Mental health and ADHD diagnosis can cause harm, says official review
-Government-commissioned report calls for more opportunities to work and socialise for young people and rejects claims of ‘snowflake’ generation
+## Labour holds off Greens’ Polanski to win London by-election
+UK’s ruling party wins Holborn and St Pancras by-election, seeing off challenge from Zack Polanski’s Greens
 
-## US telcos stocks tumble after SpaceX announces spectrum acquisition
-Elon Musk takes big step towards launching a Starlink mobile service for US consumers
+## Microsoft and Indian IT groups banned from sponsoring workers for US residency
+Announcement affecting several tech groups marks White House’s latest attempt to limit immigration
 
-## US to publicly execute former soldier by firing squad
-American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009
+## EU capitals caught between markets and metrics as debt fears rise
+Also in this newsletter: Putin meets his central Asian frenemies
 
-## Amex fined $350mn for failing to flag suspected money laundering
-US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported
+## FirstFT: SoftBank turns to Gulf for $100bn in AI financing
+Also in today’s newsletter: Maersk’s shopping spree and UBS’s options
 
-## Burnham set to launch crackdown on non-compete clauses
-Prime minister expected to use speech to pledge action against restrictive practices in employment contracts
+## SoftBank seeks $100bn from Gulf investors to expand AI bet
+Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks
 
-## Singapore gears up for smog-choked Grand Prix
-Hundreds of thousands of spectators are likely to endure the city-state’s worst air pollution in years
+## Nobel laureate Machado says Venezuela is ‘ready’ for new elections
+Exiled Nobel Peace Prize laureate demands ‘transparency’ over oil revenues after deal with Trump administration
 
-## US justice department orders playbook refresh for frauds on government
-Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences
+## A Starbucks-Chipotle merger offers the wrong kind of synergy
+The overlap between the two brands is unlikely to be enough to justify a takeover premium
 
-## OpenAI annualised revenues $20bn less than previously signalled
-AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported
+## Raising capital gains tax would be ‘so stupid’, says Jim O’Neill
+Former Burnham adviser tells FT that chancellor must not undermine confidence just as growth returns to economy
 
-## Starbucks has explored takeover of Chipotle in restaurant megadeal
-Purchase of $41bn market-value burrito chain would rank as largest restaurant acquisition of all time
+## Most countries unprepared for bank failures, watchdog warns
+Financial Stability Board says only US, UK, Japan and Hong Kong have a ‘credible public sector backstop’ to keep troubled lenders afloat before a sale or wind-down
 
-## Microsoft banned from sponsoring foreign workers for US residency
-Announcement impacting several tech groups marks White House’s latest attempt to limit immigration
+## Hedge funds as systemic risks
+And another word on inflation-linked bonds
 
-## Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz
-Transit via vital waterway rose close to 90% of prewar levels last month but has since fallen sharply
+## Games Workshop’s wall of worry
+Games Workshop’s wall of worry keeps getting steeper
 
-## Sensex today | Stock Market Live: Stock to buy today: PNB Housing Finance (₹1,150)
-Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for PNB Housing Finance. The 5 per cent rise this week gives an early sign that the corrective fall that has been in place since late August is coming to an end. There is resistance at ₹1,160. But the stock can breach this hurdle. S
+## The Business of Formula 1
+In this edition: Iran war boosts case for new Asian race venue; prospect of another new champion broadens sport’s commercial appeal; Red Bull rues building best F1 engine at first attempt; interview with Cadillac’s Valtteri Bottas; F1 is shifting away from Europe; could mid-race refuelling make a co
 
-## Anup Bagchi set to earn ₹43 crore in first year as HDFC Bank CEO
-Exchange filings detail the fixed pay, performance-linked compensation, stock options and benefits awaiting the incoming head of India’s largest private sector lender
+## FT Schools: How to plan a career in finance
+A guide for school students and young adults on how to get into the most interesting roles in finance — start early, act fast and do not be afraid to aim high. This report is part of the Financial Times free schools access programme
 
-## Microsoft says 80% of H-1B filings were for extensions, not fresh hiring
-Microsoft defended its foreign-worker hiring practices after a US suspension, saying most H-1B filings involved employees already on its payroll
+## Sensex today | Stock Market Live: Sensex gains over 900 points, Nifty tops 22,500 as all sectoral indices turn green
+Sensex, Nifty, Share Prices LIVE: Indian equities rebounded on Friday after a sharp selloff, with all Nifty sectoral indices trading higher, though elevated crude prices, heavy FPI outflows and global uncertainties continued to cloud the outlook.
 
-## US PERM suspension: Indian IT firms cut reliance on H-1B visas, says Nasscom
-Nasscom said immigration and skilled talent mobility are distinct issues, while H-1B visas continue to address short-term skill gaps in America
+## NABVENTURES announces first close of Fund II at ₹450 crore
+It will invest across high-potential early- to growth-stage companies in sectors such as agri tech, food and agribusiness, rural fintech, climate-smart solutions, supply chain and logistics
 
-## Cognizant, Infosys, TCS, Wipro and HCL among IT firms suspended from US green card programme
-"We will not accept any new or process any pending permanent labour certification applications involving these companies,” US Labour Secretary said
+## Starlink row: Former CEA tells Rahul Gandhi, Congress to change anti-national perception
+The exchange comes as the government defends its satellite communication licensing process, insisting all operators must meet security requirements before launching services
 
-## India’s AI-native startups enter faster growth phase as AI model costs fall: AWS
-Falling token costs and greater access to AI capabilities are helping startups move faster from experimentation to commercial deployment, AWS said
+## Nifty rebounds past 22,490 as IT, Consumption stocks lead rally
+Nifty IT index emerges as the best-performing sectoral index, while Nifty Oil & Gas was the sole sectoral laggard
 
-## Diageo India looks to Gen Z as it taps growing RTD market with Smirnoff ICE
-Diageo India sees flavours and premiumisation among key trends shaping alcoholic beverage consumption in India and globally
+## US PERM suspension: How the move could impact Indian IT companies
+Although Indian IT companies have reduced their dependence on the US H-1B visa programme, the PERM suspension could add to existing immigration-related challenges
 
-## Jantar Mantar protest: Delhi shuts liquor vends for two days citing police inputs
-The closure follows inputs from the Delhi Police and comes ahead of a planned demonstration at Jantar Mantar on October 10
+## We will not allow any monopoly in Satcom sector: Scindia
+The Telecom Minister says individual companies have to get clearances from the Ministry of Home Affairs, before they can start the services
 
-## As HDFC Bank CEO, Bagchi set for 36 crore target pay
-Anup Bagchi will assume the role of MD and CEO of HDFC Bank on October 27. His target annual compensation is set at Rs 35.9 crore, with potential total pay reaching Rs 43.2 crore. The compensation package includes a fixed pay of Rs 9 crore and a variable pay component capped at Rs 26.9 crore. Bagchi
+## Gold demand drops in India as prices rebound
+Consumers are waiting for correction, Indian jeweller says
 
-## India joins US-led group on structural excess capacity
-India has officially joined a coalition with the US and several other economies to tackle excess capacity. This coalition focuses on five sectors, including automobiles and semiconductors, that are primarily dominated by China. Countries in this group aim to coordinate actions against non-market pra
+## Q2 Results Today Live: Poonawalla Fincorp, Anand Rathi Wealth, HSBC Life Insurance Company to announce Q2 results
+Several companies are scheduled to announce their results for the quarter ended September 30, 2026, on Friday. Anand Rathi Wealth, Can Fin Homes, Canara Robeco Asset Management Company and Poonawalla Fincorp are among the companies in focus as the September-quarter earnings season progresses. Follow
 
-## MDR on UPI may now take effect in January 2027
-The rollout of the merchant discount rate on UPI transactions has been postponed to January 2027. This decision follows requests from trade bodies concerned about potential impacts on festival season sales. The new fee structure was originally set to take effect on October 15, giving stakeholders on
+## Delays of several hours: Passenger trains using slower freight locos amid shortage
+Indian Railways records contain several instances in which a lack of locomotives designed for passenger services led to trains being hauled by freight engines, which operate at lower speeds. The use of these locomotives has affected running times and caused operational delays, the records show. The 
 
-## Faceless system in place for central GST payers
-Finance Minister Nirmala Sitharaman unveiled a faceless GST system to streamline processes for two lakh taxpayers. This new system follows significant rate cuts that reduced the effective GST rate across goods and services. A working group submitted a report to implement a centralized tax administra
+## Gold price prediction: What is the outlook for the yellow metal on October 9, 2026?
+Gold price prediction today: MCX Gold December futures are witnessing a strong recovery, with prices trading around Rs 1,51,325 after breaking above the earlier consolidation zone near Rs 1,49,500–Rs 1,50,000.
 
-## Perfect storm: Sensex slips amid rising oil, bond yields
-Brent crude prices surged to over $105 per barrel, affecting the Indian stock market negatively. The Sensex dropped 1,045 points, significantly impacting investor wealth by Rs 10 lakh crore. Foreign portfolio investors sold stocks worth approximately Rs 13,000 crore, marking a high level of outflows
+## Stock market volatility: What should investors do with their portfolios?
+The natural question for investors at this point is what to do next. Sticking to their long term strategy is the best course of action, even when it takes real patience. Investors should also remember that the discomfort of waiting is a normal part of investing and not a sign of a wrong decision.
 
-## Starlink entry row: Is Ambani the real boss of India, asks Elon Musk
-Elon Musk has raised concerns about regulatory obstacles facing Starlink's introduction in India. He claimed influential figures might be hindering the process and questioned if Ambani controls the situation. In response, India's government reaffirmed its fair and non-discriminatory approach, reject
+## Rs 2 crore deposit, no ITR, Rs 2.51 crore addition; ITAT quashes because reassessment is 5 days late
+The Income Tax Appellate Tribunal (ITAT), Chennai, has quashed a reassessment involving Rs 2.51 crore additionals after holding that the Income Tax Department had issued the reopening notice after the statutory time limit had already expired.
 
-## GST Council scraps tax officers' arrest powers, eases refund rules
-The GST Council has proposed major procedural changes to enhance business operations and tax compliance. These reforms aim to streamline registration, refunds, and input tax credit processes while lowering compliance costs. Additionally, the council will remove officers' powers for arrests under the
+## Stock market today: BSE Sensex jumps over 750 points, Nifty50 climbs above 22,480
 
-## US sanctions Indian firms, individuals as Iran oil crackdown widens
-On Thursday, the United States targeted two Mumbai-based companies over their alleged oil trade involvement with Iran. The sanctions affected five Indian nationals connected to SSPL Solutions Private Limited and Samudra Marine Services Private Limited. These measures are part of a broader crackdown 
 
-## ‘Govt of, for and by the people’: Ex-BJP President Murli Manohar Joshi on protests against CEC Gyanesh Kumar
-The ex-BJP national president declined to take sides but said constitutional principles should be adhered to.
+## TCS says Trump's PERM suspension won't affect US plans, targets 15,000 new hires
+Tata Consultancy Services (TCS) stated that the US government's suspension of the PERM programme would not affect its workforce strategy. The company emphasized its commitment to hiring local talent across its numerous offices in the US. TCS plans to increase its workforce in the US by hiring 15,000
 
-## Bypoll results LIVE: Big test for BJP in Bengal, Vijay’s TVK in Tamil Nadu; vote counting begins at 8am
-Bypoll results LIVE: Counting of votes for five Assembly seats, including Nandigram and Rejinagar in West Bengal, Madurantakam and Dharapuram in Tamil Nadu, and Thattanchavady in Puducherry, as well as the Nagaon Lok Sabha seat in Assam, will begin at 8 am by the Election Commission of India (ECI).
+## Stock recommendations: Which stocks should you buy or sell on October 9, 2026?
+Stock market recommendations: Axis Bank, and Authum Investment & Infrastructure Ltd have been recommended as the top stocks to buy today on October 9, 2026 by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
 
-## Indigo, Air India Express, Akasa Air cancel flights to Riyadh after Houthi attacks on airports
-Indigo, Air India Express, and Akasa Air offered free rescheduling or refunds to the affected passengers.
+## Oil prices today: Brent slips as Trump cites 'productive talks' with Iran
 
-## Man 'appointed' Goa Excise Commissioner, takes charge; order turns out fake
-According to the police, Manoj Talekar claimed he had handed over ₹27 lakh to one Ajit Shankhwalkar, who had been promising him a government job.
 
-## Opposition plans march to Rashtrapati Bhavan to seek CEC Gyanesh Kumar’s resignation
-The move follows days of protests in Delhi and comes amid heated exchanges between the Opposition and the BJP.
+## Supreme Court summons CJP, student organisations at 2pm today amid row over Delhi curbs
+The bench stressed that the right to protest had to be exercised within the framework of applicable laws and permissions.
 
-## ‘Forgiving nature of Supreme Court has to end’: Judge says high crime due to commutation of death sentence
-A bench of justices was hearing a petition filed by a life term-serving couple seeking premature release in the 2001 gruesome murder of eight members.
+## Home Guard strangles wife, daughter with data cable in Lucknow; held
+Home Guard strangles wife, daughter with data cable in Lucknow; held
 
-## Elon Musk asks why Starlink still lacks India licence, gets a reply from Rahul Gandhi
-SpaceX CEO Musk noted that while Starlink is licensed in 165 countries, it has spent five years complying with Indian laws and government requirements.
+## India doesn't allow monopoly; satcom licencees can start only after security norms met: Scindia
+Scindia said that three entities, Musk's Starlink, Reliance Jio's satellite venture Jio Satcom and Bharti-backed Eutelsat OneWeb, have already secured licences.
 
-## Days after narrating drought plight to minister, Maharashtra farmer ends life by jumping in well
-Rajendra Sapate, a resident of Dhop taluka in Mohadi, jumped into a well in a paddy field between 8am and 9am, he said.
+## Jewar airport to be renamed Narendra Modi International Airport, UP passes resolution
+Jewar airport to be renamed Narendra Modi International Airport.
+
+## CM Lalduhoma urges non-Mizo AIS officers to learn local language, culture
+CM Lalduhoma urges non-Mizo AIS officers to learn local language, culture
+
+## ‘Serious questions over Dhruv Rathee's citizenship, visa after Bengaluru stir’: Ex-IPS officer writes to home ministry
+Former IPS officer Bhaskar Rao said that the letter was “not motivated by any disagreement” with Rathee's political opinions.
+
+## Expired products, unhygienic conditions: Karnataka FDA uncovers violations at several ice cream units
+The FDA collected 70 samples of ice cream, milk, milk powder, flavouring substances, sugar, food additives and other raw materials for laboratory testing.
+
+## 'Please appreciate, see students' future': Top court refuses to reopen FIRs over CJP's July stir
+The bench also drew a distinction between the students and protesters involved in the cases and individuals with serious criminal backgrounds.
+
+## China holiday travel spikes, global funds shift: 5 figures investors are watching in China
+Hong Kong’s property market showed renewed strength as a Kowloon residential site fetched its highest price in nearly five years, while the city’s pension funds posted solid gains despite a September setback. Meanwhile, global investors returned to Chinese equities after years of caution, as US Trea
+
+## Hong Kong faces limited impact if Fed curbs access to US dollar funding facility: analysts
+A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve facility that provides short-term US dollar funding would have limited impact on the city as it is not a regular source of financing, according to analysts, who said any restriction could instead weaken the US dollar’s glob
+
+## Can China use its widening US yield gap to boost the yuan’s global role?
+China should seize a window opened by the widening US-China yield gap to strengthen the financing, hedging and asset-absorption systems behind the yuan, turning its cyclical low-interest-rate advantage into lasting global use of the currency, according to a researcher from a Beijing-based government
 
 ## Finance or gambling? Prediction-market players push for regulatory clarity in Asia
 Fintech industry executives have stepped up lobbying for clearer regulations regarding prediction markets as they attempt to distance the business from gambling and also play down its risks. The calls, made at Thursday’s iFX Expo Asia in Hong Kong, come as regulators and legal experts in the city an
@@ -119,15 +134,6 @@ In a rare market move, a long-established local developer sold a Central retail 
 
 ## Amid battle for AI edge, Hong Kong presses HSBC over Singapore hub decision: sources
 As Hong Kong and Singapore compete for leadership in businesses ranging from foreign exchange trading to wealth management, the battleground has extended to artificial intelligence, with both cities vying to attract investment from HSBC Holdings and other major corporations, according to industry pl
-
-## Alibaba’s AI cloud revenue set to surge over 50% as investment blitz pays off: analysts
-Alibaba Group Holding is expected to report a 50 per cent revenue surge for its cloud and artificial intelligence unit for the September quarter, driven by strong returns on its aggressive AI investments, according to analysts. Analysts across several financial institutions projected revenue growth 
-
-## Retail properties offloaded for losses in weak market as revaluations spark bank concerns
-Several retail properties sold recently by prominent Hong Kong investors have been offloaded at a loss – a trend analysts attributed to banks maintaining a tough stance on debt collection. Stanley Poon Chi-ming, managing director at Centaline Commercial, said retail property prices had fallen by 30 
-
-## Uniqlo sees profits soar in China despite Beijing-Tokyo tensions
-Fast Retailing, the parent company of Japanese clothing retailer Uniqlo, has defied the ongoing political tensions between Beijing and Tokyo and soft consumer sentiment in China to log a rebound in sales and profits on the Chinese mainland. The Japanese firm said the 2026 financial year, which ended
 
 ## Mecca Pact, Activated
 What Pakistan and Turkey will likely do (and want) in Saudi Arabia.
@@ -153,6 +159,18 @@ The African Union is challenging the big three rating agencies’ approach to as
 ## The Real Danger May Be AI as Dumb as Us
 Talk of “super intelligence” distracts from frequent screwups.
 
+## A Raid on a Gay Bar Risks Taiwan’s LGBTQ-Friendly Reputation
+An attorney says authorities overstepped legal bounds, and activists warn of discrimination ahead of Asia's largest Pride event.
+
+## The Bangsamoro’s New Government Faces a Test of Public Trust
+The main challenge of the incoming administration will be to sustain the peace process with Manila while representing the interests of local residents.
+
+## Former Philippine President Duterte Fit to Stand Trial, ICC Says
+An independent panel of experts said that the 81-year-old "has the capacity to understand the charges" and "the purpose and consequences" of the trial proceedings.
+
+## US Has Opened Direct Talks With Myanmar Government, Report Claims
+The outreach, which marks a significant shift in U.S. policy, is aimed at curbing online scamming operations and gaining access to the country's rare earth deposits.
+
 ## What ‘Beyond Advocacy’ Means for India’s Role in the Russia-Ukraine Conflict
 India’s possible role as a facilitator will be driven by its own economic interests, rather than any need to increase its political heft on the global stage.
 
@@ -165,17 +183,11 @@ For Pakistan, the most worrying possibility is small, relatively cheap drone sys
 ## Investigation Finds That Former High-Ranking Uzbek Security Official Acquired UAE Citizenship
 According to an OCCRP and Ozodlik investigation, Otabek Umarov, the Uzbek president’s son-in-law, obtained Emirati citizenship in 2023, while he was deputy head of the Presidential Security Service.
 
-## Beyond Deference: India’s Bangladesh Reckoning
-A course correction is needed in New Delhi.
+## The Last Mile of Pentagon Reform Runs Through the Brigade
+A kill chain measured in seconds cannot depend on processes measured in weeks or months. The Pentagon recognizes that drone proliferation and AI-enabled lethal targeting are reducing decision cycles and increasing the premium on speed. The 2025 drone and acquisition reforms and the 2026 Artificial I
 
-## Afghanistan and the BLA’s Evolving Capabilities
-Reported discussions in Kandahar point to a possible expansion of the BLA’s external support networks as the group comes under pressure in Pakistan.
-
-## Gen Z Women Take to the Streets Over Spate of Rapes in India’s Capital
-Urban Indian women are refusing to be cowed down or slut shamed or policed for their attire or forced to stay indoors in the evenings to ensure their safety.
-
-## Anwar is Bargaining Myanmar Lives For Political Gain – And He Will Lose
-Min Aung Hlaing should not be trusted to resolve a refugee crisis that is a direct result of his own past policies.
+## Fornication in America: Trump’s Arch, Rome’s Emperors, and the Meaning of Victory
+In 79 A.D., Gaius Plinius Secundus, known today as Pliny the Elder, was the supreme commander of the Roman imperial fleet, permanently stationed at Misenum near Naples. He died during the eruption of Vesuvius, after sailing across the bay on a valiant but unsuccessful rescue mission. Amid such heavy
 
 ## Ten Wartime Technologies at America’s 250th
 For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
@@ -194,12 +206,6 @@ Anthropic recently disclosed five cases in which users hid their countries while
 
 ## Kindling, Catalyst, and Containment: Will the West Bank Ignite?
 As violence by Israeli settlers against Palestinians in the West Bank has escalated, often with the acquiescence or support of Israel’s military, and the Israeli government has increasingly constricted Palestinian daily life, the potential for a new intifada — or uprising — has intensified. The firs
-
-## Iran Faces Severe Challenges to Rebuild Missile and Drone Production
-With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran’s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack drones i
-
-## Certainty is a Luxury Ukrainians Must Create
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Protests, debate follow death of Maricarmen, 87, Spain protest symbol
-Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate.
+## US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
+Award-winning filmmaker, detained last month, is released on bond with next hearing set for October 27, campaign says.
 
-## USS Abraham Lincoln returns after record-breaking deployment
-Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea
+## Three years after October 7, prolonged war takes its toll on Israelis
+Children’s psychiatric emergency visits have more than doubled in Israel, study shows.
 
-## UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal
-Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.
+## Why has Iraq decided to ban online map service Waze?
+Iraq plans to ban Waze, citing Israeli origins, and suggests alternatives like Google Maps or local app in development.
 
-## USS Lincoln returns to US after long deployment supporting war on Iran
-Crew members express relief after a record 265 days at sea that strained conditions on board.
+## Who is Dov Lando, the Israeli rabbi criticising Zionism?
+The senior rabbi, whose party is in Netanyahu's coalition, has caused uproar in Israel by calling Zionism disastrous.
 
-## A father’s agony after an Israeli air strike hits Gaza apartment
-An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.
+## Afghanistan’s emerald miners struggle with tools but attract global buyers
+Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.
 
-## Will Ethiopia’s neighbours intervene as Tigray war escalates?
-Tigray’s renewed war is testing Ethiopia’s already strained regional ties.
+## Trump says US will not strike Iran before midterm elections
+Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.
 
-## Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait
-Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.
+## Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro
+Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.
 
-## Kenyan patient suspected of Ebola infection tests negative
-Preliminary lab results ease fears of a second case in Kenya, after the country reported its first-ever case this week.
+## From Aden to Sanaa, Yemenis struggle to deal with soaring living costs
+As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.
+
+## Era of cheap capital is over
+The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
+
+## GST Council proposes curbs on e-way bill interceptions, seeks to protect goods in transit from confiscation
+Proposed amendments to the CGST Act would require specific intelligence and authorisation by an officer of at least Joint Commissioner rank for interception, while narrowing the scope for enforcement action by transit states.
 
 ## GST Council 57th Meeting: Faster Refunds, ITC, Registration, Lower Penalties — All Key Announcements Explained
 GST Council 2026 Highlights: The GST Council has approved a series of major reforms, including faster GST refunds, easier registration and cancellation, wider ITC eligibility, no notices below ₹10,000, lower prosecution and penalty thresholds, simplified compliance for small businesses and easier GS
@@ -267,11 +279,8 @@ The interest on the underlying loan will remain exempt from GST. The 18% levy wi
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
 
-## 57th GST Council meeting: What’s in store for CFOs and India Inc?
-Faster refunds, smoother input tax credit, simpler registration and lower compliance burden could be among key issues as GST Council meets on October 8.
-
-## ICAI advances Ind AS 118 work, eyes Schedule III revamp
-Ind AS 118 implementation gathers pace as ICAI works with MCA on Schedule III alignment, while advancing work on new accounting standards and emerging financial reporting issues.
+## Govt likely to finalise critical minerals stockpiling policy in a month
+Mines Secretary Keshav Chandra indicated that a policy on stockpiling critical minerals will be announced soon. This initiative is designed to support strategic sectors like defence, advanced electronics, and aerospace. The government plans to establish four dedicated critical minerals processing pa
 
 ## Deposit rate hikes unlikely for 3 months; RBI action to help NIMs: SBI chairman C S Setty
 State Bank of India Chairman C S Setty stated there will be no deposit rate hikes for the next three months. He cited sufficient liquidity in the system as a key reason for this prediction. Setty mentioned that credit growth is expected to sustain at 14 to 15 percent over time. He emphasized that ba
@@ -293,7 +302,4 @@ The rupee neared its record low after the RBI raised the repo rate to 5.50%. Gov
 
 ## Strong possibility of another RBI rate hike in December: Crisil Chief Economist
 Crisil's chief economist, Dharmakirti Joshi, predicts a possible repo rate hike in December, citing inflation risks and robust domestic demand as red flags. He also pointed to the influence of the West Asian conflict and potential monsoon impacts on supply-side inflation. While the domestic economy 
-
-## Rupee may be undervalued despite market depreciation bias: RBI Governor
-The Reserve Bank of India (RBI) Governor Sanjay Malhotra on Wednesday said financial markets can often behave irrationally in the short term and suggested that several indicators point to the rupee being undervalued rather than overvalued.
 
