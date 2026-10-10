@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
-Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow
+## Palestinian Authority blames Israeli ‘obstacles’ for latest election delay
+Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections
+
+## UK government faces new legal challenge after banning Northern Ireland parade
+UK Secretary of State Chris Bryant blocked march through Catholic area after two weeks of escalating tension
 
 ## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
-Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi
+Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
+
+## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
+Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow
 
 ## Taxpayer-funded Trump TV ads continue despite pledge to use private money
 Segments that the White House describes as public service announcements air in battleground districts
@@ -12,17 +18,14 @@ Segments that the White House describes as public service announcements air in b
 ## India’s central bank tries to shore up rupee as it nears record lows
 Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy
 
-## Oil and gas production disrupted and power outages as Hurricane Isaias hits
-Power outages across as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia
+## Oil and gas production disrupted as Hurricane Isaias hits US
+More than 800,000 households were left without power as the first major Atlantic storm of the season swept Florida, Alabama and Georgia
 
 ## Nixonmaxxing: the strange revival of America’s disgraced president
 Richard Nixon has become the unlikely darling of Trump’s Washington
 
-## The US productivity-pay gap
-Workers’ share of output is shrinking
-
-## EU joint budget proposal slashed in race to find end-year agreement
-Proposal would still be a 30 per cent increase on the bloc’s current spending
+## AI borrowing slows as investors grow wary of debt binge
+Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance
 
 ## Reality bites for the Gulf and sport
 Also in today’s newsletter: Gianni Infantino’s re-election campaign and the NFL pushback against prediction markets
@@ -42,32 +45,35 @@ Some deals will still squeak through, but appetite for risk has been hit by risi
 ## Will El Niño bring a ‘Godzilla’ ski season?
 Will El Niño bring a ‘Godzilla’ ski season? Plus Vail Resort’s tumbling profits, a new sleeper to the Swiss Alps and a revolutionary ski boot
 
-## How protein took over the world
-The boom is reshaping the food industry and our diets
+## Trump says it is time for Ukraine to get a new president
+Speaking at the White House on Saturday, the US president questioned Kyiv’s leadership and blamed incompetence for the ongoing conflict
 
-## Tata Steel launches pre-painted steel Colorcoat in India
-The product will be manufactured in Jamshedpur and sold both in India and abroad
+## The balance sheets that can throw AI ‘off’ balance
+A deep dive into off balance sheet debt and variable interest entities - key aspects in the AI universe that have been making ripples recently
 
-## NIA to probe mid-air cockpit attack on Captain Smit Machchhar aboard flydubai flight
-The NIA has invoked Section 3 (hijacking) of the Anti Hijacking Act, 2016 and Section 16 read with Section 15(1)(a) of the Unlawful Activities (Prevention) Act, 1967, officials say
+## HDFC Flexi Cap Fund: Can its winning formula survive the scale test?
+Strong rolling returns and downside control stand out despite rapidly growing scale for this fund with assets of nearly ₹1.14 lakh crore
 
-## Festive sales kick off with strong demand from smaller towns, premium buys gain traction
-Electronics, fashion, beauty and home most popular categories among shoppers
+## Overseas ETFs: Nearly 30% of turnover at inflated prices
+Price-NAV gaps widen despite investment curbs, as overseas exchange traded funds continue to see sustained trading on local bourses
 
-## Phones, ACs, fridges in demand as festive shoppers plan big-ticket upgrades on Flipkart's TBBD
-Large appliances rose 30% y-o-y in the first hour, led by ACs, refrigerators and washers; Tablets up 73%, signaling demand for personal tech upgrades
+## The missing Ctrl + F in your financial life
+From policies to property papers, put your family’s financial information in one place
 
-## Apple set to debut touch-screen MacBook and new iPad mini in late October
-The event, likely to be scheduled on or around Tuesday, October 27, will also include versions of the 14-inch MacBook Pro and iMac with M6 chips
+## UN rights office alarmed by mass detentions at Delhi protests
+The office says any limits on peaceful protest must pass “strict tests of necessity and proportionality,” and called on authorities to ensure police show “utmost restraint”
 
-## Funding crunch dims lights at Puja Pandals
-Administrative delays, cuts in corporate spending quieten Kolkata’s festive beat
+## Rising rates: What should your debt strategy be?
+To know what kind of bonds to own now, investors need to gauge the direction of interest rates and the quantum of the change
 
-## Premier Energies secures orders worth ₹4,000 crore in Q2
-These orders from major power producers, module manufacturers, EPCs, and others total 2,308 MW for solar cells, modules, and EPC projects, the company said
+## SEBI turns bond ratings into a consumer-friendly traffic-light system
+The new Credit Risk-o-Meter translates credit ratings into six colour-coded risk categories, focusing mainly on a debt security’s credit risk
 
-## Nat Habit raises ₹142 crore in a Series C funding round led by Trident Growth Partners
-The all-primary funding round also included new investors, Physis Capital and Hero Family Office
+## Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections
+Two landlords, who were practising advocates, said they needed the rented premises to set up a law office. The tenant argued that the landlords had changed their stated purpose for seeking possession and already had other properties that could be used for their professional work. The tenant opposed 
+
+## ‘To be finalised in line with changed circumstances’: Piyush Goyal on India-US trade deal
+India and the US are finalizing their interim trade agreement framework, as circumstances have changed since February. Commerce Minister Piyush Goyal indicated that negotiations would consider recent shifts in the US tariff landscape. Trade talks are also progressing with other countries, including 
 
 ## Despite promise, builder denied disabled parking to Rs 1.03 crore flat buyer; RERA orders relief
 In one such case, a woman and her family bought a 3BHK ( 3 Bedrooms, Hall, Kitchen) from a builder in Bengaluru for Rs 1.03 crore. The builder promised two specially enabled parking spaces, and it was supposedly one of the property's key attractions. The builder's brochure and terms clearly referred
@@ -87,35 +93,29 @@ A man had not filed an income tax return for assessment year 2016-17. The tax de
 ## Religious, spiritual & astrology apps see nearly 30cr downloads in Jan-Sept
 
 
-## Now, RBI puts CRR and bond sale into play
+## CJP asks ‘where is Abhijeet’ after Delhi Police say Dipke was informed of grandmother’s death
+CJP's post came after the Delhi Police posted on X saying Dipke had been informed about his grandmother’s death and the scheduled time of her funeral.
 
+## Rahul Gandhi meets Tamil Nadu CM Vijay in Chennai, allies head for coffee and tiramisu after political talks
+Rahul Gandhi and Vijay visited Bask by Coffee, a cafe, and reportedly had a cappuccino, tiramisu, and cookies.
 
-## Bank credit up 20% year-on-year in end September
+## Mamata Banerjee, Arvind Kejriwal among 4 ex-CMs detained in Delhi's anti-CEC protest crackdown
+The detentions took place at multiple locations across Delhi amid heavy security in view of the demonstration called by the CJP against SIR.
 
+## Delhi Police clarify after video shows cops wearing shoes on Bangla Sahib premises, allege 'malicious intent'
+The Delhi Police said that legal action was being initiated against those circulating the video showing the cops in bad light.
 
-## Five killed in fresh violence in strife-torn Manipur
-Five killed in fresh violence in strife-torn Manipur
+## 'Will come back stronger': CJP's Ajinkya Shinde calls fresh protest after Delhi Police crackdown on Jantar Mantar stir
+CJP's Ajinkya Shinde calls fresh protest after Delhi Police crackdown on Jantar Mantar stir
 
-## 'Sharjeel Imam flouted interim bail conditions': Delhi court observes violation, but refuses to cancel bail
-The Delhi Police had approached the court on Friday, seeking cancellation of Imam’s interim bail in the 2020 Delhi riots larger conspiracy case.
+## Adhikari launches Durga Puja festivities, cites adherence to religious norms
+This is the first Durga Puja since the Bharatiya Janata Party (BJP) came to power in May this year, ousting the Trinamool Congress government
 
-## NPPA directs health ministry to cap cancer drug profit margin to 30 pc: K'taka Minister
-NPPA directs health ministry to cap cancer drug profit margin to 30 pc: K'taka Minister
+## Prakash Rajpurohit named deputy election commissioner in bureaucratic reshuffle
+A 2010-batch IAS officer from the Rajasthan cadre, he replaced Sanjay Kumar as deputy election commissioner
 
-## 2 wanted smugglers injured, cop shot, 1 arrested in Gurugram police encounter
-Sandeep Turan, public relations officer of Gurugram police, said the Sector 65 crime branch team received information about three armed men planning to commit a robbery
-
-## 'Have dacoits from Chambal gathered in Delhi': CJP founder Abhijeet Dipke's father amid police crackdown
-Police launched a sweeping crackdown in the national capital, detaining Abhijeet Dipke and YouTuber Dhruv Rathee.
-
-## 'Padyatra or anshan': Sonam Wangchuk's warning if leaders detained in Delhi not released by tomorrow
-Sonam Wangchuk warns of hunger strike or foot march if detained leaders are not released by tomorrow.
-
-## 'Wherever Delhi Police stop you, make your own Jantar Mantar': CJP renews call for march amid crackdown
-Shinde alleged that Delhi had effectively been placed under an emergency, accusing the government of shutting down parts of the national capital.
-
-## NIA invokes Anti-hijacking Act to probe flydubai incident, stabbing of Indian pilot Smit Machchhar
-The NIA empowered to investigate terror cases on foreign soil if the incident involves Indian citizens, which in this case involves Smit Machchhar.
+## Siang group calls for boycott of Arunachal CM's meeting with Adi bodies on hydropower project
+Siang group calls for boycott of Arunachal CM's meeting with Adi bodies on hydropower project
 
 ## Better protection needed as violent cryptocurrency robberies surge
 Cryptocurrency’s promise of financial freedom carries a cost the industry must confront: growing wealth can make its owners more attractive targets for violent criminals. Protecting digital assets while treating the physical safety of their holders as a personal matter is an inadequate approach to f
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary
-At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.
+## Christa Pike discharged from hospital and returned to Tennessee prison
+Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.
 
-## England international Cole Palmer signs new Chelsea deal until 2034
-Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.
+## Celebrations in Ethiopian city after reported Eritrean ‘incursion’
+People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.
 
-## Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war
-Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.
+## Eritrea urges UN to intervene in standoff with Ethiopia
+The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.
 
-## Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
-Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
+## Hurricane Isaias leaves two dead and 800,000 without power in US Southeast
+Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.
 
-## Why is US turning to Russia for diesel despite sanctions?
-President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.
+## Trump Accounts: Free money, but who gets a say?
+Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.
 
-## Manchester United vs Tottenham LIVE: Premier League
-Follow updates with build-up and team news from our live text commentary as Bruno Fernandes headlines.
+## With or without Hamas
+Hamas’s fate will not profoundly shape Gaza’s future.
 
-## Exposing an alleged crime kingpin’s Cambodian empire
-In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.
+## Three injured in third school attack in Poland in less than a week
+The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.
 
-## What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?
-Analysts say board has 'failed' in its attempts to secure lasting peace in Gaza.
+## Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges
+Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
