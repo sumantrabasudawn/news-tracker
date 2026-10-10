@@ -1,31 +1,43 @@
 # AION Intelligence
 
+## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
+Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow
+
+## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
+Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi
+
+## Taxpayer-funded Trump TV ads continue despite pledge to use private money
+Segments that the White House describes as public service announcements air in battleground districts
+
+## India’s central bank tries to shore up rupee as it nears record lows
+Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy
+
+## Oil and gas production disrupted and power outages as Hurricane Isaias hits
+Power outages across as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia
+
+## Nixonmaxxing: the strange revival of America’s disgraced president
+Richard Nixon has become the unlikely darling of Trump’s Washington
+
+## The US productivity-pay gap
+Workers’ share of output is shrinking
+
+## EU joint budget proposal slashed in race to find end-year agreement
+Proposal would still be a 30 per cent increase on the bloc’s current spending
+
+## Reality bites for the Gulf and sport
+Also in today’s newsletter: Gianni Infantino’s re-election campaign and the NFL pushback against prediction markets
+
 ## How India is reshaping mental healthcare | FT Standpoint
 Communities in India are bridging faith and medicine to challenge stigma and transform treatment of mental health
 
 ## Nigeria offers fuel discount in ‘pre-election sweetener’
 Move risks unnerving international investors wary about setbacks to President Bola Tinubu’s reform programme
 
-## UK universities withdraw offers from international students to avoid blanket ban
-Pullback comes in response to doubling in number of study visas being refused by the Home Office in the first six months of 2026
-
-## Our 1990s nostalgia is far too rose-tinted
-It’s flattering to believe your generation could have been effortlessly cool. Spoiler alert: most of us were not
-
-## The narrow Tory path to power
-We are now going to see a fight to the death on the right — which the Conservatives may yet lose
-
-## Russia targets Ukraine’s bridges as Vladimir Putin expands air war
-Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week
+## Caribbean cruises are going cheap, and so are operators’ shares
+Cut-price holidays reflect capacity outpacing demand
 
 ## Slowing deals are another flashing red sign for equity markets
 Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters
-
-## Demand for tracker mortgages jumps as rates on fixed deals rise
-Deals that follow the base rate look cheaper but are ‘not a free bet’
-
-## Caribbean cruises are going cheap, and so are operators’ shares
-Cut-price holidays reflect capacity outpacing demand
 
 ## Will El Niño bring a ‘Godzilla’ ski season?
 Will El Niño bring a ‘Godzilla’ ski season? Plus Vail Resort’s tumbling profits, a new sleeper to the Swiss Alps and a revolutionary ski boot
@@ -33,35 +45,35 @@ Will El Niño bring a ‘Godzilla’ ski season? Plus Vail Resort’s tumbling p
 ## How protein took over the world
 The boom is reshaping the food industry and our diets
 
-## Manchester City scandal pushes BDO and UK audit regime into spotlight
-Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system
+## Tata Steel launches pre-painted steel Colorcoat in India
+The product will be manufactured in Jamshedpur and sold both in India and abroad
 
-## There’s nothing wrong with being a food snob
-I’ll eat cheap white bread, greasy-spoon sausages and microwave-baked potatoes. But caring about provenance, quality and how our food is produced shouldn’t be dismissed as elitist
+## NIA to probe mid-air cockpit attack on Captain Smit Machchhar aboard flydubai flight
+The NIA has invoked Section 3 (hijacking) of the Anti Hijacking Act, 2016 and Section 16 read with Section 15(1)(a) of the Unlawful Activities (Prevention) Act, 1967, officials say
 
-## India remains key market for global smartphone makers amid evolving demand, component price pressure
-Gautam Batra, Associate Director – Product Marketing at Xiaomi, noted that consumer appetite remains resilient even as raw material expenses drive retail price adjustments across the industry
+## Festive sales kick off with strong demand from smaller towns, premium buys gain traction
+Electronics, fashion, beauty and home most popular categories among shoppers
 
-## CJP founder Abhijeet Dipke detained by Delhi Police
-CJP leaders Saurav ‌Das and Ashutosh Ranka ​were also detained from their flight ⁠upon landing in Delhi, the ⁠movement said in a statement
+## Phones, ACs, fridges in demand as festive shoppers plan big-ticket upgrades on Flipkart's TBBD
+Large appliances rose 30% y-o-y in the first hour, led by ACs, refrigerators and washers; Tablets up 73%, signaling demand for personal tech upgrades
 
-## Nuclear weapons must not be treated as 'routine instruments of statecraft': India slams Pak at UN
-India exercised its Right of Reply at the plenary meeting of the First Committee of the UN General Assembly Friday that deals with Disarmament and International Security issues
+## Apple set to debut touch-screen MacBook and new iPad mini in late October
+The event, likely to be scheduled on or around Tuesday, October 27, will also include versions of the 14-inch MacBook Pro and iMac with M6 chips
 
-## Avenue Supermarts (DMart) Q2 results live: Earnings, revenue, profit updates
-Supermarts (DMart) Q2 results LIVE updates: Follow the latest announcements and developments on the company's September quarter earnings, revenue and profit, along with updates on Premier Polyfilm, Karnika Industries and LCC Infotech.
+## Funding crunch dims lights at Puja Pandals
+Administrative delays, cuts in corporate spending quieten Kolkata’s festive beat
 
-## YouTuber Dhruv Rathee detained by Delhi Police ahead of CJP protest: Sources
-So far the police has detained around 150 protesters from various locations in New Delhi area
+## Premier Energies secures orders worth ₹4,000 crore in Q2
+These orders from major power producers, module manufacturers, EPCs, and others total 2,308 MW for solar cells, modules, and EPC projects, the company said
 
-## Elon Musk escalates attack on Ambani, shares reports on Reliance-BJP links
-The latest post comes amid Musk’s scathing criticism of Mukesh Ambani over a persistent delay in the launch of Starlink satellite broadband services in India
+## Nat Habit raises ₹142 crore in a Series C funding round led by Trident Growth Partners
+The all-primary funding round also included new investors, Physis Capital and Hero Family Office
 
-## The next phase of farm electrification: Tillers, weeders and the machines around the tractor
-If the goal is to lower input costs, raise farm incomes and cut waste, the next phase of electrification should run on two tracks - the tractor programme that industry is already building and bring in power tillers and weeders
+## Despite promise, builder denied disabled parking to Rs 1.03 crore flat buyer; RERA orders relief
+In one such case, a woman and her family bought a 3BHK ( 3 Bedrooms, Hall, Kitchen) from a builder in Bengaluru for Rs 1.03 crore. The builder promised two specially enabled parking spaces, and it was supposedly one of the property's key attractions. The builder's brochure and terms clearly referred
 
-## How can lift irrigation projects help India take water to more farms?
-The goal is simple: deliver the right quantity of water to the right place, with minimum losses and maximum reliability
+## Man faces Rs 17.18 lakh tax penalty over Rs 55.62 lakh unexplained deposits; ITAT gives relief
+A man had not filed an income tax return for assessment year 2016-17. The tax department subsequently completed a reassessment without his participation and, on February 15, 2024, assessed his total income at Rs 55.62 lakh. The amount was treated as unexplained cash deposits in a bank account that t
 
 ## States to assess GDP through spending method
 
@@ -81,35 +93,32 @@ The goal is simple: deliver the right quantity of water to the right place, with
 ## Bank credit up 20% year-on-year in end September
 
 
-## PERM freeze: Indian IT stocks rally, but talent exodus looms
+## Five killed in fresh violence in strife-torn Manipur
+Five killed in fresh violence in strife-torn Manipur
 
+## 'Sharjeel Imam flouted interim bail conditions': Delhi court observes violation, but refuses to cancel bail
+The Delhi Police had approached the court on Friday, seeking cancellation of Imam’s interim bail in the 2020 Delhi riots larger conspiracy case.
 
-## Teacher denied gratuity for working past 60; Allahabad HC orders payment with 6% interest
-A woman joined an educational institution in Faizabad as an assistant teacher on August 16, 1992. She continued working there until March 31, 2019, when she retired. However, the institution declined to pay her gratuity, arguing that the prescribed retirement age was 60 and she had remained in servi
+## NPPA directs health ministry to cap cancer drug profit margin to 30 pc: K'taka Minister
+NPPA directs health ministry to cap cancer drug profit margin to 30 pc: K'taka Minister
 
-## Telangana ACB arrests civil supplies manager over ₹9.41 crore disproportionate assets
-Telangana ACB arrested civil supplies manager Vasamsetti Narasimha Rao over alleged disproportionate assets of ₹9.41 crore, with market value estimated above ₹40 crore.
+## 2 wanted smugglers injured, cop shot, 1 arrested in Gurugram police encounter
+Sandeep Turan, public relations officer of Gurugram police, said the Sector 65 crime branch team received information about three armed men planning to commit a robbery
 
-## 'Cops coming inside plane': Dipke and team CJP detained minutes after Delhi airport touchdown
-Teams from the southwest district police had been deployed at the Indira Gandhi International Airport.
+## 'Have dacoits from Chambal gathered in Delhi': CJP founder Abhijeet Dipke's father amid police crackdown
+Police launched a sweeping crackdown in the national capital, detaining Abhijeet Dipke and YouTuber Dhruv Rathee.
 
-## Manipur: Kuki woman killed in crossfire, restrictions imposed near Chassad police gate junction
-A Kuki woman was killed in firing in Manipur’s Kamjong district during a drive to demolish illegal bunkers. Restrictions were imposed near Chassad police gate.
+## 'Padyatra or anshan': Sonam Wangchuk's warning if leaders detained in Delhi not released by tomorrow
+Sonam Wangchuk warns of hunger strike or foot march if detained leaders are not released by tomorrow.
 
-## ‘Pathological liar’, ‘crossed all boundaries’: BJP slams Rahul Gandhi after meeting with President Murmu
-Rahul Gandhi and other opposition leaders had met President Murmu on Friday over allegations of irregularities in the Special Intensive Revision (SIR)
+## 'Wherever Delhi Police stop you, make your own Jantar Mantar': CJP renews call for march amid crackdown
+Shinde alleged that Delhi had effectively been placed under an emergency, accusing the government of shutting down parts of the national capital.
 
-## Missing Class 5 student found dead in pond near quarry in UP’s Jhansi, probe underway
-The body of an 11-year-old Class 5 student who went missing for 26 hours was found in a pond near a quarry in Jhansi. Police are investigating his death.
+## NIA invokes Anti-hijacking Act to probe flydubai incident, stabbing of Indian pilot Smit Machchhar
+The NIA empowered to investigate terror cases on foreign soil if the incident involves Indian citizens, which in this case involves Smit Machchhar.
 
-## CJP says 'dictator is terrified' as Delhi cops detain Dhruv Rathee ahead of Jantar Mantar protest
-In a post on X, the CJP claimed the Centre was “terrified of young people who question its wrongdoings and refuse to stay silent.”
-
-## Panel flags NTA staff shortage, moots new question bank system
-NTA has 16 of 39 permanent posts vacant, while its DG post remained additional charge for nearly two years, a parliamentary panel report said.
-
-## Government proposes tighter curbs on prescription-only drugs ads by pharmacies, wholesalers
-The draft amendment aims to discourage unauthorised promotion and inappropriate self-medication. Stakeholders have 30 days to respond.
+## Better protection needed as violent cryptocurrency robberies surge
+Cryptocurrency’s promise of financial freedom carries a cost the industry must confront: growing wealth can make its owners more attractive targets for violent criminals. Protecting digital assets while treating the physical safety of their holders as a personal matter is an inadequate approach to f
 
 ## Gen Z overtakes older collectors as art market spending rebounds globally: report
 Gen Z high-net-worth collectors have overtaken older generations as the art market’s biggest spenders, with average fine art expenditure more than twice that of older collectors, helping drive a global sales rebound to nearly US$60 billion, according to the latest Art Basel and UBS market insights. 
@@ -131,9 +140,6 @@ Hong Kong-headquartered DFI Retail Group, which owns and operates the city’s l
 
 ## China state funds double down on Hua Hong in legacy chip push
 Chinese state funds are ramping up support for the country’s second-largest contract chipmaker, pouring billions of yuan into the parent of Hua Hong Grace Semiconductor and a new manufacturing facility to fuel Beijing’s drive for self-reliance in mature-node chips. The capital blitz, spanning Hua Ho
-
-## China holiday travel spikes, global funds shift: 5 figures investors are watching in China
-Hong Kong’s property market showed renewed strength as a Kowloon residential site fetched its highest price in nearly five years, while the city’s pension funds posted solid gains despite a September setback. Meanwhile, global investors returned to Chinese equities after years of caution, as US Trea
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
-US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.
+## Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary
+At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.
 
-## Israel’s economy prospers despite years of war, but prices worry voters
-Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.
+## England international Cole Palmer signs new Chelsea deal until 2034
+Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.
 
-## Taiwan president says defence spending boost aims to ‘deter war’
-President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.
+## Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war
+Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.
 
-## Anthropic AI model submits false homicide tip to Philadelphia police
-Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.
+## Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
+Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’
 
-## Supporters of jailed former Pakistani PM Khan marching to capital
-Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.
+## Why is US turning to Russia for diesel despite sanctions?
+President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.
 
-## Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site
-Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.
+## Manchester United vs Tottenham LIVE: Premier League
+Follow updates with build-up and team news from our live text commentary as Bruno Fernandes headlines.
 
-## India deploys police and restricts transport ahead of mass protest in Delhi
-The Cockroach Janta Party wants Chief Election Commissioner Gyanesh Kumar to quit over changes to voter lists.
+## Exposing an alleged crime kingpin’s Cambodian empire
+In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.
 
-## CCTV footage shows ICE shooting in New York
-New footage shows the moment ICE agents opened fire on a man as he drove his car with his child in the backseat.
+## What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?
+Analysts say board has 'failed' in its attempts to secure lasting peace in Gaza.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
