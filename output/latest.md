@@ -1,58 +1,67 @@
 # AION Intelligence
 
-## Northern Ireland’s Drumcree parade banned
-NI secretary Chris Bryant seeks to defuse tensions between Protestants and Catholics in the region
+## How India is reshaping mental healthcare | FT Standpoint
+Communities in India are bridging faith and medicine to challenge stigma and transform treatment of mental health
 
-## JD Vance says he will not watch Pentagon’s livestreamed execution
-Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter
+## Nigeria offers fuel discount in ‘pre-election sweetener’
+Move risks unnerving international investors wary about setbacks to President Bola Tinubu’s reform programme
 
-## Trump agrees deal with Putin for Russia to release diesel
-Pact between Washington and Moscow comes just weeks before critical midterm elections in the US
+## UK universities withdraw offers from international students to avoid blanket ban
+Pullback comes in response to doubling in number of study visas being refused by the Home Office in the first six months of 2026
 
-## Why OpenAI’s revenue numbers really matter
-Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public
+## Our 1990s nostalgia is far too rose-tinted
+It’s flattering to believe your generation could have been effortlessly cool. Spoiler alert: most of us were not
 
-## The hazy OpenAI growth metric driving Wall Street
-Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks
+## The narrow Tory path to power
+We are now going to see a fight to the death on the right — which the Conservatives may yet lose
 
-## Delta slashes profit outlook as higher fuel prices bite
-US airline warns over continued impact of Iran conflict even as third-quarter revenues rise
+## Russia targets Ukraine’s bridges as Vladimir Putin expands air war
+Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week
 
-## US telcos shed $60bn in value after SpaceX announces spectrum purchase
-Elon Musk takes big step towards launching Starlink mobile service for US consumers
+## Slowing deals are another flashing red sign for equity markets
+Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters
 
-## Flydubai co-pilot planned 9/11-style attack on Tel Aviv airport, UAE says
-Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’
+## Demand for tracker mortgages jumps as rates on fixed deals rise
+Deals that follow the base rate look cheaper but are ‘not a free bet’
 
-## Airlines sound the alarm as bleak winter looms
-The industry is reeling from the energy shock unleashed by the Iran war
+## Caribbean cruises are going cheap, and so are operators’ shares
+Cut-price holidays reflect capacity outpacing demand
 
-## Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf
-First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi
+## Will El Niño bring a ‘Godzilla’ ski season?
+Will El Niño bring a ‘Godzilla’ ski season? Plus Vail Resort’s tumbling profits, a new sleeper to the Swiss Alps and a revolutionary ski boot
 
-## Elon Musk calls Mukesh Ambani ‘Prime Minister Ambani’ in Starlink India row
-The exchange comes as the government defends its satellite communications licensing framework and moves towards a final decision on spectrum pricing
+## How protein took over the world
+The boom is reshaping the food industry and our diets
 
-## Trump names Katie Zacharia as White House press secretary, replacing Karoline Leavitt
-The conservative commentator previously worked as a Department of Homeland Security spokesperson and has appeared on Fox News and Newsmax
+## Manchester City scandal pushes BDO and UK audit regime into spotlight
+Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system
 
-## Two powerful earthquakes of magnitude 7.7 and 6.6 rock Panama, trigger evacuations
-Authorities assessed structural damage and safety risks as aftershocks rattled Panama, airport operations were suspended and tsunami alerts reached several countries
+## There’s nothing wrong with being a food snob
+I’ll eat cheap white bread, greasy-spoon sausages and microwave-baked potatoes. But caring about provenance, quality and how our food is produced shouldn’t be dismissed as elitist
 
-## US lifts sanctions on Russian diesel sales until April 7, 2027, after Trump-Putin call
-The move comes as global diesel supplies tighten following refinery attacks and rising fuel prices put pressure on the US administration
+## India remains key market for global smartphone makers amid evolving demand, component price pressure
+Gautam Batra, Associate Director – Product Marketing at Xiaomi, noted that consumer appetite remains resilient even as raw material expenses drive retail price adjustments across the industry
 
-## India slams US decision to curb PERM programme for tech firms; dubs Vance’s remarks 'deeply offensive'
-To Vance’s “foreign indentured servants” jibe, MEA retorts by pointing out that the history of the US itself has been shaped by generations of immigrants
+## CJP founder Abhijeet Dipke detained by Delhi Police
+CJP leaders Saurav ‌Das and Ashutosh Ranka ​were also detained from their flight ⁠upon landing in Delhi, the ⁠movement said in a statement
 
-## ‘TVS group’s 2020 family partition can be a model for Venu Srinivasan family settlement’
-Lakshmi Venu seeks a fair, transparent settlement of TVS family wealth mirroring the 2020 partition through dialogue and mediation.
+## Nuclear weapons must not be treated as 'routine instruments of statecraft': India slams Pak at UN
+India exercised its Right of Reply at the plenary meeting of the First Committee of the UN General Assembly Friday that deals with Disarmament and International Security issues
 
-## Tata Motors raises Iveco takeover offer to €14.40 per share
-Tata Motors has revised its Iveco takeover bid, citing delays in regulatory authorisations, while the Italian truckmaker has welcomed the higher offer
+## Avenue Supermarts (DMart) Q2 results live: Earnings, revenue, profit updates
+Supermarts (DMart) Q2 results LIVE updates: Follow the latest announcements and developments on the company's September quarter earnings, revenue and profit, along with updates on Premier Polyfilm, Karnika Industries and LCC Infotech.
 
-## US imposes sanctions on International Criminal Court, hours after former judge wins Nobel
-The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and said they would not halt the tribunal's work
+## YouTuber Dhruv Rathee detained by Delhi Police ahead of CJP protest: Sources
+So far the police has detained around 150 protesters from various locations in New Delhi area
+
+## Elon Musk escalates attack on Ambani, shares reports on Reliance-BJP links
+The latest post comes amid Musk’s scathing criticism of Mukesh Ambani over a persistent delay in the launch of Starlink satellite broadband services in India
+
+## The next phase of farm electrification: Tillers, weeders and the machines around the tractor
+If the goal is to lower input costs, raise farm incomes and cut waste, the next phase of electrification should run on two tracks - the tractor programme that industry is already building and bring in power tillers and weeders
+
+## How can lift irrigation projects help India take water to more farms?
+The goal is simple: deliver the right quantity of water to the right place, with minimum losses and maximum reliability
 
 ## States to assess GDP through spending method
 
@@ -78,29 +87,32 @@ The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and
 ## Teacher denied gratuity for working past 60; Allahabad HC orders payment with 6% interest
 A woman joined an educational institution in Faizabad as an assistant teacher on August 16, 1992. She continued working there until March 31, 2019, when she retired. However, the institution declined to pay her gratuity, arguing that the prescribed retirement age was 60 and she had remained in servi
 
-## Public safety, past lapses: Why Delhi Police denied CJP permission for Jantar Mantar protest
-Delhi police said the right to protest is a fundamental right but that granting permission also requires authorities to consider the rights of other citizens.
+## Telangana ACB arrests civil supplies manager over ₹9.41 crore disproportionate assets
+Telangana ACB arrested civil supplies manager Vasamsetti Narasimha Rao over alleged disproportionate assets of ₹9.41 crore, with market value estimated above ₹40 crore.
 
-## Parliamentary panel asks for a public tech strategy and a new coordination body
-The committee is also learnt to have recommended a separate “technology diplomacy strategy” for the MEA
+## 'Cops coming inside plane': Dipke and team CJP detained minutes after Delhi airport touchdown
+Teams from the southwest district police had been deployed at the Indira Gandhi International Airport.
 
-## Trump says Iran war will be ‘over soon’, claims US stopped Tehran from getting nuclear weapon
-Speaking at a White House event, Trump also predicted that gas prices would fall, saying the conflict would end “one way or the other”.
+## Manipur: Kuki woman killed in crossfire, restrictions imposed near Chassad police gate junction
+A Kuki woman was killed in firing in Manipur’s Kamjong district during a drive to demolish illegal bunkers. Restrictions were imposed near Chassad police gate.
 
-## ‘Gaurav Gogoi failed completely, should resign’: Akhil Gogoi slams Congress after Nagaon Lok Sabha bypoll setback
-Akhil Gogoi also blamed Assam Congress president Gaurav Gogoi for the party's poor performance and called for his immediate resignation.
+## ‘Pathological liar’, ‘crossed all boundaries’: BJP slams Rahul Gandhi after meeting with President Murmu
+Rahul Gandhi and other opposition leaders had met President Murmu on Friday over allegations of irregularities in the Special Intensive Revision (SIR)
 
-## ECI fortified, 254 trains cancelled, metro affected, internet shut: Delhi braces for CJP's October 10 protest against CEC Gyanesh Kumar
-Delhi Police has imposed Section 163 BNSS restrictions in ‘sensitive areas’ to maintain public order and prevent potential security threats.
+## Missing Class 5 student found dead in pond near quarry in UP’s Jhansi, probe underway
+The body of an 11-year-old Class 5 student who went missing for 26 hours was found in a pond near a quarry in Jhansi. Police are investigating his death.
 
-## 'Final call': Dipke releases video message ahead of CJP protest, anticipates arrest upon landing in Delhi
-Dipke said he would travel from Mumbai to Delhi on morning of October and urged people to join the protest in large numbers
+## CJP says 'dictator is terrified' as Delhi cops detain Dhruv Rathee ahead of Jantar Mantar protest
+In a post on X, the CJP claimed the Centre was “terrified of young people who question its wrongdoings and refuse to stay silent.”
 
-## 'Shocked that President accepted what we said': Rahul Gandhi makes big claim after meet over CEC row
-A delegation of Opposition MPs met President Murmu on Friday and submitted the memorandum over SIR irregulariries.
+## Panel flags NTA staff shortage, moots new question bank system
+NTA has 16 of 39 permanent posts vacant, while its DG post remained additional charge for nearly two years, a parliamentary panel report said.
 
-## DMRC revises order after Supreme Court rap, 45 Delhi Metro stations to remain affected
-The Supreme Court directed the Centre and Delhi Police to lift blanket restrictions on metro and railway services ahead of CJP's protests in Delhi on Saturday.
+## Government proposes tighter curbs on prescription-only drugs ads by pharmacies, wholesalers
+The draft amendment aims to discourage unauthorised promotion and inappropriate self-medication. Stakeholders have 30 days to respond.
+
+## Gen Z overtakes older collectors as art market spending rebounds globally: report
+Gen Z high-net-worth collectors have overtaken older generations as the art market’s biggest spenders, with average fine art expenditure more than twice that of older collectors, helping drive a global sales rebound to nearly US$60 billion, according to the latest Art Basel and UBS market insights. 
 
 ## China wants 5 innovative drugs with US$1 billion returns by 2030. Which might they be?
 The increasing global appeal of Chinese firms’ novel therapies has propelled the country’s rise as a biomedical powerhouse, but China has yet to produce a drug to rival all-time best-selling Western blockbusters in sales. Beijing has set ambitious new five-year targets to boost its global presence, 
@@ -122,9 +134,6 @@ Chinese state funds are ramping up support for the country’s second-largest co
 
 ## China holiday travel spikes, global funds shift: 5 figures investors are watching in China
 Hong Kong’s property market showed renewed strength as a Kowloon residential site fetched its highest price in nearly five years, while the city’s pension funds posted solid gains despite a September setback. Meanwhile, global investors returned to Chinese equities after years of caution, as US Trea
-
-## Hong Kong faces limited impact if Fed curbs access to US dollar funding facility: analysts
-A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve facility that provides short-term US dollar funding would have limited impact on the city as it is not a regular source of financing, according to analysts, who said any restriction could instead weaken the US dollar’s glob
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -222,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Intercommunal clashes kill 71 people in South Sudan
-Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
+## US hosts ‘productive’ trilateral talks to end Russia-Ukraine war
+US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.
 
-## Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
-The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.
+## Israel’s economy prospers despite years of war, but prices worry voters
+Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.
 
-## Mexico investigates video said to show cartel members fighting for Ukraine
-Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
+## Taiwan president says defence spending boost aims to ‘deter war’
+President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.
 
-## Trump confirms Fort Hood shooter’s execution will be by firing squad
-The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.
+## Anthropic AI model submits false homicide tip to Philadelphia police
+Authorities called Anthropic's two-month delay in detecting and reporting the incident 'unacceptable'.
 
-## US judge rules Trump administration’s use of voter data unlawful
-A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.
+## Supporters of jailed former Pakistani PM Khan marching to capital
+Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.
 
-## Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe
-CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.
+## Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site
+Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.
 
-## Manchester United vs Tottenham: Premier League – teams, prediction, lineups
-Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.
+## India deploys police and restricts transport ahead of mass protest in Delhi
+The Cockroach Janta Party wants Chief Election Commissioner Gyanesh Kumar to quit over changes to voter lists.
 
-## UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue
-Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.
+## CCTV footage shows ICE shooting in New York
+New footage shows the moment ICE agents opened fire on a man as he drove his car with his child in the backseat.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
@@ -270,6 +279,15 @@ The interest on the underlying loan will remain exempt from GST. The 18% levy wi
 ## RBI MPC hikes repo rate by 25 bps to 5.50%, first increase since February 2023
 India’s economic momentum remains resilient, with the RBI projecting FY27 GDP growth at 7.1 per cent even as inflation is expected to rise to 5.2 per cent. The central bank sees growth holding firm amid elevated inflation pressures, with quarterly inflation projected to peak at 6 per cent.
 
+## India slams JD Vance's H-1B remarks, defends Indian workers
+India's external affairs ministry expressed strong disapproval of JD Vance's remarks about H-1B workers, labeling them as deeply offensive. They emphasized that current H-1B visas continue to be valid, notwithstanding modifications to the PERM program. Vance's allegations against firms like Microsof
+
+## Boosting US oil supplies with Russian diesel unlikely to have much impact on prices: Experts
+A new agreement aims to increase diesel supplies from Russia to the U.S., while experts doubt it will lower prices. The current high diesel prices have significantly impacted inflation and consumer goods, which have raised concerns before upcoming elections. Analysts indicate that the deal may shuff
+
+## RBI opens special dollar window for three state-run oil firms
+The Reserve Bank of India has opened a special facility for three state-run oil marketing companies. This facility is designed to meet their full daily dollar requirements. The arrangement will continue until further notice based on the market conditions. Indian Oil Corporation, Hindustan Petroleum 
+
 ## Govt likely to finalise critical minerals stockpiling policy in a month
 Mines Secretary Keshav Chandra indicated that a policy on stockpiling critical minerals will be announced soon. This initiative is designed to support strategic sectors like defence, advanced electronics, and aerospace. The government plans to establish four dedicated critical minerals processing pa
 
@@ -284,13 +302,4 @@ A proposal is under consideration to defer the rollout of merchant discount rate
 
 ## RBI excludes Paytm Payments Bank from list of scheduled banks
 The Reserve Bank of India (RBI) has excluded Paytm Payments Bank Limited (PPBL) from the list of scheduled banks under the Second Schedule to the Reserve Bank of India Act, 1934.
-
-## After RBI policy rate hike, several banks raise lending rates
-In a response to the Reserve Bank of India's recent hike in the benchmark interest rate, several leading banks have amended their lending rates accordingly. Punjab National Bank set its Repo Linked Lending Rate at 8.35 percent, effective from October 8. Indian Bank has increased its lending rate to 
-
-## Markets can be irrational in the short run: What RBI Governor Sanjay Malhotra said as rupee nears lifetime low
-The rupee neared its record low after the RBI raised the repo rate to 5.50%. Governor Sanjay Malhotra said the currency may be undervalued, while analysts viewed the hawkish stance and higher inflation outlook as supportive of the rupee.
-
-## Strong possibility of another RBI rate hike in December: Crisil Chief Economist
-Crisil's chief economist, Dharmakirti Joshi, predicts a possible repo rate hike in December, citing inflation risks and robust domestic demand as red flags. He also pointed to the influence of the West Asian conflict and potential monsoon impacts on supply-side inflation. While the domestic economy 
 
