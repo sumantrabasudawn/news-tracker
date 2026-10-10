@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Hurricane Isaias kills at least two and disrupts US oil and gas production
+More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia
+
+## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
+Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
+
+## Riyadh airport suspends operations after missile strike injures dozens
+Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits
+
+## Nvidia in talks to acquire US ‘open’ model start-up Reflection AI
+Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek
+
+## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
+Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow
+
 ## Palestinian Authority blames Israeli ‘obstacles’ for latest election delay
 Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections
 
 ## UK government faces new legal challenge after banning Northern Ireland parade
 UK Secretary of State Chris Bryant blocked march through Catholic area after two weeks of escalating tension
 
-## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
-Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
-
-## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
-Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow
-
 ## Taxpayer-funded Trump TV ads continue despite pledge to use private money
 Segments that the White House describes as public service announcements air in battleground districts
-
-## India’s central bank tries to shore up rupee as it nears record lows
-Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy
-
-## Oil and gas production disrupted as Hurricane Isaias hits US
-More than 800,000 households were left without power as the first major Atlantic storm of the season swept Florida, Alabama and Georgia
-
-## Nixonmaxxing: the strange revival of America’s disgraced president
-Richard Nixon has become the unlikely darling of Trump’s Washington
 
 ## AI borrowing slows as investors grow wary of debt binge
 Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance
@@ -42,8 +42,8 @@ Cut-price holidays reflect capacity outpacing demand
 ## Slowing deals are another flashing red sign for equity markets
 Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters
 
-## Will El Niño bring a ‘Godzilla’ ski season?
-Will El Niño bring a ‘Godzilla’ ski season? Plus Vail Resort’s tumbling profits, a new sleeper to the Swiss Alps and a revolutionary ski boot
+## Riyadh airport attacked again as Saudi Arabia faces fresh Houthi strikes
+Several international airlines have suspended Saudi services as regional tensions escalate, raising concerns over aviation safety and disruptions to air travel
 
 ## Trump says it is time for Ukraine to get a new president
 Speaking at the White House on Saturday, the US president questioned Kyiv’s leadership and blamed incompetence for the ongoing conflict
@@ -65,9 +65,6 @@ The office says any limits on peaceful protest must pass “strict tests of nece
 
 ## Rising rates: What should your debt strategy be?
 To know what kind of bonds to own now, investors need to gauge the direction of interest rates and the quantum of the change
-
-## SEBI turns bond ratings into a consumer-friendly traffic-light system
-The new Credit Risk-o-Meter translates credit ratings into six colour-coded risk categories, focusing mainly on a debt security’s credit risk
 
 ## Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections
 Two landlords, who were practising advocates, said they needed the rented premises to set up a law office. The tenant argued that the landlords had changed their stated purpose for seeking possession and already had other properties that could be used for their professional work. The tenant opposed 
@@ -93,29 +90,29 @@ A man had not filed an income tax return for assessment year 2016-17. The tax de
 ## Religious, spiritual & astrology apps see nearly 30cr downloads in Jan-Sept
 
 
+## Allahabad HC warns against misuse of criminal law in short-lived marriages, quashes dowry FIR
+Allahabad HC warns against misuse of criminal law in short-lived marriages, quashes dowry FIR
+
+## Not just Jantar Mantar, internet suspended at 8 other locations amid CJP protest in Delhi
+The order, approved by Union home secretary Govind Mohan, suspended mobile internet within 500 metres of each site from noon to 10pm on Saturday.
+
+## India hits back at UN rights office over remarks on Delhi protests, calls concerns ‘misplaced’
+The Indian embassy said the right to peaceful assembly is constitutionally guaranteed, subject to reasonable restrictions in the interest of public order.
+
+## CJP renews protest call as Abhijeet Dipke, Dhruv Rathee remain detained; Delhi Police cite ‘broken promises’ amid crackdown
+Delhi Police reportedly released all the detainees from the detention centers except CJP leaders. This comes amid a widespread crackdown in national capital.
+
+## ‘System can’t be honest when you win and rigged when you lose’: 124 ex-bureaucrats defend Election Commission, SIR exercise
+Defending SIR, the ex-civil servants described it as a necessary process to maintain accurate electoral rolls by identifying deceased voters, duplicate entries
+
+## Delhi protest: Right-wing groups assault protesters, journalists amid heavy security deployment
+Many of the men were seen beating protesters in front of police personnel, including instances at Connaught Place that unfolded in front of HT reporters.
+
+## DMRC reopens all Delhi Metro station gates, train services to run as per normal schedule
+The protest was called by the Cockroach Janta Party (CJP), which is demanding Chief Election Commissioner Gyanesh Kumar's resignation.
+
 ## CJP asks ‘where is Abhijeet’ after Delhi Police say Dipke was informed of grandmother’s death
 CJP's post came after the Delhi Police posted on X saying Dipke had been informed about his grandmother’s death and the scheduled time of her funeral.
-
-## Rahul Gandhi meets Tamil Nadu CM Vijay in Chennai, allies head for coffee and tiramisu after political talks
-Rahul Gandhi and Vijay visited Bask by Coffee, a cafe, and reportedly had a cappuccino, tiramisu, and cookies.
-
-## Mamata Banerjee, Arvind Kejriwal among 4 ex-CMs detained in Delhi's anti-CEC protest crackdown
-The detentions took place at multiple locations across Delhi amid heavy security in view of the demonstration called by the CJP against SIR.
-
-## Delhi Police clarify after video shows cops wearing shoes on Bangla Sahib premises, allege 'malicious intent'
-The Delhi Police said that legal action was being initiated against those circulating the video showing the cops in bad light.
-
-## 'Will come back stronger': CJP's Ajinkya Shinde calls fresh protest after Delhi Police crackdown on Jantar Mantar stir
-CJP's Ajinkya Shinde calls fresh protest after Delhi Police crackdown on Jantar Mantar stir
-
-## Adhikari launches Durga Puja festivities, cites adherence to religious norms
-This is the first Durga Puja since the Bharatiya Janata Party (BJP) came to power in May this year, ousting the Trinamool Congress government
-
-## Prakash Rajpurohit named deputy election commissioner in bureaucratic reshuffle
-A 2010-batch IAS officer from the Rajasthan cadre, he replaced Sanjay Kumar as deputy election commissioner
-
-## Siang group calls for boycott of Arunachal CM's meeting with Adi bodies on hydropower project
-Siang group calls for boycott of Arunachal CM's meeting with Adi bodies on hydropower project
 
 ## Better protection needed as violent cryptocurrency robberies surge
 Cryptocurrency’s promise of financial freedom carries a cost the industry must confront: growing wealth can make its owners more attractive targets for violent criminals. Protecting digital assets while treating the physical safety of their holders as a personal matter is an inadequate approach to f
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Christa Pike discharged from hospital and returned to Tennessee prison
-Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.
+## Damage seen inside Saudi airport after third attack this week
+Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.
 
-## Celebrations in Ethiopian city after reported Eritrean ‘incursion’
-People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.
+## Philippines volcano erupts, creating 6km-high ash cloud
+Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.
 
-## Eritrea urges UN to intervene in standoff with Ethiopia
-The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.
+## Rubio pledges US cooperation in Marine-linked murder case
+A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.
 
-## Hurricane Isaias leaves two dead and 800,000 without power in US Southeast
-Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.
+## Israeli attack destroys building in Gaza one year into ‘ceasefire’
+An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.
 
-## Trump Accounts: Free money, but who gets a say?
-Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.
+## Why is the Trump administration trying to dismantle the ICC?
+The US has imposed sweeping new sanctions on the International Criminal Court.
 
-## With or without Hamas
-Hamas’s fate will not profoundly shape Gaza’s future.
+## Lionel Messi returns from Argentina farewell as Inter Miami face DC United
+Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.
 
-## Three injured in third school attack in Poland in less than a week
-The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.
+## Azerbaijan school pupils protest over reported hijab restrictions
+Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.
 
-## Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges
-Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.
+## Manchester United held by ten-man Tottenham as woes for both continue
+Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
