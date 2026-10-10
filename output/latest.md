@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## Northern Ireland’s Drumcree parade banned
+NI secretary Chris Bryant seeks to defuse tensions between Protestants and Catholics in the region
+
+## JD Vance says he will not watch Pentagon’s livestreamed execution
+Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter
+
+## Trump agrees deal with Putin for Russia to release diesel
+Pact between Washington and Moscow comes just weeks before critical midterm elections in the US
+
+## Why OpenAI’s revenue numbers really matter
+Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public
+
+## The hazy OpenAI growth metric driving Wall Street
+Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks
+
 ## Delta slashes profit outlook as higher fuel prices bite
 US airline warns over continued impact of Iran conflict even as third-quarter revenues rise
-
-## JD Vance casts doubt on Pentagon’s plan to livestream execution
-Split reveals an emerging schism in the Republican Party over plan to broadcast killing of Fort Hood shooter
 
 ## US telcos shed $60bn in value after SpaceX announces spectrum purchase
 Elon Musk takes big step towards launching Starlink mobile service for US consumers
@@ -13,25 +25,25 @@ Elon Musk takes big step towards launching Starlink mobile service for US consum
 Chief prosecutor says aviator aimed to cause ‘the greatest possible loss of life’
 
 ## Airlines sound the alarm as bleak winter looms
-Some smaller carriers will struggle to survive as demand falls in coming months, warns IAG chief Luis Gallego
-
-## Trump agrees deal with Putin for Russia to release diesel
-Pact between Washington and Moscow comes just weeks before critical midterm elections in the US
+The industry is reeling from the energy shock unleashed by the Iran war
 
 ## Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf
-First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi
+First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi
 
-## Bessent to miss IMF annual meetings in Bangkok
-US Treasury secretary’s absence is due to ‘domestic engagements’, say officials
+## Elon Musk calls Mukesh Ambani ‘Prime Minister Ambani’ in Starlink India row
+The exchange comes as the government defends its satellite communications licensing framework and moves towards a final decision on spectrum pricing
 
-## Trump pressures Mexico for energy deals in crunch trade talks
-Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity
+## Trump names Katie Zacharia as White House press secretary, replacing Karoline Leavitt
+The conservative commentator previously worked as a Department of Homeland Security spokesperson and has appeared on Fox News and Newsmax
 
-## Stockpickers: Avingtrans, Tesco, JD Wetherspoon
-Our experts discuss which companies to buy, sell or hold this week
+## Two powerful earthquakes of magnitude 7.7 and 6.6 rock Panama, trigger evacuations
+Authorities assessed structural damage and safety risks as aftershocks rattled Panama, airport operations were suspended and tsunami alerts reached several countries
 
-## Directors’ Deals: CMC directors buy in as choppy markets boost trading
-Founder Lord Cruddas extends his holding
+## US lifts sanctions on Russian diesel sales until April 7, 2027, after Trump-Putin call
+The move comes as global diesel supplies tighten following refinery attacks and rising fuel prices put pressure on the US administration
+
+## India slams US decision to curb PERM programme for tech firms; dubs Vance’s remarks 'deeply offensive'
+To Vance’s “foreign indentured servants” jibe, MEA retorts by pointing out that the history of the US itself has been shaped by generations of immigrants
 
 ## ‘TVS group’s 2020 family partition can be a model for Venu Srinivasan family settlement’
 Lakshmi Venu seeks a fair, transparent settlement of TVS family wealth mirroring the 2020 partition through dialogue and mediation.
@@ -42,44 +54,29 @@ Tata Motors has revised its Iveco takeover bid, citing delays in regulatory auth
 ## US imposes sanctions on International Criminal Court, hours after former judge wins Nobel
 The ICC's deputy prosecutor, Nazhat Shameem Khan, ⁠condemned the sanctions and said they would not halt the tribunal's work
 
-## Delhi on high alert ahead of protest against CEC
-57 Metro stations to shut, 45 trains cancelled
+## States to assess GDP through spending method
 
-## Funding crunch dims lights at Puja Pandals
-Administrative delays, cuts in corporate spending quieten Kolkata’s festive beat
 
-## BJP sweeps Bengal Assembly bypolls by winning both Nandigram and Rejinagar by record margin
-West Bengal on Tuesday saw a high voter turnout in the high-stakes by-elections in Nandigram and Rejinagar
+## US trade talks steady, visa curbs may help India: Piyush Goyal
 
-## Make in India, measured against wrong decade
-The last 10-12 years have been marked by progress despite the pandemic, tariff wars and armed conflict. A comparison would require a long-term view
 
-## Ahmedabad Metro train fault disrupts GIFT City service; two staff suspended
-An empty train, run daily before passenger service, developed a technical issue at the siding near GIFT City station around 6 am
+## Forex reserves fall by $13bn to $734.6bn
+
+
+## Religious, spiritual & astrology apps see nearly 30cr downloads in Jan-Sept
+
+
+## Now, RBI puts CRR and bond sale into play
+
+
+## Bank credit up 20% year-on-year in end September
+
+
+## PERM freeze: Indian IT stocks rally, but talent exodus looms
+
 
 ## Teacher denied gratuity for working past 60; Allahabad HC orders payment with 6% interest
 A woman joined an educational institution in Faizabad as an assistant teacher on August 16, 1992. She continued working there until March 31, 2019, when she retired. However, the institution declined to pay her gratuity, arguing that the prescribed retirement age was 60 and she had remained in servi
-
-## UPI vs credit cards: What should you choose for payments after MDR?
-The overall value of a transaction depends on several factors including the payment mode, transaction value, the applicable MDR (if any), and the value-back attached to the payment method. This becomes particularly relevant as UPI increasingly intersects with the credit card ecosystem through RuPay 
-
-## How Trump's move to suspend 8 IT firms from PERM will hit Indian professionals badly
-The list of companies which have been suspended by the Trump administration from the Permanent Labour Certification Programme (PERM) includes IT sector majors like TCS, Infosys, Microsoft, Wipro, and Cognizant. By suspending major IT companies from the PERM programme, the US government is effectivel
-
-## Sisters sought 1/3rd share in parents' property; Madras HC rules in favour of brother
-In this case, the parents of two daughters and a son owned several properties. The daughters got married and moved to their husbands' homes. On September 10, 2026, the Madras High Court dismissed the sisters' appeal for a share, allowing their brother to retain the land.
-
-## Delays of several hours: Passenger trains using slower freight locos amid shortage
-Indian Railways records contain several instances in which a lack of locomotives designed for passenger services led to trains being hauled by freight engines, which operate at lower speeds. The use of these locomotives has affected running times and caused operational delays, the records show. The 
-
-## Gold price prediction: What is the outlook for the yellow metal on October 9, 2026?
-Gold price prediction today: MCX Gold December futures are witnessing a strong recovery, with prices trading around Rs 1,51,325 after breaking above the earlier consolidation zone near Rs 1,49,500–Rs 1,50,000.
-
-## Stock market volatility: What should investors do with their portfolios?
-The natural question for investors at this point is what to do next. Sticking to their long term strategy is the best course of action, even when it takes real patience. Investors should also remember that the discomfort of waiting is a normal part of investing and not a sign of a wrong decision.
-
-## Rs 2 crore deposit, no ITR, Rs 2.51 crore addition; ITAT quashes because reassessment is 5 days late
-The Income Tax Appellate Tribunal (ITAT), Chennai, has quashed a reassessment involving Rs 2.51 crore additionals after holding that the Income Tax Department had issued the reopening notice after the statutory time limit had already expired.
 
 ## Public safety, past lapses: Why Delhi Police denied CJP permission for Jantar Mantar protest
 Delhi police said the right to protest is a fundamental right but that granting permission also requires authorities to consider the rights of other citizens.
@@ -105,6 +102,9 @@ A delegation of Opposition MPs met President Murmu on Friday and submitted the m
 ## DMRC revises order after Supreme Court rap, 45 Delhi Metro stations to remain affected
 The Supreme Court directed the Centre and Delhi Police to lift blanket restrictions on metro and railway services ahead of CJP's protests in Delhi on Saturday.
 
+## China wants 5 innovative drugs with US$1 billion returns by 2030. Which might they be?
+The increasing global appeal of Chinese firms’ novel therapies has propelled the country’s rise as a biomedical powerhouse, but China has yet to produce a drug to rival all-time best-selling Western blockbusters in sales. Beijing has set ambitious new five-year targets to boost its global presence, 
+
 ## K&K offers extra warranty to One Stanley homebuyers amid building defects furore
 Developer K&K Property has announced plans to offer a six-year structural warranty to homeowners at its luxury One Stanley development, as the company seeks to move on from a growing furore over alleged construction defects at the complex. “As the developer of the One Stanley development project, we
 
@@ -126,8 +126,8 @@ Hong Kong’s property market showed renewed strength as a Kowloon residential s
 ## Hong Kong faces limited impact if Fed curbs access to US dollar funding facility: analysts
 A US lawmaker’s call for a review of Hong Kong’s access to a Federal Reserve facility that provides short-term US dollar funding would have limited impact on the city as it is not a regular source of financing, according to analysts, who said any restriction could instead weaken the US dollar’s glob
 
-## Can China use its widening US yield gap to boost the yuan’s global role?
-China should seize a window opened by the widening US-China yield gap to strengthen the financing, hedging and asset-absorption systems behind the yuan, turning its cyclical low-interest-rate advantage into lasting global use of the currency, according to a researcher from a Beijing-based government
+## Nobel Peace Prize Goes to Former ICC Judge
+The United States imposed new sanctions on the international body in response.
 
 ## The Global Diesel Crisis, Explained
 How did the world reach a tipping point, and who holds the leverage?
@@ -150,32 +150,29 @@ The debut novel “Venus, Vanishing” is a fast-paced tale of deception, forger
 ## What in the World?
 Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.
 
-## Brazil’s Far-Right Resurgence
-The Bolsonaro family looks likely to retake the presidency.
+## Why Afghanistan’s Neighbors Have Not Backed Pakistan’s Strikes on the Taliban
+China, Uzbekistan, and Tajikistan are less exposed to the impact of cross-border terrorism – and less willing to risk smooth relations with Kabul over the issue.
+
+## The US and China Cannot Slow the AI Race, But They Can Make It Safer
+The United States does not need to trust China, share frontier models with China, or slow its own AI development to have a national security interest in AI safety cooperation.
+
+## Myanmar’s Leaders Tried to Erase My Rohingya Identity 11 Years Ago
+The repression of Rohingya identity is connected to Myanmar’s broader failure to establish an inclusive political order. It's time for ASEAN to realize that.
+
+## Why Kim Jong Un Should Want a 4th Summit With Donald Trump
+Here’s what Pyongyang’s Foreign Ministry might be telling Kim about a possible summit.
+
+## New Governor, Old Problem: Koja Confronts US Base-Related Crimes in Okinawa
+Whoever is governor, waves of Okinawan anti-base sentiment and protest will continue in the wake of every violent crime.
+
+## Debunking Alarmist Narratives on the ‘China Air Base’ in Laos
+The most widespread narratives regarding the Laos-China Support and Training Center lack evidence and demonstrate a limited understanding of air power.
+
+## Central Asia’s Leaders Gather in Turkmenistan for 8th Consultative Meeting
+Grand outcomes aren't necessary at every meeting to prove the value of a format. But at a certain point, the lowest hanging fruit has been picked.
 
 ## Why Is China Proposing Reciprocal Nuclear Laboratory Visits?
 While China and the U.S. still disagree on the size of nuclear forces and the path of arms control, can they exchange meaningful information on certain technical issues?
-
-## India’s Energy Transition Is Complicated, But Progressing
-While coal continues to dominate India’s power supply, the country is also building clean energy at one of the fastest rates in the world.
-
-## What Pakistan Will and Won’t Do in Yemen
-Operationally, it would make little sense for Pakistan to send in large conventional ground forces to Yemen simply to put the brakes on Houthi advances.
-
-## A Raid on a Gay Bar Risks Taiwan’s LGBTQ-Friendly Reputation
-An attorney says authorities overstepped legal bounds, and activists warn of discrimination ahead of Asia's largest Pride event.
-
-## The Bangsamoro’s New Government Faces a Test of Public Trust
-The main challenge of the incoming administration will be to sustain the peace process with Manila while representing the interests of local residents.
-
-## Former Philippine President Duterte Fit to Stand Trial, ICC Says
-An independent panel of experts said that the 81-year-old "has the capacity to understand the charges" and "the purpose and consequences" of the trial proceedings.
-
-## US Has Opened Direct Talks With Myanmar Government, Report Claims
-The outreach, which marks a significant shift in U.S. policy, is aimed at curbing online scamming operations and gaining access to the country's rare earth deposits.
-
-## What ‘Beyond Advocacy’ Means for India’s Role in the Russia-Ukraine Conflict
-India’s possible role as a facilitator will be driven by its own economic interests, rather than any need to increase its political heft on the global stage.
 
 ## Shows of Strength and Signs of Strain
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
@@ -225,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump announces Russian diesel deal amid soaring US fuel prices
-Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
+## Intercommunal clashes kill 71 people in South Sudan
+Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
 
-## European states, Canada, Japan and UN back ICC against US sanctions
-Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.
+## Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal
+The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.
 
-## Tsunami warnings across Latin America after 7.7 magnitude earthquake hits
-Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.
+## Mexico investigates video said to show cartel members fighting for Ukraine
+Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
 
-## Injured Orangutan rescued from Indonesia wildfires
-A young orangutan has been rescued from wildfires on Borneo Island in Indonesia.
+## Trump confirms Fort Hood shooter’s execution will be by firing squad
+The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.
 
-## Katie Zacharia ‘offered’ position as White House press secretary
-The role has been vacant since former White House press secretary Karoline Leavitt left in August.
+## US judge rules Trump administration’s use of voter data unlawful
+A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.
 
-## ‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution
-Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad.
+## Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe
+CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.
 
-## AI deepfake ads grow more popular in US midterm campaigns, blurring truth
-The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.
+## Manchester United vs Tottenham: Premier League – teams, prediction, lineups
+Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.
 
-## Gaza ceasefire ‘exists in name only’, more than 100 NGOs say
-Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.
+## UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue
+Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
