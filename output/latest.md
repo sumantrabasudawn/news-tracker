@@ -1,13 +1,13 @@
 # AION Intelligence
 
+## Missile strike on Riyadh airport kills 12 and injures hundreds
+Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels
+
 ## Hurricane Isaias kills at least two and disrupts US oil and gas production
 More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia
 
 ## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
 Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
-
-## Riyadh airport suspends operations after missile strike injures dozens
-Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits
 
 ## Nvidia in talks to acquire US ‘open’ model start-up Reflection AI
 Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek
@@ -42,11 +42,11 @@ Cut-price holidays reflect capacity outpacing demand
 ## Slowing deals are another flashing red sign for equity markets
 Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters
 
-## Riyadh airport attacked again as Saudi Arabia faces fresh Houthi strikes
-Several international airlines have suspended Saudi services as regional tensions escalate, raising concerns over aviation safety and disruptions to air travel
+## Trump calls for new Ukraine president, blames Zelenskyy for war and high US diesel prices
+The US president’s remarks have intensified tensions with Kyiv, while European allies reaffirm sanctions and Ukraine reports mounting civilian casualties
 
-## Trump says it is time for Ukraine to get a new president
-Speaking at the White House on Saturday, the US president questioned Kyiv’s leadership and blamed incompetence for the ongoing conflict
+## Saudi airport attack kills 12, injures over 300; Trump weighs military intervention
+Saudi Arabia faces mounting security concerns as airport operations halt, international travel warnings spread and regional fighting intensifies across Yemen
 
 ## The balance sheets that can throw AI ‘off’ balance
 A deep dive into off balance sheet debt and variable interest entities - key aspects in the AI universe that have been making ripples recently
@@ -162,6 +162,21 @@ The debut novel “Venus, Vanishing” is a fast-paced tale of deception, forger
 ## What in the World?
 Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.
 
+## Indonesia’s Energy Investment Potential
+Too big to ignore
+
+## Indian Family Offices Eye Southeast Asia’s Startups
+Patient capital, real risk.
+
+## China’s Bid to Define the ‘Global South’
+Beijing has adopted its own, quite different, definition of the term.
+
+## Whither Japan’s Three Non-Nuclear Principles?
+A highly contentious debate is in the offing.
+
+## Beyond Ideological Blocs: The ICDPP’s New Intercontinental Political Dialogue
+Insights from an Interview with Chung Eui-yong on the Origins, Principles, and Future of the ICDPP
+
 ## Why Afghanistan’s Neighbors Have Not Backed Pakistan’s Strikes on the Taliban
 China, Uzbekistan, and Tajikistan are less exposed to the impact of cross-border terrorism – and less willing to risk smooth relations with Kabul over the issue.
 
@@ -170,21 +185,6 @@ The United States does not need to trust China, share frontier models with China
 
 ## Myanmar’s Leaders Tried to Erase My Rohingya Identity 11 Years Ago
 The repression of Rohingya identity is connected to Myanmar’s broader failure to establish an inclusive political order. It's time for ASEAN to realize that.
-
-## Why Kim Jong Un Should Want a 4th Summit With Donald Trump
-Here’s what Pyongyang’s Foreign Ministry might be telling Kim about a possible summit.
-
-## New Governor, Old Problem: Koja Confronts US Base-Related Crimes in Okinawa
-Whoever is governor, waves of Okinawan anti-base sentiment and protest will continue in the wake of every violent crime.
-
-## Debunking Alarmist Narratives on the ‘China Air Base’ in Laos
-The most widespread narratives regarding the Laos-China Support and Training Center lack evidence and demonstrate a limited understanding of air power.
-
-## Central Asia’s Leaders Gather in Turkmenistan for 8th Consultative Meeting
-Grand outcomes aren't necessary at every meeting to prove the value of a format. But at a certain point, the lowest hanging fruit has been picked.
-
-## Why Is China Proposing Reciprocal Nuclear Laboratory Visits?
-While China and the U.S. still disagree on the size of nuclear forces and the path of arms control, can they exchange meaningful information on certain technical issues?
 
 ## Shows of Strength and Signs of Strain
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Damage seen inside Saudi airport after third attack this week
-Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.
+## Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis
+As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.
 
-## Philippines volcano erupts, creating 6km-high ash cloud
-Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.
+## Liverpool vs Man City: the top five clashes between Premier League giants
+Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.
 
-## Rubio pledges US cooperation in Marine-linked murder case
-A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.
+## WHO says no plague case registered after Russian lab worker’s death
+The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.
 
-## Israeli attack destroys building in Gaza one year into ‘ceasefire’
-An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.
+## Yemeni government’s military says its forces advancing against Houthis
+Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
 
-## Why is the Trump administration trying to dismantle the ICC?
-The US has imposed sweeping new sanctions on the International Criminal Court.
+## Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
+Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.
 
-## Lionel Messi returns from Argentina farewell as Inter Miami face DC United
-Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.
+## Hundreds of doctors demand World Medical Association suspend Israel
+Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
 
-## Azerbaijan school pupils protest over reported hijab restrictions
-Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.
+## Malawi motorists queue for days as fuel shortage bites
+Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.
 
-## Manchester United held by ten-man Tottenham as woes for both continue
-Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.
+## Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast
+Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
