@@ -1,31 +1,37 @@
 # AION Intelligence
 
-## US hits commercial tanker in Gulf of Oman as tensions flare
-The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month
+## India’s ‘Cockroach’ movement plans more protests after release of leaders
+Abhijeet Dipke of the youth-led Cockroach Janta Party was freed by a court order as police tightened security in New Delhi
+
+## Houthis show military reach with deadly missile strikes on Riyadh
+Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’
+
+## Ukraine’s allies vow to pressure Moscow after Trump-Putin diesel deal
+US president’s suggestion that Zelenskyy should be replaced shocked Kyiv and European nations
+
+## Europe can fight the ‘China shock’
+But it requires Brussels to prioritise creative destruction over protectionism
+
+## Will September inflation cement US interest rate policy for the rest of the year?
+Market Questions is the FT’s guide to the week ahead
+
+## Healey rules out cutting ‘mansion tax’ threshold to £1.5mn in UK Budget
+Mooted reduction had provoked backlash by Labour MPs concerned about impact on voters in London
+
+## Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts
+Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere
+
+## Missile strike on Riyadh airport kills 12 and injures hundreds
+Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels
 
 ## US justice department probes TV networks over Trump pool coverage
 ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban
 
-## UK could be fast-tracked back into EU, pro-Brussels group argues
-Best for Britain says alignment between London and bloc would speed up any rejoining process as Andy Burnham prepares ‘options’
-
-## Energy secretary pushes Healey for more Budget support on rising bills
-Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a New Year price rise
-
-## The fall of Germany’s ex-spymaster
-August Hanning is accused of having illegally purchased state secrets for over a decade
-
-## Russia steps up bid to kill European defence chiefs, spy agencies warn
-Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations
-
-## China’s growing debt burden limits space for economic stimulus
-Mounting interest payments restrict headroom to revive domestic demand, say experts
-
-## Heart disease patients treated at home under new NHS scheme
-Pioneering programme in London is on track to save hundreds of lives and millions of pounds for health service, data suggests
-
 ## Private equity can cut ‘best’ deals in current climate, says Permira boss
 Lower valuations and reduced competition should help sector to ‘exceptional returns’, says Dipan Patel
+
+## Energy secretary pushes Healey for more Budget support on rising bills
+Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a new year price rise
 
 ## JPMorgan bets on European asset management growth
 Patrick Thomson, who heads the bank’s asset management business in Europe, said he was ‘bullish on the UK’
@@ -33,35 +39,44 @@ Patrick Thomson, who heads the bank’s asset management business in Europe, sai
 ## What if AI prefers CVs written by AI?
 The signs are that it does and one law firm’s experience is revealing
 
+## Russia steps up bid to kill European defence chiefs, spy agencies warn
+Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations
+
+## Heart disease patients treated at home under new NHS scheme
+Pioneering programme in London is on track to save hundreds of lives and millions of pounds for health service, data suggests
+
 ## Academic publishing is a study in fighting AI slop
 Original thought, especially in the humanities, is more likely to remain the preserve of humans
 
-## Inside KKR’s €22bn bet on Italy’s telecoms network
-Two years after the FiberCop deal closed it is struggling with high debt and difficult relations with its biggest customer
+## Hero MotoCorp, Samsonite, Philips clock festive sales surge as EMIs spur big-ticket buying
+The number of Amazon sellers recording more than ₹1 crore in sales during the first 24 hours of its Great Indian Festival rose over 80 per cent year-on-year. Hero MotoCorp, Samsonite and Philips reported sharp gains, while Flipkart saw a sixfold opening-hour shopping surge as discounts and EMIs enco
 
-## Flash flood sweeps away houses, bridges in Nepal's Gorkha
-The cause of the sudden surge remains unclear
+## Adani’s Kutch Copper plans 115 MW renewable energy integration, targets lower emissions
+The company currently operates a copper smelter with a capacity of 5,00,000 tonnes per annum and plans to expand it to 1 million tonnes
 
-## Pick of BL commodities -October 11, 2026
-El Nino, which is currently unfolding, may be the strongest since the 1950s. The El Niño-created warm weather has affected tomato production, resulting in its prices doubling in a month. India’s red chilli area may rise 30 per cent this year, but dry weather may limit its gains. Fertilizer sales hav
+## SC mandates free movement and no illegal detentions, ‘subject to public order’
+The court said the authorities must detail in their affidavits whether they had complied with the court’s October 9 order to issue traffic and rail service advisories
 
-## The food vs fuel debate is being asked the wrong way
-It has always been whether we possess the imagination, science, and commitment to design a system delivering both
+## Malaysian Airlines open to partnership with India, seeks to expand network, says CEO
+The South-east Asian carrier, which flies to and from 10 destinations in India, also said that it aspires to expand its network here but bilateral traffic rights restrict it from doing so
 
-## India’s water crisis is becoming an agriculture crisis: What can farmers do differently?
-India’s agricultural future will be shaped by precision, efficiency, and the willingness to change, so water scarcity becomes a challenge we have overcome
+## DoT readies Cabinet note on Satcom spectrum charges; approval may come in coming days
+Domestic companies would be encouraged to participate in the sector rather than India depending solely on foreign players
 
-## Why biofortified crops could shape the next phase of Indian agriculture
-Biofortified crops offer us an opportunity to move from calorie security to nutrition security, and it is one of the most important agricultural shifts our country can make
+## Focus on actual payouts, not just claim settlement ratios: IRDAI Chairman
+The Insurance Regulatory and Development Authority of India (IRDAI) is confident of curbing mis-selling with the help of proposed reforms
 
-## From price volatility to cost certainty: Why MSMEs need to hedge
-In a volatile commodity environment, moving from reactive pricing to proactive risk management could help MSMEs protect margins
+## Tessolve raises $75 million from US-based Vector Line Capital
+The funds will support Tessolve's growth, including strategic acquisitions that add to its existing capabilities, widen its service offerings, and strengthen its global footprint
 
-## India unveils steel policy aiming for 604 million tonne capacity by 2047
-Policy ‌lays out plans to ‌cut ⁠sector emissions and shore ⁠up access to iron ore and coking coal
+## Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts
+MCX crude oil futures for October delivery fell ₹35, or 0.4%, last week to settle at ₹8,881 per barrel
 
-## Stringent traffic curbs in Delhi as CJP protest enters second day
-The restrictions come amid a security clampdown following a call for protest by CJP and prominent student organisations demanding the removal of CEC Gyanesh Kumar
+## FPIs pull out Rs 44,166 crore from Indian equities in October so far
+
+
+## Rs 10 lakh investment, different explanations: why ITAT deleted tax addition and Rs 2 lakh penalty
+The dispute arose after the income tax department received information about an investment of Rs 11.25 lakh made by a man with a wealth management firm. The assessing officer accepted that Rs 1.25 lakh had been paid by cheque, but the source of the remaining Rs 10 lakh, was questioned. Before consid
 
 ## Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections
 Two landlords, who were practising advocates, said they needed the rented premises to set up a law office. The tenant argued that the landlords had changed their stated purpose for seeking possession and already had other properties that could be used for their professional work. The tenant opposed 
@@ -81,35 +96,32 @@ A man had not filed an income tax return for assessment year 2016-17. The tax de
 ## US trade talks steady, visa curbs may help India: Piyush Goyal
 
 
-## Forex reserves fall by $13bn to $734.6bn
+## HT Evening News Brief October 11: Detentions in Delhi despite SC order; Nana Patekar's autopsy reveals cause of death
+Grab your evening tea and catch up on today's top stories across India, global affairs, entertainment, and sports.
 
+## Delhi cops release clip of Dipke denying offer to return home over grandmother's death
+Abhijeet Dipke was asked multiple times if he wishes to speak to his parents but he denied the offer, police said.
 
-## Religious, spiritual & astrology apps see nearly 30cr downloads in Jan-Sept
+## DJB to replace 733km of old pipelines under ₹6,044-crore South Delhi revamp
+The three-year project aims to improve water supply to around 25 lakh people across an area of 247 square kilometres
 
+## Delhi-Chennai IndiGo flight diverted to Hyderabad after smoke detected from 'electronic device’
+The situation was brought under control after the cabin crew acted promptly. The plane landed safely at Hyderabad airport.
 
-## Musk steps up Starlink push in India, says ‘competition would benefit average citizen’
-The latest post comes amid Elon Musk's criticism of Mukesh Ambani over delays in launching Starlink's satellite broadband services in India.
+## DMK, AIADMK stake claim to Chennai metro stretch after PM Modi-CM Vijay’s flag-off
+The IT wing of the opposition DMK said that the signature by former CM MK Stalin was not just for a train service but a signature for a generation
 
-## Delhi markets to reopen on Sunday amid protests, traders urge vigilance and security
-Delhi markets are reopening on Sunday amid fresh protest calls at Jantar Mantar, with traders urging tighter security as fears of festive season business losses grow.
+## 'I am sorry': CJP's Abhijeet Dipke shares post for late grandmother amid protests against CEC
+CJP's Ashutosh Ranka said that Abhijeet Dipke's grandmother died while he was in detention and accused the authorities of displaying insensitivity.
 
-## Jantar Mantar stays barricaded, 30 traffic choke points flagged as Delhi braces for more protests today
-The 30 locations flagged by the traffic police include the Ashoka Road-Jantar Mantar Road roundabout.
+## Bleeding protesters, detained journalists: New Delhi sees fresh chaos despite SC order
+A bus packed with the detainees at Connaught Place included two journalists and at least two protesters who were bruised and bleeding.
 
-## Abhijeet Dipke, team CJP released by court after detention, but on one condition
-Abhijeet Dipke, Saurav Das and Ashutosh Ranka were spotted for the first time since detention on Sunday morning when they were taken to the court in Delhi.
+## ‘This is your time, opportunity’: PM Modi tells students in Chennai, says ‘new ideas needed for a developed India’
+Modi also highlighted importance of Tamil language and culture, praising the Tamil classic Thirukkural and recalling an opportunity to gift the text to Putin.
 
-## ‘Completely unacceptable’: India condemns attack on Saudi's Riyadh airport that killed 12
-At least 12 people were killed and more than 300 injured in the missile attack, which was the deadliest attack in Saudi Arabia in more than a decade.
-
-## Dhruv Rathee released late on Saturday, hours after being detained ahead of CJP protest: Officials
-YouTuber Dhruv Rathee was released late on Saturday.
-
-## ‘Reminiscent of a fascist state’: Press bodies demand Delhi Police's apology for detaining journalists during Jantar Mantar stir
-The CJP and the Opposition are protesting against the alleged electoral irregularities, demanding the resignation of CEC Gyanesh Kumar.
-
-## Indians deserve answers: Probe alleged foreign links to Gen Z protests, identify backers
-The objective of such an investigation must be to expose any concealed foreign direction or hidden role and recommend safeguards.
+## Apple’s Tim Cook kicks off China visit amid mixed signals on new iPhone demand
+Apple executive chairman Tim Cook has begun his third visit to China this year, following the launch of the iPhone 18 Pro line-up and the iPhone Duo, the company’s first foldable device, in one of its biggest markets. Cook met Meng Fanli, governor of the southern province of Guangdong, on Sunday and
 
 ## New vs old: why new-builds are far outselling used homes in Hong Kong
 A clear divide has opened up in Hong Kong’s property market in recent months: sales of new-build homes have surged, but the recovery in the secondary market has remained far more modest. The contrast between the two segments is not a coincidence – and is likely to persist for some time, according to
@@ -131,9 +143,6 @@ The increasing global appeal of Chinese firms’ novel therapies has propelled t
 
 ## K&K offers extra warranty to One Stanley homebuyers amid building defects furore
 Developer K&K Property has announced plans to offer a six-year structural warranty to homeowners at its luxury One Stanley development, as the company seeks to move on from a growing furore over alleged construction defects at the complex. “As the developer of the One Stanley development project, we
-
-## Hong Kong outlines new liquidity reforms as US market rally pulls funds away
-Hong Kong’s securities watchdog is renewing its push to boost market liquidity, setting out further reforms as emerging markets grapple with capital outflow pressure amid a rally in US equities and a strengthening dollar. Speaking at a conference organised by the Asian Securities & Financial Markets
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -183,6 +192,9 @@ The United States does not need to trust China, share frontier models with China
 ## Myanmar’s Leaders Tried to Erase My Rohingya Identity 11 Years Ago
 The repression of Rohingya identity is connected to Myanmar’s broader failure to establish an inclusive political order. It's time for ASEAN to realize that.
 
+## Ground Robots Are Arriving on the Front Lines
+For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
+
 ## Shows of Strength and Signs of Strain
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
 
@@ -203,9 +215,6 @@ For this edition of The Atlantic Brief, the Royal United Services Institute and 
 
 ## The Navy’s Missing Welders Are Stocking Shelves
 The U.S. Navy’s May 2026 shipbuilding plan, signed by Acting Secretary of the Navy Hung Cao, uses the word “innovative” eight times. The plan applies that word, among other things, to the Columbia-class submarine, an acquisition strategy for the medium landing ship, and new approaches to running the
-
-## How to Defend Against AI-Designed Viruses
-Anthropic recently disclosed five cases in which users hid their countries while asking Claude for help enhancing pathogens or toxins. This added fuel to the ongoing debate over whether progress in AI should be slowed. Insider warnings of threats to human lives from artificial intelligence have been
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How genocidal war on Gaza is shaping Israel’s election
-Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.
+## Ceuta migrants allege beatings as camps cleared ahead of royal visit
+People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.
 
-## US opens antitrust probe into TV networks halting Trump coverage
-Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.
+## Meet the man helping India’s detained protesters get home
+Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.
 
-## Hurricane Isaias kills four, leaves 650,000 without power in Florida
-Hurricane Isaias has killed four people and left more than 650,000 people without power.
+## Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport
+A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.
 
-## ICE agent in New York shooting also involved in assault of pregnant woman
-An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.
+## Sweet protein brazzein shows promise in reducing blood sugar spikes: Study
+Russian research reveals that the protein brazzein could help reduce blood sugar spikes.
 
-## Taiz hospitals near collapse as Houthis tighten siege: Yemen government
-Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.
+## Liverpool vs Man City live: Premier League
+Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.
 
-## US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman
-US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.
+## Polish police probe alleged plot to assassinate PM Tusk, defence minister
+Security officials hold emergency meeting after police receive information about potential attack.
 
-## World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport
-Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.
+## Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne
+Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign.
 
-## Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack
-President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.
+## Trump’s brash remarks entertain crowd at election rally in Tennessee
+US President Donald Trump told his supporters they would applaud anything he says.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
