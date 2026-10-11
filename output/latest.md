@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## Missile strike on Riyadh airport kills 12 and injures hundreds
-Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels
+## US hits commercial tanker in Gulf of Oman as tensions flare
+The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month
 
-## Hurricane Isaias kills at least two and disrupts US oil and gas production
-More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia
+## US justice department probes TV networks over Trump pool coverage
+ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban
 
-## Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
-Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
+## UK could be fast-tracked back into EU, pro-Brussels group argues
+Best for Britain says alignment between London and bloc would speed up any rejoining process as Andy Burnham prepares ‘options’
 
-## Nvidia in talks to acquire US ‘open’ model start-up Reflection AI
-Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek
+## Energy secretary pushes Healey for more Budget support on rising bills
+Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a New Year price rise
 
-## US warns Kyiv that strikes on Russia jeopardise intelligence-sharing
-Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow
+## The fall of Germany’s ex-spymaster
+August Hanning is accused of having illegally purchased state secrets for over a decade
 
-## Palestinian Authority blames Israeli ‘obstacles’ for latest election delay
-Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections
+## Russia steps up bid to kill European defence chiefs, spy agencies warn
+Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations
 
-## UK government faces new legal challenge after banning Northern Ireland parade
-UK Secretary of State Chris Bryant blocked march through Catholic area after two weeks of escalating tension
+## China’s growing debt burden limits space for economic stimulus
+Mounting interest payments restrict headroom to revive domestic demand, say experts
 
-## Taxpayer-funded Trump TV ads continue despite pledge to use private money
-Segments that the White House describes as public service announcements air in battleground districts
+## Heart disease patients treated at home under new NHS scheme
+Pioneering programme in London is on track to save hundreds of lives and millions of pounds for health service, data suggests
 
-## AI borrowing slows as investors grow wary of debt binge
-Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance
+## Private equity can cut ‘best’ deals in current climate, says Permira boss
+Lower valuations and reduced competition should help sector to ‘exceptional returns’, says Dipan Patel
 
-## Reality bites for the Gulf and sport
-Also in today’s newsletter: Gianni Infantino’s re-election campaign and the NFL pushback against prediction markets
+## JPMorgan bets on European asset management growth
+Patrick Thomson, who heads the bank’s asset management business in Europe, said he was ‘bullish on the UK’
 
-## How India is reshaping mental healthcare | FT Standpoint
-Communities in India are bridging faith and medicine to challenge stigma and transform treatment of mental health
+## What if AI prefers CVs written by AI?
+The signs are that it does and one law firm’s experience is revealing
 
-## Nigeria offers fuel discount in ‘pre-election sweetener’
-Move risks unnerving international investors wary about setbacks to President Bola Tinubu’s reform programme
+## Academic publishing is a study in fighting AI slop
+Original thought, especially in the humanities, is more likely to remain the preserve of humans
 
-## Caribbean cruises are going cheap, and so are operators’ shares
-Cut-price holidays reflect capacity outpacing demand
+## Inside KKR’s €22bn bet on Italy’s telecoms network
+Two years after the FiberCop deal closed it is struggling with high debt and difficult relations with its biggest customer
 
-## Slowing deals are another flashing red sign for equity markets
-Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters
+## Flash flood sweeps away houses, bridges in Nepal's Gorkha
+The cause of the sudden surge remains unclear
 
-## Trump calls for new Ukraine president, blames Zelenskyy for war and high US diesel prices
-The US president’s remarks have intensified tensions with Kyiv, while European allies reaffirm sanctions and Ukraine reports mounting civilian casualties
+## Pick of BL commodities -October 11, 2026
+El Nino, which is currently unfolding, may be the strongest since the 1950s. The El Niño-created warm weather has affected tomato production, resulting in its prices doubling in a month. India’s red chilli area may rise 30 per cent this year, but dry weather may limit its gains. Fertilizer sales hav
 
-## Saudi airport attack kills 12, injures over 300; Trump weighs military intervention
-Saudi Arabia faces mounting security concerns as airport operations halt, international travel warnings spread and regional fighting intensifies across Yemen
+## The food vs fuel debate is being asked the wrong way
+It has always been whether we possess the imagination, science, and commitment to design a system delivering both
 
-## The balance sheets that can throw AI ‘off’ balance
-A deep dive into off balance sheet debt and variable interest entities - key aspects in the AI universe that have been making ripples recently
+## India’s water crisis is becoming an agriculture crisis: What can farmers do differently?
+India’s agricultural future will be shaped by precision, efficiency, and the willingness to change, so water scarcity becomes a challenge we have overcome
 
-## HDFC Flexi Cap Fund: Can its winning formula survive the scale test?
-Strong rolling returns and downside control stand out despite rapidly growing scale for this fund with assets of nearly ₹1.14 lakh crore
+## Why biofortified crops could shape the next phase of Indian agriculture
+Biofortified crops offer us an opportunity to move from calorie security to nutrition security, and it is one of the most important agricultural shifts our country can make
 
-## Overseas ETFs: Nearly 30% of turnover at inflated prices
-Price-NAV gaps widen despite investment curbs, as overseas exchange traded funds continue to see sustained trading on local bourses
+## From price volatility to cost certainty: Why MSMEs need to hedge
+In a volatile commodity environment, moving from reactive pricing to proactive risk management could help MSMEs protect margins
 
-## The missing Ctrl + F in your financial life
-From policies to property papers, put your family’s financial information in one place
+## India unveils steel policy aiming for 604 million tonne capacity by 2047
+Policy ‌lays out plans to ‌cut ⁠sector emissions and shore ⁠up access to iron ore and coking coal
 
-## UN rights office alarmed by mass detentions at Delhi protests
-The office says any limits on peaceful protest must pass “strict tests of necessity and proportionality,” and called on authorities to ensure police show “utmost restraint”
-
-## Rising rates: What should your debt strategy be?
-To know what kind of bonds to own now, investors need to gauge the direction of interest rates and the quantum of the change
+## Stringent traffic curbs in Delhi as CJP protest enters second day
+The restrictions come amid a security clampdown following a call for protest by CJP and prominent student organisations demanding the removal of CEC Gyanesh Kumar
 
 ## Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections
 Two landlords, who were practising advocates, said they needed the rented premises to set up a law office. The tenant argued that the landlords had changed their stated purpose for seeking possession and already had other properties that could be used for their professional work. The tenant opposed 
@@ -90,29 +87,38 @@ A man had not filed an income tax return for assessment year 2016-17. The tax de
 ## Religious, spiritual & astrology apps see nearly 30cr downloads in Jan-Sept
 
 
-## Allahabad HC warns against misuse of criminal law in short-lived marriages, quashes dowry FIR
-Allahabad HC warns against misuse of criminal law in short-lived marriages, quashes dowry FIR
+## Musk steps up Starlink push in India, says ‘competition would benefit average citizen’
+The latest post comes amid Elon Musk's criticism of Mukesh Ambani over delays in launching Starlink's satellite broadband services in India.
 
-## Not just Jantar Mantar, internet suspended at 8 other locations amid CJP protest in Delhi
-The order, approved by Union home secretary Govind Mohan, suspended mobile internet within 500 metres of each site from noon to 10pm on Saturday.
+## Delhi markets to reopen on Sunday amid protests, traders urge vigilance and security
+Delhi markets are reopening on Sunday amid fresh protest calls at Jantar Mantar, with traders urging tighter security as fears of festive season business losses grow.
 
-## India hits back at UN rights office over remarks on Delhi protests, calls concerns ‘misplaced’
-The Indian embassy said the right to peaceful assembly is constitutionally guaranteed, subject to reasonable restrictions in the interest of public order.
+## Jantar Mantar stays barricaded, 30 traffic choke points flagged as Delhi braces for more protests today
+The 30 locations flagged by the traffic police include the Ashoka Road-Jantar Mantar Road roundabout.
 
-## CJP renews protest call as Abhijeet Dipke, Dhruv Rathee remain detained; Delhi Police cite ‘broken promises’ amid crackdown
-Delhi Police reportedly released all the detainees from the detention centers except CJP leaders. This comes amid a widespread crackdown in national capital.
+## Abhijeet Dipke, team CJP released by court after detention, but on one condition
+Abhijeet Dipke, Saurav Das and Ashutosh Ranka were spotted for the first time since detention on Sunday morning when they were taken to the court in Delhi.
 
-## ‘System can’t be honest when you win and rigged when you lose’: 124 ex-bureaucrats defend Election Commission, SIR exercise
-Defending SIR, the ex-civil servants described it as a necessary process to maintain accurate electoral rolls by identifying deceased voters, duplicate entries
+## ‘Completely unacceptable’: India condemns attack on Saudi's Riyadh airport that killed 12
+At least 12 people were killed and more than 300 injured in the missile attack, which was the deadliest attack in Saudi Arabia in more than a decade.
 
-## Delhi protest: Right-wing groups assault protesters, journalists amid heavy security deployment
-Many of the men were seen beating protesters in front of police personnel, including instances at Connaught Place that unfolded in front of HT reporters.
+## Dhruv Rathee released late on Saturday, hours after being detained ahead of CJP protest: Officials
+YouTuber Dhruv Rathee was released late on Saturday.
 
-## DMRC reopens all Delhi Metro station gates, train services to run as per normal schedule
-The protest was called by the Cockroach Janta Party (CJP), which is demanding Chief Election Commissioner Gyanesh Kumar's resignation.
+## ‘Reminiscent of a fascist state’: Press bodies demand Delhi Police's apology for detaining journalists during Jantar Mantar stir
+The CJP and the Opposition are protesting against the alleged electoral irregularities, demanding the resignation of CEC Gyanesh Kumar.
 
-## CJP asks ‘where is Abhijeet’ after Delhi Police say Dipke was informed of grandmother’s death
-CJP's post came after the Delhi Police posted on X saying Dipke had been informed about his grandmother’s death and the scheduled time of her funeral.
+## Indians deserve answers: Probe alleged foreign links to Gen Z protests, identify backers
+The objective of such an investigation must be to expose any concealed foreign direction or hidden role and recommend safeguards.
+
+## New vs old: why new-builds are far outselling used homes in Hong Kong
+A clear divide has opened up in Hong Kong’s property market in recent months: sales of new-build homes have surged, but the recovery in the secondary market has remained far more modest. The contrast between the two segments is not a coincidence – and is likely to persist for some time, according to
+
+## Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom
+Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as artificial intelligence drives demand for more sophisticated se
+
+## As clock ticks on China’s commercial land leases, renewal plans allay investors’ concerns
+Groundbreaking land-renewal policies recently announced in Guangzhou and Shanghai represent a step forward in stabilising China’s commercial property market and shoring up investors’ confidence amid Beijing’s efforts to revive the real estate industry, according to officials and industry analysts. T
 
 ## Better protection needed as violent cryptocurrency robberies surge
 Cryptocurrency’s promise of financial freedom carries a cost the industry must confront: growing wealth can make its owners more attractive targets for violent criminals. Protecting digital assets while treating the physical safety of their holders as a personal matter is an inadequate approach to f
@@ -128,15 +134,6 @@ Developer K&K Property has announced plans to offer a six-year structural warran
 
 ## Hong Kong outlines new liquidity reforms as US market rally pulls funds away
 Hong Kong’s securities watchdog is renewing its push to boost market liquidity, setting out further reforms as emerging markets grapple with capital outflow pressure amid a rally in US equities and a strengthening dollar. Speaking at a conference organised by the Asian Securities & Financial Markets
-
-## China’s hotel room rates disappoint during ‘golden week’ despite tourism boom
-Hotel room rates across mainland China fell short of expectations during the National Day “golden week” holiday despite a tourism boom, as company officials and analysts called for stronger asset and revenue management to ease pricing pressure. Hotel tariffs remained largely unchanged from the previ
-
-## DFI Retail Group says it will continue to invest in Hong Kong supermarkets
-Hong Kong-headquartered DFI Retail Group, which owns and operates the city’s largest supermarket network, says it will continue to invest in new stores even though consumers remain cautious. Darren Chan, the group’s managing director for food in Hong Kong and Macau, said DFI – whose supermarket chai
-
-## China state funds double down on Hua Hong in legacy chip push
-Chinese state funds are ramping up support for the country’s second-largest contract chipmaker, pouring billions of yuan into the parent of Hua Hong Grace Semiconductor and a new manufacturing facility to fuel Beijing’s drive for self-reliance in mature-node chips. The capital blitz, spanning Hua Ho
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis
-As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.
+## How genocidal war on Gaza is shaping Israel’s election
+Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.
 
-## Liverpool vs Man City: the top five clashes between Premier League giants
-Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.
+## US opens antitrust probe into TV networks halting Trump coverage
+Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.
 
-## WHO says no plague case registered after Russian lab worker’s death
-The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.
+## Hurricane Isaias kills four, leaves 650,000 without power in Florida
+Hurricane Isaias has killed four people and left more than 650,000 people without power.
 
-## Yemeni government’s military says its forces advancing against Houthis
-Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
+## ICE agent in New York shooting also involved in assault of pregnant woman
+An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.
 
-## Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull
-Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.
+## Taiz hospitals near collapse as Houthis tighten siege: Yemen government
+Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.
 
-## Hundreds of doctors demand World Medical Association suspend Israel
-Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
+## US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman
+US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.
 
-## Malawi motorists queue for days as fuel shortage bites
-Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.
+## World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport
+Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.
 
-## Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast
-Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.
+## Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack
+President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
