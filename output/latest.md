@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## India’s ‘Cockroach’ movement plans more protests after release of leaders
-Abhijeet Dipke of the youth-led Cockroach Janta Party was freed by a court order as police tightened security in New Delhi
+## Russia ‘interfered’ in 2016 Brexit vote, says Burnham
+UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process
 
-## Houthis show military reach with deadly missile strikes on Riyadh
-Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’
+## US threatens to block arms for Ukraine over attacks on Russian refineries
+Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin
 
-## Ukraine’s allies vow to pressure Moscow after Trump-Putin diesel deal
+## IMF and World Bank to warn central bankers of a gathering storm
+Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit
+
+## Can Russia meet Trump’s diesel demands?
+Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply
+
+## Oil chiefs pull out of Riyadh energy congress after airport missile strike
+BP and others skip World Petroleum Council meeting after 12 killed in Houthi attack
+
+## Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place
 US president’s suggestion that Zelenskyy should be replaced shocked Kyiv and European nations
 
-## Europe can fight the ‘China shock’
-But it requires Brussels to prioritise creative destruction over protectionism
+## Democrats need a foreign policy
+Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now
 
-## Will September inflation cement US interest rate policy for the rest of the year?
-Market Questions is the FT’s guide to the week ahead
-
-## Healey rules out cutting ‘mansion tax’ threshold to £1.5mn in UK Budget
-Mooted reduction had provoked backlash by Labour MPs concerned about impact on voters in London
-
-## Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts
-Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere
-
-## Missile strike on Riyadh airport kills 12 and injures hundreds
-Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels
+## Pakistan cracks down on Imran Khan stronghold province
+Military-backed national government suspends Khyber Pakhtunkhwa administration led by former cricket star’s party
 
 ## US justice department probes TV networks over Trump pool coverage
 ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban
@@ -48,29 +48,47 @@ Pioneering programme in London is on track to save hundreds of lives and million
 ## Academic publishing is a study in fighting AI slop
 Original thought, especially in the humanities, is more likely to remain the preserve of humans
 
-## Hero MotoCorp, Samsonite, Philips clock festive sales surge as EMIs spur big-ticket buying
-The number of Amazon sellers recording more than ₹1 crore in sales during the first 24 hours of its Great Indian Festival rose over 80 per cent year-on-year. Hero MotoCorp, Samsonite and Philips reported sharp gains, while Flipkart saw a sixfold opening-hour shopping surge as discounts and EMIs enco
+## Kotak Life, investors Mukul Agrawal, Ashish Kacholia acquire shares in Fusion CX ahead of IPO
+The company has fixed a price band of ₹275-289 per share, valuing the company at approximately ₹4,200 crore at the upper end of the price band
 
-## Adani’s Kutch Copper plans 115 MW renewable energy integration, targets lower emissions
-The company currently operates a copper smelter with a capacity of 5,00,000 tonnes per annum and plans to expand it to 1 million tonnes
+## Banks set for mixed Q2 show as NIMs weaken despite profit growth
+PAT growth for the top five lenders is estimated at 7-17 per cent year-on-year, while NIMs are expected to contract across most banks
 
-## SC mandates free movement and no illegal detentions, ‘subject to public order’
-The court said the authorities must detail in their affidavits whether they had complied with the court’s October 9 order to issue traffic and rail service advisories
+## Wipro Q2 preview: Brokerages expect weak revenue growth, margin recovery
+Brokerages expect Wipro’s EBIT margins to improve by 40 basis points (bps) sequentially in the upcoming quarter
 
-## Malaysian Airlines open to partnership with India, seeks to expand network, says CEO
-The South-east Asian carrier, which flies to and from 10 destinations in India, also said that it aspires to expand its network here but bilateral traffic rights restrict it from doing so
+## What happens when merchants pass on UPI MDR costs to customers?
+An IIT Bombay study mentions two aftereffects: First, consumers who purchase goods/services for more than ₹2,000 pay a higher price; second, the higher selling prices percolate even to those making purchases of less than ₹2,000
 
-## DoT readies Cabinet note on Satcom spectrum charges; approval may come in coming days
-Domestic companies would be encouraged to participate in the sector rather than India depending solely on foreign players
+## Editorial. Spaced out
+Musk’s invective over Starlink approval lacks basis
 
-## Focus on actual payouts, not just claim settlement ratios: IRDAI Chairman
-The Insurance Regulatory and Development Authority of India (IRDAI) is confident of curbing mis-selling with the help of proposed reforms
+## CJP hardens stand on SIR issue; INDIA bloc to meet CJI, hold protest march
+The Delhi Police registered 20 FIRs in connection with the protests against Chief Election Commissioner Gyanesh Kumar on Sunday
 
-## Tessolve raises $75 million from US-based Vector Line Capital
-The funds will support Tessolve's growth, including strategic acquisitions that add to its existing capabilities, widen its service offerings, and strengthen its global footprint
+## India has been overlooked in the AI Rush: Vincent Mortier
+The €2.6 trillion asset manager is overweight on the country, sees value in emerging markets and commodities, and believes global benchmarks understate India’s true economic importance
 
-## Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts
-MCX crude oil futures for October delivery fell ₹35, or 0.4%, last week to settle at ₹8,881 per barrel
+## SEBI settlement rules set apart settlement payments from recovery of wrongful gains
+Gazette-notified framework distinguishes financial obligations, stage-based calculations and a 60-day window for settling cases before a show-cause notice
+
+## Gold, silver prices next week: What investors should watch amid global uncertainty
+Gold and silver prices are anticipated to remain range-bound with modest support from rupee fluctuations. Investors will focus on upcoming inflation data from India, China, and the US. Additionally, trade data from China and Federal Reserve officials' speeches will be monitored closely. Geopolitical
+
+## Rupee relief, higher hedging costs: What RBI’s new forex rules mean
+Reserve Bank of India has introduced new measures aimed at stabilizing the Indian rupee against the dollar. These changes include tighter restrictions on foreign exchange derivatives and new reserve requirements for banks. Analysts expect these measures to ease rupee depreciation and lower speculati
+
+## Homebuyer paid Rs 39.15 lakh but got no flat; RERA rejects builder's excuse orders interest payout
+The homebuyer alleged that the builder had invoked the PMRDA-PMC jurisdiction dispute only after the delay happened, using it as an excuse to explain why the flat had not been handed over to the buyer on time. The flat was priced at Rs 41.85 lakh, and the buyer had paid Rs 39.15 lakh. The remaining 
+
+## Crude oil outlook: US-Iran talks, supply risks likely to keep prices volatile
+As talks between the US and Iran unfold regarding the strategic Strait of Hormuz, crude oil prices are poised for fluctuations. Market experts suggest that a successful diplomatic resolution might lower prices, though persistent regional tensions could sustain high levels. Recent geopolitical confli
+
+## Inflation data, IT earnings, crude oil to steer stock markets this week, say experts
+Anticipation is high in Indian stock markets as volatility and consolidation loom, particularly with September's inflation data on the horizon. These figures will shed light on price movements and may sway the Reserve Bank of India's policy decisions. The week also promises notable quarterly earning
+
+## Stock market is crashing, yet IPOs attract billions: What’s happening here?
+Foreign portfolio investors (FPIs) invested $1 billion (Rs 9,676 crore) in IPOs in September even as they sold $4.8 billion (Rs 45,537 crore) worth of listed equities, the highest monthly outflow since April 2026, when they withdrew $6.7 billion (Rs 63,167 crore). So, amid rising crude oil prices an
 
 ## FPIs pull out Rs 44,166 crore from Indian equities in October so far
 
@@ -78,47 +96,32 @@ MCX crude oil futures for October delivery fell ₹35, or 0.4%, last week to set
 ## Rs 10 lakh investment, different explanations: why ITAT deleted tax addition and Rs 2 lakh penalty
 The dispute arose after the income tax department received information about an investment of Rs 11.25 lakh made by a man with a wealth management firm. The assessing officer accepted that Rs 1.25 lakh had been paid by cheque, but the source of the remaining Rs 10 lakh, was questioned. Before consid
 
-## Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections
-Two landlords, who were practising advocates, said they needed the rented premises to set up a law office. The tenant argued that the landlords had changed their stated purpose for seeking possession and already had other properties that could be used for their professional work. The tenant opposed 
+## CJI Surya Kant declines Opposition leaders' request for meet over SIR, CEC Gyanesh Kumar; cites judicial propriety
+The Opposition’s proposed intervention also comes amid its continuing campaign against the SIR exercise and allegations of irregularities in electoral rolls.
 
-## ‘To be finalised in line with changed circumstances’: Piyush Goyal on India-US trade deal
-India and the US are finalizing their interim trade agreement framework, as circumstances have changed since February. Commerce Minister Piyush Goyal indicated that negotiations would consider recent shifts in the US tariff landscape. Trade talks are also progressing with other countries, including 
+## CJP leaders to visit Delhi's Parliament Street Police Station tomorrow, seek date for fresh Jantar Mantar protest
+CJP leaders said the Delhi Police have 24 hours to provide them with a date for the protest
 
-## Despite promise, builder denied disabled parking to Rs 1.03 crore flat buyer; RERA orders relief
-In one such case, a woman and her family bought a 3BHK ( 3 Bedrooms, Hall, Kitchen) from a builder in Bengaluru for Rs 1.03 crore. The builder promised two specially enabled parking spaces, and it was supposedly one of the property's key attractions. The builder's brochure and terms clearly referred
+## ‘Deeply grieved’: Jaishankar assures all assistance to family of Indian killed in Riyadh attack
+The embassy said it was in touch with the family and would provide all necessary assistance to ensure the early repatriation of the mortal remains.
 
-## Man faces Rs 17.18 lakh tax penalty over Rs 55.62 lakh unexplained deposits; ITAT gives relief
-A man had not filed an income tax return for assessment year 2016-17. The tax department subsequently completed a reassessment without his participation and, on February 15, 2024, assessed his total income at Rs 55.62 lakh. The amount was treated as unexplained cash deposits in a bank account that t
+## ‘Detain, deport foreign citizen Imran Khan': BJP leader Kirit Somaiya writes to Mumbai Police after actor joins protest
+Somaiya called for Khan to be charged for participating in what he described as an illegal political agitation.
 
-## States to assess GDP through spending method
+## Indian killed in Riyadh airport attack on October 10; MEA condemns Houthi strikes
+The embassy said it was in touch with Saudi authorities to inquire about the well-being of the injured Indians.
 
+## Gem chairman Veeramani booked in 6th Pocso case over abuse of minor girls
+Veeramani, Shanthi and Simhan were arrested on August 29, 2026. Ganesan was arrested later, on September 22
 
-## US trade talks steady, visa curbs may help India: Piyush Goyal
+## Sachin Pilot may even deny me ticket; will always remain Rahul Gandhi’s soldier: Warring
+Warring quit as the Punjab Congress chief on October 1, after the Congress high command decided on a leadership change ahead of the 2027 Assembly elections.
 
+## 'Would not see such a fast mutation even in radioactive decay': BJP hits out at CJP amid protests against CEC
+Top CJP leaders on Sunday vowed to expand their protests over alleged irregularities during the Special Intensive Revision (SIR) of electoral rolls.
 
-## HT Evening News Brief October 11: Detentions in Delhi despite SC order; Nana Patekar's autopsy reveals cause of death
-Grab your evening tea and catch up on today's top stories across India, global affairs, entertainment, and sports.
-
-## Delhi cops release clip of Dipke denying offer to return home over grandmother's death
-Abhijeet Dipke was asked multiple times if he wishes to speak to his parents but he denied the offer, police said.
-
-## DJB to replace 733km of old pipelines under ₹6,044-crore South Delhi revamp
-The three-year project aims to improve water supply to around 25 lakh people across an area of 247 square kilometres
-
-## Delhi-Chennai IndiGo flight diverted to Hyderabad after smoke detected from 'electronic device’
-The situation was brought under control after the cabin crew acted promptly. The plane landed safely at Hyderabad airport.
-
-## DMK, AIADMK stake claim to Chennai metro stretch after PM Modi-CM Vijay’s flag-off
-The IT wing of the opposition DMK said that the signature by former CM MK Stalin was not just for a train service but a signature for a generation
-
-## 'I am sorry': CJP's Abhijeet Dipke shares post for late grandmother amid protests against CEC
-CJP's Ashutosh Ranka said that Abhijeet Dipke's grandmother died while he was in detention and accused the authorities of displaying insensitivity.
-
-## Bleeding protesters, detained journalists: New Delhi sees fresh chaos despite SC order
-A bus packed with the detainees at Connaught Place included two journalists and at least two protesters who were bruised and bleeding.
-
-## ‘This is your time, opportunity’: PM Modi tells students in Chennai, says ‘new ideas needed for a developed India’
-Modi also highlighted importance of Tamil language and culture, praising the Tamil classic Thirukkural and recalling an opportunity to gift the text to Putin.
+## Chinese brokers work to crack the final code: win clients on global stage
+China’s investment banks spent decades trying to emulate Goldman Sachs, the Wall Street powerhouse that became a benchmark for the country’s financial ambitions and whose alumni included senior US policymakers like former Treasury secretary Henry Paulson. Today, Beijing’s goal has evolved beyond bui
 
 ## Apple’s Tim Cook kicks off China visit amid mixed signals on new iPhone demand
 Apple executive chairman Tim Cook has begun his third visit to China this year, following the launch of the iPhone 18 Pro line-up and the iPhone Duo, the company’s first foldable device, in one of its biggest markets. Cook met Meng Fanli, governor of the southern province of Guangdong, on Sunday and
@@ -140,9 +143,6 @@ Gen Z high-net-worth collectors have overtaken older generations as the art mark
 
 ## China wants 5 innovative drugs with US$1 billion returns by 2030. Which might they be?
 The increasing global appeal of Chinese firms’ novel therapies has propelled the country’s rise as a biomedical powerhouse, but China has yet to produce a drug to rival all-time best-selling Western blockbusters in sales. Beijing has set ambitious new five-year targets to boost its global presence, 
-
-## K&K offers extra warranty to One Stanley homebuyers amid building defects furore
-Developer K&K Property has announced plans to offer a six-year structural warranty to homeowners at its luxury One Stanley development, as the company seeks to move on from a growing furore over alleged construction defects at the complex. “As the developer of the One Stanley development project, we
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -240,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ceuta migrants allege beatings as camps cleared ahead of royal visit
-People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.
+## Liverpool fans give Manchester City a fiery welcome at Anfield
+'Cheats cheats cheats' This is how Liverpool fans greeted Manchester City as they arrived at Anfield
 
-## Meet the man helping India’s detained protesters get home
-Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.
+## Man City beat 10-man Liverpool 3-0 in first game after guilty verdict
+Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off.
 
-## Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport
-A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.
+## Is the Yemen war entering a new phase?
+Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday's attack on King Khalid Inter
 
-## Sweet protein brazzein shows promise in reducing blood sugar spikes: Study
-Russian research reveals that the protein brazzein could help reduce blood sugar spikes.
+## Israel pushes its ‘Yellow Line’ deeper into Gaza
+Israel pushes its ‘Yellow Line’ deeper into Gaza
 
-## Liverpool vs Man City live: Premier League
-Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.
+## ‘Who will represent us?’ Palestinians react to election delay
+Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.
 
-## Polish police probe alleged plot to assassinate PM Tusk, defence minister
-Security officials hold emergency meeting after police receive information about potential attack.
+## Turkiye highway crash kills 11, injures 27 after tour bus hits truck
+Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured.
 
-## Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne
-Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign.
+## Football fans speak about City’s charges as they face Liverpool
+Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.
 
-## Trump’s brash remarks entertain crowd at election rally in Tennessee
-US President Donald Trump told his supporters they would applaud anything he says.
+## At least five people missing as flash floods in Nepal sweep away houses
+Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
