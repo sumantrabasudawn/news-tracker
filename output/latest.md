@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Russia ‘interfered’ in 2016 Brexit vote, says Burnham
-UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process
+## Raphaël Glucksmann wins nomination for France’s centre-left
+Pro-European MEP beats Socialist party rival as he bids to unite the ‘democratic left’ ahead of next year’s presidential election
+
+## EU ‘safeguards’ hybrid car sector from Chinese imports under new deal
+Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action
+
+## US hits commercial tanker in Gulf of Oman as tensions flare
+Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month
 
 ## US threatens to block arms for Ukraine over attacks on Russian refineries
 Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin
+
+## VW chief calls for France and Germany to co-operate on China car fightback
+‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show
+
+## Russia ‘interfered’ in 2016 Brexit vote, says Burnham
+UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process
 
 ## IMF and World Bank to warn central bankers of a gathering storm
 Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit
@@ -12,17 +24,8 @@ Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit
 ## Can Russia meet Trump’s diesel demands?
 Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply
 
-## Oil chiefs pull out of Riyadh energy congress after airport missile strike
-BP and others skip World Petroleum Council meeting after 12 killed in Houthi attack
-
-## Ukraine’s allies vow to pressure Moscow as Trump claims ‘energy ceasefire’ in place
-US president’s suggestion that Zelenskyy should be replaced shocked Kyiv and European nations
-
-## Democrats need a foreign policy
-Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now
-
-## Pakistan cracks down on Imran Khan stronghold province
-Military-backed national government suspends Khyber Pakhtunkhwa administration led by former cricket star’s party
+## FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders
+Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine
 
 ## US justice department probes TV networks over Trump pool coverage
 ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban
@@ -38,15 +41,6 @@ Patrick Thomson, who heads the bank’s asset management business in Europe, sai
 
 ## What if AI prefers CVs written by AI?
 The signs are that it does and one law firm’s experience is revealing
-
-## Russia steps up bid to kill European defence chiefs, spy agencies warn
-Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations
-
-## Heart disease patients treated at home under new NHS scheme
-Pioneering programme in London is on track to save hundreds of lives and millions of pounds for health service, data suggests
-
-## Academic publishing is a study in fighting AI slop
-Original thought, especially in the humanities, is more likely to remain the preserve of humans
 
 ## Kotak Life, investors Mukul Agrawal, Ashish Kacholia acquire shares in Fusion CX ahead of IPO
 The company has fixed a price band of ₹275-289 per share, valuing the company at approximately ₹4,200 crore at the upper end of the price band
@@ -72,6 +66,21 @@ The €2.6 trillion asset manager is overweight on the country, sees value in em
 ## SEBI settlement rules set apart settlement payments from recovery of wrongful gains
 Gazette-notified framework distinguishes financial obligations, stage-based calculations and a 60-day window for settling cases before a show-cause notice
 
+## Festive phone market set to shrink in volume
+
+
+## Green cards not key to workforce strategy: TCS
+
+
+## RBI measures: Rupee to gain sharply but forex liquidity likely to dry up
+
+
+## FPIs pull out 44k cr in October, outflows in '26 cross 3L crore
+
+
+## Infosys plays down impact of PERM suspension
+
+
 ## Gold, silver prices next week: What investors should watch amid global uncertainty
 Gold and silver prices are anticipated to remain range-bound with modest support from rupee fluctuations. Investors will focus on upcoming inflation data from India, China, and the US. Additionally, trade data from China and Federal Reserve officials' speeches will be monitored closely. Geopolitical
 
@@ -81,25 +90,10 @@ Reserve Bank of India has introduced new measures aimed at stabilizing the India
 ## Homebuyer paid Rs 39.15 lakh but got no flat; RERA rejects builder's excuse orders interest payout
 The homebuyer alleged that the builder had invoked the PMRDA-PMC jurisdiction dispute only after the delay happened, using it as an excuse to explain why the flat had not been handed over to the buyer on time. The flat was priced at Rs 41.85 lakh, and the buyer had paid Rs 39.15 lakh. The remaining 
 
-## Crude oil outlook: US-Iran talks, supply risks likely to keep prices volatile
-As talks between the US and Iran unfold regarding the strategic Strait of Hormuz, crude oil prices are poised for fluctuations. Market experts suggest that a successful diplomatic resolution might lower prices, though persistent regional tensions could sustain high levels. Recent geopolitical confli
-
-## Inflation data, IT earnings, crude oil to steer stock markets this week, say experts
-Anticipation is high in Indian stock markets as volatility and consolidation loom, particularly with September's inflation data on the horizon. These figures will shed light on price movements and may sway the Reserve Bank of India's policy decisions. The week also promises notable quarterly earning
-
-## Stock market is crashing, yet IPOs attract billions: What’s happening here?
-Foreign portfolio investors (FPIs) invested $1 billion (Rs 9,676 crore) in IPOs in September even as they sold $4.8 billion (Rs 45,537 crore) worth of listed equities, the highest monthly outflow since April 2026, when they withdrew $6.7 billion (Rs 63,167 crore). So, amid rising crude oil prices an
-
-## FPIs pull out Rs 44,166 crore from Indian equities in October so far
-
-
-## Rs 10 lakh investment, different explanations: why ITAT deleted tax addition and Rs 2 lakh penalty
-The dispute arose after the income tax department received information about an investment of Rs 11.25 lakh made by a man with a wealth management firm. The assessing officer accepted that Rs 1.25 lakh had been paid by cheque, but the source of the remaining Rs 10 lakh, was questioned. Before consid
-
 ## CJI Surya Kant declines Opposition leaders' request for meet over SIR, CEC Gyanesh Kumar; cites judicial propriety
 The Opposition’s proposed intervention also comes amid its continuing campaign against the SIR exercise and allegations of irregularities in electoral rolls.
 
-## CJP leaders to visit Delhi's Parliament Street Police Station tomorrow, seek date for fresh Jantar Mantar protest
+## CJP leaders to visit Delhi's Parliament Street Police Station today, seek fresh date for Jantar Mantar protest
 CJP leaders said the Delhi Police have 24 hours to provide them with a date for the protest
 
 ## ‘Deeply grieved’: Jaishankar assures all assistance to family of Indian killed in Riyadh attack
@@ -119,6 +113,9 @@ Warring quit as the Punjab Congress chief on October 1, after the Congress high 
 
 ## 'Would not see such a fast mutation even in radioactive decay': BJP hits out at CJP amid protests against CEC
 Top CJP leaders on Sunday vowed to expand their protests over alleged irregularities during the Special Intensive Revision (SIR) of electoral rolls.
+
+## Turning AI Ambition into Real-World Advantage
+When executives talk about artificial intelligence today, they often talk in absolutes: an existential threat, a historic opportunity, the next great productivity leap. For Amitabh Sarkar, Tata Communications’ Vice-President, Asia Pacific and Japan, the more important story lies beneath the rhetoric
 
 ## Chinese brokers work to crack the final code: win clients on global stage
 China’s investment banks spent decades trying to emulate Goldman Sachs, the Wall Street powerhouse that became a benchmark for the country’s financial ambitions and whose alumni included senior US policymakers like former Treasury secretary Henry Paulson. Today, Beijing’s goal has evolved beyond bui
@@ -140,9 +137,6 @@ Cryptocurrency’s promise of financial freedom carries a cost the industry must
 
 ## Gen Z overtakes older collectors as art market spending rebounds globally: report
 Gen Z high-net-worth collectors have overtaken older generations as the art market’s biggest spenders, with average fine art expenditure more than twice that of older collectors, helping drive a global sales rebound to nearly US$60 billion, according to the latest Art Basel and UBS market insights. 
-
-## China wants 5 innovative drugs with US$1 billion returns by 2030. Which might they be?
-The increasing global appeal of Chinese firms’ novel therapies has propelled the country’s rise as a biomedical powerhouse, but China has yet to produce a drug to rival all-time best-selling Western blockbusters in sales. Beijing has set ambitious new five-year targets to boost its global presence, 
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -192,9 +186,6 @@ The United States does not need to trust China, share frontier models with China
 ## Myanmar’s Leaders Tried to Erase My Rohingya Identity 11 Years Ago
 The repression of Rohingya identity is connected to Myanmar’s broader failure to establish an inclusive political order. It's time for ASEAN to realize that.
 
-## Ground Robots Are Arriving on the Front Lines
-For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
-
 ## Shows of Strength and Signs of Strain
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
 
@@ -215,6 +206,9 @@ For this edition of The Atlantic Brief, the Royal United Services Institute and 
 
 ## The Navy’s Missing Welders Are Stocking Shelves
 The U.S. Navy’s May 2026 shipbuilding plan, signed by Acting Secretary of the Navy Hung Cao, uses the word “innovative” eight times. The plan applies that word, among other things, to the Columbia-class submarine, an acquisition strategy for the medium landing ship, and new approaches to running the
+
+## How to Defend Against AI-Designed Viruses
+Anthropic recently disclosed five cases in which users hid their countries while asking Claude for help enhancing pathogens or toxins. This added fuel to the ongoing debate over whether progress in AI should be slowed. Insider warnings of threats to human lives from artificial intelligence have been
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Liverpool fans give Manchester City a fiery welcome at Anfield
-'Cheats cheats cheats' This is how Liverpool fans greeted Manchester City as they arrived at Anfield
+## Waves crash into homes as excavators try to protect California properties
+Construction crews were seen trying to block waves entering homes along California's coast
 
-## Man City beat 10-man Liverpool 3-0 in first game after guilty verdict
-Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off.
+## UK Greens leader seeks rule change after party declares Zionism is racism
+Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.
 
-## Is the Yemen war entering a new phase?
-Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday's attack on King Khalid Inter
+## Two killed near Israeli-occupied area in south Lebanon
+Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.
 
-## Israel pushes its ‘Yellow Line’ deeper into Gaza
-Israel pushes its ‘Yellow Line’ deeper into Gaza
+## Deadly air strike kills dozens at Sudan gold mine near Egypt border
+An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.
 
-## ‘Who will represent us?’ Palestinians react to election delay
-Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.
+## How Man City beat Liverpool after guilty verdict
+Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.
 
-## Turkiye highway crash kills 11, injures 27 after tour bus hits truck
-Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured.
+## Zelenskyy welcomes US-announced energy ceasefire
+President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire
 
-## Football fans speak about City’s charges as they face Liverpool
-Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.
+## Syrian families demand release of detainees held by Israel
+Syrian families demand release of detainees held by Israel
 
-## At least five people missing as flash floods in Nepal sweep away houses
-Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.
+## Pakistan suspends Imran Khan’s party-led provincial government
+Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
