@@ -1,70 +1,82 @@
 # AION Intelligence
 
-## Burnham to tell MPs that refusing closer EU ties a ‘dereliction of duty’
-Prime minister to address Commons on Monday as he seeks to reopen debate on Brexit
+## Musk injects $275mn into Republicans’ fight to retain Congress
+Trillionaire Tesla chief has become party’s biggest donor ahead of November’s pivotal midterms
 
-## Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war
-Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of midterm elections
+## The diesel crisis is testing the limits of globalisation
+Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation
+
+## Trump’s Russian diesel gambit is cynical and won’t work
+The US president risks harming Ukraine to curb prices driven up by his own war
+
+## US agents raid home of Trump critic Ilhan Omar
+Homeland Security officials launch criminal investigation into the Minnesota representative
+
+## Two economists who transformed crisis management win Nobel Prize
+Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil
+
+## UK’s Brussels reset hit by EU demands on university fees
+Rejecting closer ties with EU would be ‘dereliction of duty’, prime minister to tell MPs
 
 ## EU ‘safeguards’ hybrid car sector from Chinese imports under new deal
 Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action
 
-## US threatens to block arms for Ukraine over attacks on Russian refineries
-Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin
+## It’s time for the UK to reward whistleblowers financially
+Incentivising insiders to come forward will transform how we tackle fraud
 
-## Is the US economy as narrow as its stock market?
-No*
+## LVMH’s fashion and leather sales fall in luxury setback
+Paris-listed group hails ‘buoyant’ US market but said sales were hit by slowdown in demand in China
 
-## FTAV’s further read
-Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit
+## Watch out luxury: mid-market fashion brands are staging a comeback
+While LVMH’s sales slid more than the market expected in recent months, Uniqlo’s are going gangbusters
 
-## EU budget battle intensifies ahead of leaders’ summit
-Also in this newsletter: Don’t ban US tech without financial support, says Warsaw
+## Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown
+FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race
 
-## Wall Street’s great money spinner
-Plus, JPMorgan’s European ambitions, a surge in US corporate borrowing costs, and painting the French Riviera
+## Oil prices rise as Trump’s ‘energy ceasefire’ frays
+Announcement followed deal with Putin as US president tries to contain impact of higher fuel costs ahead of midterm elections
 
-## What the Firmus IPO debacle actually means
-Misery, thy name is pulled IPO
+## Can a financier really revive LIV Golf?
+BC Partners’ Ted Goldthorpe is hoping to prove the doubters wrong in pulling the circuit out of bankruptcy and making global team golf viable
 
-## FirstFT: US threatens to cut arms support for Ukraine over Russian refinery strikes
-Also in today’s newsletter: EU-China ‘understanding’ and bank results fears
+## LoP, Opposition leaders move SC for full disclosure of EC records on SIR
+They seek independent probe and suspension of SIR as interim relief
 
-## Heathrow needs Burnham green light for runway by end of year, warns boss
-Airport will have to ‘reassess’ £33bn project if prime minister does not openly back expansion plan, Woldbye tells FT
+## Letters to the Editor dated October 12, 2026
 
-## UK ministers explore compulsory AI safety reporting
-Kanishka Narayan to tell companies to exercise stricter control over autonomous models and build safeguards
 
-## Wall Street’s record-breaking trading streak set to cool
-Analysts forecast sharp slowdown when banks report third-quarter results next week after a bumper start to the year
+## Letters to the Editor dated October 9, 2026
 
-## Charles de Gaulle airport owner linked to services for sanctioned airline
-Subsidiary of Groupe ADP, which is backed by the French government, has not stopped all work for Russia’s Ural Airlines
 
-## Sunil Bharti Mittal conferred France's highest civilian award
-Mittal has been conferred the distinction in recognition of his longstanding commitment to deepening economic ties between India and France and his outstanding achievements in telecommunications and digital infrastructure
+## Editorial. Signs of nerves
+RBI should avoid knee-jerk response to rupee movement
 
-## Diwali demand masks bigger risk: Indonesia’s supply warning casts shadow on Palm oil prices ahead of 2027
-Indonesia projects a 4–5 million tonne production decline and higher biodiesel consumption, but Dorab Mistry cautions that expensive oils could themselves weaken demand
+## Bank of India classifies Kishore Biyani-promoted Future Enterprises account as fraud
+The public sector lender disclosed the classification in a regulatory filing, citing its policy on determining and disclosing material events and information
 
-## Himadri targets doubling profit to ₹1,100 cr by FY28
-Himadri plans ₹2,000-crore capital expenditure programme to be funded through internal accruals
+## Sunil Bharti Mittal named Knight of the National Order, France’s highest civilian distinction
+Mittal honoured for his role in deepening economic ties between India and France and achievements in telecommunications and digital infrastructure
 
-## India wastes 4% of solar power amid power shortages in July, August
-About 4.2% of total solar generation could not be absorbed by the grid in July and August, highlighting inadequate transmission ‌infrastructure, data from the Centre for Research on Energy and Clean Air (CREA) show
+## Neither approved nor disapproved, SC clarifies stance on Form 6 alterations
+The changes and modified declarations, which required applicants to provide ancestry details or linkage to previous SIR rolls on the ECINet portal, were introduced subsequently in July
 
-## Integrate workforce health into business strategy, says Neerja Birla
-Workplace health has expanded from physical safety to preventive healthcare, counselling and wellness benefits, she said
+## RDI Fund has picked the first cohort of 19 Second Level Fund Managers with investment commitment of ₹7,131 crore
+The names of the SLFMs were not disclosed.
 
-## Sensex today | Stock Market Live Updates: Sensex, Nifty turn lower; Sensex down 470 points, Nifty sheds 110 points
-Sensex, Nifty, Share Prices Live: Sensex and Nifty opened higher on easing oil prices and RBI support, but pared gains.
+## He gave land given for road widening, sold TDRs for Rs 6.02 crore; ITAT taxes capital gains
+The landowner chose to sell the TDRs he had received for surrendering 2,839 square metres of land. He sold them to a builder for Rs 6 crore but did not pay income tax on the proceeds. His understanding was that the amount received from the sale was a capital receipt and was therefore not taxable.
 
-## Today’s Gold Rate in India October 12: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices down across other cities on October 12
+## SBI Research recommends LTCG on equities to be scrapped; calls for DTAA clarity
+The proposal is aimed at making foreign capital flows into equities more stable and limiting the chances of abrupt withdrawals that could put pressure on the rupee. Foreign portfolio investors (FPIs) currently face a 12.5% LTCG tax on equity investments. The Union Budget 2026 retained this rate for 
 
-## Today’s Gold Rate in India October 12: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices down across metro cities on October 12
+## Bank cut Rs 5.89 crore FD rate from 7.75% to 3.5%; Court orders higher interest
+Initially, the FD earned interest at rates of 7.75%, 8.25% and 7.75% over different periods. However, from January 30, 2018, the bank lowered the rate to 3.5%. Challenging the reduction, the deposit holder approached the court again, arguing that the bank had cut the interest rate without any valid 
+
+## Retail inflation at almost 2-year high at 5.54% in September, driven by food prices surge
+Retail inflation in India reached 5.54% in September, mainly spurred by rising food costs. Food inflation escalated to 7.74%, the highest recorded since the new CPI series was launched. The price of onions skyrocketed, while some items, like potatoes and tomatoes, saw price drops. Puducherry recorde
+
+## IIT-B report wants UPI MDR cut; says banks should forgo their share
+The study recommends setting the MDR share for TPAPs at 0.06%, lower than the 0.08% proposed by the National Payments Corporation of India (NPCI), while keeping the PSP share unchanged at 0.02%. Under the existing arrangement, banks that issue and acquire transactions collectively receive the bulk o
 
 ## After 16-coach launch, Railways plans 24-coach Vande Bharat sleeper with pantry
 Indian Railways is expected to introduce more than 200 Vande Bharat sleeper trains over the coming years as it seeks to transform long-distance rail travel. Three major manufacturing projects are underway. The 24-coach Vande Bharat sleeper trains will be a variant of the existing train design but wi
@@ -75,47 +87,44 @@ Indian Railways is expected to introduce more than 200 Vande Bharat sleeper trai
 ## Top stocks: Nifty outlook for October 12-October 16 week? Check stock recommendations
 Stock market recommendations: ICICI Lombard General Insurance, and Nykaa are the top stocks that Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities has picked for buying for the October 12, 2026 week.
 
-## Gold price prediction: Where are gold prices headed in October 12, 2026 week?
-Gold enters the week Rs 150,750 after recovering from the recent decline towards Rs 146,000–147,000, although prices remain well below the September peak near Rs 163,000–165,000. The daily structure has improved modestly, with gold moving back above the 20-day average near Rs 150,263, suggesting tha
+## Two 'godmen' cheat woman of ₹69 lakh after promising to cure her sister of cancer
+The Chembur police identified the accused as Rajshekhar Shastri and Guruji Adityanath alias Babu Guruji.
 
-## RBI measures see sharp impact as rupee rises 1% against US dollar; what steps were announced?
-Rupee emerged as one of Asia's strongest-performing currencies, even as most regional currencies moved within a narrow range. Despite Monday's sharp rise, the rupee has lost 6.6% against the dollar so far this year. On Saturday, the RBI announced a set of measures targeting two major sources of pres
+## Iran security chief speaks to NSA Ajit Doval on call, discusses ‘issues of mutual interest’
+The two leaders exchanged views on the latest regional and international developments and issues of mutual interest to the two countries.
 
-## Stock market today: Sensex rebounds after 300-point jump; Nifty holds above 22,550
+## 'Batman Mode On': Rahul Gandhi, Kharge pose with superhero masks during Opposition march to SC
+Leader of the opposition in Lok Sabha Rahul Gandhi, during Opposition's protest march in Delhi on Monday, posed with a Batman mask.
 
+## Maharashtra FDA chief Tukaram Mundhe refutes reports of transfer: 'Fight against unsafe food, spurious drugs goes on'
+This clarification comes after the Maharashtra government formed a committee on Sunday to overhaul the state recruitment body, MPSC.
 
-## Oil prices today: Brent crude declines as Trump announces Russia-Ukraine energy truce
+## ‘Pause SIR, hold independent audit of voter deletion’: INDIA bloc petition to Supreme Court lists 10 requests
+The petition raises concerns over the “unilateral and arbitrary exercise” of the election body's collective powers by CEC during the ongoing SIR.
 
+## RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments
+President Droupadi Murmu on Monday made fresh appointments for governors of Kerala, Tamil Nadu, Odisha, Sikkim and Uttarakhand.
 
-## Taxman alleged IT park firm was a tax dodge; ITAT rules for five landowners
-In 2005, the landowners and the same builder executed a registered joint development agreement (JDA). Under the arrangement, the builder was granted development rights and a Power of Attorney (POA) was executed for various purposes. The builder also paid the landowners a refundable, interest-free de
+## ‘Drank at 3 bars, drove Mini Cooper at 120 km/hr’: Teen driver's friends nabbed day after crash kills 3 in Kochi
+Police said two youngsters who were in the car at the time of the accident have been arrested and charged with abetting.
 
-## NHRC has grown into trusted address for aggrieved: CJI Surya Kant
-NHRC has grown into trusted address for aggrieved: CJI Surya Kant
+## 4 suspected infiltrators killed in landmine blast along LoC in J&K's Poonch
+The deceased were identified as JKLF Poonch president Faizan Sagheer, Ishtiaq, Asim Rafiq, and Waqas Sharif.
 
-## Jantar Mantar off limits, these 3 venues are now designated sites of Delhi
-Delhi Police has designated three new sites for holding protests in the national capital – Ramlila Ground, Burari Ground and CBD Ground in east Delhi.
+## Hong Kong to expand indices, derivatives and yuan-denominated products: HKEX CEO
+Hong Kong Exchanges and Clearing (HKEX) is planning further measures to boost market liquidity, attract more international investors and expand the use of China’s currency, including through yuan-denominated gold futures and stock trading, according to a blog post by its CEO on Monday. The plans com
 
-## Jantar Mantar de-notified as designated protest venue, new sites allocated
-Jantar Mantar as a protest venue has been de-notified, stated a Delhi Police circular on Monday, listing three new venues for holding demonstrations.
+## Few Hong Kong investors take interest in listing by Africa’s top phone maker Transsion
+Shenzhen Transsion Holdings drew a lukewarm response for its HK$3.36 billion (US$428 million) Hong Kong share offering, heightening worries over market sentiment for new listings in the fourth quarter. The maker of Africa’s bestselling phones closed its bookbuilding on Monday, with preliminary figur
 
-## Bomb threat emails trigger security checks at schools in Noida and Greater Noida; nothing suspicious found
-The schools immediately alerted the police through the emergency helpline, following which multiple teams were dispatched to conduct security checks.
+## Former HSBC executive launches wealth platform powered by team of AI agents
+A former top executive at HSBC has launched an artificial intelligence-driven wealth management start-up, setting her sights on a billion-dollar valuation and betting that AI can transform how individuals manage their investments and finances. Trista Sun, formerly a managing director in the internat
 
-## Bees swarm Vande Bharat coach in MP's Khajuraho, 12-14 passengers injured
-The incident occurred after a beehive on the station platform was disturbed, reportedly during construction work.
-
-## CM Dhami performs Ganga Aarti at Haridwar to mark PM’s 25 years in public service
-Modi took oath as the chief minister of Gujarat on October 7, 2001. Since then, he has completed 25 years as a head of government
-
-## Corruption case: SC directs no coercive action be taken against people linked to Punjab govt
-Corruption case: SC directs no coercive action be taken against people linked to Punjab govt
-
-## 'Cops slapped us, hit our private parts, took us 30-40 km away': Protesters detained in Delhi anti-EC stir
-On Sunday evening, many lawyers and activists posted SOS messages on X and other social media platforms to seek help for the detainees.
+## China bets on molten salt and CO2 to help meet its power needs
+China has begun building the world’s first utility-scale power plant combining two emerging technologies: supercritical carbon dioxide (CO2) generation and large-scale molten salt energy storage. The Ruitan project, under construction at a coal-fired power station in Yantai in eastern China’s Shando
 
 ## Brake-pedal failures in luxury EV put Chinese cars’ quality in regulatory spotlight
-A safety failure spotted in tests of a Chinese electric vehicle (EV) made by a Huawei Technologies-backed luxury brand has raised doubts about the cars many consumers view as a source of national pride, while prompting regulators to step up policing of quality and reliability. The Ministry of Indust
+A safety failure spotted in tests of a Chinese electric vehicle (EV) made by a Huawei Technologies-backed luxury brand has raised doubts about the cars many consumers view as a source of national pride, and prompted regulators to step up policing of quality and reliability. The Ministry of Industry 
 
 ## Beijing police detain Yiren Digital chairman after massive product defaults
 Police in China have detained a controller of Yiren Digital, a US-listed Chinese digital lender, after two related investment platforms failed to repay mainland investors for over four months. The Beijing Municipal Public Security Bureau said that it had recently launched an official criminal invest
@@ -126,17 +135,20 @@ German sportswear giant Adidas is bent on new fashionable outdoor and street dan
 ## Hong Kong’s workers fear AI-driven retirement disruptions, only 20% feel prepared: survey
 More than half of Hong Kong’s working adults believe artificial intelligence will make their retirement path more unpredictable than previous generations, yet only one in five feel financially prepared for the shift, according to a survey by global asset manager T. Rowe Price. About 55 per cent of t
 
-## China’s factories leaping straight into agentic AI and taking it global: Black Lake CEO
-China’s manufacturing sector is leapfrogging straight into the era of agentic artificial intelligence and is now exporting that playbook to global supply chains, according to the CEO of Black Lake, a Chinese provider of cloud-based AI tools for factories. “Just as China skipped credit cards and jump
+## Congress Can Do More to Curb Kushner’s Conflicts of Interest
+No one should be getting paid by the countries they are conducting diplomacy with, especially not the president’s son-in-law.
 
-## Beijing moves to steady A-share market after sharp tech sell-off
-China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commi
+## Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts
+The admiration for Leo is based on his sporting exploits; the passion for Diego is rooted in culture and identity.
 
-## Beyond AI: How HKICC 2026 Develops Judgement, Resilience and Global Leadership
-[The content of this article has been produced by our advertising partner.] AI can generate an answer in seconds. Knowing which answer to trust—and how to act on it—still requires human judgement. The HKUST International Case Competition (HKICC) 2026 put that distinction to the test, bringing togeth
+## Can Brussels Budget Like a Superpower?
+A new financial framework could put the EU in the big leagues.
 
-## Hong Kong must ease listing rules to attract more angel funds and start-ups: HKEIA
-Hong Kong would need to ease its listing rules and transaction requirements to attract more angel funds and become a hub for start-ups to go global, according to a leading industry body in the city. The city has only around 100 active angel funds – private investment vehicles targeting very early-st
+## The Real Footprint of Trump’s Data Center Boom
+What the sprawling buildout means for energy, water, and land.
+
+## From Xinjiang to the Front Lines of Syria
+How Uyghur militants were dragged into civil war.
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -147,44 +159,29 @@ How did the world reach a tipping point, and who holds the leverage?
 ## Arnold Toynbee’s Chinese Century
 A forgotten historian enjoys a strange afterlife in Beijing.
 
-## Russian Sabotage in Europe Is No Longer ‘Symbolic’
-The Kremlin’s strategy has entered a dangerous new phase, Estonia’s counterintelligence chief says.
+## The Mystery of Kyrgyzstan’s Newly Launched Satellite(s)
+At first glance, the story of Kyrgyzstan’s satellite launch seemed like a genuine achievement. Then the story changed.
 
-## The United States Is Not Ready for the Arctic Age
-Rana Foroohar’s “Sea Change” shows why Washington can’t compete at the top of the world.
+## South Korea Recalls Ambassador, Demands Public Apology From Ukraine
+A diplomatic rift is growing after a North Korean prisoner transfer that Kyiv revealed against Seoul’s wishes.
 
-## How Italy Spawned the Western Far Right
-A longtime Rome correspondent reflects on the political trends in his adopted home.
+## Australia’s Billionaire Problem and the ‘Corruption of the Democratic Process’
+Australia’s incoming political finance laws will cap donations and electioneering spending for the first time, but the limits are generous, the rules complex, and the two-year delay suspiciously convenient for the major parties.
 
-## What Life Was Like for a Jewish Artist in 1930s Berlin
-The debut novel “Venus, Vanishing” is a fast-paced tale of deception, forgery, sex, and escape.
+## The China-EU Trade Truce Buys Time
+For the EU, the choice is increasingly difficult: secure real concessions from Beijing to address structural trade imbalances or deploy stronger unilateral measures to protect its industrial base.
 
-## What in the World?
-Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.
+## Southeast Asia Has a Serious Drug Problem
+Southeast Asia’s drug labs are pumping out unprecedented amounts of meth and other synthetic drugs.
 
-## US Drops Sanctions on Daughter of Prominent Myanmar Businessman Thein Win Zaw
-Is Theint Win Htet's removal from the Treasury Department's blacklist a sign of a looming rapprochement between Washington and Naypyidaw?
+## Trump’s Targeting of Indian IT Firms Hits India-US Ties Again
+Washington announced last week that it would not accept or process applications from top Indian IT companies for H-1B visas.
 
-## Myanmar’s Min Aung Hlaing to Visit Indonesia and Brunei, Regime Spokesperson Says
-Since taking office in April, the former general has visited five ASEAN member states as he seeks normalization with the Southeast Asian bloc.
+## Why Did the Industrial Revolution Not Start in India?
+Due to abundant labor, its social structure, and the inertia of an economic system, there was little incentive to initiate mechanization and the Industrial Revolution in India.
 
-## Indonesia’s Energy Investment Potential
-Too big to ignore
-
-## Indian Family Offices Eye Southeast Asia’s Startups
-Patient capital, real risk.
-
-## China’s Bid to Define the ‘Global South’
-Beijing has adopted its own, quite different, definition of the term.
-
-## Whither Japan’s Three Non-Nuclear Principles?
-A highly contentious debate is in the offing.
-
-## Beyond Ideological Blocs: The ICDPP’s New Intercontinental Political Dialogue
-Insights from an Interview with Chung Eui-yong on the Origins, Principles, and Future of the ICDPP
-
-## Why Afghanistan’s Neighbors Have Not Backed Pakistan’s Strikes on the Taliban
-China, Uzbekistan, and Tajikistan are less exposed to the impact of cross-border terrorism – and less willing to risk smooth relations with Kabul over the issue.
+## To Rebuild the Nepali Congress, Gagan Thapa Must First Reform It
+Recently re-elected president of the Nepali Congress, Thapa vowed to end the culture of nepotism and groupism in the party and to open it to a new generation of leaders.
 
 ## Ground Robots Are Arriving on the Front Lines
 For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India opposition plans New Delhi protest to demand election chief resign
-Thousands of security personnel have been deployed before a protest rally calling for the election chief's removal.
+## Zohran Mamdani orders use-of-force review for New York City police
+City spokesperson says the mayor's calls for reform are not connected to police response to an ICE shooting last week.
 
-## Alvarez vs M’billi boxing bout to go ahead in Saudi Arabia despite attacks
-Mexican boxer tells Turki Al-Sheikh he 'fears nothing' and will face M'billi in Riyadh on October 31 'no matter what'.
+## Atletico Madrid vs Manchester United: Champions League – Predictions, teams
+In-form Atletico host struggling Man United as the Champions League returns for the second set of games.
 
-## If Netanyahu goes, does anything really change for Palestinians?
-Analysts say opposition win in polls may bring only marginal change and no fundamental shift on Gaza, West Bank.
+## India’s voter list changes sparks fresh protests
+A controversial voter roll revision has triggered fresh protests in New Delhi
 
-## India protest live: Opposition to march to Supreme Court over ‘vote theft’
-Main opposition Congress party announces rally to the top court to demand removal of the chief election commissioner.
+## ‘Totally unfair’: Navi Pillay slams US sanctions against ICC
+Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.
 
-## Countries warn against travel to Saudi Arabia following Houthi attacks
-US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.
+## Blast kills teenager, injures dozens in northern Israel
+A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.
 
-## Clashes reported in Yemen as Houthis advance towards Taiz
-Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.
+## Photos: Protests over voter lists escalate in India’s capital
+India’s opposition parties have marched in New Delhi to protest a voter list purge they say favours PM Modi's party.
 
-## China sanctions Paraguay, Belize ministers over Taiwan ties
-Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.
+## Pope Leo continues working after lung surgery announcement
+Pope Leo continues working after lung surgery announcement
 
-## Netanyahu demands probe into sources for award-winning Gaza film NAZA
-Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.
+## UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU
+PM Burnham confirms talks in Brussels next month, insisting the British public will be 'the boss' of the reset.
 
 ## GST refund reforms: Experts differ on potential liquidity gains for India Inc
 Tax experts differ on the potential gains from proposed GST refund reforms, with estimates ranging from Rs 25,000 crore to Rs 60,000 crore as faster refunds and wider input tax credit eligibility aim to ease working capital pressures on businesses.
@@ -282,6 +279,12 @@ Proposed amendments to the CGST Act would require specific intelligence and auth
 ## GST Council 57th Meeting: Faster Refunds, ITC, Registration, Lower Penalties — All Key Announcements Explained
 GST Council 2026 Highlights: The GST Council has approved a series of major reforms, including faster GST refunds, easier registration and cancellation, wider ITC eligibility, no notices below ₹10,000, lower prosecution and penalty thresholds, simplified compliance for small businesses and easier GS
 
+## Sebi notifies common ad code for market intermediaries; allows celebrity endorsement for brands
+In a significant move, Sebi has implemented a Common Advertisement Code aimed at managing how market intermediaries use celebrity endorsements. Under this new framework, celebrities can promote brands, but they’re prohibited from making specific endorsements about products. Any ad featuring a celebr
+
+## India’s 10-year bond yield hits 3-year high as RBI’s liquidity measure weighs on demand
+Indian government bonds extended losses on Monday, pushing the benchmark 10-year yield to a three-year high as the RBI’s latest liquidity-tightening measures added to selling pressure. Tighter banking-system liquidity can curb banks’ capacity to invest in government securities, weakening bond demand
+
 ## SEBI to release AI guidelines for capital markets, enhancing accountability and human oversight
 SEBI is set to unveil new guidelines aimed at promoting the responsible use of artificial intelligence in capital markets. These guidelines will tackle concerns regarding derivatives settlement prices and introduce important changes for tender offers and buybacks, enhancing capital efficiency and mi
 
@@ -293,10 +296,4 @@ India's external affairs ministry expressed strong disapproval of JD Vance's rem
 
 ## Boosting US oil supplies with Russian diesel unlikely to have much impact on prices: Experts
 A new agreement aims to increase diesel supplies from Russia to the U.S., while experts doubt it will lower prices. The current high diesel prices have significantly impacted inflation and consumer goods, which have raised concerns before upcoming elections. Analysts indicate that the deal may shuff
-
-## RBI opens special dollar window for three state-run oil firms
-The Reserve Bank of India has opened a special facility for three state-run oil marketing companies. This facility is designed to meet their full daily dollar requirements. The arrangement will continue until further notice based on the market conditions. Indian Oil Corporation, Hindustan Petroleum 
-
-## Govt likely to finalise critical minerals stockpiling policy in a month
-Mines Secretary Keshav Chandra indicated that a policy on stockpiling critical minerals will be announced soon. This initiative is designed to support strategic sectors like defence, advanced electronics, and aerospace. The government plans to establish four dedicated critical minerals processing pa
 
