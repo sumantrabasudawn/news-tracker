@@ -1,6 +1,24 @@
 # AION Intelligence
 
-## Raphaël Glucksmann wins nomination for France’s centre-left
+## Burnham to step up UK business outreach amid fears of Budget tax rises
+Prime minister and chancellor to meet chief executives and lobby groups after complaints about lack of detail on plans for economy
+
+## City of London hits out at Burnham’s plan to scrap non-compete clauses
+Prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness
+
+## How to pay for social care
+Automatic enrolment worked for pensions — a similar scheme could pool the risk of heavy costs from illness and infirmity in later life
+
+## Healey’s Budget will be ‘fiction’ without plan for £35bn hole in spending, IFS warns
+Influential think-tank says a ‘do nothing’ fiscal event on October 28 is not an option
+
+## FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders
+Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine
+
+## Trump faces Republican opposition to his diesel deal with Russia’s Putin
+Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law
+
+## Glucksmann wins presidential nomination for France’s centre-left
 Pro-European MEP beats Socialist party rival as he bids to unite the ‘democratic left’ ahead of next year’s presidential election
 
 ## EU ‘safeguards’ hybrid car sector from Chinese imports under new deal
@@ -9,23 +27,8 @@ Auto sector welcomes ‘understanding’ reached with Beijing but other industri
 ## US hits commercial tanker in Gulf of Oman as tensions flare
 Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month
 
-## US threatens to block arms for Ukraine over attacks on Russian refineries
-Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin
-
 ## VW chief calls for France and Germany to co-operate on China car fightback
 ‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show
-
-## Russia ‘interfered’ in 2016 Brexit vote, says Burnham
-UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process
-
-## IMF and World Bank to warn central bankers of a gathering storm
-Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit
-
-## Can Russia meet Trump’s diesel demands?
-Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply
-
-## FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders
-Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine
 
 ## US justice department probes TV networks over Trump pool coverage
 ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban
@@ -33,38 +36,29 @@ ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’
 ## Private equity can cut ‘best’ deals in current climate, says Permira boss
 Lower valuations and reduced competition should help sector to ‘exceptional returns’, says Dipan Patel
 
-## Energy secretary pushes Healey for more Budget support on rising bills
-Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a new year price rise
+## Sensex today | Stock Market Live Updates: Stock to buy today: HDFC Life Insurance Company (₹555)
+Sensex, Nifty, Share Prices Live: The stock of HDFC Life Insurance Company gained 4.2 per cent last week. But the trend has been bearish over the last year, and the scrip is facing a resistance at ₹565, an important level.
 
-## JPMorgan bets on European asset management growth
-Patrick Thomson, who heads the bank’s asset management business in Europe, said he was ‘bullish on the UK’
+## FSSAI issues notice to Dr. Reddy’s, Nestle Health Science, e-comm players over misleading claims
+The notice was issued regarding non-compliant advertising and claims for “Celevida GLP+” on e-commerce platforms
 
-## What if AI prefers CVs written by AI?
-The signs are that it does and one law firm’s experience is revealing
+## Stock to buy today: HDFC Life Insurance Company (₹555)
+We anticipate a breakout of ₹565 soon, which will turn the outlook bullish
 
-## Kotak Life, investors Mukul Agrawal, Ashish Kacholia acquire shares in Fusion CX ahead of IPO
-The company has fixed a price band of ₹275-289 per share, valuing the company at approximately ₹4,200 crore at the upper end of the price band
+## Automating the ‘future of work’
+Capria Ventures focuses on enterprise AI and industrial automation
 
-## Banks set for mixed Q2 show as NIMs weaken despite profit growth
-PAT growth for the top five lenders is estimated at 7-17 per cent year-on-year, while NIMs are expected to contract across most banks
+## Premium grocery: Slower and cleaner commerce, anyone?
+A new wave of grocery startups are pitching quality as the main character, even if it means giving up the ‘quick’ factor
 
-## Wipro Q2 preview: Brokerages expect weak revenue growth, margin recovery
-Brokerages expect Wipro’s EBIT margins to improve by 40 basis points (bps) sequentially in the upcoming quarter
+## The rational business decisions behind reverse flipping
+Domestic stock markets have a growing appetite for technology companies
 
-## What happens when merchants pass on UPI MDR costs to customers?
-An IIT Bombay study mentions two aftereffects: First, consumers who purchase goods/services for more than ₹2,000 pay a higher price; second, the higher selling prices percolate even to those making purchases of less than ₹2,000
+## Why best practices often don’t fly
+When our objective is learning, application and behavioural change, context matters enormously
 
-## Editorial. Spaced out
-Musk’s invective over Starlink approval lacks basis
-
-## CJP hardens stand on SIR issue; INDIA bloc to meet CJI, hold protest march
-The Delhi Police registered 20 FIRs in connection with the protests against Chief Election Commissioner Gyanesh Kumar on Sunday
-
-## India has been overlooked in the AI Rush: Vincent Mortier
-The €2.6 trillion asset manager is overweight on the country, sees value in emerging markets and commodities, and believes global benchmarks understate India’s true economic importance
-
-## SEBI settlement rules set apart settlement payments from recovery of wrongful gains
-Gazette-notified framework distinguishes financial obligations, stage-based calculations and a 60-day window for settling cases before a show-cause notice
+## Putting food safety on your plate
+Inside the intensive regulatory crackdown that is reshaping India’s food and beverage sector
 
 ## Festive phone market set to shrink in volume
 
@@ -90,6 +84,21 @@ Reserve Bank of India has introduced new measures aimed at stabilizing the India
 ## Homebuyer paid Rs 39.15 lakh but got no flat; RERA rejects builder's excuse orders interest payout
 The homebuyer alleged that the builder had invoked the PMRDA-PMC jurisdiction dispute only after the delay happened, using it as an excuse to explain why the flat had not been handed over to the buyer on time. The flat was priced at Rs 41.85 lakh, and the buyer had paid Rs 39.15 lakh. The remaining 
 
+## Sudden spell of heavy rain, thunderstorms hit Delhi NCR; waterlogging at several places
+Similar weather conditions were reported in Noida, Gurugram and Ghaziabad as rain swept across Delhi-NCR.
+
+## Pakistan-made fairness creams find growing market in border areas of Bihar, Bangal; experts raise health concerns
+The illegal trade came to light after personnel of the SSB seized a large consignment of banned cosmetic products near the Nepal border in Bihar and Bengal.
+
+## Onion prices may ease as fresh kharif supplies boost market availability
+The all-India average retail rate was ₹52.99 per kg on October 10, nearly twice the price recorded a year earlier.
+
+## Victims of crime can also move court for speedy trials, says Supreme Court
+The court set aside a Delhi HC order that rejected Renuka Jain’s plea and imposed ₹10,000 costs on her.
+
+## IndiGo flight from Delhi to Chennai diverted to Hyderabad after power bank catches fire
+The aircraft carrying 191 people landed safely after cabin crew doused the flames, while the airline later resumed the journey to Chennai.
+
 ## CJI Surya Kant declines Opposition leaders' request for meet over SIR, CEC Gyanesh Kumar; cites judicial propriety
 The Opposition’s proposed intervention also comes amid its continuing campaign against the SIR exercise and allegations of irregularities in electoral rolls.
 
@@ -99,20 +108,17 @@ CJP leaders said the Delhi Police have 24 hours to provide them with a date for 
 ## ‘Deeply grieved’: Jaishankar assures all assistance to family of Indian killed in Riyadh attack
 The embassy said it was in touch with the family and would provide all necessary assistance to ensure the early repatriation of the mortal remains.
 
-## ‘Detain, deport foreign citizen Imran Khan': BJP leader Kirit Somaiya writes to Mumbai Police after actor joins protest
-Somaiya called for Khan to be charged for participating in what he described as an illegal political agitation.
+## Beijing moves to steady A-share market after sharp tech sell-off
+China’s top securities regulator has signalled fresh support for the domestic A-share market, convening a symposium over the weekend as authorities sought to shore up sentiment following a sharp sell-off in technology shares driven by concerns over US sanctions. The China Securities Regulatory Commi
 
-## Indian killed in Riyadh airport attack on October 10; MEA condemns Houthi strikes
-The embassy said it was in touch with Saudi authorities to inquire about the well-being of the injured Indians.
+## Beyond AI: How HKICC 2026 Develops Judgement, Resilience and Global Leadership
+[The content of this article has been produced by our advertising partner.] AI can generate an answer in seconds. Knowing which answer to trust—and how to act on it—still requires human judgement. The HKUST International Case Competition (HKICC) 2026 put that distinction to the test, bringing togeth
 
-## Gem chairman Veeramani booked in 6th Pocso case over abuse of minor girls
-Veeramani, Shanthi and Simhan were arrested on August 29, 2026. Ganesan was arrested later, on September 22
+## Hong Kong must ease listing rules to attract more angel funds and start-ups: HKEIA
+Hong Kong would need to ease its listing rules and transaction requirements to attract more angel funds and become a hub for start-ups to go global, according to a leading industry body in the city. The city has only around 100 active angel funds – private investment vehicles targeting very early-st
 
-## Sachin Pilot may even deny me ticket; will always remain Rahul Gandhi’s soldier: Warring
-Warring quit as the Punjab Congress chief on October 1, after the Congress high command decided on a leadership change ahead of the 2027 Assembly elections.
-
-## 'Would not see such a fast mutation even in radioactive decay': BJP hits out at CJP amid protests against CEC
-Top CJP leaders on Sunday vowed to expand their protests over alleged irregularities during the Special Intensive Revision (SIR) of electoral rolls.
+## Laopu Gold deepens Hong Kong footprint with entire-floor lease at Central tower: sources
+Beijing-based jeweller Laopu Gold has leased an entire mid-floor at One Exchange Square in Central to support its global expansion, according to two sources familiar with the matter. The brand was taking around 13,000 square feet at the flagship Central tower, which houses Hong Kong Exchanges and Cl
 
 ## Turning AI Ambition into Real-World Advantage
 When executives talk about artificial intelligence today, they often talk in absolutes: an existential threat, a historic opportunity, the next great productivity leap. For Amitabh Sarkar, Tata Communications’ Vice-President, Asia Pacific and Japan, the more important story lies beneath the rhetoric
@@ -125,18 +131,6 @@ Apple executive chairman Tim Cook has begun his third visit to China this year, 
 
 ## New vs old: why new-builds are far outselling used homes in Hong Kong
 A clear divide has opened up in Hong Kong’s property market in recent months: sales of new-build homes have surged, but the recovery in the secondary market has remained far more modest. The contrast between the two segments is not a coincidence – and is likely to persist for some time, according to
-
-## Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom
-Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as artificial intelligence drives demand for more sophisticated se
-
-## As clock ticks on China’s commercial land leases, renewal plans allay investors’ concerns
-Groundbreaking land-renewal policies recently announced in Guangzhou and Shanghai represent a step forward in stabilising China’s commercial property market and shoring up investors’ confidence amid Beijing’s efforts to revive the real estate industry, according to officials and industry analysts. T
-
-## Better protection needed as violent cryptocurrency robberies surge
-Cryptocurrency’s promise of financial freedom carries a cost the industry must confront: growing wealth can make its owners more attractive targets for violent criminals. Protecting digital assets while treating the physical safety of their holders as a personal matter is an inadequate approach to f
-
-## Gen Z overtakes older collectors as art market spending rebounds globally: report
-Gen Z high-net-worth collectors have overtaken older generations as the art market’s biggest spenders, with average fine art expenditure more than twice that of older collectors, helping drive a global sales rebound to nearly US$60 billion, according to the latest Art Basel and UBS market insights. 
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Waves crash into homes as excavators try to protect California properties
-Construction crews were seen trying to block waves entering homes along California's coast
+## Iran’s FM urges diplomacy in call with Saudi counterpart
+Tehran offers to facilitate talks between Saudi Arabia and Yemen's Houthis following deadly strikes on the kingdom.
 
-## UK Greens leader seeks rule change after party declares Zionism is racism
-Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.
+## Hurricane Isaias leaves trail of destruction across the US Gulf Coast
+Crews rally for massive cleanup effort in Florida and Alabama as Isaias leaves hundreds of thousands in the dark.
 
-## Two killed near Israeli-occupied area in south Lebanon
-Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.
+## Ceuta or Sebta? Why one city has two names and a disputed status
+Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.
 
-## Deadly air strike kills dozens at Sudan gold mine near Egypt border
-An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.
+## Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’
+Iran says US has accepted some of its peace terms but calls the reply 'inadequate', as Riyadh airport is hit again.
 
-## How Man City beat Liverpool after guilty verdict
-Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.
+## Pakistani national killed in second Houthi strike on Riyadh airport
+Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.
 
-## Zelenskyy welcomes US-announced energy ceasefire
-President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire
+## US Homeland Security secretary sees no ‘risk’ from livestreamed execution
+Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
 
-## Syrian families demand release of detainees held by Israel
-Syrian families demand release of detainees held by Israel
+## Footage shows moment Russian strike hits Ukrainian grocery store
+CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
 
-## Pakistan suspends Imran Khan’s party-led provincial government
-Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province.
+## CCTV shows moment of deadly Houthi strike on Riyadh airport
+CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.
 
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
