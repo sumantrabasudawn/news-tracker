@@ -1,115 +1,115 @@
 # AION Intelligence
 
-## Wall Street plays down investor fears of faltering trading boom
-JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter
-
-## White House asks US envoy to Greece Kimberly Guilfoyle to resign
-Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts
-
-## How not to revive Europe’s auto industry
-The electric vehicle market shows how legacy EU companies continue to fail when it comes to countering Chinese competition
-
-## Submit your questions: Who’s winning the trade war with China — the EU or US?
-Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)
+## Saudi Aramco HQ attacked in suspected Houthi strike
+Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital
 
 ## Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing
-Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment
+Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment
 
-## Why we need a proper conversation about death
-Philanthropy needs to step up to meet the needs that a National Care Service never will
+## Trump revives effort to halt construction of Ørsted’s offshore wind farm
+Move comes after US president said he would drop opposition to renewable energy projects to win support for permitting bill
 
-## European gas hits Iran wartime high
-Stand-off between Washington and Kyiv over Russian diesel and approach of cold weather boost prices
+## Bank of America fined $1.2bn over money laundering failures
+US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and southern US border
 
-## Musk becomes Republicans’ biggest donor for midterms
-Also in today’s newsletter, Bosnia’s foreign minister warns of a pro-Russian enclave’s Washington lobbying
+## Russia arrests Japanese journalist on espionage charges
+Detention of Hokkaido Shimbun reporter follows series of arrests denounced as politically motivated
 
-## English football on ‘edge of financial disaster’, warns game’s new regulator
-Widening losses and rising debts leave most of country’s clubs in perilous position despite Premier League’s riches
+## Modi cannot silence India’s disaffected youth
+The BJP must address young people’s political and economic frustrations
+
+## ‘Pro-business’ Burnham reassures chief executives on tax
+Prime minister and chancellor host roundtable meetings with leading business figures to calm nerves ahead of the Budget
+
+## Number of UK Isa millionaires jumps 50 per cent in a year
+Number of investors with more than £1mn in their account tops 7,700
+
+## Cyber attack on French supermarket fridges raises alarm over food security
+Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food
+
+## English football regulator says he will quit if pressured over Man City case
+David Kogan issues warning as watchdog publishes report saying the English men’s game ‘stands on the edge of financial disaster’
+
+## Will bank earnings growth become a thing of the past?
+It would be foolish to think the Wall Street giants can’t outrun the threat of AI
+
+## Wall Street plays down investor fears of faltering trading boom
+JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter
 
 ## FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban
 US regulators accuse convicted felon of trading in dozens of pharmaceutical stocks and sharing opinions on social media
 
-## Creditors sue Patrick Drahi’s Altice International over asset shifts
-Lenders allege that billionaire illegally moved assets worth billions of dollars out of their reach
+## IMF raises India’s FY27 growth forecast to 7% on strong domestic demand
+India’s upgraded outlook contrasts with a subdued medium-term global growth projection, as the IMF flags inflation and geopolitical risks
 
-## The ‘ungodly spending’ behind the creator economy
-Top social media influencers will receive some payments from platforms like YouTube but the big money comes from brands
+## SBI Funds Management appoints RS Srinivas Jain as Joint CEO
+The appointment follows a recommendation from the company’s Nomination and Remuneration Committee and takes effect from Tuesday, the fund house said.
 
-## London Stock Exchange owner in talks to buy credit specialist Octus
-Deal with private equity group Permira could value data group at $3.5bn
+## Aluminium futures: Bears hold firm
+Sell on rise near resistance
 
-## LIC launches three new plans for retirement income, health and cancer cover
-The offerings include a deferred annuity for post-retirement income and two health plans providing fixed financial benefits under specified conditions.
+## Rupee gains 145 paise in two trading sessions, but disquiet sets in forex market
+On Tuesday, the rupee ended at a five-week high, gaining 49 paise to close at 95.28 per US dollar
 
-## J&K poultry farmers lose control as big companies expand
-Before 2019, the government levied a charge of around ₹9 per kg on poultry brought into the region, which farmers say provided some protection against supplies from larger producers in other States
+## Naidu and Vijay discuss Godavari-Cauvery link, Chennai drinking water supply
+The meeting in Amaravati covered water-sharing needs, a proposed river-linking project and possible additional supplies for Chennai amid water scarcity
 
-## CtrlS announces ₹10,000-crore AI factory in Bodh Gaya, opens ₹400-crore Patna data centre
-The expansion will strengthen the company’s presence in eastern India, with facilities aimed at meeting rising demand for digital infrastructure.
+## India announces two credit risk insurance policies to support shipbuilding industry
+The measures aim to protect shipyards from payment delays and financial risks while strengthening India’s maritime infrastructure and industrial competitiveness
 
-## UK seeks easier access for its food exporters
-Eagle and two ministerial colleagues are leading a trade mission to India that also includes seven mayors from North England
+## Dr Lal PathLabs acquires remaining 30% stake in Centrapath Labs
+The acquisition consolidates ownership of the Indore-based healthcare and diagnostic services provider under PathLabs Unifiers, a subsidiary of Dr Lal PathLabs
 
-## Celluloid history, colonial heritage, and global peace
-Inside Kolkata’s most creative Durga Puja pandals
+## Coal India arm BCCL hikes prices of select coking coal grades by up to 14%
+The revision covers select steel, direct feed and washery grades, with industry experts expecting a modest immediate impact on buyers.
 
-## Two-thirds of UHNI husbands don’t consult spouses on investment decisions
-The report found that just about 30 per cent of men in the nearly 50 female to 70 members of the UHNI families interviewed for the study consulted their spouses for financial decisions
-
-## India, Canada agree to deepen strategic partnership after Modi-Carney call
-The conversation follows renewed diplomatic engagement and security talks, as both countries seek progress on trade negotiations and cooperation against transnational crime.
-
-## Indian chemicals: From market darlings to a slow recovery
+## Apple makes fresh push into smart homes market
 
 
-## India exports 18-coach LHB train to Bangladesh with CCTVs and baby care rooms
-Bangladesh Railway placed a fresh order through RITES in 2024 for the manufacture and supply of 200 broad-gauge passenger coaches. The order covers seven different variants and further deepens the association between the two organisations. The coaches have been customised to suit Bangladesh Railway'
+## IMF raises India growth forecast to 7%
 
-## How buying mobile phones on EMI is leading to reduced defaults on two-wheeler loans
-Consumer durable loans have aided lenders in establishing credit histories for younger borrowers over recent years. Two-wheeler loan delinquencies have significantly declined to 1.4% in June 2026 from 2.7% in June 2019. A notable share of borrowers has established credit profiles, leading to increas
 
-## RBI steps in with big measures for rupee, but should it let currency fall instead?
-One thought process is that the RBI should allow the market forces to let the rupee find its levels. Indeed the IMF recently said that India should allow the exchange rate to act as a shock absorber. Interestingly, RBI governor Sanjay Malhotra believes that the rupee is actually undervalued. What sh
+## Now, MDR on UPI to be rolled out after Diwali
 
-## Fruit farmer faced tax notice over large cash deposits in bank; why ITAT gave relief
-A farmer from Bengaluru faced a tax notice regarding unexplained cash deposits into his bank account. He was able to present evidence supporting his agricultural income claims, which led to a favorable ruling. The Income Tax Appellate Tribunal evaluated the documents submitted, including land record
 
-## Will Budget bring LTCG, STT relief? Here’s what FM Nirmala Sitharaman said
-Union finance minister Nirmala Sitharaman addressed potential changes to long-term capital gains tax during the budget preparations. SBI Research suggested abolishing LTCG tax on equity investments to stabilize foreign capital flows. Additionally, she emphasized investment opportunities in infrastru
+## How phones on EMI are driving loan demand for two-wheelers
 
-## Gold prices surge 54%; jewellers use 9K, 14K, 18K gold for diamond pieces
-As gold prices soar, many consumers are turning to diamond jewellery as a cost-effective choice. Retailers anticipate a sales growth of 15-20% in diamond jewellery this festive season. Lightweight diamond designs are becoming increasingly favored, appealing to everyday shoppers. In response, jewelle
 
-## MDR on UPI transactions over Rs 2,000 deferred; to come into effect post Diwali
-The government has announced a delay in implementing the Merchant Discount Rate for Unified Payments Interface transactions, pushing back the launch initially scheduled for October 15 to after Diwali. This postponement aims to avoid potential payment disruptions amid the festive shopping surge, allo
+## Zoho pauses hikes and ad spend due to rising AI costs
 
-## Tata chief flags challenges in India's semiconductor push, calls 'global collaboration a necessity'
-N Chandrasekaran underscored India's immense promise in the semiconductor sector. He stressed the importance of thoughtful investments, aligning with market demand and financial feasibility. To bolster domestic capabilities, Tata Electronics collaborates with Taiwan's Powerchip to establish a fabric
 
-## Knife in hand, woman claiming to be Mamata Banerjee’s niece allegedly tries to enter security cordon
+## Rupee up 49 paise, RBI governor says curbs to halt speculation
+
+
+## Renew gets $100mn from Dutch bank
+
+
+## Business need investments in chips, says N Chandrasekaran
+
+
+## Odisha Cabinet approves free textbooks for 28.7 lakh students, ₹500-crore urban drainage scheme
+Odisha Cabinet approves free textbooks for 28.7 lakh students, ₹500-crore urban drainage scheme
+
+## ‘8 months of hard work wasted’: Bittu Tabahi finds Madhya Pradesh's Ajnar river choked with garbage again | Video
+The video has renewed discussions online about civic responsibility and the need to prevent rivers from being polluted.
+
+## Five arrested as 29-year-old man dies after ‘assault’ over beer spill at north Delhi nightclub
+Police are examining CCTV footage and allegations of a firearm threat and theft as they investigate the death of Daljeet at Tor House nightclub.
+
+## Opposition announces ‘mission to restore democracy’, plans India Plus group
+Rahul Gandhi said the Opposition would challenge the Centre’s decision to de-notify Jantar Mantar as a protest site, vowing to defend people’s democratic rights
+
+## 11 dead, several missing after boat capsizes in Bihar’s Raghopur
+Around 25 to 30 people were reportedly aboard the medium-sized boat, most of them travelling to attend a feast organised as part of Hindu funeral rituals.
+
+## 'Rahul Gandhi didn't push me': DK Shivakumar after BJP shares clip from INDIA bloc march to Supreme Court
+Karnataka CM DK Shivakumar said that Rahul Gandhi didn't push him aside, but was only concerned for him because the crowd was massive.
+
+## Delhi Police file FIR against CJP's Saurav Das, Ashutosh Ranka and others for ‘trespassing’ into Jantar Mantar
+The action came hours after Das, Ranka were detained for entering the heavily barricaded protest site and raising slogans demanding CEC's resignation.
+
+## Mamata Banerjee escapes knife attack, TMC claims assailant was a 'drug addict, posed as her niece'
 Party MP Dola Sen sent a written complaint to the Kalighat police station in Kolkata stating that the incident took place around 6 pm.
-
-## flydubai probe widens as 2 Maldivian pilots detained in UAE over ‘plot to down aircraft’: Report
-The two pilots were taken into custody on October 3, and their families have been formally notified of their detention by the Maldivian Embassy in the UAE.
-
-## Can new transport authority tackle siloed planning gaps?
-India’s new transport authority aims to coordinate infrastructure planning, but experts say its impact hinges on real powers, reliable data and travel demand.
-
-## Manipur police arrest 13, including a minor for circulating non-consensual explicit videos of women
-A suo motu case was registered under relevant sections of the Information Technology Act, Pocso Act, and BNS
-
-## BIMSTEC home ministers approve measures to tackle terror, drug trafficking, money laundering
-India hosted the first BIMSTEC Ministerial Meeting of home ministers, attended by delegations from Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka, and Thailand.
-
-## Who is L Murugan? Farmers' son, ex-Tamil Nadu BJP chief quits as union minister and Rajya Sabha member
-L Murugan joined the Akhil Bharatiya Vidyarthi Parishad and, afterwards, the Rashtriya Swayamsevak Sangh in 1997.
-
-## Industrialist R Veeramani booked in 7th Pocso case, 10 minor victims identified: Cop
-The case was registered based on a complaint received by the SIT from a victim who was a minor at the time of the alleged offence, police said.
-
-## ‘Congress losing since decades, SIR started after 2024’: Amit Shah counters Rahul Gandhi's allegations against EC
-Amit Shah listed Congress's poll losses over time, saying the party has failed to win elections in states like West Bengal, Tripura, and Gujarat for “decades”.
 
 ## SHKP reopens former Crowne Plaza hotel as luxury ‘urban resort’ in Tseung Kwan O
 The new Royal Garden Kowloon East hotel has undergone far more than an extensive renovation; it has been completely overhauled to become an “urban resort” in the heart of Tseung Kwan O, according to the hotel’s owner. Developer Sun Hung Kai Properties (SHKP) had transformed the former Crowne Plaza “
@@ -135,6 +135,9 @@ China’s futures exchanges will intensify a crackdown on malfeasance linked to 
 ## Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge
 Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices. Onshore traders poured a net HK$60.8 billion (US$7.7 billion) into Hong Kong’s
 
+## Mapping Global Impunity
+Press freedom setbacks are largely driving deteriorating scores around the world.
+
 ## How JFK Helped Pave the Way for Trump’s Crackdown on Dissent
 Warnings about transnational radicalism are rooted in the same accusations that sought to silence a renowned reporter decades ago.
 
@@ -155,9 +158,6 @@ How Uyghur militants were dragged into civil war.
 
 ## Nobel Peace Prize Goes to Former ICC Judge
 The United States imposed new sanctions on the international body in response.
-
-## The Global Diesel Crisis, Explained
-How did the world reach a tipping point, and who holds the leverage?
 
 ## Why Pakistan Tested an Extended Range Version of the Fatah-IV
 Pakistan is likely looking to counter the Indian Air Force’s future strategy of launching air-launched missiles from standoff ranges.
@@ -183,6 +183,9 @@ The country's budget planners have been wrestling with the same intractable chal
 ## The United States Has an Industrial Problem in the Indo-Pacific
 A central part of the deterrence question
 
+## Doubts Grow Over the Terms of Ukraine’s European Union Accession
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
+
 ## Building an Arsenal That Survives the Tenth Salvo
 America faces a well-defined industrial base problem. Whether it’s a hypothetical Taiwan invasion wargame run two dozen times, the current Iranian conflict, or the Russo-Ukrainian War, the same result repeats: Magazines of key weapons such as cruise missile systems and interceptors empty within days
 
@@ -203,9 +206,6 @@ A kill chain measured in seconds cannot depend on processes measured in weeks or
 
 ## Fornication in America: Trump’s Arch, Rome’s Emperors, and the Meaning of Victory
 In 79 A.D., Gaius Plinius Secundus, known today as Pliny the Elder, was the supreme commander of the Roman imperial fleet, permanently stationed at Misenum near Naples. He died during the eruption of Vesuvius, after sailing across the bay on a valiant but unsuccessful rescue mission. Amid such heavy
-
-## Ten Wartime Technologies at America’s 250th
-For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## France seizes tanker suspected of belonging to Russia’s shadow fleet
-France seizes tanker suspected of belonging to Russia’s shadow fleet
+## Tupac Shakur killer sentenced to 40 years in prison
+Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
 
-## US ambassador to Greece resigns amid misconduct allegations
-Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money.
+## Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
+Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
 
-## Sweden’s centre-left leader fails in second bid to form government
-Social Democratic leader Magdalena Andersson says 'conditions not in place' to form government, prolonging deadlock.
+## Scientists urge tighter AI controls to prevent global cyber risks
+Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.
 
-## Houthis threaten Saudi Arabia’s Aramco facilities and airports
-Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.
+## Iconic Iguazu Falls walkway dismantled amid record water levels
+The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.
 
-## Atletico Madrid vs Manchester United LIVE: Champions League
-Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.
+## DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter
+The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.
 
-## ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-NATO's top commander says he is revealing a plan to stop a Russian invasion of Europe.
+## Trump says Houthis trying to increase oil prices before US elections
+US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.
 
-## Spain’s King Felipe makes first visit to Ceuta amid migrant crisis
-Spain’s King Felipe is visiting Ceuta for the first time in his reign, amid an ongoing migration crisis there.
+## Will NATO’s ‘theory of victory’ work?
+The alliance presents a common vision to deter adversaries.
 
-## Why has search of Ilhan Omar’s home before US midterms caused controversy?
-Federal agents searched Omar's home in what she described as an attempt to 'weaponise federal law enforcement'.
+## Eight orangutans find new forest home in Indonesia after wildfire rescue
+Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.
 
 ## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
 Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
