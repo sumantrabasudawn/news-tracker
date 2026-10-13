@@ -1,121 +1,127 @@
 # AION Intelligence
 
-## Chip stocks slide in wake of ‘casino’ comment by Broadcom boss
+## Wall Street plays down investor fears of faltering trading boom
+JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter
+
+## White House asks US envoy to Greece Kimberly Guilfoyle to resign
+Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts
+
+## How not to revive Europe’s auto industry
+The electric vehicle market shows how legacy EU companies continue to fail when it comes to countering Chinese competition
+
+## Submit your questions: Who’s winning the trade war with China — the EU or US?
+Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)
+
+## Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing
 Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment
 
-## China gets spiky on currencies
-Plus: your ideas, please, on investing ex-AI
+## Why we need a proper conversation about death
+Philanthropy needs to step up to meet the needs that a National Care Service never will
 
-## Trump-Zelenskyy diesel spat reignites Europe’s White House angst
-Also in this newsletter: The sky-high cost of replacing foreign cloud platforms
+## European gas hits Iran wartime high
+Stand-off between Washington and Kyiv over Russian diesel and approach of cold weather boost prices
 
-## How Michael Woodford made modern macro relevant to central bankers
-Nobel expectations
+## Musk becomes Republicans’ biggest donor for midterms
+Also in today’s newsletter, Bosnia’s foreign minister warns of a pro-Russian enclave’s Washington lobbying
 
-## FirstFT: IMF sounds alarm on dire public finances
-Also in today’s newsletter: US Treasuries and Houthi attacks
+## English football on ‘edge of financial disaster’, warns game’s new regulator
+Widening losses and rising debts leave most of country’s clubs in perilous position despite Premier League’s riches
 
-## Rising Treasury bill issuance puts pressure on short-term rates
-Stress at long end of US yield curve appears to be moving towards short-term lending markets, threatening to complicate life for the Fed
+## FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban
+US regulators accuse convicted felon of trading in dozens of pharmaceutical stocks and sharing opinions on social media
 
-## EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers
-European automotive industry welcomes deal as ‘first step’ to create fairer playing field
+## Creditors sue Patrick Drahi’s Altice International over asset shifts
+Lenders allege that billionaire illegally moved assets worth billions of dollars out of their reach
 
-## Investors brave US Treasury rout to lock in highest yields in decades
-Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades
+## The ‘ungodly spending’ behind the creator economy
+Top social media influencers will receive some payments from platforms like YouTube but the big money comes from brands
 
-## BP to set out new strategy after windfall year
-UK oil major will announce plans in December after hitting current debt targets
+## London Stock Exchange owner in talks to buy credit specialist Octus
+Deal with private equity group Permira could value data group at $3.5bn
 
-## Premier Inn owner urges investors to resist pressure from activist hedge fund
-Whitbread asks shareholders to reject Corvex Management’s demand for board seat
+## LIC launches three new plans for retirement income, health and cancer cover
+The offerings include a deferred annuity for post-retirement income and two health plans providing fixed financial benefits under specified conditions.
 
-## ‘A game of snakes and ladders’
-The UK is trying to balance public outrage over the Manchester City scandal with a desire to keep investment flowing from the UAE
+## J&K poultry farmers lose control as big companies expand
+Before 2019, the government levied a charge of around ₹9 per kg on poultry brought into the region, which farmers say provided some protection against supplies from larger producers in other States
 
-## Informa’s trade show bet has a vulnerability — geopolitics
-The FTSE 100 company has grown rapidly after focusing on live events under Stephen Carter but is being affected by the Iran war
+## CtrlS announces ₹10,000-crore AI factory in Bodh Gaya, opens ₹400-crore Patna data centre
+The expansion will strengthen the company’s presence in eastern India, with facilities aimed at meeting rising demand for digital infrastructure.
 
-## How BT’s TalkTalk swoop left broadband rivals fuming
-Rescue deal will boost BT’s market leadership at a time when regulators are trying to encourage competition
+## UK seeks easier access for its food exporters
+Eagle and two ministerial colleagues are leading a trade mission to India that also includes seven mayors from North England
 
-## Sensex today | Stock Market Live Updates: Sensex up 545 points, Nifty gains 165 points in midday trade on IT rally
-Sensex, Nifty, Share Prices Live: Sensex, Nifty rise on HCLTech earnings boost and central bank support for rupee
+## Celluloid history, colonial heritage, and global peace
+Inside Kolkata’s most creative Durga Puja pandals
 
-## TCS partners with Zoho’s ManageEngine to bundle IT management with its sovereign cloud offering
-The partnership will leverage ManageEngine’s capabilities in IT Service Management across TCS’ sovereign cloud offering together helping customers modernise IT operations, strengthen their security posture and accelerate digital transformation at enterprise scale
+## Two-thirds of UHNI husbands don’t consult spouses on investment decisions
+The report found that just about 30 per cent of men in the nearly 50 female to 70 members of the UHNI families interviewed for the study consulted their spouses for financial decisions
 
-## NTPC seeks overseas buyers for green ammonia, low-carbon fuels
-The power producer is in talks with prospective overseas customers as it develops a proposed green hydrogen ​hub in Andhra Pradesh, Chairman Gurdeep Singh said at an event organised by the Indian Chamber of Commerce
+## India, Canada agree to deepen strategic partnership after Modi-Carney call
+The conversation follows renewed diplomatic engagement and security talks, as both countries seek progress on trade negotiations and cooperation against transnational crime.
 
-## HDFC Bank shares climb 0.84% as Q2 results loom; sellers still dominate
-The stock opened at ₹707.00, hit an intraday high of ₹716.50 and a low of ₹705.10
-
-## Hotels in Keralam to stop accepting UPI payments above ₹2,000 from October 15
-According to the association, the introduction of a 0.4% MDR on bills would increase the financial burden on small establishments.
-
-## ‘Corporate governance in India remains largely confined to seminars, not boardrooms’
-Drawing on 14+ years helping companies with governance and compliance, Tuljapurkar shares views on enforcement, board accountability, data protection, AI adoption, and diversity in leadership
-
-## Gold ticks up as oil eases; spotlight on US inflation data
-Spot gold was ⁠up 0.4% to $4,188.27 per ounce by 06:24 GMT after hitting a one-week peak on Monday
-
-## Q2 Results Today Live: Q2 Results Today Live: Tata Elxsi, ICICI Pru Life, Hero Motors shares trade mixed; PNB Gilts jumps 8%
-Q2 Results Today, 13th October 2026 Live Updates: Several companies are scheduled to announce their results for the quarter ended September 30, 2026, on Tuesday. Hero Motors, ICICI Pru, Tata Elxsi, SS Retail, Anand Rathi Share are among the companies in focus as the September-quarter earnings season
-
-## Employer in South Korea paid him salary in dollars in India; income tax department sends notice
-A Karnataka man working in South Korea faced an income tax notice over his salary deposited in an NRE account in India. The Income Tax Assessing Officer claimed the salary was taxable in India due to his employment. However, the ITAT Bangalore found that the man had established his non-resident stat
-
-## Gold price prediction today: What is the outlook for gold on October 13, 2026?
-Gold price prediction today: Gold prices are seeing ome fluctuations recently, influenced by geopolitical tensions and economic data. Recent attacks on Saudi Arabia have raised concerns about regional stability and oil prices. The US Dollar has strengthened, impacting gold prices and local currencie
-
-## Which stocks should you buy or sell on October 13, 2026?
-Stock market recommendations:Bank of India, GAIL, and Dabur India - these are the top stocks to sell today as picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for October 13, 2026.
-
-## HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying
-Dalal Street saw a surge as IT stocks soared following strong quarterly earnings from industry giants. HCLTech and Tata Consultancy Services were at the forefront, with their share prices climbing significantly. However, this rally comes amidst a tougher year for IT stocks, which have dipped by 23%.
-
-## Rupee extends winning streak, rises to 94.96 against dollar as RBI tightens forex rules
-In a significant turnaround, the Rupee gained ground against the US dollar, settling at 94.96 as a result of strategic interventions by the Reserve Bank of India. These measures aimed at reducing excessive demand for dollars positively influenced the forex market, contributing to a decline in the do
-
-## Tenant's Rs 10 lakh deposit claim fails; Delhi HC orders payment for unauthorised stay
-The case involved a tenant, who rented a 238.38 sq. ft shop in 2014 from a couple in Delhi. The agreed monthly rent was Rs 25,500. However, the 11-month rent agreement was never registered. The tenant subsequently claimed that he had paid the landlords Rs 10 lakh in cash as a security deposit betwee
-
-## Stock market today: BSE Sensex jumps over 500 points, NSE Nifty50 rises above 22,450
+## Indian chemicals: From market darlings to a slow recovery
 
 
-## India's economic story in fast lane, IMF projects 7% GDP growth for FY27 and FY28
-India is projected to maintain a robust growth rate of 7% in both 2026 and 2027, bolstered by strong domestic demand and a thriving services sector, according to the International Monetary Fund. Positive revisions from the World Bank and OECD highlight resilience amid consumption patterns. However, 
+## India exports 18-coach LHB train to Bangladesh with CCTVs and baby care rooms
+Bangladesh Railway placed a fresh order through RITES in 2024 for the manufacture and supply of 200 broad-gauge passenger coaches. The order covers seven different variants and further deepens the association between the two organisations. The coaches have been customised to suit Bangladesh Railway'
 
-## 'Want senior Delhi officer to explain': Supreme Court on 'assault, detention' of women journalists at anti-EC stir
-The court’s intervention follows reports of journalists being detained during the protests, despite identifying themselves as members of the press.
+## How buying mobile phones on EMI is leading to reduced defaults on two-wheeler loans
+Consumer durable loans have aided lenders in establishing credit histories for younger borrowers over recent years. Two-wheeler loan delinquencies have significantly declined to 1.4% in June 2026 from 2.7% in June 2019. A notable share of borrowers has established credit profiles, leading to increas
 
-## IndiGo cancels flights to and from Saudi's Riyadh, Jeddah, Dammam and Madinah till Oct 17
-IndiGo said flights to and from Riyadh, Jeddah, Dammam and Madinah stand cancelled till Oct 17 due to the evolving situation in Saudi Arabia.
+## RBI steps in with big measures for rupee, but should it let currency fall instead?
+One thought process is that the RBI should allow the market forces to let the rupee find its levels. Indeed the IMF recently said that India should allow the exchange rate to act as a shock absorber. Interestingly, RBI governor Sanjay Malhotra believes that the rupee is actually undervalued. What sh
 
-## 'Phones taken, lawyer not allowed': CJP's claims against Delhi cops after Das, Ranka detained
-CJP's legal head Ratna Singh alleged that Das, Ranka and other leaders have not been allowed to meet with legal representatives.
+## Fruit farmer faced tax notice over large cash deposits in bank; why ITAT gave relief
+A farmer from Bengaluru faced a tax notice regarding unexplained cash deposits into his bank account. He was able to present evidence supporting his agricultural income claims, which led to a favorable ruling. The Income Tax Appellate Tribunal evaluated the documents submitted, including land record
 
-## Bombay high court quashes ED’s 2013 FIR on Goa illegal mining case
-A group of seven mining companies led by Salgaocar Mining Company filed a petition in the high court seeking to quash the case of money laundering
+## Will Budget bring LTCG, STT relief? Here’s what FM Nirmala Sitharaman said
+Union finance minister Nirmala Sitharaman addressed potential changes to long-term capital gains tax during the budget preparations. SBI Research suggested abolishing LTCG tax on equity investments to stabilize foreign capital flows. Additionally, she emphasized investment opportunities in infrastru
 
-## BJP women MPs to meet President today to seek Congress MP's dismissal over JNU sexual harassment case
-The BJP has been demanding that the Congress take serious action against Manipur MP Bimol Akoijam and dismiss him from the party.
+## Gold prices surge 54%; jewellers use 9K, 14K, 18K gold for diamond pieces
+As gold prices soar, many consumers are turning to diamond jewellery as a cost-effective choice. Retailers anticipate a sales growth of 15-20% in diamond jewellery this festive season. Lightweight diamond designs are becoming increasingly favored, appealing to everyday shoppers. In response, jewelle
 
-## Insisting on conversion not insult to religious beliefs: Bombay HC
-The accused had sought quashing of the FIR registered against them in Amravati in January and also the chargesheet filed in the case.
+## MDR on UPI transactions over Rs 2,000 deferred; to come into effect post Diwali
+The government has announced a delay in implementing the Merchant Discount Rate for Unified Payments Interface transactions, pushing back the launch initially scheduled for October 15 to after Diwali. This postponement aims to avoid potential payment disruptions amid the festive shopping surge, allo
 
-## LDF walks out of Keralam Assembly alleging medicine shortage, vacant posts
-LDF walks out of Keralam Assembly alleging medicine shortage, vacant posts
+## Tata chief flags challenges in India's semiconductor push, calls 'global collaboration a necessity'
+N Chandrasekaran underscored India's immense promise in the semiconductor sector. He stressed the importance of thoughtful investments, aligning with market demand and financial feasibility. To bolster domestic capabilities, Tata Electronics collaborates with Taiwan's Powerchip to establish a fabric
 
-## ‘India, Gulf now able to chart own course, not always agreeing with US-China’: Rishi Sunak
-Rishi Sunak said countries such as India and those in West Asia were increasingly in a position to make decisions independently.
+## Knife in hand, woman claiming to be Mamata Banerjee’s niece allegedly tries to enter security cordon
+Party MP Dola Sen sent a written complaint to the Kalighat police station in Kolkata stating that the incident took place around 6 pm.
+
+## flydubai probe widens as 2 Maldivian pilots detained in UAE over ‘plot to down aircraft’: Report
+The two pilots were taken into custody on October 3, and their families have been formally notified of their detention by the Maldivian Embassy in the UAE.
+
+## Can new transport authority tackle siloed planning gaps?
+India’s new transport authority aims to coordinate infrastructure planning, but experts say its impact hinges on real powers, reliable data and travel demand.
+
+## Manipur police arrest 13, including a minor for circulating non-consensual explicit videos of women
+A suo motu case was registered under relevant sections of the Information Technology Act, Pocso Act, and BNS
+
+## BIMSTEC home ministers approve measures to tackle terror, drug trafficking, money laundering
+India hosted the first BIMSTEC Ministerial Meeting of home ministers, attended by delegations from Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka, and Thailand.
+
+## Who is L Murugan? Farmers' son, ex-Tamil Nadu BJP chief quits as union minister and Rajya Sabha member
+L Murugan joined the Akhil Bharatiya Vidyarthi Parishad and, afterwards, the Rashtriya Swayamsevak Sangh in 1997.
+
+## Industrialist R Veeramani booked in 7th Pocso case, 10 minor victims identified: Cop
+The case was registered based on a complaint received by the SIT from a victim who was a minor at the time of the alleged offence, police said.
+
+## ‘Congress losing since decades, SIR started after 2024’: Amit Shah counters Rahul Gandhi's allegations against EC
+Amit Shah listed Congress's poll losses over time, saying the party has failed to win elections in states like West Bengal, Tripura, and Gujarat for “decades”.
+
+## SHKP reopens former Crowne Plaza hotel as luxury ‘urban resort’ in Tseung Kwan O
+The new Royal Garden Kowloon East hotel has undergone far more than an extensive renovation; it has been completely overhauled to become an “urban resort” in the heart of Tseung Kwan O, according to the hotel’s owner. Developer Sun Hung Kai Properties (SHKP) had transformed the former Crowne Plaza “
+
+## PBOC adds most gold in three years amid China pivot from US dollar
+China’s central bank boosted gold holdings by the most in three years last month, taking advantage of a dip in prices to further pare its exposure to US dollar assets amid tensions with Washington. Holdings rose by 740,000 troy ounces (23 tonnes) to reach 77.47 million ounces at the end of September
 
 ## Chinese billionaire featured in ‘American Factory’ shares lesson for firms going global
 Chinese billionaire Cao Dewang, whose glass-making empire was featured in the Oscar-winning documentary American Factory, has urged Chinese investors expanding overseas to respect local laws, regulations and culture, drawing on decades of experience building a global manufacturing business amid shif
 
-## Hong Kong watchdog orders suspension of third stock in a month
-Hong Kong’s securities watchdog has directed the stock exchange to suspend trading of three listed companies in the last month, signalling a hawkish turn regarding the quality of listed firms. Chinese bubble-tea maker Sichuan Baicha Baidao Industrial, also known as Chabaidao, was suspended by the Se
+## Hong Kong watchdog freezes US$590m of assets over alleged IPO fraud schemes
+Hong Kong’s securities watchdog has moved against two syndicates suspected of being involved in three alleged initial public offering fraud schemes involving assets worth HK$4.6 billion (US$590 million), according to a statement released on Tuesday. The Securities and Futures Commission (SFC) also a
 
 ## Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation
 Haidilao International Holding has agreed to provide its founder, Zhang Yong, with a one-month loan of up to the Hong Kong dollar equivalent of 100 million yuan (US$14.9 million), a move that has raised market speculation as investors closely watch Beijing’s October 22 deadline for offshore trust ta
@@ -129,11 +135,8 @@ China’s futures exchanges will intensify a crackdown on malfeasance linked to 
 ## Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge
 Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices. Onshore traders poured a net HK$60.8 billion (US$7.7 billion) into Hong Kong’s
 
-## Chinese stocks an undervalued opportunity, says Charlie Munger disciple
-Shares in Chinese companies present better opportunities today than at other times, a disciple of legendary investor Charlie Munger said in a rare reflection on the world’s second-largest economy amid tensions with the US and the ongoing artificial intelligence race. The comments by Li Lu, Chinese-A
-
-## Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high
-US Treasuries are looking increasingly attractive to Hong Kong investors after a prolonged sell-off pushed yields to multi-decade highs, prompting some strategists and wealth managers to recommend buying while others warned that further losses may lie ahead. The benchmark 10-year Treasury yield surg
+## How JFK Helped Pave the Way for Trump’s Crackdown on Dissent
+Warnings about transnational radicalism are rooted in the same accusations that sought to silence a renowned reporter decades ago.
 
 ## Congress Can Do More to Curb Kushner’s Conflicts of Interest
 No one should be getting paid by the countries they are conducting diplomacy with, especially not the president’s son-in-law.
@@ -156,32 +159,29 @@ The United States imposed new sanctions on the international body in response.
 ## The Global Diesel Crisis, Explained
 How did the world reach a tipping point, and who holds the leverage?
 
-## Arnold Toynbee’s Chinese Century
-A forgotten historian enjoys a strange afterlife in Beijing.
+## Why Pakistan Tested an Extended Range Version of the Fatah-IV
+Pakistan is likely looking to counter the Indian Air Force’s future strategy of launching air-launched missiles from standoff ranges.
 
-## Philippine Lower House Passes Bill Restricting Social Media Access of Minors
-If passed into law, the country will become the fourth in Southeast Asia to introduce youth social media restrictions of some kind.
+## From Data Localization to Digital Openness: Uzbekistan’s Regulatory Shift
+Uzbekistan courts tech companies to boost its economy by easing its once infamous data localization law.
 
-## Wolf Warriors in Sheep’s Clothing: China’s New Subnational Diplomacy in Australia
-Beijing’s diplomatic officials are adopting the language of the Albanese government to press their demands upon local governments and communities.
+## Why the TTP Remains the Central Fault Line Between Pakistan and Afghanistan
+The costs of confrontation are not confined to the security domain; it’s impacting every facet of the bilateral relationship.
 
-## What the US and China Should Discuss at APEC
-Both sides are feeding an AI investment bubble – and Shenzhen is the place to talk about it.
+## Pakistan Imposes Emergency and Governor’s Rule in Khyber Pakhtunkhwa
+By invoking Articles 232 and 234, the federal government has essentially neutralized PTI’s institutional presence in the province.
 
-## The Mystery of Kyrgyzstan’s Newly Launched Satellite(s)
-At first glance, the story of Kyrgyzstan’s satellite launch seemed like a genuine achievement. Then the story changed.
+## Indian IT Companies Are in Trump’s Crosshairs
+Top companies like Infosys, Wipro, and Cognizant will not be able to apply for green cards for H-1B visa workers.
 
-## South Korea Recalls Ambassador, Demands Public Apology From Ukraine
-A diplomatic rift is growing after a North Korean prisoner transfer that Kyiv revealed against Seoul’s wishes.
+## Protests Escalate in Delhi Despite Modi Government’s Heavy-handed Crackdown
+Indiscriminate arrests, detentions, police brutality, and blockades have not been able to demoralize protesters seeking the removal of the chief election commissioner.
 
-## Australia’s Billionaire Problem and the ‘Corruption of the Democratic Process’
-Australia’s incoming political finance laws will cap donations and electioneering spending for the first time, but the limits are generous, the rules complex, and the two-year delay suspiciously convenient for the major parties.
+## Thailand Tightens Its Belt With 2027 Budget
+The country's budget planners have been wrestling with the same intractable challenge since the COVID-19 pandemic.
 
-## The China-EU Trade Truce Buys Time
-For the EU, the choice is increasingly difficult: secure real concessions from Beijing to address structural trade imbalances or deploy stronger unilateral measures to protect its industrial base.
-
-## Southeast Asia Has a Serious Drug Problem
-Southeast Asia’s drug labs are pumping out unprecedented amounts of meth and other synthetic drugs.
+## The United States Has an Industrial Problem in the Indo-Pacific
+A central part of the deterrence question
 
 ## Building an Arsenal That Survives the Tenth Salvo
 America faces a well-defined industrial base problem. Whether it’s a hypothetical Taiwan invasion wargame run two dozen times, the current Iranian conflict, or the Russo-Ukrainian War, the same result repeats: Magazines of key weapons such as cruise missile systems and interceptors empty within days
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says
-Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.
+## France seizes tanker suspected of belonging to Russia’s shadow fleet
+France seizes tanker suspected of belonging to Russia’s shadow fleet
 
-## Emir says Qatar has shown resilience in the face of ‘exceptional events’
-Sheikh Tamim bin Hamad Al Thani says Qatar's response has highlighted the strength of state institutions.
+## US ambassador to Greece resigns amid misconduct allegations
+Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money.
 
-## Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia
-Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.
+## Sweden’s centre-left leader fails in second bid to form government
+Social Democratic leader Magdalena Andersson says 'conditions not in place' to form government, prolonging deadlock.
 
-## Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa
-Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.
+## Houthis threaten Saudi Arabia’s Aramco facilities and airports
+Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.
 
-## Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says
-Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.
+## Atletico Madrid vs Manchester United LIVE: Champions League
+Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.
 
-## Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m
-The basketball memorabilia ranks as the second-largest sale in history ⁠⁠among game-worn sports jerseys.
+## ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+NATO's top commander says he is revealing a plan to stop a Russian invasion of Europe.
 
-## Despite long history with Netanyahu, Trump hedges as Israel vote nears
-US president has not endorsed Israeli prime minister ahead of October 27 election amid shifting public sentiment.
+## Spain’s King Felipe makes first visit to Ceuta amid migrant crisis
+Spain’s King Felipe is visiting Ceuta for the first time in his reign, amid an ongoing migration crisis there.
 
-## More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region
-Rescue operation underway after flash floods swept away home, bridges and parts of the Manaslu trekking trail.
+## Why has search of Ilhan Omar’s home before US midterms caused controversy?
+Federal agents searched Omar's home in what she described as an attempt to 'weaponise federal law enforcement'.
 
 ## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
 Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
@@ -279,6 +279,12 @@ The Reserve Bank of India has raised rates by 25 basis points this week, but mor
 ## GST Council proposes curbs on e-way bill interceptions, seeks to protect goods in transit from confiscation
 Proposed amendments to the CGST Act would require specific intelligence and authorisation by an officer of at least Joint Commissioner rank for interception, while narrowing the scope for enforcement action by transit states.
 
+## Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route
+Sebi has announced a new Portfolio Management Services framework effective from April 1, 2027. This framework permits portfolio managers to invest in IPOs, primary market debt, and various overseas securities. Portfolio managers can also offer advisory services related to unlisted securities for lar
+
+## RBI's new forex rules will raise importers hedging costs and ease pressure on rupee: Report
+The Reserve Bank of India's (RBI) new foreign exchange rules are expected to raise hedging costs for importers and reduce excessive demand for dollars, easing pressure on the rupee, according to a report by ICICI Bank.
+
 ## Banks seek clarification on implementation of RBI forex measures
 Indian lenders have requested clarification from the Reserve Bank of India regarding new currency-supporting measures. They seek guidance on calculating the foreign exchange risk reserve and its impact on liquidity ratios. Additionally, banks are uncertain about cost transmission to customers and ho
 
@@ -293,7 +299,4 @@ SEBI is set to unveil new guidelines aimed at promoting the responsible use of a
 
 ## India awaits how Trump will route diesel buy from Russia
 Washington may seek an exemption under its Russia and Iran Sanctions Act as it moves to import Russian diesel, even as New Delhi awaits a decision on a possible sanctions waiver.
-
-## India slams JD Vance's H-1B remarks, defends Indian workers
-India's external affairs ministry expressed strong disapproval of JD Vance's remarks about H-1B workers, labeling them as deeply offensive. They emphasized that current H-1B visas continue to be valid, notwithstanding modifications to the PERM program. Vance's allegations against firms like Microsof
 
