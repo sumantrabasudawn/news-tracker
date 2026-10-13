@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct
+US president contemplating dismissing Kimberly Guilfoyle after report claiming she accepted improper gifts
+
+## English councils warn of a £10bn overspend on special needs support
+Local authority leaders call for another multibillion-pound bailout from central government to cover rising costs
+
+## Franco-German deal on EU car policy is ‘imminent’, says Macron
+Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition
+
+## France to raise stake in struggling miner Eramet
+Paris set to become top shareholder as states race to secure critical mineral supplies
+
+## Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia
+International oil company chiefs stay away from energy congress after airport attacks
+
+## Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts
+Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies
+
+## Houthi assault on Saudi airports strikes at MBS’s economic vision
+Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub
+
 ## Musk injects $275mn into Republicans’ fight to retain Congress
 Trillionaire Tesla chief has become party’s biggest donor ahead of November’s pivotal midterms
 
-## The diesel crisis is testing the limits of globalisation
-Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation
-
-## Trump’s Russian diesel gambit is cynical and won’t work
-The US president risks harming Ukraine to curb prices driven up by his own war
-
-## US agents raid home of Trump critic Ilhan Omar
-Homeland Security officials launch criminal investigation into the Minnesota representative
-
-## Two economists who transformed crisis management win Nobel Prize
-Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil
-
-## UK’s Brussels reset hit by EU demands on university fees
-Rejecting closer ties with EU would be ‘dereliction of duty’, prime minister to tell MPs
-
-## EU ‘safeguards’ hybrid car sector from Chinese imports under new deal
-Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action
-
-## It’s time for the UK to reward whistleblowers financially
-Incentivising insiders to come forward will transform how we tackle fraud
+## China faces uphill battle to wean tech firms off Nvidia chips
+The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands
 
 ## LVMH’s fashion and leather sales fall in luxury setback
 Paris-listed group hails ‘buoyant’ US market but said sales were hit by slowdown in demand in China
@@ -30,67 +33,70 @@ Paris-listed group hails ‘buoyant’ US market but said sales were hit by slow
 ## Watch out luxury: mid-market fashion brands are staging a comeback
 While LVMH’s sales slid more than the market expected in recent months, Uniqlo’s are going gangbusters
 
-## Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown
+## The diesel crisis is testing the limits of globalisation
+Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation
+
+## Zuckerberg says Meta has reached AI ‘frontier’
 FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race
 
-## Oil prices rise as Trump’s ‘energy ceasefire’ frays
-Announcement followed deal with Putin as US president tries to contain impact of higher fuel costs ahead of midterm elections
+## India, US and China investors eye $844 million port project in Peru
+Peruvian authorities are seeking domestic and overseas investors for a proposed port that could strengthen cargo and mineral shipping links with Asia.
 
-## Can a financier really revive LIV Golf?
-BC Partners’ Ted Goldthorpe is hoping to prove the doubters wrong in pulling the circuit out of bankruptcy and making global team golf viable
+## India-US cooperation expanding across defence, IT and healthcare, says envoy Sergio Gor
+Speaking in Kolkata, the US envoy cited military exercises, cross-border investments and pharmaceutical trade as examples of the expanding bilateral partnership
 
-## LoP, Opposition leaders move SC for full disclosure of EC records on SIR
-They seek independent probe and suspension of SIR as interim relief
+## Jubilant Pharmova approves ₹800 crore NCD issue through private placement
+The pharmaceutical company’s board has cleared the debt issue, with the interest rate to be determined through the bidding process.
 
-## Letters to the Editor dated October 12, 2026
+## SEBI exempts DKJ Ownership Trust from open offer for 19.85% stake in S Chand
+The proposed transfer will change individual shareholdings within the promoter group while leaving its combined stake in the educational publisher unchanged
 
+## Rajendra Arlekar moves to Tamil Nadu, Om Prakash Mathur appointed Keralam Governor
+The appointments cover six states, with changes in leadership across Tamil Nadu, Keralam, Sikkim, Karnataka, Uttarakhand and Odisha
 
-## Letters to the Editor dated October 9, 2026
+## SC registry flags over 10 defects in Rahul Gandhi’s plea in SIR case
+The registry identified documentation and court fee issues in the Opposition leaders’ plea seeking an independent audit of electoral roll changes
 
+## Karnataka High Court strikes down enhanced SC/ST quota, upholds 50% reservation ceiling
+The ruling follows two petitions challenging the constitutional validity of Karnataka’s law that raised overall reservation for SCs, STs and OBCs to 56 per cent
 
-## Editorial. Signs of nerves
-RBI should avoid knee-jerk response to rupee movement
+## IRDAI may extend consultation, implementation timelines for distribution reforms
+The regulator may extend the October 25 deadline for submitting feedback
 
-## Bank of India classifies Kishore Biyani-promoted Future Enterprises account as fraud
-The public sector lender disclosed the classification in a regulatory filing, citing its policy on determining and disclosing material events and information
-
-## Sunil Bharti Mittal named Knight of the National Order, France’s highest civilian distinction
-Mittal honoured for his role in deepening economic ties between India and France and achievements in telecommunications and digital infrastructure
-
-## Neither approved nor disapproved, SC clarifies stance on Form 6 alterations
-The changes and modified declarations, which required applicants to provide ancestry details or linkage to previous SIR rolls on the ECINet portal, were introduced subsequently in July
-
-## RDI Fund has picked the first cohort of 19 Second Level Fund Managers with investment commitment of ₹7,131 crore
-The names of the SLFMs were not disclosed.
-
-## He gave land given for road widening, sold TDRs for Rs 6.02 crore; ITAT taxes capital gains
-The landowner chose to sell the TDRs he had received for surrendering 2,839 square metres of land. He sold them to a builder for Rs 6 crore but did not pay income tax on the proceeds. His understanding was that the amount received from the sale was a capital receipt and was therefore not taxable.
-
-## SBI Research recommends LTCG on equities to be scrapped; calls for DTAA clarity
-The proposal is aimed at making foreign capital flows into equities more stable and limiting the chances of abrupt withdrawals that could put pressure on the rupee. Foreign portfolio investors (FPIs) currently face a 12.5% LTCG tax on equity investments. The Union Budget 2026 retained this rate for 
-
-## Bank cut Rs 5.89 crore FD rate from 7.75% to 3.5%; Court orders higher interest
-Initially, the FD earned interest at rates of 7.75%, 8.25% and 7.75% over different periods. However, from January 30, 2018, the bank lowered the rate to 3.5%. Challenging the reduction, the deposit holder approached the court again, arguing that the bank had cut the interest rate without any valid 
-
-## Retail inflation at almost 2-year high at 5.54% in September, driven by food prices surge
-Retail inflation in India reached 5.54% in September, mainly spurred by rising food costs. Food inflation escalated to 7.74%, the highest recorded since the new CPI series was launched. The price of onions skyrocketed, while some items, like potatoes and tomatoes, saw price drops. Puducherry recorde
-
-## IIT-B report wants UPI MDR cut; says banks should forgo their share
-The study recommends setting the MDR share for TPAPs at 0.06%, lower than the 0.08% proposed by the National Payments Corporation of India (NPCI), while keeping the PSP share unchanged at 0.02%. Under the existing arrangement, banks that issue and acquire transactions collectively receive the bulk o
-
-## After 16-coach launch, Railways plans 24-coach Vande Bharat sleeper with pantry
-Indian Railways is expected to introduce more than 200 Vande Bharat sleeper trains over the coming years as it seeks to transform long-distance rail travel. Three major manufacturing projects are underway. The 24-coach Vande Bharat sleeper trains will be a variant of the existing train design but wi
-
-## Sunil Bharti Mittal gets highest French civilian award
+## Economic settlement not resolved: Mallika, Lakshmi
 
 
-## Top stocks: Nifty outlook for October 12-October 16 week? Check stock recommendations
-Stock market recommendations: ICICI Lombard General Insurance, and Nykaa are the top stocks that Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities has picked for buying for the October 12, 2026 week.
+## PERM certifications at 13 IT companies fell to 607 in 9 months from 1,670 in FY25
+
+
+## Rupee gains 96 paise as RBI curbs begin to take effect
+
+
+## HCLTech Q2 revenue up 2.2%, narrows FY27 guidance
+
+
+## Centre, states to work on widening GST base
+
+
+## Sensex falls 548 points amid volatile trade
+
+
+## European car companies will prefer to make in India: Piyush Goyal
+
+
+## Sir Dorabji Tata Trust gets time till October 19 to respond to complaints
+
+
+## Prices of pulses soar amid supply crunch and adverse weather
+Adverse weather, lower supplies and costlier imports are lifting Indian pulse prices, with pigeon pea nearing 2023-24 highs.
+
+## Three-day BRICS Theatre Festival begins in Delhi, India showcases 'Samudra Manthan'
+Three-day BRICS Theatre Festival begins in Delhi, India showcases 'Samudra Manthan'
 
 ## Two 'godmen' cheat woman of ₹69 lakh after promising to cure her sister of cancer
 The Chembur police identified the accused as Rajshekhar Shastri and Guruji Adityanath alias Babu Guruji.
 
-## Iran security chief speaks to NSA Ajit Doval on call, discusses ‘issues of mutual interest’
+## Iran security chief and NSA Ajit Doval hold phone call, discuss West Asia conflict, bilateral issues
 The two leaders exchanged views on the latest regional and international developments and issues of mutual interest to the two countries.
 
 ## 'Batman Mode On': Rahul Gandhi, Kharge pose with superhero masks during Opposition march to SC
@@ -105,11 +111,11 @@ The petition raises concerns over the “unilateral and arbitrary exercise” of
 ## RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments
 President Droupadi Murmu on Monday made fresh appointments for governors of Kerala, Tamil Nadu, Odisha, Sikkim and Uttarakhand.
 
-## ‘Drank at 3 bars, drove Mini Cooper at 120 km/hr’: Teen driver's friends nabbed day after crash kills 3 in Kochi
-Police said two youngsters who were in the car at the time of the accident have been arrested and charged with abetting.
+## Chinese stocks an undervalued opportunity, says Charlie Munger disciple
+Shares in Chinese companies present better opportunities today than at other times, a disciple of legendary investor Charlie Munger said in a rare reflection on the world’s second-largest economy amid tensions with the US and the ongoing artificial intelligence race. The comments by Li Lu, Chinese-A
 
-## 4 suspected infiltrators killed in landmine blast along LoC in J&K's Poonch
-The deceased were identified as JKLF Poonch president Faizan Sagheer, Ishtiaq, Asim Rafiq, and Waqas Sharif.
+## Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high
+US Treasuries are looking increasingly attractive to Hong Kong investors after a prolonged sell-off pushed yields to multi-decade highs, prompting some strategists and wealth managers to recommend buying while others warned that further losses may lie ahead. The benchmark 10-year Treasury yield surg
 
 ## Hong Kong to expand indices, derivatives and yuan-denominated products: HKEX CEO
 Hong Kong Exchanges and Clearing (HKEX) is planning further measures to boost market liquidity, attract more international investors and expand the use of China’s currency, including through yuan-denominated gold futures and stock trading, according to a blog post by its CEO on Monday. The plans com
@@ -128,12 +134,6 @@ A safety failure spotted in tests of a Chinese electric vehicle (EV) made by a H
 
 ## Beijing police detain Yiren Digital chairman after massive product defaults
 Police in China have detained a controller of Yiren Digital, a US-listed Chinese digital lender, after two related investment platforms failed to repay mainland investors for over four months. The Beijing Municipal Public Security Bureau said that it had recently launched an official criminal invest
-
-## Adidas CEO taps outdoor sport, street dance as new China growth drivers in fierce market
-German sportswear giant Adidas is bent on new fashionable outdoor and street dance apparel to sustain its growth in China amid heightened competition against domestic and international rivals, according to its CEO Bjorn Gulden. “We see that there’s a running boom and an outdoor boom [in China],” he 
-
-## Hong Kong’s workers fear AI-driven retirement disruptions, only 20% feel prepared: survey
-More than half of Hong Kong’s working adults believe artificial intelligence will make their retirement path more unpredictable than previous generations, yet only one in five feel financially prepared for the shift, according to a survey by global asset manager T. Rowe Price. About 55 per cent of t
 
 ## Congress Can Do More to Curb Kushner’s Conflicts of Interest
 No one should be getting paid by the countries they are conducting diplomacy with, especially not the president’s son-in-law.
@@ -159,6 +159,9 @@ How did the world reach a tipping point, and who holds the leverage?
 ## Arnold Toynbee’s Chinese Century
 A forgotten historian enjoys a strange afterlife in Beijing.
 
+## What the US and China Should Discuss at APEC
+Both sides are feeding an AI investment bubble – and Shenzhen is the place to talk about it.
+
 ## The Mystery of Kyrgyzstan’s Newly Launched Satellite(s)
 At first glance, the story of Kyrgyzstan’s satellite launch seemed like a genuine achievement. Then the story changed.
 
@@ -179,9 +182,6 @@ Washington announced last week that it would not accept or process applications 
 
 ## Why Did the Industrial Revolution Not Start in India?
 Due to abundant labor, its social structure, and the inertia of an economic system, there was little incentive to initiate mechanization and the Industrial Revolution in India.
-
-## To Rebuild the Nepali Congress, Gagan Thapa Must First Reform It
-Recently re-elected president of the Nepali Congress, Thapa vowed to end the culture of nepotism and groupism in the party and to open it to a new generation of leaders.
 
 ## Ground Robots Are Arriving on the Front Lines
 For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Zohran Mamdani orders use-of-force review for New York City police
-City spokesperson says the mayor's calls for reform are not connected to police response to an ICE shooting last week.
+## Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted
+US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.
 
-## Atletico Madrid vs Manchester United: Champions League – Predictions, teams
-In-form Atletico host struggling Man United as the Champions League returns for the second set of games.
+## Houthi missile attack targets Saudi capital Riyadh for third day in a row
+Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.
 
-## India’s voter list changes sparks fresh protests
-A controversial voter roll revision has triggered fresh protests in New Delhi
+## Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast
+Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.
 
-## ‘Totally unfair’: Navi Pillay slams US sanctions against ICC
-Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.
+## US archbishop says Catholics in army should not participate in firing squad
+Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker's execution is contrary to church teachings.
 
-## Blast kills teenager, injures dozens in northern Israel
-A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.
+## Poland says two Turks arrested over Russia-linked Starlink station fire
+Warsaw says the 2 suspects held in Germany will face sabotage charges.
 
-## Photos: Protests over voter lists escalate in India’s capital
-India’s opposition parties have marched in New Delhi to protest a voter list purge they say favours PM Modi's party.
+## Why the Cornell gang rape case has raised concerns about fraternity culture
+Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
 
-## Pope Leo continues working after lung surgery announcement
-Pope Leo continues working after lung surgery announcement
+## Canada’s Carney calls for unity as Alberta prepares for secession vote
+Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede.
 
-## UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU
-PM Burnham confirms talks in Brussels next month, insisting the British public will be 'the boss' of the reset.
+## Conflict, drought increasing risk of famine in Sudan: Monitor
+El Nino-induced drought is affecting roughly half of the country as three-year long war continues.
 
 ## GST refund reforms: Experts differ on potential liquidity gains for India Inc
 Tax experts differ on the potential gains from proposed GST refund reforms, with estimates ranging from Rs 25,000 crore to Rs 60,000 crore as faster refunds and wider input tax credit eligibility aim to ease working capital pressures on businesses.
