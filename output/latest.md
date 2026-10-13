@@ -1,139 +1,139 @@
 # AION Intelligence
 
-## Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct
-US president contemplating dismissing Kimberly Guilfoyle after report claiming she accepted improper gifts
+## Chip stocks slide in wake of ‘casino’ comment by Broadcom boss
+Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment
 
-## English councils warn of a £10bn overspend on special needs support
-Local authority leaders call for another multibillion-pound bailout from central government to cover rising costs
+## China gets spiky on currencies
+Plus: your ideas, please, on investing ex-AI
 
-## Franco-German deal on EU car policy is ‘imminent’, says Macron
-Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition
+## Trump-Zelenskyy diesel spat reignites Europe’s White House angst
+Also in this newsletter: The sky-high cost of replacing foreign cloud platforms
 
-## France to raise stake in struggling miner Eramet
-Paris set to become top shareholder as states race to secure critical mineral supplies
+## How Michael Woodford made modern macro relevant to central bankers
+Nobel expectations
 
-## Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia
-International oil company chiefs stay away from energy congress after airport attacks
+## FirstFT: IMF sounds alarm on dire public finances
+Also in today’s newsletter: US Treasuries and Houthi attacks
 
-## Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts
-Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies
+## Rising Treasury bill issuance puts pressure on short-term rates
+Stress at long end of US yield curve appears to be moving towards short-term lending markets, threatening to complicate life for the Fed
 
-## Houthi assault on Saudi airports strikes at MBS’s economic vision
-Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub
+## EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers
+European automotive industry welcomes deal as ‘first step’ to create fairer playing field
 
-## Musk injects $275mn into Republicans’ fight to retain Congress
-Trillionaire Tesla chief has become party’s biggest donor ahead of November’s pivotal midterms
+## Investors brave US Treasury rout to lock in highest yields in decades
+Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades
 
-## China faces uphill battle to wean tech firms off Nvidia chips
-The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands
+## BP to set out new strategy after windfall year
+UK oil major will announce plans in December after hitting current debt targets
 
-## LVMH’s fashion and leather sales fall in luxury setback
-Paris-listed group hails ‘buoyant’ US market but said sales were hit by slowdown in demand in China
+## Premier Inn owner urges investors to resist pressure from activist hedge fund
+Whitbread asks shareholders to reject Corvex Management’s demand for board seat
 
-## Watch out luxury: mid-market fashion brands are staging a comeback
-While LVMH’s sales slid more than the market expected in recent months, Uniqlo’s are going gangbusters
+## ‘A game of snakes and ladders’
+The UK is trying to balance public outrage over the Manchester City scandal with a desire to keep investment flowing from the UAE
 
-## The diesel crisis is testing the limits of globalisation
-Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation
+## Informa’s trade show bet has a vulnerability — geopolitics
+The FTSE 100 company has grown rapidly after focusing on live events under Stephen Carter but is being affected by the Iran war
 
-## Zuckerberg says Meta has reached AI ‘frontier’
-FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race
+## How BT’s TalkTalk swoop left broadband rivals fuming
+Rescue deal will boost BT’s market leadership at a time when regulators are trying to encourage competition
 
-## India, US and China investors eye $844 million port project in Peru
-Peruvian authorities are seeking domestic and overseas investors for a proposed port that could strengthen cargo and mineral shipping links with Asia.
+## Sensex today | Stock Market Live Updates: Sensex up 545 points, Nifty gains 165 points in midday trade on IT rally
+Sensex, Nifty, Share Prices Live: Sensex, Nifty rise on HCLTech earnings boost and central bank support for rupee
 
-## India-US cooperation expanding across defence, IT and healthcare, says envoy Sergio Gor
-Speaking in Kolkata, the US envoy cited military exercises, cross-border investments and pharmaceutical trade as examples of the expanding bilateral partnership
+## TCS partners with Zoho’s ManageEngine to bundle IT management with its sovereign cloud offering
+The partnership will leverage ManageEngine’s capabilities in IT Service Management across TCS’ sovereign cloud offering together helping customers modernise IT operations, strengthen their security posture and accelerate digital transformation at enterprise scale
 
-## Jubilant Pharmova approves ₹800 crore NCD issue through private placement
-The pharmaceutical company’s board has cleared the debt issue, with the interest rate to be determined through the bidding process.
+## NTPC seeks overseas buyers for green ammonia, low-carbon fuels
+The power producer is in talks with prospective overseas customers as it develops a proposed green hydrogen ​hub in Andhra Pradesh, Chairman Gurdeep Singh said at an event organised by the Indian Chamber of Commerce
 
-## SEBI exempts DKJ Ownership Trust from open offer for 19.85% stake in S Chand
-The proposed transfer will change individual shareholdings within the promoter group while leaving its combined stake in the educational publisher unchanged
+## HDFC Bank shares climb 0.84% as Q2 results loom; sellers still dominate
+The stock opened at ₹707.00, hit an intraday high of ₹716.50 and a low of ₹705.10
 
-## Rajendra Arlekar moves to Tamil Nadu, Om Prakash Mathur appointed Keralam Governor
-The appointments cover six states, with changes in leadership across Tamil Nadu, Keralam, Sikkim, Karnataka, Uttarakhand and Odisha
+## Hotels in Keralam to stop accepting UPI payments above ₹2,000 from October 15
+According to the association, the introduction of a 0.4% MDR on bills would increase the financial burden on small establishments.
 
-## SC registry flags over 10 defects in Rahul Gandhi’s plea in SIR case
-The registry identified documentation and court fee issues in the Opposition leaders’ plea seeking an independent audit of electoral roll changes
+## ‘Corporate governance in India remains largely confined to seminars, not boardrooms’
+Drawing on 14+ years helping companies with governance and compliance, Tuljapurkar shares views on enforcement, board accountability, data protection, AI adoption, and diversity in leadership
 
-## Karnataka High Court strikes down enhanced SC/ST quota, upholds 50% reservation ceiling
-The ruling follows two petitions challenging the constitutional validity of Karnataka’s law that raised overall reservation for SCs, STs and OBCs to 56 per cent
+## Gold ticks up as oil eases; spotlight on US inflation data
+Spot gold was ⁠up 0.4% to $4,188.27 per ounce by 06:24 GMT after hitting a one-week peak on Monday
 
-## IRDAI may extend consultation, implementation timelines for distribution reforms
-The regulator may extend the October 25 deadline for submitting feedback
+## Q2 Results Today Live: Q2 Results Today Live: Tata Elxsi, ICICI Pru Life, Hero Motors shares trade mixed; PNB Gilts jumps 8%
+Q2 Results Today, 13th October 2026 Live Updates: Several companies are scheduled to announce their results for the quarter ended September 30, 2026, on Tuesday. Hero Motors, ICICI Pru, Tata Elxsi, SS Retail, Anand Rathi Share are among the companies in focus as the September-quarter earnings season
 
-## Economic settlement not resolved: Mallika, Lakshmi
+## Employer in South Korea paid him salary in dollars in India; income tax department sends notice
+A Karnataka man working in South Korea faced an income tax notice over his salary deposited in an NRE account in India. The Income Tax Assessing Officer claimed the salary was taxable in India due to his employment. However, the ITAT Bangalore found that the man had established his non-resident stat
 
+## Gold price prediction today: What is the outlook for gold on October 13, 2026?
+Gold price prediction today: Gold prices are seeing ome fluctuations recently, influenced by geopolitical tensions and economic data. Recent attacks on Saudi Arabia have raised concerns about regional stability and oil prices. The US Dollar has strengthened, impacting gold prices and local currencie
 
-## PERM certifications at 13 IT companies fell to 607 in 9 months from 1,670 in FY25
+## Which stocks should you buy or sell on October 13, 2026?
+Stock market recommendations:Bank of India, GAIL, and Dabur India - these are the top stocks to sell today as picked by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for October 13, 2026.
 
+## HCLTech jumps over 5%, TCS up 4%: Why are IT stocks rallying
+Dalal Street saw a surge as IT stocks soared following strong quarterly earnings from industry giants. HCLTech and Tata Consultancy Services were at the forefront, with their share prices climbing significantly. However, this rally comes amidst a tougher year for IT stocks, which have dipped by 23%.
 
-## Rupee gains 96 paise as RBI curbs begin to take effect
+## Rupee extends winning streak, rises to 94.96 against dollar as RBI tightens forex rules
+In a significant turnaround, the Rupee gained ground against the US dollar, settling at 94.96 as a result of strategic interventions by the Reserve Bank of India. These measures aimed at reducing excessive demand for dollars positively influenced the forex market, contributing to a decline in the do
 
+## Tenant's Rs 10 lakh deposit claim fails; Delhi HC orders payment for unauthorised stay
+The case involved a tenant, who rented a 238.38 sq. ft shop in 2014 from a couple in Delhi. The agreed monthly rent was Rs 25,500. However, the 11-month rent agreement was never registered. The tenant subsequently claimed that he had paid the landlords Rs 10 lakh in cash as a security deposit betwee
 
-## HCLTech Q2 revenue up 2.2%, narrows FY27 guidance
-
-
-## Centre, states to work on widening GST base
-
-
-## Sensex falls 548 points amid volatile trade
-
-
-## European car companies will prefer to make in India: Piyush Goyal
-
-
-## Sir Dorabji Tata Trust gets time till October 19 to respond to complaints
+## Stock market today: BSE Sensex jumps over 500 points, NSE Nifty50 rises above 22,450
 
 
-## Prices of pulses soar amid supply crunch and adverse weather
-Adverse weather, lower supplies and costlier imports are lifting Indian pulse prices, with pigeon pea nearing 2023-24 highs.
+## India's economic story in fast lane, IMF projects 7% GDP growth for FY27 and FY28
+India is projected to maintain a robust growth rate of 7% in both 2026 and 2027, bolstered by strong domestic demand and a thriving services sector, according to the International Monetary Fund. Positive revisions from the World Bank and OECD highlight resilience amid consumption patterns. However, 
 
-## Three-day BRICS Theatre Festival begins in Delhi, India showcases 'Samudra Manthan'
-Three-day BRICS Theatre Festival begins in Delhi, India showcases 'Samudra Manthan'
+## 'Want senior Delhi officer to explain': Supreme Court on 'assault, detention' of women journalists at anti-EC stir
+The court’s intervention follows reports of journalists being detained during the protests, despite identifying themselves as members of the press.
 
-## Two 'godmen' cheat woman of ₹69 lakh after promising to cure her sister of cancer
-The Chembur police identified the accused as Rajshekhar Shastri and Guruji Adityanath alias Babu Guruji.
+## IndiGo cancels flights to and from Saudi's Riyadh, Jeddah, Dammam and Madinah till Oct 17
+IndiGo said flights to and from Riyadh, Jeddah, Dammam and Madinah stand cancelled till Oct 17 due to the evolving situation in Saudi Arabia.
 
-## Iran security chief and NSA Ajit Doval hold phone call, discuss West Asia conflict, bilateral issues
-The two leaders exchanged views on the latest regional and international developments and issues of mutual interest to the two countries.
+## 'Phones taken, lawyer not allowed': CJP's claims against Delhi cops after Das, Ranka detained
+CJP's legal head Ratna Singh alleged that Das, Ranka and other leaders have not been allowed to meet with legal representatives.
 
-## 'Batman Mode On': Rahul Gandhi, Kharge pose with superhero masks during Opposition march to SC
-Leader of the opposition in Lok Sabha Rahul Gandhi, during Opposition's protest march in Delhi on Monday, posed with a Batman mask.
+## Bombay high court quashes ED’s 2013 FIR on Goa illegal mining case
+A group of seven mining companies led by Salgaocar Mining Company filed a petition in the high court seeking to quash the case of money laundering
 
-## Maharashtra FDA chief Tukaram Mundhe refutes reports of transfer: 'Fight against unsafe food, spurious drugs goes on'
-This clarification comes after the Maharashtra government formed a committee on Sunday to overhaul the state recruitment body, MPSC.
+## BJP women MPs to meet President today to seek Congress MP's dismissal over JNU sexual harassment case
+The BJP has been demanding that the Congress take serious action against Manipur MP Bimol Akoijam and dismiss him from the party.
 
-## ‘Pause SIR, hold independent audit of voter deletion’: INDIA bloc petition to Supreme Court lists 10 requests
-The petition raises concerns over the “unilateral and arbitrary exercise” of the election body's collective powers by CEC during the ongoing SIR.
+## Insisting on conversion not insult to religious beliefs: Bombay HC
+The accused had sought quashing of the FIR registered against them in Amravati in January and also the chargesheet filed in the case.
 
-## RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments
-President Droupadi Murmu on Monday made fresh appointments for governors of Kerala, Tamil Nadu, Odisha, Sikkim and Uttarakhand.
+## LDF walks out of Keralam Assembly alleging medicine shortage, vacant posts
+LDF walks out of Keralam Assembly alleging medicine shortage, vacant posts
+
+## ‘India, Gulf now able to chart own course, not always agreeing with US-China’: Rishi Sunak
+Rishi Sunak said countries such as India and those in West Asia were increasingly in a position to make decisions independently.
+
+## Chinese billionaire featured in ‘American Factory’ shares lesson for firms going global
+Chinese billionaire Cao Dewang, whose glass-making empire was featured in the Oscar-winning documentary American Factory, has urged Chinese investors expanding overseas to respect local laws, regulations and culture, drawing on decades of experience building a global manufacturing business amid shif
+
+## Hong Kong watchdog orders suspension of third stock in a month
+Hong Kong’s securities watchdog has directed the stock exchange to suspend trading of three listed companies in the last month, signalling a hawkish turn regarding the quality of listed firms. Chinese bubble-tea maker Sichuan Baicha Baidao Industrial, also known as Chabaidao, was suspended by the Se
+
+## Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation
+Haidilao International Holding has agreed to provide its founder, Zhang Yong, with a one-month loan of up to the Hong Kong dollar equivalent of 100 million yuan (US$14.9 million), a move that has raised market speculation as investors closely watch Beijing’s October 22 deadline for offshore trust ta
+
+## King Fook expands with US$34 million Admiralty lease despite slow luxury sales: analysts
+King Fook Jewellery Group’s decision to lease a 550 square metre (about 5,920 square feet) retail space at Pacific Place Phase II in Admiralty signals confidence in Hong Kong’s retail market, despite slowing demand for luxury goods, analysts said. The six-year lease for the shop in Hong Kong’s prime
+
+## China to tighten leash on futures quant trading to contain risks amid stock slump
+China’s futures exchanges will intensify a crackdown on malfeasance linked to programme trading by defining specific violations, as Beijing seeks to contain any cross-asset risk that could place additional strain on the nation’s already struggling stock markets. Participants who failed to report and
+
+## Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge
+Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices. Onshore traders poured a net HK$60.8 billion (US$7.7 billion) into Hong Kong’s
 
 ## Chinese stocks an undervalued opportunity, says Charlie Munger disciple
 Shares in Chinese companies present better opportunities today than at other times, a disciple of legendary investor Charlie Munger said in a rare reflection on the world’s second-largest economy amid tensions with the US and the ongoing artificial intelligence race. The comments by Li Lu, Chinese-A
 
 ## Hong Kong investors are warming to US Treasury bonds as yields hit 20-year high
 US Treasuries are looking increasingly attractive to Hong Kong investors after a prolonged sell-off pushed yields to multi-decade highs, prompting some strategists and wealth managers to recommend buying while others warned that further losses may lie ahead. The benchmark 10-year Treasury yield surg
-
-## Hong Kong to expand indices, derivatives and yuan-denominated products: HKEX CEO
-Hong Kong Exchanges and Clearing (HKEX) is planning further measures to boost market liquidity, attract more international investors and expand the use of China’s currency, including through yuan-denominated gold futures and stock trading, according to a blog post by its CEO on Monday. The plans com
-
-## Few Hong Kong investors take interest in listing by Africa’s top phone maker Transsion
-Shenzhen Transsion Holdings drew a lukewarm response for its HK$3.36 billion (US$428 million) Hong Kong share offering, heightening worries over market sentiment for new listings in the fourth quarter. The maker of Africa’s bestselling phones closed its bookbuilding on Monday, with preliminary figur
-
-## Former HSBC executive launches wealth platform powered by team of AI agents
-A former top executive at HSBC has launched an artificial intelligence-driven wealth management start-up, setting her sights on a billion-dollar valuation and betting that AI can transform how individuals manage their investments and finances. Trista Sun, formerly a managing director in the internat
-
-## China bets on molten salt and CO2 to help meet its power needs
-China has begun building the world’s first utility-scale power plant combining two emerging technologies: supercritical carbon dioxide (CO2) generation and large-scale molten salt energy storage. The Ruitan project, under construction at a coal-fired power station in Yantai in eastern China’s Shando
-
-## Brake-pedal failures in luxury EV put Chinese cars’ quality in regulatory spotlight
-A safety failure spotted in tests of a Chinese electric vehicle (EV) made by a Huawei Technologies-backed luxury brand has raised doubts about the cars many consumers view as a source of national pride, and prompted regulators to step up policing of quality and reliability. The Ministry of Industry 
-
-## Beijing police detain Yiren Digital chairman after massive product defaults
-Police in China have detained a controller of Yiren Digital, a US-listed Chinese digital lender, after two related investment platforms failed to repay mainland investors for over four months. The Beijing Municipal Public Security Bureau said that it had recently launched an official criminal invest
 
 ## Congress Can Do More to Curb Kushner’s Conflicts of Interest
 No one should be getting paid by the countries they are conducting diplomacy with, especially not the president’s son-in-law.
@@ -159,6 +159,12 @@ How did the world reach a tipping point, and who holds the leverage?
 ## Arnold Toynbee’s Chinese Century
 A forgotten historian enjoys a strange afterlife in Beijing.
 
+## Philippine Lower House Passes Bill Restricting Social Media Access of Minors
+If passed into law, the country will become the fourth in Southeast Asia to introduce youth social media restrictions of some kind.
+
+## Wolf Warriors in Sheep’s Clothing: China’s New Subnational Diplomacy in Australia
+Beijing’s diplomatic officials are adopting the language of the Albanese government to press their demands upon local governments and communities.
+
 ## What the US and China Should Discuss at APEC
 Both sides are feeding an AI investment bubble – and Shenzhen is the place to talk about it.
 
@@ -177,11 +183,11 @@ For the EU, the choice is increasingly difficult: secure real concessions from B
 ## Southeast Asia Has a Serious Drug Problem
 Southeast Asia’s drug labs are pumping out unprecedented amounts of meth and other synthetic drugs.
 
-## Trump’s Targeting of Indian IT Firms Hits India-US Ties Again
-Washington announced last week that it would not accept or process applications from top Indian IT companies for H-1B visas.
+## Building an Arsenal That Survives the Tenth Salvo
+America faces a well-defined industrial base problem. Whether it’s a hypothetical Taiwan invasion wargame run two dozen times, the current Iranian conflict, or the Russo-Ukrainian War, the same result repeats: Magazines of key weapons such as cruise missile systems and interceptors empty within days
 
-## Why Did the Industrial Revolution Not Start in India?
-Due to abundant labor, its social structure, and the inertia of an economic system, there was little incentive to initiate mechanization and the Industrial Revolution in India.
+## How Taiwan Activates Beijing’s Chosen Fear
+The standard explanations for why Taiwan is so important to the Chinese Communist Party are familiar: territorial integrity, credibility of deterrence commitments, great power competition with the United States, the strategic value of the first island chain, and the semiconductor industry concentrat
 
 ## Ground Robots Are Arriving on the Front Lines
 For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
@@ -200,12 +206,6 @@ In 79 A.D., Gaius Plinius Secundus, known today as Pliny the Elder, was the supr
 
 ## Ten Wartime Technologies at America’s 250th
 For America’s 250th anniversary, Cogs of War ran ten essays on innovations forged in wartime that subsequently diffused throughout the civilian economy, or had a lasting impact on society, governance, and Americans’ relationship with technology. We received submissions on a wide range of technologie
-
-## Achieving Breakthrough: Maneuver Warfare in the Face of Robotic Mass
-In 1914, European armies entered a war with forces designed to move. Within months, they were digging themselves into the earth. Fires from newly introduced machine guns and heavy artillery made movement across exposed ground a proposition far more deadly than in any war that had ever afflicted huma
-
-## The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
-For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted
-US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.
+## Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says
+Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.
 
-## Houthi missile attack targets Saudi capital Riyadh for third day in a row
-Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.
+## Emir says Qatar has shown resilience in the face of ‘exceptional events’
+Sheikh Tamim bin Hamad Al Thani says Qatar's response has highlighted the strength of state institutions.
 
-## Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast
-Simon caps a Pacific season of record-breaking intensity, as deadly storms wreak havoc from Hawaii to Mexico.
+## Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia
+Move comes as haze from Indonesian fires makes Singapore and Kuala Lumpur the world’s most polluted cities.
 
-## US archbishop says Catholics in army should not participate in firing squad
-Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker's execution is contrary to church teachings.
+## Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa
+Islamabad says the PTI failed to lead the fight against armed groups, but analysts question the takeover.
 
-## Poland says two Turks arrested over Russia-linked Starlink station fire
-Warsaw says the 2 suspects held in Germany will face sabotage charges.
+## Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says
+Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.
 
-## Why the Cornell gang rape case has raised concerns about fraternity culture
-Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
+## Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m
+The basketball memorabilia ranks as the second-largest sale in history ⁠⁠among game-worn sports jerseys.
 
-## Canada’s Carney calls for unity as Alberta prepares for secession vote
-Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede.
+## Despite long history with Netanyahu, Trump hedges as Israel vote nears
+US president has not endorsed Israeli prime minister ahead of October 27 election amid shifting public sentiment.
 
-## Conflict, drought increasing risk of famine in Sudan: Monitor
-El Nino-induced drought is affecting roughly half of the country as three-year long war continues.
+## More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region
+Rescue operation underway after flash floods swept away home, bridges and parts of the Manaslu trekking trail.
+
+## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
+Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
 
 ## GST refund reforms: Experts differ on potential liquidity gains for India Inc
 Tax experts differ on the potential gains from proposed GST refund reforms, with estimates ranging from Rs 25,000 crore to Rs 60,000 crore as faster refunds and wider input tax credit eligibility aim to ease working capital pressures on businesses.
@@ -276,8 +279,8 @@ The Reserve Bank of India has raised rates by 25 basis points this week, but mor
 ## GST Council proposes curbs on e-way bill interceptions, seeks to protect goods in transit from confiscation
 Proposed amendments to the CGST Act would require specific intelligence and authorisation by an officer of at least Joint Commissioner rank for interception, while narrowing the scope for enforcement action by transit states.
 
-## GST Council 57th Meeting: Faster Refunds, ITC, Registration, Lower Penalties — All Key Announcements Explained
-GST Council 2026 Highlights: The GST Council has approved a series of major reforms, including faster GST refunds, easier registration and cancellation, wider ITC eligibility, no notices below ₹10,000, lower prosecution and penalty thresholds, simplified compliance for small businesses and easier GS
+## Banks seek clarification on implementation of RBI forex measures
+Indian lenders have requested clarification from the Reserve Bank of India regarding new currency-supporting measures. They seek guidance on calculating the foreign exchange risk reserve and its impact on liquidity ratios. Additionally, banks are uncertain about cost transmission to customers and ho
 
 ## Sebi notifies common ad code for market intermediaries; allows celebrity endorsement for brands
 In a significant move, Sebi has implemented a Common Advertisement Code aimed at managing how market intermediaries use celebrity endorsements. Under this new framework, celebrities can promote brands, but they’re prohibited from making specific endorsements about products. Any ad featuring a celebr
@@ -293,7 +296,4 @@ Washington may seek an exemption under its Russia and Iran Sanctions Act as it m
 
 ## India slams JD Vance's H-1B remarks, defends Indian workers
 India's external affairs ministry expressed strong disapproval of JD Vance's remarks about H-1B workers, labeling them as deeply offensive. They emphasized that current H-1B visas continue to be valid, notwithstanding modifications to the PERM program. Vance's allegations against firms like Microsof
-
-## Boosting US oil supplies with Russian diesel unlikely to have much impact on prices: Experts
-A new agreement aims to increase diesel supplies from Russia to the U.S., while experts doubt it will lower prices. The current high diesel prices have significantly impacted inflation and consumer goods, which have raised concerns before upcoming elections. Analysts indicate that the deal may shuff
 
