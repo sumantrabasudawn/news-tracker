@@ -1,46 +1,43 @@
 # AION Intelligence
 
-## Sally Rooney withdraws books from UK sale over support for Palestine Action
-Irish novelist said publication of her books in Britain could be ‘a serious criminal offence’ after she pledged royalties to the banned group
-
-## Ministers to launch statutory probe of English authority led by Ben Houchen
-Move reflects concern in Whitehall about governance and value for money at Tees Valley Combined Authority
-
-## London charity trustee leads Iranian propaganda body, tribunal hears
-Hearing marks the latest effort by the UK Charity Commission to tackle extreme rhetoric at some Shia Islamic religious organisations
-
-## Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons
-Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back
-
-## US inflation jumps to 3.7% as Iran war drives up prices
-Rebound in fuel costs has piled pressure on voters ahead of midterm elections
-
 ## Burnham wants to ‘repair bridges’ between Trump and Zelenskyy
 UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia
 
-## Palantir drops legal case against Sadiq Khan over cancelled £50mn contract
-US tech company set to be able to compete for future deals with the Met
+## OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia
+Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third family member had booked travel for October 12
 
-## Healey’s Budget is a moment he must not miss
-Avoiding bold choices this time would just mean postponing political and economic pain
+## FirstFT: Marine Le Pen gears up for EU fight
+Also in today’s newsletter: China’s exports surge and Ukraine blindsided by Starlink restrictions
 
-## Airbus ‘confident’ of hitting aircraft delivery target
-The world’s largest planemaker is seeking to shrug off supply-chain problems
-
-## The aesthetics of quantum computing
-Data centres show that tech is not usually this clever about design
-
-## Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal
-Exchange discussed putting legal tech unit into separate entity before valuations fall
+## Ukraine blindsided by Starlink restrictions and intelligence gaps
+Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network
 
 ## OpenAI claims employee sent secret device information to Apple
 Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive
 
-## Netflix to cut 1,000 jobs as growth concerns mount
-Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year
+## Badenoch sounds ‘alarm’ on potential Budget tax raid on banks
+Conservative leader’s intervention comes as investors warn of a potential hit to UK competitiveness
 
-## He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper
-Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected
+## Fed’s October Beige Book points to higher inflation
+Growth was largely in manufacturing sectors largely connected to AI
+
+## US chip stocks slide as inflation and AI debt fears unsettle investors
+Investors rush into Treasuries as sell-off triggers demand for haven assets
+
+## Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO
+AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing
+
+## Perella Weinberg and Piper Sandler abandon merger talks
+A deal would have created an independent investment bank with an equity value of more than $6bn
+
+## Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons
+Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back
+
+## Sally Rooney withdraws books from UK sale over support for Palestine Action
+Irish novelist said publication of her books in Britain could be ‘a serious criminal offence’ after she pledged royalties to the banned group
+
+## Airbus ‘confident’ of hitting aircraft delivery target
+The world’s largest planemaker is seeking to shrug off supply-chain problems
 
 ## India working to rebuild ties with China but last word yet to be scripted: Goyal
 India’s ties with the US are very good and the two continue to have a consequential relationship, the minister said
@@ -66,29 +63,32 @@ Official data shows that the gap between TN’s and the national inflation has a
 ## India’s Largest IPO: Jio Platforms sets ₹1,065-1,119 price band, below street estimates
 The IPO comprises a fresh issue of up to 27 crore equity shares with a face value of Rs ₹10 each
 
+## Watsa's Prem-ium play in finance sector
+
+
+## Government tops divestment target of 80k crore
+
+
+## Rupee rises for 4th day, up 19 paise vs dollar
+
+
+## Jio Platforms files papers, IPO set to open on October 21
+
+
+## IDBI sale to increase value, new management to get free hand
+
+
+## Wholesale inflation touches 30-month high
+
+
+## Currency depreciation key headwind for foreign investors: Blackstone's Gray
+
+
 ## US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6%
 Wall Street faced a noticeable dip in stock prices following a surprise rise in inflation data, which has raised concerns over borrowing costs. As Treasury yields soared, investors pondered the shifting allure between equities and bonds. Major banks explored both the potential gains and risks tied t
 
-## ‘Not benefiting anyone’: Traders urge Rahul to rethink SIR protests amid festive season, cite business losses
-Traders' groups are appealing to Rahul Gandhi to rethink the current protests affecting business as the festive season approaches. They express concerns over road blockades, which are deterring shoppers and complicating delivery schedules, particularly for small vendors. With Diwali around the corne
-
-## India remains top Russian crude buyer in September despite 29% fall in imports since July
-India has remained the largest destination for Russian crude oil, although imports decreased significantly from peak levels. In September, India imported around 1.82 million barrels per day, while competition from China intensified. US sanctions and tariffs have influenced purchasing decisions but s
-
-## Taxman denied exemption on 3 floors after Rs 75 lakh builder deal; ITAT grants relief
-A man inherited 400 square yards of leasehold land from his late mother in 1997. Towards the end of 1999, he entered into an agreement with a developer to demolish the existing house and construct a new building. Nearly two decades later, in 2018, the man decided to undertake another redevelopment o
-
-## India's WPI inflation surges to 11.39% in September on higher food, fuel prices
-India's wholesale price index-based inflation surged to 11.39% in September due to higher food, manufactured items, and energy prices. Wholesale inflation has risen significantly amidst global commodity inflation linked to the ongoing West Asia conflict. The rising costs have impacted various aspect
-
-## Fairfax to buy IDBI stake: CCEA clears Rs 53,000 crore deal; all you need to know
-The Cabinet Committee on Economic Affairs (CCEA) has approved M/s 10955230 Canada Inc, a subsidiary of Fairfax, as the strategic buyer for the combined stakes held by the government and Life Insurance Corporation of India (LIC). The government will sell its 30.48 per cent holding for around Rs 26,62
-
-## US inflation accelerates to 3.7% in September as gasoline prices surge
-September's inflation report shows a notable rise in US consumer prices, hitting 3.7%. This surge can be traced back to escalating gasoline costs and strong core inflation signals. The rising costs in gas are exerting upward pressure on a variety of sectors, including transportation and travel. Thes
-
-## What does RBI's new Consolidated Account Statement measure benefit you? Explained
-RBI’s new CAS move: Announced on October 7, 2026, the measures will allow SEBI-regulated depositories to include information related to deposit accounts in CAS. RBI Governor Sanjay Malhotra said the measures would be implemented by December 31, 2026. Let’s understand what all is expected to be conso
+## CAPF Act doesn’t override Supreme Court’s 2025 verdict, IPS deputation necessary: Centre
+A home ministry officer, who filed the counter affidavit, denied that this was done to nullify the judgment or challenge the court’s authority.
 
 ## Kerala’s ‘living paddy gene bank’ Cheruvayal Raman dies at 74; Rahul, Priyanka Gandhi pay tribute
 Cheruvayal Raman was a tribal farmer from Kerala. He was known for preserving over 45 indigenous rice varieties and promoting traditional farming practices.
@@ -110,9 +110,6 @@ Students told the chief minister that many of them were living in private PG acc
 
 ## Alcohol sold in tetra packs may mislead minors, Supreme Court seeks Centre’s response
 The Supreme Court sought the Centre’s response to a PIL alleging that liquor tetra packs resembling fruit juice could mislead minors, encourage underage drinking and pose health risks.
-
-## ‘Say Halo to Dewi’: All about new AI avatar launched by Indian embassy in Indonesia
-India's Ambassador to Indonesia, Sandeep Chakravorty, also shared the update about ‘Dewi’, the new AI face of the embassy of India in Jakarta, on his X handle.
 
 ## What does the historic Bank of America fine mean for US-China capital streams?
 As the US Treasury imposed historic fines on Bank of America over compliance failures involving Chinese money-laundering networks, analysts see the action as a signal that could prompt Western banks to tighten scrutiny of Chinese clients and cross-border transactions. The penalties, announced on Tue
@@ -138,6 +135,21 @@ Chinese investors are gearing up for a speech next week by the chief of the secu
 ## No rush to T+1: Hong Kong exchange won’t hurry settlement-time change, sources say
 Participants in Hong Kong’s stock market may need to wait longer for shorter transaction settlement times, as market participants want more time to prepare for the change, according to two sources familiar with the matter. Bourse operator Hong Kong Exchanges and Clearing (HKEX) said in a consultatio
 
+## Now We’re Seeing the Extent of American Decay
+From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.
+
+## Surprise Starlink Cuts Blindside Kyiv
+Signal failures have already disrupted several Ukrainian missions.
+
+## India’s Voter Roll Protests Swell
+Modi’s government faces a growing challenge as Cockroach movement proves durable.
+
+## Environmentalists Are Wrong to Oppose the Senate’s Permitting Deal
+America needs to build more to achieve its energy goals of lower costs, greater security, and more clean energy.
+
+## Modi’s Crackdown Is a Strategic Error
+The violent escalation is deepening public anger in India as voter list protests grow.
+
 ## Why Hegseth Should Go
 The defense secretary puts stunts over substance. The U.S. should send him on permanent leave.
 
@@ -146,21 +158,6 @@ It won’t help consumers, won’t help Kyiv, and won’t mean riches for Moscow
 
 ## The Painful Paradox of European Rearmament
 Militarizing now may require even further militarization down the line.
-
-## This Is Israel’s Haredi Election
-The country’s coming election has become focused on the status of the country’s ultra-Orthodox at wartime.
-
-## After Iran, Washington Needs a New Basing Strategy
-The decades-old model has been upended by a war that favors movement and dispersal.
-
-## China and India Want Much the Same Things From South Asia
-The two countries have reset bilaterally and internationally. Now it’s time to think regionally.
-
-## The Autumn Myanmar Turned Pretty
-It’s been a week of diplomatic breakthroughs for the junta.
-
-## The Limits of China’s Surveillance State
-Today’s Beijing shows marks of how costly total control can be.
 
 ## The Uyghurs Who Fought in Syria’s Civil War
 Insights from Emily Feng.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sally Rooney’s books pulled from UK over Palestine Action support
-Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action
+## Real Madrid come from 3-1 down to beat Roma on Champions League travels
+Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
 
-## World’s oldest known shipwreck found in Turkiye
-The world’s oldest known shipwreck has been discovered off Turkiye’s coast, dating back nearly 5,000 years.
+## PSG beat Man City 4-2 in Champions League thriller
+PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
 
-## Bangladesh arrests two for luring locals to fight for Russia in Ukraine
-Twenty Bangladeshi citizens have been killed after being used by Russia as 'bait' to locate enemy positions, police say.
+## Colombia opposition groups launch protest against de la Espriella’s cuts
+Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.
 
-## Israel’s former security chief sues Netanyahu for October 7 defamation
-Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.
+## West Indies beat India to level T20 series as Hope continues record run
+Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.
 
-## Real Madrid’s Vinicius banned for Clasico after hair-pull red card
-Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba's hair in La Liga.
+## Israeli quadcopter drone drops bomb in Lebanon
+An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.
 
-## How six Ukrainian divers could have blown up Russia’s $20bn pipelines
-A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.
+## Families of Trinidadian men killed in US boat strike demand accountability
+The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.
 
-## Ex-UK army chef jailed for ‘terror’-related offence
-The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.
+## Sky turns orange as wildfires rage across Indonesia
+An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.
 
-## Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks
-The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.
+## World’s oldest shipwreck found off coast of Turkiye
+Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.
 
 ## WPI inflation surges to 11.39% in September as fuel, manufactured goods prices climb
 Wholesale price inflation accelerated from 9.92% in August, with fuel and power inflation rising to 25.85% and manufactured products inflation to 9.76%.
