@@ -1,43 +1,37 @@
 # AION Intelligence
 
+## Home of London’s oldest restaurant, Rules, given to National Trust
+Building in Covent Garden bequeathed to heritage charity to ensure 228-year institution remains ‘part of the city’s cultural life’
+
+## Tougher competition for internships strains UK graduate jobs market
+Applications for summer internships rise 27% as students face ‘day zero’ fight to get ahead in increasingly automated recruitment process
+
 ## Saudi Aramco HQ attacked in suspected Houthi strike
 Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital
-
-## Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing
-Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment
 
 ## Trump revives effort to halt construction of Ørsted’s offshore wind farm
 Move comes after US president said he would drop opposition to renewable energy projects to win support for permitting bill
 
+## How TDK plans to save its factories from Japan’s population crisis
+Apple supplier built a dormitory town to house hundreds of workers in country’s fastest depopulating prefecture
+
+## Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing
+Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment
+
 ## Bank of America fined $1.2bn over money laundering failures
-US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and southern US border
+US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border
 
 ## Russia arrests Japanese journalist on espionage charges
 Detention of Hokkaido Shimbun reporter follows series of arrests denounced as politically motivated
 
-## Modi cannot silence India’s disaffected youth
-The BJP must address young people’s political and economic frustrations
+## Premier Inn owner urges investors to resist pressure from activist hedge fund
+Whitbread asks shareholders to reject Corvex Management’s demand for a board seat
 
-## ‘Pro-business’ Burnham reassures chief executives on tax
-Prime minister and chancellor host roundtable meetings with leading business figures to calm nerves ahead of the Budget
-
-## Number of UK Isa millionaires jumps 50 per cent in a year
-Number of investors with more than £1mn in their account tops 7,700
+## US arrests Saudi employee of OpenAI for allegedly bugging its offices
+AI lab discovered a recording device concealed behind a television in a conference room
 
 ## Cyber attack on French supermarket fridges raises alarm over food security
 Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food
-
-## English football regulator says he will quit if pressured over Man City case
-David Kogan issues warning as watchdog publishes report saying the English men’s game ‘stands on the edge of financial disaster’
-
-## Will bank earnings growth become a thing of the past?
-It would be foolish to think the Wall Street giants can’t outrun the threat of AI
-
-## Wall Street plays down investor fears of faltering trading boom
-JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter
-
-## FTC says ‘pharma bro’ Martin Shkreli repeatedly violated industry ban
-US regulators accuse convicted felon of trading in dozens of pharmaceutical stocks and sharing opinions on social media
 
 ## IMF raises India’s FY27 growth forecast to 7% on strong domestic demand
 India’s upgraded outlook contrasts with a subdued medium-term global growth projection, as the IMF flags inflation and geopolitical risks
@@ -63,6 +57,12 @@ The acquisition consolidates ownership of the Indore-based healthcare and diagno
 ## Coal India arm BCCL hikes prices of select coking coal grades by up to 14%
 The revision covers select steel, direct feed and washery grades, with industry experts expecting a modest immediate impact on buyers.
 
+## Rollout of BS-VII in 3 phases from April 2029 to April 2035
+
+
+## Sensex jumps 1100 after finance minister's remarks spark LTCG cut hopes
+
+
 ## Apple makes fresh push into smart homes market
 
 
@@ -79,12 +79,6 @@ The revision covers select steel, direct feed and washery grades, with industry 
 
 
 ## Rupee up 49 paise, RBI governor says curbs to halt speculation
-
-
-## Renew gets $100mn from Dutch bank
-
-
-## Business need investments in chips, says N Chandrasekaran
 
 
 ## Odisha Cabinet approves free textbooks for 28.7 lakh students, ₹500-crore urban drainage scheme
@@ -111,6 +105,12 @@ The action came hours after Das, Ranka were detained for entering the heavily ba
 ## Mamata Banerjee escapes knife attack, TMC claims assailant was a 'drug addict, posed as her niece'
 Party MP Dola Sen sent a written complaint to the Kalighat police station in Kolkata stating that the incident took place around 6 pm.
 
+## Henderson banks on tenant ‘FOMO’ to fill up US$8b Central Yards project
+Henderson Land Development is banking on demand for premium offices to support its HK$63 billion (US$8.03 billion) Central Yards project, as tenants gravitate towards top-tier buildings even while much of Hong Kong’s office market remains weak. Jane Street’s decision last year to take about 70 per c
+
+## Hong Kong completes pilot schemes to trade green products with exchanges in mainland China
+Hong Kong Exchanges and Clearing (HKEX) has completed the first cross-border trading of green products under two pilot programmes with mainland exchanges in Guangzhou and Shenzhen separately, according to an executive. The exchange’s Core Climate platform has enabled 15 companies, including Airport 
+
 ## SHKP reopens former Crowne Plaza hotel as luxury ‘urban resort’ in Tseung Kwan O
 The new Royal Garden Kowloon East hotel has undergone far more than an extensive renovation; it has been completely overhauled to become an “urban resort” in the heart of Tseung Kwan O, according to the hotel’s owner. Developer Sun Hung Kai Properties (SHKP) had transformed the former Crowne Plaza “
 
@@ -129,11 +129,11 @@ Haidilao International Holding has agreed to provide its founder, Zhang Yong, wi
 ## King Fook expands with US$34 million Admiralty lease despite slow luxury sales: analysts
 King Fook Jewellery Group’s decision to lease a 550 square metre (about 5,920 square feet) retail space at Pacific Place Phase II in Admiralty signals confidence in Hong Kong’s retail market, despite slowing demand for luxury goods, analysts said. The six-year lease for the shop in Hong Kong’s prime
 
-## China to tighten leash on futures quant trading to contain risks amid stock slump
-China’s futures exchanges will intensify a crackdown on malfeasance linked to programme trading by defining specific violations, as Beijing seeks to contain any cross-asset risk that could place additional strain on the nation’s already struggling stock markets. Participants who failed to report and
+## The Limits of China’s Surveillance State
+Today’s Beijing shows marks of how costly total control can be.
 
-## Mainland Chinese traders boost Hong Kong stock buying for fourth month as AI bets surge
-Mainland Chinese investors bought more Hong Kong stocks than they sold for a fourth consecutive month in September, with purchases accelerating despite persistent headwinds from elevated US Treasury yields and oil prices. Onshore traders poured a net HK$60.8 billion (US$7.7 billion) into Hong Kong’s
+## India’s Growing Cockroach Problem
+Prime Minister Narendra Modi defends his country as a “mother of democracy” amid widespread protests.
 
 ## Mapping Global Impunity
 Press freedom setbacks are largely driving deteriorating scores around the world.
@@ -153,11 +153,17 @@ A new financial framework could put the EU in the big leagues.
 ## The Real Footprint of Trump’s Data Center Boom
 What the sprawling buildout means for energy, water, and land.
 
-## From Xinjiang to the Front Lines of Syria
-How Uyghur militants were dragged into civil war.
+## Pakistan Is Treating Every Grievance as Terrorism, and It’s Failing
+From KP to Balochistan and beyond, instead of addressing the underlying causes of unrest, the country's rulers are hell-bent on targeting the opposition.
 
-## Nobel Peace Prize Goes to Former ICC Judge
-The United States imposed new sanctions on the international body in response.
+## US Economic Diplomacy With Allies Becomes an Election Showcase for Trump
+Investment pledges by Japan and South Korea make tempting achievements for Trump to hold up ahead of the voting.
+
+## What the US PERM Freeze Really Costs India’s IT Industry
+The immediate impact of Washington’s decision on green card certification for eight IT employers may be limited, but the freeze adds uncertainty to an immigration system already strained by decades-long queues.
+
+## Tajikistan, Turkmenistan to Import Indian Surface-to-Air Missile Systems
+Indian Defense Secretary Rajesh Kumar Singh confirmed that Tajikistan and Turkmenistan are newer customers for the indigenous Akash medium-range mobile surface-to-air missile system.
 
 ## Why Pakistan Tested an Extended Range Version of the Fatah-IV
 Pakistan is likely looking to counter the Indian Air Force’s future strategy of launching air-launched missiles from standoff ranges.
@@ -170,18 +176,6 @@ The costs of confrontation are not confined to the security domain; it’s impac
 
 ## Pakistan Imposes Emergency and Governor’s Rule in Khyber Pakhtunkhwa
 By invoking Articles 232 and 234, the federal government has essentially neutralized PTI’s institutional presence in the province.
-
-## Indian IT Companies Are in Trump’s Crosshairs
-Top companies like Infosys, Wipro, and Cognizant will not be able to apply for green cards for H-1B visa workers.
-
-## Protests Escalate in Delhi Despite Modi Government’s Heavy-handed Crackdown
-Indiscriminate arrests, detentions, police brutality, and blockades have not been able to demoralize protesters seeking the removal of the chief election commissioner.
-
-## Thailand Tightens Its Belt With 2027 Budget
-The country's budget planners have been wrestling with the same intractable challenge since the COVID-19 pandemic.
-
-## The United States Has an Industrial Problem in the Indo-Pacific
-A central part of the deterrence question
 
 ## Doubts Grow Over the Terms of Ukraine’s European Union Accession
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tupac Shakur killer sentenced to 40 years in prison
-Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
+## Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east
+A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen
 
-## Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
-Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh
+## OpenAI engineer charged after listening device found in meeting room
+US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.
 
-## Scientists urge tighter AI controls to prevent global cyber risks
-Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.
+## Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder
+A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.
 
-## Iconic Iguazu Falls walkway dismantled amid record water levels
-The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.
+## Manchester United’s Martinez blasts board’s lack of investment
+Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.
 
-## DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter
-The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.
+## Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
+Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
 
-## Trump says Houthis trying to increase oil prices before US elections
-US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.
+## Mauritius imposes curfew after night of unrest over police shooting
+Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
 
-## Will NATO’s ‘theory of victory’ work?
-The alliance presents a common vision to deter adversaries.
+## Albanian police fire tear gas at protesters as Education Ministry attacked
+At least 23 protesters have been arrested in demonstrations in the capital.
 
-## Eight orangutans find new forest home in Indonesia after wildfire rescue
-Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.
+## Man City vs PSG: Champions League – teams, predictions, line ups
+Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.
 
 ## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
 Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
