@@ -1,61 +1,76 @@
 # AION Intelligence
 
-## Home of London’s oldest restaurant, Rules, given to National Trust
-Building in Covent Garden bequeathed to heritage charity to ensure 228-year institution remains ‘part of the city’s cultural life’
+## Gold Fields mounts charm offensive to woo Northern Star investors
+South African miner’s chief meets Australian shareholders to promote merits of creating $27bn gold ‘powerhouse’
 
-## Tougher competition for internships strains UK graduate jobs market
-Applications for summer internships rise 27% as students face ‘day zero’ fight to get ahead in increasingly automated recruitment process
-
-## Saudi Aramco HQ attacked in suspected Houthi strike
-Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital
-
-## Trump revives effort to halt construction of Ørsted’s offshore wind farm
-Move comes after US president said he would drop opposition to renewable energy projects to win support for permitting bill
-
-## How TDK plans to save its factories from Japan’s population crisis
-Apple supplier built a dormitory town to house hundreds of workers in country’s fastest depopulating prefecture
-
-## Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing
-Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment
-
-## Bank of America fined $1.2bn over money laundering failures
-US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border
+## FirstFT: Marine Le Pen gears up for EU fight
+Also in today’s newsletter: Healey’s UK Budget and Saudi Aramco HQ attacked
 
 ## Russia arrests Japanese journalist on espionage charges
 Detention of Hokkaido Shimbun reporter follows series of arrests denounced as politically motivated
 
-## Premier Inn owner urges investors to resist pressure from activist hedge fund
-Whitbread asks shareholders to reject Corvex Management’s demand for a board seat
+## Patrick Drahi’s creditors strike back
+Lenders have sued Altice International in the latest escalation of a long-running battle between the heavily indebted telecoms group and its creditors
 
-## US arrests Saudi employee of OpenAI for allegedly bugging its offices
-AI lab discovered a recording device concealed behind a television in a conference room
+## UK’s Schillings sets up private investigations business with US law firm Clare Locke
+Groups known for battling the press set up US intelligence company co-led by a former senior CIA official
 
-## Cyber attack on French supermarket fridges raises alarm over food security
-Some stores reported fridge temperatures as high as 80C, melting equipment and destroying food
+## Move over New York and LA: red states are the new home for art
+Scenes are flourishing in Texas and Georgia as professionals and creative talent head inland
 
-## IMF raises India’s FY27 growth forecast to 7% on strong domestic demand
-India’s upgraded outlook contrasts with a subdued medium-term global growth projection, as the IMF flags inflation and geopolitical risks
+## France’s Marine Le Pen gears up for fight with EU
+Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism
 
-## SBI Funds Management appoints RS Srinivas Jain as Joint CEO
-The appointment follows a recommendation from the company’s Nomination and Remuneration Committee and takes effect from Tuesday, the fund house said.
+## Top London private school reverses plan to scrap GCSEs
+Latymer Upper School’s changes pledge for a new curriculum following pushback from universities
 
-## Aluminium futures: Bears hold firm
-Sell on rise near resistance
+## Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage
+Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea
 
-## Rupee gains 145 paise in two trading sessions, but disquiet sets in forex market
-On Tuesday, the rupee ended at a five-week high, gaining 49 paise to close at 95.28 per US dollar
+## How Ukraine’s data centre strikes threw Russia into turmoil
+Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise internet services under one company
 
-## Naidu and Vijay discuss Godavari-Cauvery link, Chennai drinking water supply
-The meeting in Amaravati covered water-sharing needs, a proposed river-linking project and possible additional supplies for Chennai amid water scarcity
+## Celebrity lawyer accused of participating in ‘outright plunder’ of BHS
+Liquidators to failed UK retailer are suing Eddie Parladorio for allegedly siphoning out millions before its collapse
 
-## India announces two credit risk insurance policies to support shipbuilding industry
-The measures aim to protect shipyards from payment delays and financial risks while strengthening India’s maritime infrastructure and industrial competitiveness
+## After ‘Selling Sunset’, can Netflix’s luxury agents sell Dubai too?
+Despite conflict in the region, the Oppenheim Group, protagonist of the hit reality series, is bullish about its prospects in the UAE
 
-## Dr Lal PathLabs acquires remaining 30% stake in Centrapath Labs
-The acquisition consolidates ownership of the Indore-based healthcare and diagnostic services provider under PathLabs Unifiers, a subsidiary of Dr Lal PathLabs
+## Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal
+The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics
 
-## Coal India arm BCCL hikes prices of select coking coal grades by up to 14%
-The revision covers select steel, direct feed and washery grades, with industry experts expecting a modest immediate impact on buyers.
+## Nifty Prediction Today – October 14, 2026: Nifty futures: Minor correction might precede a breakout
+Nifty (Oct) futures is now within two keys levels at 22,680 and 22,820
+
+## Rupee rises 44 paise to 94.92 against US dollar in early trade
+RBI intervention to ease dollar demand and curb speculative foreign exchange exposure supports rupee
+
+## Noel Tata, son file caveat in city civil court in trust dispute
+Move aims to prevent ex parte orders; Charity Commissioner seeks response on misgovernance complaints against SDTT
+
+## Importers in the RBI’s crosshairs amid rupee’s relentless slide
+Forward dollar purchases, a gauge of importer demand, soared 44% to $64 billion a month this year, compared with 2025
+
+## Sensex today | Stock Market Live: Sensex flat in volatile trade, Nifty near 27,000; Nestle stock up 3%, Anand Rathi tumbles 6%
+Sensex, Nifty, Share Prices Live: Markets opened flat amid FII outflows, elevated crude; Q2 earnings eyed
+
+## Canadian FM arrives in India, to hold talks with EAM Jaishankar
+Visit follows Modi-Carney call and Goyal-Sidhu talks on CEPA
+
+## Oil India eyes producing assets abroad; E&P focus area back home
+Chairman Ranjit Rath emphasised that the state-run major will aggressively pursue exploration of oil and gas assets in India’s deep and ultra deep waters
+
+## UK-India trade projected to grow by £25.5 billion a year under CETA
+Deputy Trade Commissioner highlights lower barriers and opportunities at Mumbai marketplace event; UK brings large business delegation
+
+## Stock market today: BSE Sensex off to choppy start, Nifty50 slips below 22,700
+
+
+## Man buys property with father & wife, gets Rs 55.2 lakh addition notice; what ITAT said
+A man bought a residential property jointly with his wife and his father. The Income Tax Department reopened his assessment for the 2016-17 assessment year after receiving information through its Risk Management Strategy that he had purchased an immovable property during the 2015-16 financial year. 
+
+## Oil prices climb as Houthis step up attacks on Saudi Arabia, stoking supply fears
+
 
 ## Rollout of BS-VII in 3 phases from April 2029 to April 2035
 
@@ -72,38 +87,44 @@ The revision covers select steel, direct feed and washery grades, with industry 
 ## Now, MDR on UPI to be rolled out after Diwali
 
 
-## How phones on EMI are driving loan demand for two-wheelers
+## 1 dead as speeding SUV mows down vehicles in Bhubaneswar, ‘drunk’ driver arrested
+The SUV eventually crashed into a road divider near the main entrance of SUM Hospital, leaving one person dead and three others critically injured.
 
+## Jharkhand man arrested for allegedly killing two sisters in ritual to ‘cure’ himself
+Police said he believed the ritual would cure his illnesses. He surrendered at a police station 15 km away, and officers recovered the axe from the scene.
 
-## Zoho pauses hikes and ad spend due to rising AI costs
+## Bihar boat capsize: Raghopur death toll rises to 13; state administration launches probe into incident
+Among the deceased, nine are girls, while four are boys, with the youngest identified as a six-year-old boy and the oldest a 16-year-old girl.
 
+## Centre invites bids for two offshore mineral blocks in Andaman Sea
+The ministry issued the Notice Inviting Tender (NIT) to grant operating rights for the Sewell Rise-01 and West Sewell Ridge-01 blocks under a composite licence.
 
-## Rupee up 49 paise, RBI governor says curbs to halt speculation
+## Search on for influencer Shraddha Dubey over Lucknow cafe owner's fatal fall: ‘Body bore cigarette burns’
+Shiv Sharma, 28, was found dead after falling from the apartment where he had allegedly been living with Shraddha Dubey for three to four months.
 
+## Keralam unveils 2036 Olympics project to train young athletes, guarantee jobs
+Keralam unveils 2036 Olympics project to train young athletes, guarantee jobs
 
-## Odisha Cabinet approves free textbooks for 28.7 lakh students, ₹500-crore urban drainage scheme
-Odisha Cabinet approves free textbooks for 28.7 lakh students, ₹500-crore urban drainage scheme
+## Farm fires evading satellite monitoring prompt focussed ground monitoring
+Air quality in Delhi and NCR starts worsening from mid-September, with stubble burning as a precursor to pollution
 
-## ‘8 months of hard work wasted’: Bittu Tabahi finds Madhya Pradesh's Ajnar river choked with garbage again | Video
-The video has renewed discussions online about civic responsibility and the need to prevent rivers from being polluted.
+## HT Morning News Brief October 14: Team CJP in judicial custody; Marco Rubio to visit India; Benedict Garrett's interview
+Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
 
-## Five arrested as 29-year-old man dies after ‘assault’ over beer spill at north Delhi nightclub
-Police are examining CCTV footage and allegations of a firearm threat and theft as they investigate the death of Daljeet at Tor House nightclub.
+## Going Global 100: China’s overseas growth champions
+Chinese companies are surging overseas, taking advantage of robust supply chains and technological prowess to win sales in countries offering bigger margins than the saturated domestic market. ByteDance, Shein and BYD are among the major players opening factories, sales centres or research hubs inte
 
-## Opposition announces ‘mission to restore democracy’, plans India Plus group
-Rahul Gandhi said the Opposition would challenge the Centre’s decision to de-notify Jantar Mantar as a protest site, vowing to defend people’s democratic rights
+## Sluggish Chinese demand weighs on LVMH, as Louis Vuitton’s Molly Tea case casts a shadow
+The world’s largest luxury group LVMH said Asia, excluding Japan, was the only region to suffer falling sales in the third quarter ending September and the biggest drag was a mid-teens slowdown in Chinese demand, amid a less buoyant macroeconomic environment. The Louis Vuitton, Dior, Bvlgari and Fen
 
-## 11 dead, several missing after boat capsizes in Bihar’s Raghopur
-Around 25 to 30 people were reportedly aboard the medium-sized boat, most of them travelling to attend a feast organised as part of Hindu funeral rituals.
+## Spotlight on Hong Kong as APEC finance ministers gather to discuss region’s economic future
+[The content of this article has been produced by our advertising partner.] Hong Kong will be able to flex its growing strength and influence as a major international financial centre when the city stages the Asia-Pacific Economic Cooperation (APEC) 2026 Finance Ministers’ Meeting (FMM) for the firs
 
-## 'Rahul Gandhi didn't push me': DK Shivakumar after BJP shares clip from INDIA bloc march to Supreme Court
-Karnataka CM DK Shivakumar said that Rahul Gandhi didn't push him aside, but was only concerned for him because the crowd was massive.
+## What will it take for AI-powered purchases to become the norm?
+Anyone who has spent time on the internet researching goods and doing lengthy price comparisons will be intrigued by developments in the use of artificial intelligence (AI) for agentic commerce. This new form of online shopping involves AI-powered agents – autonomous software systems that use reason
 
-## Delhi Police file FIR against CJP's Saurav Das, Ashutosh Ranka and others for ‘trespassing’ into Jantar Mantar
-The action came hours after Das, Ranka were detained for entering the heavily barricaded protest site and raising slogans demanding CEC's resignation.
-
-## Mamata Banerjee escapes knife attack, TMC claims assailant was a 'drug addict, posed as her niece'
-Party MP Dola Sen sent a written complaint to the Kalighat police station in Kolkata stating that the incident took place around 6 pm.
+## IMF warns higher borrowing costs are straining public finances worldwide
+Rising sovereign debt and borrowing costs have prompted a fresh warning from the International Monetary Fund (IMF) about risks to the fiscal health of member countries, with 24-year highs in US Treasury yields expected to become one of the focal topics for central bankers and finance ministers gathe
 
 ## Henderson banks on tenant ‘FOMO’ to fill up US$8b Central Yards project
 Henderson Land Development is banking on demand for premium offices to support its HK$63 billion (US$8.03 billion) Central Yards project, as tenants gravitate towards top-tier buildings even while much of Hong Kong’s office market remains weak. Jane Street’s decision last year to take about 70 per c
@@ -114,20 +135,11 @@ Hong Kong Exchanges and Clearing (HKEX) has completed the first cross-border tra
 ## SHKP reopens former Crowne Plaza hotel as luxury ‘urban resort’ in Tseung Kwan O
 The new Royal Garden Kowloon East hotel has undergone far more than an extensive renovation; it has been completely overhauled to become an “urban resort” in the heart of Tseung Kwan O, according to the hotel’s owner. Developer Sun Hung Kai Properties (SHKP) had transformed the former Crowne Plaza “
 
-## PBOC adds most gold in three years amid China pivot from US dollar
-China’s central bank boosted gold holdings by the most in three years last month, taking advantage of a dip in prices to further pare its exposure to US dollar assets amid tensions with Washington. Holdings rose by 740,000 troy ounces (23 tonnes) to reach 77.47 million ounces at the end of September
+## China and India Want Much the Same Things From South Asia
+The two countries have reset bilaterally and internationally. Now it’s time to think regionally.
 
-## Chinese billionaire featured in ‘American Factory’ shares lesson for firms going global
-Chinese billionaire Cao Dewang, whose glass-making empire was featured in the Oscar-winning documentary American Factory, has urged Chinese investors expanding overseas to respect local laws, regulations and culture, drawing on decades of experience building a global manufacturing business amid shif
-
-## Hong Kong watchdog freezes US$590m of assets over alleged IPO fraud schemes
-Hong Kong’s securities watchdog has moved against two syndicates suspected of being involved in three alleged initial public offering fraud schemes involving assets worth HK$4.6 billion (US$590 million), according to a statement released on Tuesday. The Securities and Futures Commission (SFC) also a
-
-## Why Haidilao’s US$14.9 million credit line to founder is fuelling China tax speculation
-Haidilao International Holding has agreed to provide its founder, Zhang Yong, with a one-month loan of up to the Hong Kong dollar equivalent of 100 million yuan (US$14.9 million), a move that has raised market speculation as investors closely watch Beijing’s October 22 deadline for offshore trust ta
-
-## King Fook expands with US$34 million Admiralty lease despite slow luxury sales: analysts
-King Fook Jewellery Group’s decision to lease a 550 square metre (about 5,920 square feet) retail space at Pacific Place Phase II in Admiralty signals confidence in Hong Kong’s retail market, despite slowing demand for luxury goods, analysts said. The six-year lease for the shop in Hong Kong’s prime
+## The Autumn Myanmar Turned Pretty
+It’s been a week of diplomatic breakthroughs for the junta.
 
 ## The Limits of China’s Surveillance State
 Today’s Beijing shows marks of how costly total control can be.
@@ -146,12 +158,6 @@ No one should be getting paid by the countries they are conducting diplomacy wit
 
 ## Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts
 The admiration for Leo is based on his sporting exploits; the passion for Diego is rooted in culture and identity.
-
-## Can Brussels Budget Like a Superpower?
-A new financial framework could put the EU in the big leagues.
-
-## The Real Footprint of Trump’s Data Center Boom
-What the sprawling buildout means for energy, water, and land.
 
 ## Pakistan Is Treating Every Grievance as Terrorism, and It’s Failing
 From KP to Balochistan and beyond, instead of addressing the underlying causes of unrest, the country's rulers are hell-bent on targeting the opposition.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east
-A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen
+## China and North Korea to open New Yalu River Bridge, state media reports
+The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.
 
-## OpenAI engineer charged after listening device found in meeting room
-US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.
+## Singapore’s economy grows more than 5 percent amid AI boom
+City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.
 
-## Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder
-A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.
+## Saudi-born engineer for OpenAI arrested for planting listening bug
+OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.
 
-## Manchester United’s Martinez blasts board’s lack of investment
-Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.
+## UN official says ‘window of opportunity’ for peace in DR Congo
+The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.
 
-## Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
-Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
+## Israel returns 22 stolen ancient artefacts to Greece
+The cultural exchange comes amid strengthening ties between the two countries.
 
-## Mauritius imposes curfew after night of unrest over police shooting
-Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
+## Houthi missiles intercepted over Saudi Arabia as battles intensify
+Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.
 
-## Albanian police fire tear gas at protesters as Education Ministry attacked
-At least 23 protesters have been arrested in demonstrations in the capital.
+## Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts
+The trial is expected to run into February and could test Germany's political stance on Ukraine.
 
-## Man City vs PSG: Champions League – teams, predictions, line ups
-Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.
+## UN Human Rights Council elects 15 members in uncontested vote
+Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.
 
 ## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
 Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
@@ -273,6 +279,9 @@ The Reserve Bank of India has raised rates by 25 basis points this week, but mor
 ## GST Council proposes curbs on e-way bill interceptions, seeks to protect goods in transit from confiscation
 Proposed amendments to the CGST Act would require specific intelligence and authorisation by an officer of at least Joint Commissioner rank for interception, while narrowing the scope for enforcement action by transit states.
 
+## 'Engage America, manage China, cultivate Europe, & reassure Russia': Jaishankar lays out his foreign policy formula
+S Jaishankar stated that all nations must adjust their relationships with the US as its global engagement shifts. He outlined India's foreign policy approach, which focuses on engaging the US and managing relationships with other key players. The minister noted that India's strategic partnership wit
+
 ## Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route
 Sebi has announced a new Portfolio Management Services framework effective from April 1, 2027. This framework permits portfolio managers to invest in IPOs, primary market debt, and various overseas securities. Portfolio managers can also offer advisory services related to unlisted securities for lar
 
@@ -290,7 +299,4 @@ Indian government bonds extended losses on Monday, pushing the benchmark 10-year
 
 ## SEBI to release AI guidelines for capital markets, enhancing accountability and human oversight
 SEBI is set to unveil new guidelines aimed at promoting the responsible use of artificial intelligence in capital markets. These guidelines will tackle concerns regarding derivatives settlement prices and introduce important changes for tender offers and buybacks, enhancing capital efficiency and mi
-
-## India awaits how Trump will route diesel buy from Russia
-Washington may seek an exemption under its Russia and Iran Sanctions Act as it moves to import Russian diesel, even as New Delhi awaits a decision on a possible sanctions waiver.
 
