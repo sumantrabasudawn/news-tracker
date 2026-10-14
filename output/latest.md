@@ -1,121 +1,127 @@
 # AION Intelligence
 
-## Gold Fields mounts charm offensive to woo Northern Star investors
-South African miner’s chief meets Australian shareholders to promote merits of creating $27bn gold ‘powerhouse’
-
 ## FirstFT: Marine Le Pen gears up for EU fight
-Also in today’s newsletter: Healey’s UK Budget and Saudi Aramco HQ attacked
+Also in today’s newsletter: Saudi Aramco HQ attacked, and China’s exports surge
 
-## Russia arrests Japanese journalist on espionage charges
-Detention of Hokkaido Shimbun reporter follows series of arrests denounced as politically motivated
+## General Atlantic plans early 2027 IPO at up to $10bn valuation
+Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global
 
-## Patrick Drahi’s creditors strike back
-Lenders have sued Altice International in the latest escalation of a long-running battle between the heavily indebted telecoms group and its creditors
+## CoreWeave targets ‘unlimited’ insurance money to fund AI build-out
+Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out
 
-## UK’s Schillings sets up private investigations business with US law firm Clare Locke
-Groups known for battling the press set up US intelligence company co-led by a former senior CIA official
+## Ukraine blindsided by Starlink restrictions and intelligence gaps
+Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network
 
-## Move over New York and LA: red states are the new home for art
-Scenes are flourishing in Texas and Georgia as professionals and creative talent head inland
+## Turkish authorities take over country’s most-watched news channel
+Dawn police raid on pro-opposition Halk TV comes after series of moves against media critics of President Recep Tayyip Erdoğan
 
-## France’s Marine Le Pen gears up for fight with EU
-Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism
+## Submit your questions: Who’s winning the trade war with China — the EU or US?
+Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)
 
-## Top London private school reverses plan to scrap GCSEs
-Latymer Upper School’s changes pledge for a new curriculum following pushback from universities
+## Crypto exchange Kraken owner to buy European bank
+Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company
 
-## Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage
-Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea
+## Houthis strike Saudi Aramco headquarters
+Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital
 
-## How Ukraine’s data centre strikes threw Russia into turmoil
-Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise internet services under one company
+## European oil refineries’ margins collapse as input costs soar
+Slump in profits raises prospect of output cuts even as continent faces soaring prices for refined products
 
-## Celebrity lawyer accused of participating in ‘outright plunder’ of BHS
-Liquidators to failed UK retailer are suing Eddie Parladorio for allegedly siphoning out millions before its collapse
+## Olympus shares suffer biggest drop since 2011 after FDA warning
+Japanese medical devices maker tumbles 13.5% as private equity circles company
 
-## After ‘Selling Sunset’, can Netflix’s luxury agents sell Dubai too?
-Despite conflict in the region, the Oppenheim Group, protagonist of the hit reality series, is bullish about its prospects in the UAE
+## AI demand to exceed supply for 2 more years, says ASML
+Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’
 
-## Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal
-The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics
+## L&T, IIT Madras-incubated TuTr Hyperloop join hands for advanced transport technology
+The collaboration will combine engineering and construction expertise with indigenous mobility technology to assess commercially viable transport infrastructure projects across India.
 
-## Nifty Prediction Today – October 14, 2026: Nifty futures: Minor correction might precede a breakout
-Nifty (Oct) futures is now within two keys levels at 22,680 and 22,820
+## Sensex today | Stock Market Closing Bell: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70
+Sensex, Nifty, Share Prices Closing Bell: Sensex declines 251.89 points to settle at 72,781.89; Nifty down 99.25 points to 22,622.70.
 
-## Rupee rises 44 paise to 94.92 against US dollar in early trade
-RBI intervention to ease dollar demand and curb speculative foreign exchange exposure supports rupee
+## IMF chief urges US, other wealthy nations to rein in debt to ease global economic pressure
+Rising debt levels and global inflation, partly resulting from high energy costs due to the Iran war, have pushed interest rates to multidecade highs, adding to the burdens of the world's poorest nations
 
-## Noel Tata, son file caveat in city civil court in trust dispute
-Move aims to prevent ex parte orders; Charity Commissioner seeks response on misgovernance complaints against SDTT
+## Kerala hotels defer UPI payment boycott until after Deepavali
+The boycott, scheduled to begin on October 15, has been postponed following NPCI’s decision to defer the proposed rollout of a 0.4% MDR on select merchant transactions until after the festival.
 
-## Importers in the RBI’s crosshairs amid rupee’s relentless slide
-Forward dollar purchases, a gauge of importer demand, soared 44% to $64 billion a month this year, compared with 2025
+## KIMS Hospitals, Liverpool NHS organisations partner for medical research and training
+The collaboration will create opportunities for joint research, medical fellowships and professional exchanges, with BIMS coordinating placements across both healthcare systems.
 
-## Sensex today | Stock Market Live: Sensex flat in volatile trade, Nifty near 27,000; Nestle stock up 3%, Anand Rathi tumbles 6%
-Sensex, Nifty, Share Prices Live: Markets opened flat amid FII outflows, elevated crude; Q2 earnings eyed
+## Indian companies turn to banks as bond borrowing costs rise, Jefferies says
+Demand from NBFCs, wholesale trade, commercial real estate, power and chemicals has supported stronger corporate lending by banks in recent months
 
-## Canadian FM arrives in India, to hold talks with EAM Jaishankar
-Visit follows Modi-Carney call and Goyal-Sidhu talks on CEPA
+## CMFRI initiative helps coastal women to become successful fisheries entrepreneurs
+Initiative supports 84 micro-enterprises across eight Kerala districts, boosting household incomes by 30–35%
 
-## Oil India eyes producing assets abroad; E&P focus area back home
-Chairman Ranjit Rath emphasised that the state-run major will aggressively pursue exploration of oil and gas assets in India’s deep and ultra deep waters
+## Green power generation struggling to keep pace with AI growth, says Jitin Prasada
+Rising demand for computing capacity is putting pressure on electricity infrastructure, prompting calls for faster green power expansion and stronger domestic capabilities
 
-## UK-India trade projected to grow by £25.5 billion a year under CETA
-Deputy Trade Commissioner highlights lower barriers and opportunities at Mumbai marketplace event; UK brings large business delegation
+## Stock market today: BSE Sensex falls 270 points; Nifty50 drops below 22,620
 
-## Stock market today: BSE Sensex off to choppy start, Nifty50 slips below 22,700
 
+## India rebuilding ties with China? Here’s what Piyush Goyal said
+India is working to strengthen its relations with China, emphasizing the need for fair trade agreements and consistent engagement. The trade deficit with China has widened, raising concerns for India's economic outlook. Efforts are underway to enhance semiconductor cooperation with Singapore, focusi
+
+## From Chinese money laundering to Russia, Iran sanctions - why was Bank of America fined $1.21 billion?
+
+
+## Woman applied for 130 IPO shares, bank entered 65; commission awards Rs 37,000
+In 2022, the woman applied for 130 shares in an IPO. However, the bank recorded her application for just 65 shares, which she claimed resulted in a loss of Rs 42,142. She also accused the bank of causing her physical and mental harassment. The Gujarat State Consumer Disputes Redressal Commission sub
+
+## India-US trade deal nearing finish line? What Jaishankar, Piyush Goyal said on negotiations and ties
+
+
+## Taiwan says Alaska LNG talks making progress after Trump claims 30% purchase deal
+
+
+## Gold price prediction today: What's the outlook for gold on October 14, 2026?
+Gold price prediction today: Gold prices are trading cautiously, influenced by high US yields and the dollar index. Investors are still purchasing gold despite challenges in the physical market and slowed central bank acquisitions. The upcoming US September CPI is pivotal for the Federal Reserve's a
 
 ## Man buys property with father & wife, gets Rs 55.2 lakh addition notice; what ITAT said
 A man bought a residential property jointly with his wife and his father. The Income Tax Department reopened his assessment for the 2016-17 assessment year after receiving information through its Risk Management Strategy that he had purchased an immovable property during the 2015-16 financial year. 
 
-## Oil prices climb as Houthis step up attacks on Saudi Arabia, stoking supply fears
+## Ghaziabad: Woman jumps into Hindon canal late at night; rescued by police
+Dharam Pal, the SHO of Vijay Nagar police station, told HT that police received no complaint in connection with the incident so far
 
+## India's salary growth to remain resilient at 9.1% in 2026-27: Survey
+The survey is based on an analysis of inputs from more than 1,200 organisations across 45 industries.
 
-## Rollout of BS-VII in 3 phases from April 2029 to April 2035
+## Hijacking rumour, 7500 code: Why Frankfurt-Delhi Air India flight was diverted
+The aircraft was squawking transponder code 7500, the internationally recognised aviation code for hijacking or unlawful interference.
 
+## Tenant among 3 held for murdering 45-year-old hardware trader in UP’s Tronica City: Police
+Three men arrested on Wednesday for murdering 45-year-old hardware trader at an isolated location in the jungles of Tronica City in Uttar Pradesh’s Loni, police said.
 
-## Sensex jumps 1100 after finance minister's remarks spark LTCG cut hopes
+## TVK not seeking AIADMK defections, says minister: ‘Will take call if they switch sides'
+Speaking to reporters at Kilpauk Medical College in Chennai, K G Arunraj said the TVK had no targets for attracting opposition legislators.
 
+## Ministry body to pump ₹151 crore to develop an autonomous aerial logistics vehicle
+The project, with a total cost of ₹302 crore, will receive support through debt financing under the government’s Research Development and Innovation (RDI) Fund.
 
-## Apple makes fresh push into smart homes market
+## Who is Shraddha Dubey? Influencer at centre of Lucknow cafe owner's death
+The influencer has also been featured in a music video released by a prominent music company around seven years ago, which has around 2.7 lakh views on YouTube.
 
+## Harvard vs Harvard: Support from one, criticism from another over Delhi protests
+The signatories said that while dissent is a fundamental democratic right, making unsubstantiated allegations that damage the credibility of institutions isn't.
 
-## IMF raises India growth forecast to 7%
+## China chip exports jump 136% to US$45b as AI frenzy jacks up prices
+China’s integrated circuit (IC) exports surged 136 per cent year on year in September to US$45 billion, exceeding the 108 per cent growth rate in the first nine months of the year in a sign of the country’s rising influence in the global semiconductor supply chain. In September, China exported 32.7 
 
+## China’s EV industry faces double blow from EU export quota, VAT rebate cut
+China’s electric vehicle (EV) makers have been hit with a double blow as both Beijing and Brussels introduce measures that will affect their exports, leading analysts to revise down their earnings forecasts for the industry. The twin measures – combined with a sales decline in China’s domestic marke
 
-## Now, MDR on UPI to be rolled out after Diwali
+## China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China carmakers eye record 12 million global sales in 2026 as EV demand surges Chinese
 
+## Hopes for stock support rise in China ahead of CSRC head Wu Qing’s speech
+Chinese investors are gearing up for a speech next week by the chief of the securities watchdog for clues on how Beijing will ramp up support for the country’s stock market after its latest efforts did little to bolster sentiment. Wu Qing, chairman of the China Securities Regulatory Commission (CSRC
 
-## 1 dead as speeding SUV mows down vehicles in Bhubaneswar, ‘drunk’ driver arrested
-The SUV eventually crashed into a road divider near the main entrance of SUM Hospital, leaving one person dead and three others critically injured.
-
-## Jharkhand man arrested for allegedly killing two sisters in ritual to ‘cure’ himself
-Police said he believed the ritual would cure his illnesses. He surrendered at a police station 15 km away, and officers recovered the axe from the scene.
-
-## Bihar boat capsize: Raghopur death toll rises to 13; state administration launches probe into incident
-Among the deceased, nine are girls, while four are boys, with the youngest identified as a six-year-old boy and the oldest a 16-year-old girl.
-
-## Centre invites bids for two offshore mineral blocks in Andaman Sea
-The ministry issued the Notice Inviting Tender (NIT) to grant operating rights for the Sewell Rise-01 and West Sewell Ridge-01 blocks under a composite licence.
-
-## Search on for influencer Shraddha Dubey over Lucknow cafe owner's fatal fall: ‘Body bore cigarette burns’
-Shiv Sharma, 28, was found dead after falling from the apartment where he had allegedly been living with Shraddha Dubey for three to four months.
-
-## Keralam unveils 2036 Olympics project to train young athletes, guarantee jobs
-Keralam unveils 2036 Olympics project to train young athletes, guarantee jobs
-
-## Farm fires evading satellite monitoring prompt focussed ground monitoring
-Air quality in Delhi and NCR starts worsening from mid-September, with stubble burning as a precursor to pollution
-
-## HT Morning News Brief October 14: Team CJP in judicial custody; Marco Rubio to visit India; Benedict Garrett's interview
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
-
-## Going Global 100: China’s overseas growth champions
-Chinese companies are surging overseas, taking advantage of robust supply chains and technological prowess to win sales in countries offering bigger margins than the saturated domestic market. ByteDance, Shein and BYD are among the major players opening factories, sales centres or research hubs inte
+## No rush to T+1: Hong Kong exchange won’t hurry settlement-time change, sources say
+Participants in Hong Kong’s stock market may need to wait longer for shorter transaction settlement times, as market participants want more time to prepare for the change, according to two sources familiar with the matter. Bourse operator Hong Kong Exchanges and Clearing (HKEX) said in a consultatio
 
 ## Sluggish Chinese demand weighs on LVMH, as Louis Vuitton’s Molly Tea case casts a shadow
-The world’s largest luxury group LVMH said Asia, excluding Japan, was the only region to suffer falling sales in the third quarter ending September and the biggest drag was a mid-teens slowdown in Chinese demand, amid a less buoyant macroeconomic environment. The Louis Vuitton, Dior, Bvlgari and Fen
+LVMH, the world’s largest luxury goods group, has attributed an Asia sales drop in the third quarter – the only regional decline the company reported – to, in part, a slowdown in Chinese demand. The Louis Vuitton, Dior, Bulgari and Fendi parent group said Asia took a hit from a sharp macro-led deter
 
 ## Spotlight on Hong Kong as APEC finance ministers gather to discuss region’s economic future
 [The content of this article has been produced by our advertising partner.] Hong Kong will be able to flex its growing strength and influence as a major international financial centre when the city stages the Asia-Pacific Economic Cooperation (APEC) 2026 Finance Ministers’ Meeting (FMM) for the firs
@@ -123,17 +129,8 @@ The world’s largest luxury group LVMH said Asia, excluding Japan, was the only
 ## What will it take for AI-powered purchases to become the norm?
 Anyone who has spent time on the internet researching goods and doing lengthy price comparisons will be intrigued by developments in the use of artificial intelligence (AI) for agentic commerce. This new form of online shopping involves AI-powered agents – autonomous software systems that use reason
 
-## IMF warns higher borrowing costs are straining public finances worldwide
-Rising sovereign debt and borrowing costs have prompted a fresh warning from the International Monetary Fund (IMF) about risks to the fiscal health of member countries, with 24-year highs in US Treasury yields expected to become one of the focal topics for central bankers and finance ministers gathe
-
-## Henderson banks on tenant ‘FOMO’ to fill up US$8b Central Yards project
-Henderson Land Development is banking on demand for premium offices to support its HK$63 billion (US$8.03 billion) Central Yards project, as tenants gravitate towards top-tier buildings even while much of Hong Kong’s office market remains weak. Jane Street’s decision last year to take about 70 per c
-
-## Hong Kong completes pilot schemes to trade green products with exchanges in mainland China
-Hong Kong Exchanges and Clearing (HKEX) has completed the first cross-border trading of green products under two pilot programmes with mainland exchanges in Guangzhou and Shenzhen separately, according to an executive. The exchange’s Core Climate platform has enabled 15 companies, including Airport 
-
-## SHKP reopens former Crowne Plaza hotel as luxury ‘urban resort’ in Tseung Kwan O
-The new Royal Garden Kowloon East hotel has undergone far more than an extensive renovation; it has been completely overhauled to become an “urban resort” in the heart of Tseung Kwan O, according to the hotel’s owner. Developer Sun Hung Kai Properties (SHKP) had transformed the former Crowne Plaza “
+## After Iran, Washington Needs a New Basing Strategy
+The decades-old model has been upended by a war that favors movement and dispersal.
 
 ## China and India Want Much the Same Things From South Asia
 The two countries have reset bilaterally and internationally. Now it’s time to think regionally.
@@ -156,8 +153,11 @@ Warnings about transnational radicalism are rooted in the same accusations that 
 ## Congress Can Do More to Curb Kushner’s Conflicts of Interest
 No one should be getting paid by the countries they are conducting diplomacy with, especially not the president’s son-in-law.
 
-## Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts
-The admiration for Leo is based on his sporting exploits; the passion for Diego is rooted in culture and identity.
+## What the Ukrainian Strikes on Yandex Tell Us About Central Asia’s Digital Infrastructure
+Drone strikes on Yandex data centers near Moscow triggered service outages in Central Asia, too.
+
+## Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula
+North Korea’s ability to disperse, conceal, and employ its drones, missiles, and nuclear weapons is outpacing South Korea’s capacity to destroy them.
 
 ## Pakistan Is Treating Every Grievance as Terrorism, and It’s Failing
 From KP to Balochistan and beyond, instead of addressing the underlying causes of unrest, the country's rulers are hell-bent on targeting the opposition.
@@ -177,11 +177,11 @@ Pakistan is likely looking to counter the Indian Air Force’s future strategy o
 ## From Data Localization to Digital Openness: Uzbekistan’s Regulatory Shift
 Uzbekistan courts tech companies to boost its economy by easing its once infamous data localization law.
 
-## Why the TTP Remains the Central Fault Line Between Pakistan and Afghanistan
-The costs of confrontation are not confined to the security domain; it’s impacting every facet of the bilateral relationship.
+## The Mecca Pact and Pakistan’s Bid to Become Indispensable
+For most of its history, Pakistan’s geopolitical value has risen and fallen with other countries’ emergencies. The Mecca Pact may be its most serious attempt yet to break that cycle. On Aug. 31, Pakistan, Saudi Arabia, and Turkey established a secretariat in Saudi Arabia for the Mecca Defence Agreem
 
-## Pakistan Imposes Emergency and Governor’s Rule in Khyber Pakhtunkhwa
-By invoking Articles 232 and 234, the federal government has essentially neutralized PTI’s institutional presence in the province.
+## The United Kingdom’s Military AI Ambitions Need Guardrails
+Advancing military AI capability is a priority for the United Kingdom, and in recent weeks, the new government has doubled down on its ambitions for AI and defense via two major partnerships.On Aug. 24, 2026, on his first overseas trip as the new prime minister of the United Kingdom, Andy Burnham si
 
 ## Doubts Grow Over the Terms of Ukraine’s European Union Accession
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
@@ -200,12 +200,6 @@ The American team thought it was signaling restraint. The Chinese team saw prepa
 
 ## Shows of Strength and Signs of Strain
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memor
-
-## The Last Mile of Pentagon Reform Runs Through the Brigade
-A kill chain measured in seconds cannot depend on processes measured in weeks or months. The Pentagon recognizes that drone proliferation and AI-enabled lethal targeting are reducing decision cycles and increasing the premium on speed. The 2025 drone and acquisition reforms and the 2026 Artificial I
-
-## Fornication in America: Trump’s Arch, Rome’s Emperors, and the Meaning of Victory
-In 79 A.D., Gaius Plinius Secundus, known today as Pliny the Elder, was the supreme commander of the Roman imperial fleet, permanently stationed at Misenum near Naples. He died during the eruption of Vesuvius, after sailing across the bay on a valiant but unsuccessful rescue mission. Amid such heavy
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China and North Korea to open New Yalu River Bridge, state media reports
-The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.
+## Albanian students clash with police as they protest over education and jobs
+Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.
 
-## Singapore’s economy grows more than 5 percent amid AI boom
-City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.
+## Israeli air strike kills Palestinian woman in Gaza City
+The woman's young daughter was rescued from a large fire inside the apartment, caused by the attack.
 
-## Saudi-born engineer for OpenAI arrested for planting listening bug
-OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.
+## How a radio glitch triggered a false hijack alert in Germany
+Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.
 
-## UN official says ‘window of opportunity’ for peace in DR Congo
-The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.
+## Girl rescued from flaming apartment after Israeli attack on Gaza
+Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.
 
-## Israel returns 22 stolen ancient artefacts to Greece
-The cultural exchange comes amid strengthening ties between the two countries.
+## China’s exports surge amid AI-driven demand
+Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.
 
-## Houthi missiles intercepted over Saudi Arabia as battles intensify
-Saudi Arabia says it intercepted missiles targeting Riyadh and Dhahran, with falling debris injuring people.
+## India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site
+Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India's Delhi.
 
-## Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts
-The trial is expected to run into February and could test Germany's political stance on Ukraine.
+## Jerry Seinfeld dances as pro-Palestine protesters interrupt show
+Jerry Seinfeld dances as pro-Palestine protesters interrupt show
 
-## UN Human Rights Council elects 15 members in uncontested vote
-Rights groups say uncontested vote undermines accountability as countries with poor human rights records win seats.
+## How do Iranians move money abroad to avoid US sanctions?
+From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.
+
+## WPI inflation surges to 11.39% in September as fuel, manufactured goods prices climb
+Wholesale price inflation accelerated from 9.92% in August, with fuel and power inflation rising to 25.85% and manufactured products inflation to 9.76%.
 
 ## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
 Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
@@ -276,8 +273,8 @@ The Reserve Bank of India has implemented emergency measures to stabilize the ru
 ## Era of cheap capital is over
 The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
 
-## GST Council proposes curbs on e-way bill interceptions, seeks to protect goods in transit from confiscation
-Proposed amendments to the CGST Act would require specific intelligence and authorisation by an officer of at least Joint Commissioner rank for interception, while narrowing the scope for enforcement action by transit states.
+## RBI open to more steps to curb FX speculation, Governor Sanjay Malhotra says
+RBI Governor Sanjay Malhotra said the central bank may take further steps to curb speculative forex trading and ensure orderly movement in the currency market. He said recent restrictions aim to support genuine hedging needs, not impose capital controls.
 
 ## 'Engage America, manage China, cultivate Europe, & reassure Russia': Jaishankar lays out his foreign policy formula
 S Jaishankar stated that all nations must adjust their relationships with the US as its global engagement shifts. He outlined India's foreign policy approach, which focuses on engaging the US and managing relationships with other key players. The minister noted that India's strategic partnership wit
