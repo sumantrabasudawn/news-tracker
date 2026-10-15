@@ -1,115 +1,133 @@
 # AION Intelligence
 
-## CPI comes in hot, AI goes cold
-Plus: the EM index is just an AI bet now
+## Global stocks sell-off deepens as chipmakers tumble
+European and Asian equities slide as investors question durability of AI boom
 
-## Soaring energy prices set to swamp EU summit and overshadow budget talks
-Also in this newsletter: Europeans are embracing some parts of AI faster than expected
+## How the Greens lost their party to the hard left
+The drift from climate politics towards becoming a portmanteau party of the left heralds a nastier, less consensual era
+
+## Credit Suisse bankers denied bonuses stripped after UBS takeover
+Switzerland’s top court sides with government decision, overturning ruling of lower court
+
+## Russia suspected of striking two tankers in Nato waters
+Chemical tankers go up in flames off Romania after Russian drones were spotted in the area
+
+## Northern Ireland politician sentenced to 15 years in jail for child sex crimes
+Jeffrey Donaldson, former leader of the Democratic Unionist Party, had a ‘catastrophic descent into disgrace’, says judge
+
+## Six must-see shows in Paris this autumn
+Among the standout art exhibitions are retrospectives for impressionists Eva Gonzalès and Mary Cassatt, and Yu Nishimura’s first major European outing
+
+## American Hagwon — lessons in the immigrant experience
+Min Jin Lee’s new family saga follows a Korean-American clan across continents, exploring education, ambition and their pursuit of belonging
+
+## Wave of Saudi Arabia events delayed after Houthi attacks
+EU-Gulf meeting and Formula 1 race among those postponed following missile strikes on Riyadh airport
+
+## Second activist pushes for sale of UK self-storage company Big Yellow
+Irenic Capital takes 4% stake in FTSE 250 real estate group and joins Ancora in lobbying for a sale
+
+## Why clean energy hasn’t yet lowered your power bill
+The rapid build-out of solar and wind has promised a future of cheaper electricity
+
+## New ‘zero-click’ spyware hacked phones using targeted ads
+Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique that requires no interaction from victim to infect devices
 
 ## FirstFT: Ukraine to resume strikes on Russian refineries, Zelenskyy says
-Also in today’s newsletter: Anthropic revenues and English football
+Also in today’s newsletter: tech sell-off deepens and Anthropic’s revenues increase more slowly than expected
 
-## US inflation again set to be a crucial factor for the midterms
-Donald Trump was re-elected on the back of inflation anger, and his party is now in danger of losing control of the House and Senate for the same reason
+## CoreWeave’s bonds scream financial distress
+The company better hurry up figuring out how to tap insurers for cash
 
-## Global AI sell-off deepens as Asian markets tumble
-Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower
+## 5 public sector banks post 15-25% credit growth in Q2FY27
+Credit demand remained firm across agriculture, industry, services and personal loans, according to the latest RBI sectoral data
 
-## The UK’s Fastest-Growing Companies
-The FT’s inaugural ranking of the UK’s fastest-growing companies shows the diverse businesses powering ahead against a volatile backdrop, in markets from health and wellness to fried chicken and digital ID. Plus: why management is key and finding growth in the ageing population
+## Anthropic said to target mega-IPO before thanksgiving holiday
+The firm behind Claude could begin formal IPO marketing as early as the week of Nov. 9, targeting trading before Thanksgiving
 
-## General Atlantic’s IPO ambitions
-The private capital group is planning to go public in the first half of next year as it seeks to keep pace with listed rivals like Blackstone and Apollo Global
+## Russia to take 70,000 Indian skilled workers this year, Jaishankar tells parliamentary panel
+Jaishankar briefed the parliamentary committee on trade, investment, energy cooperation, Ukraine conflict and efforts to secure Indians serving in Russia
 
-## London’s gold market enjoys the Trump effect
-The City’s dominance of physical trading in the metal is being reinforced by global instability
+## Marco Rubio to visit Reliance’s Jamnagar refinery during India trip, says US envoy
+The US secretary of state is expected to meet Indian officials and Reliance representatives as Washington seeks to deepen bilateral energy cooperation.
 
-## Marsh to shoulder biggest chunk of Greensill settlement with Credit Suisse
-Deal is rare example of broker bearing largest share of a settlement rather than insurers who wrote policies
+## Mastering Derivatives: Managing intraday futures positions
+It is best to manually close your futures position earlier to moderate execution risk
 
-## FCA plans to embrace AI to automate financial regulation
-UK watchdog will set out its response to the rise of the latest frontier models
+## Hai An Lines starts container service connecting Chennai with ports in China, Malaysia and Vietnam
+New service strengthens Chennai’s maritime links with South-East Asia and South China
 
-## How AI mega-rounds make life harder for VC firms
-Fewer-but-bigger deals mean investors are having to put more eggs in a single basket
+## Air India Express expands fleet to 110 aircraft ahead of winter schedule
+The airline is reshaping its fleet and network as aircraft transfers and a major retrofit programme prepare it for additional operations
 
-## Ramesh Chand panel to suggest solution for India’s sugarcane sector
-Apart from Chand, the other members of the committee are officials from agriculture, food and consumer affairs ministries — Agriculture Commissioner, Joint Secretary (Sugar), Joint Secretary (Legal Metrology), and Director (sugar).
+## India’s growth story balances economic development and environmental sustainability, says Siemens India
+Technology-driven opportunities across manufacturing, agriculture, transportation and power could help create scalable value in India’s emerging digital economy
 
-## Sensex today | Stock Market Live: Sensex jumps 1100 pts, Nifty near 22,950; TechM, HCL lead gainers
-Sensex, Nifty, Share Prices Live: Despite weak global cues where Korea's Kospi plunged over 7% and Japan's Nikkei fell 4% on US inflation data and pressure in AI stocks, domestic markets opened higher
+## Russia begins diesel exports after Trump deal amid global oil market concerns
+Russian diesel exports have started reaching global markets following an agreement with US President Donald Trump. The Kremlin stated that these supplies could help stabilize oil markets, but they will not suffice. Reports indicate that Russian shipments of diesel resumed from the Baltic port of Pri
 
-## Q2 Results Today Live: Wipro, Nestle, Tech Mahindra, Jio Financial, IRFC, Polycab, HDFC AMC, HDFC Life, Tata Communications, KVB, IIFL, Persistent Systems, 360 ONE WAM, Angel One to announce Q2 results, Tata Tech shares jump, ICICI Lombard, Leela Palaces, Tata Tech gain after Q2 results, CEAT, MRPL & Emmvee shares decline
-Q2 Results Today, 15th October 2026 Live Updates: Stay tuned to get real-time market, business and financial news updates
+## India’s Sept exports rise 23% as trade deficit narrows; shipments to US rise 11%
+India's merchandise exports rose to $44.40 billion in September 2026, marking a significant year-on-year increase. Overall exports, including services, also grew to an estimated $80.75 billion during this period. Despite rising imports to $94.05 billion, the merchandise trade deficit narrowed to $30
 
-## CCEA approves strategic restructuring of IDBI Bank, govt & LIC to get over ₹52,000 crore
-The government is offloading 30.48 per cent of its stake and expected to get over ₹26,500 crore, while LIC to sell 30.24 per cent and likely to get over ₹26,300 crore
+## No more guessing who's calling! Govt mandates caller ID display from November 1
+The Department of Telecommunications is preparing to roll out Calling Name Presentation, a feature that shows the caller's name in addition to their number on the recipient's screen. This functionality will first be implemented on 4G networks before extending to other versions. Users will have the c
 
-## CCEA approves IDBI Bank stake sale to Fairfax for ₹52,878 crore; govt, LIC to receive proceeds
-The successful bidder will be required to present its credentials to the Reserve Bank of India in accordance with the Fit and Proper Assessment conducted at the EoI stage
+## She bought Rs 13.5 lakh shares, sold them for Rs 77.47 lakh; ITAT deletes Rs 79 lakh additions
+A woman purchased 60,000 shares of a company Ltd between March 3 and March 15, 2011, for Rs 13,52,850, at Rs 22.55 per share. The company subsequently issued bonus shares in a 1:1 ratio, which increased her holding to 1.2 lakh shares. The woman sold the shares between August 31 and December 24, 2012
 
-## Stocks to watch today: LIC, Reliance, IDBI Bank, NLC India, Dr Reddy’s Lab, Morepen Lab
-Broad-based activity across state-owned and pharma stocks signals appetite for large-cap IPOs, strategic divestments, and new project wins in renewables, manufacturing, and infrastructure
+## India-US trade deal: First phase finalised, legal drafting under way, says Piyush Goyal
+According to Commerce Minister Piyush Goyal, India's trade agreement with the US has advanced to the legal drafting phase, aiming to grant India a competitive edge. The implementation of this pact is anticipated shortly. Meanwhile, negotiations for a free trade agreement with the European Union are 
 
-## IDBI Bank shares tumble 7.5% after ₹53,000-cr Fairfax deal
-Shares of IDBI Bank surged 9 per cent before the announcement on Wednesday, adding Rs 8,086 crore to its market valuation.
+## Direct tax mop-up rises 13.21% to Rs 13.38 lakh crore till October 14
+India's net direct tax collections reached Rs 13,37,866.98 crore for FY2026-27 as of October 14. Gross collections increased to Rs 16,03,066.12 crore, while refunds rose by 24.22 percent year-on-year. Net corporate tax receipts stood at Rs 5,99,062.48 crore, showing considerable growth from the prev
 
-## Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India
-The automaker also plans a dedicated investment entity, HMG India. The strategy also includes battery localisation, research partnerships and emerging mobility opportunities.
+## ‘Consistent with good practices’: IMF defends India's revised GDP calculation
+The International Monetary Fund has recognized India's updated approach to measuring gross domestic product, commending the Ministry of Statistics and Programme Implementation for enhancing GDP metrics. Amid strong economic performance and rising domestic demand, the IMF has also revised its growth 
 
-## Why are BSE Sensex, Nifty50 rallying today? Top reasons for rise
-Stock market rally today: Buying in IT, banking and consumer stocks lifted the stock market sentiment. At 10:36 AM, Nifty50 was trading at 22,915.15, up 292 points or 1.29%. BSE Sensex was at 73,777.19, up 995 points or 1.37%.
+## PM Modi inaugurates Rs 3,350 crore projects in Ladakh, including new Leh airport terminal
+Prime Minister Narendra Modi recently launched five pivotal projects in Ladakh aimed at advancing airport facilities and improving road connectivity. These projects feature a new terminal at Kushok Bakula Rimpochee Airport and the creation of the Nimmu-Padum-Darcha Road. The Hanu Hydroelectric Proje
 
-## Stock market today: BSE Sensex jumps over 1,000 points, Nifty50 nears 23,000 mark
+## ‘Chitta’ reaches faster than pizza, cold drink in Punjab: Sachin Pilot slams AAP, BJP over drug menace
+Congress' Punjab in-charge Sachin Pilot claimed that chemical drugs are coming into Punjab from across the border, Pakistan.
 
+## First tranche of India-US trade deal finalised, legal drafting under process, says Piyush Goyal
+Piyush Goyal also said FTA between India and the European Union will be inked in December and would come into force from February or March next year.
 
-## Top stocks: What are the top stock recommendations for October 15, 2026?
-Top stock market recommendations: Lemon Tree Hotels, Greenply Industries, and Fine Organic Industries - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth has picked these as the top stocks to buy today on October 15, 2026.
+## ‘US national, liable for prosecution’: Inside ‘leave India’ notice to Bollywood actor Imran Khan
+The notice states that Khan has allegedly contravened provisions of the Immigration and Foreigners Act, 2025, and the rules and orders made under it.
 
-## Oil prices fall $1 after touching three week high amid Middle East tensions
-Oil prices have dipped as investors assess potential shipping threats in the Strait of Hormuz. The uptick in prices was initially fueled by recent assaults on Saudi Aramco and provocations from Iran. The Trump administration is mulling over the possibility of loosening sanctions on oil vessels to al
+## Vijay’s TVK joins INDIA bloc protest against CEC Gyanesh Kumar for the first time
+The TVK’s participation in the protest comes days afterRahul Gandhi met Vijay in Chennai on October 10.
 
-## Watsa's Prem-ium play in finance sector
+## UP man accuses daughter-in-law, three others of poisoning son over property dispute
+UP man accuses daughter-in-law, three others of poisoning son over property dispute
 
+## Kerala HC suspends 4-year jail term of former DGP in disproportionate assets case
+The Kerala high court on Thursday suspended the four-year jail sentence awarded by a Vigilance court to former Director General of Police (DGP) Tomin J Thachankary
 
-## Government tops divestment target of 80k crore
+## Key govt depts to hold dedicated one-day cleanliness campaign drive: Centre
+Key govt depts to hold dedicated one-day cleanliness campaign drive: Centre
 
+## Abhijeet Dipke free to hold protest at Connaught Place tomorrow, Delhi Police assures HC of vigilance
+Cockroach Janta Party (CJP) founder Abhijeet Dipke called for a ‘Tiranga march’ at Central Park in Delhi’s Connaught Place on October 16.
 
-## Rupee rises for 4th day, up 19 paise vs dollar
+## Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds
+Hong Kong has emerged as the third best city in the world for wealthy individuals seeking to make philanthropic contributions over the medium term, trailing New York and Seoul, according to a study by Altrata. The inaugural Giving Opportunity Index by the US-based group that tracks the world’s afflu
 
+## HSBC to double Hong Kong AI team to 300, outpacing Singapore plan
+HSBC, Hong Kong’s biggest lender, said on Thursday it would double its artificial intelligence specialist team in the city to 300, a figure much larger than the workforce planned for its recently announced AI centre in Singapore. The announcement comes after Hong Kong’s regulators were reported to h
 
-## Jio Platforms files papers, IPO set to open on October 21
+## Hong Kong firm, Qatar bank to launch Chinese equity fund to lure Middle East capital
+China Asset Management (Hong Kong) and Qatar’s Lesha Bank agreed on Wednesday to launch Qatar’s first sharia-compliant China equity fund, highlighting growing efforts by Chinese financial institutions to lure Middle East capital as institutional investors and wealthy families seek safe havens amid g
 
-
-## Does India need stand-off missiles or more fighter jets?
-The Narendra Modi government,after Operation Sindoor,has realised that what India needs is proper anti-ballistic missile defence, long-range air-to-air missiles
-
-## Class 12 student killed, friend assaulted by group of 5 in west Delhi: Police
-The Delhi Police on Thursday said they apprehended three minors and arrested two men in connection with the case
-
-## US singer Mary Millben, CJP's Abhijeet Dipke trade barbs over 'foreign funding' amid anti-CEC protests in Delhi
-Mary Millben and Abhijeet Dipke found themselves in a row on social media over the US singer's claims that CJP was funded by American donors.
-
-## Can last-minute question papers stop exam leaks? Experts flag some challenges
-Nandan Nilekani, who heads the HPTF on examination reforms, also suggested expanding computer-based testing infrastructure in the country
-
-## Keralam to decide on PM SHRI scheme after sub-committee report: Minister Samsudheen
-Keralam to decide on PM SHRI scheme after sub-committee report: Minister Samsudheen
-
-## Karnataka 2023 recount case: ECI's rules on how long it keeps election CCTV footage, and who is allowed to see it
-Supreme Court pulled up ECI body over counting footage from Sringeri. Most recordings are now kept for 45 days and are closed to the public.
-
-## Over 1.6 lakh personnel will undertake population enumeration in TN
-Over 1.6 lakh personnel will undertake population enumeration in TN
-
-## YouTuber Dhruv Rathee gets fresh summons from Delhi court over 2018 defamation case linked to video on BJP IT cell
-In the video uploaded on his YouTube channel in 2018, Dhruv Rathee had alleged that members of the BJP's IT cell had tried to bribe Vikas Pandey to defame him.
+## China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion
+Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar industry. During the
 
 ## AI job losses set to rein in office demand in developed Asia-Pacific economies: report
 A mild displacement of jobs across the Asia-Pacific region as companies expand their use of AI would trim five percentage points off growth in office space demand in the next few years, according to property consultancy CBRE. In a report released on Thursday it said 3.9 per cent of office jobs were 
 
 ## HSBC launches discretionary portfolio management service for retail investors
-HSBC has launched a discretionary portfolio management service for retail investors with a minimum investment threshold as low as HK$1,000 (US$128) per month, as Hong Kong’s largest lender aims to attract younger, tech-savvy customers. The new service, named Portfolio+, allows HSBC’s retail banking 
+HSBC has launched a discretionary portfolio management service for retail investors with a minimum investment threshold as low as HK$1,000 (US$128) per month, as Hong Kong’s largest lender aims to attract younger, tech-savvy customers. The new service, “Portfolio+”, allows HSBC’s retail banking cust
 
 ## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
 Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
@@ -117,17 +135,8 @@ Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark o
 ## Li Ka-shing empire expands oil interests, turning heads in market
 As global capital flows towards clean energy and artificial intelligence, Hong Kong billionaire Li Ka-shing’s business group has expanded its oil exposure in a move analysts see as a buffer against geopolitical risks and a play for steady cash flow. The first major investment move by the widely watc
 
-## How Jardine Matheson’s street-shop sale reflects Hong Kong retail property’s struggles
-Amid Hong Kong’s commercial property downturn, British conglomerate Jardine Matheson has sold a street shop in Causeway Bay for HK$80 million (US$10.2 million) after holding it for more than 50 years, accepting a price HK$10 million below its earlier valuation. The property, a ground-floor shop in H
-
-## What does the historic Bank of America fine mean for US-China capital streams?
-As the US Treasury imposed historic fines on Bank of America over compliance failures involving Chinese money-laundering networks, analysts see the action as a signal that could prompt Western banks to tighten scrutiny of Chinese clients and cross-border transactions. The penalties, announced on Tue
-
-## Hesai launches 3D spatial camera as Chinese lidar maker expands into physical AI
-Hesai Group, the world’s largest maker of lidar sensors for vehicles, has launched a 3D spatial camera as it expands into physical artificial intelligence in search of new growth opportunities. The handheld device, called Kosmo, is described by Hesai as a “physical AI eye” and converts real-world en
-
-## Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report
-Yangtze Memory Technologies Corporation (YMTC), China’s leading flash-memory maker, is set to grow revenue six times faster than its industry peers this year as it expands into server-related business ahead of a planned initial public offering (IPO), according to Counterpoint Research. The company’s
+## The West Needs a Pax Biologica
+Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.
 
 ## Trump’s Midterm Strategy Harks Back to 1970
 Forget hearts and minds, this path to power revolves around appealing to hate and anger.
@@ -150,8 +159,17 @@ America needs to build more to achieve its energy goals of lower costs, greater 
 ## Modi’s Crackdown Is a Strategic Error
 The violent escalation is deepening public anger in India as voter list protests grow.
 
-## Why Hegseth Should Go
-The defense secretary puts stunts over substance. The U.S. should send him on permanent leave.
+## Vietnam Set to Sign Free Trade Pact With European Bloc This Week
+Hanoi also says that a reciprocal trade deal with the United States is nearing completion and should be signed soon.
+
+## What I Learned From a Year of Interviewing a Thai Sex Worker
+Decades of research have identified economic privation as a leading cause of entry into the country's illegal sex trade.
+
+## As Indonesian Fires Continue, Singapore Records Highest Air Pollution Reading Since 2015
+Jakarta is the focus of increasing criticism for its failure to contain – or prevent – the fires that continue to rage in Borneo and Sumatra.
+
+## China’s Advance in the Bahamas
+Beijing's presence in the Bahamas and its military implications for the U.S. are often overshadowed by discussion of Chinese activities elsewhere in the region.
 
 ## Brewing in Japan: Price-Fixing Probes Test Consumer Confidence
 The Japan Fair Trade Commission’s secretary general issued an unusual public warning against cartel-like activity amid rising prices.
@@ -165,17 +183,14 @@ By pressing Central Asian governments to protect Uyghurs and resist Beijing’s 
 ## Russia’s Arrest of a Japanese Journalist Deepens the Freeze in Japan-Russia Relations
 The case of Hokkaido Shimbun correspondent Imai Yuki could chill reporting from Russia’s Far East and narrow the space for even limited diplomatic engagement.
 
-## In Confronting China, The West Needs Partners in Southeast Asia
-A plan to confront Beijing without subsequent outreach toward Southeast Asian countries will sacrifice national imperatives for willing partners, and those are hard to come by.
+## Golden Dome Is Technologically and Financially Infeasible
+For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish — or even block — a ballistic missile attack. The appeal is obvious. A state that c
 
-## The Uyghurs Who Fought in Syria’s Civil War
-Insights from Emily Feng.
+## How Sudan Became a Laboratory for Drone Warfare, Thanks to Abu Dhabi
+In June 2026, I visited Khartoum, my hometown, for the first time since the war broke out in Sudan in April 2023. I left the city to seek safety with my family after the war spread into civilian neighborhoods. I never imagined I would return to the same city. I was very excited but also traumatized 
 
-## How Australia’s Gambling Lobby has Successfully Avoided Any Reform
-Political donations, lobbying, and community influence help gambling companies block major policy reforms and protect huge profits.
-
-## Can the China-US Detente Last?
-Competition can generate incentives for restraint, and restraint can create opportunities for further competition.
+## China’s Military Expansion in Southeast Asia Masks a More Complicated Reality
+The Chinese Ministry of Defense’s announcement of a “joint support and training center” at an airport in Ban Keun, Laos, on Sept. 29 drew attention to the People’s Liberation Army’s growing footprint in Southeast Asia. Although China does not call it a “base” and said it’s “not targeted at any third
 
 ## The Paradox of Victory: When Winning in Ukraine Raises the Nuclear Stakes
 In 2022, Jeremy Shapiro warned in “We Are on a Path to Nuclear War” that the war between Russia and Ukraine was heading toward nuclear escalation. Four years into the war, we asked him to revisit that argument.Image: Vyacheslav Argenberg via Wikimedia CommonsIn your original piece, you named nuclear
@@ -191,15 +206,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Building an Arsenal That Survives the Tenth Salvo
 America faces a well-defined industrial base problem. Whether it’s a hypothetical Taiwan invasion wargame run two dozen times, the current Iranian conflict, or the Russo-Ukrainian War, the same result repeats: Magazines of key weapons such as cruise missile systems and interceptors empty within days
-
-## How Taiwan Activates Beijing’s Chosen Fear
-The standard explanations for why Taiwan is so important to the Chinese Communist Party are familiar: territorial integrity, credibility of deterrence commitments, great power competition with the United States, the strategic value of the first island chain, and the semiconductor industry concentrat
-
-## Ground Robots Are Arriving on the Front Lines
-For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai
-
-## How China and America Can Move from Competition to Stability
-The American team thought it was signaling restraint. The Chinese team saw preparations for combat. In a closed-door Sino-American crisis simulation I helped organize in the 2010s — which the U.S. military funded as part of a long-term project — the Americans repositioned an aircraft carrier away fr
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?
-Yamal's 17 goal contributions after 10 games are more than Messi's in his Ballon d'Or-winning season as a teenager.
+## US-Iran stalemate: What are Trump’s next military options?
+Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.
 
-## Restoring nature is key to a more resilient future
-At COP17 and COP31, governments must accelerate positive tipping points in energy, food and finance.
+## Syrian authorities arrest main suspect in 2013 Baniyas mass killings
+Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
 
-## Israel has detained more than 2,000 Palestinian children since 2023: report
-At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.
+## Fighting in Yemen intensifies: What’s the latest on the battlefield?
+Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
 
-## Heavy rain causes mass pileup in Brazil tunnel
-Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.
+## FIFA set for rule change after Balogun red card row at the World Cup: reports
+The governing body's council is expected to prohibit disciplinary committees from overturning match suspensions.
 
-## X suspends 13,000 accounts, alleging foreign influence ahead of US midterms
-The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.
+## Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks
+The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.
 
-## Argentina’s Milei backs Trump for US midterms, calls vote crucial for West
-The US President's ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.
+## Dozens of children killed after roof collapses in Pakistani school
+At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
 
-## Albanian Ministry of Justice on fire as education protesters riot
-Hundreds of students joined anti-government protests in Tirana, demanding education reforms.
+## Russia says Ukraine resumes attacks on oil refineries
+Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.
 
-## OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia
-Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.
+## Long-delayed China-North Korea bridge officially opens
+China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.
+
+## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
+New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
 
 ## IDBI Bank: From Kingfisher's wreckage to Fairfax's big bet
 Finally, the much-awaited deal involving IDBI Bank has gone through. For Rs 52,878 crore, Canadian giant Fairfax will take control of the marquee headquarters of IDBI Bank, standing tall near the crashing waves at Cuffe Parade. This is great news for IDBI, the government, Fairfax and the entire bank
@@ -269,9 +278,6 @@ India is proactively gathering insights on the trade hurdles faced by its servic
 
 ## GST e-invoicing may cover services imports from unregistered companies
 The Indian government is set to enhance GST reporting for imported services through e-invoicing. This expansion will affect businesses with an annual turnover exceeding ₹5 crore. Companies will need to modify their documentation processes to comply with the new regulations. Proposed changes aim to r
-
-## Pressure on rupee may continue after temporary gains on RBI actions, say economists
-The Reserve Bank of India has implemented emergency measures to stabilize the rupee, which is facing strong global pressure. Analysts indicate that the rupee may continue to decline despite these efforts. The rupee's drop is influenced by rising US bond yields and significant foreign investment outf
 
 ## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
 The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
