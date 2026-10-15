@@ -1,64 +1,70 @@
 # AION Intelligence
 
+## Commercial goods blocked from entry into Gaza
+Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave
+
+## Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks
+CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns
+
+## Treasuries rally as investors seek shelter from AI turbulence
+Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom
+
+## Healey signals bank tax raid in UK Budget
+Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies
+
+## Bankers and advisers set for £334mn easyJet payout
+Fees make Apollo’s £5.7bn takeover of airline one of the City’s most lucrative acquisitions this year
+
+## Criminals stole $90mn of crypto by hiding password readers in USB-like devices
+Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen
+
 ## Trump cancels Hegseth’s plan to livestream execution after backlash
 US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009
 
-## In AI-dominated markets, LatAm debt is a diversifier
-A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds
-
-## Mercuria adds first copper to US Project Vault stockpile
-Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals
-
-## Hold philanthropists accountable when their projects fail
-Despite disappointing results, an African agricultural initiative funded by prominent foundations is being recapitalised
-
-## Former Everton bidder Josh Wander to plead guilty in US fraud case
-777 Partners co-founder expected to change plea one day before trial over alleged scheme to defraud investors and lenders
-
-## Saudi events delayed after Houthi attacks
-EU-Gulf meeting and Formula 1 race among those postponed following missile strikes on Riyadh airport
-
-## Treasuries rally as investors seek shelter from AI turbulence
-Global chip stocks hit with two-day sell-off amid fears over sustainability of AI boom
-
-## Monte dei Paschi should try the ‘just say maybe’ bid defence
-Even a much-weakened MPS could try to argue that it deserves a better deal
+## France and Germany to allow UK to join EU car policy if it aligns on China tariffs
+Paris and Berlin near deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout
 
 ## Investors dump data centre bonds as AI borrowers face ‘Darwin moment’
-Debt issued by AI infrastructure providers and neocloud companies has sunk towards stressed territory
+Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels
 
-## Anglo American chief says tech giants show ‘deep interest’ in mining stakes
-Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals
+## Harvard endowment returns surge on back of AI and SpaceX investments
+Ivy League university’s $68bn fund gained 27.1% in its second-best annual performance on record as private capital holdings rebound
 
-## Thames Water’s senior creditors near deal with rivals to avoid court challenge
-Bondholders set to grant slice of equity to junior creditors to smooth path of utility takeover
+## Risk of an AI crunch for stock markets is rising
+The tremor seen this week could be a foretaste of things to come
 
-## France and Germany to allow UK to join EU car policy if it aligns on China tariffs
-Paris and Berlin strike deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout
+## Insurance brokers oppose new reforms as commission cuts may lead to job losses
+The association also questioned whether the proposed measures would enhance policyholder choice and freedom
 
-## Black Opal Consultants IPO: Subscribed 69 times so far
-The IPO was offered in a price band of ₹185 to ₹197 per equity share, with a lot size of 600 equity shares
+## Deadline extension, airline incentives to resolve Mumbai airport standoff
+Uniform passenger fee at Mumbai and Navi Mumbai airports proposed
 
-## India's economy strong; energy security, jobs key to lasting growth: Tata Sons' Chandrasekaran
-Chandrasekaran said India's growth is being driven by strong domestic demand, services exports and an enabling policy environment from the government, and observed that it is fair to say the indicators are strong
+## Nandini milk price set to rise by ₹8 as rising feed costs squeeze dairy unions
+Dairy unions have sought higher prices as cattle feed, fodder, veterinary medicines, processing, transportation and packaging costs continue to rise
 
-## India-EU trade deal to boost exports, jobs in labour-intensive sectors: Sitharaman
-India has opened 92.5 per cent of tariff lines and around 97 per cent of tariff value under the agreement.
+## NASSCOM proposes structural rationalisation of GST norms for Head-to-Branch Office transactions
+NASSCOM asked to delete the new definition of ‘export’ that excludes services between establishments
 
-## Letters to the Editor dated October 15, 2026
+## 4.9-magnitude earthquake hits Uttarakhand’s Chamoli, tremors felt in Delhi
+The National Center for Seismology said the quake struck at 10:23 pm, with its epicentre located 13 km deep
 
+## JioHotstar expands to Middle Eastern and North African markets
+Following its launch in the UK, Canada and Singapore, JioHotstar has partnered with STARZPLAY to rope in audiences across the Middle East and North Africa
 
-## Editorial. A fair deal
-IDBI Bank sale to foreign owner is a significant move
+## Mphasis extends £35.4 m contract with Social Security Scotland
+Social Security Scotland is one of the largest executive agencies of the Scottish Government, responsible for delivering core benefits to people across Scotland efficiently and securely.
 
-## UCO Bank Q2 net jumps 26.76% at ₹785.64 crore, aims at 12-14% credit growth for FY27
-Net interest margin on a global basis held at 3.00 per cent compared with 2.90 per cent in the year-ago period
+## ElevenLabs, Karnataka join hands to advance voice AI adoption
+The Bengaluru summit also outlined language expansion, voice restoration and tools for seniors and mental-health training
 
-## Constructive ongoing dialogues between BARC, IBDF and the Government for BARC ratings: Gaurav Banerjee
-Looking at the industry at large, Banerjee stressed focus on IP building and talent discovery as clear priorities across television, digital, gaming, animation
+## India’s current account deficit narrows to $5.2 billion in August, RBI data shows
+India's overall balance of payments showed a surplus of $45.4 billion in August 2026. This significant surplus is attributed to an increase in foreign currency inflows, especially from non-resident Indian deposits. The current account deficit also narrowed slightly to $5.2 billion during the same mo
 
-## UCIL to contribute significantly to India's nuclear energy expansion plan: Official
-UCIL, at its Jaduguda event, pledges leadership in India’s nuclear energy expansion, highlighting safety, innovation, and new facilities development
+## Flat redeveloped and sold for Rs 1.95 crore in 8 days; taxman denies LTCG, ITAT grants relief
+The man had purchased a 510-square-foot flat in a housing society in Mumbai, during FY 2006-07, where he lived with his wife. Many years later, in FY 2012-13, the housing society entered into a redevelopment agreement with a builder. The builder handed over the redeveloped flat to the man after the 
+
+## India-China trade jumps 29% to $91.76 billion, overtakes US in first half of FY27
+India's bilateral trade with China rose significantly in the first half of the financial year. Trade with the US also increased, although the surplus narrowed. Exports to various countries, including Singapore and Tanzania, showed substantial growth. However, imports from some nations declined durin
 
 ## Rs 1 crore-plus salaries: Amid layoffs, which Indian IT jobs are getting huge salary premiums?
 Even as restructuring and layoffs happen, some jobs in the IT sector are getting paid well - and across levels whether entry or senior. Which roles are in demand? What are the average salary levels for special capability sets and which roles are under pressure? The premium concentrates in four famil
@@ -75,38 +81,29 @@ The Department of Telecommunications is preparing to roll out Calling Name Prese
 ## She bought Rs 13.5 lakh shares, sold them for Rs 77.47 lakh; ITAT deletes Rs 79 lakh additions
 A woman purchased 60,000 shares of a company Ltd between March 3 and March 15, 2011, for Rs 13,52,850, at Rs 22.55 per share. The company subsequently issued bonus shares in a 1:1 ratio, which increased her holding to 1.2 lakh shares. The woman sold the shares between August 31 and December 24, 2012
 
-## India-US trade deal: First phase finalised, legal drafting under way, says Piyush Goyal
-According to Commerce Minister Piyush Goyal, India's trade agreement with the US has advanced to the legal drafting phase, aiming to grant India a competitive edge. The implementation of this pact is anticipated shortly. Meanwhile, negotiations for a free trade agreement with the European Union are 
+## Delhi: Customs officials seize 148 kg of suspected cannabis hidden in plastic spools
+The consignment had been declared as PU tubes and packed in 19 cartons. It was placed on hold after officers suspected a misdeclaration.
 
-## Direct tax mop-up rises 13.21% to Rs 13.38 lakh crore till October 14
-India's net direct tax collections reached Rs 13,37,866.98 crore for FY2026-27 as of October 14. Gross collections increased to Rs 16,03,066.12 crore, while refunds rose by 24.22 percent year-on-year. Net corporate tax receipts stood at Rs 5,99,062.48 crore, showing considerable growth from the prev
+## Unacceptable interference: Indian envoy rejects US lawmaker's ‘purging 130 million from voter rolls’ remark
+US Congresswoman Pramila Jayapal raised concerns over reports that 13 crore names were removed from India's voter rolls during the SIR exercise.
 
-## ‘Consistent with good practices’: IMF defends India's revised GDP calculation
-The International Monetary Fund has recognized India's updated approach to measuring gross domestic product, commending the Ministry of Statistics and Programme Implementation for enhancing GDP metrics. Amid strong economic performance and rising domestic demand, the IMF has also revised its growth 
+## Four workers killed in explosion at chemical manufacturing unit in Gujarat’s Gandhinagar
+Four workers killed in an explosion at chemical manufacturing unit in Chhatral GIDC in Gujarat’s Gandhinagar district, Gandhinagar SP Ravi Teja Vasamsetty said.
+
+## Over 6,000 cops on duty, barricades in place: Delhi gears up for CJP march
+Police said more than 10 CCTV cameras had been installed in and around the Central Park and Rajiv Chowk areas ahead of the march.
+
+## Ankita Bhandari’s parents picked up at 4am, Rahul Gandhi accuses Centre of silencing them
+Rahul Gandhi accused the Narendra Modi government of trying to “silence” the parents of Ankita Bhandari, who were allegedly taken into custody at 4am
+
+## ECI directs officers to provide political parties with searchable PDF voter rolls
+The Election Commission has directed officers to provide recognised political parties with searchable PDF copies of draft and final voter rolls, excluding voters’ photographs.
 
 ## Dead fish in Yamuna near Burari raise alarm over Delhi river’s water quality
 Several dead fish spotted along Yamuna near Burari in north Delhi since Wednesday night, raising concerns over the river’s water quality
 
 ## Kuki woman killed, two missing after gunfight breaks out in Manipur’s Kamjong: Police
 Kuki woman was reportedly killed, two others went missing following a gunfight between Kuki and Naga groups in Manipur’s Kamjong district on Thursday, police said
-
-## Cockroach effigy to burn alongside Raavan's at Delhi's Ramlila Ground amid CJP protests
-The decision comes as the Cockroach Janata Party (CJP) has been holding protests in the national capital.
-
-## SC to issue orders on preventive steps taken by Centre to curb online child sexual abuse content
-SC agreed to issue orders on preventive steps to be taken by the Centre and other stakeholders against child sexual exploitative and abuse material (CSEAM) online
-
-## Guwahati gets northeast’s first visa application centre, will ease travel hassles, says CM Himanta
-Set up by VFS Global within the Inter-State Bus Terminal (ISBT) complex at Khanapara, the centre will enable residents of Assam and the northeast to apply for visas
-
-## Assam University assistant professor booked for molesting woman researcher in Bengaluru: Police
-Assistant professor at Assam University was booked for allegedly molesting a woman researcher during a conference held in Bengaluru
-
-## Thieves break into Ambala government school twice, steal gas cylinders, food supplies, utensils
-The thefts at a mid-day meal storage room in Dhurkada included four gas cylinders, 50 steel tumblers and cooking vessels.
-
-## Woman can face gang rape charge without personally committing the act, says Delhi HC
-The Delhi high court on Friday held that a woman can be charged with the offence of gang rape even if she has not personally committed the act of rape.
 
 ## Hong Kong plans just 2 land sales this quarter despite housing rebound
 The Hong Kong government will release two parcels of land for sale – one for a residential development and another for a student hostel project – in the October to December quarter, as officials maintain a cautious stance towards housing supply even as the market rebounds. One residential site – an 
@@ -132,6 +129,12 @@ HSBC has launched a discretionary portfolio management service for retail invest
 ## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
 Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
 
+## USAID’s Destruction Left Nepal Dangerously Exposed
+Funding cuts ended critical flood-detection programs.
+
+## Algeria’s New Bid for Regional Influence
+A sharp break with the UAE underscores the North African country’s ambitions to reassert its presence on the international stage after decades on the periphery.
+
 ## Why Spain Is Standing Up to Trump
 Foreign Minister Albares: “We believe in international law.”
 
@@ -149,12 +152,6 @@ The North African country seeks to reclaim its status as a security mediator in 
 
 ## Now We’re Seeing the Extent of American Decay
 From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.
-
-## Surprise Starlink Cuts Blindside Kyiv
-Signal failures have already disrupted several Ukrainian missions.
-
-## India’s Voter Roll Protests Swell
-Modi’s government faces a growing challenge as Cockroach movement proves durable.
 
 ## OPCON Transition: Now It Is Time for the Commanders-in-Chief
 It’s time for the OPCON transition process to move beyond military assessments into the realm of political responsibility.
@@ -180,6 +177,9 @@ The Japan Fair Trade Commission’s secretary general issued an unusual public w
 ## The Trump-Xi Summit Exposed the Problems in China-US Crisis Management
 Military communication channels become bargaining chips precisely when a crisis makes them indispensable.
 
+## Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?
+Since the end of World War II, the United States has maintained hundreds of military installations abroad. While U.S. forces have faced some objections to their presence, many allies and partners have seen U.S. bases and other facilities on their territory as a sign of their close relations with a s
+
 ## Golden Dome Is Technologically and Financially Infeasible
 For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish — or even block — a ballistic missile attack. The appeal is obvious. A state that c
 
@@ -200,9 +200,6 @@ Advancing military AI capability is a priority for the United Kingdom, and in re
 
 ## Doubts Grow Over the Terms of Ukraine’s European Union Accession
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
-
-## Building an Arsenal That Survives the Tenth Salvo
-America faces a well-defined industrial base problem. Whether it’s a hypothetical Taiwan invasion wargame run two dozen times, the current Iranian conflict, or the Russo-Ukrainian War, the same result repeats: Magazines of key weapons such as cruise missile systems and interceptors empty within days
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What is the ‘Mother of All Bombs’ US could use in Iran?
-US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)
+## Dying in ICE custody: Inside one family’s story of heartbreak
+Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
 
-## Syrian court sentences two to death over 2025 coastal violence
-Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.
+## Ethiopian forces expand control in Tigray as militia claims Eritrean losses
+Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
 
-## French football body urges fans and students to keep politics out of stadiums
-French Football Federation's ethics body calls for neutrality amid student protests.
+## Ahead of US midterms, voters are frustrated with Trump, want change: Poll
+Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.
 
-## Delegates walk out as Israeli president addresses summit
-Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku
+## Trump ramps up third-country US deportations despite global rights outcry
+Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.
 
-## Russian jet-powered drone hits supermarket in Ukraine’s Odesa
-Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.
+## A mother’s touch helps premature babies grow strong in Gaza
+At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.
 
-## US teen held over Hindu temple attack plot: Is anti-Indian racism rising?
-Illinois teen who allegedly said he 'couldn’t wait' to kill Indians is arrested over a Hindu temple attack plot.
+## Pope Leo resumes work in hospital while recovering from surgery
+Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.
 
-## Trump says Fort Hood US shooter execution will not be livestreamed
-US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
+## DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda
+Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.
 
-## ‘Boiling point’: Why students are protesting against Albania’s Edi Rama
-Experts say Albania’s protests reflect ignored student grievances and growing frustration.
+## Dying in Detention
+Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.
 
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
