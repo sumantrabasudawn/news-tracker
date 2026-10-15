@@ -1,37 +1,40 @@
 # AION Intelligence
 
+## Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’
+A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade
+
+## Farage accused of ‘protecting’ mayoral candidate who allegedly made racist comments
+Senior aide to Reform UK leader pushed to have Chris Parry thrown out of the party, according to TV documentary
+
+## How India lost more than 100mn voters
+Critics say ‘aggressive’ review wrongly deleted eligible voters, many of them Muslim, and may have benefited PM Modi’s party
+
+## 777 Partners’ Josh Wander pleads guilty to fraud charges
+Financier who tried to buy Everton FC changes plea on eve of trial
+
+## Treasuries rally as investors seek shelter from AI turbulence
+Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom
+
 ## Commercial goods blocked from entry into Gaza
 Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave
 
 ## Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks
 CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns
 
-## Treasuries rally as investors seek shelter from AI turbulence
-Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom
-
-## Healey signals bank tax raid in UK Budget
+## Healey signals tax raid on banks in UK Budget
 Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies
 
-## Bankers and advisers set for £334mn easyJet payout
-Fees make Apollo’s £5.7bn takeover of airline one of the City’s most lucrative acquisitions this year
+## Harvard’s endowment returns surge on back of AI and SpaceX investments
+Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound
 
-## Criminals stole $90mn of crypto by hiding password readers in USB-like devices
-Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen
+## Meta and Apple team up on AI model tailored for Mac computers
+Partnership between Big Tech rivals offers ‘open’ system that users can download to their own devices
 
-## Trump cancels Hegseth’s plan to livestream execution after backlash
-US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009
-
-## France and Germany to allow UK to join EU car policy if it aligns on China tariffs
-Paris and Berlin near deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout
+## The AI boom stumbles
+Should investors prepare for an AI bust? And if so, how?
 
 ## Investors dump data centre bonds as AI borrowers face ‘Darwin moment’
 Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels
-
-## Harvard endowment returns surge on back of AI and SpaceX investments
-Ivy League university’s $68bn fund gained 27.1% in its second-best annual performance on record as private capital holdings rebound
-
-## Risk of an AI crunch for stock markets is rising
-The tremor seen this week could be a foretaste of things to come
 
 ## Insurance brokers oppose new reforms as commission cuts may lead to job losses
 The association also questioned whether the proposed measures would enhance policyholder choice and freedom
@@ -57,6 +60,9 @@ Social Security Scotland is one of the largest executive agencies of the Scottis
 ## ElevenLabs, Karnataka join hands to advance voice AI adoption
 The Bengaluru summit also outlined language expansion, voice restoration and tools for seniors and mental-health training
 
+## After Jio's listing, RIL could topple Tata as India's most valuable group
+
+
 ## India’s current account deficit narrows to $5.2 billion in August, RBI data shows
 India's overall balance of payments showed a surplus of $45.4 billion in August 2026. This significant surplus is attributed to an increase in foreign currency inflows, especially from non-resident Indian deposits. The current account deficit also narrowed slightly to $5.2 billion during the same mo
 
@@ -77,9 +83,6 @@ India's merchandise exports rose to $44.40 billion in September 2026, marking a 
 
 ## No more guessing who's calling! Govt mandates caller ID display from November 1
 The Department of Telecommunications is preparing to roll out Calling Name Presentation, a feature that shows the caller's name in addition to their number on the recipient's screen. This functionality will first be implemented on 4G networks before extending to other versions. Users will have the c
-
-## She bought Rs 13.5 lakh shares, sold them for Rs 77.47 lakh; ITAT deletes Rs 79 lakh additions
-A woman purchased 60,000 shares of a company Ltd between March 3 and March 15, 2011, for Rs 13,52,850, at Rs 22.55 per share. The company subsequently issued bonus shares in a 1:1 ratio, which increased her holding to 1.2 lakh shares. The woman sold the shares between August 31 and December 24, 2012
 
 ## Delhi: Customs officials seize 148 kg of suspected cannabis hidden in plastic spools
 The consignment had been declared as PU tubes and packed in 19 cartons. It was placed on hold after officers suspected a misdeclaration.
@@ -129,6 +132,15 @@ HSBC has launched a discretionary portfolio management service for retail invest
 ## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
 Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
 
+## A Tale of Two Elon Musk Fights
+Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.
+
+## Ukraine Resumes Strikes on Russian Oil Refineries
+Zelensky directly defies Trump.
+
+## Can Ukraine Afford Its Own Defense?
+Ukraine has leaned on Europe for support so far, but that may get more complicated in the coming years.
+
 ## USAID’s Destruction Left Nepal Dangerously Exposed
 Funding cuts ended critical flood-detection programs.
 
@@ -143,15 +155,6 @@ Western powers are scrambling for monazite ore—but can they handle it?
 
 ## The West Needs a Pax Biologica
 Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.
-
-## Trump’s Midterm Strategy Harks Back to 1970
-Forget hearts and minds, this path to power revolves around appealing to hate and anger.
-
-## Algeria Sets Its Sights on the Sahel
-The North African country seeks to reclaim its status as a security mediator in the region.
-
-## Now We’re Seeing the Extent of American Decay
-From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.
 
 ## OPCON Transition: Now It Is Time for the Commanders-in-Chief
 It’s time for the OPCON transition process to move beyond military assessments into the realm of political responsibility.
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Dying in ICE custody: Inside one family’s story of heartbreak
-Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
+## At least 4, including 3 children, killed in US elementary school shooting
+Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
 
-## Ethiopian forces expand control in Tigray as militia claims Eritrean losses
-Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
+## Israel halts commercial goods from entering Gaza; Hamas denies tax claims
+The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
 
-## Ahead of US midterms, voters are frustrated with Trump, want change: Poll
-Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.
+## Man United’s Martinez apologises for outburst after talks with Carrick
+Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
 
-## Trump ramps up third-country US deportations despite global rights outcry
-Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.
+## Trump administration sues California over noncitizens on voter rolls
+Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
 
-## A mother’s touch helps premature babies grow strong in Gaza
-At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.
+## Several people dead or missing after Istanbul floods
+Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul
 
-## Pope Leo resumes work in hospital while recovering from surgery
-Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.
+## Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices
+An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.
 
-## DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda
-Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.
+## ICE tactics spark debate before pivotal US midterm elections
+Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.
 
-## Dying in Detention
-Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.
+## Robots dance the ‘Macarena’ at Japan tech expo
+Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan.
 
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
