@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## Global stocks sell-off deepens as chipmakers tumble
-European and Asian equities slide as investors question durability of AI boom
+## Trump cancels Hegseth’s plan to livestream execution after backlash
+US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009
 
-## How the Greens lost their party to the hard left
-The drift from climate politics towards becoming a portmanteau party of the left heralds a nastier, less consensual era
+## In AI-dominated markets, LatAm debt is a diversifier
+A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds
 
-## Credit Suisse bankers denied bonuses stripped after UBS takeover
-Switzerland’s top court sides with government decision, overturning ruling of lower court
+## Mercuria adds first copper to US Project Vault stockpile
+Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals
 
-## Russia suspected of striking two tankers in Nato waters
-Chemical tankers go up in flames off Romania after Russian drones were spotted in the area
+## Hold philanthropists accountable when their projects fail
+Despite disappointing results, an African agricultural initiative funded by prominent foundations is being recapitalised
 
-## Northern Ireland politician sentenced to 15 years in jail for child sex crimes
-Jeffrey Donaldson, former leader of the Democratic Unionist Party, had a ‘catastrophic descent into disgrace’, says judge
+## Former Everton bidder Josh Wander to plead guilty in US fraud case
+777 Partners co-founder expected to change plea one day before trial over alleged scheme to defraud investors and lenders
 
-## Six must-see shows in Paris this autumn
-Among the standout art exhibitions are retrospectives for impressionists Eva Gonzalès and Mary Cassatt, and Yu Nishimura’s first major European outing
-
-## American Hagwon — lessons in the immigrant experience
-Min Jin Lee’s new family saga follows a Korean-American clan across continents, exploring education, ambition and their pursuit of belonging
-
-## Wave of Saudi Arabia events delayed after Houthi attacks
+## Saudi events delayed after Houthi attacks
 EU-Gulf meeting and Formula 1 race among those postponed following missile strikes on Riyadh airport
 
-## Second activist pushes for sale of UK self-storage company Big Yellow
-Irenic Capital takes 4% stake in FTSE 250 real estate group and joins Ancora in lobbying for a sale
+## Treasuries rally as investors seek shelter from AI turbulence
+Global chip stocks hit with two-day sell-off amid fears over sustainability of AI boom
 
-## Why clean energy hasn’t yet lowered your power bill
-The rapid build-out of solar and wind has promised a future of cheaper electricity
+## Monte dei Paschi should try the ‘just say maybe’ bid defence
+Even a much-weakened MPS could try to argue that it deserves a better deal
 
-## New ‘zero-click’ spyware hacked phones using targeted ads
-Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique that requires no interaction from victim to infect devices
+## Investors dump data centre bonds as AI borrowers face ‘Darwin moment’
+Debt issued by AI infrastructure providers and neocloud companies has sunk towards stressed territory
 
-## FirstFT: Ukraine to resume strikes on Russian refineries, Zelenskyy says
-Also in today’s newsletter: tech sell-off deepens and Anthropic’s revenues increase more slowly than expected
+## Anglo American chief says tech giants show ‘deep interest’ in mining stakes
+Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals
 
-## CoreWeave’s bonds scream financial distress
-The company better hurry up figuring out how to tap insurers for cash
+## Thames Water’s senior creditors near deal with rivals to avoid court challenge
+Bondholders set to grant slice of equity to junior creditors to smooth path of utility takeover
 
-## 5 public sector banks post 15-25% credit growth in Q2FY27
-Credit demand remained firm across agriculture, industry, services and personal loans, according to the latest RBI sectoral data
+## France and Germany to allow UK to join EU car policy if it aligns on China tariffs
+Paris and Berlin strike deal on bloc’s ‘Made in Europe’ subsidy programme and combustion engine phaseout
 
-## Anthropic said to target mega-IPO before thanksgiving holiday
-The firm behind Claude could begin formal IPO marketing as early as the week of Nov. 9, targeting trading before Thanksgiving
+## Black Opal Consultants IPO: Subscribed 69 times so far
+The IPO was offered in a price band of ₹185 to ₹197 per equity share, with a lot size of 600 equity shares
 
-## Russia to take 70,000 Indian skilled workers this year, Jaishankar tells parliamentary panel
-Jaishankar briefed the parliamentary committee on trade, investment, energy cooperation, Ukraine conflict and efforts to secure Indians serving in Russia
+## India's economy strong; energy security, jobs key to lasting growth: Tata Sons' Chandrasekaran
+Chandrasekaran said India's growth is being driven by strong domestic demand, services exports and an enabling policy environment from the government, and observed that it is fair to say the indicators are strong
 
-## Marco Rubio to visit Reliance’s Jamnagar refinery during India trip, says US envoy
-The US secretary of state is expected to meet Indian officials and Reliance representatives as Washington seeks to deepen bilateral energy cooperation.
+## India-EU trade deal to boost exports, jobs in labour-intensive sectors: Sitharaman
+India has opened 92.5 per cent of tariff lines and around 97 per cent of tariff value under the agreement.
 
-## Mastering Derivatives: Managing intraday futures positions
-It is best to manually close your futures position earlier to moderate execution risk
+## Letters to the Editor dated October 15, 2026
 
-## Hai An Lines starts container service connecting Chennai with ports in China, Malaysia and Vietnam
-New service strengthens Chennai’s maritime links with South-East Asia and South China
 
-## Air India Express expands fleet to 110 aircraft ahead of winter schedule
-The airline is reshaping its fleet and network as aircraft transfers and a major retrofit programme prepare it for additional operations
+## Editorial. A fair deal
+IDBI Bank sale to foreign owner is a significant move
 
-## India’s growth story balances economic development and environmental sustainability, says Siemens India
-Technology-driven opportunities across manufacturing, agriculture, transportation and power could help create scalable value in India’s emerging digital economy
+## UCO Bank Q2 net jumps 26.76% at ₹785.64 crore, aims at 12-14% credit growth for FY27
+Net interest margin on a global basis held at 3.00 per cent compared with 2.90 per cent in the year-ago period
+
+## Constructive ongoing dialogues between BARC, IBDF and the Government for BARC ratings: Gaurav Banerjee
+Looking at the industry at large, Banerjee stressed focus on IP building and talent discovery as clear priorities across television, digital, gaming, animation
+
+## UCIL to contribute significantly to India's nuclear energy expansion plan: Official
+UCIL, at its Jaduguda event, pledges leadership in India’s nuclear energy expansion, highlighting safety, innovation, and new facilities development
+
+## Rs 1 crore-plus salaries: Amid layoffs, which Indian IT jobs are getting huge salary premiums?
+Even as restructuring and layoffs happen, some jobs in the IT sector are getting paid well - and across levels whether entry or senior. Which roles are in demand? What are the average salary levels for special capability sets and which roles are under pressure? The premium concentrates in four famil
 
 ## Russia begins diesel exports after Trump deal amid global oil market concerns
 Russian diesel exports have started reaching global markets following an agreement with US President Donald Trump. The Kremlin stated that these supplies could help stabilize oil markets, but they will not suffice. Reports indicate that Russian shipments of diesel resumed from the Baltic port of Pri
@@ -84,32 +84,32 @@ India's net direct tax collections reached Rs 13,37,866.98 crore for FY2026-27 a
 ## ‘Consistent with good practices’: IMF defends India's revised GDP calculation
 The International Monetary Fund has recognized India's updated approach to measuring gross domestic product, commending the Ministry of Statistics and Programme Implementation for enhancing GDP metrics. Amid strong economic performance and rising domestic demand, the IMF has also revised its growth 
 
-## PM Modi inaugurates Rs 3,350 crore projects in Ladakh, including new Leh airport terminal
-Prime Minister Narendra Modi recently launched five pivotal projects in Ladakh aimed at advancing airport facilities and improving road connectivity. These projects feature a new terminal at Kushok Bakula Rimpochee Airport and the creation of the Nimmu-Padum-Darcha Road. The Hanu Hydroelectric Proje
+## Dead fish in Yamuna near Burari raise alarm over Delhi river’s water quality
+Several dead fish spotted along Yamuna near Burari in north Delhi since Wednesday night, raising concerns over the river’s water quality
 
-## ‘Chitta’ reaches faster than pizza, cold drink in Punjab: Sachin Pilot slams AAP, BJP over drug menace
-Congress' Punjab in-charge Sachin Pilot claimed that chemical drugs are coming into Punjab from across the border, Pakistan.
+## Kuki woman killed, two missing after gunfight breaks out in Manipur’s Kamjong: Police
+Kuki woman was reportedly killed, two others went missing following a gunfight between Kuki and Naga groups in Manipur’s Kamjong district on Thursday, police said
 
-## First tranche of India-US trade deal finalised, legal drafting under process, says Piyush Goyal
-Piyush Goyal also said FTA between India and the European Union will be inked in December and would come into force from February or March next year.
+## Cockroach effigy to burn alongside Raavan's at Delhi's Ramlila Ground amid CJP protests
+The decision comes as the Cockroach Janata Party (CJP) has been holding protests in the national capital.
 
-## ‘US national, liable for prosecution’: Inside ‘leave India’ notice to Bollywood actor Imran Khan
-The notice states that Khan has allegedly contravened provisions of the Immigration and Foreigners Act, 2025, and the rules and orders made under it.
+## SC to issue orders on preventive steps taken by Centre to curb online child sexual abuse content
+SC agreed to issue orders on preventive steps to be taken by the Centre and other stakeholders against child sexual exploitative and abuse material (CSEAM) online
 
-## Vijay’s TVK joins INDIA bloc protest against CEC Gyanesh Kumar for the first time
-The TVK’s participation in the protest comes days afterRahul Gandhi met Vijay in Chennai on October 10.
+## Guwahati gets northeast’s first visa application centre, will ease travel hassles, says CM Himanta
+Set up by VFS Global within the Inter-State Bus Terminal (ISBT) complex at Khanapara, the centre will enable residents of Assam and the northeast to apply for visas
 
-## UP man accuses daughter-in-law, three others of poisoning son over property dispute
-UP man accuses daughter-in-law, three others of poisoning son over property dispute
+## Assam University assistant professor booked for molesting woman researcher in Bengaluru: Police
+Assistant professor at Assam University was booked for allegedly molesting a woman researcher during a conference held in Bengaluru
 
-## Kerala HC suspends 4-year jail term of former DGP in disproportionate assets case
-The Kerala high court on Thursday suspended the four-year jail sentence awarded by a Vigilance court to former Director General of Police (DGP) Tomin J Thachankary
+## Thieves break into Ambala government school twice, steal gas cylinders, food supplies, utensils
+The thefts at a mid-day meal storage room in Dhurkada included four gas cylinders, 50 steel tumblers and cooking vessels.
 
-## Key govt depts to hold dedicated one-day cleanliness campaign drive: Centre
-Key govt depts to hold dedicated one-day cleanliness campaign drive: Centre
+## Woman can face gang rape charge without personally committing the act, says Delhi HC
+The Delhi high court on Friday held that a woman can be charged with the offence of gang rape even if she has not personally committed the act of rape.
 
-## Abhijeet Dipke free to hold protest at Connaught Place tomorrow, Delhi Police assures HC of vigilance
-Cockroach Janta Party (CJP) founder Abhijeet Dipke called for a ‘Tiranga march’ at Central Park in Delhi’s Connaught Place on October 16.
+## Hong Kong plans just 2 land sales this quarter despite housing rebound
+The Hong Kong government will release two parcels of land for sale – one for a residential development and another for a student hostel project – in the October to December quarter, as officials maintain a cautious stance towards housing supply even as the market rebounds. One residential site – an 
 
 ## Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds
 Hong Kong has emerged as the third best city in the world for wealthy individuals seeking to make philanthropic contributions over the medium term, trailing New York and Seoul, according to a study by Altrata. The inaugural Giving Opportunity Index by the US-based group that tracks the world’s afflu
@@ -132,8 +132,11 @@ HSBC has launched a discretionary portfolio management service for retail invest
 ## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
 Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
 
-## Li Ka-shing empire expands oil interests, turning heads in market
-As global capital flows towards clean energy and artificial intelligence, Hong Kong billionaire Li Ka-shing’s business group has expanded its oil exposure in a move analysts see as a buffer against geopolitical risks and a play for steady cash flow. The first major investment move by the widely watc
+## Why Spain Is Standing Up to Trump
+Foreign Minister Albares: “We believe in international law.”
+
+## The Radioactive Ore That Could Break China’s Grip on Rare Earths
+Western powers are scrambling for monazite ore—but can they handle it?
 
 ## The West Needs a Pax Biologica
 Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.
@@ -153,11 +156,11 @@ Signal failures have already disrupted several Ukrainian missions.
 ## India’s Voter Roll Protests Swell
 Modi’s government faces a growing challenge as Cockroach movement proves durable.
 
-## Environmentalists Are Wrong to Oppose the Senate’s Permitting Deal
-America needs to build more to achieve its energy goals of lower costs, greater security, and more clean energy.
+## OPCON Transition: Now It Is Time for the Commanders-in-Chief
+It’s time for the OPCON transition process to move beyond military assessments into the realm of political responsibility.
 
-## Modi’s Crackdown Is a Strategic Error
-The violent escalation is deepening public anger in India as voter list protests grow.
+## ‘We Have Stitched Our Hearts to Hope’: The Unseen Resistance of Afghan Women Under Taliban Rule
+Afghan women say that they respond to Taliban oppression in vastly different ways depending on their social, cultural, and personal contexts.
 
 ## Vietnam Set to Sign Free Trade Pact With European Bloc This Week
 Hanoi also says that a reciprocal trade deal with the United States is nearing completion and should be signed soon.
@@ -176,12 +179,6 @@ The Japan Fair Trade Commission’s secretary general issued an unusual public w
 
 ## The Trump-Xi Summit Exposed the Problems in China-US Crisis Management
 Military communication channels become bargaining chips precisely when a crisis makes them indispensable.
-
-## For Uyghurs in Central Asia, US Diplomacy Could Be a Lifeline
-By pressing Central Asian governments to protect Uyghurs and resist Beijing’s coercion, Secretary Rubio can demonstrate that America’s moral leadership still matters.
-
-## Russia’s Arrest of a Japanese Journalist Deepens the Freeze in Japan-Russia Relations
-The case of Hokkaido Shimbun correspondent Imai Yuki could chill reporting from Russia’s Far East and narrow the space for even limited diplomatic engagement.
 
 ## Golden Dome Is Technologically and Financially Infeasible
 For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish — or even block — a ballistic missile attack. The appeal is obvious. A state that c
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US-Iran stalemate: What are Trump’s next military options?
-Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.
+## What is the ‘Mother of All Bombs’ US could use in Iran?
+US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)
 
-## Syrian authorities arrest main suspect in 2013 Baniyas mass killings
-Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
+## Syrian court sentences two to death over 2025 coastal violence
+Court rulings concern violence and killings during March 2025 uprising by pro-Assad forces and retaliatory attacks.
 
-## Fighting in Yemen intensifies: What’s the latest on the battlefield?
-Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
+## French football body urges fans and students to keep politics out of stadiums
+French Football Federation's ethics body calls for neutrality amid student protests.
 
-## FIFA set for rule change after Balogun red card row at the World Cup: reports
-The governing body's council is expected to prohibit disciplinary committees from overturning match suspensions.
+## Delegates walk out as Israeli president addresses summit
+Officials from more than 10 countries walked out during an address by Israeli President Isaac Herzog at a summit in Baku
 
-## Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks
-The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.
+## Russian jet-powered drone hits supermarket in Ukraine’s Odesa
+Ukrainian authorities say a Russian jet-powered drone struck a supermarket in its Odesa region on Thursday.
 
-## Dozens of children killed after roof collapses in Pakistani school
-At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
+## US teen held over Hindu temple attack plot: Is anti-Indian racism rising?
+Illinois teen who allegedly said he 'couldn’t wait' to kill Indians is arrested over a Hindu temple attack plot.
 
-## Russia says Ukraine resumes attacks on oil refineries
-Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.
+## Trump says Fort Hood US shooter execution will not be livestreamed
+US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
 
-## Long-delayed China-North Korea bridge officially opens
-China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.
+## ‘Boiling point’: Why students are protesting against Albania’s Edi Rama
+Experts say Albania’s protests reflect ignored student grievances and growing frustration.
 
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
