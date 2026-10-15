@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO
+Rapid growth is slower than some anticipated as fears about the AI trade rattle markets
+
+## US floats unfreezing some Russian assets to restart Ukraine peace talks
+European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami
+
+## Tata battle has potential to reshape India Inc
+If ties between key charitable trusts and the conglomerate’s holding company are loosened, will the group lose its distinctive ethos?
+
+## One in 6 UK disability benefit claimants should not receive cash, says think-tank
+Shift to offering more practical, social and employment support would save £4.4bn a year, argues Resolution Foundation
+
+## Top UK law firms pull away from smaller rivals in race for profits
+Biggest firms for the first time took home more than half of the revenue pool of the top 100
+
 ## Burnham wants to ‘repair bridges’ between Trump and Zelenskyy
 UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia
 
@@ -9,23 +24,14 @@ Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third famil
 ## FirstFT: Marine Le Pen gears up for EU fight
 Also in today’s newsletter: China’s exports surge and Ukraine blindsided by Starlink restrictions
 
-## Ukraine blindsided by Starlink restrictions and intelligence gaps
-Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network
-
 ## OpenAI claims employee sent secret device information to Apple
 Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive
 
 ## Badenoch sounds ‘alarm’ on potential Budget tax raid on banks
 Conservative leader’s intervention comes as investors warn of a potential hit to UK competitiveness
 
-## Fed’s October Beige Book points to higher inflation
-Growth was largely in manufacturing sectors largely connected to AI
-
 ## US chip stocks slide as inflation and AI debt fears unsettle investors
 Investors rush into Treasuries as sell-off triggers demand for haven assets
-
-## Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO
-AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing
 
 ## Perella Weinberg and Piper Sandler abandon merger talks
 A deal would have created an independent investment bank with an equity value of more than $6bn
@@ -33,35 +39,29 @@ A deal would have created an independent investment bank with an equity value of
 ## Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons
 Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back
 
-## Sally Rooney withdraws books from UK sale over support for Palestine Action
-Irish novelist said publication of her books in Britain could be ‘a serious criminal offence’ after she pledged royalties to the banned group
+## Sensex today | Stock Market Live Updates: Stock to buy today: Rain Industries (₹237.30) – BUY
+Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Rain Industries. The stock has surged over 7 per cent on Wednesday. This rise has taken the share price well above a key resistance level of ₹230
 
-## Airbus ‘confident’ of hitting aircraft delivery target
-The world’s largest planemaker is seeking to shrug off supply-chain problems
+## Anthropic revenue jumps 45% to $16.8 billion in Q3 ahead of IPO
+The AI developer is seeking to convince investors that rapid revenue growth can eventually outweigh the enormous costs of building advanced systems
 
-## India working to rebuild ties with China but last word yet to be scripted: Goyal
-India’s ties with the US are very good and the two continue to have a consequential relationship, the minister said
+## Jurassic bird with tiny wings may have preferred running to flying, study finds
+The nearly complete fossil combines bird-like anatomy with dinosaur features, offering researchers fresh clues about the diversity of early avian life
 
-## Fairfax faces CSB conundrum after winning IDBI Bank bid; Merger emerges as likely route
-The Cabinet Committee on Economic Affairs (CCEA) approves “10955230 Canada Inc.” as the strategic buyer in the restructuring of IDBI Bank
+## Large dogs age faster than smaller breeds, DNA study suggests
+Researchers analysed blood samples from hundreds of pet dogs to examine how DNA methylation patterns vary with age, size and sex
 
-## IDBI exit brings ₹26,337 crore to LIC, but limited upside for shareholders
-Despite a substantial cash inflow and a residual 19 per cent stake in IDBI Bank, the transaction is unlikely to materially alter LIC’s valuation, analysts say
+## Dodo revival: US biotech firm uses AI to identify genes behind extinct bird’s traits
+The research uses genetic analysis of living bird species to identify potential targets for recreating features of the extinct bird
 
-## IDBI Bank stake sale to push MCR receipts beyond ₹90,000 crore, providing fiscal relief
-This mop up will provide relief to government finances at a time when collections from excise are set to be down while expenditure on subsidy and on other welfare scheme is set to go up
+## India, Canada push to conclude trade pact as Jaishankar meets Anita Anand
+The discussions covered economic cooperation, defence, energy and regional developments, with both countries reaffirming their commitment to a forward-looking partnership
 
-## CCEA approves strategic restructuring of IDBI Bank, govt & LIC to get over ₹52,000 crore
-The government is offloading 30.48 per cent of its stake and expected to get over ₹26,500 crore, while LIC to sell 30.24 per cent and likely to get over ₹26,300 crore
+## IIT Kanpur to set up defence drone hub, targets $1 billion in fundraising
+The institute aims to reduce reliance on imported components while expanding research across seven strategic technology areas, including drones and semiconductors
 
-## BS VII draft proposes battery durability norms, vehicle passport for passenger cars
-Proposed norms to be introduced in three phases from April 2029
-
-## People in Tamil Nadu face the highest consumer inflation in September
-Official data shows that the gap between TN’s and the national inflation has also widened steadily through the year from 0.6 in January to 1.2 percentage points in September
-
-## India’s Largest IPO: Jio Platforms sets ₹1,065-1,119 price band, below street estimates
-The IPO comprises a fresh issue of up to 27 crore equity shares with a face value of Rs ₹10 each
+## KTR alleges ₹10,000-crore irregularities in Singareni, demands CBI probe
+The BRS leader flagged alleged financial irregularities, falling coal output and pending worker benefits while demanding accountability from the Telangana government
 
 ## Watsa's Prem-ium play in finance sector
 
@@ -87,6 +87,12 @@ The IPO comprises a fresh issue of up to 27 crore equity shares with a face valu
 ## US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6%
 Wall Street faced a noticeable dip in stock prices following a surprise rise in inflation data, which has raised concerns over borrowing costs. As Treasury yields soared, investors pondered the shifting allure between equities and bonds. Major banks explored both the potential gains and risks tied t
 
+## Code 7500: Mystery hijack alert forces Air India flight diversion
+Flight AI 2030, carrying 306 people, was cleared to continue its journey after security agencies inspected the aircraft and crew.
+
+## CJP, Congress push to restore protests at Jantar Mantar amid arrest of leaders
+The arrests followed a clash over the former protest venue, with the CJP and Opposition demanding its restoration and questioning the police action.
+
 ## CAPF Act doesn’t override Supreme Court’s 2025 verdict, IPS deputation necessary: Centre
 A home ministry officer, who filed the counter affidavit, denied that this was done to nullify the judgment or challenge the court’s authority.
 
@@ -105,11 +111,11 @@ Ankita Bhandari, a resident of Uttarakhand, worked as a receptionist at Vanantra
 ## Seven men arrested for beating homeless man to death in Kerala’s Palakkad: Police
 Seven men were arrested in Palakkad, Kerala, for allegedly stoning and beating a homeless man to death after an altercation. They were remanded to 14 days’ judicial custody.
 
-## Rekha Gupta pays surprise visit to Mukherjee Nagar, meets students: ‘Will ensure facilities’
-Students told the chief minister that many of them were living in private PG accommodations or rented rooms because of the limited availability of hostels.
+## Li Ka-shing empire expands oil interests, turning heads in market
+As global capital flows towards clean energy and artificial intelligence, Hong Kong billionaire Li Ka-shing’s business group has expanded its oil exposure in a move analysts see as a buffer against geopolitical risks and a play for steady cash flow. The first major investment move by the widely watc
 
-## Alcohol sold in tetra packs may mislead minors, Supreme Court seeks Centre’s response
-The Supreme Court sought the Centre’s response to a PIL alleging that liquor tetra packs resembling fruit juice could mislead minors, encourage underage drinking and pose health risks.
+## How Jardine Matheson’s street-shop sale reflects Hong Kong retail property’s struggles
+Amid Hong Kong’s commercial property downturn, British conglomerate Jardine Matheson has sold a street shop in Causeway Bay for HK$80 million (US$10.2 million) after holding it for more than 50 years, accepting a price HK$10 million below its earlier valuation. The property, a ground-floor shop in H
 
 ## What does the historic Bank of America fine mean for US-China capital streams?
 As the US Treasury imposed historic fines on Bank of America over compliance failures involving Chinese money-laundering networks, analysts see the action as a signal that could prompt Western banks to tighten scrutiny of Chinese clients and cross-border transactions. The penalties, announced on Tue
@@ -129,11 +135,8 @@ China’s electric vehicle (EV) makers have been hit with a double blow as both 
 ## China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China carmakers eye record 12 million global sales in 2026 as EV demand surges Chinese
 
-## Hopes for stock support rise in China ahead of CSRC head Wu Qing’s speech
-Chinese investors are gearing up for a speech next week by the chief of the securities watchdog for clues on how Beijing will ramp up support for the country’s stock market after its latest efforts did little to bolster sentiment. Wu Qing, chairman of the China Securities Regulatory Commission (CSRC
-
-## No rush to T+1: Hong Kong exchange won’t hurry settlement-time change, sources say
-Participants in Hong Kong’s stock market may need to wait longer for shorter transaction settlement times, as market participants want more time to prepare for the change, according to two sources familiar with the matter. Bourse operator Hong Kong Exchanges and Clearing (HKEX) said in a consultatio
+## Algeria Sets Its Sights on the Sahel
+The North African country seeks to reclaim its status as a security mediator in the region.
 
 ## Now We’re Seeing the Extent of American Decay
 From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.
@@ -156,8 +159,20 @@ The defense secretary puts stunts over substance. The U.S. should send him on pe
 ## Trump’s Diesel Deal Has No Winners
 It won’t help consumers, won’t help Kyiv, and won’t mean riches for Moscow.
 
-## The Painful Paradox of European Rearmament
-Militarizing now may require even further militarization down the line.
+## Brewing in Japan: Price-Fixing Probes Test Consumer Confidence
+The Japan Fair Trade Commission’s secretary general issued an unusual public warning against cartel-like activity amid rising prices.
+
+## The Trump-Xi Summit Exposed the Problems in China-US Crisis Management
+Military communication channels become bargaining chips precisely when a crisis makes them indispensable.
+
+## For Uyghurs in Central Asia, US Diplomacy Could Be a Lifeline
+By pressing Central Asian governments to protect Uyghurs and resist Beijing’s coercion, Secretary Rubio can demonstrate that America’s moral leadership still matters.
+
+## Russia’s Arrest of a Japanese Journalist Deepens the Freeze in Japan-Russia Relations
+The case of Hokkaido Shimbun correspondent Imai Yuki could chill reporting from Russia’s Far East and narrow the space for even limited diplomatic engagement.
+
+## In Confronting China, The West Needs Partners in Southeast Asia
+A plan to confront Beijing without subsequent outreach toward Southeast Asian countries will sacrifice national imperatives for willing partners, and those are hard to come by.
 
 ## The Uyghurs Who Fought in Syria’s Civil War
 Insights from Emily Feng.
@@ -167,21 +182,6 @@ Political donations, lobbying, and community influence help gambling companies b
 
 ## Can the China-US Detente Last?
 Competition can generate incentives for restraint, and restraint can create opportunities for further competition.
-
-## Bangladesh’s First Dollar Bond Can Wait
-The BNP government plans to issue sovereign bonds in December amid slow economic growth, fiscal strain, rising dollar bills, and a global downturn in the bond market.
-
-## Democracy Is Not Silence Between Elections
-A vote gives a government the authority to rule. It does not give it the right to silence the people.
-
-## What the Ukrainian Strikes on Yandex Tell Us About Central Asia’s Digital Infrastructure
-Drone strikes on Yandex data centers near Moscow triggered service outages in Central Asia, too.
-
-## Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula
-North Korea’s ability to disperse, conceal, and employ its drones, missiles, and nuclear weapons is outpacing South Korea’s capacity to destroy them.
-
-## Pakistan Is Treating Every Grievance as Terrorism, and It’s Failing
-From KP to Balochistan and beyond, instead of addressing the underlying causes of unrest, the country's rulers are hell-bent on targeting the opposition.
 
 ## The Paradox of Victory: When Winning in Ukraine Raises the Nuclear Stakes
 In 2022, Jeremy Shapiro warned in “We Are on a Path to Nuclear War” that the war between Russia and Ukraine was heading toward nuclear escalation. Four years into the war, we asked him to revisit that argument.Image: Vyacheslav Argenberg via Wikimedia CommonsIn your original piece, you named nuclear
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Costa Rica opens mega-prison as Bukele model embraced across Latin America
+President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government.
+
+## Mexican court closes case against official over 2023 detention centre fire
+Victims' groups, however, have denounced the ruling as 'selective' justice that exonerates the former migration chief.
+
+## Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
+Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.
+
+## US destroys dhow suspected of Iranian command and control
+The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.
+
+## Denmark pushes back as Trump touts Greenland oil and mineral deals
+Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.
+
+## ICE rejects recommendation for body cameras that automatically record
+The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy.
+
 ## Real Madrid come from 3-1 down to beat Roma on Champions League travels
 Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
 
 ## PSG beat Man City 4-2 in Champions League thriller
 PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
-
-## Colombia opposition groups launch protest against de la Espriella’s cuts
-Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.
-
-## West Indies beat India to level T20 series as Hope continues record run
-Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.
-
-## Israeli quadcopter drone drops bomb in Lebanon
-An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.
-
-## Families of Trinidadian men killed in US boat strike demand accountability
-The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.
-
-## Sky turns orange as wildfires rage across Indonesia
-An orange haze is blanketing Indonesia’s Central Kalimantan as wildfires rage across the province.
-
-## World’s oldest shipwreck found off coast of Turkiye
-Clay analysis traces recovered storage jars to early history workshops operating across the Jordan Valley.
 
 ## WPI inflation surges to 11.39% in September as fuel, manufactured goods prices climb
 Wholesale price inflation accelerated from 9.92% in August, with fuel and power inflation rising to 25.85% and manufactured products inflation to 9.76%.
