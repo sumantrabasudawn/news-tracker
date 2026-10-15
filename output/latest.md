@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO
-Rapid growth is slower than some anticipated as fears about the AI trade rattle markets
+## CPI comes in hot, AI goes cold
+Plus: the EM index is just an AI bet now
 
-## US floats unfreezing some Russian assets to restart Ukraine peace talks
-European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami
+## Soaring energy prices set to swamp EU summit and overshadow budget talks
+Also in this newsletter: Europeans are embracing some parts of AI faster than expected
 
-## Tata battle has potential to reshape India Inc
-If ties between key charitable trusts and the conglomerate’s holding company are loosened, will the group lose its distinctive ethos?
+## FirstFT: Ukraine to resume strikes on Russian refineries, Zelenskyy says
+Also in today’s newsletter: Anthropic revenues and English football
 
-## One in 6 UK disability benefit claimants should not receive cash, says think-tank
-Shift to offering more practical, social and employment support would save £4.4bn a year, argues Resolution Foundation
+## US inflation again set to be a crucial factor for the midterms
+Donald Trump was re-elected on the back of inflation anger, and his party is now in danger of losing control of the House and Senate for the same reason
 
-## Top UK law firms pull away from smaller rivals in race for profits
-Biggest firms for the first time took home more than half of the revenue pool of the top 100
+## Global AI sell-off deepens as Asian markets tumble
+Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower
 
-## Burnham wants to ‘repair bridges’ between Trump and Zelenskyy
-UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia
+## The UK’s Fastest-Growing Companies
+The FT’s inaugural ranking of the UK’s fastest-growing companies shows the diverse businesses powering ahead against a volatile backdrop, in markets from health and wellness to fried chicken and digital ID. Plus: why management is key and finding growth in the ageing population
 
-## OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia
-Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third family member had booked travel for October 12
+## General Atlantic’s IPO ambitions
+The private capital group is planning to go public in the first half of next year as it seeks to keep pace with listed rivals like Blackstone and Apollo Global
 
-## FirstFT: Marine Le Pen gears up for EU fight
-Also in today’s newsletter: China’s exports surge and Ukraine blindsided by Starlink restrictions
+## London’s gold market enjoys the Trump effect
+The City’s dominance of physical trading in the metal is being reinforced by global instability
 
-## OpenAI claims employee sent secret device information to Apple
-Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive
+## Marsh to shoulder biggest chunk of Greensill settlement with Credit Suisse
+Deal is rare example of broker bearing largest share of a settlement rather than insurers who wrote policies
 
-## Badenoch sounds ‘alarm’ on potential Budget tax raid on banks
-Conservative leader’s intervention comes as investors warn of a potential hit to UK competitiveness
+## FCA plans to embrace AI to automate financial regulation
+UK watchdog will set out its response to the rise of the latest frontier models
 
-## US chip stocks slide as inflation and AI debt fears unsettle investors
-Investors rush into Treasuries as sell-off triggers demand for haven assets
+## How AI mega-rounds make life harder for VC firms
+Fewer-but-bigger deals mean investors are having to put more eggs in a single basket
 
-## Perella Weinberg and Piper Sandler abandon merger talks
-A deal would have created an independent investment bank with an equity value of more than $6bn
+## Ramesh Chand panel to suggest solution for India’s sugarcane sector
+Apart from Chand, the other members of the committee are officials from agriculture, food and consumer affairs ministries — Agriculture Commissioner, Joint Secretary (Sugar), Joint Secretary (Legal Metrology), and Director (sugar).
 
-## Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons
-Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back
+## Sensex today | Stock Market Live: Sensex jumps 1100 pts, Nifty near 22,950; TechM, HCL lead gainers
+Sensex, Nifty, Share Prices Live: Despite weak global cues where Korea's Kospi plunged over 7% and Japan's Nikkei fell 4% on US inflation data and pressure in AI stocks, domestic markets opened higher
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Rain Industries (₹237.30) – BUY
-Sensex, Nifty, Share Prices Live: The short-term outlook is bullish for Rain Industries. The stock has surged over 7 per cent on Wednesday. This rise has taken the share price well above a key resistance level of ₹230
+## Q2 Results Today Live: Wipro, Nestle, Tech Mahindra, Jio Financial, IRFC, Polycab, HDFC AMC, HDFC Life, Tata Communications, KVB, IIFL, Persistent Systems, 360 ONE WAM, Angel One to announce Q2 results, Tata Tech shares jump, ICICI Lombard, Leela Palaces, Tata Tech gain after Q2 results, CEAT, MRPL & Emmvee shares decline
+Q2 Results Today, 15th October 2026 Live Updates: Stay tuned to get real-time market, business and financial news updates
 
-## Anthropic revenue jumps 45% to $16.8 billion in Q3 ahead of IPO
-The AI developer is seeking to convince investors that rapid revenue growth can eventually outweigh the enormous costs of building advanced systems
+## CCEA approves strategic restructuring of IDBI Bank, govt & LIC to get over ₹52,000 crore
+The government is offloading 30.48 per cent of its stake and expected to get over ₹26,500 crore, while LIC to sell 30.24 per cent and likely to get over ₹26,300 crore
 
-## Jurassic bird with tiny wings may have preferred running to flying, study finds
-The nearly complete fossil combines bird-like anatomy with dinosaur features, offering researchers fresh clues about the diversity of early avian life
+## CCEA approves IDBI Bank stake sale to Fairfax for ₹52,878 crore; govt, LIC to receive proceeds
+The successful bidder will be required to present its credentials to the Reserve Bank of India in accordance with the Fit and Proper Assessment conducted at the EoI stage
 
-## Large dogs age faster than smaller breeds, DNA study suggests
-Researchers analysed blood samples from hundreds of pet dogs to examine how DNA methylation patterns vary with age, size and sex
+## Stocks to watch today: LIC, Reliance, IDBI Bank, NLC India, Dr Reddy’s Lab, Morepen Lab
+Broad-based activity across state-owned and pharma stocks signals appetite for large-cap IPOs, strategic divestments, and new project wins in renewables, manufacturing, and infrastructure
 
-## Dodo revival: US biotech firm uses AI to identify genes behind extinct bird’s traits
-The research uses genetic analysis of living bird species to identify potential targets for recreating features of the extinct bird
+## IDBI Bank shares tumble 7.5% after ₹53,000-cr Fairfax deal
+Shares of IDBI Bank surged 9 per cent before the announcement on Wednesday, adding Rs 8,086 crore to its market valuation.
 
-## India, Canada push to conclude trade pact as Jaishankar meets Anita Anand
-The discussions covered economic cooperation, defence, energy and regional developments, with both countries reaffirming their commitment to a forward-looking partnership
+## Hyundai plans four EVs by 2029, earmarks $6.2 billion for technology and R&D in India
+The automaker also plans a dedicated investment entity, HMG India. The strategy also includes battery localisation, research partnerships and emerging mobility opportunities.
 
-## IIT Kanpur to set up defence drone hub, targets $1 billion in fundraising
-The institute aims to reduce reliance on imported components while expanding research across seven strategic technology areas, including drones and semiconductors
+## Why are BSE Sensex, Nifty50 rallying today? Top reasons for rise
+Stock market rally today: Buying in IT, banking and consumer stocks lifted the stock market sentiment. At 10:36 AM, Nifty50 was trading at 22,915.15, up 292 points or 1.29%. BSE Sensex was at 73,777.19, up 995 points or 1.37%.
 
-## KTR alleges ₹10,000-crore irregularities in Singareni, demands CBI probe
-The BRS leader flagged alleged financial irregularities, falling coal output and pending worker benefits while demanding accountability from the Telangana government
+## Stock market today: BSE Sensex jumps over 1,000 points, Nifty50 nears 23,000 mark
+
+
+## Top stocks: What are the top stock recommendations for October 15, 2026?
+Top stock market recommendations: Lemon Tree Hotels, Greenply Industries, and Fine Organic Industries - Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth has picked these as the top stocks to buy today on October 15, 2026.
+
+## Oil prices fall $1 after touching three week high amid Middle East tensions
+Oil prices have dipped as investors assess potential shipping threats in the Strait of Hormuz. The uptick in prices was initially fueled by recent assaults on Saudi Aramco and provocations from Iran. The Trump administration is mulling over the possibility of loosening sanctions on oil vessels to al
 
 ## Watsa's Prem-ium play in finance sector
 
@@ -75,41 +81,38 @@ The BRS leader flagged alleged financial irregularities, falling coal output and
 ## Jio Platforms files papers, IPO set to open on October 21
 
 
-## IDBI sale to increase value, new management to get free hand
+## Does India need stand-off missiles or more fighter jets?
+The Narendra Modi government,after Operation Sindoor,has realised that what India needs is proper anti-ballistic missile defence, long-range air-to-air missiles
 
+## Class 12 student killed, friend assaulted by group of 5 in west Delhi: Police
+The Delhi Police on Thursday said they apprehended three minors and arrested two men in connection with the case
 
-## Wholesale inflation touches 30-month high
+## US singer Mary Millben, CJP's Abhijeet Dipke trade barbs over 'foreign funding' amid anti-CEC protests in Delhi
+Mary Millben and Abhijeet Dipke found themselves in a row on social media over the US singer's claims that CJP was funded by American donors.
 
+## Can last-minute question papers stop exam leaks? Experts flag some challenges
+Nandan Nilekani, who heads the HPTF on examination reforms, also suggested expanding computer-based testing infrastructure in the country
 
-## Currency depreciation key headwind for foreign investors: Blackstone's Gray
+## Keralam to decide on PM SHRI scheme after sub-committee report: Minister Samsudheen
+Keralam to decide on PM SHRI scheme after sub-committee report: Minister Samsudheen
 
+## Karnataka 2023 recount case: ECI's rules on how long it keeps election CCTV footage, and who is allowed to see it
+Supreme Court pulled up ECI body over counting footage from Sringeri. Most recordings are now kept for 45 days and are closed to the public.
 
-## US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6%
-Wall Street faced a noticeable dip in stock prices following a surprise rise in inflation data, which has raised concerns over borrowing costs. As Treasury yields soared, investors pondered the shifting allure between equities and bonds. Major banks explored both the potential gains and risks tied t
+## Over 1.6 lakh personnel will undertake population enumeration in TN
+Over 1.6 lakh personnel will undertake population enumeration in TN
 
-## Code 7500: Mystery hijack alert forces Air India flight diversion
-Flight AI 2030, carrying 306 people, was cleared to continue its journey after security agencies inspected the aircraft and crew.
+## YouTuber Dhruv Rathee gets fresh summons from Delhi court over 2018 defamation case linked to video on BJP IT cell
+In the video uploaded on his YouTube channel in 2018, Dhruv Rathee had alleged that members of the BJP's IT cell had tried to bribe Vikas Pandey to defame him.
 
-## CJP, Congress push to restore protests at Jantar Mantar amid arrest of leaders
-The arrests followed a clash over the former protest venue, with the CJP and Opposition demanding its restoration and questioning the police action.
+## AI job losses set to rein in office demand in developed Asia-Pacific economies: report
+A mild displacement of jobs across the Asia-Pacific region as companies expand their use of AI would trim five percentage points off growth in office space demand in the next few years, according to property consultancy CBRE. In a report released on Thursday it said 3.9 per cent of office jobs were 
 
-## CAPF Act doesn’t override Supreme Court’s 2025 verdict, IPS deputation necessary: Centre
-A home ministry officer, who filed the counter affidavit, denied that this was done to nullify the judgment or challenge the court’s authority.
+## HSBC launches discretionary portfolio management service for retail investors
+HSBC has launched a discretionary portfolio management service for retail investors with a minimum investment threshold as low as HK$1,000 (US$128) per month, as Hong Kong’s largest lender aims to attract younger, tech-savvy customers. The new service, named Portfolio+, allows HSBC’s retail banking 
 
-## Kerala’s ‘living paddy gene bank’ Cheruvayal Raman dies at 74; Rahul, Priyanka Gandhi pay tribute
-Cheruvayal Raman was a tribal farmer from Kerala. He was known for preserving over 45 indigenous rice varieties and promoting traditional farming practices.
-
-## Delhi Half Marathon on Oct 18 to have ‘minor refinements’ as Open 10K route changed, metro to start at 3.30 am
-The organisers said race-day arrangements were being aligned with the changes and detailed information would be communicated to participants soon.
-
-## ‘She takes better selfies’: Shashi Tharoor praises activist Neha Bora after INDIA bloc’s Delhi march
-Congress leader Shashi Tharoor praised AISA president Neha Bora for her courage after meeting her at the INDIA bloc’s March for Democracy in New Delhi.
-
-## Rahul, Priyanka join Ankita Bhandari's family's protest against ‘VIP’ Sikkim governor's appointment
-Ankita Bhandari, a resident of Uttarakhand, worked as a receptionist at Vanantra Resort in Yamkeshwar, near Rishikesh. She was murdered in 2022.
-
-## Seven men arrested for beating homeless man to death in Kerala’s Palakkad: Police
-Seven men were arrested in Palakkad, Kerala, for allegedly stoning and beating a homeless man to death after an altercation. They were remanded to 14 days’ judicial custody.
+## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
+Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
 
 ## Li Ka-shing empire expands oil interests, turning heads in market
 As global capital flows towards clean energy and artificial intelligence, Hong Kong billionaire Li Ka-shing’s business group has expanded its oil exposure in a move analysts see as a buffer against geopolitical risks and a play for steady cash flow. The first major investment move by the widely watc
@@ -126,14 +129,8 @@ Hesai Group, the world’s largest maker of lidar sensors for vehicles, has laun
 ## Chinese memory giant YMTC to grow revenue 6 times faster than peers as IPO nears: report
 Yangtze Memory Technologies Corporation (YMTC), China’s leading flash-memory maker, is set to grow revenue six times faster than its industry peers this year as it expands into server-related business ahead of a planned initial public offering (IPO), according to Counterpoint Research. The company’s
 
-## China chip exports jump 136% to US$45b as AI frenzy jacks up prices
-China’s integrated circuit (IC) exports surged 136 per cent year on year in September to US$45 billion, exceeding the 108 per cent growth rate in the first nine months of the year in a sign of the country’s rising influence in the global semiconductor supply chain. In September, China exported 32.7 
-
-## China’s EV industry faces double blow from EU export quota, VAT rebate cut
-China’s electric vehicle (EV) makers have been hit with a double blow as both Beijing and Brussels introduce measures that will affect their exports, leading analysts to revise down their earnings forecasts for the industry. The twin measures – combined with a sales decline in China’s domestic marke
-
-## China’s carmakers eye record sales, luxury model hits regulatory bump: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China carmakers eye record 12 million global sales in 2026 as EV demand surges Chinese
+## Trump’s Midterm Strategy Harks Back to 1970
+Forget hearts and minds, this path to power revolves around appealing to hate and anger.
 
 ## Algeria Sets Its Sights on the Sahel
 The North African country seeks to reclaim its status as a security mediator in the region.
@@ -155,9 +152,6 @@ The violent escalation is deepening public anger in India as voter list protests
 
 ## Why Hegseth Should Go
 The defense secretary puts stunts over substance. The U.S. should send him on permanent leave.
-
-## Trump’s Diesel Deal Has No Winners
-It won’t help consumers, won’t help Kyiv, and won’t mean riches for Moscow.
 
 ## Brewing in Japan: Price-Fixing Probes Test Consumer Confidence
 The Japan Fair Trade Commission’s secretary general issued an unusual public warning against cartel-like activity amid rising prices.
@@ -231,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Costa Rica opens mega-prison as Bukele model embraced across Latin America
-President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government.
+## Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?
+Yamal's 17 goal contributions after 10 games are more than Messi's in his Ballon d'Or-winning season as a teenager.
 
-## Mexican court closes case against official over 2023 detention centre fire
-Victims' groups, however, have denounced the ruling as 'selective' justice that exonerates the former migration chief.
+## Restoring nature is key to a more resilient future
+At COP17 and COP31, governments must accelerate positive tipping points in energy, food and finance.
 
-## Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz
-Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.
+## Israel has detained more than 2,000 Palestinian children since 2023: report
+At least 350 Palestinian children currently face 'harsh conditions' in Israeli prisons.
 
-## US destroys dhow suspected of Iranian command and control
-The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.
+## Heavy rain causes mass pileup in Brazil tunnel
+Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.
 
-## Denmark pushes back as Trump touts Greenland oil and mineral deals
-Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.
+## X suspends 13,000 accounts, alleging foreign influence ahead of US midterms
+The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.
 
-## ICE rejects recommendation for body cameras that automatically record
-The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy.
+## Argentina’s Milei backs Trump for US midterms, calls vote crucial for West
+The US President's ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.
 
-## Real Madrid come from 3-1 down to beat Roma on Champions League travels
-Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
+## Albanian Ministry of Justice on fire as education protesters riot
+Hundreds of students joined anti-government protests in Tirana, demanding education reforms.
 
-## PSG beat Man City 4-2 in Champions League thriller
-PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
+## OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia
+Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.
+
+## IDBI Bank: From Kingfisher's wreckage to Fairfax's big bet
+Finally, the much-awaited deal involving IDBI Bank has gone through. For Rs 52,878 crore, Canadian giant Fairfax will take control of the marquee headquarters of IDBI Bank, standing tall near the crashing waves at Cuffe Parade. This is great news for IDBI, the government, Fairfax and the entire bank
 
 ## WPI inflation surges to 11.39% in September as fuel, manufactured goods prices climb
 Wholesale price inflation accelerated from 9.92% in August, with fuel and power inflation rising to 25.85% and manufactured products inflation to 9.76%.
@@ -275,9 +272,6 @@ The Indian government is set to enhance GST reporting for imported services thro
 
 ## Pressure on rupee may continue after temporary gains on RBI actions, say economists
 The Reserve Bank of India has implemented emergency measures to stabilize the rupee, which is facing strong global pressure. Analysts indicate that the rupee may continue to decline despite these efforts. The rupee's drop is influenced by rising US bond yields and significant foreign investment outf
-
-## Era of cheap capital is over
-The Reserve Bank of India has raised rates by 25 basis points this week, but more significant than the increase itself was the Governor's message that rate cuts are no longer on the table and that rates are likely either to remain where they are or move higher. The era of cheap money is therefore co
 
 ## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
 The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
