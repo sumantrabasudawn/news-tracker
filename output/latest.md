@@ -1,61 +1,85 @@
 # AION Intelligence
 
-## Hiding from the everything trade
-Unhedged readers on how to hedge AI risk
+## Shareholders should have a say on making AI safe
+SEC decision to rescind key rule on voting could not have come at a worse time
 
-## Dollar weakens as Fed’s Warsh declines to hint at October rate rise
-Comments at IMF meetings come after inflation data raised bets of possible back-to-back rate rises
+## How Africa’s ‘wall’ to hold back the desert unravelled
+Grand ambition to plant 8,000km band of trees has fallen well short of its targets
+
+## The once-obscure tech at the heart of the green energy trade war
+Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears
+
+## In Bangkok, central bankers push back on market rate-tightening bets
+Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening
+
+## EU vows to maintain Russia sanctions after US pivot
+European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow
+
+## FirstFT: G7 plan simulated AI attacks on banks
+Also in today’s newsletter: British government courted UBS over London HQ move and why data centre bonds look increasingly stressed
+
+## Sizing that ‘unlimited’ insurance capital
+Quite big, but still quite far away
+
+## Treasuries head for best week since February as AI jitters halt bond rout
+Borrowing costs fall back from highest levels in decades as investors seek safety in government debt
+
+## No, Sally Rooney’s books are not ‘banned’ from the UK
+Author’s decision to halt sales puts spotlight on proscription of Palestine Action and perceived shortcomings of Terrorism Act
+
+## Healey signals tax raid on banks in Budget
+Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies
 
 ## EU resists bid to weaken emissions rules as leaders spar over energy costs
 Also in this newsletter: Orbán’s favourite Brussels think-tank rebrands
 
-## FirstFT: Healey signals tax raid on banks in UK Budget
-Also in today’s newsletter: London’s UBS HQ offer and Merz vows to fight on
+## The data centre IPO debacle that sparked a market meltdown
+Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy
 
 ## Wall Street’s AI wobbles
 Investors are dumping data centre bonds and abandoned listings are piling up
 
-## Young people to get less cash but more job support under Milburn welfare plan
-Former Labour cabinet minister is finalising review into the million young people not in education, employment or training
-
-## Anthropic secured highest junk credit rating in June
-Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status
-
-## Has London’s £5bn ‘super sewer’ improved water quality in the Thames?
-Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife
-
-## The data centre IPO debacle that sparked a market meltdown
-Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy
-
 ## Why law firms should resist the lure of the AI spin-off
 A carve-out could raise capital, but it’s a crowded sector and valuations don’t accord with the sector’s lack of profitability
 
-## UK government courted UBS over London HQ move
-Rachel Reeves pitched the City as alternative home for Swiss bank, which is weighing its options amid new capital proposals
+## Maharashtra makes display of treatment rates mandatory for private hospitals
+The directive seeks to improve transparency in hospital billing, reduce disputes over treatment costs and ensure patients can access rate information.
 
-## Anti-India hatred turning into violence: US lawmakers
-A 19-year-old was arrested in Palatine near Chicago for planning a mass shooting at the Sri Venkateswara Temple in Aurora, Illinois on Sunday
+## India to launch National Electricity Data Sharing Framework in October
+The initiative aims to give utilities and startups consistent access to power sector information while strengthening governance and cyber security
 
-## Nifty slips after gap-up open as IT stocks rise amid inflation concerns
-IT stocks propel gains even as broader benchmarks waver post-gap, with inflation jitters keeping risk sentiment in check ahead of macro cues and new market microstructure rules
+## IMD update: N-E monsoon to arrive tomorrow, heavy rain lashes Tamil Nadu coast
+Isolated very heavy rain likely over Kerala and Mahe, and Tamil Nadu, Puducherry and Karaikal on Thursday and heavy rain across several southern and adjoining regions over following five days
 
-## Sensex today | Stock Market Live: Sensex rises 250 pts, Nifty near 23,100; TechM shares up 7%
-Sensex, Nifty, Share Prices Live: IT stocks dominate gainers as indices rebound
+## India Inc salary hikes set to improve in 2027; NBFCs lead at 10.1%
+Non-banking financial companies, energy and real estate are expected to offer the highest salary increases, while employers focus on retaining skilled talent.
 
-## Iran says US response to its proposal to reopen Hormuz was 'insufficient'
-Iran deemed the US response insufficient to its seven-condition proposal on reopening the Strait of Hormuz, signaling stalled negotiations and ongoing closure
+## Rupee extends rise but falters past 95/$ on importer hedging, outflows
+Rupee’s rally stalls as importer hedging and outflows cap gains even after RBI steps and hawkish signals; traders eye US inflation data for the next move.
 
-## FM holds talks with global financial leaders in Singapore, pitches for boosting investment in India
-During her meeting with MUFG Asia Pacific CEO Yukinobu Saeki, they discussed expanding the Japanese financial group’s presence in India
+## L&T, IIT Madras-incubated TuTr Hyperloop join hands for advanced transport technology
+The collaboration will combine engineering and construction expertise with indigenous mobility technology to assess commercially viable transport infrastructure projects across India.
 
-## Delhi Metro shuts entry, exit at six stations ahead of Congress protest against CEC
-However, interchange facilities would be available at the affected stations, the DMRC said
+## Kerala hotels defer UPI payment boycott until after Deepavali
+The boycott, scheduled to begin on October 15, has been postponed following NPCI’s decision to defer the proposed rollout of a 0.4% MDR on select merchant transactions until after the festival.
 
-## Fairfax proposes to contribute its interests in Digit, IIFL Capital to IDBI Bank
-Fairfax CEO emphasises that combining IDBI Bank, Digit, and IIFL Capital would create an entity that is well-positioned to participate in the continued growth and success of Indian markets
+## IMF chief urges US, other wealthy nations to rein in debt to ease global economic pressure
+Rising debt levels and global inflation, partly resulting from high energy costs due to the Iran war, have pushed interest rates to multidecade highs, adding to the burdens of the world's poorest nations
 
-## Amazon in talks to buy AI startup Decart for around $7 billion
-Decart's Lucy model, backed by ‌Nvidia, can edit live video ‌in ⁠real time
+## Fresh MoUs And Trade Push: India, Canada ink Karnataka deals; CEPA talks eyed by end-2026
+In a significant move to boost economic relations, India and Canada have recently established various commercial agreements during the Canada-India Business Ceremony held in Karnataka. These agreements aim to foster enhanced collaboration between businesses in both nations. With a target to finalize
+
+## IMF Warns On Energy Risks: Middle East conflict could stoke India inflation; growth, fisc at risk
+India could face inflationary pressures if the Middle East conflict results in sustained high energy prices. The International Monetary Fund warns that prolonged energy price increases could slow economic growth, raise living costs, and worsen fiscal balances. Governments may find it harder to provi
+
+## He paid Rs 15 lakh for Rs 10 lakh flat; builder demanded Rs 20 lakh more, buyer wins case
+A man, who was working in the US, booked a 1,208-square-foot flat along with a car parking space in Patna. The booking was confirmed in 2005, and the agreement for sale was signed in 2007. The total price agreed upon for the flat and parking space was Rs 10,41,250. Before the agreement was executed,
+
+## Tech Mahindra jumps 8%, IT firm adds Rs 11,000 crore to market cap after Q2 earnings
+Tech Mahindra witnessed an impressive surge of over 8% in its shares following the announcement of remarkable quarterly earnings. The IT giant recorded a 32.74% year-on-year increase in consolidated net profit, buoyed by robust volume growth and effective cost management. In celebration of its 40th 
+
+## Air India cancels all flights to and from three Saudi cities till October 20
+In response to the escalating conflict, Air India has halted all flights to and from Saudi Arabia until October 20. This decision aligns with similar suspensions by other carriers such as Air France-KLM and Gulf Air. Affected passengers will receive refunds, as the airline prioritizes safety amidst 
 
 ## FM Sitharaman seeks early India-US trade deal, flags China’s market access barriers
 Finance Minister Nirmala Sitharaman highlighted the need to finalize the India-US trade agreement for enhanced bilateral relations. She expressed concerns over the trade imbalance with China and non-tariff barriers obstructing market access. Sitharaman stated that infrastructure investment has susta
@@ -66,44 +90,41 @@ On Friday, the Rupee showcased a solid performance, climbing 20 paise to hit 94.
 ## India raises petrol export duty fivefold to Rs 2.5/litre, cuts diesel levy to Rs 8.5
 In a recent policy shift, the Indian government has raised the export duty on petrol to Rs 2.5 per litre while reducing the diesel duty to Rs 8.5 per litre. This adjustment reflects the government's continuous evaluation of export duties based on global crude oil pricing, which occurs biweekly. Inte
 
-## Taxman capped LIC retiree's leave pay exemption at Rs 3 lakh; ITAT allows Rs 9.04 lakh
-A woman retired from Life Insurance Corporation of India (LIC) on June 30, 2020 after more than 30 years of service. She received Rs 9.04 lakh as leave encashment, in addition to her other retirement benefits. While filing her income tax return (ITR), she claimed a tax exemption on the entire leave 
+## CJP founder Abhijeet Dipke detained by Delhi Police while heading to Connaught Place for Tiranga event
+Earlier Delhi Police had urged Dipke to call off the Central Park event, citing traffic disruption, public safety concerns and inconvenience to traders
 
-## Stock market today: BSE Sensex gains 400 points, NSE Nifty50 tops 23,100
+## Delhi HC allows activist Natasha Narwal to travel to UK for academic work
+The Delhi high court has allowed Natasha Narwal, an accused in the 2020 Delhi riots conspiracy case, to travel to the UK from November 2 to December 1 for academic work.
 
+## Press Council of India issues guidelines for journalists covering protests
+The guidelines were issued against the backdrop of protests against chief election commissioner Gyanesh Kumar
 
-## 'Welcome competition including Starlink': Reliance reacts to Musk's comments
-Reliance Industries has welcomed the entry of Elon Musk's Starlink into the Indian satellite communications market. The company clarified that it has never feared competition and is also awaiting clearances for its satellite services. Musk has alleged that Reliance benefits from monopolistic practic
+## Delhi Police ask Dipke to call off Connaught Place demonstration, say area is not a protest site
+Dipke had announced a Tiranga gathering in CP's Central Park to protest against ‘illegal arrest’ of CJP leaders Ashutosh Ranka and Saurav Das.
 
-## Stock recommendations: What are the top stocks to buy or sell on October 16, 2026?
-Stock market recommendations: Aarti Industries, and Blue Star are the top stocks to buy today on October 16, 2026 as picked by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
+## Bihar: Viral video shows three women, man consuming liquor inside Darbhanga hospital; police probe underway
+Darbhanga senior superintendent of police (SSP) Jagunath Raddi Jalaraddi directed the Benta police station in-charge to conduct a detailed investigation.
 
-## Oil prices dip marginally as US weighs easing sanctions on ‘shadow fleet’ tankers
-Amid fluctuating oil markets, current tensions in the Middle East and possible shifts in US sanctions have resulted in a marginal decline in oil prices. WTI crude is priced at $97.31, with Brent crude at $105.40. While recent moves to lift restrictions on certain vessels aim to counter soaring globa
+## ‘TVK against EC, SIR': VCK leader claims Vijay's party to join INDIA bloc protest ‘at national level’ soon
+Thol Thirumavalavan said the TVK joined the INDIA bloc’s Tamil Nadu unit and was expected to participate in similar protests at the national level in future.
 
-## Rajnath Singh accuses Congress of seeking ‘regime change through violence’ amid anti-CEC protests
-Rajnath Singh alleged that the Congress' protests were not about electoral rolls but an “attempt to weaken institutions” that function independently.
+## ‘Marco Rubio summoned his employee’: Rahul Gandhi’s dig at Modi govt over ‘expected’ meeting in Mumbai
+US ambassador Sergio Gor said Rubio would meet Indian officials in Mumbai, adding that “we expect that minister Dr S Jaishankar will be there”.
 
-## Shivraj Chouhan leads delegation to Mohan Yadav over Kosmi demolition row
-The meeting followed buzz about friction within the ruling party after the state forest department and district administration carried out a demolition drive in Kosmi.
+## CMRL payoffs case: ED summons Pinarayi Vijayan to appear for questioning on Oct 23
+Former chief minister Pinarayi Vijayan has been summoned to the ED’s zonal unit office in Kochi on October 23
 
-## Ammo deal graft probe casts shadow on top-performing defence PSU, clean-up on cards
-Munitions India Limited is set to face a clean-up and renewed push for accountability following corruption allegations, officials familiar with the matter said.
+## HKEX pushes back T+1 trade settlement to 2028 after brokers request more prep time
+Hong Kong Exchanges and Clearing said it had delayed a plan to shorten the settlement time for share transactions to the second half of 2028, so it could address widespread industry requests for more preparation time. Confirming a report by the South China Morning Post on Wednesday, the exchange sai
 
-## Alberta separation referendum: Carney reaches out to Indo-Canadians citing stronger India ties
-He said the two sides were discussing a trade deal in an interview with a network popular with Indian community
+## Financial Street Forum forecast calls for more opening up by Chinese regulators
+International investors will keep an eye on a forum next week for clues from China’s regulators on how they plan to further open its financial markets, after Visa’s long-awaited approval fuelled hopes for deeper participation in the world’s second-largest economy. Regulators could announce more meas
 
-## Herbicide paraquat dichloride, used for quicker ripening of green gram, banned in India; MP issues orders
-Madhya Pradesh agriculture department director Umashankar Bhargava said action will be taken against companies and dealers if any stock or sale is found
+## LVMH touts ‘special bond’ with China as ‘subdued’ backdrop weighs on sales
+French luxury giant LVMH Group kicked off a global open-house event showcasing its craftsmanship in Shanghai on Thursday, as the event’s founder Antoine Arnault hailed a “special bond” with Chinese customers at a launch event in Paris. It came as the group faced pressure from sluggish demand in Chin
 
-## Manipur: Kuki body demands probe into killing of woman in Kamjong district
-According to a statement issued by KZC, four Kuki-Zo villagers were travelling from Molvailup to Phaikoh when they were reportedly ambushed by NSCN-IM cadres at around 4pm on Thursday
-
-## Mumbai's Siddhivinayak Temple gets nod to buy 20 adjoining units for ₹94 crore
-The purchase is part of a ₹100-crore expansion plan to improve facilities and manage crowds at the busy Mumbai temple.
-
-## Modi to visit Ottawa, Toronto, will see if it can be broadened out: Mark Carney
-Modi will visit Canada Dec. 11-12 as both countries fast-track trade talks and seek to finalize a pact aimed at doubling bilateral trade by 2030.
+## IPO fraud, China’s export boom, US inflation: 5 figures investors are watching
+Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand. Meanwhile, mainland Chinese traders ramped up their exposure to local equities, and the city cemented its status as a top global destination for we
 
 ## Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms
 Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint investigation team including offi
@@ -111,23 +132,11 @@ Beijing has enlisted the support of its top internet watchdog to deepen the inve
 ## ‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market
 The wallpaper on Allan Zeman’s office desktop computer screen is an image of Chandara, the private estate in Phuket that he has owned for more than two decades. Now the “father of Lan Kwai Fong” is bringing the Thai resort-style concept to Hong Kong’s luxury housing market. Located in rural Sai Kung
 
-## China has banned the crypto business. So why is Solana opening a splashy Shanghai office?
-Solana’s opening of a fancy new office in a Shanghai skyscraper has set the crypto industry abuzz, with some speculating that the intensifying US-China tech rivalry could be creating a window of opportunity for crypto firms looking to engage with the Chinese market. Solana, which operates one of the
+## Crypto operator Solana abruptly cancels Shanghai event after office plan raises eyebrows
+Solana, which operates one of the world’s largest cryptocurrencies, has cancelled a high-profile event in Shanghai at the last minute as local police appeared on site, according to social media posts, just a day after the firm touted the opening of a fancy new office in the city. Solana was slated t
 
 ## Leaving portfolio decisions to the professionals
 [The content of this article has been produced by our advertising partner.] For anyone with a smartphone, market information is rarely far away. Market prices, company news, economic data and analysis can all be pulled up in just seconds. But access to information does not necessarily make the next 
-
-## Hong Kong’s IPO fraud clampdown sends shock waves across financial sector
-Hong Kong regulators’ tough action to crack down on fraudulent activity in the initial public offering market is sending ripples across the city’s financial industry, with insiders predicting short-term turbulence as some listings are scaled back or even cancelled. Financial intermediaries and IPO s
-
-## Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report
-Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global asset management firm. Some 95 per cent of Hong Kong respondents said they wante
-
-## Hong Kong plans just 2 land sales this quarter despite housing rebound
-The Hong Kong government will release two parcels of land for sale – one for a residential development and another for a student hostel project – in the October to December quarter, as officials maintain a cautious stance towards housing supply even as the market rebounds. One residential site – an 
-
-## Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds
-Hong Kong has emerged as the third best city in the world for wealthy individuals seeking to make philanthropic contributions over the medium term, trailing New York and Seoul, according to a study by Altrata. The inaugural Giving Opportunity Index by the US-based group that tracks the world’s afflu
 
 ## A Tale of Two Elon Musk Fights
 Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.
@@ -153,29 +162,32 @@ Western powers are scrambling for monazite ore—but can they handle it?
 ## The West Needs a Pax Biologica
 Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.
 
+## Cambodia’s NGO Sector Is Collapsing. Does It Matter?
+Imported by international donors in the 1990s, NGOs have supplanted rather than strengthened local forms of political organizing.
+
+## Myanmar Establishes New Committee to Advance Normalization With ASEAN
+The creation of the body, which comes ahead of next month's ASEAN Summit in Manila, is intended to “regain the country’s original role and rights” in the bloc.
+
+## Indonesian President Replaces Head of Disaster Management Agency
+The move comes amid growing scrutiny of Jakarta's response to the forest and peatland fires that have drastically reduced air quality across the region.
+
+## After 8 Months in Power, How Much Has the BNP Changed Bangladesh?
+It remains to be seen how willing the new government is to change the institutions that it now controls.
+
+## Clean Energy Must Avoid the Mistake of Overdependence
+The world must diversify its energy dependence, not simply relocate it from the Middle East to China.
+
+## Nepal Should Not Shoulder the Himalayan Climate Crisis Alone
+“No matter how much we reform our internal engineering, a frontline nation simply cannot manage the shocks of a global systemic failure alone.”
+
 ## China’s Rare Earth Strategy and the Future of the South China Sea
 The rise of seabed mining will add new complexity to the South China Sea disputes.
 
 ## Anas Alhajji on the Three Seas Crisis and the Race for Energy Dominance
 Dr. Anas Alhajji joins host Tushar Shetty to examine how the Hormuz crisis is reshaping global energy markets – and the overlooked impact of the loss of Russian and Kazakh supply.
 
-## ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge
-Some of those living in the Old Kran Khun camp were once well off. Now they forage in the fields and forests around the IDP camp for food and firewood.
-
-## Don’t Call It a Reset: The Modi-Xi Meeting Wasn’t a Turning Point
-Both sides are trying to prevent another crisis while their core disagreements remain unresolved.
-
-## Japan’s Nuclear Revival Has a Trust Problem
-Prime Minister Takaichi Sanae has made it clear that the nuclear restart is part of the answer to Japan’s energy uncertainty, but questions remain about safety and accountability.
-
-## How Chinese Clean Tech Is Reshaping Ukraine’s Wartime Energy Security
-Despite China’s close ties with Russia, Chinese solar energy technology is giving Ukraine badly needed energy resilience.
-
-## The Africa Pivot: India and Japan’s Quest for Critical Mineral Security
-India and Japan are betting on Africa’s critical minerals as the two Asian powers explore joint investment to secure supplies and expand mining capabilities across Africa.
-
-## Maldives Opposition Eyes Sweeping Constitutional Overhaul
-The MDP’s constitutional reform program calls for splitting the executive into two separate offices: head of state and head of government.
+## China’s Strategic Reassessment of India
+As China and India have improved their relations in recent months, many observers have attributed this improvement to the end of U.S. strategic altruism toward India. Indeed, in the past year, China has watched India lose its balance and simmer in a sense of strategic disorientation due to America’s
 
 ## Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?
 Since the end of World War II, the United States has maintained hundreds of military installations abroad. While U.S. forces have faced some objections to their presence, many allies and partners have seen U.S. bases and other facilities on their territory as a sign of their close relations with a s
@@ -197,9 +209,6 @@ For most of its history, Pakistan’s geopolitical value has risen and fallen wi
 
 ## The United Kingdom’s Military AI Ambitions Need Guardrails
 Advancing military AI capability is a priority for the United Kingdom, and in recent weeks, the new government has doubled down on its ambitions for AI and defense via two major partnerships.On Aug. 24, 2026, on his first overseas trip as the new prime minister of the United Kingdom, Andy Burnham si
-
-## Doubts Grow Over the Terms of Ukraine’s European Union Accession
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US sanctions leave Iranians facing flight cancellations and soaring costs
-New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear.
+## Locals in India’s Odisha allege forgery behind land taken for Adani mine
+Forged signatures and thumbprints - even of dead and fictitious people - allegedly used to obtain land for bauxite mine.
 
-## Rubio presses Lebanon on confiscation of weapons from Hezbollah
-Lebanon's president reaffirms the commitment to bring all arms under state control.
+## Poland scrambles fighter jets as Russia strikes western Ukraine
+Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.
 
-## Four killed as Indonesia battles worst forest fires in more than a decade
-The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.
+## India vs West India: Fifth T20 International – teams, start, lineups, Hope
+India host West Indies in the final match of the tour on Saturday with an all-time classic T20 series level at 2-2.
 
-## Bystander guns down suspected primary school shooter in Oregon
-Three children and a teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon.
+## Palestinian olive trees torched as settler pogroms escalate during harvest
+It is Palestine’s olive harvest, but settlers have set their trees and vehicles on fire.
 
-## Infantino apologises amid calls for him to quit as FIFA president
-Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.
+## Trump rules out using a nuclear bomb on Iran: Why that matters
+It is the first time the president has addressed nuclear weapons, but he didn't deny US could use 'mother of all bombs'.
 
-## China tells Israel to stop ‘forced establishment’ of West Bank settlements
-'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.
+## UN warns nearly 1 million in Gaza face flood risks as winter approaches
+The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.
 
-## Residents douse workers with flaming gasoline during eviction in Peru
-A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.
+## India’s mass voter purge is hollowing out democracy
+The SIR is disenfranchising marginalised communities and advancing the Hindu nationalist project.
 
-## Argentine students protest on campus over Milei’s austerity
-Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.
+## China-North Korea border bridge may do little to spur trade, experts say
+Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
@@ -273,6 +282,12 @@ The World Bank is in talks with numerous countries to address energy price incre
 ## China's trade restrictions for services exporters under review
 India is proactively gathering insights on the trade hurdles faced by its services exporters in China, engaging with industry representatives to address concerns. The investigation encompasses aspects like licensing, data regulations, and the challenges faced by Indian professionals in movement. Des
 
+## RBI clarifies interbank trades, ECBs coupons not part of FERR
+Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
+
+## SEBI overhauls CAS framework and derivatives settlement norms
+The Securities and Exchange Board of India (SEBI) announced a comprehensive overhaul of the Closing Auction Session (CAS) framework in the equity cash segment, establishing a structured 10-minute auction window, revising reference price mechanisms, and changing settlement procedures for derivatives 
+
 ## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
 The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
 
@@ -290,10 +305,4 @@ The Reserve Bank of India's (RBI) new foreign exchange rules are expected to rai
 
 ## Banks seek clarification on implementation of RBI forex measures
 Indian lenders have requested clarification from the Reserve Bank of India regarding new currency-supporting measures. They seek guidance on calculating the foreign exchange risk reserve and its impact on liquidity ratios. Additionally, banks are uncertain about cost transmission to customers and ho
-
-## Sebi notifies common ad code for market intermediaries; allows celebrity endorsement for brands
-In a significant move, Sebi has implemented a Common Advertisement Code aimed at managing how market intermediaries use celebrity endorsements. Under this new framework, celebrities can promote brands, but they’re prohibited from making specific endorsements about products. Any ad featuring a celebr
-
-## India’s 10-year bond yield hits 3-year high as RBI’s liquidity measure weighs on demand
-Indian government bonds extended losses on Monday, pushing the benchmark 10-year yield to a three-year high as the RBI’s latest liquidity-tightening measures added to selling pressure. Tighter banking-system liquidity can curb banks’ capacity to invest in government securities, weakening bond demand
 
