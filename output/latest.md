@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## MSCI warns it may cut Indonesia from main indices
+Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy
+
+## Netflix replaces chief content officer in effort to arrest declining share price
+Peter Rice will replace Bela Bajaria as streamer grapples with slowing viewer engagement and pressure from investors
+
 ## Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’
 A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade
 
 ## Farage accused of ‘protecting’ mayoral candidate who allegedly made racist comments
 Senior aide to Reform UK leader pushed to have Chris Parry thrown out of the party, according to TV documentary
 
-## How India lost more than 100mn voters
-Critics say ‘aggressive’ review wrongly deleted eligible voters, many of them Muslim, and may have benefited PM Modi’s party
+## How India deleted more than 100mn voters
+Critics say ‘aggressive’ review wrongly removed eligible voters, many of them Muslim, and may have benefited PM Modi’s party
 
 ## 777 Partners’ Josh Wander pleads guilty to fraud charges
 Financier who tried to buy Everton FC changes plea on eve of trial
@@ -18,11 +24,8 @@ Global chip stocks caught up in volatile trading amid fears over sustainability 
 ## Commercial goods blocked from entry into Gaza
 Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave
 
-## Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks
-CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns
-
-## Healey signals tax raid on banks in UK Budget
-Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies
+## Nineteen people injured in accident on French side of Channel Tunnel
+Two airlifted to hospital after bus collides with train at Coquelles
 
 ## Harvard’s endowment returns surge on back of AI and SpaceX investments
 Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound
@@ -33,32 +36,38 @@ Partnership between Big Tech rivals offers ‘open’ system that users can down
 ## The AI boom stumbles
 Should investors prepare for an AI bust? And if so, how?
 
-## Investors dump data centre bonds as AI borrowers face ‘Darwin moment’
-Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels
+## Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks
+CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns
 
-## Insurance brokers oppose new reforms as commission cuts may lead to job losses
-The association also questioned whether the proposed measures would enhance policyholder choice and freedom
+## No impact on workforce strategy due to US ban: TCS
+The company’s workforce strategy in the US is anchored in hiring local talent, supported by a robust campus recruitment model, as per management
 
-## Deadline extension, airline incentives to resolve Mumbai airport standoff
-Uniform passenger fee at Mumbai and Navi Mumbai airports proposed
+## e3W sales surge 40% in September; market share rises to 64.9%
+Bajaj leads the chart followed by Mahindra and TVS
 
-## Nandini milk price set to rise by ₹8 as rising feed costs squeeze dairy unions
-Dairy unions have sought higher prices as cattle feed, fodder, veterinary medicines, processing, transportation and packaging costs continue to rise
+## KICL receives Type Certificate from DGCA for KOAIR-10L Drone
+The company announced to the BSE that the Type Certificate was issued on October 9 under the Drone Rules, 2021
 
-## NASSCOM proposes structural rationalisation of GST norms for Head-to-Branch Office transactions
-NASSCOM asked to delete the new definition of ‘export’ that excludes services between establishments
+## Mark-to-market losses in equity markets to test profitability of MFs
+Steady inflows into equity schemes through SIPs and lump-sum investments could provide a saving grace
 
-## 4.9-magnitude earthquake hits Uttarakhand’s Chamoli, tremors felt in Delhi
-The National Center for Seismology said the quake struck at 10:23 pm, with its epicentre located 13 km deep
+## Airlines seek release of funds arising from VAT relief on ATF
 
-## JioHotstar expands to Middle Eastern and North African markets
-Following its launch in the UK, Canada and Singapore, JioHotstar has partnered with STARZPLAY to rope in audiences across the Middle East and North Africa
 
-## Mphasis extends £35.4 m contract with Social Security Scotland
-Social Security Scotland is one of the largest executive agencies of the Scottish Government, responsible for delivering core benefits to people across Scotland efficiently and securely.
+## CDS offers 5-year defence procurement roadmap, admits to policy gaps in tech procurement
+Chief of Naval Staff Chief Admiral Krishna Swaminathan urged the industry to invest more in defence R&D
 
-## ElevenLabs, Karnataka join hands to advance voice AI adoption
-The Bengaluru summit also outlined language expansion, voice restoration and tools for seniors and mental-health training
+## Pocket
+
+
+## Cancer drug margin cap sparks affordability concerns; industry seeks uniform pricing rules
+While industry bodies have welcomed the move, they have also sought transparent, uniform pricing rules to prevent excessive mark-ups and ensure a level playing field for domestic manufacturers
+
+## Jobless rate 5% in Sept vs 5.2% year ago: PLFS
+
+
+## Exports up 23%, trade deficit at $30 billion in September
+
 
 ## After Jio's listing, RIL could topple Tata as India's most valuable group
 
@@ -77,12 +86,6 @@ Even as restructuring and layoffs happen, some jobs in the IT sector are getting
 
 ## Russia begins diesel exports after Trump deal amid global oil market concerns
 Russian diesel exports have started reaching global markets following an agreement with US President Donald Trump. The Kremlin stated that these supplies could help stabilize oil markets, but they will not suffice. Reports indicate that Russian shipments of diesel resumed from the Baltic port of Pri
-
-## India’s Sept exports rise 23% as trade deficit narrows; shipments to US rise 11%
-India's merchandise exports rose to $44.40 billion in September 2026, marking a significant year-on-year increase. Overall exports, including services, also grew to an estimated $80.75 billion during this period. Despite rising imports to $94.05 billion, the merchandise trade deficit narrowed to $30
-
-## No more guessing who's calling! Govt mandates caller ID display from November 1
-The Department of Telecommunications is preparing to roll out Calling Name Presentation, a feature that shows the caller's name in addition to their number on the recipient's screen. This functionality will first be implemented on 4G networks before extending to other versions. Users will have the c
 
 ## Delhi: Customs officials seize 148 kg of suspected cannabis hidden in plastic spools
 The consignment had been declared as PU tubes and packed in 19 cartons. It was placed on hold after officers suspected a misdeclaration.
@@ -108,6 +111,12 @@ Several dead fish spotted along Yamuna near Burari in north Delhi since Wednesda
 ## Kuki woman killed, two missing after gunfight breaks out in Manipur’s Kamjong: Police
 Kuki woman was reportedly killed, two others went missing following a gunfight between Kuki and Naga groups in Manipur’s Kamjong district on Thursday, police said
 
+## Hong Kong’s IPO fraud clampdown sends shock waves across financial sector
+Hong Kong regulators’ tough action to crack down on fraudulent activity in the initial public offering market is sending ripples across the city’s financial industry, with insiders predicting short-term turbulence as some listings are scaled back or even cancelled. Financial intermediaries and IPO s
+
+## Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report
+Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global asset management firm. Some 95 per cent of Hong Kong respondents said they wante
+
 ## Hong Kong plans just 2 land sales this quarter despite housing rebound
 The Hong Kong government will release two parcels of land for sale – one for a residential development and another for a student hostel project – in the October to December quarter, as officials maintain a cautious stance towards housing supply even as the market rebounds. One residential site – an 
 
@@ -125,12 +134,6 @@ Three weeks into his tenure as the Communist Party secretary of Anhui province, 
 
 ## AI job losses set to rein in office demand in developed Asia-Pacific economies: report
 A mild displacement of jobs across the Asia-Pacific region as companies expand their use of AI would trim five percentage points off growth in office space demand in the next few years, according to property consultancy CBRE. In a report released on Thursday it said 3.9 per cent of office jobs were 
-
-## HSBC launches discretionary portfolio management service for retail investors
-HSBC has launched a discretionary portfolio management service for retail investors with a minimum investment threshold as low as HK$1,000 (US$128) per month, as Hong Kong’s largest lender aims to attract younger, tech-savvy customers. The new service, “Portfolio+”, allows HSBC’s retail banking cust
-
-## Mainland China, Hong Kong stocks fall as US inflation spurs Fed tightening concerns
-Stocks in mainland China and Hong Kong slumped on Thursday, with the benchmark of yuan-denominated equities sliding to a 14-month low, as a hot reading on US inflation boosted bets that the Federal Reserve would raise interest rates and a plunge in the South Korean market further dented sentiment. T
 
 ## A Tale of Two Elon Musk Fights
 Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.
@@ -156,29 +159,29 @@ Western powers are scrambling for monazite ore—but can they handle it?
 ## The West Needs a Pax Biologica
 Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.
 
-## OPCON Transition: Now It Is Time for the Commanders-in-Chief
-It’s time for the OPCON transition process to move beyond military assessments into the realm of political responsibility.
+## China’s Rare Earth Strategy and the Future of the South China Sea
+The rise of seabed mining will add new complexity to the South China Sea disputes.
 
-## ‘We Have Stitched Our Hearts to Hope’: The Unseen Resistance of Afghan Women Under Taliban Rule
-Afghan women say that they respond to Taliban oppression in vastly different ways depending on their social, cultural, and personal contexts.
+## Anas Alhajji on the Three Seas Crisis and the Race for Energy Dominance
+Dr. Anas Alhajji joins host Tushar Shetty to examine how the Hormuz crisis is reshaping global energy markets – and the overlooked impact of the loss of Russian and Kazakh supply.
 
-## Vietnam Set to Sign Free Trade Pact With European Bloc This Week
-Hanoi also says that a reciprocal trade deal with the United States is nearing completion and should be signed soon.
+## ‘One Day at a Time’: Inside an IDP Camp in Myanmar, Survival Is a Daily Challenge
+Some of those living in the Old Kran Khun camp were once well off. Now they forage in the fields and forests around the IDP camp for food and firewood.
 
-## What I Learned From a Year of Interviewing a Thai Sex Worker
-Decades of research have identified economic privation as a leading cause of entry into the country's illegal sex trade.
+## Don’t Call It a Reset: The Modi-Xi Meeting Wasn’t a Turning Point
+Both sides are trying to prevent another crisis while their core disagreements remain unresolved.
 
-## As Indonesian Fires Continue, Singapore Records Highest Air Pollution Reading Since 2015
-Jakarta is the focus of increasing criticism for its failure to contain – or prevent – the fires that continue to rage in Borneo and Sumatra.
+## Japan’s Nuclear Revival Has a Trust Problem
+Prime Minister Takaichi Sanae has made it clear that the nuclear restart is part of the answer to Japan’s energy uncertainty, but questions remain about safety and accountability.
 
-## China’s Advance in the Bahamas
-Beijing's presence in the Bahamas and its military implications for the U.S. are often overshadowed by discussion of Chinese activities elsewhere in the region.
+## How Chinese Clean Tech Is Reshaping Ukraine’s Wartime Energy Security
+Despite China’s close ties with Russia, Chinese solar energy technology is giving Ukraine badly needed energy resilience.
 
-## Brewing in Japan: Price-Fixing Probes Test Consumer Confidence
-The Japan Fair Trade Commission’s secretary general issued an unusual public warning against cartel-like activity amid rising prices.
+## The Africa Pivot: India and Japan’s Quest for Critical Mineral Security
+India and Japan are betting on Africa’s critical minerals as the two Asian powers explore joint investment to secure supplies and expand mining capabilities across Africa.
 
-## The Trump-Xi Summit Exposed the Problems in China-US Crisis Management
-Military communication channels become bargaining chips precisely when a crisis makes them indispensable.
+## Maldives Opposition Eyes Sweeping Constitutional Overhaul
+The MDP’s constitutional reform program calls for splitting the executive into two separate offices: head of state and head of government.
 
 ## Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?
 Since the end of World War II, the United States has maintained hundreds of military installations abroad. While U.S. forces have faced some objections to their presence, many allies and partners have seen U.S. bases and other facilities on their territory as a sign of their close relations with a s
@@ -228,6 +231,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns
+Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.
+
+## Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports
+Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.
+
+## Two Syrian pipelines damaged amid spate of attacks on energy infrastructure
+Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.
+
 ## At least 4, including 3 children, killed in US elementary school shooting
 Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
 
@@ -242,15 +254,6 @@ Lawsuit comes weeks before midterm elections and follows debunked claims of nonc
 
 ## Several people dead or missing after Istanbul floods
 Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul
-
-## Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices
-An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.
-
-## ICE tactics spark debate before pivotal US midterm elections
-Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.
-
-## Robots dance the ‘Macarena’ at Japan tech expo
-Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan.
 
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
