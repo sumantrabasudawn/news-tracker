@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Big Tech stocks head for biggest weekly drop since ‘liberation day’
+## Big Tech stocks suffer biggest weekly drop since ‘liberation day’
 AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off
+
+## Italy secures EU deal to lower its electricity prices
+Agreement marks a boost for PM Giorgia Meloni as nation struggles with higher fossil fuel prices
+
+## Trump’s press secretary Katie Zacharia fired after five days
+Exit comes amid deepening turmoil for White House as midterm elections loom
+
+## Rich make millions by flipping private jets
+Strong demand for private air travel combined with production delays boosts prices
+
+## Israeli settlers attack Palestinians carrying out olive harvest in West Bank
+Washington Post journalist among those injured during violence in the Palestinian territory
+
+## It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!
+If you want, you can buy some of them. No pressure. But it’s for charity, so if you don’t you’re a bad person
 
 ## EU eyes more financial support for Ukraine after US pivot
 European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow
 
 ## US illegal border crossings from Mexico near 60-year low
-About 98,708 apprehensions were recorded this year, down from peaks of more than 2mn people under Biden
-
-## Trump’s press secretary Katie Zacharia fired after five days
-Exit comes amid deepening turmoil for White House as midterm elections loom
-
-## Olly Robbins wins payout over Mandelson scandal sacking
-Former top Foreign Office official, who was dismissed by Keir Starmer in abrupt phone call, reaches out-of-court settlement
+About 98,700 apprehensions were recorded this year, down from peaks of more than 2mn people under Biden
 
 ## Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe
 Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise
-
-## Italy secures EU deal to lower its electricity prices
-Agreement marks a boost for PM Giorgia Meloni as nation struggles with higher fossil fuel prices
-
-## Looming UK tax rise puts bankers on edge
-Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders
 
 ## Directors’ Deals: IG Design Group finance boss backs revamp
 New team at gift-wrap manufacturer, but sales are down
@@ -33,8 +36,8 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Alexandr Wang, Meta’s AI wunderkind
 The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg
 
-## Can consultants reinvent themselves once again?
-As AI becomes more capable, human advisers must find new ways to prove their worth
+## Looming UK tax rise puts bankers on edge
+Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders
 
 ## Microsoft president warns Trump’s H-1B crackdown could push top AI talent abroad
 Brad Smith defended Microsoft’s immigration practices, citing lengthy green card backlogs, consistent employee compensation and the company’s recruitment of American workers
@@ -132,6 +135,21 @@ Solana, which operates one of the world’s largest cryptocurrencies, has cancel
 ## Leaving portfolio decisions to the professionals
 [The content of this article has been produced by our advertising partner.] For anyone with a smartphone, market information is rarely far away. Market prices, company news, economic data and analysis can all be pulled up in just seconds. But access to information does not necessarily make the next 
 
+## Israeli Settlers Launch a Coordinated Attack in the West Bank
+Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
+
+## An Underwater Shadow War Is Raging
+A new book examines a hugely consequential conflict happening mostly out of sight.
+
+## What in the World?
+Test yourself on the week of Oct. 10: The Houthis strike Saudi Arabia, Brazil shortens the workweek, and protests rock India.
+
+## How This Year’s Economics Nobel Winners Shaped the World
+The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers.
+
+## Nostalgia and Tonic
+Gin branding offers an unexpected window into the invention of tradition.
+
 ## The Empty Classrooms of ‘American Hagwon’
 Min Jin Lee’s third novel struggles under the weight of its sociological questions.
 
@@ -140,21 +158,6 @@ Washington and Riyadh risk sacrificing Syrian stability by pressuring Damascus t
 
 ## Europe Can Flag Ships to Keep the Black Sea Open
 The price of deterring Russia is accepting a share of the risk.
-
-## Uruguay Bucks Regional Migration Trend
-As other countries close their doors, Montevideo is launching a new path to permanent residency.
-
-## A Tale of Two Elon Musk Fights
-Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.
-
-## Ukraine Resumes Strikes on Russian Oil Refineries
-Zelensky directly defies Trump.
-
-## Can Ukraine Afford Its Own Defense?
-Ukraine has leaned on Europe for support so far, but that may get more complicated in the coming years.
-
-## USAID’s Destruction Left Nepal Dangerously Exposed
-Funding cuts ended critical flood-detection programs.
 
 ## Exercise Tarang Shakti: A Mirror to India’s Multipronged Engagements
 The exercise reflects two trends: the Indian military’s deepening interoperability with key partner nations, and India’s multi-vector foreign policy.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Can diplomacy resolve longstanding Ethiopia-Eritrea differences?
-The United States calls for dialogue as regional East Africa tension escalates.
+## Yemen’s government says Houthis fired two missiles at Aden airport
+Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.
 
-## White House press secretary Katie Zacharia fired after five days on the job
-Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.
+## Meta employees say Lula’s accounts restricted in Brazil election: Report
+The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.
 
-## Kenya records third Ebola case, linked to first patient who died
-Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.
+## How Israeli spyware used ‘zero click’ hack on Al Jazeera staff
+Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.
 
-## UK PM adviser’s wife expresses ‘support’ for Palestine Action
-Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell.
+## Students in Europe are rising up to call for better education
+Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
 
-## How Iran messaging highlights cost of war ahead of US midterm elections
-Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.
+## Food affordability fears plague Gaza as Israel halts commercial goods
+Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
 
-## Ukraine president targets Trump, Putin at EU summit
-President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.
+## Oregon community mourns victims of school shooting
+Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
 
-## US records 4,410 measles cases as outbreak grows
-The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts.
+## AOC transfers $1m to Michigan candidate El-Sayed in progressive push
+Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.
 
-## Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal
-Ukraine’s 'Operation Vivaldi' reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.
+## Trump told new press secretary to ‘reconsider’ role
+Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
