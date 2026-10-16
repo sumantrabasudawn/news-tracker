@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## Treasuries head for best week since February as AI jitters halt bond rout
-Borrowing costs fall back from highest levels in decades as investors seek safety in government debt
+## Big Tech stocks head for biggest weekly drop since ‘liberation day’
+AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off
 
-## EU vows to maintain Russia sanctions after US pivot
+## EU eyes more financial support for Ukraine after US pivot
 European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow
 
-## Has London’s £5bn ‘super sewer’ improved water quality in the Thames?
-Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife
+## US illegal border crossings from Mexico near 60-year low
+About 98,708 apprehensions were recorded this year, down from peaks of more than 2mn people under Biden
 
-## Apple set for UK legal fight over iPhone tap-to-pay rules
-Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology
+## Trump’s press secretary Katie Zacharia fired after five days
+Exit comes amid deepening turmoil for White House as midterm elections loom
 
-## Andy Burnham urges SNP’s John Swinney to team up on devolving jobs support
-UK prime minister rejects new independence vote in first big Scotland speech since taking office
+## Olly Robbins wins payout over Mandelson scandal sacking
+Former top Foreign Office official, who was dismissed by Keir Starmer in abrupt phone call, reaches out-of-court settlement
 
-## Citi becomes latest US bank to restrict AI agents from accessing accounts
-US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts
+## Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe
+Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise
 
-## Trump has failed to listen to voters on inflation
-People elect presidents to fix problems, not to diagnose their causes
+## Italy secures EU deal to lower its electricity prices
+Agreement marks a boost for PM Giorgia Meloni as nation struggles with higher fossil fuel prices
 
-## The hunt for Fed October
-Rate markets have been particularly volatile on the outcome of the Fed’s next rate decision later in the month
+## Looming UK tax rise puts bankers on edge
+Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders
 
-## Lufthansa exploring sale of software assets in €1bn deal
-Discussions come as German airline seeks to free up cash to make investments following stake in Portuguese carrier
+## Directors’ Deals: IG Design Group finance boss backs revamp
+New team at gift-wrap manufacturer, but sales are down
 
-## UAE had ‘clear incentives’ to influence Telegraph coverage, Ofcom finds
-Regulator cites Gulf state’s record on press freedom among concerns in report into RedBird IMI’s failed bid for newspaper
+## Stockpickers: Bytes Technology, YouGov, Softcat
+Our experts discuss which companies to buy, sell or hold this week
 
-## France and Germany seal EU car deal
-Berlin secured concessions on combustion engines and Paris on limiting partners’ access to ‘Made in Europe’
+## Alexandr Wang, Meta’s AI wunderkind
+The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg
 
-## Carmakers face smaller cut in UK EV sales targets
-Government seeks to lower mandate for electric cars sold by 2030 to 60% despite industry lobbying for bigger cut
+## Can consultants reinvent themselves once again?
+As AI becomes more capable, human advisers must find new ways to prove their worth
 
-## China unveils draft export controls on AI technologies and chips
-Expanded restrictions highlight Beijing’s determination to prevent transfer of most advanced technology overseas
+## Microsoft president warns Trump’s H-1B crackdown could push top AI talent abroad
+Brad Smith defended Microsoft’s immigration practices, citing lengthy green card backlogs, consistent employee compensation and the company’s recruitment of American workers
 
-## Editorial. Fatally expensive
-To combat high drug prices, caps alone will not work
+## Kolkata restaurants ride Durga Puja rush, stay open well past midnight
+Renowned eateries have already started staying open well past midnight, as the Durga Puja crowd makes a beeline to savour their sought-after dishes
 
-## Entry buyers use festive discount to buy mid-range phone
-Mid and Premium together account for 93% of expected festive demand, leaving 7% for everything above ₹50,000 and below ₹12,000
+## ChatGPT usage doubles in India over past year; OpenAI expands Hindi voice capabilities
+OpenAI is rolling out GPT-Live-1.1, an upgrade to its voice technology, with improved pronunciation, better handling of multilingual and mixed-language speech,
 
-## Constructive ongoing dialogues between BARC, IBDF and the Government for BARC ratings: Gaurav Banerjee
-Looking at the industry at large, Banerjee stressed focus on IP building and talent discovery as clear priorities across television, digital, gaming, animation
+## SC agrees to list plea that Rahul Gandhi ‘pushed’ woman journalist in Oct 12 march
+Orally mentioning the application before CJI, the senior advocate Gaurav Bhatia said the woman journalist was manhandled in the SC premises
 
-## SC upholds Bombay HC order quashing Yes Bank AT-1 write-off
-Liability may exceed ₹13,000 crore; shares plunge 14.43 per cent
+## SEBI’s CAS rollback: Brokers welcome VWAP return, but market veterans flag risks
+While brokers welcome the revised settlement mechanism, concerns persist over policy uncertainty, market integrity and whether the closing auction framework was given sufficient time.
 
-## India Cements acquires 3.6% stake in Zenataris Renewable for captive power needs
-The consideration involved is an equity investment of over Rs ₹20 crore and it will be closed within 120 days from the execution of the agreement
+## Delhi to ban BS-IV and older commercial goods vehicles from November 1
+Gurugram traffic police have asked transporters and operators to check emission standards and registration details before entering Delhi under the new restrictions.
 
-## Zinc futures: Retain the longs
-The October contract can resume the rally and touch ₹435
+## Fairfax to engage Parekh, Sukthankar to advise it on IDBI Bank acquisition
+Following the consummation of the proposed acquisition, the Prem Watsa-founded Fairfax expects that the operations of the new company would continue to be led by Rakesh Sharma, the current MD and CEO of IDBI Bank
 
-## STT collection surges 52% in FY27 amid market volatility; net direct tax collection grows 13%
-Experts say the STT jump, driven largely by higher levies on futures and options, could open room to reconsider the overlap with long-term capital gains tax in Budget 2027
+## Federal Bank logs highest ever net profit at ₹1,386 crore in Q2FY27
+NIM rose 26 per cent y-o-y to ₹3,153 crore
 
-## Water stress
-
+## US seeks bids to exchange 17 million barrels of crude from strategic reserve
+The United States plans to release 17 million barrels of crude oil from its Strategic Petroleum Reserve. This action aims to alleviate fuel price pressures amid disruptions caused by the war with Iran. The latest proposal is part of a broader international effort to stabilize energy markets announce
 
 ## Middle east war hits Indian fuel retailers: OMCs losing up to Rs 30 per litre, says report
 Indian oil marketing firms are grappling with significant losses, facing Rs 26 loss per litre for petrol and Rs 30 for diesel. The turmoil in West Asia has led to skyrocketing procurement and freight costs, rising eightfold, which heavily influences overall expenditures. Compounded by interruptions 
@@ -84,32 +84,29 @@ India could face inflationary pressures if the Middle East conflict results in s
 ## He paid Rs 15 lakh for Rs 10 lakh flat; builder demanded Rs 20 lakh more, buyer wins case
 A man, who was working in the US, booked a 1,208-square-foot flat along with a car parking space in Patna. The booking was confirmed in 2005, and the agreement for sale was signed in 2007. The total price agreed upon for the flat and parking space was Rs 10,41,250. Before the agreement was executed,
 
-## Tech Mahindra jumps 8%, IT firm adds Rs 11,000 crore to market cap after Q2 earnings
-Tech Mahindra witnessed an impressive surge of over 8% in its shares following the announcement of remarkable quarterly earnings. The IT giant recorded a 32.74% year-on-year increase in consolidated net profit, buoyed by robust volume growth and effective cost management. In celebration of its 40th 
+## Where is Dipke, asks CJP; lawyers meet Neha at RK Puram police station
+Where is Dipke, asks CJP; lawyers meet Neha at RK Puram police station
+
+## Akal Takht declares AAP MLA Giaspura 'Tankhaiya' over alleged objectionable remarks
+Akal Takht declares AAP MLA Giaspura 'Tankhaiya' over alleged objectionable remarks
+
+## JDU MLA Anant Singh clarifies on ‘9 murders’ remark
+The JD(U) defended ex Bihar CM Nitish Kumar’s political record and rejected any suggestion of an association with criminal activity.
+
+## Abhijeet Dipke, Neha Bora among 150 detained in Delhi; Oppn slams police action amid anti-CEC protests
+At least 150 people were detained around Janpath Road, CP and Mandi House. CJP founder Abhijeet Dipke and AISA activist Neha Bora were among them.
+
+## 'Bhaag Neha Bhaag, Jantar Mantar Chalo': Delhi protests inspire online games where players take on roles of protesters, cops
+From gathering virtual crowds and dodging water cannons to escaping police chases, the Jantar Mantar protests have inspired a series of free online video games.
+
+## Veteran BJP leader LK Advani admitted to Delhi's Apollo hospital with chest infection, condition stable
+LK Advani has been admitted to the pulmonary department and is under observation by a team of doctors.
 
 ## Centre seeks Punjab govt report on activist Jhota’s murder, measures to prevent drug trafficking
 The MHA has called for the implementation of key measures to support the national goal of a drug-free India.
 
 ## Govt defends Jaishankar-Rubio meet in Mumbai amid Oppn criticism: 'Practice for last decade or so'
 As the Opposition questioned why the US envoy had announced Jaishankar's meetings, Rahul Gandhi said “Rubio has summoned his employee to Mumbai”.
-
-## Chaos at Chhattisgarh garba event as right-wing workers create ruckus over presence of Muslims
-A scuffle broke out on the stage during which Congress district president and former mayor Dheeraj Bakliwal was reportedly pushed.
-
-## India rejects US lawmaker Pramila Jayapal’s remarks on voter roll revision as ‘interference in fellow democracy’
-India rejected US Congresswoman Pramila Jayapal’s criticism of the voter roll revision, calling her remarks “unwarranted and uninformed”.
-
-## Madras HC allows RSS route marches on Oct 25, Nov 1; slams TN police over repeated rejections
-The Madras High Court permitted RSS route marches in Tamil Nadu on October 25 and November 1, criticising police for repeatedly rejecting applications on grounds already disapproved by the court.
-
-## Bihar: 1.4mn voters added in post-SIR roll in one year
-The current electoral roll — last updated on October 1— has 75.5 million voters, roughly 1.4 million names more than the 74.1 million in September 2025 roll.
-
-## Karnataka HC recalls order in land grab case linked to Kharge family, fresh hearing on Oct 30
-The Karnataka High Court recalled its earlier order in the Siddhartha Vihara Trust land case linked to the Kharge family and scheduled a fresh hearing for October 30.
-
-## India urges US to ensure safety of its citizens after alleged plot to target Hindu temple in Illinois
-Nineteen-year-old Alexandros Paporakis was arrested on October 11 over an alleged plot to target Indian people at a Hindu temple in Aurora, Illinois.
 
 ## HKEX pushes back T+1 trade settlement to 2028 after brokers request more prep time
 Hong Kong Exchanges and Clearing said it had delayed a plan to shorten the settlement time for share transactions to the second half of 2028, so it could address widespread industry requests for more preparation time. Confirming a report by the South China Morning Post on Wednesday, the exchange sai
@@ -135,6 +132,15 @@ Solana, which operates one of the world’s largest cryptocurrencies, has cancel
 ## Leaving portfolio decisions to the professionals
 [The content of this article has been produced by our advertising partner.] For anyone with a smartphone, market information is rarely far away. Market prices, company news, economic data and analysis can all be pulled up in just seconds. But access to information does not necessarily make the next 
 
+## The Empty Classrooms of ‘American Hagwon’
+Min Jin Lee’s third novel struggles under the weight of its sociological questions.
+
+## Sending Syrian Soldiers to Yemen Would Be a Mistake
+Washington and Riyadh risk sacrificing Syrian stability by pressuring Damascus to join their war.
+
+## Europe Can Flag Ships to Keep the Black Sea Open
+The price of deterring Russia is accepting a share of the risk.
+
 ## Uruguay Bucks Regional Migration Trend
 As other countries close their doors, Montevideo is launching a new path to permanent residency.
 
@@ -149,15 +155,6 @@ Ukraine has leaned on Europe for support so far, but that may get more complicat
 
 ## USAID’s Destruction Left Nepal Dangerously Exposed
 Funding cuts ended critical flood-detection programs.
-
-## Algeria’s New Bid for Regional Influence
-A sharp break with the UAE underscores the North African country’s ambitions to reassert its presence on the international stage after decades on the periphery.
-
-## Why Spain Is Standing Up to Trump
-Foreign Minister Albares: “We believe in international law.”
-
-## The Radioactive Ore That Could Break China’s Grip on Rare Earths
-Western powers are scrambling for monazite ore—but can they handle it?
 
 ## Exercise Tarang Shakti: A Mirror to India’s Multipronged Engagements
 The exercise reflects two trends: the Indian military’s deepening interoperability with key partner nations, and India’s multi-vector foreign policy.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry
-About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.
+## Can diplomacy resolve longstanding Ethiopia-Eritrea differences?
+The United States calls for dialogue as regional East Africa tension escalates.
 
-## Qatar announces ‘massive’ solar plant project in Lebanon
-Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.
+## White House press secretary Katie Zacharia fired after five days on the job
+Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.
 
-## How Israeli firm’s ‘zero-click’ malware attack poses global security risk
-A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.
+## Kenya records third Ebola case, linked to first patient who died
+Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.
 
-## Qatar FM calls for Israeli withdrawal from Lebanon
-Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.
+## UK PM adviser’s wife expresses ‘support’ for Palestine Action
+Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell.
 
-## Can Russia help ease tensions between Pakistan and Afghanistan?
-Russia has close ties with the Taliban and is courting Islamabad, but analysts say its leverage remains uncertain.
+## How Iran messaging highlights cost of war ahead of US midterm elections
+Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.
 
-## Ethiopia announces instalment of interim government in Tigray
-After military pushed back TPLF uprising, PM Abiy Ahmed promises free elections within six months.
+## Ukraine president targets Trump, Putin at EU summit
+President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.
 
-## Jerusalem Daily: Israeli settlers burn Palestinian olive groves
-Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.
+## US records 4,410 measles cases as outbreak grows
+The CDC reports 451 hospitalisations nationwide as health officials expand vaccination efforts.
 
-## Palestinians, US journalist attacked in West Bank pogrom: What we know
-Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.
+## Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal
+Ukraine’s 'Operation Vivaldi' reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
