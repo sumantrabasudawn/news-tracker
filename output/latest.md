@@ -1,115 +1,121 @@
 # AION Intelligence
 
-## MSCI warns it may cut Indonesia from main indices
-Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy
+## Hiding from the everything trade
+Unhedged readers on how to hedge AI risk
 
-## Netflix replaces chief content officer in effort to arrest declining share price
-Peter Rice will replace Bela Bajaria as streamer grapples with slowing viewer engagement and pressure from investors
+## Dollar weakens as Fed’s Warsh declines to hint at October rate rise
+Comments at IMF meetings come after inflation data raised bets of possible back-to-back rate rises
 
-## Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’
-A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade
+## EU resists bid to weaken emissions rules as leaders spar over energy costs
+Also in this newsletter: Orbán’s favourite Brussels think-tank rebrands
 
-## Farage accused of ‘protecting’ mayoral candidate who allegedly made racist comments
-Senior aide to Reform UK leader pushed to have Chris Parry thrown out of the party, according to TV documentary
+## FirstFT: Healey signals tax raid on banks in UK Budget
+Also in today’s newsletter: London’s UBS HQ offer and Merz vows to fight on
 
-## How India deleted more than 100mn voters
-Critics say ‘aggressive’ review wrongly removed eligible voters, many of them Muslim, and may have benefited PM Modi’s party
+## Wall Street’s AI wobbles
+Investors are dumping data centre bonds and abandoned listings are piling up
 
-## 777 Partners’ Josh Wander pleads guilty to fraud charges
-Financier who tried to buy Everton FC changes plea on eve of trial
+## Young people to get less cash but more job support under Milburn welfare plan
+Former Labour cabinet minister is finalising review into the million young people not in education, employment or training
 
-## Treasuries rally as investors seek shelter from AI turbulence
-Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom
+## Anthropic secured highest junk credit rating in June
+Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status
 
-## Commercial goods blocked from entry into Gaza
-Israelis and Palestinians trade blame for the cut-off of new goods from the devastated enclave
+## Has London’s £5bn ‘super sewer’ improved water quality in the Thames?
+Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife
 
-## Nineteen people injured in accident on French side of Channel Tunnel
-Two airlifted to hospital after bus collides with train at Coquelles
+## The data centre IPO debacle that sparked a market meltdown
+Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy
 
-## Harvard’s endowment returns surge on back of AI and SpaceX investments
-Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound
+## Why law firms should resist the lure of the AI spin-off
+A carve-out could raise capital, but it’s a crowded sector and valuations don’t accord with the sector’s lack of profitability
 
-## Meta and Apple team up on AI model tailored for Mac computers
-Partnership between Big Tech rivals offers ‘open’ system that users can download to their own devices
+## UK government courted UBS over London HQ move
+Rachel Reeves pitched the City as alternative home for Swiss bank, which is weighing its options amid new capital proposals
 
-## The AI boom stumbles
-Should investors prepare for an AI bust? And if so, how?
+## Anti-India hatred turning into violence: US lawmakers
+A 19-year-old was arrested in Palatine near Chicago for planning a mass shooting at the Sri Venkateswara Temple in Aurora, Illinois on Sunday
 
-## Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks
-CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns
+## Nifty slips after gap-up open as IT stocks rise amid inflation concerns
+IT stocks propel gains even as broader benchmarks waver post-gap, with inflation jitters keeping risk sentiment in check ahead of macro cues and new market microstructure rules
 
-## No impact on workforce strategy due to US ban: TCS
-The company’s workforce strategy in the US is anchored in hiring local talent, supported by a robust campus recruitment model, as per management
+## Sensex today | Stock Market Live: Sensex rises 250 pts, Nifty near 23,100; TechM shares up 7%
+Sensex, Nifty, Share Prices Live: IT stocks dominate gainers as indices rebound
 
-## e3W sales surge 40% in September; market share rises to 64.9%
-Bajaj leads the chart followed by Mahindra and TVS
+## Iran says US response to its proposal to reopen Hormuz was 'insufficient'
+Iran deemed the US response insufficient to its seven-condition proposal on reopening the Strait of Hormuz, signaling stalled negotiations and ongoing closure
 
-## KICL receives Type Certificate from DGCA for KOAIR-10L Drone
-The company announced to the BSE that the Type Certificate was issued on October 9 under the Drone Rules, 2021
+## FM holds talks with global financial leaders in Singapore, pitches for boosting investment in India
+During her meeting with MUFG Asia Pacific CEO Yukinobu Saeki, they discussed expanding the Japanese financial group’s presence in India
 
-## Mark-to-market losses in equity markets to test profitability of MFs
-Steady inflows into equity schemes through SIPs and lump-sum investments could provide a saving grace
+## Delhi Metro shuts entry, exit at six stations ahead of Congress protest against CEC
+However, interchange facilities would be available at the affected stations, the DMRC said
 
-## Airlines seek release of funds arising from VAT relief on ATF
+## Fairfax proposes to contribute its interests in Digit, IIFL Capital to IDBI Bank
+Fairfax CEO emphasises that combining IDBI Bank, Digit, and IIFL Capital would create an entity that is well-positioned to participate in the continued growth and success of Indian markets
+
+## Amazon in talks to buy AI startup Decart for around $7 billion
+Decart's Lucy model, backed by ‌Nvidia, can edit live video ‌in ⁠real time
+
+## FM Sitharaman seeks early India-US trade deal, flags China’s market access barriers
+Finance Minister Nirmala Sitharaman highlighted the need to finalize the India-US trade agreement for enhanced bilateral relations. She expressed concerns over the trade imbalance with China and non-tariff barriers obstructing market access. Sitharaman stated that infrastructure investment has susta
+
+## Rupee gains 20 paise against US dollar as RBI support kicks in, greenback weakens
+On Friday, the Rupee showcased a solid performance, climbing 20 paise to hit 94.79 against the US dollar, building on gains from the previous day aided by a softer dollar and actions by the Reserve Bank of India. Nevertheless, escalating crude oil prices curtailed further advancements, even as domes
+
+## India raises petrol export duty fivefold to Rs 2.5/litre, cuts diesel levy to Rs 8.5
+In a recent policy shift, the Indian government has raised the export duty on petrol to Rs 2.5 per litre while reducing the diesel duty to Rs 8.5 per litre. This adjustment reflects the government's continuous evaluation of export duties based on global crude oil pricing, which occurs biweekly. Inte
+
+## Taxman capped LIC retiree's leave pay exemption at Rs 3 lakh; ITAT allows Rs 9.04 lakh
+A woman retired from Life Insurance Corporation of India (LIC) on June 30, 2020 after more than 30 years of service. She received Rs 9.04 lakh as leave encashment, in addition to her other retirement benefits. While filing her income tax return (ITR), she claimed a tax exemption on the entire leave 
+
+## Stock market today: BSE Sensex gains 400 points, NSE Nifty50 tops 23,100
 
 
-## CDS offers 5-year defence procurement roadmap, admits to policy gaps in tech procurement
-Chief of Naval Staff Chief Admiral Krishna Swaminathan urged the industry to invest more in defence R&D
+## 'Welcome competition including Starlink': Reliance reacts to Musk's comments
+Reliance Industries has welcomed the entry of Elon Musk's Starlink into the Indian satellite communications market. The company clarified that it has never feared competition and is also awaiting clearances for its satellite services. Musk has alleged that Reliance benefits from monopolistic practic
 
-## Pocket
+## Stock recommendations: What are the top stocks to buy or sell on October 16, 2026?
+Stock market recommendations: Aarti Industries, and Blue Star are the top stocks to buy today on October 16, 2026 as picked by Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One.
 
+## Oil prices dip marginally as US weighs easing sanctions on ‘shadow fleet’ tankers
+Amid fluctuating oil markets, current tensions in the Middle East and possible shifts in US sanctions have resulted in a marginal decline in oil prices. WTI crude is priced at $97.31, with Brent crude at $105.40. While recent moves to lift restrictions on certain vessels aim to counter soaring globa
 
-## Cancer drug margin cap sparks affordability concerns; industry seeks uniform pricing rules
-While industry bodies have welcomed the move, they have also sought transparent, uniform pricing rules to prevent excessive mark-ups and ensure a level playing field for domestic manufacturers
+## Rajnath Singh accuses Congress of seeking ‘regime change through violence’ amid anti-CEC protests
+Rajnath Singh alleged that the Congress' protests were not about electoral rolls but an “attempt to weaken institutions” that function independently.
 
-## Jobless rate 5% in Sept vs 5.2% year ago: PLFS
+## Shivraj Chouhan leads delegation to Mohan Yadav over Kosmi demolition row
+The meeting followed buzz about friction within the ruling party after the state forest department and district administration carried out a demolition drive in Kosmi.
 
+## Ammo deal graft probe casts shadow on top-performing defence PSU, clean-up on cards
+Munitions India Limited is set to face a clean-up and renewed push for accountability following corruption allegations, officials familiar with the matter said.
 
-## Exports up 23%, trade deficit at $30 billion in September
+## Alberta separation referendum: Carney reaches out to Indo-Canadians citing stronger India ties
+He said the two sides were discussing a trade deal in an interview with a network popular with Indian community
 
+## Herbicide paraquat dichloride, used for quicker ripening of green gram, banned in India; MP issues orders
+Madhya Pradesh agriculture department director Umashankar Bhargava said action will be taken against companies and dealers if any stock or sale is found
 
-## After Jio's listing, RIL could topple Tata as India's most valuable group
+## Manipur: Kuki body demands probe into killing of woman in Kamjong district
+According to a statement issued by KZC, four Kuki-Zo villagers were travelling from Molvailup to Phaikoh when they were reportedly ambushed by NSCN-IM cadres at around 4pm on Thursday
 
+## Mumbai's Siddhivinayak Temple gets nod to buy 20 adjoining units for ₹94 crore
+The purchase is part of a ₹100-crore expansion plan to improve facilities and manage crowds at the busy Mumbai temple.
 
-## India’s current account deficit narrows to $5.2 billion in August, RBI data shows
-India's overall balance of payments showed a surplus of $45.4 billion in August 2026. This significant surplus is attributed to an increase in foreign currency inflows, especially from non-resident Indian deposits. The current account deficit also narrowed slightly to $5.2 billion during the same mo
+## Modi to visit Ottawa, Toronto, will see if it can be broadened out: Mark Carney
+Modi will visit Canada Dec. 11-12 as both countries fast-track trade talks and seek to finalize a pact aimed at doubling bilateral trade by 2030.
 
-## Flat redeveloped and sold for Rs 1.95 crore in 8 days; taxman denies LTCG, ITAT grants relief
-The man had purchased a 510-square-foot flat in a housing society in Mumbai, during FY 2006-07, where he lived with his wife. Many years later, in FY 2012-13, the housing society entered into a redevelopment agreement with a builder. The builder handed over the redeveloped flat to the man after the 
+## Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms
+Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint investigation team including offi
 
-## India-China trade jumps 29% to $91.76 billion, overtakes US in first half of FY27
-India's bilateral trade with China rose significantly in the first half of the financial year. Trade with the US also increased, although the surplus narrowed. Exports to various countries, including Singapore and Tanzania, showed substantial growth. However, imports from some nations declined durin
+## ‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market
+The wallpaper on Allan Zeman’s office desktop computer screen is an image of Chandara, the private estate in Phuket that he has owned for more than two decades. Now the “father of Lan Kwai Fong” is bringing the Thai resort-style concept to Hong Kong’s luxury housing market. Located in rural Sai Kung
 
-## Rs 1 crore-plus salaries: Amid layoffs, which Indian IT jobs are getting huge salary premiums?
-Even as restructuring and layoffs happen, some jobs in the IT sector are getting paid well - and across levels whether entry or senior. Which roles are in demand? What are the average salary levels for special capability sets and which roles are under pressure? The premium concentrates in four famil
+## China has banned the crypto business. So why is Solana opening a splashy Shanghai office?
+Solana’s opening of a fancy new office in a Shanghai skyscraper has set the crypto industry abuzz, with some speculating that the intensifying US-China tech rivalry could be creating a window of opportunity for crypto firms looking to engage with the Chinese market. Solana, which operates one of the
 
-## Russia begins diesel exports after Trump deal amid global oil market concerns
-Russian diesel exports have started reaching global markets following an agreement with US President Donald Trump. The Kremlin stated that these supplies could help stabilize oil markets, but they will not suffice. Reports indicate that Russian shipments of diesel resumed from the Baltic port of Pri
-
-## Delhi: Customs officials seize 148 kg of suspected cannabis hidden in plastic spools
-The consignment had been declared as PU tubes and packed in 19 cartons. It was placed on hold after officers suspected a misdeclaration.
-
-## Unacceptable interference: Indian envoy rejects US lawmaker's ‘purging 130 million from voter rolls’ remark
-US Congresswoman Pramila Jayapal raised concerns over reports that 13 crore names were removed from India's voter rolls during the SIR exercise.
-
-## Four workers killed in explosion at chemical manufacturing unit in Gujarat’s Gandhinagar
-Four workers killed in an explosion at chemical manufacturing unit in Chhatral GIDC in Gujarat’s Gandhinagar district, Gandhinagar SP Ravi Teja Vasamsetty said.
-
-## Over 6,000 cops on duty, barricades in place: Delhi gears up for CJP march
-Police said more than 10 CCTV cameras had been installed in and around the Central Park and Rajiv Chowk areas ahead of the march.
-
-## Ankita Bhandari’s parents picked up at 4am, Rahul Gandhi accuses Centre of silencing them
-Rahul Gandhi accused the Narendra Modi government of trying to “silence” the parents of Ankita Bhandari, who were allegedly taken into custody at 4am
-
-## ECI directs officers to provide political parties with searchable PDF voter rolls
-The Election Commission has directed officers to provide recognised political parties with searchable PDF copies of draft and final voter rolls, excluding voters’ photographs.
-
-## Dead fish in Yamuna near Burari raise alarm over Delhi river’s water quality
-Several dead fish spotted along Yamuna near Burari in north Delhi since Wednesday night, raising concerns over the river’s water quality
-
-## Kuki woman killed, two missing after gunfight breaks out in Manipur’s Kamjong: Police
-Kuki woman was reportedly killed, two others went missing following a gunfight between Kuki and Naga groups in Manipur’s Kamjong district on Thursday, police said
+## Leaving portfolio decisions to the professionals
+[The content of this article has been produced by our advertising partner.] For anyone with a smartphone, market information is rarely far away. Market prices, company news, economic data and analysis can all be pulled up in just seconds. But access to information does not necessarily make the next 
 
 ## Hong Kong’s IPO fraud clampdown sends shock waves across financial sector
 Hong Kong regulators’ tough action to crack down on fraudulent activity in the initial public offering market is sending ripples across the city’s financial industry, with insiders predicting short-term turbulence as some listings are scaled back or even cancelled. Financial intermediaries and IPO s
@@ -122,18 +128,6 @@ The Hong Kong government will release two parcels of land for sale – one for a
 
 ## Hong Kong ranks third globally as philanthropy hub, behind New York and Seoul, study finds
 Hong Kong has emerged as the third best city in the world for wealthy individuals seeking to make philanthropic contributions over the medium term, trailing New York and Seoul, according to a study by Altrata. The inaugural Giving Opportunity Index by the US-based group that tracks the world’s afflu
-
-## HSBC to double Hong Kong AI team to 300, outpacing Singapore plan
-HSBC, Hong Kong’s biggest lender, said on Thursday it would double its artificial intelligence specialist team in the city to 300, a figure much larger than the workforce planned for its recently announced AI centre in Singapore. The announcement comes after Hong Kong’s regulators were reported to h
-
-## Hong Kong firm, Qatar bank to launch Chinese equity fund to lure Middle East capital
-China Asset Management (Hong Kong) and Qatar’s Lesha Bank agreed on Wednesday to launch Qatar’s first sharia-compliant China equity fund, highlighting growing efforts by Chinese financial institutions to lure Middle East capital as institutional investors and wealthy families seek safe havens amid g
-
-## China’s CXMT gets pledge of support as provincial party chief vows chip-industry expansion
-Three weeks into his tenure as the Communist Party secretary of Anhui province, Li Lecheng carried out an on-site inspection at China’s home-grown memory chip giant ChangXin Memory Technologies (CXMT) on Wednesday, pledging to grow integrated circuits (ICs) as an emerging pillar industry. During the
-
-## AI job losses set to rein in office demand in developed Asia-Pacific economies: report
-A mild displacement of jobs across the Asia-Pacific region as companies expand their use of AI would trim five percentage points off growth in office space demand in the next few years, according to property consultancy CBRE. In a report released on Thursday it said 3.9 per cent of office jobs were 
 
 ## A Tale of Two Elon Musk Fights
 Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.
@@ -231,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns
-Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.
+## US sanctions leave Iranians facing flight cancellations and soaring costs
+New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear.
 
-## Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports
-Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.
+## Rubio presses Lebanon on confiscation of weapons from Hezbollah
+Lebanon's president reaffirms the commitment to bring all arms under state control.
 
-## Two Syrian pipelines damaged amid spate of attacks on energy infrastructure
-Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.
+## Four killed as Indonesia battles worst forest fires in more than a decade
+The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.
 
-## At least 4, including 3 children, killed in US elementary school shooting
-Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
+## Bystander guns down suspected primary school shooter in Oregon
+Three children and a teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon.
 
-## Israel halts commercial goods from entering Gaza; Hamas denies tax claims
-The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
+## Infantino apologises amid calls for him to quit as FIFA president
+Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.
 
-## Man United’s Martinez apologises for outburst after talks with Carrick
-Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
+## China tells Israel to stop ‘forced establishment’ of West Bank settlements
+'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.
 
-## Trump administration sues California over noncitizens on voter rolls
-Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
+## Residents douse workers with flaming gasoline during eviction in Peru
+A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.
 
-## Several people dead or missing after Istanbul floods
-Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul
+## Argentine students protest on campus over Milei’s austerity
+Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.
+
+## India’s two economies
+The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
 
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
@@ -275,9 +272,6 @@ The World Bank is in talks with numerous countries to address energy price incre
 
 ## China's trade restrictions for services exporters under review
 India is proactively gathering insights on the trade hurdles faced by its services exporters in China, engaging with industry representatives to address concerns. The investigation encompasses aspects like licensing, data regulations, and the challenges faced by Indian professionals in movement. Des
-
-## GST e-invoicing may cover services imports from unregistered companies
-The Indian government is set to enhance GST reporting for imported services through e-invoicing. This expansion will affect businesses with an annual turnover exceeding ₹5 crore. Companies will need to modify their documentation processes to comply with the new regulations. Proposed changes aim to r
 
 ## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
 The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
