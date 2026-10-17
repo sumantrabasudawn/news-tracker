@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Protesters clash with police in Paris and Marseille
+Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system
+
+## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
+President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks
+
 ## Lula turns to selfie videos in election fightback
 Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting
 
@@ -18,12 +24,6 @@ Losses across semi stocks have been unequal
 ## What is behind the surprising resilience of the UK economy?
 IMF forecasts and the latest GDP data this week painted a picture of unexpected strength
 
-## US university offers cut-price UK degree for international students
-Arizona State University aims to expand to an annual intake of up to 4,000 students in Britain in the coming years
-
-## Houthis encircle new target in conflict with Saudi-backed forces
-Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates
-
 ## Formula 1 bets on Rwanda
 Also in today’s newsletter: the leadership shake-up at Netflix and a baseball giant falls
 
@@ -39,29 +39,38 @@ A trickle of sales to foreign buyers risks becoming a flood
 ## ‘Inflation will make people poor’: Airlines brace for years of pain
 Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation
 
-## Central Bank of India Q2 net profit jumps 21% to ₹1,469 cr on higher core income
-Central Bank of India’s total income climbs to ₹11,737 crore in Q2 FY27 from ₹10,212 crore a year ago
+## How small-cap funds shed liquidity risk despite rich valuations
+Improvement was driven largely by higher market trading volumes and changes in portfolio composition, including greater exposure to relatively liquid stocks and a broader stock count
 
-## Mutual Funds returns
-As on : Oct 17, 2026
+## No sugar diversion for ethanol production: Govt to OMCs
+The OMCs have floated a cumulative requirement of 1,100 crore litres with 300 crore litres to be supplied in the first two quarters and 250 crore litres each in the last two quarters
 
-## Q2 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank report profit growth; YES Bank in focus
-Q2 Results Today, 17th October 2026 Live Updates: Stay tuned to get real-time market, business and financial news updates
+## Bonfiglioli IPO: Exposure to manufacturing and infrastructure led growth
+Strong parentage, innovation-led and favourable end-markets support long-term prospects.
 
-## Think. Over the week
+## Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns
+The fund’s growth-oriented strategy and sizeable small-cap exposure make it suitable for investors with higher risk appetite
 
+## Insurance query
+AYUSH coverage is heating up in Indian health plans—Ayurveda, Yoga, Unani, Siddha, and Homeopathy are more available than ever, but claims can still trip you up
 
-## Burma Burma owner Hunger Pangs files DRHP with SEBI
-The proposed IPO comprises a fresh issue of equity shares worth up to ₹150 crore and an offer for sale (OFS) of up to 2.79 crore shares by existing shareholders
+## Bandu’s Blockbusters for October 18, 2026
+Guess the stock that will give the best return by next Friday
 
-## updated for print : FSSAI initiates legal proceedings against Priyagold Biscuits maker, Dodla Dairy, Ueir Organic Foods
-Deficiencies included plant hygiene, pest control, raw material storage and segregation, personnel hygiene, premises maintenance, among others
+## Should you subscribe to Zetwerk’s IPO?
+Zetwerk’s scale, order inflows and manufacturing opportunity are compelling, but persistent losses, execution questions and a rich IPO valuation leave little room for error
 
-## Tesla’s ‘flying’ Roadster could reach India; bookings open from ₹5.01 lakh
-Tesla opens Indian reservations for its Roadster Performance and Thrust sports cars, with reported deposits reaching ₹2.50 crore; an invitation-only flying version could also reach India as Tesla’s luxury EV registrations surge 836%
+## Getting out of a debt trap
+A personal account of how F&O losses, mounting loans and the urge to recover money turned into a financial crisis — and what it took to rebuild
 
-## IDBI Bank Q2 FY27 results: Net profit falls 39% to ₹2,205 cr as non-interest income moderates
-This is the first quarterly numbers after the government earlier this week approved the sale of a 60.72% stake in IDBI Bank to Canada’s Fairfax Financial Holdings for about ₹53,000 crore
+## The Indian growth story: Why the post-pandemic boom is different
+India’s economy contracted by 5.8% in 2020 during the pandemic before rebounding with growth of 9.7% in 2021. It then expanded by more than 7% in each of the following four years. If current forecasts hold, India could surpass that record. The IMF has raised its growth projection for India in the cu
+
+## Man skipped ITR, declared Rs 12.9 lakh income after notice; ITAT cancels 200% penalty
+The man in this case failed to file his income tax return, and the Income Tax Department issued him a notice. He subsequently responded by filing an ITR for assessment year (AY) 2018-19, reporting an income of Rs 12.9 lakh. However, the Income Tax Assessing Officer (AO) took the view that this incom
+
+## ICICI Bank Q2 results: Standalone profit rises 20% to Rs 14,843 crore, NII up 17.7%
+ICICI Bank has reported a remarkable 20.1 percent surge in standalone net profit for Q2 of FY 2026-27. This impressive performance is further highlighted by a 22.28 percent increase in consolidated net profit, which reached Rs 16,333.18 crore. Year-on-year, net interest income rose by 17.7 percent, 
 
 ## HDFC deputy MD Kaizad Bharucha announces exit ahead of Anup Bagchi's takeover as CEO
 HDFC Bank's Deputy Managing Director, Kaizad Bharucha, has announced his resignation, effective December 31. This move precedes Anup Bagchi's appointment as the new Managing Director and CEO. In the latest reports, HDFC Bank has demonstrated remarkable profitability shifts this July to September, re
@@ -78,38 +87,29 @@ A revival in global markets may be underway as strong economic growth and rising
 ## What does Trump's tariff, sanctions waiver on Russian oil mean for India?
 The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 gave Trump the authority to impose broad sanctions on Russia and levy steep tariffs on major buyers of Russian oil and gas, including China and India. One of the largest buyers of Russian crude, India was among the countries that expresse
 
-## Trillion dollar gap: US budget deficit swells to nearly $2 tn in fiscal 2026
-In fiscal 2026, the United States government faced a substantial budget shortfall of $2 trillion, largely attributed to soaring expenditures. Key factors included rising debt-service costs, increased social benefits, and heightened defense spending. Meanwhile, a Supreme Court ruling resulted in redu
+## 'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant
+CM Sarma, in his post on X, also reflected on his son's decision to take a year off for CLAT preparation.
 
-## Trump waives Russia sanctions, restrictions and duties under Graham Act
+## US' Russia sanction waiver a relief for India's exporters, energy security: Experts
+On October 16, Trump waived sanctions, restrictions and duties under SRIA, citing national interest.
 
+## Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18
+Rahul Gandhi will join the Congress’s Goy Rakhon Yatra in Goa on Sunday and address its concluding meeting in Margao.
 
-## Reliance Industries to Elon Musk: Competition welcome, but follow rules
+## Imran Khan challenges ‘leave India’ notice: ‘No reasons disclosed, no chance to respond’
+Actor Imran Khan received a 'leave India' notice by the Mumbai office of the Foreigners Regional Registration Office (FRRO) on Thursday.
 
+## FSSAI mulls stricter regulations for baby food, proposes ban on added sugar
+The ministry of health and family welfare said the emphasis is on minimising exposure to added sugars during the earliest stages of life.
 
-## HT Evening Brief October 17: Abhijeet Dipke gets conditional bail; Supreme Court backs children’s internet rights
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+## SC panel launches portal for complaints, evidence on use of pellet guns, violence during July protest at Jantar Mantar
+The portal, http://hpec.nic.in, has been launched for the convenience of affected people, including police personnel.
 
-## CBI quizzes ex- BJP MLA Suresh Rathore day after Ankita Bhandari's parents seek his narco tests
-Ankita Bhandari's parents met senior CBI officials on Friday and sought narco-tests on the former legislator, as well as on actor Urmila Sanawar.
+## 8 killed as vehicle carrying pilgrims to Rajasthan's Khatu Shyam temple plunges into drain
+The vehicle, carrying Khatu Shyam pilgrims, broke through the divider, plunged into the drain and crashed into a wall.
 
-## Supreme Court orders autism patients on stem cell therapy to register on Centre’s portal
-The Centre must launch a portal for autism patients undergoing stem cell therapy and issue a protocol explaining rules for clinical trials and research, the SC said.
-
-## Woman murdered at Gurugram home, husband finds body in bathroom with hands tied, mouth taped
-The woman, identified as Neetu, was found by her husband, Prashant, a teacher at a private school, when he returned home with their children from school.
-
-## CJI Surya Kant calls on graduates to ‘defend liberty, uphold Constitution’ at Bengaluru law college
-Addressing students at NLSIU, the CJI said legal education must go beyond academic learning and prepare students to engage with diverse perspectives.
-
-## Government doctor among 3 arrested as Rajasthan ANTF seizes 3.764 kg of raw MD
-Rajasthan’s Anti-Narcotics Task Force arrested a government doctor and two others after busting an alleged mephedrone manufacturing unit in Balotra.
-
-## Abhijeet Dipke granted conditional bail: 'Ensure no breach of peace for one year'
-One of the primary conditions of the bail to Abhijeet Dipke would be to ensure there is no breach of peace on his end for a period of one year.
-
-## Odisha engineer detained after late-night chase, ₹21.89 lakh seized in vigilance raid
-Odisha vigilance detained a water resources department engineer after seizing ₹21.89 lakh in unaccounted cash from him and his rented flat in Bhubaneswar.
+## All nine Indian seafarers on board chemical tanker YARA J safe in Romania: Embassy
+On October 7, New Delhi strongly condemned assaults directed at commercial vessels throughout the Black Sea corridor.
 
 ## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
 Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Child, four women among Palestinians injured in West Bank pogroms
-Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
+## Buildings and cars set on fire as cost of living protests rock France
+Protesters have set fire to cars and buildings in France as demonstrations escalate.
 
-## Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
-The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
+## Pope Leo leaves hospital after lung cancer surgery
+Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery
 
-## Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
-A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
+## Neto’s brace fires Chelsea past Everton but Martinez head injury mars win
+Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite.
 
-## France tackles new wave of nationwide protests
-France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.
+## Ilhan Omar’s lawyers demand the return of property seized in house raid
+Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.
 
-## US and Iran both claim control of Strait of Hormuz amid attacks on vessels
-Two vessels have been struck with naval mines in the Strait of Hormuz this week.
+## Thousands rally for biggest protest in years against Tunisia’s Saied
+Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.
 
-## Women protest in New Delhi against police brutality
-Women protest in New Delhi against police brutality
+## Why adults are going back to summer camp
+Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.
 
-## Russian strikes kill civilians, injure dozens across Ukraine
-At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.
+## Hurricane Trudy makes its way towards Mexico, threatening heavy rain
+Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year.
 
-## Protests spread across France as ‘yellow vests’ set to join
-Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.
+## Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction
+The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
