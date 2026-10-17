@@ -1,10 +1,13 @@
 # AION Intelligence
 
-## Israeli settlers attack European diplomats in the West Bank
-Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
+## White House chaos overshadows Trump’s midterms push
+Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps
 
 ## Protesters clash with police as demonstrations erupt across France
-Tens of thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system
+Clashes overshadow day of protests by tens of thousands over high living costs and dissatisfaction with the education system
+
+## Israeli settlers attack European diplomats in the West Bank
+Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
 
 ## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
 President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks
@@ -87,6 +90,12 @@ A revival in global markets may be underway as strong economic growth and rising
 ## 'Ready to connect India with high-speed internet': Starlink reacts to Reliance's message
 
 
+## SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces ₹25 lakh aid, government job
+At least 19 people died in a Kolkata Durga Puja pandal stampede. The state has announced a judicially headed SIT probe and compensation for victims.
+
+## Bengal CM forms high-level panel to review safety at Durga Puja pandals after 19 die at Chorbagan stampede
+Bengal CM forms high-level panel to review safety at Durga Puja pandals after 19 die at Chorbagan stampede
+
 ## Indore BJP official booked under POCSO for misbehaving with girl at Garba venue
 Accused Kamal Chauhan is a supporter of MLA Ramesh Mendola and was assigned duty to manage arrangements at the Garba venue at Kankeshwari Ground in Indore.
 
@@ -99,17 +108,11 @@ The stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal, a 
 ## Kolkata pandal stampede: Mamata Banerjee expresses 'shock and grief', TMC alleges poor crowd management
 In an X post, the TMC stated that eyewitnesses and local residents reported little to no police presence for crowd control at the Chorebagan Puja Pandal.
 
-## Kolkata stampede LIVE: 17 dead in Chorbagan incident; pandals seeing heavy rush closed
-Kolkata stampede LIVE: A stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal in Kolkata. While several are said to have been injured, there is no confirmation on any fatalities yet.
+## Kolkata stampede LIVE: Toll reaches 19, CM Suvendu Adhikari says Chorbagan puja organisers detained
+Kolkata stampede LIVE: A stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal in Kolkata.
 
 ## 'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant
 CM Sarma, in his post on X, also reflected on his son's decision to take a year off for CLAT preparation.
-
-## US' Russia sanction waiver a relief for India's exporters, energy security: Experts
-On October 16, Trump waived sanctions, restrictions and duties under SRIA, citing national interest.
-
-## Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18
-Rahul Gandhi will join the Congress’s Goy Rakhon Yatra in Goa on Sunday and address its concluding meeting in Margao.
 
 ## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
 Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’
-Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago.
+## Photos: No Kings rallies in US urge midterm voters to cast ballots early
+Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
 
-## India and West Indies denied a thrilling finale as rain hits final T20
-India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.
+## Cost of living protests hit Belgium, Italy, Portugal and France
+Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.
 
-## Pope Leo returns to Vatican after lung cancer surgery
-Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday.
+## Ten killed in fire at beach resort in Bangladesh
+Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.
 
-## Trump faces bipartisan backlash over Russia sanctions waiver
-Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.
+## Protesters allege police brutality as violent clashes rage on in Albania
+Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.
 
-## Jerusalem Daily: Israeli settlers attack farmers and journalists
-After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.
+## Al Jazeera reporter harassed, struck on head amid France protests, looting
+Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.
 
-## Al Jazeera reports from Paris as protests turn violent
-In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.
+## Iranian TV airs video said to show tanker explosion in Hormuz
+Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz
 
-## Why are Latin American countries building closer ties with Israel?
-A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.
+## At least 17 killed in stampede at religious gathering in India
+Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.
 
-## Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
-Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks.
+## Albanian police fire rubber bullets as protests against Rama escalate
+Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
