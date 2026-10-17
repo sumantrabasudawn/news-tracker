@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## Protesters clash with police in Paris and Marseille
-Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system
+## Israeli settlers attack European diplomats in the West Bank
+Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
+
+## Protesters clash with police as demonstrations erupt across France
+Tens of thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system
 
 ## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
 President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks
@@ -21,9 +24,6 @@ US president gives Putin a reprieve on threatened energy measures after cutting 
 ## Chart of the Week: The chip stock split
 Losses across semi stocks have been unequal
 
-## What is behind the surprising resilience of the UK economy?
-IMF forecasts and the latest GDP data this week painted a picture of unexpected strength
-
 ## Formula 1 bets on Rwanda
 Also in today’s newsletter: the leadership shake-up at Netflix and a baseball giant falls
 
@@ -39,29 +39,32 @@ A trickle of sales to foreign buyers risks becoming a flood
 ## ‘Inflation will make people poor’: Airlines brace for years of pain
 Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation
 
-## How small-cap funds shed liquidity risk despite rich valuations
-Improvement was driven largely by higher market trading volumes and changes in portfolio composition, including greater exposure to relatively liquid stocks and a broader stock count
+## Jio Platforms IPO: Terrific history, but is the future prized or pricey?
+The offer gives investors exposure to well-managed, well-established business, but its valuation requires a nuanced approach
 
-## No sugar diversion for ethanol production: Govt to OMCs
-The OMCs have floated a cumulative requirement of 1,100 crore litres with 300 crore litres to be supplied in the first two quarters and 250 crore litres each in the last two quarters
+## Who Am I? October 18, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Bonfiglioli IPO: Exposure to manufacturing and infrastructure led growth
-Strong parentage, innovation-led and favourable end-markets support long-term prospects.
+## Kolkata Durga Puja pandal stampede: 17 feared dead
+Rain triggered a rush among people waiting outside the Chorbagan pandal, with several falling on the road as the crowd surged forward
 
-## Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns
-The fund’s growth-oriented strategy and sizeable small-cap exposure make it suitable for investors with higher risk appetite
+## Rubio’s Jamnagar visit may focus on Reliance’s Texas refinery deal, boost Trump’s midterm prospects: Expert
+Foreign affairs expert Robinder Sachdev sees a possible commercial and political dimension to the visit, alongside discussions on bilateral and regional issues.
 
-## Insurance query
-AYUSH coverage is heating up in Indian health plans—Ayurveda, Yoga, Unani, Siddha, and Homeopathy are more available than ever, but claims can still trip you up
+## Axis Bank Q2 profit rises 37.6% to ₹7,003 crore as provisions fall 52.2%
+Higher core income, expanding lending across business segments and lower provisioning costs supported the private sector lender’s performance during the September quarter
 
-## Bandu’s Blockbusters for October 18, 2026
-Guess the stock that will give the best return by next Friday
+## HDFC Bank reports 5% increase in Q2FY27 standalone net profit at ₹19,510 crore
+Net interest income (interest income less interest expended) rose 10% y-o-y to ₹34,619 crore (₹31,551.50 crore in Q2FY26)
 
-## Should you subscribe to Zetwerk’s IPO?
-Zetwerk’s scale, order inflows and manufacturing opportunity are compelling, but persistent losses, execution questions and a rich IPO valuation leave little room for error
+## ICICI Bank Q2 profit jumps 20.1% to ₹14,843 crore; margins come under pressure
+Higher interest income and expansion in lending supported earnings, while the cost of FCNR(B) inflows contributed to pressure on margins
 
-## Getting out of a debt trap
-A personal account of how F&O losses, mounting loans and the urge to recover money turned into a financial crisis — and what it took to rebuild
+## When stock valuations go wrong, blame taxes?
+MISPLACED OUTRAGE. Two years after Indian equities peaked, investors are blaming taxes for poor returns, but the real culprit may be the prices they willingly paid
+
+## Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI
+US President Donald Trump waived tariffs on major buyers of Russian oil, providing temporary relief to India. While the immediate threat of trade penalties has eased, concerns over future tariffs remain. The GTRI suggests that India should focus on buying oil on commercial terms for long-term energy
 
 ## The Indian growth story: Why the post-pandemic boom is different
 India’s economy contracted by 5.8% in 2020 during the pandemic before rebounding with growth of 9.7% in 2021. It then expanded by more than 7% in each of the following four years. If current forecasts hold, India could surpass that record. The IMF has raised its growth projection for India in the cu
@@ -84,8 +87,20 @@ A revival in global markets may be underway as strong economic growth and rising
 ## 'Ready to connect India with high-speed internet': Starlink reacts to Reliance's message
 
 
-## What does Trump's tariff, sanctions waiver on Russian oil mean for India?
-The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 gave Trump the authority to impose broad sanctions on Russia and levy steep tariffs on major buyers of Russian oil and gas, including China and India. One of the largest buyers of Russian crude, India was among the countries that expresse
+## Indore BJP official booked under POCSO for misbehaving with girl at Garba venue
+Accused Kamal Chauhan is a supporter of MLA Ramesh Mendola and was assigned duty to manage arrangements at the Garba venue at Kankeshwari Ground in Indore.
+
+## 'Extremely distressing': PM Modi mourns Kolkata stampede deaths, assures all possible aid to victims
+PM Modi mourned the deaths in Kolkata stampede while wishing recovery to those injured in the incident.
+
+## 'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede
+The stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal, a prominent puja in central Kolkata, during the peak hours on Saturday evening.
+
+## Kolkata pandal stampede: Mamata Banerjee expresses 'shock and grief', TMC alleges poor crowd management
+In an X post, the TMC stated that eyewitnesses and local residents reported little to no police presence for crowd control at the Chorebagan Puja Pandal.
+
+## Kolkata stampede LIVE: 17 dead in Chorbagan incident; pandals seeing heavy rush closed
+Kolkata stampede LIVE: A stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal in Kolkata. While several are said to have been injured, there is no confirmation on any fatalities yet.
 
 ## 'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant
 CM Sarma, in his post on X, also reflected on his son's decision to take a year off for CLAT preparation.
@@ -95,21 +110,6 @@ On October 16, Trump waived sanctions, restrictions and duties under SRIA, citin
 
 ## Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18
 Rahul Gandhi will join the Congress’s Goy Rakhon Yatra in Goa on Sunday and address its concluding meeting in Margao.
-
-## Imran Khan challenges ‘leave India’ notice: ‘No reasons disclosed, no chance to respond’
-Actor Imran Khan received a 'leave India' notice by the Mumbai office of the Foreigners Regional Registration Office (FRRO) on Thursday.
-
-## FSSAI mulls stricter regulations for baby food, proposes ban on added sugar
-The ministry of health and family welfare said the emphasis is on minimising exposure to added sugars during the earliest stages of life.
-
-## SC panel launches portal for complaints, evidence on use of pellet guns, violence during July protest at Jantar Mantar
-The portal, http://hpec.nic.in, has been launched for the convenience of affected people, including police personnel.
-
-## 8 killed as vehicle carrying pilgrims to Rajasthan's Khatu Shyam temple plunges into drain
-The vehicle, carrying Khatu Shyam pilgrims, broke through the divider, plunged into the drain and crashed into a wall.
-
-## All nine Indian seafarers on board chemical tanker YARA J safe in Romania: Embassy
-On October 7, New Delhi strongly condemned assaults directed at commercial vessels throughout the Black Sea corridor.
 
 ## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
 Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Buildings and cars set on fire as cost of living protests rock France
-Protesters have set fire to cars and buildings in France as demonstrations escalate.
+## Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’
+Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago.
 
-## Pope Leo leaves hospital after lung cancer surgery
-Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery
+## India and West Indies denied a thrilling finale as rain hits final T20
+India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.
 
-## Neto’s brace fires Chelsea past Everton but Martinez head injury mars win
-Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite.
+## Pope Leo returns to Vatican after lung cancer surgery
+Doctors say they are seeing 'continued improvement' after the US-born pope had a lump removed from his lung on Tuesday.
 
-## Ilhan Omar’s lawyers demand the return of property seized in house raid
-Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.
+## Trump faces bipartisan backlash over Russia sanctions waiver
+Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.
 
-## Thousands rally for biggest protest in years against Tunisia’s Saied
-Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.
+## Jerusalem Daily: Israeli settlers attack farmers and journalists
+After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.
 
-## Why adults are going back to summer camp
-Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.
+## Al Jazeera reports from Paris as protests turn violent
+In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.
 
-## Hurricane Trudy makes its way towards Mexico, threatening heavy rain
-Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year.
+## Why are Latin American countries building closer ties with Israel?
+A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.
 
-## Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction
-The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.
+## Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks
+Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
