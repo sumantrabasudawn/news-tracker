@@ -21,8 +21,11 @@ Last year the tax authority nearly doubled the amount it pulled in from CGT prob
 ## UK dividend payments jump 14% in a year
 Banks and miners lead payouts to investors
 
-## The AI El Niño
+## The monster El Niño putting AI to the test
 The technology is being used to anticipate everything from forest fires to futures contracts. Some fear that’s a mistake
+
+## Formula 1 bets on Rwanda
+Also in today’s newsletter: the leadership shake-up at Netflix and a baseball giant falls
 
 ## Margaret Hamilton, software engineer, 1936-2026
 Trailblazing computer scientist whose software saved the Apollo 11 Moon landing
@@ -45,32 +48,32 @@ Moving away from a ‘smart’ home is less about creating a ‘dumb ‘one than
 ## Trump exempts Russia from further sanctions mandated by new law
 US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel
 
-## SoftBank in talks to buy US security group Allied Universal
-Masayoshi Son looks to increase pace of his bets on robotics and AI
+## HDFC Bank reports 5% increase in Q2FY27 standalone net profit at ₹19,510 crore
+Net interest income (interest income less interest expended) rose 10% y-o-y to ₹34,619 crore (₹31,551.50 crore in Q2FY26)
 
-## OpenAI poaches another SpaceX sales lead focused on AI
-Seamans is the latest sales executive who OpenAI has hired from SpaceX’s AI units
+## New steel policy to promote circular economy, boost value addition: Industry
+The policy, which builds a roadmap up to 2027 for the sector, also focuses on decarbonisation of the Indian steel industry
 
-## Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports
-Anticipating frontier AI risks, Anthropic pitches a draft US bill empowering halts, independent testing, and judicial suspension to curb imminent damage
+## Death toll in Sept 30 MRPL fire rises to 2
+One person was killed and 12 injured in the September 30 incident. Among the injured, contract employee Rajesh D’Silva died on October 17
 
-## Boeing sales chief McMullen to retire, company memo says
-McMullen, ‌who is ​senior vice president of ⁠global sales and marketing, led ‌the company's commercial recovery from a 2024 incident involving a ‌mid-air door-plug blowout
+## Air India extends temporary suspension of flights to Saudi Arabia until Oct 24 amid Houthi attacks
+Air India says, "In view of the prevailing situation, Air India and Air India Express have temporarily suspended flights to and from Jeddah, Riyadh and Dammam until 24 October 2026”
 
-## ‘Cockroach’ movement founder arrested after detention, media reports say
-Dipke was arrested to prevent a breach of the peace and will be called before a Special Executive Magistrate on ‌Saturday
+## Alstom preparing to bid for ₹2,000-crore Chennai Metro Rail order
+The tender for the 168 cars, for which bids in the next few days, will require trains customised to Chennai Metro’s existing infrastructure, including its signalling systems, platforms and door-spacing specifications
 
-## Centre makes Aadhaar authentication mandatory for PM CARES for Children Scheme
-Children under 18 may prove identity with enrolment acknowledgment (Enrolment ID) and age document (birth cert, passport, or class 10/12 marksheet)
+## Popular Tamil music composer Deva dies
+In his nearly four decade career, Deva composed music for over 400 films, which includes runaway hits such as Rajinikanth-starrers 'Annamalai' (1992) and 'Baasha' (1995)
 
-## Anthropic offers Blackstone double-digit yield in chip-financing deal
-Blackstone funds ​would ‌invest $9 billion in the debt backed by ‌Anthropic’s ​5-year lease payments ⁠on the chips, the ‌report said
+## No sugar diversion for ethanol production: Govt to OMCs
+The OMCs have floated a cumulative requirement of 1,100 crore litres with 300 crore litres to be supplied in the first two quarters and 250 crore litres each in the last two quarters
 
-## Jio’s $3.2 billion IPO tests Ambani appeal with young Indians
-Jio Platforms plans to raise about $3.2 billion in the offering, which opens on Oct. 21; the IPO will test how much the Reliance brand still matters to retail investors
+## FSSAI initiates legal proceedings against Priyagold Biscuits maker, Dodla Dairy, Ueir Organic Foods
+Deficiencies included plant hygiene, pest control, raw material storage and segregation, personnel hygiene, premises maintenance, among others
 
-## Apple says iPhone Duo demand extraordinary after delivery delays
-Many customers who opened Apple’s online store Friday morning saw shipping delays pushed from November to December, then to the end of January
+## Risk Assets Seen Regaining: Morgan Stanley backs global stocks over bonds; oil shock flagged as risk
+A revival in global markets may be underway as strong economic growth and rising corporate profits boost risk assets. The ongoing investment in artificial intelligence is proving beneficial for productivity and expansion across various industries. However, concerns remain due to geopolitical tension
 
 ## 'Ready to connect India with high-speed internet': Starlink reacts to Reliance's message
 
@@ -93,32 +96,32 @@ In fiscal 2026, the United States government faced a substantial budget shortfal
 ## Tech stocks power sensex to best week in 6 months
 
 
-## Stellantis to invest Rs 4k crore, plans 12 Jeep, Citroën models
+## DMK backs student protests against CEC Gyanesh Kumar, accuses Congress and TVK of ‘double standards’
+During the meeting, which was held to discuss various issues including SIR of electoral rolls, DMK passed four resolutions and adopted three demands.
 
+## Nana Patekar or Smit Machchhar? Row erupts in Mumbai over naming Vidyavihar bridge
+Shiv Sena (UBT) is campaigning to name the Vidyavihar bridge after actor Nana Patekar, countering BJP MLA Parag Shah’s proposal to honour Smit Machchhar.
 
-## Heavy security deployment continues across central Delhi a day after ‘Lehra Do Tiranga’ protest
-Delhi Police has stepped up security at Jantar Mantar, Connaught Place and key offices amid the possibility of fresh protests, a day after 2,000 joined the CJP rally.
+## Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport
+A Punjab government spokesperson had repeatedly denied any relationship between the chief minister and Amardeep Grewal.
 
-## Rajasthan: 7 killed, 10 injured as tempo traveller plunges into drain on Delhi-Mumbai Expressway
-Seven people were killed and 10 injured after a Tempo Traveller carrying pilgrims from Madhya Pradesh to Khatu Shyam temple plunged into a drain in Kota.
+## CMRL case: ED pastes summons at ex-CM Vijayan's house, asks him to appear for questioning on Oct 23
+CMRL case: ED pastes summons at ex-CM Vijayan's house, asks him to appear for questioning on Oct 23
 
-## Manipur: Naga village guard sustains bullet injuries in Kamjong near Indo-Myanmar border
-The statement added that a civil defence volunteer of NVG-EC was grievously injured and rescued with support from the locals.
+## CJI Surya Kant urges law graduates to uphold justice, defend liberty and remain true to values
+CJI Surya Kant urges law graduates to uphold justice, defend liberty and remain true to values
 
-## Uttarakhand minister Rekha Arya's husband denies murder plan allegation, accuses her of habitual graft
-Dehradun city SP Shekhar Chand Suyal said a deputy SP-rank officer will handle the probe.
+## Five workers killed, as many injured in blast at chemical unit in Gujarat's Bharuch
+The blast occurred around 10 pm on Friday during a hydrogenation process at SynZeal Pharmachem in the Saykha GIDC area in Vagra taluka.
 
-## A grand Mahalaya, stress on Sanatani traditions, a star-studded Dusshera and more: What has changed this Durga Puja in Bengal
-HT take a look at what has changed this Durga Puja compared to what used to be during the TMC’s regime, apart from the number of community pujas.
+## Amit Shah to arrive in Kolkata on Saturday evening to visit Durga Puja pandals
+After an overnight stay at a guest house in South Kolkata's Alipore, the Union home minister will visit Ramakrishna Mission headquarters Belur Math.
 
-## Ladakh adds Sankoo as 8th district; five new tehsils announced
-Carved out of Kargil district, Sankoo will comprise the tehsils of GM Pore, TSG and Taisuru.
+## PM-AJAY: 18,093 villages declared Adarsh Grams, 785 student hostels completed
+PM-AJAY: 18,093 villages declared Adarsh Grams, 785 student hostels completed
 
-## US lawmakers write to Trump's secretary of state over Delhi detentions as India rejects ‘interference’
-This comes after New Delhi rejects Jayapal’s earlier remarks on the revision of India’s electoral rolls, calling them unwarranted.
-
-## Rekha Arya’s husband denies allegations, accuses her of corruption
-A day after Uttarakhand police registered an FIR over state women and child development Rekha Arya’s allegations that her husband Girdhari Lal Sahu conspired to murder her, subjected her to repeated caste-based harassment and forged her signatures to remove her from various positions without her con
+## Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide
+A rising number of travellers from Hong Kong and Macau are flocking to indoor ski centres in Guangdong province, as new venues mushroom across the mainland amid a winter sports boom. Chinese indoor ski resort operator Bonski said 20 to 30 per cent of visitors to its facility in Guangzhou were now co
 
 ## Foreign banks trim China branch networks as low returns test strategy
 Almost two decades after gaining permission to conduct yuan business for local clients, foreign-funded banks are still refining their strategy in China, where the financial sector is dominated by state-owned lenders. While Citi exited its China retail banking business, other foreign banks have conti
@@ -140,9 +143,6 @@ Beijing has enlisted the support of its top internet watchdog to deepen the inve
 
 ## ‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market
 The wallpaper on Allan Zeman’s office desktop computer screen is an image of Chandara, the private estate in Phuket that he has owned for more than two decades. Now the “father of Lan Kwai Fong” is bringing the Thai resort-style concept to Hong Kong’s luxury housing market. Located in rural Sai Kung
-
-## Crypto operator Solana abruptly cancels Shanghai event after office plan raises eyebrows
-Solana, which operates one of the world’s largest cryptocurrencies, has cancelled a high-profile event in Shanghai at the last minute as local police appeared on site, according to social media posts, just a day after the firm touted the opening of a fancy new office in the city. Solana was slated t
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -240,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump puts on hold new Russia sanctions he signed into law
-US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.
+## Murder in Malaysia: Justice for Altantuya Shaariibuu
+101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
 
-## Albania’s PM blames ‘foreign hands’ for protests
-Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.
+## Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
 
-## Southern California wildfire engulfs homes, prompts evacuation orders
-The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.
+## Oregon school shooter was former special-needs student, police say
+Oregon school shooter was former special-needs student, police say
 
-## Cameroonians await government reshuffle after Biya’s return
-After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.
+## Wildfire prompts thousands of evacuation orders in Orange County
+Firefighters are battling fast-moving wildfires in Orange County as Santa Ana winds fan the flames.
 
-## Brazil’s Amazon deforestation hits lowest level on record
-Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.
+## Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia
+Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.
 
-## Healthcare crisis escalating in Yemen’s besieged Taiz
-Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.
+## Senegal-sized Antarctic glacier melting faster than thought: Why it matters
+Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss.
 
-## US coastguard rescues 16 after boat sinks off Mexico’s Baja coast
-Eleven people are believed to be still missing, with rescue operations under way.
+## 11-year old flying car company mocks Tesla Roadster
+California-based Alef Aeronautics mocked Tesla, releasing a video of its flying car soaring over a Tesla Roadster.
 
-## Oregon school shooter was former special needs student, police say
-A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.
+## Israeli raids and arrests in southern Syria push population to the brink
+Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
