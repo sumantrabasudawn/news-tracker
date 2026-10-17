@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Lula turns to selfie videos in election fightback
+Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting
+
+## Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?
+Kyiv’s one-time allies are increasingly reluctant to provide the country with the support it needs
+
+## Corporate donations flood US attorneys-general election races
+Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies
+
+## Trump exempts Russia from further sanctions mandated by new law
+US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel
+
+## Chart of the Week: The chip stock split
+Losses across semi stocks have been unequal
+
 ## What is behind the surprising resilience of the UK economy?
 IMF forecasts and the latest GDP data this week painted a picture of unexpected strength
 
@@ -8,21 +23,6 @@ Arizona State University aims to expand to an annual intake of up to 4,000 stude
 
 ## Houthis encircle new target in conflict with Saudi-backed forces
 Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates
-
-## This earnings season, what CEOs say matters more than what they’ve done
-Bosses who start shaping their narrative now will have a head start on a bumpy year
-
-## Why have screens replaced socialising?
-The economics of why we increasingly avoid the company of both other humans and books
-
-## HMRC claws back nearly £500mn in underpaid capital gains
-Last year the tax authority nearly doubled the amount it pulled in from CGT probes compared with 2024-25.
-
-## UK dividend payments jump 14% in a year
-Banks and miners lead payouts to investors
-
-## The monster El Niño putting AI to the test
-The technology is being used to anticipate everything from forest fires to futures contracts. Some fear that’s a mistake
 
 ## Formula 1 bets on Rwanda
 Also in today’s newsletter: the leadership shake-up at Netflix and a baseball giant falls
@@ -39,38 +39,35 @@ A trickle of sales to foreign buyers risks becoming a flood
 ## ‘Inflation will make people poor’: Airlines brace for years of pain
 Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation
 
-## Could you cut it as a commercial landlord?
-It can be a lot of detective work, but buy-to-let landlords are increasingly tempted by the promise of higher yields
+## Central Bank of India Q2 net profit jumps 21% to ₹1,469 cr on higher core income
+Central Bank of India’s total income climbs to ₹11,737 crore in Q2 FY27 from ₹10,212 crore a year ago
 
-## How to create a tech-free zone in your home (without a family revolt)
-Moving away from a ‘smart’ home is less about creating a ‘dumb ‘one than a wise one
+## Mutual Funds returns
+As on : Oct 17, 2026
 
-## Trump exempts Russia from further sanctions mandated by new law
-US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel
+## Q2 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank report profit growth; YES Bank in focus
+Q2 Results Today, 17th October 2026 Live Updates: Stay tuned to get real-time market, business and financial news updates
 
-## HDFC Bank reports 5% increase in Q2FY27 standalone net profit at ₹19,510 crore
-Net interest income (interest income less interest expended) rose 10% y-o-y to ₹34,619 crore (₹31,551.50 crore in Q2FY26)
+## Think. Over the week
 
-## New steel policy to promote circular economy, boost value addition: Industry
-The policy, which builds a roadmap up to 2027 for the sector, also focuses on decarbonisation of the Indian steel industry
 
-## Death toll in Sept 30 MRPL fire rises to 2
-One person was killed and 12 injured in the September 30 incident. Among the injured, contract employee Rajesh D’Silva died on October 17
+## Burma Burma owner Hunger Pangs files DRHP with SEBI
+The proposed IPO comprises a fresh issue of equity shares worth up to ₹150 crore and an offer for sale (OFS) of up to 2.79 crore shares by existing shareholders
 
-## Air India extends temporary suspension of flights to Saudi Arabia until Oct 24 amid Houthi attacks
-Air India says, "In view of the prevailing situation, Air India and Air India Express have temporarily suspended flights to and from Jeddah, Riyadh and Dammam until 24 October 2026”
-
-## Alstom preparing to bid for ₹2,000-crore Chennai Metro Rail order
-The tender for the 168 cars, for which bids in the next few days, will require trains customised to Chennai Metro’s existing infrastructure, including its signalling systems, platforms and door-spacing specifications
-
-## Popular Tamil music composer Deva dies
-In his nearly four decade career, Deva composed music for over 400 films, which includes runaway hits such as Rajinikanth-starrers 'Annamalai' (1992) and 'Baasha' (1995)
-
-## No sugar diversion for ethanol production: Govt to OMCs
-The OMCs have floated a cumulative requirement of 1,100 crore litres with 300 crore litres to be supplied in the first two quarters and 250 crore litres each in the last two quarters
-
-## FSSAI initiates legal proceedings against Priyagold Biscuits maker, Dodla Dairy, Ueir Organic Foods
+## updated for print : FSSAI initiates legal proceedings against Priyagold Biscuits maker, Dodla Dairy, Ueir Organic Foods
 Deficiencies included plant hygiene, pest control, raw material storage and segregation, personnel hygiene, premises maintenance, among others
+
+## Tesla’s ‘flying’ Roadster could reach India; bookings open from ₹5.01 lakh
+Tesla opens Indian reservations for its Roadster Performance and Thrust sports cars, with reported deposits reaching ₹2.50 crore; an invitation-only flying version could also reach India as Tesla’s luxury EV registrations surge 836%
+
+## IDBI Bank Q2 FY27 results: Net profit falls 39% to ₹2,205 cr as non-interest income moderates
+This is the first quarterly numbers after the government earlier this week approved the sale of a 60.72% stake in IDBI Bank to Canada’s Fairfax Financial Holdings for about ₹53,000 crore
+
+## HDFC deputy MD Kaizad Bharucha announces exit ahead of Anup Bagchi's takeover as CEO
+HDFC Bank's Deputy Managing Director, Kaizad Bharucha, has announced his resignation, effective December 31. This move precedes Anup Bagchi's appointment as the new Managing Director and CEO. In the latest reports, HDFC Bank has demonstrated remarkable profitability shifts this July to September, re
+
+## You earn, save and invest. But are you financially literate? 10 questions to ask
+Financial literacy encompasses understanding one's income, expenses, and the risks associated with investments. Differentiating between saving and investing is crucial for effective financial planning. Individuals must be vigilant against financial fraud and misleading guidance in their investment c
 
 ## Risk Assets Seen Regaining: Morgan Stanley backs global stocks over bonds; oil shock flagged as risk
 A revival in global markets may be underway as strong economic growth and rising corporate profits boost risk assets. The ongoing investment in artificial intelligence is proving beneficial for productivity and expansion across various industries. However, concerns remain due to geopolitical tension
@@ -90,35 +87,32 @@ In fiscal 2026, the United States government faced a substantial budget shortfal
 ## Reliance Industries to Elon Musk: Competition welcome, but follow rules
 
 
-## Trade imbalance with China growing due to barriers: FM Sitharaman
+## HT Evening Brief October 17: Abhijeet Dipke gets conditional bail; Supreme Court backs children’s internet rights
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
 
+## CBI quizzes ex- BJP MLA Suresh Rathore day after Ankita Bhandari's parents seek his narco tests
+Ankita Bhandari's parents met senior CBI officials on Friday and sought narco-tests on the former legislator, as well as on actor Urmila Sanawar.
 
-## Tech stocks power sensex to best week in 6 months
+## Supreme Court orders autism patients on stem cell therapy to register on Centre’s portal
+The Centre must launch a portal for autism patients undergoing stem cell therapy and issue a protocol explaining rules for clinical trials and research, the SC said.
 
+## Woman murdered at Gurugram home, husband finds body in bathroom with hands tied, mouth taped
+The woman, identified as Neetu, was found by her husband, Prashant, a teacher at a private school, when he returned home with their children from school.
 
-## DMK backs student protests against CEC Gyanesh Kumar, accuses Congress and TVK of ‘double standards’
-During the meeting, which was held to discuss various issues including SIR of electoral rolls, DMK passed four resolutions and adopted three demands.
+## CJI Surya Kant calls on graduates to ‘defend liberty, uphold Constitution’ at Bengaluru law college
+Addressing students at NLSIU, the CJI said legal education must go beyond academic learning and prepare students to engage with diverse perspectives.
 
-## Nana Patekar or Smit Machchhar? Row erupts in Mumbai over naming Vidyavihar bridge
-Shiv Sena (UBT) is campaigning to name the Vidyavihar bridge after actor Nana Patekar, countering BJP MLA Parag Shah’s proposal to honour Smit Machchhar.
+## Government doctor among 3 arrested as Rajasthan ANTF seizes 3.764 kg of raw MD
+Rajasthan’s Anti-Narcotics Task Force arrested a government doctor and two others after busting an alleged mephedrone manufacturing unit in Balotra.
 
-## Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport
-A Punjab government spokesperson had repeatedly denied any relationship between the chief minister and Amardeep Grewal.
+## Abhijeet Dipke granted conditional bail: 'Ensure no breach of peace for one year'
+One of the primary conditions of the bail to Abhijeet Dipke would be to ensure there is no breach of peace on his end for a period of one year.
 
-## CMRL case: ED pastes summons at ex-CM Vijayan's house, asks him to appear for questioning on Oct 23
-CMRL case: ED pastes summons at ex-CM Vijayan's house, asks him to appear for questioning on Oct 23
+## Odisha engineer detained after late-night chase, ₹21.89 lakh seized in vigilance raid
+Odisha vigilance detained a water resources department engineer after seizing ₹21.89 lakh in unaccounted cash from him and his rented flat in Bhubaneswar.
 
-## CJI Surya Kant urges law graduates to uphold justice, defend liberty and remain true to values
-CJI Surya Kant urges law graduates to uphold justice, defend liberty and remain true to values
-
-## Five workers killed, as many injured in blast at chemical unit in Gujarat's Bharuch
-The blast occurred around 10 pm on Friday during a hydrogenation process at SynZeal Pharmachem in the Saykha GIDC area in Vagra taluka.
-
-## Amit Shah to arrive in Kolkata on Saturday evening to visit Durga Puja pandals
-After an overnight stay at a guest house in South Kolkata's Alipore, the Union home minister will visit Ramakrishna Mission headquarters Belur Math.
-
-## PM-AJAY: 18,093 villages declared Adarsh Grams, 785 student hostels completed
-PM-AJAY: 18,093 villages declared Adarsh Grams, 785 student hostels completed
+## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
+Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
 
 ## Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide
 A rising number of travellers from Hong Kong and Macau are flocking to indoor ski centres in Guangdong province, as new venues mushroom across the mainland amid a winter sports boom. Chinese indoor ski resort operator Bonski said 20 to 30 per cent of visitors to its facility in Guangzhou were now co
@@ -140,9 +134,6 @@ Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar
 
 ## Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms
 Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint investigation team including offi
-
-## ‘Father of Lan Kwai Fong’ Allan Zeman pivots to Hong Kong’s luxury home market
-The wallpaper on Allan Zeman’s office desktop computer screen is an image of Chandara, the private estate in Phuket that he has owned for more than two decades. Now the “father of Lan Kwai Fong” is bringing the Thai resort-style concept to Hong Kong’s luxury housing market. Located in rural Sai Kung
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -240,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Murder in Malaysia: Justice for Altantuya Shaariibuu
-101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
+## Child, four women among Palestinians injured in West Bank pogroms
+Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
 
-## Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
-Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
+## Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
+The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
 
-## Oregon school shooter was former special-needs student, police say
-Oregon school shooter was former special-needs student, police say
+## Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
+A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
 
-## Wildfire prompts thousands of evacuation orders in Orange County
-Firefighters are battling fast-moving wildfires in Orange County as Santa Ana winds fan the flames.
+## France tackles new wave of nationwide protests
+France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.
 
-## Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia
-Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.
+## US and Iran both claim control of Strait of Hormuz amid attacks on vessels
+Two vessels have been struck with naval mines in the Strait of Hormuz this week.
 
-## Senegal-sized Antarctic glacier melting faster than thought: Why it matters
-Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss.
+## Women protest in New Delhi against police brutality
+Women protest in New Delhi against police brutality
 
-## 11-year old flying car company mocks Tesla Roadster
-California-based Alef Aeronautics mocked Tesla, releasing a video of its flying car soaring over a Tesla Roadster.
+## Russian strikes kill civilians, injure dozens across Ukraine
+At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.
 
-## Israeli raids and arrests in southern Syria push population to the brink
-Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.
+## Protests spread across France as ‘yellow vests’ set to join
+Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
