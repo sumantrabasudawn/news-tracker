@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## Protests across France spiral into riots and looting
+Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system
+
 ## White House chaos overshadows Trump’s midterms push
 Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps
-
-## Protesters clash with police as demonstrations erupt across France
-Clashes overshadow day of protests by tens of thousands over high living costs and dissatisfaction with the education system
 
 ## Israeli settlers attack European diplomats in the West Bank
 Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
@@ -66,6 +66,9 @@ Higher interest income and expansion in lending supported earnings, while the co
 ## When stock valuations go wrong, blame taxes?
 MISPLACED OUTRAGE. Two years after Indian equities peaked, investors are blaming taxes for poor returns, but the real culprit may be the prices they willingly paid
 
+## NRI woman’s FCNR deposits get tax notice as unexplained; ITAT grants relief
+A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The husband’s name appeared as the first holde
+
 ## Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI
 US President Donald Trump waived tariffs on major buyers of Russian oil, providing temporary relief to India. While the immediate threat of trade penalties has eased, concerns over future tariffs remain. The GTRI suggests that India should focus on buying oil on commercial terms for long-term energy
 
@@ -86,9 +89,6 @@ Financial literacy encompasses understanding one's income, expenses, and the ris
 
 ## Risk Assets Seen Regaining: Morgan Stanley backs global stocks over bonds; oil shock flagged as risk
 A revival in global markets may be underway as strong economic growth and rising corporate profits boost risk assets. The ongoing investment in artificial intelligence is proving beneficial for productivity and expansion across various industries. However, concerns remain due to geopolitical tension
-
-## 'Ready to connect India with high-speed internet': Starlink reacts to Reliance's message
-
 
 ## SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces ₹25 lakh aid, government job
 At least 19 people died in a Kolkata Durga Puja pandal stampede. The state has announced a judicially headed SIT probe and compensation for victims.
@@ -234,6 +234,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Saudi-led coalition intercepts drones as Egypt weighs sending help
+Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.
+
 ## Photos: No Kings rallies in US urge midterm voters to cast ballots early
 Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
 
@@ -254,9 +257,6 @@ Iranian state TV aired footage claiming to show an oil tanker exploding after st
 
 ## At least 17 killed in stampede at religious gathering in India
 Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.
-
-## Albanian police fire rubber bullets as protests against Rama escalate
-Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
