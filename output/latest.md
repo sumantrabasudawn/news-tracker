@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Oil hits five-month high of $110 on new escalation in Middle East
+Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs
+
+## Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering
+Future of £33bn project has been put in doubt since new prime minister took office
+
 ## Big Tech stocks suffer biggest weekly drop since ‘liberation day’
 AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off
 
@@ -13,16 +19,13 @@ Exit comes amid deepening turmoil for White House as midterm elections loom
 Strong demand for private air travel combined with production delays boosts prices
 
 ## Israeli settlers attack Palestinians carrying out olive harvest in West Bank
-Washington Post journalist among those injured during violence in the Palestinian territory
+Washington Post journalist among those injured during violence in occupied territory
 
 ## It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!
 If you want, you can buy some of them. No pressure. But it’s for charity, so if you don’t you’re a bad person
 
-## EU eyes more financial support for Ukraine after US pivot
-European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow
-
-## US illegal border crossings from Mexico near 60-year low
-About 98,700 apprehensions were recorded this year, down from peaks of more than 2mn people under Biden
+## Apple blames ‘extraordinary’ demand as foldable iPhones sell out
+Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale
 
 ## Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe
 Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise
@@ -30,23 +33,23 @@ Repercussions from Iran war help reshape auto industry as hydrocarbon prices ris
 ## Directors’ Deals: IG Design Group finance boss backs revamp
 New team at gift-wrap manufacturer, but sales are down
 
-## Stockpickers: Bytes Technology, YouGov, Softcat
-Our experts discuss which companies to buy, sell or hold this week
+## US budget deficit rises to nearly $2 trillion in 2026, highest in five years
+Record federal outlays and rising debt servicing costs weighed on US finances, while tariff refunds and higher defence spending added pressure
 
-## Alexandr Wang, Meta’s AI wunderkind
-The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg
+## Brent crude hits $110 a barrel for first time since May as supply concerns mount
+Diesel and gasoline futures also climbed as traders assessed geopolitical risks, disrupted energy infrastructure and limited prospects for immediate supply relief
 
-## Looming UK tax rise puts bankers on edge
-Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders
+## Why CoreWeave is in the crosshairs of the AI scare
+Rising borrowing costs, heavy infrastructure spending and delays to data centre projects are testing investor confidence in debt-funded AI businesses
+
+## ISRO completes Gaganyaan separation tests ahead of first uncrewed mission in 2026
+The tests assessed module separation, umbilical disconnections and the ability of critical Crew Module systems to withstand shocks during separation
+
+## Starlink says it is ready to offer high-speed internet in India, cites government approvals
+Starlink, Reliance and Bharti Airtel’s OneWeb are at the centre of a growing dispute over competition and regulatory approvals in India’s satellite internet market
 
 ## Microsoft president warns Trump’s H-1B crackdown could push top AI talent abroad
 Brad Smith defended Microsoft’s immigration practices, citing lengthy green card backlogs, consistent employee compensation and the company’s recruitment of American workers
-
-## Kolkata restaurants ride Durga Puja rush, stay open well past midnight
-Renowned eateries have already started staying open well past midnight, as the Durga Puja crowd makes a beeline to savour their sought-after dishes
-
-## ChatGPT usage doubles in India over past year; OpenAI expands Hindi voice capabilities
-OpenAI is rolling out GPT-Live-1.1, an upgrade to its voice technology, with improved pronunciation, better handling of multilingual and mixed-language speech,
 
 ## SC agrees to list plea that Rahul Gandhi ‘pushed’ woman journalist in Oct 12 march
 Orally mentioning the application before CJI, the senior advocate Gaurav Bhatia said the woman journalist was manhandled in the SC premises
@@ -54,14 +57,8 @@ Orally mentioning the application before CJI, the senior advocate Gaurav Bhatia 
 ## SEBI’s CAS rollback: Brokers welcome VWAP return, but market veterans flag risks
 While brokers welcome the revised settlement mechanism, concerns persist over policy uncertainty, market integrity and whether the closing auction framework was given sufficient time.
 
-## Delhi to ban BS-IV and older commercial goods vehicles from November 1
-Gurugram traffic police have asked transporters and operators to check emission standards and registration details before entering Delhi under the new restrictions.
+## Reliance Industries to Elon Musk: Competition welcome, but follow rules
 
-## Fairfax to engage Parekh, Sukthankar to advise it on IDBI Bank acquisition
-Following the consummation of the proposed acquisition, the Prem Watsa-founded Fairfax expects that the operations of the new company would continue to be led by Rakesh Sharma, the current MD and CEO of IDBI Bank
-
-## Federal Bank logs highest ever net profit at ₹1,386 crore in Q2FY27
-NIM rose 26 per cent y-o-y to ₹3,153 crore
 
 ## US seeks bids to exchange 17 million barrels of crude from strategic reserve
 The United States plans to release 17 million barrels of crude oil from its Strategic Petroleum Reserve. This action aims to alleviate fuel price pressures amid disruptions caused by the war with Iran. The latest proposal is part of a broader international effort to stabilize energy markets announce
@@ -83,9 +80,6 @@ In a significant move to boost economic relations, India and Canada have recentl
 
 ## IMF Warns On Energy Risks: Middle East conflict could stoke India inflation; growth, fisc at risk
 India could face inflationary pressures if the Middle East conflict results in sustained high energy prices. The International Monetary Fund warns that prolonged energy price increases could slow economic growth, raise living costs, and worsen fiscal balances. Governments may find it harder to provi
-
-## He paid Rs 15 lakh for Rs 10 lakh flat; builder demanded Rs 20 lakh more, buyer wins case
-A man, who was working in the US, booked a 1,208-square-foot flat along with a car parking space in Patna. The booking was confirmed in 2005, and the agreement for sale was signed in 2007. The total price agreed upon for the flat and parking space was Rs 10,41,250. Before the agreement was executed,
 
 ## Where is Dipke, asks CJP; lawyers meet Neha at RK Puram police station
 Where is Dipke, asks CJP; lawyers meet Neha at RK Puram police station
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Oregon school shooter was former special needs student, police say
+A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.
+
+## Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz
+Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.
+
+## Trump mocks Middle Eastern names with ‘Mohammed’ joke
+“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.
+
+## Albanian PM blames ‘foreign hands’ for unrest as student protests intensify
+Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions
+
+## Leeds vs Manchester United: Premier League – teams, prediction, lineups
+Manchester United are mired in poor form - and Lisandro Martinez's meltdown - now they face on-the-up rivals Leeds.
+
+## Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
+Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
+
+## Families demand justice after Pakistan school collapse
+Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.
+
 ## Yemen’s government says Houthis fired two missiles at Aden airport
 Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.
-
-## Meta employees say Lula’s accounts restricted in Brazil election: Report
-The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.
-
-## How Israeli spyware used ‘zero click’ hack on Al Jazeera staff
-Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.
-
-## Students in Europe are rising up to call for better education
-Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
-
-## Food affordability fears plague Gaza as Israel halts commercial goods
-Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
-
-## Oregon community mourns victims of school shooting
-Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
-
-## AOC transfers $1m to Michigan candidate El-Sayed in progressive push
-Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.
-
-## Trump told new press secretary to ‘reconsider’ role
-Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
