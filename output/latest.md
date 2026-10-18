@@ -1,70 +1,79 @@
 # AION Intelligence
 
-## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
-Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks
+## Several dead and injured in fire at Alberta military base
+Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says
 
-## Listings in south-east Asia gain momentum with $1bn IPO
-Owner of digital wallet GCash set to start trading in region’s biggest debut this year
+## ‘Cash is making a comeback’ in digital India
+Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface
 
-## Protests across France spiral into riots and looting
-Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system
+## America’s $10tn AI infrastructure boom is starting to fray
+A vast bet on the future of the technology is running into the unforgiving economics of the physical world
 
-## White House chaos overshadows Trump’s midterms push
-Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps
+## The Trump administration has entered its utter shambles era
+A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House
 
-## Israeli settlers attack European diplomats in the West Bank
-Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
+## Far-right election gains threaten Germany’s investment drive
+Surge in support for AfD is fuelling concerns among executives ahead of an investment summit in Berlin this week
 
-## Lula turns to selfie videos in election fightback
-Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting
+## Is American democracy safe? Martin Wolf on the US midterms
+The FT’s chief economics commentator speaks to former Republican adviser Robert Kagan
 
-## Europe Express Weekend: Where are Zelenskyy’s friends (when he needs them)?
-Kyiv’s one-time allies are increasingly reluctant to provide the country with the support it needs
+## How Perella Weinberg’s M&A dream died
+Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
 
-## Corporate donations flood US attorneys-general election races
-Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies
+## Russian ‘shadow fleet’ fakes locations to appear in two places at once
+New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers
 
-## Trump exempts Russia from further sanctions mandated by new law
-US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel
+## Why we just can’t quit the site formerly known as Twitter
+By some measures Elon Musk’s $44bn purchase of the platform now called X has already paid for itself
 
-## Chart of the Week: The chip stock split
-Losses across semi stocks have been unequal
+## Why London looks better than ever for a business shindig
+In fragile times, it pays to view your own city through the eyes of strangers
 
-## Formula 1 bets on Rwanda
-Also in today’s newsletter: the leadership shake-up at Netflix and a baseball giant falls
+## Europe’s industrial giants take diverging paths as they ride AI boom
+Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment
 
-## Margaret Hamilton, software engineer, 1936-2026
-Trailblazing computer scientist whose software saved the Apollo 11 Moon landing
+## The US needs a social compact on data centres
+Building them at home would allow policymakers to advance the interests of American companies and workers
 
-## The financial double life of barristers
-It is wrong to assume that legal professionals have no money worries
+## How YouTubers finance their videos
+Setting up as an influencer is cheap but online success often triggers a need for working capital — and traditional banks are wary
 
-## Activists highlight a Big Yellow warning sign for the London market
-A trickle of sales to foreign buyers risks becoming a flood
+## Rajinikanth’s Jailer 2 mints ₹321 crore at box office
+The film is directed by Nelson Dilipkumar.
 
-## Trump says Iran war will end ‘very quickly’, predicts lower US gas prices
-The contrasting statements come as Washington defends its military campaign and Tehran demands an end to fighting across the region
+## Southern Railway introduces Vistadome coach on Madurai–Guruvayur Express
+The Vistadome coach will be temporarily operated on the Madurai-Guruvayur Express on Thursdays, Fridays, Saturdays and Sundays, for journeys commencing from Madurai from October 22, 2026 to January 15, 2027
 
-## US says 97% of ships transit Strait of Hormuz safely despite Iranian attacks
-Washington says naval protection has helped commercial shipping continue through the strategic waterway as competing claims over control intensify.
+## Kerala HC seeks Centre stand on plea challenging blocking of BitChat messaging app
+Bitchat, by GitHub, is an open-source messaging app that works over Bluetooth, with no internet needed
 
-## Bajaj Auto-owned KTM opens new motorcycle assembly plant in Brazil
-The new facility marks a shift to independent manufacturing operations in Brazil, with production planned to scale up from 2026
+## Market cap of 9 top firms surges ₹3.65 lakh crore; TCS leads gains
+Last week, the BSE benchmark Sensex surged 2,256.94 points, or 3.11 per cent, and the NSE Nifty jumped 625.7 points, or 2.77 per cent.
 
-## President wants 60 days to assess impact of Russia sanctions law: Rubio
-The US President is weighing economic consequences and global energy pressures as Washington considers its next steps on punitive trade measures
+## Centre plans overhaul of MMDR Act to create new mining law
+In recent years, the Centre has made efforts to review the nation's regulatory landscape to incorporate ease of living and ease of doing business reforms across all sectors
 
-## Kolkata Durga Puja stampede kills 19, 25 injured; 12 detained
-Police are investigating crowd management lapses and entry-exit confusion after a deadly rush at a popular north Kolkata festival venue.
+## Private capex cycle in India seen gaining traction as corporate, SME lending surges: Jefferies
+The brokerage says bank credit growth is robust, rising 18.1% y-o-y in mid-September, with corporate lending, loans to micro, small and medium industrial enterprises recording particularly strong growth
 
-## CERT-in incident flags need for AI-enhanced security measures rather than reacting to attacks
-At odds with this, Greyhound Research assessed the incidents as the failure of India’s defences against AI agents at detection
+## AdaniConneX to use air cooling at Vizag data centres to reduce freshwater use
+The facilities will have dedicated industrial water connections.
 
-## Jio Platforms IPO: Terrific history, but is the future prized or pricey?
-The offer gives investors exposure to well-managed, well-established business, but its valuation requires a nuanced approach
+## IMD update: Chennai drenched as Bay of Bengal and Arabian Sea brace for more activity
+Network of intersecting troughs and cyclonic circulations transform the Arabian Sea and the Bay of Bengal into active rain-generating zones following the onset of north-east monsoon
 
-## Who Am I? October 18, 2026
-Are you an avid investor? How well do you know corporate India?
+## FPIs hit the sell button again: Rs 3.12 lakh crore exits Indian equities in 2026
+In October, foreign investors pulled out Rs 52,100 crore from Indian equity markets, contributing to overall outflows this year. Escalating crude oil prices and elevated US bond yields have swayed this selling behavior. Although there was a momentary resurgence in buying, the cautious investor senti
+
+## Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains
+This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by Rs 1,08,542.63 crore. Both Bharti Airtel and Infosys also registered significant 
+
+## Refined in India, bound for West: Russian-crude fuel exports to Europe rise 43%
+Indian refineries exported Russian crude oil products to Western markets, generating significant revenue in September. The European Union, Australia, the US, and New Zealand imported these refined products, despite existing sanctions. Reliance Industries' Jamnagar refinery was particularly active in
+
+## 'India an important ally': Rubio explains why Trump paused sanctions on Russia oil buyers
+The US government has opted to lift specific sanctions concerning the import of Russian oil and gas. This includes a review period of 60 days to evaluate the economic effects on key importers such as India and China. Senator Marco Rubio highlighted India's persistent dependency on Russian energy sou
 
 ## Venezuela signs 61 oil agreements, expects $76 billion in investments over five years
 Venezuela is set to draw approximately $76 billion in foreign investment over the next five years to revitalize its oil sector. The recent agreements with the United States encompass 17 oilfields and plan for the deployment of 250 drilling rigs. Particularly in Zulia state, oil production has surged
@@ -78,41 +87,35 @@ Venezuela is set to draw approximately $76 billion in foreign investment over th
 ## NRI woman’s FCNR deposits get tax notice as unexplained; ITAT grants relief
 A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The husband’s name appeared as the first holde
 
-## Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI
-US President Donald Trump waived tariffs on major buyers of Russian oil, providing temporary relief to India. While the immediate threat of trade penalties has eased, concerns over future tariffs remain. The GTRI suggests that India should focus on buying oil on commercial terms for long-term energy
+## Noida Police book two X users for spreading fake news about Dhruv Rathee’s arrest
+Noida Police booked two identified and other unidentified X accounts for falsely claiming YouTuber Dhruv Rathee had been arrested, citing concerns over law and order.
 
-## The Indian growth story: Why the post-pandemic boom is different
-India’s economy contracted by 5.8% in 2020 during the pandemic before rebounding with growth of 9.7% in 2021. It then expanded by more than 7% in each of the following four years. If current forecasts hold, India could surpass that record. The IMF has raised its growth projection for India in the cu
+## Rajnath Singh to represent India at SCO Meet in Tajikistan, focus on trade, connectivity and regional cooperation
+As per Ministry of Defence, the meeting will focus on strengthening multilateral cooperation among SCO Member States.
 
-## Man skipped ITR, declared Rs 12.9 lakh income after notice; ITAT cancels 200% penalty
-The man in this case failed to file his income tax return, and the Income Tax Department issued him a notice. He subsequently responded by filing an ITR for assessment year (AY) 2018-19, reporting an income of Rs 12.9 lakh. However, the Income Tax Assessing Officer (AO) took the view that this incom
+## Rain, narrow gates, mic warning led to Kolkata stampede that killed 19; Instagram clip showed risk days earlier
+Visuals from the spot show both the gates and the approach road to the pandal are narrow, which may have contributed to the accident.
 
-## ICICI Bank Q2 results: Standalone profit rises 20% to Rs 14,843 crore, NII up 17.7%
-ICICI Bank has reported a remarkable 20.1 percent surge in standalone net profit for Q2 of FY 2026-27. This impressive performance is further highlighted by a 22.28 percent increase in consolidated net profit, which reached Rs 16,333.18 crore. Year-on-year, net interest income rose by 17.7 percent, 
+## One person with alleged terror links arrested, says K'taka Home Minister
+One person with alleged terror links arrested, says K'taka Home Minister
 
-## ‘India diversified imports, but hard to pivot in one day’: Marco Rubio explains why US waived some Russia energy tariffs
-US President Donald Trump waived some sanctions that could have threatened 100% tariffs against India and four nations for purchasing Russian oil and gas.
+## Book Box: I Who Have Never Known Men, Xingu, and The Ignorance of Blood
+From I Who Have Never Known Men to Edith Wharton’s Xingu, a week of reading explores existential questions, social pretension and political corruption.
 
-## Government caps trade margin for 137 cancer drugs at 30%, prices likely to fall by up to 70%
-The decision was approved at NPPA meetings on October 16 and 17, according to the minutes, seen by HT.
+## ‘Love my Indian in-laws’: Vance clarifies ‘indentured servants’ remark amid H-1B row; says his ‘rhetoric may have been imperfect’
+The Donald Trump-led administration had, earlier this month, announced suspension of several firms, including Indian IT companies, from green card filings.
 
-## Sahyog Portal could detect, remove child abuse material: Supreme Court
-“Our expectations from the portal, however, are much more than what it is, as of now, capable of doing, and we are hopeful that the Union of India shares the same vision,” it said.
+## Kolkata stampede: Mamata faction alleges Durga Puja pandal panel has ‘links’ to CM's nephew, BJP hits back
+The allegations came even as seven people were arrested.
 
-## Trans woman not within purview of Sec 69 of BNS: Allahabad HC
-The Allahabad high court has held that a transgender woman, after having undergone a sex-reassignment surgery, does not fall within the statutory definition of “woman” under Section 69 of the Bharatiya Nyaya Sanhita (BNS), which criminalises sexual intercourse with a woman through deceitful means or
+## Just Like That | Jantar Mantar: From the science of the stars to the politics of dissent
+Built in 1724 by Maharaja Sawai Jai Singh II, Delhi’s Jantar Mantar evolved from an astronomical observatory into a landmark of protest and political dissent.
 
-## CARA referral doesn’t give enforceable right to adopt child if legally ineligible: Delhi HC
-The Delhi high court has held that prospective adoptive parents (PAPs) do not acquire an enforceable right to adopt a child merely by accepting the referral and having the Central Adoption Resource Authority (CARA) process their application for a no-objection certificate (NOC), if they are legally i
+## Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry
+France and Germany have unveiled a joint position on Europe’s automotive package, with a tighter geographic definition of “Made in Europe” and a research and development requirement for cars to qualify for subsidies or public procurement, which industry insiders say would put further pressure on Chi
 
-## A S Uraizee: A rare Muslim Gandhian who fought for human rights
-A S Uraizee, who passed away this week aged 91, was all of these, and more; he was among the last of the rare breed of Muslim Gandhians
-
-## Kolkata Durga Puja pandal stampede kills 19, organisers detained, TMC targets BJP | Top updates
-The Chor Bagan Sarbojanin Durgotsab Samity pandal was closed following the stampede. Police said several other crowded puja pandals were also shut afterwards.
-
-## SIT formed to probe Uttarakhand minister's husband on claims of forgery, caste-based harassment, murder plot
-Uttarakhand minister Rekha Arya has refused to withdraw her complaint, while her husband has denied wrongdoing and accused her of amassing illegal assets.
+## For investors, there are now just 2 kinds of offices: the best and the rest
+From Hong Kong to New York, a deep divide is opening up in office markets around the world, as tenants compete for space in prime buildings while other properties face falling rents, low occupancy and financing pressures. The divergence reflects a global flight to quality, but also a disconnect betw
 
 ## New property purchase disclosure rule in Japan sparks fears it may curb foreign investment
 Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts. Japan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconside
@@ -131,12 +134,6 @@ Hong Kong Exchanges and Clearing said it had delayed a plan to shorten the settl
 
 ## Financial Street Forum forecast calls for more opening up by Chinese regulators
 International investors will keep an eye on a forum next week for clues from China’s regulators on how they plan to further open its financial markets, after Visa’s long-awaited approval fuelled hopes for deeper participation in the world’s second-largest economy. Regulators could announce more meas
-
-## LVMH touts ‘special bond’ with China as ‘subdued’ backdrop weighs on sales
-French luxury giant LVMH Group kicked off a global open-house event showcasing its craftsmanship in Shanghai on Thursday, as the event’s founder Antoine Arnault hailed a “special bond” with Chinese customers at a launch event in Paris. It came as the group faced pressure from sluggish demand in Chin
-
-## IPO fraud, China’s export boom, US inflation: 5 figures investors are watching
-Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand. Meanwhile, mainland Chinese traders ramped up their exposure to local equities, and the city cemented its status as a top global destination for we
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Search continues for 11 missing after boat sank off Mexico’s Baja coast
-Some of 16 survivors treated for suspected shark bites, US coastguard says.
+## Why Iran-US negotiations keep failing
+Relations between the two countries are dominated by policy complexes shaped by a history of hostility.
 
-## Fears grow in DRC as former President Joseph Kabila joins rebellion
-Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.
+## WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream
+Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.
 
-## Iran says two tankers catch fire after hitting mines in Strait of Hormuz
-The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.
+## Israel’s ties with Europe are fraying. Can its election change that?
+European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.
 
-## Buildings burn as French protests go into the night
-Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.
+## Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title
+Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.
 
-## Saudi-led forces try to break Houthi siege of Taiz with airstrikes
-Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.
+## Guatemalan former prosecutor shot dead at sports centre
+Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.
 
-## Israeli settlers attack European diplomats in the occupied West Bank
-Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.
+## AI tool helps stranded protesters find their way home in the Indian capital
+A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.
 
-## Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh
-Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.
+## Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
+US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.
 
-## US ambassador urges Israel to prosecute attackers of American journalist
-Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a 'despicable act of terror'.
+## ‘Serious incident’ at Canada military base causes deaths, injuries
+Defence Minister David McGuinty says people were killed and injured after an incident caused a major fire in Alberta.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
