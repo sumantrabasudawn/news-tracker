@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## France reels after ‘unprecedented’ violent riots
-Government under pressure after struggle to contain attacks on stores and official buildings
+## US rate rises are being amplified in global markets
+The Iran war and shifts by China are tightening the supply of dollars in international markets
 
 ## Trump to begin transforming historic golf course despite court order
 Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image
+
+## Evercore appoints co-presidents for the first time in leadership reshuffle
+Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years
+
+## Macron faces political firestorm after riots
+Worst street violence in years comes six months ahead of one of Europe’s most closely watched elections
+
+## France reels after ‘unprecedented’ violent riots
+Government under pressure after struggle to contain attacks on stores and official buildings
 
 ## US army chief in Asia calls for show of enhanced military muscle
 General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions
@@ -14,18 +23,6 @@ Strikes hit tech infrastructure after Russia targets electricity substations in 
 
 ## Trump endorses Netanyahu ahead of Israeli elections
 Backing for Israel’s prime minister came after tensions between the allies
-
-## City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole
-Barbican Centre faces uncertain future as Square Mile prepares for Labour funding overhaul
-
-## Four dead and dozens injured in fire at Alberta military base
-Mark Carney describes blaze as one of the armed forces’ worst tragedies in peacetime on Canadian soil
-
-## Crunch time for Brazilian politics
-South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget
-
-## Evercore appoints co-presidents for the first time in leadership reshuffle
-Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years
 
 ## Microsoft pulls plug on Nscale data centre deal
 US tech giant abandons agreement to lease capacity at neocloud’s UK site
@@ -48,6 +45,15 @@ A vast bet on the future of the technology is running into the unforgiving econo
 ## How Perella Weinberg’s M&A dream died
 Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
 
+## Netanyahu warns future US president could turn hostile, seeks stronger ties with India
+Presenting his security doctrine ahead of the election, Netanyahu urged Israel to strengthen diplomatic partnerships while preparing for possible changes in Washington.
+
+## Trump backs Netanyahu, says US and allies will ‘soon finish the job’ on Iran
+In a Truth Social post, the US President praised the Israeli leader’s resilience and tied his support to the country’s approach to Tehran
+
+## Russia sanctions waiver is a 60-day pause; Europe refused to target India, China over oil: US
+The decision has triggered political opposition in Washington, with lawmakers questioning its implications for Ukraine and the enforcement of sanctions against Moscow.
+
 ## Farm loans lose share in banks’ credit books as lenders turn cautious on rural exposure
 Rural credit trails overall loan growth at several banks in September quarter
 
@@ -62,15 +68,6 @@ Checking IPO proceeds’ misuse easier said than done
 
 ## Protests in Delhi put daily business worth over ₹400 crore at risk, estimates CAIT
 CAIT said that Delhi’s estimated average daily business turnover of approximately ₹2,200 crore makes the commercial ecosystem particularly vulnerable to disruptions.
-
-## HCL Technologies, Tech Mahindra overtake TCS in net adds
-On one hand companies say AI will do entry level work and they will hire experienced forward deployed engineers but still focus on entry-level hirings to manage spends
-
-## Chennai gears up for northeast monsoon with 1,189 vehicles, 133 boats on standby
-Chief Minister C Joseph Vijay reviews preparedness; 227 relief centres and 112 central kitchens kept ready
-
-## Infosys Q2 revenue growth likely to remain modest; analysts see guidance cut
-According to a poll of brokerages, revenue for Q2FY27 is expected to range between ₹49,090 crore and ₹49,323 crore
 
 ## US says Europe refused to join push for tariffs on India, China over Russian oil
 Scott Bessent has criticized European nations for refusing to impose tariffs on India and China, which purchase Russian oil. He highlighted that the US has approached its allies to coordinate actions against energy purchases from Russia. Bessent emphasized the need for the US to reassess its strateg
@@ -120,6 +117,9 @@ The investigators are reportedly looking into the circumstances that led to the 
 ## 'Dirty tricks to prolong illegal arrest': Dipke as CJP awaits Ashutosh Ranka and Saurav Das' release
 These remarks by Dipke come as CJP and the Opposition staged protests in Delhi against CEC Gyanesh Kumar over the Special Intensive Revision (SIR) exercise.
 
+## Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real
+Bitcoin may extend its rebound but is unlikely to break above US$100,000 before the end of the year, as rising interest rates and the Iran conflict continue to weigh on crypto assets, according to analysts. The crypto asset class is likely to end the year higher than it is today, but below the peak 
+
 ## The AI promise was automation. The reality? Managing digital workers
 When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” that would finally free humans from corporate drudgery. As businesses across Asia are discovering, however, the reality is quite the opposite – more work, new friction and a whole ne
 
@@ -140,9 +140,6 @@ Tokyo’s implementation of a rule that requires all property buyers to declare 
 
 ## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
 Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
-
-## Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide
-A rising number of travellers from Hong Kong and Macau are flocking to indoor ski centres in Guangdong province, as new venues mushroom across the mainland amid a winter sports boom. Chinese indoor ski resort operator Bonski said 20 to 30 per cent of visitors to its facility in Guangzhou were now co
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -240,6 +237,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Protesters disrupt Ben-Gvir event forcing him off stage
+Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.
+
+## Venezuela opposition renews support for Maria Corina Machado as leader
+The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.
+
+## Alberta independence referendum: Will separatists survive a loss?
+Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.
+
+## Macron condemns violence after riots lead to looting and mass arrests
+French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.
+
 ## Fire engulfs Albania’s Supreme Court as protests enter fifth day
 Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
 
@@ -251,18 +260,6 @@ What's behind Europe's youth protests?
 
 ## India’s crackdown on cockroaches, critics and cameras
 A government at war with its critics - from young protesters to the media.
-
-## How will Europe deal with youth-led protests?
-Demonstrations are spreading across the continent.
-
-## Clarence Seedorf calls out genocide in first Corinthians press conference
-Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
-
-## Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
-Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.
-
-## GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
-Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
