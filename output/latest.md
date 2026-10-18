@@ -3,6 +3,18 @@
 ## St Petersburg endures biggest Ukrainian drone attack
 Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine
 
+## Trump’s bid to make America cheap again has failed
+Voters are increasingly linking rising energy prices to the administration’s policies
+
+## France reels after ‘unprecedented’ violent riots
+Government under pressure after struggle to contain attacks on stores and official buildings
+
+## Treasury introduces new security measures in bid to stop UK Budget leaks
+Chancellor John Healey deploys ‘military-style’ security protocols to restrict flow of sensitive information
+
+## Egypt’s Sisi sets out plan for military to train his successors
+President says he will step down in 2030 but floats new process that would consolidate role of army in state
+
 ## Several dead and injured in fire at Alberta military base
 Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says
 
@@ -12,17 +24,11 @@ Monday’s referendum on independence for the western province threatens Mark Ca
 ## Saudi helicopter crash kills two troops near Yemen border
 First reported military fatalities for the kingdom come as war with Houthi rebels continues to escalate
 
-## France reels after ‘unprecedented’ violent riots
-Government under pressure after struggle to contain attacks on stores and official buildings
+## US threatens Europe over Starlink restrictions
+Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies
 
-## Not every billionaire is a policy failure
-Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly
-
-## Will Meta’s earnings restore confidence in the AI boom?
-Market Questions is the FT’s guide to the week ahead
-
-## Could Republicans prove the pollsters wrong in the midterms?
-Party insiders say past elections show predictions of a Democratic wave in Congress are overstated
+## Microsoft pulls plug on Nscale data centre deal
+US tech giant abandons agreement to lease capacity at neocloud’s UK site
 
 ## Trump’s losing battle with green energy
 The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it
@@ -39,38 +45,32 @@ Boutique advisory firm was on the brink of selling to Piper Sandler — until it
 ## Russian ships fake locations to appear in two places at once
 New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers
 
-## Why we just can’t quit the site formerly known as Twitter
-By some measures Elon Musk’s $44bn purchase of the platform now called X has already paid for itself
+## Editorial. Money trail
+Checking IPO proceeds’ misuse easier said than done
 
-## Why London looks better than ever for a business shindig
-In fragile times, it pays to view your own city through the eyes of strangers
+## Protests in Delhi put daily business worth over ₹400 crore at risk, estimates CAIT
+CAIT said that Delhi’s estimated average daily business turnover of approximately ₹2,200 crore makes the commercial ecosystem particularly vulnerable to disruptions.
 
-## Europe’s industrial giants take diverging paths as they ride AI boom
-Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment
+## HCL Technologies, Tech Mahindra overtake TCS in net adds
+On one hand companies say AI will do entry level work and they will hire experienced forward deployed engineers but still focus on entry-level hirings to manage spends
 
-## Gujarat-based Transformers and Rectifiers weighs setting up of a transformer factory in UK
-The Ahmedabad-based power equipment maker plans to first establish a sales and customer-support presence through its UK subsidiary, Maxwell Grid Transformers (UK) Private Ltd
+## Chennai gears up for northeast monsoon with 1,189 vehicles, 133 boats on standby
+Chief Minister C Joseph Vijay reviews preparedness; 227 relief centres and 112 central kitchens kept ready
 
-## Latest rainfall data highlights severe threat to rabi crops amid deficits and El Niño concerns
-The stakes are high because rabi crops, unlike the monsoon-dependent kharif crops, are sown in the winter months and depend on a combination of residual soil moisture, irrigation and winter precipitation
+## Infosys Q2 revenue growth likely to remain modest; analysts see guidance cut
+According to a poll of brokerages, revenue for Q2FY27 is expected to range between ₹49,090 crore and ₹49,323 crore
 
-## NSUI holds 'Hallabol March' demanding CEC Gyanesh Kumar's resignation
-The protest comes amid a series of demonstrations by student groups and other organisations demanding CEC's resignation
+## Govt notifies 30% cap on trade margins on 137 cancer drugs, new prices from November 9
+The move is aimed at reducing the prices patients pay for these medicines
 
-## Crude oil likely to gain further next week as supply fears overshadow relief measures: Analysts
-On the Multi Commodity Exchange, crude oil futures for November delivery rose by ₹566, or 6.4 per cent, over the past week to close at ₹9,394 per barrel
+## Nippon India Smallcap, SBI Smallcap, HDFC Smallcap, Bandhan Smallcap and Quant Smallcap: How small-cap funds are beating the liquidity squeeze despite rising valuations
+Improvement was driven largely by higher market trading volumes and changes in portfolio composition, including greater exposure to relatively liquid stocks and a broader stock count
 
-## DLF to launch projects worth ₹58,000 crore in 2-3 yrs in Delhi-NCR, Mumbai amid luxury housing demand
-Realty firm gears up for luxury launches in Mumbai and Gurugram amid strong demand from end users and investors
+## J&K police register case against Army officer’s wife over alleged sharing of sensitive information
+Officials said the woman, a resident of Telangana, had been involved in research-related activities that were now under police scrutiny
 
-## JLR India expands retail presence in Delhi, Gurugram; sees NCR as key market
-The luxury carmaker, in partnership with AMP Motors, has relocated its dealership to a larger integrated facility on Mathura Road in South Delhi and opened a new sales outlet in Gurugram, Haryana
+## India’s crude import bill surges 46% in Sept as oil prices soar
 
-## One Guru for every Indian
-The Prime Minister promised AI training for a crore youth. The rationing of learning that held India back is finally ending
-
-## Jewellery retailers project 22-28% Q2 growth despite festive calendar shift
-P N Gadgil Jewellers, Titan, Kalyan Jewellers and PC Jeweller reported double-digit year-on-year growth in their respective quarterly business updates
 
 ## FMCG firms feel the pinch: Will your favourite products cost more this Diwali?
 FMCG companies face a challenging landscape as they contend with surging costs for essential raw materials like palm oil and sugar. The pressure on operating margins is significant and unlikely to alleviate soon. To maintain goodwill during the festive season, firms are absorbing some of these cost 
@@ -93,32 +93,32 @@ Indian refineries exported Russian crude oil products to Western markets, genera
 ## 'India an important ally': Rubio explains why Trump paused sanctions on Russia oil buyers
 The US government has opted to lift specific sanctions concerning the import of Russian oil and gas. This includes a review period of 60 days to evaluate the economic effects on key importers such as India and China. Senator Marco Rubio highlighted India's persistent dependency on Russian energy sou
 
-## Venezuela signs 61 oil agreements, expects $76 billion in investments over five years
-Venezuela is set to draw approximately $76 billion in foreign investment over the next five years to revitalize its oil sector. The recent agreements with the United States encompass 17 oilfields and plan for the deployment of 250 drilling rigs. Particularly in Zulia state, oil production has surged
+## CJP alleges Ashutosh, Saurav not being released; Delhi Police file FIR over threats to magistrate
+On October 14, he noted that Ranka and Das, who had previously signed a surety bond on October 11 to keep peace, breached it by entering Jantar Mantar.
 
-## Kolkata Durga Puja stampede hits BJP amid row over leaders’ role in Bengal’s puja committees
-The Kolkata Durga Puja stampede that killed 19 people has put the BJP’s association with puja committees in West Bengal under scrutiny, sparking a political row.
+## Kochi Mini Cooper crash: Driver’s mother appeals for privacy, extends condolences to victims’ families
+Suhail Sajeev’s mother said the investigation into the Mini Cooper crash must proceed in the right direction and that the truth must prevail
 
-## Chandigarh heritage furniture: Plea to halt auction of nine articles in France
-Chandigarh heritage furniture: Plea to halt auction of nine articles in France
+## 'Anyone who works with Salman Khan will be next': After attack on Tiger Shroff, Lawrence Bishnoi gang issues fresh threat
+A social media post linked with Lawrence Bishnoi gang's Anil Pandit said he along with Anil Harman Sandhu was behind the attack.
 
-## 'There was no way out': Families mourn loss of loved ones in Durga Puja stampede that killed 19
-A visit to Kolkata’s Chorebagan Durga Puja pandal turned tragic when a stampede killed 19 people, including four children, leaving families devastated.
+## Tiger Shroff escapes unhurt after shots fired at actor in Mumbai, Lawrence Bishnoi gang claims attack
+Three motorcycle-borne men opened fire on actor Tiger Shroff, leaving two people, including his driver injured, police said.
 
-## From Delhi to Dehradun, Congress intensifies protests seeking fair probe in Ankita Bhandari murder case
-Appointment of BJP's Dushyant Gautam as Sikkim governor amid the ongoing CBI probe into the alleged 'VIP' angle Ankita Bhandari murder case has stirred a row.
+## Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur
+Sangrur Deputy Commissioner Poonamdeep Kaur confirmed that eight people had died in the accident and 12 sustained injuries
 
-## Clear ₹9.73 cr of pending victim compensation dues in 5 weeks: Kerala HC to govt
-Clear ₹9.73 cr of pending victim compensation dues in 5 weeks: Kerala HC to govt
+## ‘People will reclaim the republic’: Rahul Gandhi targets PM Modi, Shah; says government’s ‘expiry date is near’
+Speaking at a rally in Goa, Rahul Gandhi said the people had seen through the BJP leadership and that no amount of force or money could change their minds.
 
-## 'Foreign nationals protesting in India a matter of concern': Chirag Paswan on Imran Khan's participation in Mumbai stir
-Paswan said every Indian citizen had the right to protest against any issue, but the participation of a foreign national in such demonstrations was unacceptable
+## Heavy rainfall batters Chennai as northeast monsoon brings rain fury, over 20 cm recorded in 24 hours
+Tamil Nadu and Puducherry usually receive rainfall during the northeast monsoon season which officially sets in between October and December every year.
 
-## ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case
-ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case
+## ‘Not enough police, govt hospital lacked facilities’: Kolkata pandal tragedy raises questions over emergency response
+Allegations also surfaced that the state-run hospital lacked adequate facilities to treat the victims, forcing some of them to be referred to a private hospital
 
-## 'Hired crane to pull out siblings': Victims' kin allege delay in help after 15 killed in Gwalior temple tragedy
-Victim families claim that police did not help them after the accident, questioned how trucks was allowed at Shitala Mata Temples.
+## The AI promise was automation. The reality? Managing digital workers
+When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” that would finally free humans from corporate drudgery. As businesses across Asia are discovering, however, the reality is quite the opposite – more work, new friction and a whole ne
 
 ## Hong Kong’s primary residential market sees wave of launches, successful sales
 Hong Kong homebuyers are poised to see new residential launches in the coming days and weeks following a sell-out weekend of more than 360 flats in two major projects in the city. Sun Hung Kai Properties (SHKP), one of Hong Kong’s major developers and landlords, was set to hold a second round of sal
@@ -140,9 +140,6 @@ Artificial intelligence-powered glasses can act as tour guides, snap photos hand
 
 ## Hong Kong’s skiers flock to mainland as indoor slopes mushroom nationwide
 A rising number of travellers from Hong Kong and Macau are flocking to indoor ski centres in Guangdong province, as new venues mushroom across the mainland amid a winter sports boom. Chinese indoor ski resort operator Bonski said 20 to 30 per cent of visitors to its facility in Guangzhou were now co
-
-## Foreign banks trim China branch networks as low returns test strategy
-Almost two decades after gaining permission to conduct yuan business for local clients, foreign-funded banks are still refining their strategy in China, where the financial sector is dominated by state-owned lenders. While Citi exited its China retail banking business, other foreign banks have conti
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## There’s a ‘New Middle East’, but not the one Israel planned
-Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.
+## Photos: Antigovernment protesters clash with police in Albania’s capital
+Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.
 
-## Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?
-Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.
+## Manchester United held at Leeds despite improved performance for Carrick
+Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
 
-## Funeral held for 75 Palestinians after remains recovered from Gaza ruins
-Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.
+## EU condemns Israeli settler attack on diplomats in occupied West Bank
+EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
 
-## What help can Egypt offer Saudi Arabia in the war against the Houthis?
-Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies.
+## Tirana sees sixth day of violent protests as Albania’s PM refuses to resign
+Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.
 
-## Jordan-Israel border becomes new hotspot for sophisticated drug trade
-A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.
+## A timeline of West Bank attacks on Palestinians and foreign officials
+Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.
 
-## Palestinian karate champion Maryam Bsharat wins second world title
-Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland.
+## France protests live: Macron to address nation after protests
+Protests are sweeping France as anger over conditions in schools meets frustration with high living costs
 
-## Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites
-Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.
+## Why is Trump now encouraging mail-in voting?
+Donald Trump has spent years claiming mail-in voting is corrupt. Al Jazeera's Noor Wazwaz explains.
 
-## Russia’s war in Ukraine puts Europe on edge
-Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.
+## Why have France’s school protests become a wider political crisis?
+The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
