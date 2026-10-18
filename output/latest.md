@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## France reels after ‘unprecedented’ violent riots
+Government under pressure after struggle to contain attacks on stores and official buildings
+
+## Trump to begin transforming historic golf course despite court order
+Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image
+
+## US army chief in Asia calls for show of enhanced military muscle
+General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions
+
 ## St Petersburg endures biggest Ukrainian drone attack
 Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine
 
@@ -15,17 +24,17 @@ Mark Carney describes blaze as one of the armed forces’ worst tragedies in pea
 ## Crunch time for Brazilian politics
 South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget
 
+## Evercore appoints co-presidents for the first time in leadership reshuffle
+Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years
+
+## Microsoft pulls plug on Nscale data centre deal
+US tech giant abandons agreement to lease capacity at neocloud’s UK site
+
 ## US threatens Europe over Starlink restrictions
 Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies
 
 ## Trump’s bid to make America cheap again has failed
 Voters are increasingly linking rising energy prices to the administration’s policies
-
-## France reels after ‘unprecedented’ violent riots
-Government under pressure after struggle to contain attacks on stores and official buildings
-
-## Microsoft pulls plug on Nscale data centre deal
-US tech giant abandons agreement to lease capacity at neocloud’s UK site
 
 ## Trump’s losing battle with green energy
 The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it
@@ -38,9 +47,6 @@ A vast bet on the future of the technology is running into the unforgiving econo
 
 ## How Perella Weinberg’s M&A dream died
 Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
-
-## Russian ships fake locations to appear in two places at once
-New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers
 
 ## Farm loans lose share in banks’ credit books as lenders turn cautious on rural exposure
 Rural credit trails overall loan growth at several banks in September quarter
@@ -234,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why the US is holding secret talks with Myanmar’s military ruler
-Why is the Trump administration holding secret talks with Myanmar's military ruler, accused of genocide?
+## Fire engulfs Albania’s Supreme Court as protests enter fifth day
+Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
 
-## Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen
-Bollywood actor Tiger Shroff escaped unharmed after gunmen opened fire at his vehicle in Mumbai, India
+## ‘Anger and shame’: Macron denounces France’s nationwide rioting, looting
+President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.
 
-## JERUSALEM DAILY: Settlers attack EU diplomats
-Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.
+## What’s behind Europe’s youth protests?
+What's behind Europe's youth protests?
 
-## Madueke scores only goal as below-par Arsenal beat Nottingham Forest
-Arsenal did not register a shot on target until Noni Madueke bagged their winner 10 minutes from full-time.
+## India’s crackdown on cockroaches, critics and cameras
+A government at war with its critics - from young protesters to the media.
 
-## Residents recount drone strikes in Ethiopia’s northern Tigray region
-In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces
+## How will Europe deal with youth-led protests?
+Demonstrations are spreading across the continent.
 
-## Trump endorses Netanyahu in Israeli legislative elections
-In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.
+## Clarence Seedorf calls out genocide in first Corinthians press conference
+Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
 
-## ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
-China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'.
+## Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
+Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.
 
-## French mayor attacked by settlers during occupied West Bank olive harvest
-Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
+## GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
+Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
