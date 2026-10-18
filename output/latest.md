@@ -1,27 +1,42 @@
 # AION Intelligence
 
+## St Petersburg endures biggest Ukrainian drone attack
+Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine
+
 ## Several dead and injured in fire at Alberta military base
 Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says
 
-## ‘Cash is making a comeback’ in digital India
-Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface
+## ‘The Switzerland of North America’: Albertans vote on leaving Canada
+Monday’s referendum on independence for the western province threatens Mark Carney’s effort to unite the country against a hostile US
+
+## Saudi helicopter crash kills two troops near Yemen border
+First reported military fatalities for the kingdom come as war with Houthi rebels continues to escalate
+
+## France reels after ‘unprecedented’ violent riots
+Government under pressure after struggle to contain attacks on stores and official buildings
+
+## Not every billionaire is a policy failure
+Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly
+
+## Will Meta’s earnings restore confidence in the AI boom?
+Market Questions is the FT’s guide to the week ahead
+
+## Could Republicans prove the pollsters wrong in the midterms?
+Party insiders say past elections show predictions of a Democratic wave in Congress are overstated
+
+## Trump’s losing battle with green energy
+The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it
+
+## Accenture looks to sell Chinese operations for up to $1.5bn
+Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI
 
 ## America’s $10tn AI infrastructure boom is starting to fray
 A vast bet on the future of the technology is running into the unforgiving economics of the physical world
 
-## The Trump administration has entered its utter shambles era
-A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House
-
-## Far-right election gains threaten Germany’s investment drive
-Surge in support for AfD is fuelling concerns among executives ahead of an investment summit in Berlin this week
-
-## Is American democracy safe? Martin Wolf on the US midterms
-The FT’s chief economics commentator speaks to former Republican adviser Robert Kagan
-
 ## How Perella Weinberg’s M&A dream died
 Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
 
-## Russian ‘shadow fleet’ fakes locations to appear in two places at once
+## Russian ships fake locations to appear in two places at once
 New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers
 
 ## Why we just can’t quit the site formerly known as Twitter
@@ -33,35 +48,38 @@ In fragile times, it pays to view your own city through the eyes of strangers
 ## Europe’s industrial giants take diverging paths as they ride AI boom
 Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment
 
-## The US needs a social compact on data centres
-Building them at home would allow policymakers to advance the interests of American companies and workers
+## Gujarat-based Transformers and Rectifiers weighs setting up of a transformer factory in UK
+The Ahmedabad-based power equipment maker plans to first establish a sales and customer-support presence through its UK subsidiary, Maxwell Grid Transformers (UK) Private Ltd
 
-## How YouTubers finance their videos
-Setting up as an influencer is cheap but online success often triggers a need for working capital — and traditional banks are wary
+## Latest rainfall data highlights severe threat to rabi crops amid deficits and El Niño concerns
+The stakes are high because rabi crops, unlike the monsoon-dependent kharif crops, are sown in the winter months and depend on a combination of residual soil moisture, irrigation and winter precipitation
 
-## Rajinikanth’s Jailer 2 mints ₹321 crore at box office
-The film is directed by Nelson Dilipkumar.
+## NSUI holds 'Hallabol March' demanding CEC Gyanesh Kumar's resignation
+The protest comes amid a series of demonstrations by student groups and other organisations demanding CEC's resignation
 
-## Southern Railway introduces Vistadome coach on Madurai–Guruvayur Express
-The Vistadome coach will be temporarily operated on the Madurai-Guruvayur Express on Thursdays, Fridays, Saturdays and Sundays, for journeys commencing from Madurai from October 22, 2026 to January 15, 2027
+## Crude oil likely to gain further next week as supply fears overshadow relief measures: Analysts
+On the Multi Commodity Exchange, crude oil futures for November delivery rose by ₹566, or 6.4 per cent, over the past week to close at ₹9,394 per barrel
 
-## Kerala HC seeks Centre stand on plea challenging blocking of BitChat messaging app
-Bitchat, by GitHub, is an open-source messaging app that works over Bluetooth, with no internet needed
+## DLF to launch projects worth ₹58,000 crore in 2-3 yrs in Delhi-NCR, Mumbai amid luxury housing demand
+Realty firm gears up for luxury launches in Mumbai and Gurugram amid strong demand from end users and investors
 
-## Market cap of 9 top firms surges ₹3.65 lakh crore; TCS leads gains
-Last week, the BSE benchmark Sensex surged 2,256.94 points, or 3.11 per cent, and the NSE Nifty jumped 625.7 points, or 2.77 per cent.
+## JLR India expands retail presence in Delhi, Gurugram; sees NCR as key market
+The luxury carmaker, in partnership with AMP Motors, has relocated its dealership to a larger integrated facility on Mathura Road in South Delhi and opened a new sales outlet in Gurugram, Haryana
 
-## Centre plans overhaul of MMDR Act to create new mining law
-In recent years, the Centre has made efforts to review the nation's regulatory landscape to incorporate ease of living and ease of doing business reforms across all sectors
+## One Guru for every Indian
+The Prime Minister promised AI training for a crore youth. The rationing of learning that held India back is finally ending
 
-## Private capex cycle in India seen gaining traction as corporate, SME lending surges: Jefferies
-The brokerage says bank credit growth is robust, rising 18.1% y-o-y in mid-September, with corporate lending, loans to micro, small and medium industrial enterprises recording particularly strong growth
+## Jewellery retailers project 22-28% Q2 growth despite festive calendar shift
+P N Gadgil Jewellers, Titan, Kalyan Jewellers and PC Jeweller reported double-digit year-on-year growth in their respective quarterly business updates
 
-## AdaniConneX to use air cooling at Vizag data centres to reduce freshwater use
-The facilities will have dedicated industrial water connections.
+## FMCG firms feel the pinch: Will your favourite products cost more this Diwali?
+FMCG companies face a challenging landscape as they contend with surging costs for essential raw materials like palm oil and sugar. The pressure on operating margins is significant and unlikely to alleviate soon. To maintain goodwill during the festive season, firms are absorbing some of these cost 
 
-## IMD update: Chennai drenched as Bay of Bengal and Arabian Sea brace for more activity
-Network of intersecting troughs and cyclonic circulations transform the Arabian Sea and the Bay of Bengal into active rain-generating zones following the onset of north-east monsoon
+## Sugar-free ethanol? Oil companies change recipe, here's what's next
+The government's recent decision to exclude sugar-based raw materials from its ethanol procurement process marks a strategic shift aimed at boosting domestic sugar availability. By allowing oil marketing companies to source ethanol from grains and C-heavy molasses, the government addresses rising su
+
+## Stock market outlook: Geopolitical cues, earnings, FIIs to keep Dalal Street busy
+This week, Indian stock markets will likely be influenced by the quarterly earnings reports from key banks including HDFC Bank, ICICI Bank, and Axis Bank, showcasing different profit trends that are capturing investor interest. Traders will also keep a close eye on crude oil price shifts, geopolitic
 
 ## FPIs hit the sell button again: Rs 3.12 lakh crore exits Indian equities in 2026
 In October, foreign investors pulled out Rs 52,100 crore from Indian equity markets, contributing to overall outflows this year. Escalating crude oil prices and elevated US bond yields have swayed this selling behavior. Although there was a momentary resurgence in buying, the cautious investor senti
@@ -78,38 +96,35 @@ The US government has opted to lift specific sanctions concerning the import of 
 ## Venezuela signs 61 oil agreements, expects $76 billion in investments over five years
 Venezuela is set to draw approximately $76 billion in foreign investment over the next five years to revitalize its oil sector. The recent agreements with the United States encompass 17 oilfields and plan for the deployment of 250 drilling rigs. Particularly in Zulia state, oil production has surged
 
-## Private banks’ profits rise, large lenders see margin pressure
+## Kolkata Durga Puja stampede hits BJP amid row over leaders’ role in Bengal’s puja committees
+The Kolkata Durga Puja stampede that killed 19 people has put the BJP’s association with puja committees in West Bengal under scrutiny, sparking a political row.
 
+## Chandigarh heritage furniture: Plea to halt auction of nine articles in France
+Chandigarh heritage furniture: Plea to halt auction of nine articles in France
 
-## Tata Trusts to build institutions, not just fund them: Noel
+## 'There was no way out': Families mourn loss of loved ones in Durga Puja stampede that killed 19
+A visit to Kolkata’s Chorebagan Durga Puja pandal turned tragic when a stampede killed 19 people, including four children, leaving families devastated.
 
+## From Delhi to Dehradun, Congress intensifies protests seeking fair probe in Ankita Bhandari murder case
+Appointment of BJP's Dushyant Gautam as Sikkim governor amid the ongoing CBI probe into the alleged 'VIP' angle Ankita Bhandari murder case has stirred a row.
 
-## NRI woman’s FCNR deposits get tax notice as unexplained; ITAT grants relief
-A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The husband’s name appeared as the first holde
+## Clear ₹9.73 cr of pending victim compensation dues in 5 weeks: Kerala HC to govt
+Clear ₹9.73 cr of pending victim compensation dues in 5 weeks: Kerala HC to govt
 
-## Noida Police book two X users for spreading fake news about Dhruv Rathee’s arrest
-Noida Police booked two identified and other unidentified X accounts for falsely claiming YouTuber Dhruv Rathee had been arrested, citing concerns over law and order.
+## 'Foreign nationals protesting in India a matter of concern': Chirag Paswan on Imran Khan's participation in Mumbai stir
+Paswan said every Indian citizen had the right to protest against any issue, but the participation of a foreign national in such demonstrations was unacceptable
 
-## Rajnath Singh to represent India at SCO Meet in Tajikistan, focus on trade, connectivity and regional cooperation
-As per Ministry of Defence, the meeting will focus on strengthening multilateral cooperation among SCO Member States.
+## ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case
+ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case
 
-## Rain, narrow gates, mic warning led to Kolkata stampede that killed 19; Instagram clip showed risk days earlier
-Visuals from the spot show both the gates and the approach road to the pandal are narrow, which may have contributed to the accident.
+## 'Hired crane to pull out siblings': Victims' kin allege delay in help after 15 killed in Gwalior temple tragedy
+Victim families claim that police did not help them after the accident, questioned how trucks was allowed at Shitala Mata Temples.
 
-## One person with alleged terror links arrested, says K'taka Home Minister
-One person with alleged terror links arrested, says K'taka Home Minister
+## Hong Kong’s primary residential market sees wave of launches, successful sales
+Hong Kong homebuyers are poised to see new residential launches in the coming days and weeks following a sell-out weekend of more than 360 flats in two major projects in the city. Sun Hung Kai Properties (SHKP), one of Hong Kong’s major developers and landlords, was set to hold a second round of sal
 
-## Book Box: I Who Have Never Known Men, Xingu, and The Ignorance of Blood
-From I Who Have Never Known Men to Edith Wharton’s Xingu, a week of reading explores existential questions, social pretension and political corruption.
-
-## ‘Love my Indian in-laws’: Vance clarifies ‘indentured servants’ remark amid H-1B row; says his ‘rhetoric may have been imperfect’
-The Donald Trump-led administration had, earlier this month, announced suspension of several firms, including Indian IT companies, from green card filings.
-
-## Kolkata stampede: Mamata faction alleges Durga Puja pandal panel has ‘links’ to CM's nephew, BJP hits back
-The allegations came even as seven people were arrested.
-
-## Just Like That | Jantar Mantar: From the science of the stars to the politics of dissent
-Built in 1724 by Maharaja Sawai Jai Singh II, Delhi’s Jantar Mantar evolved from an astronomical observatory into a landmark of protest and political dissent.
+## Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening
+When shoppers step into Rokid’s brand new flagship store in Hong Kong, they are greeted not by eager sales associates, but by glowing monitor screens and a robotic system waiting at the exit. In what the Chinese augmented reality (AR) gadget pioneer called an experiment in “no man’s land” retail, cu
 
 ## Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry
 France and Germany have unveiled a joint position on Europe’s automotive package, with a tighter geographic definition of “Made in Europe” and a research and development requirement for cars to qualify for subsidies or public procurement, which industry insiders say would put further pressure on Chi
@@ -128,12 +143,6 @@ A rising number of travellers from Hong Kong and Macau are flocking to indoor sk
 
 ## Foreign banks trim China branch networks as low returns test strategy
 Almost two decades after gaining permission to conduct yuan business for local clients, foreign-funded banks are still refining their strategy in China, where the financial sector is dominated by state-owned lenders. While Citi exited its China retail banking business, other foreign banks have conti
-
-## HKEX pushes back T+1 trade settlement to 2028 after brokers request more prep time
-Hong Kong Exchanges and Clearing said it had delayed a plan to shorten the settlement time for share transactions to the second half of 2028, so it could address widespread industry requests for more preparation time. Confirming a report by the South China Morning Post on Wednesday, the exchange sai
-
-## Financial Street Forum forecast calls for more opening up by Chinese regulators
-International investors will keep an eye on a forum next week for clues from China’s regulators on how they plan to further open its financial markets, after Visa’s long-awaited approval fuelled hopes for deeper participation in the world’s second-largest economy. Regulators could announce more meas
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -231,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why Iran-US negotiations keep failing
-Relations between the two countries are dominated by policy complexes shaped by a history of hostility.
+## There’s a ‘New Middle East’, but not the one Israel planned
+Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.
 
-## WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream
-Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.
+## Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?
+Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.
 
-## Israel’s ties with Europe are fraying. Can its election change that?
-European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.
+## Funeral held for 75 Palestinians after remains recovered from Gaza ruins
+Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.
 
-## Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title
-Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.
+## What help can Egypt offer Saudi Arabia in the war against the Houthis?
+Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies.
 
-## Guatemalan former prosecutor shot dead at sports centre
-Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.
+## Jordan-Israel border becomes new hotspot for sophisticated drug trade
+A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.
 
-## AI tool helps stranded protesters find their way home in the Indian capital
-A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.
+## Palestinian karate champion Maryam Bsharat wins second world title
+Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland.
 
-## Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
-US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.
+## Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites
+Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.
 
-## ‘Serious incident’ at Canada military base causes deaths, injuries
-Defence Minister David McGuinty says people were killed and injured after an incident caused a major fire in Alberta.
+## Russia’s war in Ukraine puts Europe on edge
+Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
