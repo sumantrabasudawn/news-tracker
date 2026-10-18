@@ -3,29 +3,26 @@
 ## St Petersburg endures biggest Ukrainian drone attack
 Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine
 
+## Trump endorses Netanyahu ahead of Israeli elections
+Backing for Israel’s prime minister came after tensions between the allies
+
+## City of London Corporation weighs tax rises and service cuts to plug £70mn budget hole
+Barbican Centre faces uncertain future as Square Mile prepares for Labour funding overhaul
+
+## Four dead and dozens injured in fire at Alberta military base
+Mark Carney describes blaze as one of the armed forces’ worst tragedies in peacetime on Canadian soil
+
+## Crunch time for Brazilian politics
+South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget
+
+## US threatens Europe over Starlink restrictions
+Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies
+
 ## Trump’s bid to make America cheap again has failed
 Voters are increasingly linking rising energy prices to the administration’s policies
 
 ## France reels after ‘unprecedented’ violent riots
 Government under pressure after struggle to contain attacks on stores and official buildings
-
-## Treasury introduces new security measures in bid to stop UK Budget leaks
-Chancellor John Healey deploys ‘military-style’ security protocols to restrict flow of sensitive information
-
-## Egypt’s Sisi sets out plan for military to train his successors
-President says he will step down in 2030 but floats new process that would consolidate role of army in state
-
-## Several dead and injured in fire at Alberta military base
-Authorities respond to ‘tragic incident’ at Canadian Forces Base Wainwright, the country’s defence minister says
-
-## ‘The Switzerland of North America’: Albertans vote on leaving Canada
-Monday’s referendum on independence for the western province threatens Mark Carney’s effort to unite the country against a hostile US
-
-## Saudi helicopter crash kills two troops near Yemen border
-First reported military fatalities for the kingdom come as war with Houthi rebels continues to escalate
-
-## US threatens Europe over Starlink restrictions
-Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies
 
 ## Microsoft pulls plug on Nscale data centre deal
 US tech giant abandons agreement to lease capacity at neocloud’s UK site
@@ -45,6 +42,15 @@ Boutique advisory firm was on the brink of selling to Piper Sandler — until it
 ## Russian ships fake locations to appear in two places at once
 New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers
 
+## Farm loans lose share in banks’ credit books as lenders turn cautious on rural exposure
+Rural credit trails overall loan growth at several banks in September quarter
+
+## Commerce, Finance Ministries hold talks over future of key export support schemes
+Commerce Department seeks five-year extension, but Finance Ministry remains unconvinced about their effectiveness; some exporters fear discontinuation
+
+## F&O losses, the gravity of the debt trap, and the escape velocity needed to navigate your way out
+A personal account of how F&O losses, mounting loans and the urge to recover money turned into a financial crisis — and what it took to rebuild
+
 ## Editorial. Money trail
 Checking IPO proceeds’ misuse easier said than done
 
@@ -60,14 +66,8 @@ Chief Minister C Joseph Vijay reviews preparedness; 227 relief centres and 112 c
 ## Infosys Q2 revenue growth likely to remain modest; analysts see guidance cut
 According to a poll of brokerages, revenue for Q2FY27 is expected to range between ₹49,090 crore and ₹49,323 crore
 
-## Govt notifies 30% cap on trade margins on 137 cancer drugs, new prices from November 9
-The move is aimed at reducing the prices patients pay for these medicines
-
-## Nippon India Smallcap, SBI Smallcap, HDFC Smallcap, Bandhan Smallcap and Quant Smallcap: How small-cap funds are beating the liquidity squeeze despite rising valuations
-Improvement was driven largely by higher market trading volumes and changes in portfolio composition, including greater exposure to relatively liquid stocks and a broader stock count
-
-## J&K police register case against Army officer’s wife over alleged sharing of sensitive information
-Officials said the woman, a resident of Telangana, had been involved in research-related activities that were now under police scrutiny
+## US says Europe refused to join push for tariffs on India, China over Russian oil
+Scott Bessent has criticized European nations for refusing to impose tariffs on India and China, which purchase Russian oil. He highlighted that the US has approached its allies to coordinate actions against energy purchases from Russia. Bessent emphasized the need for the US to reassess its strateg
 
 ## India’s crude import bill surges 46% in Sept as oil prices soar
 
@@ -90,32 +90,29 @@ This past week witnessed a remarkable surge in the stock market, with India's to
 ## Refined in India, bound for West: Russian-crude fuel exports to Europe rise 43%
 Indian refineries exported Russian crude oil products to Western markets, generating significant revenue in September. The European Union, Australia, the US, and New Zealand imported these refined products, despite existing sanctions. Reliance Industries' Jamnagar refinery was particularly active in
 
-## 'India an important ally': Rubio explains why Trump paused sanctions on Russia oil buyers
-The US government has opted to lift specific sanctions concerning the import of Russian oil and gas. This includes a review period of 60 days to evaluate the economic effects on key importers such as India and China. Senator Marco Rubio highlighted India's persistent dependency on Russian energy sou
+## BJP wary as Jagan Mohan Reddy hints at shift towards INDIA bloc
+Senior BJP party leaders who spoke on condition of anonymity said the YSRCP joining the INDIA bloc will pave the way for a political shift not just in the state, but also in the neighbouring Telangana.
 
-## CJP alleges Ashutosh, Saurav not being released; Delhi Police file FIR over threats to magistrate
-On October 14, he noted that Ranka and Das, who had previously signed a surety bond on October 11 to keep peace, breached it by entering Jantar Mantar.
+## Actor safe, multiple probe teams formed, forensic team on ground: Mumbai Police on Tiger Shroff assassination bid
+Police informed that the incident took place at around 7 PM, when some unidentified persons arrived at the location and opened fire at actor Tiger Shroff.
 
-## Kochi Mini Cooper crash: Driver’s mother appeals for privacy, extends condolences to victims’ families
-Suhail Sajeev’s mother said the investigation into the Mini Cooper crash must proceed in the right direction and that the truth must prevail
+## Video captures Tiger Shroff escaping in car after assassination bid in Mumbai's Juhu
+In the purported video, filmed by a bystander, Tiger is seen hurriedly getting into the driver's seat and shutting the door before the car begins to move.
 
-## 'Anyone who works with Salman Khan will be next': After attack on Tiger Shroff, Lawrence Bishnoi gang issues fresh threat
-A social media post linked with Lawrence Bishnoi gang's Anil Pandit said he along with Anil Harman Sandhu was behind the attack.
+## Kolkata stampede: Accused sent to 10-day custody, officials suspended as blame game erupts after Chorbagan tragedy
+Bengal CM Suvendu Adhikari has said the government would set up an SIT headed by a sitting judge of the Calcutta high court to probe into the incident.
 
-## Tiger Shroff escapes unhurt after shots fired at actor in Mumbai, Lawrence Bishnoi gang claims attack
-Three motorcycle-borne men opened fire on actor Tiger Shroff, leaving two people, including his driver injured, police said.
+## CRPF chief lauds woman personnel for showing ‘resilience’ after being slapped during CJP protest
+The Delhi Police have filed an FIR against an unidentified protester for ‘slapping’ the official near Connaught Place on Friday during CJP's Tiranga march.
 
-## Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur
-Sangrur Deputy Commissioner Poonamdeep Kaur confirmed that eight people had died in the accident and 12 sustained injuries
+## Maharashtra CM speaks to Tiger Shroff after assassination bid, dy CM Shinde says 'no gang will be spared'
+Deputy CM Eknath Shinde said the police had formed several teams to identify and arrest those responsible.
 
-## ‘People will reclaim the republic’: Rahul Gandhi targets PM Modi, Shah; says government’s ‘expiry date is near’
-Speaking at a rally in Goa, Rahul Gandhi said the people had seen through the BJP leadership and that no amount of force or money could change their minds.
+## Army officer's wife under scanner in J-K for ‘sharing sensitive info’ with foreign intelligence operatives
+The investigators are reportedly looking into the circumstances that led to the registration of the FIR and the allegations of links with foreign entities.
 
-## Heavy rainfall batters Chennai as northeast monsoon brings rain fury, over 20 cm recorded in 24 hours
-Tamil Nadu and Puducherry usually receive rainfall during the northeast monsoon season which officially sets in between October and December every year.
-
-## ‘Not enough police, govt hospital lacked facilities’: Kolkata pandal tragedy raises questions over emergency response
-Allegations also surfaced that the state-run hospital lacked adequate facilities to treat the victims, forcing some of them to be referred to a private hospital
+## 'Dirty tricks to prolong illegal arrest': Dipke as CJP awaits Ashutosh Ranka and Saurav Das' release
+These remarks by Dipke come as CJP and the Opposition staged protests in Delhi against CEC Gyanesh Kumar over the Special Intensive Revision (SIR) exercise.
 
 ## The AI promise was automation. The reality? Managing digital workers
 When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” that would finally free humans from corporate drudgery. As businesses across Asia are discovering, however, the reality is quite the opposite – more work, new friction and a whole ne
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Photos: Antigovernment protesters clash with police in Albania’s capital
-Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.
+## Why the US is holding secret talks with Myanmar’s military ruler
+Why is the Trump administration holding secret talks with Myanmar's military ruler, accused of genocide?
 
-## Manchester United held at Leeds despite improved performance for Carrick
-Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
+## Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen
+Bollywood actor Tiger Shroff escaped unharmed after gunmen opened fire at his vehicle in Mumbai, India
 
-## EU condemns Israeli settler attack on diplomats in occupied West Bank
-EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
+## JERUSALEM DAILY: Settlers attack EU diplomats
+Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.
 
-## Tirana sees sixth day of violent protests as Albania’s PM refuses to resign
-Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.
+## Madueke scores only goal as below-par Arsenal beat Nottingham Forest
+Arsenal did not register a shot on target until Noni Madueke bagged their winner 10 minutes from full-time.
 
-## A timeline of West Bank attacks on Palestinians and foreign officials
-Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.
+## Residents recount drone strikes in Ethiopia’s northern Tigray region
+In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces
 
-## France protests live: Macron to address nation after protests
-Protests are sweeping France as anger over conditions in schools meets frustration with high living costs
+## Trump endorses Netanyahu in Israeli legislative elections
+In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.
 
-## Why is Trump now encouraging mail-in voting?
-Donald Trump has spent years claiming mail-in voting is corrupt. Al Jazeera's Noor Wazwaz explains.
+## ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
+China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'.
 
-## Why have France’s school protests become a wider political crisis?
-The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.
+## French mayor attacked by settlers during occupied West Bank olive harvest
+Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
