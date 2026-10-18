@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
+Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks
+
+## Listings in south-east Asia gain momentum with $1bn IPO
+Owner of digital wallet GCash set to start trading in region’s biggest debut this year
+
 ## Protests across France spiral into riots and looting
 Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system
 
@@ -8,9 +14,6 @@ Sacking of Katie Zacharia is latest in a week of embarrassing administration mis
 
 ## Israeli settlers attack European diplomats in the West Bank
 Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’
-
-## Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’
-President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks
 
 ## Lula turns to selfie videos in election fightback
 Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting
@@ -39,8 +42,23 @@ It is wrong to assume that legal professionals have no money worries
 ## Activists highlight a Big Yellow warning sign for the London market
 A trickle of sales to foreign buyers risks becoming a flood
 
-## ‘Inflation will make people poor’: Airlines brace for years of pain
-Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation
+## Trump says Iran war will end ‘very quickly’, predicts lower US gas prices
+The contrasting statements come as Washington defends its military campaign and Tehran demands an end to fighting across the region
+
+## US says 97% of ships transit Strait of Hormuz safely despite Iranian attacks
+Washington says naval protection has helped commercial shipping continue through the strategic waterway as competing claims over control intensify.
+
+## Bajaj Auto-owned KTM opens new motorcycle assembly plant in Brazil
+The new facility marks a shift to independent manufacturing operations in Brazil, with production planned to scale up from 2026
+
+## President wants 60 days to assess impact of Russia sanctions law: Rubio
+The US President is weighing economic consequences and global energy pressures as Washington considers its next steps on punitive trade measures
+
+## Kolkata Durga Puja stampede kills 19, 25 injured; 12 detained
+Police are investigating crowd management lapses and entry-exit confusion after a deadly rush at a popular north Kolkata festival venue.
+
+## CERT-in incident flags need for AI-enhanced security measures rather than reacting to attacks
+At odds with this, Greyhound Research assessed the incidents as the failure of India’s defences against AI agents at detection
 
 ## Jio Platforms IPO: Terrific history, but is the future prized or pricey?
 The offer gives investors exposure to well-managed, well-established business, but its valuation requires a nuanced approach
@@ -48,23 +66,14 @@ The offer gives investors exposure to well-managed, well-established business, b
 ## Who Am I? October 18, 2026
 Are you an avid investor? How well do you know corporate India?
 
-## Kolkata Durga Puja pandal stampede: 17 feared dead
-Rain triggered a rush among people waiting outside the Chorbagan pandal, with several falling on the road as the crowd surged forward
+## Venezuela signs 61 oil agreements, expects $76 billion in investments over five years
+Venezuela is set to draw approximately $76 billion in foreign investment over the next five years to revitalize its oil sector. The recent agreements with the United States encompass 17 oilfields and plan for the deployment of 250 drilling rigs. Particularly in Zulia state, oil production has surged
 
-## Rubio’s Jamnagar visit may focus on Reliance’s Texas refinery deal, boost Trump’s midterm prospects: Expert
-Foreign affairs expert Robinder Sachdev sees a possible commercial and political dimension to the visit, alongside discussions on bilateral and regional issues.
+## Private banks’ profits rise, large lenders see margin pressure
 
-## Axis Bank Q2 profit rises 37.6% to ₹7,003 crore as provisions fall 52.2%
-Higher core income, expanding lending across business segments and lower provisioning costs supported the private sector lender’s performance during the September quarter
 
-## HDFC Bank reports 5% increase in Q2FY27 standalone net profit at ₹19,510 crore
-Net interest income (interest income less interest expended) rose 10% y-o-y to ₹34,619 crore (₹31,551.50 crore in Q2FY26)
+## Tata Trusts to build institutions, not just fund them: Noel
 
-## ICICI Bank Q2 profit jumps 20.1% to ₹14,843 crore; margins come under pressure
-Higher interest income and expansion in lending supported earnings, while the cost of FCNR(B) inflows contributed to pressure on margins
-
-## When stock valuations go wrong, blame taxes?
-MISPLACED OUTRAGE. Two years after Indian equities peaked, investors are blaming taxes for poor returns, but the real culprit may be the prices they willingly paid
 
 ## NRI woman’s FCNR deposits get tax notice as unexplained; ITAT grants relief
 A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The husband’s name appeared as the first holde
@@ -81,38 +90,32 @@ The man in this case failed to file his income tax return, and the Income Tax De
 ## ICICI Bank Q2 results: Standalone profit rises 20% to Rs 14,843 crore, NII up 17.7%
 ICICI Bank has reported a remarkable 20.1 percent surge in standalone net profit for Q2 of FY 2026-27. This impressive performance is further highlighted by a 22.28 percent increase in consolidated net profit, which reached Rs 16,333.18 crore. Year-on-year, net interest income rose by 17.7 percent, 
 
-## HDFC deputy MD Kaizad Bharucha announces exit ahead of Anup Bagchi's takeover as CEO
-HDFC Bank's Deputy Managing Director, Kaizad Bharucha, has announced his resignation, effective December 31. This move precedes Anup Bagchi's appointment as the new Managing Director and CEO. In the latest reports, HDFC Bank has demonstrated remarkable profitability shifts this July to September, re
+## ‘India diversified imports, but hard to pivot in one day’: Marco Rubio explains why US waived some Russia energy tariffs
+US President Donald Trump waived some sanctions that could have threatened 100% tariffs against India and four nations for purchasing Russian oil and gas.
 
-## You earn, save and invest. But are you financially literate? 10 questions to ask
-Financial literacy encompasses understanding one's income, expenses, and the risks associated with investments. Differentiating between saving and investing is crucial for effective financial planning. Individuals must be vigilant against financial fraud and misleading guidance in their investment c
+## Government caps trade margin for 137 cancer drugs at 30%, prices likely to fall by up to 70%
+The decision was approved at NPPA meetings on October 16 and 17, according to the minutes, seen by HT.
 
-## Risk Assets Seen Regaining: Morgan Stanley backs global stocks over bonds; oil shock flagged as risk
-A revival in global markets may be underway as strong economic growth and rising corporate profits boost risk assets. The ongoing investment in artificial intelligence is proving beneficial for productivity and expansion across various industries. However, concerns remain due to geopolitical tension
+## Sahyog Portal could detect, remove child abuse material: Supreme Court
+“Our expectations from the portal, however, are much more than what it is, as of now, capable of doing, and we are hopeful that the Union of India shares the same vision,” it said.
 
-## SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces ₹25 lakh aid, government job
-At least 19 people died in a Kolkata Durga Puja pandal stampede. The state has announced a judicially headed SIT probe and compensation for victims.
+## Trans woman not within purview of Sec 69 of BNS: Allahabad HC
+The Allahabad high court has held that a transgender woman, after having undergone a sex-reassignment surgery, does not fall within the statutory definition of “woman” under Section 69 of the Bharatiya Nyaya Sanhita (BNS), which criminalises sexual intercourse with a woman through deceitful means or
 
-## Bengal CM forms high-level panel to review safety at Durga Puja pandals after 19 die at Chorbagan stampede
-Bengal CM forms high-level panel to review safety at Durga Puja pandals after 19 die at Chorbagan stampede
+## CARA referral doesn’t give enforceable right to adopt child if legally ineligible: Delhi HC
+The Delhi high court has held that prospective adoptive parents (PAPs) do not acquire an enforceable right to adopt a child merely by accepting the referral and having the Central Adoption Resource Authority (CARA) process their application for a no-objection certificate (NOC), if they are legally i
 
-## Indore BJP official booked under POCSO for misbehaving with girl at Garba venue
-Accused Kamal Chauhan is a supporter of MLA Ramesh Mendola and was assigned duty to manage arrangements at the Garba venue at Kankeshwari Ground in Indore.
+## A S Uraizee: A rare Muslim Gandhian who fought for human rights
+A S Uraizee, who passed away this week aged 91, was all of these, and more; he was among the last of the rare breed of Muslim Gandhians
 
-## 'Extremely distressing': PM Modi mourns Kolkata stampede deaths, assures all possible aid to victims
-PM Modi mourned the deaths in Kolkata stampede while wishing recovery to those injured in the incident.
+## Kolkata Durga Puja pandal stampede kills 19, organisers detained, TMC targets BJP | Top updates
+The Chor Bagan Sarbojanin Durgotsab Samity pandal was closed following the stampede. Police said several other crowded puja pandals were also shut afterwards.
 
-## 'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede
-The stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal, a prominent puja in central Kolkata, during the peak hours on Saturday evening.
+## SIT formed to probe Uttarakhand minister's husband on claims of forgery, caste-based harassment, murder plot
+Uttarakhand minister Rekha Arya has refused to withdraw her complaint, while her husband has denied wrongdoing and accused her of amassing illegal assets.
 
-## Kolkata pandal stampede: Mamata Banerjee expresses 'shock and grief', TMC alleges poor crowd management
-In an X post, the TMC stated that eyewitnesses and local residents reported little to no police presence for crowd control at the Chorebagan Puja Pandal.
-
-## Kolkata stampede LIVE: Toll reaches 19, CM Suvendu Adhikari says Chorbagan puja organisers detained
-Kolkata stampede LIVE: A stampede took place at Chorbagan Sarbojanin Durgotsab Samity puja pandal in Kolkata.
-
-## 'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant
-CM Sarma, in his post on X, also reflected on his son's decision to take a year off for CLAT preparation.
+## New property purchase disclosure rule in Japan sparks fears it may curb foreign investment
+Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts. Japan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconside
 
 ## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
 Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
@@ -134,9 +137,6 @@ French luxury giant LVMH Group kicked off a global open-house event showcasing i
 
 ## IPO fraud, China’s export boom, US inflation: 5 figures investors are watching
 Hong Kong’s market regulators cracked down on fraud with a multibillion-dollar asset freeze, while mainland trade momentum surged on robust tech demand. Meanwhile, mainland Chinese traders ramped up their exposure to local equities, and the city cemented its status as a top global destination for we
-
-## Beijing enlists multiple regulators to probe EV safety issue that raised quality alarms
-Beijing has enlisted the support of its top internet watchdog to deepen the investigation into a car safety issue that put Chinese-made intelligent vehicles under the spotlight. The Ministry of Industry and Information Technology (MIIT) said on Thursday that a joint investigation team including offi
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi-led coalition intercepts drones as Egypt weighs sending help
-Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.
+## Search continues for 11 missing after boat sank off Mexico’s Baja coast
+Some of 16 survivors treated for suspected shark bites, US coastguard says.
 
-## Photos: No Kings rallies in US urge midterm voters to cast ballots early
-Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
+## Fears grow in DRC as former President Joseph Kabila joins rebellion
+Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.
 
-## Cost of living protests hit Belgium, Italy, Portugal and France
-Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.
+## Iran says two tankers catch fire after hitting mines in Strait of Hormuz
+The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.
 
-## Ten killed in fire at beach resort in Bangladesh
-Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.
+## Buildings burn as French protests go into the night
+Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.
 
-## Protesters allege police brutality as violent clashes rage on in Albania
-Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.
+## Saudi-led forces try to break Houthi siege of Taiz with airstrikes
+Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.
 
-## Al Jazeera reporter harassed, struck on head amid France protests, looting
-Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.
+## Israeli settlers attack European diplomats in the occupied West Bank
+Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.
 
-## Iranian TV airs video said to show tanker explosion in Hormuz
-Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz
+## Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh
+Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.
 
-## At least 17 killed in stampede at religious gathering in India
-Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.
+## US ambassador urges Israel to prosecute attackers of American journalist
+Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a 'despicable act of terror'.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
