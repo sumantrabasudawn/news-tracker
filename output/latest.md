@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## Violent protests spread from France to Italy and Belgium
-Looting and clashes with police take place in Milan, Brussels, Liège and Tirana
+## Japan launches mission to make first return trip to Mars
+Voyage took off early Tuesday morning Japan time and will be watched for further potential signs of life on red planet
 
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
-
-## FTSE 100 newcomer Ithaca warns of halt to investment if Rosebank blocked
-North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain
-
-## US stocks rebound after AI sell-off
+## US stocks recover after AI sell-off
 Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout
 
-## Uber defeats High Court lawsuit brought by London’s black-cab drivers
-Judge rules claim against ride-hailing app was brought too late
+## French bond sell-off intensifies after riots and looting
+Authorities introduce curfews and admit police botched oversight of protests
 
-## US defence stocks tumble as investors bet on Democratic election sweep
-Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays
+## France’s riots expose the impotence of its political class
+Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership
 
-## Indonesia’s market is dysfunctional, not uninvestable
-Banks are decent investments based on their growth and profitability
+## US prosecutors allege Saudi royal links in OpenAI bugging case
+Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’
 
-## Anthropic commits 5% of shares to ‘public benefit’ fund
-AI start-up has faced growing public backlash over safety and economic concerns
+## Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade
+Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy
+
+## Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks
+Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year
+
+## EU drops push for global ban on Arctic drilling
+Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region
+
+## Former chair of Monte dei Paschi accused of role in executive’s death
+Giuseppe Mussari has branded claims of his involvement as false and defamatory
+
+## Data centres need protection from drone warfare
+AI infrastructure designs may now need to incorporate blast-resistant concrete, jamming gear and missile-defence systems
+
+## Submit a question: Could Anthropic’s IPO be a turning point for AI?
+Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
 
 ## BoE scrutinises Barclays over claim traders misrepresented private credit exposure
 Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans
 
-## Is smart farming really smart business?
-From eerie driverless tractors to precision spraying and sowing, AI is transforming America’s agricultural life
+## North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield
+North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain
 
-## KKR accused by EU of misleading regulators over €22bn telecoms deal
-Private equity group disputes it gave false or misleading information to Brussels as it sought clearance for FiberCop deal
+## Jio Platforms IPO draws record ₹2.50 lakh crore institutional demand
+The ₹8,110 crore anchor book attracted more than 200 investors and over 100 fund schemes, including leading global and domestic institutions
 
-## The self-destructive wishful thinking about European autos and trade
-France and Germany have synthesised their bad ideas about cars into a terrible plan
+## Gen Z drives India’s beauty boom, half from small cities: Myntra report
+Gen Z allocates a 75% higher share of its wallet to beauty and personal care compared with millennials: Report
 
-## BLS Polymers ₹255-cr IPO to open on October 27; price band fixed at ₹142-150
-The IPO, comprising a fresh issue of 1.7 crore equity shares, will close on October 29
+## Piramal Finance Q2 net profit surges 67% to ₹545 crore on core income growth; guides towards NIM expansion
+Cost-to-income ratio improved to 52.1% during the reporting quarter from 61.2%
 
-## Fire breaks out at Parle-G unit in MP's Jabalpur, no one hurt; situation in control, say officials
-More than 20 fire tenders and water bowsers were deployed for firefighting operation
+## Q2 Results Today Highlights: UltraTech Q2 profit declines q-o-q, Hindustan Zinc, Union Bank & HFCL Q2 PAT up; Bajaj Finance, LTTS, IREDA announce Q2 results
+Q2 Results Today, 19th October 2026 Highlights: Stay tuned to businessline for more
 
-## Maersk to undertake first drydocking in India
-The vessel is expected to arrive at L&T's Kattupalli Shipyard near Chennai on October 20, 2026
+## Titan redeems ₹1,000 crore commercial paper
+The redemption was carried out in accordance with the SEBI’s operational circular governing the issue and listing of non-convertible securities and commercial papers
 
-## Natco Pharma launches generic cancer drug Carboplatin in US
-The launch helps address a critical shortage of the product in the US market, says the company
+## Nepal bans import, sales of Priyagold biscuits
+India’s FSSAI has initiated legal proceedings against Surya Food & Agro for using cattle feed bran in the manufacture of Priyagold biscuits
 
-## NSE, BSE to conduct Diwali Muhurat trading on Nov 8
-The special trading session will run from 2:20 pm to 3:30 pm
+## Maersk ties up with L&T for its first planned drydocking in India
+The comprehensive 10-year planned maintenance of Maersk Chattogram at L&T Shipyard in Kattupalli marks the first operational milestone under the maritime collaboration
 
-## Q2 Results Today Live: UltraTech Q2 profit declines q-o-q, Hindustan Zinc, Union Bank & HFCL Q2 PAT up; Bajaj Finance, LTTS, IREDA announce Q2 results
-Q2 Results Today, 19th October 2026 Live Updates: Stay tuned to businessline for more
+## Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints with Charity Commissioner of Maharashtra
+In its response, Tata Trusts has denied all assertions made in the complaints, including those of misgovernance
 
-## Sobha Ltd Q2 profit drops 55% to ₹33 crore
-During the first six months of FY27, Sobha Ltd's net profit fell to ₹83.80 crore from ₹86.14 crore in the year-ago period
+## Trade margins on 137 cancer drugs capped, but will bills get lower?
 
-## Even Healthcare raises $50 mn in Series B round led by Khosla Ventures
-The fresh capital will be deployed to establish five new hospitals across Bengaluru over the next six months, starting with Indiranagar
+
+## India shelves coal import plan as high global prices, weak rupee raise costs
+India has decided not to mandate coal imports for power plants due to high international prices and a weaker rupee. Coal stockpiles have reached critically low levels at many power stations, prompting concerns about electricity shortages in the country. Policymakers are focusing on boosting domestic
+
+## India probes Pernod Ricard, Diageo over Scotch whisky imports under UK trade pact
+Indian tax authorities are examining whether Pernod Ricard and Diageo wrongly classified bulk Scotch whisky imports for lower tariffs. The investigation follows reduced import duties under the recent India-UK trade pact that came into effect on July 15. Tax inspectors visited Pernod Ricard’s headqua
+
+## Russia ships 20 million barrels of oil to Asia via Arctic route amid shipping disruptions: Report
+Russia has nearly shipped 20 million barrels of oil to Asia through the Northern Sea Route in 2025. Disruptions to traditional shipping routes have prompted traders to favor the Arctic route. Indian imports of Russian crude have fallen significantly as Chinese refiners increased their purchases. Gaz
 
 ## India-New Zealand FTA effective from Oct 20; targets double trade to $7bn by 2030
 The Free Trade Agreement between India and New Zealand will come into effect on October 20. This agreement allows India to export goods to New Zealand without tariffs, boosting several sectors. India aims to double bilateral trade with New Zealand to NZD 7 billion by 2030. New Zealand exported nearl
@@ -72,41 +87,29 @@ Since February 2026, global container freight rates have surged, largely influen
 ## Renting in UP? Proposed Rs 1,000 stamp duty: What tenants, landlords must know
 One drawback of verbal or unregistered rental arrangements is the difficulty of establishing proof. Such agreements generally cannot be relied upon as evidence unless a court permits their use. Circle rates are another factor behind the widespread practice of keeping residential tenancy agreements u
 
-## 'Geography is real': Rubio says India-US trade deal close, explains stance on Russian oil
-US Secretary of State Marco Rubio stated that negotiations on a trade deal with India are close to finalization. He emphasized the importance of India's energy needs before implementing sanctions on Russian oil imports. Rubio highlighted that energy diversification is challenging for countries like 
+## Child rights panel files case over Keralam boy’s malnutrition death
+A 2-year-old in Kerala died amid suspected malnutrition. Authorities are investigating possible neglect and have taken the couple’s four children into care.
 
-## Gold price prediction: Where are gold prices headed for the October 19, 2026 week?
-Gold enters the week near Rs 148,000 after a sharp correction from the September high around Rs 163,000–165,000, with prices now consolidating after briefly falling towards the Rs 145,500–146,000 region.
+## Court cites ‘habitualness’, ‘no respect for law’ in order extending CJP leaders' custody in Jantar Mantar trespassing case
+CJP termed the ‘preventive detention’ as ‘a complete mockery of legal process and said it will challenge the order before higher courts ‘immediately.’
 
-## Bank holidays this week: List of bank closures for Dussehra, Durga Puja & more
-As the festive season in India draws near, numerous bank holidays will mark the month of October. It’s essential for customers to verify the holiday schedules specific to their regions, particularly regarding closures for Dussehra, Durga Puja, and other festivities. Fortunately, services like ATMs a
+## British tourist sexually harassed in Kerala's Varkala, dress torn, video helps police arrest man
+The accused is expected to be produced before a court on Tuesday for remand. Further investigation is underway, police said.
 
-## Rupee rises to 94.80 against US dollar, but crude oil threatens recovery
-Rupee opened the week strong, gaining 9 paise to reach 94.80 against the US dollar. This improvement marked the currency's third consecutive session of recovery, following a previous close of 94.89. However, high crude oil prices continue to pose significant risks to the rupee's gains, as oil is tra
+## Security tightened for Dussehra in Delhi-NCR, crowd management and traffic plan in place
+Elaborate security arrangements with 1,200 police personnel have also been made in Faridabad to maintain law and order.
 
-## CJP leaders Saurav Das, Ashutosh Ranka’s judicial custody extended by two days; Delhi Police cite ‘peace, tranquillity’ concerns
-Delhi Police had sought further custody of the duo, claiming their release could disrupt “peace and tranquility.”
+## CJP's Abhijeet Dipke targets PM Modi over extended custody of Saurav Das, Ashutosh Ranka
+"Ashu and Saurav’s first crime was waving the Tiranga at Jantar Mantar. Their second crime? Refusing to back down," Abhijeet Dipke said in a post on X.
 
-## Shooters planned to kill Tiger Shroff in Mumbai, motive unclear, say police
-DCP added that the motive behind the attack had not yet been ascertained and would become clear after the interrogation of the suspected assailants.
+## Uttarakhand minister confronts Daler Mehndi on stage, alleges singer was drinking alcohol: ‘You cannot even speak’
+A video of the incident has surfaced on social media, showing Uniyal standing on the stage while Mehndi stood beside him.
 
-## Beyond fighter jets: What India needs to prepare for the wars of tomorrow
-In a conversation with HT Senior Anchor Aayesha Varma on Point Blank, Executive Editor Shishir Gupta argued that India must look beyond fleet numbers.
+## On camera, Tiger Shroff shooting suspects seen rushing to catch train in Surat before arrest in Kota
+The three suspects were nabbed on Monday from Rajasthan's Kota from where they were planning to flee to Nepal via Delhi.
 
-## HT Evening News Brief October 19: Tiger Shroff attackers' planned escape via Nepal; Mizoram’s Chinmay Sutar scripts Ranji history
-Grab your tea as we bring you up to speed on today's top stories from India, the world, entertainment, and sports.
-
-## Keeping up with UP: Can Rahul Gandhi’s street activism revive the Congress in UP?
-Can the Congress or its cadre in Uttar Pradesh amplify Rahul Gandhi's combative mood or remain bogged down with internecine troubles?
-
-## CISF personnel nabs man attempting to flee Delhi's Jama Masjid Metro station after suspicious object spotted during checking
-The passenger, who claimed to be an NRI residing in Kuala Lumpur, was apprehended near the exit gate, the CISF said in a post on X.
-
-## AISA president Neha Bora moves Delhi HC, challenges police notice to execute bond
-In her petition, Neha Bora said the SEM’s notice was prima facie ambiguous, factually incorrect and violates Articles 19 and 21 of the Constitution.
-
-## ‘We thought worst was behind us’: Shroff attack sends shockwaves through Bollywood
-The underworld’s stranglehold on Bollywood through the 1990s is still a raw memory Mumbai film industry
+## Indian embassy in Italy issues advisory, urges citizens to avoid protest sites, crowded areas
+The advisory comes amid unrest in parts of Italy over poor public services and the rising cost of living.
 
 ## China plans 18 active ETFs as regulator seeks to shore up stock market
 The China Securities Regulatory Commission (CSRC) has approved 18 actively managed exchange-traded funds (ETFs), which could channel tens of billions of yuan into the A-share market, as it seeks to strengthen investor confidence and market resilience. Speaking on Monday in Beijing at the opening cer
@@ -132,6 +135,12 @@ Hong Kong homebuyers are poised to see new residential launches in the coming da
 ## Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening
 When shoppers step into Rokid’s brand new flagship store in Hong Kong, they are greeted not by eager sales associates, but by glowing monitor screens and a robotic system waiting at the exit. In what the Chinese augmented reality (AR) gadget pioneer called an experiment in “no man’s land” retail, cu
 
+## Why Is France Perpetually Rioting?
+Protest and radicalization are the answer to an authoritarian, centralized state.
+
+## Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
+France and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.
+
 ## Trump Can Push Past Israeli-Palestinian Paralysis
 Practical steps, U.S. pressure, and greater Arab involvement are needed to overcome trauma and despair.
 
@@ -150,35 +159,32 @@ Netanyahu vowed to investigate the incident but stopped short of condemning sett
 ## An Underwater Shadow War Is Raging
 A new book examines a hugely consequential conflict happening mostly out of sight.
 
-## What in the World?
-Test yourself on the week of Oct. 10: The Houthis strike Saudi Arabia, Brazil shortens the workweek, and protests rock India.
+## How the Fossil Fuel Industry ‘Captured’ Australia and Maintains Its Political Dominance
+By framing coal and gas as essential to jobs, prosperity and national identity, the industry continues to resist the transition to renewable energy.
 
-## How This Year’s Economics Nobel Winners Shaped the World
-The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers.
+## Behind the Veil of Religious Harmony in Cambodia
+Aggregate rankings mistake the absence of overt conflict and the fear of speaking up for genuine tolerance.
 
-## After War of Words, China Says Relations With Philippines at ‘Critical Juncture’
-Growing political polarization has the potential to undermine Manila’s ability to handle its ongoing maritime disputes with Beijing.
+## Hindutva Goons Unleash Violence on Anti-Modi Protesters
+Activists of the Hindu Raksha Dal, an outfit that furthers the Sangh Parivar’s agenda, were caught on camera beating students and youth participating in the Delhi protests.
 
-## Deepavali vs Diwali Sparks New Political Row in Malaysia
-Is the Malaysian Indian Congress using Hindu identity politics to regain its political relevance ahead of the next general election?
+## Amid Economic Challenges, China Turns to Vulnerable Workforce to Fix Its Social Security Problems
+China is looking to “optimize and enhance” its social security program. People fear that will translate to pressure on gig economy workers and rural migrant workers.
 
-## Indonesian Stock Exchange Plunges After Fresh MSCI Downgrade Threat
-Citing the lack of action on promised reforms, the global index provider has proposed demoting the country from "emerging market" to "standalone market" status.
+## What the New China-North Korea Bridge Really Means
+12 years after construction finished, the New Yalu River Bridge is finally open. Will North Korea's economy open too?
 
-## Exercise Tarang Shakti: A Mirror to India’s Multipronged Engagements
-The exercise reflects two trends: the Indian military’s deepening interoperability with key partner nations, and India’s multi-vector foreign policy.
+## A Warm Welcome for US Secretary of State in Central Asia
+Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
 
-## Cambodia’s NGO Sector Is Collapsing. Does It Matter?
-Imported by international donors in the 1990s, NGOs have supplanted rather than strengthened local forms of political organizing.
+## South Korea, US Pull Apart as the Alliance Strains
+Restricted intelligence sharing, an investment spat, and remarks by a U.S. commander point to a widening gap between the allies.
 
-## Myanmar Establishes New Committee to Advance Normalization With ASEAN
-The creation of the body, which comes ahead of next month's ASEAN Summit in Manila, is intended to “regain the country’s original role and rights” in the bloc.
+## What the Greens Misunderstand About the Ukraine Conflict
+As a policy, the Greens decision to not support military assistance to Ukraine is a deeply flawed one. As a political position it is self-defeating, too.
 
-## Indonesian President Replaces Head of Disaster Management Agency
-The move comes amid growing scrutiny of Jakarta's response to the forest and peatland fires that have drastically reduced air quality across the region.
-
-## After 8 Months in Power, How Much Has the BNP Changed Bangladesh?
-It remains to be seen how willing the new government is to change the institutions that it now controls.
+## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The Pentagon Doesn’t Need to Reinvent Supply Chain Transparency
 As the United States seeks to rebuild its defense industrial base, Washington is scrambling to understand an industrial ecosystem that it no longer controls, nor largely understands. China has been able to achieve strategic advantage against the United States through the targeted application of expo
@@ -200,9 +206,6 @@ In June 2026, I visited Khartoum, my hometown, for the first time since the war 
 
 ## China’s Military Expansion in Southeast Asia Masks a More Complicated Reality
 The Chinese Ministry of Defense’s announcement of a “joint support and training center” at an airport in Ban Keun, Laos, on Sept. 29 drew attention to the People’s Liberation Army’s growing footprint in Southeast Asia. Although China does not call it a “base” and said it’s “not targeted at any third
-
-## The Paradox of Victory: When Winning in Ukraine Raises the Nuclear Stakes
-In 2022, Jeremy Shapiro warned in “We Are on a Path to Nuclear War” that the war between Russia and Ukraine was heading toward nuclear escalation. Four years into the war, we asked him to revisit that argument.Image: Vyacheslav Argenberg via Wikimedia CommonsIn your original piece, you named nuclear
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## PSG vs Barcelona match will not be postponed despite protests: French PM
-Barcelona have arrived in Paris for the Champions League match at the Parc des Princes on Tuesday at 19:00 GMT.
+## Finland seeking one million land mines as it eyes Russian threat
+Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.
 
-## Australian Member of Parliament critically injured after being hit by a car
-Australian MP Dr. Helen Haines is in critical condition after being struck by a car outside her office in Victoria.
+## US Federal authorities responding to shooting at mosque in Columbus, Ohio
+This is a breaking news story.
 
-## French protest violence: A ‘Christmas present’ for Le Pen’s far right?
-Le Pen is positioning her party as more capable than centrist or left-wing forces before the 2027 presidential election.
+## Florida issues arrest warrant for Cuban leader Raul Castro
+The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.
 
-## Doctors describe hospitals shattered by Israel’s genocide in Gaza
-Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip.
+## Residents hoisted from rooftops amid Spain’s deadly flooding
+Spain’s military is hoisting residents from the rooftops of their flooded homes.
 
-## Dozens killed after Houthi strike on military camp in Shabwa
-Dozens of Yemenis are feared dead after a Houthi strike targeted a military camp in Yemen’s Shabwa governorate.
+## Indian court extends detention of ‘Cockroach’ leaders
+The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.
 
-## Russia’s Lavrov discusses US war and regional security during Tehran visit
-GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz.
+## Protesters block Louvre in support of French student movement
+French students are now blockading the world’s busiest museum.
 
-## ‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war
-Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels.
+## Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor
+US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.
 
-## At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa
-Houthis launch ballistic missiles at camp in southern governorate during training exercise, gov't forces spokesman says.
+## Netanyahu’s new security doctrine: Regional strategy or election ploy?
+Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections
 
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
