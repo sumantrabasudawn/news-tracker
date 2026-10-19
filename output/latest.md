@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Healey rules out increasing capital gains tax in the Budget
+Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy
+
+## FirstFT: China’s economy picks up pace as AI boom supercharges exports
+Also in today’s newsletter: Saudi Arabia postpones ‘Davos in the desert’ and French bond sell-off intensifies
+
+## OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim
+US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’
+
+## New York pensions chief says private equity firm sought to expense jet use
+Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers
+
+## South Africa’s president eyes trade with China and India as US ties sour
+Cyril Ramaphosa says Pretoria wants to take advantage of growing tariff-free access benefits with Beijing
+
 ## Japan launches mission to make first return trip to Mars
 Voyage took off early Tuesday morning Japan time and will be watched for further potential signs of life on red planet
 
@@ -9,17 +24,8 @@ Nasdaq 100 rises following biggest weekly drop since last year’s trade war rou
 ## French bond sell-off intensifies after riots and looting
 Authorities introduce curfews and admit police botched oversight of protests
 
-## France’s riots expose the impotence of its political class
-Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership
-
-## US prosecutors allege Saudi royal links in OpenAI bugging case
-Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’
-
-## Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade
-Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy
-
-## Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks
-Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year
+## Anthropic and Nscale in talks for second multibillion-dollar deal
+AI start-up looks for more computing power from UK data centre group
 
 ## EU drops push for global ban on Arctic drilling
 Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region
@@ -32,12 +38,6 @@ AI infrastructure designs may now need to incorporate blast-resistant concrete, 
 
 ## Submit a question: Could Anthropic’s IPO be a turning point for AI?
 Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
-
-## BoE scrutinises Barclays over claim traders misrepresented private credit exposure
-Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans
-
-## North Sea oil producer threatens to stop investing if UK blocks Rosebank oilfield
-North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain
 
 ## Jio Platforms IPO draws record ₹2.50 lakh crore institutional demand
 The ₹8,110 crore anchor book attracted more than 200 investors and over 100 fund schemes, including leading global and domestic institutions
@@ -111,6 +111,9 @@ The three suspects were nabbed on Monday from Rajasthan's Kota from where they w
 ## Indian embassy in Italy issues advisory, urges citizens to avoid protest sites, crowded areas
 The advisory comes amid unrest in parts of Italy over poor public services and the rising cost of living.
 
+## Money manager eyes Asia-Pacific property for growth, but tells investors to keep bet on US
+US-based money manager Principal Asset Management says it is poised to become more active in Asia-Pacific property markets, believing investors have been “underweight” in the region’s office property segment. Richard Hill, its senior managing director and head of global real estate research and stra
+
 ## China plans 18 active ETFs as regulator seeks to shore up stock market
 The China Securities Regulatory Commission (CSRC) has approved 18 actively managed exchange-traded funds (ETFs), which could channel tens of billions of yuan into the A-share market, as it seeks to strengthen investor confidence and market resilience. Speaking on Monday in Beijing at the opening cer
 
@@ -132,8 +135,11 @@ When artificial intelligence agents first arrived, they came with a tantalising 
 ## Hong Kong’s primary residential market sees wave of launches, successful sales
 Hong Kong homebuyers are poised to see new residential launches in the coming days and weeks following a sell-out weekend of more than 360 flats in two major projects in the city. Sun Hung Kai Properties (SHKP), one of Hong Kong’s major developers and landlords, was set to hold a second round of sal
 
-## Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening
-When shoppers step into Rokid’s brand new flagship store in Hong Kong, they are greeted not by eager sales associates, but by glowing monitor screens and a robotic system waiting at the exit. In what the Chinese augmented reality (AR) gadget pioneer called an experiment in “no man’s land” retail, cu
+## France Orders Curfews Amid Widespread Rioting
+More than half a million people joined anti-government protests over the weekend.
+
+## In Israel, Election Day Is Just the Beginning of the Story
+The real action starts after polls close and the coalition wrangling begins.
 
 ## Why Is France Perpetually Rioting?
 Protest and radicalization are the answer to an authoritarian, centralized state.
@@ -152,12 +158,6 @@ Some dramatic long-term consequences are just beginning to come into view.
 
 ## How Congress Fixed Social Security During Its Last Crisis
 In 1983, the realization the program could implode propelled last-ditch compromises.
-
-## Israeli Settlers Launch a Coordinated Attack in the West Bank
-Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
-
-## An Underwater Shadow War Is Raging
-A new book examines a hugely consequential conflict happening mostly out of sight.
 
 ## How the Fossil Fuel Industry ‘Captured’ Australia and Maintains Its Political Dominance
 By framing coal and gas as essential to jobs, prosperity and national identity, the industry continues to resist the transition to renewable energy.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Finland seeking one million land mines as it eyes Russian threat
-Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.
+## Tehran rejects any role in plot to kill leaders of German Jewish groups
+Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.
 
-## US Federal authorities responding to shooting at mosque in Columbus, Ohio
-This is a breaking news story.
+## Children among six killed in Russian drone strike on Ukraine park
+Children among six killed in Russian drone strike on Ukraine park
 
-## Florida issues arrest warrant for Cuban leader Raul Castro
-The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government.
+## Trump: ‘Paris is going to be a Muslim city very soon’
+US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.
 
-## Residents hoisted from rooftops amid Spain’s deadly flooding
-Spain’s military is hoisting residents from the rooftops of their flooded homes.
+## Egyptian parliament delays vote on military support for Saudi Arabia
+Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
 
-## Indian court extends detention of ‘Cockroach’ leaders
-The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.
+## 160 people reported killed in escalating drone attacks across Sudan
+Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
 
-## Protesters block Louvre in support of French student movement
-French students are now blockading the world’s busiest museum.
+## Could your halal pension be funding Israel’s military?
+HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
 
-## Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor
-US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.
+## Israeli police say they arrested 10 in connection with settler attacks
+Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.
 
-## Netanyahu’s new security doctrine: Regional strategy or election ploy?
-Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections
+## Trump approval hits record-low 31 percent, polls show Republican struggles
+Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.
 
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
