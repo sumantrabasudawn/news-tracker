@@ -10,9 +10,9 @@ Renovation of century-old East Potomac course is part of president’s effort to
 Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years
 
 ## Macron faces political firestorm after riots
-Worst street violence in years comes six months ahead of one of Europe’s most closely watched elections
+Worst street violence in years comes six months before one of Europe’s most closely watched elections
 
-## France reels after ‘unprecedented’ violent riots
+## France reels after ‘unprecedented’ violence from protesters
 Government under pressure after struggle to contain attacks on stores and official buildings
 
 ## US army chief in Asia calls for show of enhanced military muscle
@@ -45,6 +45,15 @@ A vast bet on the future of the technology is running into the unforgiving econo
 ## How Perella Weinberg’s M&A dream died
 Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
 
+## Sensex today | Stock Market Live Updates: Stock to buy today: Indian Hotels Company (₹772)
+Sensex, Nifty, Share Prices Live: The stock of Indian Hotels Company has been in a consolidation phase for about four months. It has been oscillating between ₹700 and ₹755.
+
+## Putin proposes summit with Trump, Xi to end Ukraine war, WSJ reports
+A reported October 9 phone call between Putin and Trump also produced an agreement involving Russian diesel sales on the global market
+
+## France riots: Macron blames radical far-left groups as arrests mount across cities
+Authorities reported widespread destruction across major cities as protesters clashed with police, businesses were looted and political tensions intensified ahead of elections.
+
 ## Netanyahu warns future US president could turn hostile, seeks stronger ties with India
 Presenting his security doctrine ahead of the election, Netanyahu urged Israel to strengthen diplomatic partnerships while preparing for possible changes in Washington.
 
@@ -54,20 +63,14 @@ In a Truth Social post, the US President praised the Israeli leader’s resilien
 ## Russia sanctions waiver is a 60-day pause; Europe refused to target India, China over oil: US
 The decision has triggered political opposition in Washington, with lawmakers questioning its implications for Ukraine and the enforcement of sanctions against Moscow.
 
-## Farm loans lose share in banks’ credit books as lenders turn cautious on rural exposure
-Rural credit trails overall loan growth at several banks in September quarter
+## Long live dogs
+Californian biotechnology company develops pill to extend canine lifespan
 
-## Commerce, Finance Ministries hold talks over future of key export support schemes
-Commerce Department seeks five-year extension, but Finance Ministry remains unconvinced about their effectiveness; some exporters fear discontinuation
+## When an AI model knows it is being watched
 
-## F&O losses, the gravity of the debt trap, and the escape velocity needed to navigate your way out
-A personal account of how F&O losses, mounting loans and the urge to recover money turned into a financial crisis — and what it took to rebuild
 
-## Editorial. Money trail
-Checking IPO proceeds’ misuse easier said than done
+## Batteries to autos: Chinese imports remain in top gear
 
-## Protests in Delhi put daily business worth over ₹400 crore at risk, estimates CAIT
-CAIT said that Delhi’s estimated average daily business turnover of approximately ₹2,200 crore makes the commercial ecosystem particularly vulnerable to disruptions.
 
 ## US says Europe refused to join push for tariffs on India, China over Russian oil
 Scott Bessent has criticized European nations for refusing to impose tariffs on India and China, which purchase Russian oil. He highlighted that the US has approached its allies to coordinate actions against energy purchases from Russia. Bessent emphasized the need for the US to reassess its strateg
@@ -90,8 +93,8 @@ In October, foreign investors pulled out Rs 52,100 crore from Indian equity mark
 ## Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains
 This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by Rs 1,08,542.63 crore. Both Bharti Airtel and Infosys also registered significant 
 
-## Refined in India, bound for West: Russian-crude fuel exports to Europe rise 43%
-Indian refineries exported Russian crude oil products to Western markets, generating significant revenue in September. The European Union, Australia, the US, and New Zealand imported these refined products, despite existing sanctions. Reliance Industries' Jamnagar refinery was particularly active in
+## 5 rounds of fire, Lawrence Bishnoi gang's claim, Shinde assures action: What we know so far on Tiger Shroff attack incident
+Police have formed 15 teams to trace the attackers, while one person was detained from Santacruz in connection with the shooting.
 
 ## BJP wary as Jagan Mohan Reddy hints at shift towards INDIA bloc
 Senior BJP party leaders who spoke on condition of anonymity said the YSRCP joining the INDIA bloc will pave the way for a political shift not just in the state, but also in the neighbouring Telangana.
@@ -99,7 +102,7 @@ Senior BJP party leaders who spoke on condition of anonymity said the YSRCP join
 ## Actor safe, multiple probe teams formed, forensic team on ground: Mumbai Police on Tiger Shroff assassination bid
 Police informed that the incident took place at around 7 PM, when some unidentified persons arrived at the location and opened fire at actor Tiger Shroff.
 
-## Video captures Tiger Shroff escaping in car after assassination bid in Mumbai's Juhu
+## Video captures Tiger Shroff taking over the wheel after assassination bid in Mumbai's Juhu
 In the purported video, filmed by a bystander, Tiger is seen hurriedly getting into the driver's seat and shutting the door before the car begins to move.
 
 ## Kolkata stampede: Accused sent to 10-day custody, officials suspended as blame game erupts after Chorbagan tragedy
@@ -114,8 +117,8 @@ Deputy CM Eknath Shinde said the police had formed several teams to identify and
 ## Army officer's wife under scanner in J-K for ‘sharing sensitive info’ with foreign intelligence operatives
 The investigators are reportedly looking into the circumstances that led to the registration of the FIR and the allegations of links with foreign entities.
 
-## 'Dirty tricks to prolong illegal arrest': Dipke as CJP awaits Ashutosh Ranka and Saurav Das' release
-These remarks by Dipke come as CJP and the Opposition staged protests in Delhi against CEC Gyanesh Kumar over the Special Intensive Revision (SIR) exercise.
+## China’s investors flock to dividend stocks as returns double those of state bonds
+Chinese investors have been flocking to dividend stocks, taking shelter from market turmoil spurred by sell-offs in technology companies and K-shaped economic growth in the Asian nation. Two key gauges of the mainland-listed companies with the highest dividend yield ratios outpaced the benchmark hea
 
 ## Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real
 Bitcoin may extend its rebound but is unlikely to break above US$100,000 before the end of the year, as rising interest rates and the Iran conflict continue to weigh on crypto assets, according to analysts. The crypto asset class is likely to end the year higher than it is today, but below the peak 
@@ -137,9 +140,6 @@ From Hong Kong to New York, a deep divide is opening up in office markets around
 
 ## New property purchase disclosure rule in Japan sparks fears it may curb foreign investment
 Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts. Japan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconside
-
-## AI glasses as travel guides? Cheaper in China, but technical hitches slow adoption
-Artificial intelligence-powered glasses can act as tour guides, snap photos hands-free and translate foreign languages. The devices also sell at relatively affordable prices in China. But are they the perfect travel companion? Not yet. AI glasses were slowly catching on with travellers as the techno
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -237,6 +237,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kinship and surveillance: The return of Somali piracy
+Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.
+
+## Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares
+Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.
+
+## Flight from Israel makes emergency landing in Bulgaria after bomb threat
+Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.
+
 ## Protesters disrupt Ben-Gvir event forcing him off stage
 Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.
 
@@ -251,15 +260,6 @@ French President Emmanuel Macron says protesters who attacked government buildin
 
 ## Fire engulfs Albania’s Supreme Court as protests enter fifth day
 Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
-
-## ‘Anger and shame’: Macron denounces France’s nationwide rioting, looting
-President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.
-
-## What’s behind Europe’s youth protests?
-What's behind Europe's youth protests?
-
-## India’s crackdown on cockroaches, critics and cameras
-A government at war with its critics - from young protesters to the media.
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
