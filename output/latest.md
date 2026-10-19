@@ -1,121 +1,118 @@
 # AION Intelligence
 
-## US rate rises are being amplified in global markets
-The Iran war and shifts by China are tightening the supply of dollars in international markets
+## US stocks set for rebound after AI sell-off
+Nasdaq 100 futures rise 1.3% following biggest weekly drop since Trump’s ‘liberation day’ in April last year
 
-## Trump to begin transforming historic golf course despite court order
-Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image
+## ‘Frenzy’ in Australian deals as investors swoop on cheap assets
+EQT strikes $6.5bn deal for waste management group and Dai-ichi Life targets wealth manager
 
-## Evercore appoints co-presidents for the first time in leadership reshuffle
-Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years
+## China’s economy picks up pace at 4.5% growth
+Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say
 
-## Macron faces political firestorm after riots
-Worst street violence in years comes six months before one of Europe’s most closely watched elections
+## US envoy hopes for ‘prosperous’ Europe
+Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip
 
-## France reels after ‘unprecedented’ violence from protesters
-Government under pressure after struggle to contain attacks on stores and official buildings
+## Has America’s wave of anti-globalisation populism peaked?
+When voters turn, leaders follow
 
-## US army chief in Asia calls for show of enhanced military muscle
-General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions
+## FirstFT: Bank of England scrutinises Barclays
+Also in today’s newsletter: French riots and Europe’s Starlink curbs
 
-## St Petersburg endures biggest Ukrainian drone attack
-Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine
+## Japan leads mission to make first return trip to Mars
+Voyage due to launch early Tuesday morning Japan time will be watched for further potential signs of life on red planet
 
-## Trump endorses Netanyahu ahead of Israeli elections
-Backing for Israel’s prime minister came after tensions between the allies
+## The sushi restaurant Tokyoites travel three hours to for lunch
+Isao Ogawa is both an expert chef and a third-generation fishmonger with the bounty of Toyama Bay at his feet. No wonder other top chefs eat at his counter and seek his advice
 
-## Microsoft pulls plug on Nscale data centre deal
-US tech giant abandons agreement to lease capacity at neocloud’s UK site
+## FTSE as Hedge
+Plus, midterms and AI
 
-## US threatens Europe over Starlink restrictions
-Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies
+## Private equity group Charlesbank closes one of the biggest law firm deals
+Stake in Wood Smith Henning & Berman could herald wave of investments in US liability defence firms
 
-## Trump’s bid to make America cheap again has failed
-Voters are increasingly linking rising energy prices to the administration’s policies
+## BoE scrutinises Barclays over claim traders misrepresented private credit exposure
+Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans
 
-## Trump’s losing battle with green energy
-The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it
+## Luxury ‘dupe’ retailer Quince enters UK market
+Company’s business model relies on copying products from popular brands then selling them at low prices
 
-## Accenture looks to sell Chinese operations for up to $1.5bn
-Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI
+## Five things business wants from the Budget
+Rates help for small companies and banks as well as cheaper energy are on the wishlist for UK businesses
 
-## America’s $10tn AI infrastructure boom is starting to fray
-A vast bet on the future of the technology is running into the unforgiving economics of the physical world
+## Sensex today | Stock Market Live Updates: Crude fears clip wings; Sensex falls over 585 points, Nifty dips by 0.71%
+Sensex, Nifty, Share Prices Live: Sensex traded 585.48 points or 0.78% lower at 74,143.79 by 12 noon. Nifty 50 declined 164.10 points or 0.71% to 22,982.05.
 
-## How Perella Weinberg’s M&A dream died
-Boutique advisory firm was on the brink of selling to Piper Sandler — until its bankers had their say
+## Rupee drifts higher, traders gauge if rally has legs to extend
+It was last at 94.8225, ‌up ⁠0.1% from its closing level on Friday, hovering around ⁠its strongest in over a month
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Indian Hotels Company (₹772)
-Sensex, Nifty, Share Prices Live: The stock of Indian Hotels Company has been in a consolidation phase for about four months. It has been oscillating between ₹700 and ₹755.
+## Bitcoin rebounds above $82,000 as oil’s retreat lifts risk mood
+The original cryptocurrency climbed as much as 2.4% and was hovering around $82,600 in early London trading
 
-## Putin proposes summit with Trump, Xi to end Ukraine war, WSJ reports
-A reported October 9 phone call between Putin and Trump also produced an agreement involving Russian diesel sales on the global market
+## Q2 Results Today Live: Union Bank & HFCL Q2 PAT up, Bajaj Finance, UltraTech, Hindustan Zinc, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat, PNB jumps
+Q2 Results Today, 19th October 2026 Live Updates: Stay tuned to businessline for more
 
-## France riots: Macron blames radical far-left groups as arrests mount across cities
-Authorities reported widespread destruction across major cities as protesters clashed with police, businesses were looted and political tensions intensified ahead of elections.
+## PhonePe sees opportunity to bring everyday savers into equities with PhonePe Invest: Rahul Chari
+PhonePe on Monday rebranded its investing and trading platform Share.Market as PhonePe Invest, bringing it into its broader financial ecosystem
 
-## Netanyahu warns future US president could turn hostile, seeks stronger ties with India
-Presenting his security doctrine ahead of the election, Netanyahu urged Israel to strengthen diplomatic partnerships while preparing for possible changes in Washington.
+## FM blames excess liquidity for equity market underperformance
+“Because of the ‌ease of ​liquidity, ease of ⁠availability, people are even ‌exiting easily” from equities, the Finance Minister says
 
-## Trump backs Netanyahu, says US and allies will ‘soon finish the job’ on Iran
-In a Truth Social post, the US President praised the Israeli leader’s resilience and tied his support to the country’s approach to Tehran
+## HCL Technologies, Tech Mahindra overtake TCS in net adds
+On one hand companies say AI will do entry level work and they will hire experienced forward deployed engineers but still focus on entry-level hirings to manage spends
 
-## Russia sanctions waiver is a 60-day pause; Europe refused to target India, China over oil: US
-The decision has triggered political opposition in Washington, with lawmakers questioning its implications for Ukraine and the enforcement of sanctions against Moscow.
+## Natural gas futures: Buy the dips
+The contract is likely to rebound from the nearest support
 
-## Long live dogs
-Californian biotechnology company develops pill to extend canine lifespan
+## Bank holidays this week: List of bank closures for Dussehra, Durga Puja & more
+As the festive season in India draws near, numerous bank holidays will mark the month of October. It’s essential for customers to verify the holiday schedules specific to their regions, particularly regarding closures for Dussehra, Durga Puja, and other festivities. Fortunately, services like ATMs a
 
-## When an AI model knows it is being watched
+## Rupee rises to 94.80 against US dollar, but crude oil threatens recovery
+Rupee opened the week strong, gaining 9 paise to reach 94.80 against the US dollar. This improvement marked the currency's third consecutive session of recovery, following a previous close of 94.89. However, high crude oil prices continue to pose significant risks to the rupee's gains, as oil is tra
 
+## Sugar stocks tumble today: Bajaj Hindusthan, Renuka Sugars plunge up to 5%; here's why
+The Indian government has announced a halt on sugar-based ethanol supplies for the upcoming 2026-27 season, impacting sugar stocks significantly. Shares of Bajaj Hindusthan Sugar plummeted over five percent during early trades. The newly introduced procurement regulations ban the usage of sugarcane 
+
+## Paid Rs 2.06 crore, got no flat; Bombay HC rejects builder’s delay argument, orders interest
+Two homebuyers filed a case against the builder. The dispute concerned an apartment for which they had signed the sale agreement in 2014, with possession due by June 30, 2017. The flat's consideration was Rs 1.95 crore. By the time of the complaint, the buyers had paid Rs 2.06 crore, including the c
+
+## Stock market today: Sensex tumbles over 700 points, Nifty50 slips below 23,000 mark
+
+
+## Which are the top stocks to buy in the October 19, 2026 week? Check List
+Stock market recommendations: Radico Khaitan, and Bharti Airtel - Motilal Oswal Wealth Management Research Desk has recommended these as the top stocks to buy for the week starting October 19, 2026.
+
+## Oil prices ease as Trump waives Russia sanctions, Middle East risks persist
+Oil prices have seen a downturn due to US President Donald Trump's decision to lift sanctions on Russia, causing worries about supply stability. Brent crude is now at $108.3 per barrel, while West Texas Intermediate has decreased to $101.2 per barrel. Heightened security risks in the Middle East and
 
 ## Batteries to autos: Chinese imports remain in top gear
 
 
-## US says Europe refused to join push for tariffs on India, China over Russian oil
-Scott Bessent has criticized European nations for refusing to impose tariffs on India and China, which purchase Russian oil. He highlighted that the US has approached its allies to coordinate actions against energy purchases from Russia. Bessent emphasized the need for the US to reassess its strateg
+## JNU hunger strike: CPI(M) lawmaker John Brittas writes to President Murmu
+He asked the President to take steps to revoke the rustication orders and resolve the outstanding grievances
 
-## India’s crude import bill surges 46% in Sept as oil prices soar
+## 2 Indo-Canadians elected as mayors, another re-elected in Canada’s British Columbia
+Incumbent mayors were defeated as the polls were held for 161 municipalities and 27 regional districts on Saturday
 
+## Chargesheet filed against 7 for mob lynching Manipuri musician in Delhi over noise complaint
+Chongtham Vikram Singh was allegedly beaten to death by a group of men, including a juvenile, on September 6 after he objected to noise outside his house.
 
-## FMCG firms feel the pinch: Will your favourite products cost more this Diwali?
-FMCG companies face a challenging landscape as they contend with surging costs for essential raw materials like palm oil and sugar. The pressure on operating margins is significant and unlikely to alleviate soon. To maintain goodwill during the festive season, firms are absorbing some of these cost 
+## New govt will have its own policies: Keralam Assembly Speaker on KIIFB issue
+New govt will have its own policies: Keralam Assembly Speaker on KIIFB issue
 
-## Sugar-free ethanol? Oil companies change recipe, here's what's next
-The government's recent decision to exclude sugar-based raw materials from its ethanol procurement process marks a strategic shift aimed at boosting domestic sugar availability. By allowing oil marketing companies to source ethanol from grains and C-heavy molasses, the government addresses rising su
+## Kerala govt scraps bakery’s new ‘horti-wine’ licence, transfers excise officer
+The ‘horti-wine’ was designed primarily to boost earnings of farmers growing fruits, particularly pineapple, mango, banana and jackfruit.
 
-## Stock market outlook: Geopolitical cues, earnings, FIIs to keep Dalal Street busy
-This week, Indian stock markets will likely be influenced by the quarterly earnings reports from key banks including HDFC Bank, ICICI Bank, and Axis Bank, showcasing different profit trends that are capturing investor interest. Traders will also keep a close eye on crude oil price shifts, geopolitic
+## Tiger Shroff attack suspects, who were on the run, caught by cops in Kota
+Tiger Shroff escaped serious injury, while his driver and an autorickshaw driver sustained gunshot injuries.
 
-## FPIs hit the sell button again: Rs 3.12 lakh crore exits Indian equities in 2026
-In October, foreign investors pulled out Rs 52,100 crore from Indian equity markets, contributing to overall outflows this year. Escalating crude oil prices and elevated US bond yields have swayed this selling behavior. Although there was a momentary resurgence in buying, the cautious investor senti
+## ‘Will track down masterminds, no gang will be spared,' say Maharashtra CM Fadnavis, his deputy Shinde after attack on Tiger Shroff
+Three motorcycle-borne men had opened fire at Tiger Shroff in Juhu area of Mumbai on Sunday evening.
 
-## Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains
-This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by Rs 1,08,542.63 crore. Both Bharti Airtel and Infosys also registered significant 
+## Bihar’s deadly river crossings: When the journey home becomes a gamble
+Along the Ganga, Gandak, Kosi, Ghaghra, and others, settlements in the Diara areas remain dependent on boats for access to farms, schools, markets, etc.
 
-## 5 rounds of fire, Lawrence Bishnoi gang's claim, Shinde assures action: What we know so far on Tiger Shroff attack incident
-Police have formed 15 teams to trace the attackers, while one person was detained from Santacruz in connection with the shooting.
-
-## BJP wary as Jagan Mohan Reddy hints at shift towards INDIA bloc
-Senior BJP party leaders who spoke on condition of anonymity said the YSRCP joining the INDIA bloc will pave the way for a political shift not just in the state, but also in the neighbouring Telangana.
-
-## Actor safe, multiple probe teams formed, forensic team on ground: Mumbai Police on Tiger Shroff assassination bid
-Police informed that the incident took place at around 7 PM, when some unidentified persons arrived at the location and opened fire at actor Tiger Shroff.
-
-## Video captures Tiger Shroff taking over the wheel after assassination bid in Mumbai's Juhu
-In the purported video, filmed by a bystander, Tiger is seen hurriedly getting into the driver's seat and shutting the door before the car begins to move.
-
-## Kolkata stampede: Accused sent to 10-day custody, officials suspended as blame game erupts after Chorbagan tragedy
-Bengal CM Suvendu Adhikari has said the government would set up an SIT headed by a sitting judge of the Calcutta high court to probe into the incident.
-
-## CRPF chief lauds woman personnel for showing ‘resilience’ after being slapped during CJP protest
-The Delhi Police have filed an FIR against an unidentified protester for ‘slapping’ the official near Connaught Place on Friday during CJP's Tiranga march.
-
-## Maharashtra CM speaks to Tiger Shroff after assassination bid, dy CM Shinde says 'no gang will be spared'
-Deputy CM Eknath Shinde said the police had formed several teams to identify and arrest those responsible.
-
-## Army officer's wife under scanner in J-K for ‘sharing sensitive info’ with foreign intelligence operatives
-The investigators are reportedly looking into the circumstances that led to the registration of the FIR and the allegations of links with foreign entities.
+## Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax
+Although the Chinese government imposed a 20 per cent tax on rental income and capital gains derived from overseas properties transferred into offshore trusts by mainland residents, agents said these investors remained a key driver of the Hong Kong property market. China’s Ministry of Finance and th
 
 ## China’s investors flock to dividend stocks as returns double those of state bonds
 Chinese investors have been flocking to dividend stocks, taking shelter from market turmoil spurred by sell-offs in technology companies and K-shaped economic growth in the Asian nation. Two key gauges of the mainland-listed companies with the highest dividend yield ratios outpaced the benchmark hea
@@ -138,8 +135,8 @@ France and Germany have unveiled a joint position on Europe’s automotive packa
 ## For investors, there are now just 2 kinds of offices: the best and the rest
 From Hong Kong to New York, a deep divide is opening up in office markets around the world, as tenants compete for space in prime buildings while other properties face falling rents, low occupancy and financing pressures. The divergence reflects a global flight to quality, but also a disconnect betw
 
-## New property purchase disclosure rule in Japan sparks fears it may curb foreign investment
-Tokyo’s implementation of a rule that requires all property buyers to declare their nationality is raising concerns among investors, according to analysts. Japan’s shift from an ultra-loose monetary policy to gradual normalisation of its interest rates was also likely to force investors to reconside
+## How Congress Fixed Social Security During Its Last Crisis
+In 1983, the realization the program could implode propelled last-ditch compromises.
 
 ## Israeli Settlers Launch a Coordinated Attack in the West Bank
 Netanyahu vowed to investigate the incident but stopped short of condemning settler violence.
@@ -161,9 +158,6 @@ Min Jin Lee’s third novel struggles under the weight of its sociological quest
 
 ## Sending Syrian Soldiers to Yemen Would Be a Mistake
 Washington and Riyadh risk sacrificing Syrian stability by pressuring Damascus to join their war.
-
-## Europe Can Flag Ships to Keep the Black Sea Open
-The price of deterring Russia is accepting a share of the risk.
 
 ## Exercise Tarang Shakti: A Mirror to India’s Multipronged Engagements
 The exercise reflects two trends: the Indian military’s deepening interoperability with key partner nations, and India’s multi-vector foreign policy.
@@ -237,29 +231,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kinship and surveillance: The return of Somali piracy
-Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.
+## Mbappe scores two, Guler one, as Real Madrid find form before El Clasico
+Real Madrid beat Sevilla 4-1 a day after Barcelona thrashed Real Betis 5-2 as the Spanish giants prepare for El Clasico.
 
-## Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares
-Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.
+## The kingmakers who could determine Israel’s election
+Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.
 
-## Flight from Israel makes emergency landing in Bulgaria after bomb threat
-Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.
+## China’s economy grows 4.5 percent in Q3, beating forecasts
+GDP growth picks up from Q2 amid AI-driven boom in exports.
 
-## Protesters disrupt Ben-Gvir event forcing him off stage
-Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.
+## US President Donald Trump endorses Netanyahu for Israeli election
+US President Donald Trump endorses Netanyahu for Israeli election
 
-## Venezuela opposition renews support for Maria Corina Machado as leader
-The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.
+## Pope greeted by crowds in first major appearance since lung cancer surgery
+Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter's Square at the Vatican.
 
-## Alberta independence referendum: Will separatists survive a loss?
-Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.
+## Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
+Brazil's president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.
 
-## Macron condemns violence after riots lead to looting and mass arrests
-French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.
+## ‘It broke my heart’: Limoges residents reel after town hall fire
+Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.
 
-## Fire engulfs Albania’s Supreme Court as protests enter fifth day
-Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
+## AI giant Anthropic commits 5% of shares to ‘public benefit’ fund
+Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.
+
+## Big Four battle for India’s $2-billion and growing GCC work
+Big Four professional services firms in India have emerged as major players in the Global Capability Centre sector. These firms are generating substantial revenue as multinational companies shift focus to higher-value work. Competition in the sector is intensifying due to the involvement of various 
+
+## UAE VAT changes to increase costs and compliance burden for Indian businesses
+While the rules apply to all businesses operating in the UAE, Indian companies account for about 20-25% of total businesses, with over 265,000 operating as of June 2025, making the changes particularly relevant for them. "Indian-owned businesses in construction, hospitality, manufacturing, logistics
+
+## Tata Sons reviews AoA to meet Sebi listing norms
+Tata Sons is reviewing its Articles of Association to comply with Sebi listing regulations, which may impact the influence of Tata Trusts on board appointments. This scrutiny follows the RBI's rejection of Tata Sons' application to relinquish its core investment company registration, necessitating c
+
+## FSSAI issues notices to Nestle India, Hindustan Unilever over misleading claims and non-compliances
+The Food Safety and Standards Authority of India (FSSAI) on Saturday said it has issued notices to leading FMCG firms, including Nestle India and Hindustan Unilever Ltd (HUL) over alleged misleading claims and regulatory non-compliances concerning certain nutrition products.
+
+## Exporters may be asked to monitor supply chains' indirect emissions
+The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
 
 ## India’s two economies
 The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
@@ -269,21 +278,6 @@ New Principal Purpose Test puts commercial rationale, substance and purpose of M
 
 ## IDBI Bank: From Kingfisher's wreckage to Fairfax's big bet
 Finally, the much-awaited deal involving IDBI Bank has gone through. For Rs 52,878 crore, Canadian giant Fairfax will take control of the marquee headquarters of IDBI Bank, standing tall near the crashing waves at Cuffe Parade. This is great news for IDBI, the government, Fairfax and the entire bank
-
-## WPI inflation surges to 11.39% in September as fuel, manufactured goods prices climb
-Wholesale price inflation accelerated from 9.92% in August, with fuel and power inflation rising to 25.85% and manufactured products inflation to 9.76%.
-
-## NFRA flags SA 260 compliance gaps, warns against tick-box auditor communication with audit committees
-Audit regulator flags shortcomings in implementing the auditing standard, as experts call for timely escalation of significant audit issues, direct auditor access to audit committees and stronger scrutiny of management responses.
-
-## GST refund reforms: Experts differ on potential liquidity gains for India Inc
-Tax experts differ on the potential gains from proposed GST refund reforms, with estimates ranging from Rs 25,000 crore to Rs 60,000 crore as faster refunds and wider input tax credit eligibility aim to ease working capital pressures on businesses.
-
-## World Bank in talks with 30-40 countries over aid to tackle Middle East energy shock
-The World Bank is in talks with numerous countries to address energy price increases stemming from the Middle East crisis. While the global economy remains resilient, developing nations face growing challenges from rising diesel and fertilizer prices. The Bank anticipates more countries may access c
-
-## China's trade restrictions for services exporters under review
-India is proactively gathering insights on the trade hurdles faced by its services exporters in China, engaging with industry representatives to address concerns. The investigation encompasses aspects like licensing, data regulations, and the challenges faced by Indian professionals in movement. Des
 
 ## RBI clarifies interbank trades, ECBs coupons not part of FERR
 Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
@@ -305,7 +299,4 @@ Sebi has announced a new Portfolio Management Services framework effective from 
 
 ## RBI's new forex rules will raise importers hedging costs and ease pressure on rupee: Report
 The Reserve Bank of India's (RBI) new foreign exchange rules are expected to raise hedging costs for importers and reduce excessive demand for dollars, easing pressure on the rupee, according to a report by ICICI Bank.
-
-## Banks seek clarification on implementation of RBI forex measures
-Indian lenders have requested clarification from the Reserve Bank of India regarding new currency-supporting measures. They seek guidance on calculating the foreign exchange risk reserve and its impact on liquidity ratios. Additionally, banks are uncertain about cost transmission to customers and ho
 
