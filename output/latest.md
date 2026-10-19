@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## US stocks set for rebound after AI sell-off
-Nasdaq 100 futures rise 1.3% following biggest weekly drop since Trump’s ‘liberation day’ in April last year
+## Violent protests spread from France to Italy and Belgium
+Looting and clashes with police take place in Milan, Brussels, Liège and Tirana
 
-## ‘Frenzy’ in Australian deals as investors swoop on cheap assets
-EQT strikes $6.5bn deal for waste management group and Dai-ichi Life targets wealth manager
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
 
-## China’s economy picks up pace at 4.5% growth
-Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say
+## FTSE 100 newcomer Ithaca warns of halt to investment if Rosebank blocked
+North Sea oil producer links approval of near-$4bn field delayed by environmental concerns to future projects in Britain
 
-## US envoy hopes for ‘prosperous’ Europe
-Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip
+## US stocks rebound after AI sell-off
+Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout
 
-## Has America’s wave of anti-globalisation populism peaked?
-When voters turn, leaders follow
+## Uber defeats High Court lawsuit brought by London’s black-cab drivers
+Judge rules claim against ride-hailing app was brought too late
 
-## FirstFT: Bank of England scrutinises Barclays
-Also in today’s newsletter: French riots and Europe’s Starlink curbs
+## US defence stocks tumble as investors bet on Democratic election sweep
+Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays
 
-## Japan leads mission to make first return trip to Mars
-Voyage due to launch early Tuesday morning Japan time will be watched for further potential signs of life on red planet
+## Indonesia’s market is dysfunctional, not uninvestable
+Banks are decent investments based on their growth and profitability
 
-## The sushi restaurant Tokyoites travel three hours to for lunch
-Isao Ogawa is both an expert chef and a third-generation fishmonger with the bounty of Toyama Bay at his feet. No wonder other top chefs eat at his counter and seek his advice
-
-## FTSE as Hedge
-Plus, midterms and AI
-
-## Private equity group Charlesbank closes one of the biggest law firm deals
-Stake in Wood Smith Henning & Berman could herald wave of investments in US liability defence firms
+## Anthropic commits 5% of shares to ‘public benefit’ fund
+AI start-up has faced growing public backlash over safety and economic concerns
 
 ## BoE scrutinises Barclays over claim traders misrepresented private credit exposure
 Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans
 
-## Luxury ‘dupe’ retailer Quince enters UK market
-Company’s business model relies on copying products from popular brands then selling them at low prices
+## Is smart farming really smart business?
+From eerie driverless tractors to precision spraying and sowing, AI is transforming America’s agricultural life
 
-## Five things business wants from the Budget
-Rates help for small companies and banks as well as cheaper energy are on the wishlist for UK businesses
+## KKR accused by EU of misleading regulators over €22bn telecoms deal
+Private equity group disputes it gave false or misleading information to Brussels as it sought clearance for FiberCop deal
 
-## Sensex today | Stock Market Live Updates: Crude fears clip wings; Sensex falls over 585 points, Nifty dips by 0.71%
-Sensex, Nifty, Share Prices Live: Sensex traded 585.48 points or 0.78% lower at 74,143.79 by 12 noon. Nifty 50 declined 164.10 points or 0.71% to 22,982.05.
+## The self-destructive wishful thinking about European autos and trade
+France and Germany have synthesised their bad ideas about cars into a terrible plan
 
-## Rupee drifts higher, traders gauge if rally has legs to extend
-It was last at 94.8225, ‌up ⁠0.1% from its closing level on Friday, hovering around ⁠its strongest in over a month
+## BLS Polymers ₹255-cr IPO to open on October 27; price band fixed at ₹142-150
+The IPO, comprising a fresh issue of 1.7 crore equity shares, will close on October 29
 
-## Bitcoin rebounds above $82,000 as oil’s retreat lifts risk mood
-The original cryptocurrency climbed as much as 2.4% and was hovering around $82,600 in early London trading
+## Fire breaks out at Parle-G unit in MP's Jabalpur, no one hurt; situation in control, say officials
+More than 20 fire tenders and water bowsers were deployed for firefighting operation
 
-## Q2 Results Today Live: Union Bank & HFCL Q2 PAT up, Bajaj Finance, UltraTech, Hindustan Zinc, LTTS, Piramal Finance, IREDA to announce Q2 results, HDFC Bank, Axis Bank shares decline after Q2, ICICI Bank, Yes Bank flat, PNB jumps
+## Maersk to undertake first drydocking in India
+The vessel is expected to arrive at L&T's Kattupalli Shipyard near Chennai on October 20, 2026
+
+## Natco Pharma launches generic cancer drug Carboplatin in US
+The launch helps address a critical shortage of the product in the US market, says the company
+
+## NSE, BSE to conduct Diwali Muhurat trading on Nov 8
+The special trading session will run from 2:20 pm to 3:30 pm
+
+## Q2 Results Today Live: UltraTech Q2 profit declines q-o-q, Hindustan Zinc, Union Bank & HFCL Q2 PAT up; Bajaj Finance, LTTS, IREDA announce Q2 results
 Q2 Results Today, 19th October 2026 Live Updates: Stay tuned to businessline for more
 
-## PhonePe sees opportunity to bring everyday savers into equities with PhonePe Invest: Rahul Chari
-PhonePe on Monday rebranded its investing and trading platform Share.Market as PhonePe Invest, bringing it into its broader financial ecosystem
+## Sobha Ltd Q2 profit drops 55% to ₹33 crore
+During the first six months of FY27, Sobha Ltd's net profit fell to ₹83.80 crore from ₹86.14 crore in the year-ago period
 
-## FM blames excess liquidity for equity market underperformance
-“Because of the ‌ease of ​liquidity, ease of ⁠availability, people are even ‌exiting easily” from equities, the Finance Minister says
+## Even Healthcare raises $50 mn in Series B round led by Khosla Ventures
+The fresh capital will be deployed to establish five new hospitals across Bengaluru over the next six months, starting with Indiranagar
 
-## HCL Technologies, Tech Mahindra overtake TCS in net adds
-On one hand companies say AI will do entry level work and they will hire experienced forward deployed engineers but still focus on entry-level hirings to manage spends
+## India-New Zealand FTA effective from Oct 20; targets double trade to $7bn by 2030
+The Free Trade Agreement between India and New Zealand will come into effect on October 20. This agreement allows India to export goods to New Zealand without tariffs, boosting several sectors. India aims to double bilateral trade with New Zealand to NZD 7 billion by 2030. New Zealand exported nearl
 
-## Natural gas futures: Buy the dips
-The contract is likely to rebound from the nearest support
+## Sold house, bought Rs 1.10 crore flat with wife; taxman rejects exemption for half the amount
+A man sold his residential property and invested the proceeds in another flat in Mumbai. The replacement property was jointly registered in his and his wife's names, with the total investment of around Rs 1.10 crore. He claimed exemption on the capital gains under Section 54 of the Income Tax Act.
+
+## Global freight costs surge 130% as Middle East tensions rattle shipping routes
+Since February 2026, global container freight rates have surged, largely influenced by ongoing Middle Eastern unrest. In contrast, India's container trade remains robust, showing a remarkable 23% increase in September 2026. Exports to the US experienced a staggering 48% year-over-year rise. While ma
+
+## Renting in UP? Proposed Rs 1,000 stamp duty: What tenants, landlords must know
+One drawback of verbal or unregistered rental arrangements is the difficulty of establishing proof. Such agreements generally cannot be relied upon as evidence unless a court permits their use. Circle rates are another factor behind the widespread practice of keeping residential tenancy agreements u
+
+## 'Geography is real': Rubio says India-US trade deal close, explains stance on Russian oil
+US Secretary of State Marco Rubio stated that negotiations on a trade deal with India are close to finalization. He emphasized the importance of India's energy needs before implementing sanctions on Russian oil imports. Rubio highlighted that energy diversification is challenging for countries like 
+
+## Gold price prediction: Where are gold prices headed for the October 19, 2026 week?
+Gold enters the week near Rs 148,000 after a sharp correction from the September high around Rs 163,000–165,000, with prices now consolidating after briefly falling towards the Rs 145,500–146,000 region.
 
 ## Bank holidays this week: List of bank closures for Dussehra, Durga Puja & more
 As the festive season in India draws near, numerous bank holidays will mark the month of October. It’s essential for customers to verify the holiday schedules specific to their regions, particularly regarding closures for Dussehra, Durga Puja, and other festivities. Fortunately, services like ATMs a
@@ -69,47 +84,35 @@ As the festive season in India draws near, numerous bank holidays will mark the 
 ## Rupee rises to 94.80 against US dollar, but crude oil threatens recovery
 Rupee opened the week strong, gaining 9 paise to reach 94.80 against the US dollar. This improvement marked the currency's third consecutive session of recovery, following a previous close of 94.89. However, high crude oil prices continue to pose significant risks to the rupee's gains, as oil is tra
 
-## Sugar stocks tumble today: Bajaj Hindusthan, Renuka Sugars plunge up to 5%; here's why
-The Indian government has announced a halt on sugar-based ethanol supplies for the upcoming 2026-27 season, impacting sugar stocks significantly. Shares of Bajaj Hindusthan Sugar plummeted over five percent during early trades. The newly introduced procurement regulations ban the usage of sugarcane 
+## CJP leaders Saurav Das, Ashutosh Ranka’s judicial custody extended by two days; Delhi Police cite ‘peace, tranquillity’ concerns
+Delhi Police had sought further custody of the duo, claiming their release could disrupt “peace and tranquility.”
 
-## Paid Rs 2.06 crore, got no flat; Bombay HC rejects builder’s delay argument, orders interest
-Two homebuyers filed a case against the builder. The dispute concerned an apartment for which they had signed the sale agreement in 2014, with possession due by June 30, 2017. The flat's consideration was Rs 1.95 crore. By the time of the complaint, the buyers had paid Rs 2.06 crore, including the c
+## Shooters planned to kill Tiger Shroff in Mumbai, motive unclear, say police
+DCP added that the motive behind the attack had not yet been ascertained and would become clear after the interrogation of the suspected assailants.
 
-## Stock market today: Sensex tumbles over 700 points, Nifty50 slips below 23,000 mark
+## Beyond fighter jets: What India needs to prepare for the wars of tomorrow
+In a conversation with HT Senior Anchor Aayesha Varma on Point Blank, Executive Editor Shishir Gupta argued that India must look beyond fleet numbers.
 
+## HT Evening News Brief October 19: Tiger Shroff attackers' planned escape via Nepal; Mizoram’s Chinmay Sutar scripts Ranji history
+Grab your tea as we bring you up to speed on today's top stories from India, the world, entertainment, and sports.
 
-## Which are the top stocks to buy in the October 19, 2026 week? Check List
-Stock market recommendations: Radico Khaitan, and Bharti Airtel - Motilal Oswal Wealth Management Research Desk has recommended these as the top stocks to buy for the week starting October 19, 2026.
+## Keeping up with UP: Can Rahul Gandhi’s street activism revive the Congress in UP?
+Can the Congress or its cadre in Uttar Pradesh amplify Rahul Gandhi's combative mood or remain bogged down with internecine troubles?
 
-## Oil prices ease as Trump waives Russia sanctions, Middle East risks persist
-Oil prices have seen a downturn due to US President Donald Trump's decision to lift sanctions on Russia, causing worries about supply stability. Brent crude is now at $108.3 per barrel, while West Texas Intermediate has decreased to $101.2 per barrel. Heightened security risks in the Middle East and
+## CISF personnel nabs man attempting to flee Delhi's Jama Masjid Metro station after suspicious object spotted during checking
+The passenger, who claimed to be an NRI residing in Kuala Lumpur, was apprehended near the exit gate, the CISF said in a post on X.
 
-## Batteries to autos: Chinese imports remain in top gear
+## AISA president Neha Bora moves Delhi HC, challenges police notice to execute bond
+In her petition, Neha Bora said the SEM’s notice was prima facie ambiguous, factually incorrect and violates Articles 19 and 21 of the Constitution.
 
+## ‘We thought worst was behind us’: Shroff attack sends shockwaves through Bollywood
+The underworld’s stranglehold on Bollywood through the 1990s is still a raw memory Mumbai film industry
 
-## JNU hunger strike: CPI(M) lawmaker John Brittas writes to President Murmu
-He asked the President to take steps to revoke the rustication orders and resolve the outstanding grievances
+## China plans 18 active ETFs as regulator seeks to shore up stock market
+The China Securities Regulatory Commission (CSRC) has approved 18 actively managed exchange-traded funds (ETFs), which could channel tens of billions of yuan into the A-share market, as it seeks to strengthen investor confidence and market resilience. Speaking on Monday in Beijing at the opening cer
 
-## 2 Indo-Canadians elected as mayors, another re-elected in Canada’s British Columbia
-Incumbent mayors were defeated as the polls were held for 161 municipalities and 27 regional districts on Saturday
-
-## Chargesheet filed against 7 for mob lynching Manipuri musician in Delhi over noise complaint
-Chongtham Vikram Singh was allegedly beaten to death by a group of men, including a juvenile, on September 6 after he objected to noise outside his house.
-
-## New govt will have its own policies: Keralam Assembly Speaker on KIIFB issue
-New govt will have its own policies: Keralam Assembly Speaker on KIIFB issue
-
-## Kerala govt scraps bakery’s new ‘horti-wine’ licence, transfers excise officer
-The ‘horti-wine’ was designed primarily to boost earnings of farmers growing fruits, particularly pineapple, mango, banana and jackfruit.
-
-## Tiger Shroff attack suspects, who were on the run, caught by cops in Kota
-Tiger Shroff escaped serious injury, while his driver and an autorickshaw driver sustained gunshot injuries.
-
-## ‘Will track down masterminds, no gang will be spared,' say Maharashtra CM Fadnavis, his deputy Shinde after attack on Tiger Shroff
-Three motorcycle-borne men had opened fire at Tiger Shroff in Juhu area of Mumbai on Sunday evening.
-
-## Bihar’s deadly river crossings: When the journey home becomes a gamble
-Along the Ganga, Gandak, Kosi, Ghaghra, and others, settlements in the Diara areas remain dependent on boats for access to farms, schools, markets, etc.
+## From English courses to furniture, actor Daniel Wu expands his business interests in China
+US-born Hong Kong actor and filmmaker Daniel Wu Yin-cho has launched a furniture brand as the latest endeavour to cash in on his long-built fame in the Chinese market. Wu, 52, has stepped back from acting in recent years and Arox, the name of his furniture brand, marks his latest business foray. The
 
 ## Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax
 Although the Chinese government imposed a 20 per cent tax on rental income and capital gains derived from overseas properties transferred into offshore trusts by mainland residents, agents said these investors remained a key driver of the Hong Kong property market. China’s Ministry of Finance and th
@@ -129,11 +132,14 @@ Hong Kong homebuyers are poised to see new residential launches in the coming da
 ## Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening
 When shoppers step into Rokid’s brand new flagship store in Hong Kong, they are greeted not by eager sales associates, but by glowing monitor screens and a robotic system waiting at the exit. In what the Chinese augmented reality (AR) gadget pioneer called an experiment in “no man’s land” retail, cu
 
-## Germany, France to tighten ‘Made in Europe’ stance, pressuring China’s auto industry
-France and Germany have unveiled a joint position on Europe’s automotive package, with a tighter geographic definition of “Made in Europe” and a research and development requirement for cars to qualify for subsidies or public procurement, which industry insiders say would put further pressure on Chi
+## Trump Can Push Past Israeli-Palestinian Paralysis
+Practical steps, U.S. pressure, and greater Arab involvement are needed to overcome trauma and despair.
 
-## For investors, there are now just 2 kinds of offices: the best and the rest
-From Hong Kong to New York, a deep divide is opening up in office markets around the world, as tenants compete for space in prime buildings while other properties face falling rents, low occupancy and financing pressures. The divergence reflects a global flight to quality, but also a disconnect betw
+## China Is a Peer Competitor in a Dangerous Space Race
+Washington needs to take the realities of Chinese advances seriously.
+
+## The Iran War Has Changed the World Forever
+Some dramatic long-term consequences are just beginning to come into view.
 
 ## How Congress Fixed Social Security During Its Last Crisis
 In 1983, the realization the program could implode propelled last-ditch compromises.
@@ -150,14 +156,14 @@ Test yourself on the week of Oct. 10: The Houthis strike Saudi Arabia, Brazil sh
 ## How This Year’s Economics Nobel Winners Shaped the World
 The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers.
 
-## Nostalgia and Tonic
-Gin branding offers an unexpected window into the invention of tradition.
+## After War of Words, China Says Relations With Philippines at ‘Critical Juncture’
+Growing political polarization has the potential to undermine Manila’s ability to handle its ongoing maritime disputes with Beijing.
 
-## The Empty Classrooms of ‘American Hagwon’
-Min Jin Lee’s third novel struggles under the weight of its sociological questions.
+## Deepavali vs Diwali Sparks New Political Row in Malaysia
+Is the Malaysian Indian Congress using Hindu identity politics to regain its political relevance ahead of the next general election?
 
-## Sending Syrian Soldiers to Yemen Would Be a Mistake
-Washington and Riyadh risk sacrificing Syrian stability by pressuring Damascus to join their war.
+## Indonesian Stock Exchange Plunges After Fresh MSCI Downgrade Threat
+Citing the lack of action on promised reforms, the global index provider has proposed demoting the country from "emerging market" to "standalone market" status.
 
 ## Exercise Tarang Shakti: A Mirror to India’s Multipronged Engagements
 The exercise reflects two trends: the Indian military’s deepening interoperability with key partner nations, and India’s multi-vector foreign policy.
@@ -174,14 +180,11 @@ The move comes amid growing scrutiny of Jakarta's response to the forest and pea
 ## After 8 Months in Power, How Much Has the BNP Changed Bangladesh?
 It remains to be seen how willing the new government is to change the institutions that it now controls.
 
-## Clean Energy Must Avoid the Mistake of Overdependence
-The world must diversify its energy dependence, not simply relocate it from the Middle East to China.
+## The Pentagon Doesn’t Need to Reinvent Supply Chain Transparency
+As the United States seeks to rebuild its defense industrial base, Washington is scrambling to understand an industrial ecosystem that it no longer controls, nor largely understands. China has been able to achieve strategic advantage against the United States through the targeted application of expo
 
-## Nepal Should Not Shoulder the Himalayan Climate Crisis Alone
-“No matter how much we reform our internal engineering, a frontline nation simply cannot manage the shocks of a global systemic failure alone.”
-
-## China’s Rare Earth Strategy and the Future of the South China Sea
-The rise of seabed mining will add new complexity to the South China Sea disputes.
+## March Separately, Strike Combined: Rethinking Mass and Maneuver on the Transparent Battlefield
+Between May 10 and 13, 1940, German Panzer Group Kleist advanced through the densely wooded Ardennes Forest, which the French considered impenetrable to large, mechanized formations. Numbering five armored and three motorized infantry divisions, totaling around 41,000 vehicles, the entire panzer gro
 
 ## China’s Strategic Reassessment of India
 As China and India have improved their relations in recent months, many observers have attributed this improvement to the end of U.S. strategic altruism toward India. Indeed, in the past year, China has watched India lose its balance and simmer in a sense of strategic disorientation due to America’s
@@ -200,12 +203,6 @@ The Chinese Ministry of Defense’s announcement of a “joint support and train
 
 ## The Paradox of Victory: When Winning in Ukraine Raises the Nuclear Stakes
 In 2022, Jeremy Shapiro warned in “We Are on a Path to Nuclear War” that the war between Russia and Ukraine was heading toward nuclear escalation. Four years into the war, we asked him to revisit that argument.Image: Vyacheslav Argenberg via Wikimedia CommonsIn your original piece, you named nuclear
-
-## The Mecca Pact and Pakistan’s Bid to Become Indispensable
-For most of its history, Pakistan’s geopolitical value has risen and fallen with other countries’ emergencies. The Mecca Pact may be its most serious attempt yet to break that cycle. On Aug. 31, Pakistan, Saudi Arabia, and Turkey established a secretariat in Saudi Arabia for the Mecca Defence Agreem
-
-## The United Kingdom’s Military AI Ambitions Need Guardrails
-Advancing military AI capability is a priority for the United Kingdom, and in recent weeks, the new government has doubled down on its ambitions for AI and defense via two major partnerships.On Aug. 24, 2026, on his first overseas trip as the new prime minister of the United Kingdom, Andy Burnham si
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mbappe scores two, Guler one, as Real Madrid find form before El Clasico
-Real Madrid beat Sevilla 4-1 a day after Barcelona thrashed Real Betis 5-2 as the Spanish giants prepare for El Clasico.
+## PSG vs Barcelona match will not be postponed despite protests: French PM
+Barcelona have arrived in Paris for the Champions League match at the Parc des Princes on Tuesday at 19:00 GMT.
 
-## The kingmakers who could determine Israel’s election
-Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.
+## Australian Member of Parliament critically injured after being hit by a car
+Australian MP Dr. Helen Haines is in critical condition after being struck by a car outside her office in Victoria.
 
-## China’s economy grows 4.5 percent in Q3, beating forecasts
-GDP growth picks up from Q2 amid AI-driven boom in exports.
+## French protest violence: A ‘Christmas present’ for Le Pen’s far right?
+Le Pen is positioning her party as more capable than centrist or left-wing forces before the 2027 presidential election.
 
-## US President Donald Trump endorses Netanyahu for Israeli election
-US President Donald Trump endorses Netanyahu for Israeli election
+## Doctors describe hospitals shattered by Israel’s genocide in Gaza
+Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip.
 
-## Pope greeted by crowds in first major appearance since lung cancer surgery
-Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter's Square at the Vatican.
+## Dozens killed after Houthi strike on military camp in Shabwa
+Dozens of Yemenis are feared dead after a Houthi strike targeted a military camp in Yemen’s Shabwa governorate.
 
-## Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
-Brazil's president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.
+## Russia’s Lavrov discusses US war and regional security during Tehran visit
+GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz.
 
-## ‘It broke my heart’: Limoges residents reel after town hall fire
-Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.
+## ‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war
+Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels.
 
-## AI giant Anthropic commits 5% of shares to ‘public benefit’ fund
-Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.
+## At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa
+Houthis launch ballistic missiles at camp in southern governorate during training exercise, gov't forces spokesman says.
+
+## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
+The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
 
 ## Big Four battle for India’s $2-billion and growing GCC work
 Big Four professional services firms in India have emerged as major players in the Global Capability Centre sector. These firms are generating substantial revenue as multinational companies shift focus to higher-value work. Competition in the sector is intensifying due to the involvement of various 
@@ -276,8 +276,8 @@ The Indian economy is currently telling two parallel stories. If one is true, th
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
 
-## IDBI Bank: From Kingfisher's wreckage to Fairfax's big bet
-Finally, the much-awaited deal involving IDBI Bank has gone through. For Rs 52,878 crore, Canadian giant Fairfax will take control of the marquee headquarters of IDBI Bank, standing tall near the crashing waves at Cuffe Parade. This is great news for IDBI, the government, Fairfax and the entire bank
+## Banks tap RBI's first cash auction in 3 months as market rates spike
+In response to rising bank demands, the Reserve Bank of India executed a liquidity infusion to stabilize interbank borrowing rates amid substantial tax outflows. Following this operation, overnight borrowing costs surged as the RBI raised rates to tackle inflation. A notable increase in bids suggest
 
 ## RBI clarifies interbank trades, ECBs coupons not part of FERR
 Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
@@ -296,7 +296,4 @@ S Jaishankar stated that all nations must adjust their relationships with the US
 
 ## Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route
 Sebi has announced a new Portfolio Management Services framework effective from April 1, 2027. This framework permits portfolio managers to invest in IPOs, primary market debt, and various overseas securities. Portfolio managers can also offer advisory services related to unlisted securities for lar
-
-## RBI's new forex rules will raise importers hedging costs and ease pressure on rupee: Report
-The Reserve Bank of India's (RBI) new foreign exchange rules are expected to raise hedging costs for importers and reduce excessive demand for dollars, easing pressure on the rupee, according to a report by ICICI Bank.
 
