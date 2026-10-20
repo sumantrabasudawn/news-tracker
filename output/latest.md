@@ -1,49 +1,37 @@
 # AION Intelligence
 
-## UK police rearrest two men on suspicion of helping Iranian intelligence
-Pair held as officers continue to probe September incident at RAF Fairford, which was hosting US bombers conducting strikes on Iran
+## SpaceX and Tesla boards are exploring potential merger
+Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity
 
-## Who are the Black Bloc?
-French government says agitators from the far left helped transform peaceful protests into riots
+## Finnish president hails progress in talks about ending Russia’s war in Ukraine
+Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy
 
-## France extends curfews in some cities as restrictions quell unrest
-Italy also expected to approve new security measures to combat violent rioters
+## Joel Kaplan to step down as Meta global affairs chief
+Republican political operative is a key adviser to CEO Mark Zuckerberg
 
-## Trump pledges to spend $400mn on Republican Party campaigns
-US president’s announcement comes as candidates struggle with poor polls in race for control of Congress
+## Lula fast-tracks Brazil welfare payments days before run-off vote
+Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot
 
-## Merz warns over Berlin plans to seize landlords’ property
-Chancellor calls for regional government not to ‘experiment’ with market economy as investors attend summit
+## UK to approve development of Jackdaw gasfield in North Sea
+Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen
 
-## Britain’s budget should build on its economic resilience
-Burnham and Healey must look beyond industrial nostalgia to the UK’s modern strengths
+## Can the Democrats win the Senate?
+The races, the money and the issues that will determine the final half of Trump’s second term
 
-## Gilt market catches up with peers as investor worries over Budget ease
-UK bonds were initially hard hit after onset of Iran war but have since outperformed as traders’ concerns shift to France
+## Boeing wins approval for Max 10 jet in boost for turnaround efforts
+Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft
 
-## UK jobs market stabilises before Budget
-Figures suggest recent upswing in economy is starting to underpin employment
+## Netflix gives downbeat outlook as streaming hits dry up
+Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint
 
-## Britain’s grid operator underestimated demand for air con during heatwave
-Neso is under scrutiny after the system’s frequency fell below operational limits on one day in June
+## Submit a question: Could Anthropic’s IPO be a turning point for AI?
+Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
 
-## US pending home sales fall to record low as mortgage rates surge
-Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown
+## UK bets on a boring budget
+Priority number one: Don’t spook the bond market
 
-## Sullivan & Cromwell to double London office space as US firms shake up UK legal market
-American corporate law firms emerge as among most prestigious institutions in Square Mile
-
-## NatWest tells 30,000 staff to spend more time in office
-UK bank tightens attendance rules for ‘remote-first’ and ‘hybrid’ staff who mostly work from home
-
-## Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
-Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business
-
-## Flutter to cut more than 1,000 jobs after UK gambling tax raid
-Group behind Paddy Power blames move to axe about 15% of its UK and Irish workforce on higher taxes levied against industry
-
-## Why globetrotting retail banks are back in fashion
-The fear is that it’s those who stay at home, rather than those who venture abroad, who will end up lifelong losers
+## Carrefour blames French riots as it cuts profit forecast
+Retailer said stores were ransacked during recent disorder, which came days after supermarket fridges were hit by a cyber attack
 
 ## Heat storms now engulf 85% of the planet as extreme heat reshapes global weather
 A Reuters analysis reveals how expanding heat storms are connecting disasters worldwide, intensifying extreme temperatures and threatening lives, livelihoods and ecosystems.
@@ -93,11 +81,14 @@ The India-New Zealand Free Trade Agreement is now officially active, opening up 
 ## Big milestone: Apple India revenue tops Rs 1 lakh crore; profit jumps 66% to Rs 5,311 crore
 Apple India Pvt Ltd reported revenue from operations of Rs 1,03,853 crore for the year ended March 2026, which is a 31% increase from Rs 79,060 crore in FY25. The increase in profitability outpaced revenue growth. Apple's India net profit climbed 66% to Rs 5,311 crore in FY26, compared with Rs 3,196
 
+## Students gather at Delhi's Model Town park to burn 20-feet tall ‘Gyanesh Kumar effigy’, detained
+Police said the students were occupying space in a park, burning an effigy and protesting after which they were briefly detained.
+
 ## Punjab activist Jhota's kin refuse to cremate him; Amit Shah vows ‘drug-free’ state after meeting family
 Anti-drug activist Parvinder Singh was shot dead inside a medical shop on October 13. His family reused to cremate his body till a CBI inquiry was ordered.
 
-## Tiger Shroff shooting case: Mumbai Police arrest four more accused
-Tiger Shroff shooting case: Mumbai Police arrest four more accused
+## Tiger Shroff shooting case: Four more arrested for supplying weapons to assailants
+The four accused were arrested by the Special Cell of Delhi Police following which they were handed to the Mumbai Police's CID.
 
 ## Uddhav Thackeray questions Tiger Shroff attack response, challenges Fadnavis to confront Bishnoi gang's leader
 Targeting Fadnvis-led government, Thackeray said, “An attack took place on Tiger Shroff the other day. Did you rush to meet him immediately to gain publicity?”
@@ -113,9 +104,6 @@ Rubio noted that Indian companies can play a role in refining Venezuelan heavy c
 
 ## AAP claims Punjab CM Bhagwant Mann stopped at airport for 3 hrs: 'Centre's arrogance must end'
 Speaking about the incident, Bharadwaj, in a post on X, said, "Mann Saab stopped at Indian Airport for around 3 hours."
-
-## Marco Rubio briefed on 26/11 attacks by Taj security chief who was present during 2008 attacks
-Kudyadi was present at the hotel when the attacks took place in November 2008 and briefed Rubio on the events surrounding the terror strike.
 
 ## Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow
 Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electric vehicle battery maker posted a 
@@ -141,6 +129,12 @@ Global ultra-rich families worry more about wealth succession than political unc
 ## Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers
 Hong Kong is opening its arms to more sovereign debt issuers, as this week’s Apec Finance Ministerial Meeting (FMM) provides a good opportunity to demonstrate the depth and advantages of the city’s financial markets. Its signature dim sum bond market could leverage low fundraising costs relative to 
 
+## Zelensky Seeks U.S. Support, but Is Trump Interested?
+The White House appears increasingly focused on bolstering ties with Russia.
+
+## Trump Makes Midterm Pitch to Farmers
+An $8 billion aid package aims to take the edge off the strain of the Iran war and trade chaos.
+
 ## How Ukraine Is Navigating Trump’s Latest U-Turn
 Zelensky joins Oslo talks as a worrying winter looms for Kyiv.
 
@@ -158,12 +152,6 @@ Why a retiring Jeanne Shaheen thinks bipartisanship still has a future in Americ
 
 ## France Orders Curfews Amid Widespread Rioting
 More than half a million people joined anti-government protests over the weekend.
-
-## In Israel, Election Day Is Just the Beginning of the Story
-The real action starts after polls close and the coalition wrangling begins.
-
-## Why Is France Perpetually Rioting?
-Protest and radicalization are the answer to an authoritarian, centralized state.
 
 ## Weapons to Russia, Wigs to China: How North Korea Balances Its Allies
 A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.
@@ -189,6 +177,9 @@ Establishment of the Laotian base follows a pattern in China’s growing externa
 ## The Proliferation of Illicit Drones in Southeast Asia
 The past two years have seen the growing use of off-the-shelf commercial drones for criminal and militant activities.
 
+## Reading Pyongyang Through the Cracks of the International System
+In 2023, three North Korea analysts identified what they believe most people studying the country get wrong, and how analysts can avoid those traps. Three years later, we asked them to revisit their arguments and offer fresh insights into what North Korean propaganda reveals about Pyongyang’s priori
+
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
 
@@ -209,9 +200,6 @@ Since the end of World War II, the United States has maintained hundreds of mili
 
 ## Golden Dome Is Technologically and Financially Infeasible
 For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish — or even block — a ballistic missile attack. The appeal is obvious. A state that c
-
-## How Sudan Became a Laboratory for Drone Warfare, Thanks to Abu Dhabi
-In June 2026, I visited Khartoum, my hometown, for the first time since the war broke out in Sudan in April 2023. I left the city to seek safety with my family after the war spread into civilian neighborhoods. I never imagined I would return to the same city. I was very excited but also traumatized 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## CDC reports third measles death in the United States this year
-The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
+## Trump commits more than $400m ahead of high-stakes midterm elections
+The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.
 
-## Kenya confirms ninth Ebola case amid concerns about regional spread
-A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
+## PSG score late to sink Barcelona 4-2 in Champions League blockbuster
+Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.
 
-## As Macron visits Gulf, can France forge its own energy-for-security future?
-President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
+## US food importer sues Trump over 50 percent tariffs on Canadian goods
+The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.
 
-## How does language affect how we think?
-Does language shape the way we think?
+## Why do the US midterms matter for Trump and Congress?
+Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.
 
-## JERUSALEM DAILY: Half a million Palestinians lose food aid
-Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people
+## PSG and Barcelona fans divided over politics in football amid Paris riots
+As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.
 
-## Ben-Gvir mocks Gaza destruction in AI-generated video
-Israeli National Security Minister Itamar Ben-Gvir has posted an AI-generated video mocking the devastation in Gaza.
+## Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’
+Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.
 
-## Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia
-Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.
+## Why the war on Iran could backfire on US regime-change goals
+Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.
 
-## Macron lines up more Gulf diesel as France battles soaring fuel prices
-The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.
+## UK police re-arrest two men on suspicion of assisting Iran’s intelligence
+Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
