@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
+Fund pushes for $100mn in cost cuts and sees growth potential in nuclear business as AI drives power demand
+
+## Ambani looks to pull off India’s biggest IPO
+Jio Platforms aims to list at $107bn valuation amid stock market downturn, tougher competition and goading from Elon Musk
+
+## China’s villages pay the price for Beijing’s AI ambitions
+Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them
+
+## Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms
+Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy
+
+## BYD is playing the long game in Japan
+There are signs that the company is customising its offering to the Japanese market
+
 ## Healey rules out increasing capital gains tax in the Budget
 Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy
 
@@ -9,107 +24,92 @@ Also in today’s newsletter: Saudi Arabia postpones ‘Davos in the desert’ a
 ## OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim
 US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’
 
+## Anthropic and Nscale in talks for second multibillion-dollar deal
+AI start-up looks for more computing power from UK data centre group
+
 ## New York pensions chief says private equity firm sought to expense jet use
 Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers
-
-## South Africa’s president eyes trade with China and India as US ties sour
-Cyril Ramaphosa says Pretoria wants to take advantage of growing tariff-free access benefits with Beijing
 
 ## Japan launches mission to make first return trip to Mars
 Voyage took off early Tuesday morning Japan time and will be watched for further potential signs of life on red planet
 
-## US stocks recover after AI sell-off
-Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout
+## India-Australia military exercise AUSTRAHIND 2026 begins in Keralam
+The November 1 conclusion will mark two weeks of joint planning, tactical drills and combat-oriented training under realistic operational conditions.
 
-## French bond sell-off intensifies after riots and looting
-Authorities introduce curfews and admit police botched oversight of protests
+## CMRL-Exalogic case: Supreme Court to hear Pinarayi Vijayan’s plea on Wednesday
+The plea follows a High Court order directing an FIR over alleged financial transactions between CMRL and Exalogic Solutions, formerly run by Vijayan’s daughter
 
-## Anthropic and Nscale in talks for second multibillion-dollar deal
-AI start-up looks for more computing power from UK data centre group
+## India, Saudi Arabia review progress on electrical interconnection project
+The Embassy is assisting affected Indians, maintaining contact with families of those receiving medical care and advising travellers to plan carefully
 
-## EU drops push for global ban on Arctic drilling
-Brussels’ new strategy excludes 2021 pledge to work towards a ‘multilateral legal obligation’ not to allow any further hydrocarbon development in the polar region
+## India-New Zealand FTA comes into effect, removes tariffs on Indian exports
+The agreement is expected to improve the competitiveness of Indian goods, lower import costs in New Zealand and expand export opportunities.
 
-## Former chair of Monte dei Paschi accused of role in executive’s death
-Giuseppe Mussari has branded claims of his involvement as false and defamatory
+## Saudi Arabia postpones flagship FII investment conference to 2027 amid regional conflict
+Saudi Arabia’s decision delays a major gathering of global financiers as regional conflict disrupts business and raises concerns over event security.
 
-## Data centres need protection from drone warfare
-AI infrastructure designs may now need to incorporate blast-resistant concrete, jamming gear and missile-defence systems
+## From France to Albania, why protests are sweeping across Europe
+Economic hardship, housing pressures and declining confidence in public services are drawing demonstrators onto the streets of cities across Europe.
 
-## Submit a question: Could Anthropic’s IPO be a turning point for AI?
-Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
+## Cherry or tabasco? How weight-loss drugs could reshape perfume trends
+Fragrance makers are exploring whether changes in appetite, smell and taste among GLP-1 users could influence luxury perfume demand and product innovation.
 
-## Jio Platforms IPO draws record ₹2.50 lakh crore institutional demand
-The ₹8,110 crore anchor book attracted more than 200 investors and over 100 fund schemes, including leading global and domestic institutions
+## Scientists discover unknown Ice Age mammal related to modern yaks in Siberian cave
+Genetic analysis of fragmentary bones has revealed a distinct bovine lineage that lived in Siberia before disappearing around the end of the Ice Age.
 
-## Gen Z drives India’s beauty boom, half from small cities: Myntra report
-Gen Z allocates a 75% higher share of its wallet to beauty and personal care compared with millennials: Report
+## Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading today
+Domestic equity markets including NSE and BSE will remain closed on October 20 for Dussehra. This holiday follows a significant market drop due to weak private banking and disappointing earnings. The Multi Commodity Exchange will operate in the evening despite a morning session closure. Upcoming mar
 
-## Piramal Finance Q2 net profit surges 67% to ₹545 crore on core income growth; guides towards NIM expansion
-Cost-to-income ratio improved to 52.1% during the reporting quarter from 61.2%
+## Crude holds near $110 per barrel as Middle East tensions keep supply concerns alive
+Currently hovering around $110 a barrel, oil prices are influenced by escalating geopolitical tensions involving Russia and Saudi Arabia. Washington's recent move to relax restrictions on Russian energy exports has shifted market impressions. Attacks claimed by Yemen's Houthis on Saudi facilities ha
 
-## Q2 Results Today Highlights: UltraTech Q2 profit declines q-o-q, Hindustan Zinc, Union Bank & HFCL Q2 PAT up; Bajaj Finance, LTTS, IREDA announce Q2 results
-Q2 Results Today, 19th October 2026 Highlights: Stay tuned to businessline for more
+## In-kind welfare: 22 crore move up consumption ladder
 
-## Titan redeems ₹1,000 crore commercial paper
-The redemption was carried out in accordance with the SEBI’s operational circular governing the issue and listing of non-convertible securities and commercial papers
 
-## Nepal bans import, sales of Priyagold biscuits
-India’s FSSAI has initiated legal proceedings against Surya Food & Agro for using cattle feed bran in the manufacture of Priyagold biscuits
+## ‘SC order won’t impact growth’: Yes Bank
 
-## Maersk ties up with L&T for its first planned drydocking in India
-The comprehensive 10-year planned maintenance of Maersk Chattogram at L&T Shipyard in Kattupalli marks the first operational milestone under the maritime collaboration
 
-## Tata Trusts files response to Venu Srinivasan, Vijay Singh’s complaints with Charity Commissioner of Maharashtra
-In its response, Tata Trusts has denied all assertions made in the complaints, including those of misgovernance
+## Harish Bhat resigns from Trent board after 12 years
+
+
+## Food quality on trains to get better? IRCTC and QCI to crack down with surprise audits
+Indian Railway Catering and Tourism Corporation Limited (IRCTC) has entered into a strategic Memorandum of Understanding (MoU) with Quality Council of India to strengthen compliance with food safety and hygiene standards across the railway system, according to a statement issued by the Railway Minis
 
 ## Trade margins on 137 cancer drugs capped, but will bills get lower?
 
 
-## India shelves coal import plan as high global prices, weak rupee raise costs
-India has decided not to mandate coal imports for power plants due to high international prices and a weaker rupee. Coal stockpiles have reached critically low levels at many power stations, prompting concerns about electricity shortages in the country. Policymakers are focusing on boosting domestic
+## Tata Trusts row: SDTT files response to commissioner
 
-## India probes Pernod Ricard, Diageo over Scotch whisky imports under UK trade pact
-Indian tax authorities are examining whether Pernod Ricard and Diageo wrongly classified bulk Scotch whisky imports for lower tariffs. The investigation follows reduced import duties under the recent India-UK trade pact that came into effect on July 15. Tax inspectors visited Pernod Ricard’s headqua
 
-## Russia ships 20 million barrels of oil to Asia via Arctic route amid shipping disruptions: Report
-Russia has nearly shipped 20 million barrels of oil to Asia through the Northern Sea Route in 2025. Disruptions to traditional shipping routes have prompted traders to favor the Arctic route. Indian imports of Russian crude have fallen significantly as Chinese refiners increased their purchases. Gaz
+## Marco Rubio to arrive in India today; trade, security and technology on agenda
+Discussions are expected to cover energy, technology, security and critical minerals, alongside the effects of conflicts in Ukraine and West Asia.
 
-## India-New Zealand FTA effective from Oct 20; targets double trade to $7bn by 2030
-The Free Trade Agreement between India and New Zealand will come into effect on October 20. This agreement allows India to export goods to New Zealand without tariffs, boosting several sectors. India aims to double bilateral trade with New Zealand to NZD 7 billion by 2030. New Zealand exported nearl
+## Behind bars, beyond borders: Inside Lawrence Bishnoi’s crime empire
+Bishnoi started his gang in the late 2000s and ran it for just a few years before being arrested and jailed, a fact that both adds to the mystique about him.
 
-## Sold house, bought Rs 1.10 crore flat with wife; taxman rejects exemption for half the amount
-A man sold his residential property and invested the proceeds in another flat in Mumbai. The replacement property was jointly registered in his and his wife's names, with the total investment of around Rs 1.10 crore. He claimed exemption on the capital gains under Section 54 of the Income Tax Act.
+## Manipur’s rare 48 hours: How all five communities got caught in violence
+While the state had recently been roiled by killings in Naga-Kuki clashes, mid-level security personnel described the weekend’s events as a security nightmare
 
-## Global freight costs surge 130% as Middle East tensions rattle shipping routes
-Since February 2026, global container freight rates have surged, largely influenced by ongoing Middle Eastern unrest. In contrast, India's container trade remains robust, showing a remarkable 23% increase in September 2026. Exports to the US experienced a staggering 48% year-over-year rise. While ma
+## Exclusive: Delhi extends fire audit transition period, implementation in May 2027
+The extension follows a proposal to give the fire service more time to operationalise the third-party audit mechanism
 
-## Renting in UP? Proposed Rs 1,000 stamp duty: What tenants, landlords must know
-One drawback of verbal or unregistered rental arrangements is the difficulty of establishing proof. Such agreements generally cannot be relied upon as evidence unless a court permits their use. Circle rates are another factor behind the widespread practice of keeping residential tenancy agreements u
+## Delhi protest LIVE: CJP slams Das, Ranka's extended custody, says ‘repression will not break their spirit’
+Delhi protest LIVE: Saurav Das and Ashutosh Ranka have been in jail since October 13, after they breached security and entered Jantar Mantar. Meanwhile, Abhijeet Dipke has accused PM Modi of using the state machinery to intimidate young protesters and suppress dissent.
 
-## Child rights panel files case over Keralam boy’s malnutrition death
-A 2-year-old in Kerala died amid suspected malnutrition. Authorities are investigating possible neglect and have taken the couple’s four children into care.
+## Army’s communications satellite likely by mid-2028: Top officials
+The Indian Army’s first dedicated communications satellite is expected to be launched by the Indian Space Research Organisation (Isro) around mid-2028, reinforcing the force’s communications backbone and its operational capabilities, top officials aware of the matter said on Monday.
 
-## Court cites ‘habitualness’, ‘no respect for law’ in order extending CJP leaders' custody in Jantar Mantar trespassing case
-CJP termed the ‘preventive detention’ as ‘a complete mockery of legal process and said it will challenge the order before higher courts ‘immediately.’
+## Cong sceptical of Jagan’s stance on CJP, SIR controversy
+The Congress has ruled out the possibility of YSR Congress Party’s entry into the INDIA bloc, remaining sceptical of former Andhra Pradesh chief minister YS Jagan Mohan Reddy’s recent overtures to the Cockroach Janta Party (CJP) and his statements expressing regret over his party’s support for the b
 
-## British tourist sexually harassed in Kerala's Varkala, dress torn, video helps police arrest man
-The accused is expected to be produced before a court on Tuesday for remand. Further investigation is underway, police said.
+## No irregularity in Parliament not being prorogued: Rijiju
+Union minister Kiren Rijiju said on Monday said there was no impropriety or irregularity in Parliament not being prorogued since the monsoon session ended in August as there was “no constitutional requirement” prescribing a specific period within which a House must be prorogued following its adjourn
 
-## Security tightened for Dussehra in Delhi-NCR, crowd management and traffic plan in place
-Elaborate security arrangements with 1,200 police personnel have also been made in Faridabad to maintain law and order.
+## Succession? Survey finds 66% of ultra-rich’s young heirs not ready to take over
+Global ultra-rich families worry more about wealth succession than political uncertainty, as most of their next generation are not yet well prepared for the trillions of dollars’ worth of transfer, a survey by Julius Baer showed. The findings came after the Swiss private bank and its partner EY anal
 
-## CJP's Abhijeet Dipke targets PM Modi over extended custody of Saurav Das, Ashutosh Ranka
-"Ashu and Saurav’s first crime was waving the Tiranga at Jantar Mantar. Their second crime? Refusing to back down," Abhijeet Dipke said in a post on X.
-
-## Uttarakhand minister confronts Daler Mehndi on stage, alleges singer was drinking alcohol: ‘You cannot even speak’
-A video of the incident has surfaced on social media, showing Uniyal standing on the stage while Mehndi stood beside him.
-
-## On camera, Tiger Shroff shooting suspects seen rushing to catch train in Surat before arrest in Kota
-The three suspects were nabbed on Monday from Rajasthan's Kota from where they were planning to flee to Nepal via Delhi.
-
-## Indian embassy in Italy issues advisory, urges citizens to avoid protest sites, crowded areas
-The advisory comes amid unrest in parts of Italy over poor public services and the rising cost of living.
+## Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers
+Hong Kong is opening its arms to more sovereign debt issuers, as this week’s Apec Finance Ministerial Meeting (FMM) provides a good opportunity to demonstrate the depth and advantages of the city’s financial markets. Its signature dim sum bond market could leverage low fundraising costs relative to 
 
 ## Money manager eyes Asia-Pacific property for growth, but tells investors to keep bet on US
 US-based money manager Principal Asset Management says it is poised to become more active in Asia-Pacific property markets, believing investors have been “underweight” in the region’s office property segment. Richard Hill, its senior managing director and head of global real estate research and stra
@@ -128,12 +128,6 @@ Chinese investors have been flocking to dividend stocks, taking shelter from mar
 
 ## Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real
 Bitcoin may extend its rebound but is unlikely to break above US$100,000 before the end of the year, as rising interest rates and the Iran conflict continue to weigh on crypto assets, according to analysts. The crypto asset class is likely to end the year higher than it is today, but below the peak 
-
-## The AI promise was automation. The reality? Managing digital workers
-When artificial intelligence agents first arrived, they came with a tantalising promise: autonomous “digital workers” that would finally free humans from corporate drudgery. As businesses across Asia are discovering, however, the reality is quite the opposite – more work, new friction and a whole ne
-
-## Hong Kong’s primary residential market sees wave of launches, successful sales
-Hong Kong homebuyers are poised to see new residential launches in the coming days and weeks following a sell-out weekend of more than 360 flats in two major projects in the city. Sun Hung Kai Properties (SHKP), one of Hong Kong’s major developers and landlords, was set to hold a second round of sal
 
 ## France Orders Curfews Amid Widespread Rioting
 More than half a million people joined anti-government protests over the weekend.
@@ -159,6 +153,12 @@ Some dramatic long-term consequences are just beginning to come into view.
 ## How Congress Fixed Social Security During Its Last Crisis
 In 1983, the realization the program could implode propelled last-ditch compromises.
 
+## Unpacking Indonesia With Marcus Tantau
+The country is currently beset by wildfires, political ructions, and intensifying economic troubles.
+
+## Professor S.I. Keethaponcalan on Two Years of the AKD Presidency in Sri Lanka
+“The NPP government made a sensible decision to accept and continue most of the economic policies and programs Ranil Wickremesinghe introduced.”
+
 ## How the Fossil Fuel Industry ‘Captured’ Australia and Maintains Its Political Dominance
 By framing coal and gas as essential to jobs, prosperity and national identity, the industry continues to resist the transition to renewable energy.
 
@@ -176,12 +176,6 @@ China is looking to “optimize and enhance” its social security program. Peop
 
 ## A Warm Welcome for US Secretary of State in Central Asia
 Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
-
-## South Korea, US Pull Apart as the Alliance Strains
-Restricted intelligence sharing, an investment spat, and remarks by a U.S. commander point to a widening gap between the allies.
-
-## What the Greens Misunderstand About the Ukraine Conflict
-As a policy, the Greens decision to not support military assistance to Ukraine is a deeply flawed one. As a political position it is self-defeating, too.
 
 ## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tehran rejects any role in plot to kill leaders of German Jewish groups
-Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.
+## PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams
+Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.
 
-## Children among six killed in Russian drone strike on Ukraine park
-Children among six killed in Russian drone strike on Ukraine park
+## Man claims arm broken in violent ICE arrest
+Video shows a man screaming in pain as ICE agents pin him down during an arrest in Long Beach, California.
 
-## Trump: ‘Paris is going to be a Muslim city very soon’
-US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.
+## Four dead as torrential rain batters eastern Spain
+Cars swept away, roads submerged and residents isolated in parts of Spain's Mediterranean coast.
 
-## Egyptian parliament delays vote on military support for Saudi Arabia
-Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
+## The human cost of surging US air strikes in Somalia
+Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.
 
-## 160 people reported killed in escalating drone attacks across Sudan
-Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
+## Zelenskyy seeks answers to why SpaceX Starshield defence is failing
+Zelenskyy seeks answers to why SpaceX Starshield defence is failing
 
-## Could your halal pension be funding Israel’s military?
-HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
+## Beyond money: Why young Tunisians are considering emigration
+For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.
 
-## Israeli police say they arrested 10 in connection with settler attacks
-Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.
+## Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks
+Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.
 
-## Trump approval hits record-low 31 percent, polls show Republican struggles
-Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.
+## ‘Release Epstein files’, protester interrupts JD Vance’s speech
+A protester demanding the release of the Epstein files interrupted US Vice President JD Vance's speech.
 
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
@@ -279,6 +273,15 @@ The Indian economy is currently telling two parallel stories. If one is true, th
 ## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
 New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
 
+## Trump waives Russia sanctions, easing India’s energy concerns as US trade deal nears
+US President Donald Trump waived key Russian sanctions which may enhance trade relations with India. This decision is expected to provide negotiating space for a potential trade deal. India, one of the largest importers of Russian oil, faces challenges due to declining imports. Secretary of State Ma
+
+## India-New Zealand FTA takes effect October 20, opens duty-free access for Indian exports
+The India-New Zealand Free Trade Agreement (FTA) will come into force on Tuesday, October 20, providing duty-free access to Indian goods across the New Zealand market and opening up fresh opportunities for exporters, according to a presentation by the Ministry of Commerce and Industry.
+
+## RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure
+The Reserve Bank of India is implementing stricter scrutiny on large overseas direct investments by Indian companies. Banks must now collect and present detailed information regarding these investments to the RBI. This initiative aims to prevent potential losses for both the companies and the Indian
+
 ## Banks tap RBI's first cash auction in 3 months as market rates spike
 In response to rising bank demands, the Reserve Bank of India executed a liquidity infusion to stabilize interbank borrowing rates amid substantial tax outflows. Following this operation, overnight borrowing costs surged as the RBI raised rates to tackle inflation. A notable increase in bids suggest
 
@@ -290,13 +293,4 @@ The Securities and Exchange Board of India (SEBI) announced a comprehensive over
 
 ## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
 The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
-
-## RBI open to more steps to curb FX speculation, Governor Sanjay Malhotra says
-RBI Governor Sanjay Malhotra said the central bank may take further steps to curb speculative forex trading and ensure orderly movement in the currency market. He said recent restrictions aim to support genuine hedging needs, not impose capital controls.
-
-## 'Engage America, manage China, cultivate Europe, & reassure Russia': Jaishankar lays out his foreign policy formula
-S Jaishankar stated that all nations must adjust their relationships with the US as its global engagement shifts. He outlined India's foreign policy approach, which focuses on engaging the US and managing relationships with other key players. The minister noted that India's strategic partnership wit
-
-## Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route
-Sebi has announced a new Portfolio Management Services framework effective from April 1, 2027. This framework permits portfolio managers to invest in IPOs, primary market debt, and various overseas securities. Portfolio managers can also offer advisory services related to unlisted securities for lar
 
