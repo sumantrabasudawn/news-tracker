@@ -1,61 +1,85 @@
 # AION Intelligence
 
-## Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
-Fund pushes for $100mn in cost cuts and sees growth potential in nuclear business as AI drives power demand
+## Indonesia expels key stocks in bid to fend off MSCI downgrade
+Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy
 
-## Ambani looks to pull off India’s biggest IPO
-Jio Platforms aims to list at $107bn valuation amid stock market downturn, tougher competition and goading from Elon Musk
+## Restore forces Nigel Farage into an ugly race to his right
+Rupert Lowe’s hardline policies sap support from Reform just as it seeks to wrest the centre right from the Tories
 
-## China’s villages pay the price for Beijing’s AI ambitions
-Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them
+## UK jobs market stabilises before Budget
+Figures suggest recent upswing in economy is starting to underpin employment
 
-## Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms
-Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy
+## Alberta voters reject separation from Canada, early results show
+Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump
 
-## BYD is playing the long game in Japan
-There are signs that the company is customising its offering to the Japanese market
+## UK labour market rebounds with stronger employment
+Unemployment rate unexpectedly dropped to 4.7% in three months to August
 
-## Healey rules out increasing capital gains tax in the Budget
-Chancellor decides against raising CGT rates after business leaders warned it would damage confidence in the economy
+## South Korean data centre builder tumbles 32% on trading debut
+Shares in Elice sink in Seoul, adding to rising concern about AI valuations
 
-## FirstFT: China’s economy picks up pace as AI boom supercharges exports
-Also in today’s newsletter: Saudi Arabia postpones ‘Davos in the desert’ and French bond sell-off intensifies
+## Australian bank cuts 2,500 jobs as sector outlook sours
+NAB reduces workforce by 6% to adjust to ‘evolving operating environment’
 
-## OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim
-US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’
+## Waiting for good IPO
+Anthropic’s shrinking window to list
 
-## Anthropic and Nscale in talks for second multibillion-dollar deal
-AI start-up looks for more computing power from UK data centre group
+## It’s time to give individual shareholders direct votes on climate change
+As corporates and fund managers retreat on green commitments, we must use technology to give savers and investors a say on policies affecting the planet
 
-## New York pensions chief says private equity firm sought to expense jet use
-Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers
+## FirstFT: AI debt fears spark default insurance trading surge
+Also in today’s newsletter: UK weighs EU options and luxury retailers looted
 
-## Japan launches mission to make first return trip to Mars
-Voyage took off early Tuesday morning Japan time and will be watched for further potential signs of life on red planet
+## Japan ‘months’ from running out of critical rare earth as China squeezes supply
+Tokyo asks US to help convince Beijing to ease chokehold on yttrium and avert manufacturing shutdown
 
-## India-Australia military exercise AUSTRAHIND 2026 begins in Keralam
-The November 1 conclusion will mark two weeks of joint planning, tactical drills and combat-oriented training under realistic operational conditions.
+## The Goldman scions atop Evercore and Perella Weinberg
+Peter and John Weinberg are grandsons of the legendary Sidney Weinberg and their respective roles have been in the spotlight
 
-## CMRL-Exalogic case: Supreme Court to hear Pinarayi Vijayan’s plea on Wednesday
-The plea follows a High Court order directing an FIR over alleged financial transactions between CMRL and Exalogic Solutions, formerly run by Vijayan’s daughter
+## Louis Vuitton and Hermès among luxury retailers looted in French riots
+Authorities are working to stop stolen goods being resold online through platforms such as Vinted, Amazon and eBay
 
-## India, Saudi Arabia review progress on electrical interconnection project
-The Embassy is assisting affected Indians, maintaining contact with families of those receiving medical care and advising travellers to plan carefully
+## Ryanair predicts biggest jump in air fares in history next year
+Ticket prices are set to increase by as much as 20 per cent next year, O’Leary says
 
-## India-New Zealand FTA comes into effect, removes tariffs on Indian exports
-The agreement is expected to improve the competitiveness of Indian goods, lower import costs in New Zealand and expand export opportunities.
+## Cognizant, Google Cloud expand partnership to drive agentic AI adoption
+Cognizant is also applying Gemini internally, at scale
 
-## Saudi Arabia postpones flagship FII investment conference to 2027 amid regional conflict
-Saudi Arabia’s decision delays a major gathering of global financiers as regional conflict disrupts business and raises concerns over event security.
+## Copper rises as US inventories, bullish outlook builds
+The ‌London Metal Exchange rose 0.36% to $14,391 a metric ​ton by 0705 GMT, while the ⁠most-traded November copper contract on the Shanghai Futures Exchange closed down 0.27% at 109,550 yuan ($16,403.38) a ton
 
-## From France to Albania, why protests are sweeping across Europe
-Economic hardship, housing pressures and declining confidence in public services are drawing demonstrators onto the streets of cities across Europe.
+## Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says
+The conflict has highlighted the world's heavy reliance on the strategic waterway, through which a fifth ‌of global oil and LNG trade previously passed
 
-## Cherry or tabasco? How weight-loss drugs could reshape perfume trends
-Fragrance makers are exploring whether changes in appetite, smell and taste among GLP-1 users could influence luxury perfume demand and product innovation.
+## Ecosystem of terrorism must be firmly and collectively 'dismantled': Rajnath Singh at SCO meet
+Singh stressed that there can be "no justification for terrorism; there can be no double standards in dealing with it"
 
-## Scientists discover unknown Ice Age mammal related to modern yaks in Siberian cave
-Genetic analysis of fragmentary bones has revealed a distinct bovine lineage that lived in Siberia before disappearing around the end of the Ice Age.
+## Today’s Gold Rate in India October 20: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices down across other cities on October 20
+
+## Today’s Gold Rate in India October 20: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices down across metro cities on October 20
+
+## AstraZeneca partners with Oracle for AI-driven clinical trials
+AstraZeneca and Oracle launch AI-powered real-world data trials in Abu Dhabi, accelerating recruitment and safety monitoring across multiple diseases
+
+## Beyond the Strait: Gulf looks for an escape route from Hormuz
+Gulf nations are exploring the potential of alternative energy pipelines to lessen vulnerabilities linked to the Strait of Hormuz. HSBC estimates there is a robust $1.4 trillion in infrastructure plans within the region. Despite current conflicts, the Gulf remains a promising investment territory, w
+
+## India-New Zealand FTA kicks in: Zero duty, more opportunities - what's in it for India?
+The India-New Zealand Free Trade Agreement is now officially active, opening up exciting trade avenues for Indian businesses and exporters. With this agreement in place, Indian products gain duty-free access to the New Zealand market, which is especially favorable for sectors such as textiles and ph
+
+## Big milestone: Apple India revenue tops Rs 1 lakh crore; profit jumps 66% to Rs 5,311 crore
+Apple India Pvt Ltd reported revenue from operations of Rs 1,03,853 crore for the year ended March 2026, which is a 31% increase from Rs 79,060 crore in FY25. The increase in profitability outpaced revenue growth. Apple's India net profit climbed 66% to Rs 5,311 crore in FY26, compared with Rs 3,196
+
+## Nepal bans Priyagold biscuit after FSSAI finds serious hygiene deficiencies
+In a significant move, Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This action follows alarming food safety concerns raised by the Food Safety and Standards Authority of India, which revealed serious hygiene iss
+
+## No buyers, higher costs: US homebuilder confidence hits 14-year low
+Homebuilder confidence in the United States has declined significantly as rising mortgage rates impact the housing market. Builders face increased construction costs and labor shortages, making it difficult to meet demand. A growing stock of unsold homes has led to reduced construction on new projec
+
+## Gold price prediction today: What is the outlook for gold on October 20, 2026?
+Gold price prediction today: In the coming days and even weeks; however, the yellow metal is likely to come under intense selling pressure as crude oil can spike sharply higher with the approaching midterm US election on November 3, says Praveen Singh, Head Currencies and Commodities, Mirae Asset Sh
 
 ## Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading today
 Domestic equity markets including NSE and BSE will remain closed on October 20 for Dussehra. This holiday follows a significant market drop due to weak private banking and disappointing earnings. The Multi Commodity Exchange will operate in the evening despite a morning session closure. Upcoming mar
@@ -63,47 +87,41 @@ Domestic equity markets including NSE and BSE will remain closed on October 20 f
 ## Crude holds near $110 per barrel as Middle East tensions keep supply concerns alive
 Currently hovering around $110 a barrel, oil prices are influenced by escalating geopolitical tensions involving Russia and Saudi Arabia. Washington's recent move to relax restrictions on Russian energy exports has shifted market impressions. Attacks claimed by Yemen's Houthis on Saudi facilities ha
 
-## In-kind welfare: 22 crore move up consumption ladder
+## 'People will troll, but emotions are my strength': Abhijeet Dipke as CJP colleagues remain in judicial custody
+“True strength lies in love and compassion that we have for Saurav and Ashu,” Dipke said.
 
+## Air India Express flight suffers bird strike, lands safely at Bengaluru airport
+The aircraft landed safely at Bengaluru airport, and technical teams began inspecting it for possible damage following the bird strike.
 
-## ‘SC order won’t impact growth’: Yes Bank
+## Gujarat govt approves allotment of disputed Vadodara plot to Yusuf Pathan
+Under the government’s decision, 500 square metres will be allotted to him free of cost for residential use, while the remaining 478 square metres will be allotted at 55% of its assessed market value
 
+## Manipur: Kuki man killed; 6 houses torched amid shutdown over Meitei killings
+Armed assailants fired at two people collecting bamboo shoots in Kangpokpi, killing Paolen Khongsai on the spot
 
-## Harish Bhat resigns from Trent board after 12 years
+## JNU students end 17-day hunger strike as committee promises to look into demands
+The revocation of rustication of the JNUSU office bearers, including the president, was among the key demands of the students.
 
+## 'No double standards on terrorism': Rajnath Singh at SCO in Pakistan deputy PM Ishaq Dar's presence
+Rajnath Singh called terrorism “one of the gravest threats to development” and said that it not only harms innocent lives but also investment and commerce.
 
-## Food quality on trains to get better? IRCTC and QCI to crack down with surprise audits
-Indian Railway Catering and Tourism Corporation Limited (IRCTC) has entered into a strategic Memorandum of Understanding (MoU) with Quality Council of India to strengthen compliance with food safety and hygiene standards across the railway system, according to a statement issued by the Railway Minis
+## Faecal coliform levels beyond permissible limits in Mandovi: Goa pollution board to HC
+According to the report, fecal coliform numbers ranged from 130 to 540 MPN/100 ml during high tide and 130 to 940 MPN/100 mL during low tide
 
-## Trade margins on 137 cancer drugs capped, but will bills get lower?
+## DMK leader Thangam Thennarasu lashes out at TN govt over debt claims
+DMK leader Thangam Thennarasu lashes out at TN govt over debt claims
 
+## Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns
+Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said. The company has started taking in
 
-## Tata Trusts row: SDTT files response to commissioner
+## Chinese carmakers gear up European production to sidestep tariffs, import quota
+Chinese carmakers, facing a European Union import quota targeting their hybrid electric vehicles (EVs), are gearing up for more local production to reinforce their go-global drive. They plan to either splash out billions of yuan to set up their own factories or tap international marques’ idle plants
 
+## China’s tax authority issues final call for wealthy citizens to declare offshore trust gains
+China’s tax authorities have issued a final call for high-net-worth individuals to disclose their overseas trust gains, a move analysts believe will further raise concerns in Hong Kong and other overseas tax havens used by wealthy Chinese. “We remind relevant taxpayers to promptly review their offsh
 
-## Marco Rubio to arrive in India today; trade, security and technology on agenda
-Discussions are expected to cover energy, technology, security and critical minerals, alongside the effects of conflicts in Ukraine and West Asia.
-
-## Behind bars, beyond borders: Inside Lawrence Bishnoi’s crime empire
-Bishnoi started his gang in the late 2000s and ran it for just a few years before being arrested and jailed, a fact that both adds to the mystique about him.
-
-## Manipur’s rare 48 hours: How all five communities got caught in violence
-While the state had recently been roiled by killings in Naga-Kuki clashes, mid-level security personnel described the weekend’s events as a security nightmare
-
-## Exclusive: Delhi extends fire audit transition period, implementation in May 2027
-The extension follows a proposal to give the fire service more time to operationalise the third-party audit mechanism
-
-## Delhi protest LIVE: CJP slams Das, Ranka's extended custody, says ‘repression will not break their spirit’
-Delhi protest LIVE: Saurav Das and Ashutosh Ranka have been in jail since October 13, after they breached security and entered Jantar Mantar. Meanwhile, Abhijeet Dipke has accused PM Modi of using the state machinery to intimidate young protesters and suppress dissent.
-
-## Army’s communications satellite likely by mid-2028: Top officials
-The Indian Army’s first dedicated communications satellite is expected to be launched by the Indian Space Research Organisation (Isro) around mid-2028, reinforcing the force’s communications backbone and its operational capabilities, top officials aware of the matter said on Monday.
-
-## Cong sceptical of Jagan’s stance on CJP, SIR controversy
-The Congress has ruled out the possibility of YSR Congress Party’s entry into the INDIA bloc, remaining sceptical of former Andhra Pradesh chief minister YS Jagan Mohan Reddy’s recent overtures to the Cockroach Janta Party (CJP) and his statements expressing regret over his party’s support for the b
-
-## No irregularity in Parliament not being prorogued: Rijiju
-Union minister Kiren Rijiju said on Monday said there was no impropriety or irregularity in Parliament not being prorogued since the monsoon session ended in August as there was “no constitutional requirement” prescribing a specific period within which a House must be prorogued following its adjourn
+## Hong Kong ranks second in Asian pension systems, behind Singapore, as ageing tests retirement
+Hong Kong’s retirement system remains one of Asia’s stronger performers this year, ranking second and trailing only Singapore. The two remain clear regional leaders, ahead of Malaysia, mainland China, Taiwan, Japan and South Korea, according to a report. The city retained its B grade, with its score
 
 ## Succession? Survey finds 66% of ultra-rich’s young heirs not ready to take over
 Global ultra-rich families worry more about wealth succession than political uncertainty, as most of their next generation are not yet well prepared for the trillions of dollars’ worth of transfer, a survey by Julius Baer showed. The findings came after the Swiss private bank and its partner EY anal
@@ -116,18 +134,6 @@ US-based money manager Principal Asset Management says it is poised to become mo
 
 ## China plans 18 active ETFs as regulator seeks to shore up stock market
 The China Securities Regulatory Commission (CSRC) has approved 18 actively managed exchange-traded funds (ETFs), which could channel tens of billions of yuan into the A-share market, as it seeks to strengthen investor confidence and market resilience. Speaking on Monday in Beijing at the opening cer
-
-## From English courses to furniture, actor Daniel Wu expands his business interests in China
-US-born Hong Kong actor and filmmaker Daniel Wu Yin-cho has launched a furniture brand as the latest endeavour to cash in on his long-built fame in the Chinese market. Wu, 52, has stepped back from acting in recent years and Arox, the name of his furniture brand, marks his latest business foray. The
-
-## Why mainland Chinese still drive Hong Kong’s housing market despite Beijing’s 20% tax
-Although the Chinese government imposed a 20 per cent tax on rental income and capital gains derived from overseas properties transferred into offshore trusts by mainland residents, agents said these investors remained a key driver of the Hong Kong property market. China’s Ministry of Finance and th
-
-## China’s investors flock to dividend stocks as returns double those of state bonds
-Chinese investors have been flocking to dividend stocks, taking shelter from market turmoil spurred by sell-offs in technology companies and K-shaped economic growth in the Asian nation. Two key gauges of the mainland-listed companies with the highest dividend yield ratios outpaced the benchmark hea
-
-## Bitcoin is making a comeback, but the risk of more ‘sharp pullbacks’ is real
-Bitcoin may extend its rebound but is unlikely to break above US$100,000 before the end of the year, as rising interest rates and the Iran conflict continue to weigh on crypto assets, according to analysts. The crypto asset class is likely to end the year higher than it is today, but below the peak 
 
 ## France Orders Curfews Amid Widespread Rioting
 More than half a million people joined anti-government protests over the weekend.
@@ -177,6 +183,9 @@ China is looking to “optimize and enhance” its social security program. Peop
 ## A Warm Welcome for US Secretary of State in Central Asia
 Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
 
+## Guns, Growth, and the German Reinvention of Military Keynesianism
+In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
+
 ## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
@@ -197,9 +206,6 @@ For as long as nuclear-armed, intercontinental ballistic missiles and submarine-
 
 ## How Sudan Became a Laboratory for Drone Warfare, Thanks to Abu Dhabi
 In June 2026, I visited Khartoum, my hometown, for the first time since the war broke out in Sudan in April 2023. I left the city to seek safety with my family after the war spread into civilian neighborhoods. I never imagined I would return to the same city. I was very excited but also traumatized 
-
-## China’s Military Expansion in Southeast Asia Masks a More Complicated Reality
-The Chinese Ministry of Defense’s announcement of a “joint support and training center” at an airport in Ban Keun, Laos, on Sept. 29 drew attention to the People’s Liberation Army’s growing footprint in Southeast Asia. Although China does not call it a “base” and said it’s “not targeted at any third
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams
-Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.
+## UEFA demands FIFA release key documents on World Cup sell-off plan
+In a letter outlining 42 questions, UEFA gives FIFA until November 2 to release documents on Infantino’s aborted plans.
 
-## Man claims arm broken in violent ICE arrest
-Video shows a man screaming in pain as ICE agents pin him down during an arrest in Long Beach, California.
+## France protests are ‘outburst of resentment’ against Macron
+French student union spokesperson Alice Cohen-Morzadec says the protests reflect growing anger over Macron's policies.
 
-## Four dead as torrential rain batters eastern Spain
-Cars swept away, roads submerged and residents isolated in parts of Spain's Mediterranean coast.
+## Morocco’s not-so-new government faces new challenges
+The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
 
-## The human cost of surging US air strikes in Somalia
-Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.
+## Alberta voters reject separation from Canada, early results show
+With more than one million votes counted, about 77 percent supported remaining in Canada.
 
-## Zelenskyy seeks answers to why SpaceX Starshield defence is failing
-Zelenskyy seeks answers to why SpaceX Starshield defence is failing
+## US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
+Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.
 
-## Beyond money: Why young Tunisians are considering emigration
-For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.
+## Palestine weekly: Israeli settlers attack journalist and diplomats
+Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.
 
-## Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks
-Riyadh postpones flagship investment conference until 2027, orders government staff to work from home.
+## Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism
+FIFA punishes Egypt's head coach, forward and team manager for their comments after their World Cup loss to Argentina.
 
-## ‘Release Epstein files’, protester interrupts JD Vance’s speech
-A protester demanding the release of the Epstein files interrupted US Vice President JD Vance's speech.
+## Southeast Asia’s haze crisis will persist until polluters pay
+Cheap land clearing imposes costs across borders. ASEAN must change the incentives that keep the fires burning.
+
+## High Inflation, costlier crude threaten festive demand and corporate margins
+Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
+
+## India's FTA Sprint: How a Year of Trade Diplomacy Is Reshaping the Growth Story
+India’s recent FTA sprint marks a decisive shift from cautious market access to strategic economic integration, with trade deals increasingly aimed at supply chains, investment and manufacturing. Ajay Bagri, Chairman, CFO Council, ASSOCHAM and CFO, SEIL Energy India Limited, examines what this trans
 
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
@@ -267,11 +279,8 @@ The Food Safety and Standards Authority of India (FSSAI) on Saturday said it has
 ## Exporters may be asked to monitor supply chains' indirect emissions
 The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
 
-## India’s two economies
-The Indian economy is currently telling two parallel stories. If one is true, the other can also have merit. If BKC, Mumbai’s financial hub, contributes significantly to India's economic output while Asia’s largest slum lies just a few kilometres away, can we afford to ignore either reality? Both na
-
-## India Mauritius DTAA tightens test for treaty benefits, puts investment structures under scrutiny
-New Principal Purpose Test puts commercial rationale, substance and purpose of Mauritius based investment structures under greater focus, tax experts say.
+## RBI steps up scrutiny of companies' large foreign investments
+The Reserve Bank of India has implemented stricter scrutiny on large overseas direct investments exceeding $1 billion. This move aims to protect the rupee amid pressures from currency fluctuations and foreign portfolio investor sell-offs.
 
 ## Trump waives Russia sanctions, easing India’s energy concerns as US trade deal nears
 US President Donald Trump waived key Russian sanctions which may enhance trade relations with India. This decision is expected to provide negotiating space for a potential trade deal. India, one of the largest importers of Russian oil, faces challenges due to declining imports. Secretary of State Ma
@@ -290,7 +299,4 @@ Reserve Bank of India recently clarified the applicability of foreign exchange r
 
 ## SEBI overhauls CAS framework and derivatives settlement norms
 The Securities and Exchange Board of India (SEBI) announced a comprehensive overhaul of the Closing Auction Session (CAS) framework in the equity cash segment, establishing a structured 10-minute auction window, revising reference price mechanisms, and changing settlement procedures for derivatives 
-
-## Sebi mulls major overhaul of SME IPO framework; lowers minimum application size
-The Securities and Exchange Board of India (Sebi) is reshaping the IPO landscape for small and medium enterprises by suggesting notable reforms. These include slashing the minimum application amount to Rs 1 lakh and mandating at least 500 allottees. Furthermore, it plans to modify the operating prof
 
