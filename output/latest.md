@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Indonesia expels key stocks in bid to fend off MSCI downgrade
-Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy
+## Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
+Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business
 
-## Restore forces Nigel Farage into an ugly race to his right
-Rupert Lowe’s hardline policies sap support from Reform just as it seeks to wrest the centre right from the Tories
+## For 14 Americans, will divisions under Trump change their vote?
+Also in today’s newsletter, the war in Iran is tilting global oil power towards the Americas
 
-## UK jobs market stabilises before Budget
-Figures suggest recent upswing in economy is starting to underpin employment
+## Flutter to cut more than 1,000 jobs after UK gambling tax raid
+Group behind Paddy Power blames move to axe about 15% of its UK and Irish workforce on higher taxes levied against industry
 
-## Alberta voters reject separation from Canada, early results show
-Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump
+## Gilt market catches up with peers as investor worries over Budget ease
+UK bonds were initially hard hit after onset of Iran war but have since outperformed G7 economies as traders’ concerns shift to France
 
-## UK labour market rebounds with stronger employment
-Unemployment rate unexpectedly dropped to 4.7% in three months to August
+## Is CoreWeave the Silicon Valley Bank of 2026?
+Perhaps, but not in the way you might think
 
-## South Korean data centre builder tumbles 32% on trading debut
-Shares in Elice sink in Seoul, adding to rising concern about AI valuations
+## Insurers face losses as riots in France become ‘like natural catastrophes’
+Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest
 
-## Australian bank cuts 2,500 jobs as sector outlook sours
-NAB reduces workforce by 6% to adjust to ‘evolving operating environment’
+## How the Hormuz crisis could trigger a global ‘food shock’
+Report issues stark warning over the combined impact of geopolitical conflicts and one of the strongest ever El Niño events
 
-## Waiting for good IPO
-Anthropic’s shrinking window to list
+## ‘Protect the NHS’ slogan hurt care home residents in pandemic, inquiry finds
+Adult social care sector was ‘afterthought’ in initial weeks of Covid-19 outbreak, says Baroness Heather Hallett
 
-## It’s time to give individual shareholders direct votes on climate change
-As corporates and fund managers retreat on green commitments, we must use technology to give savers and investors a say on policies affecting the planet
+## Why globetrotting retail banks are back in fashion
+The fear is that it’s those who stay at home, rather than those who venture abroad, who will end up lifelong losers
 
-## FirstFT: AI debt fears spark default insurance trading surge
-Also in today’s newsletter: UK weighs EU options and luxury retailers looted
+## UK banks hit by Google Cloud outage
+Halifax and Revolut among a string of businesses affected by disruption
 
-## Japan ‘months’ from running out of critical rare earth as China squeezes supply
-Tokyo asks US to help convince Beijing to ease chokehold on yttrium and avert manufacturing shutdown
+## Do not worry too much about European gas prices
+Wholesale values have hit new highs this year but the pain should be transitory
 
-## The Goldman scions atop Evercore and Perella Weinberg
-Peter and John Weinberg are grandsons of the legendary Sidney Weinberg and their respective roles have been in the spotlight
+## More air connections between Chennai and Bangkok
+Enhanced frequency lets travellers explore Bangkok’s popular attractions more
 
-## Louis Vuitton and Hermès among luxury retailers looted in French riots
-Authorities are working to stop stolen goods being resold online through platforms such as Vinted, Amazon and eBay
+## Mutual funds raise stake in KRN Heat Exchanger; Union MF enters with five schemes
+The number of mutual fund schemes holding the company’s shares rose to 30 in the September quarter from 26 in June
 
-## Ryanair predicts biggest jump in air fares in history next year
-Ticket prices are set to increase by as much as 20 per cent next year, O’Leary says
+## Fresh market borrowings for the govt getting pricier amid a tightening cycle
+The outstanding size of the existing 6.94 GS 2036 has already reached ₹2.38 lakh crore and it is likely the Ggovernment may issue a new 10-year G-Sec soonK Ram Kumar
 
-## Cognizant, Google Cloud expand partnership to drive agentic AI adoption
-Cognizant is also applying Gemini internally, at scale
+## Connectivity must respect sovereignty, territorial integrity: Rajnath Singh
+He was speaking at the 25th meeting of the Council of Heads of Government of SCO in Dushanbe, Tajikistan
 
-## Copper rises as US inventories, bullish outlook builds
-The ‌London Metal Exchange rose 0.36% to $14,391 a metric ​ton by 0705 GMT, while the ⁠most-traded November copper contract on the Shanghai Futures Exchange closed down 0.27% at 109,550 yuan ($16,403.38) a ton
+## Inflows in gold ETFs continue to be net positive for the 13th week in a row
+Investors find the current level attractive as the yellow metal hovers below $4,200 an ounce with $4,000 as the floor
 
-## Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says
-The conflict has highlighted the world's heavy reliance on the strategic waterway, through which a fifth ‌of global oil and LNG trade previously passed
+## Pay disparity: Why young MBBS doctors are protesting in Lucknow
+The agitation began after doctors approached the Directorate General of Medical Education (DGME) and the Directorate General of Health Services (DGHS) seeking an explanation for the disparity
 
-## Ecosystem of terrorism must be firmly and collectively 'dismantled': Rajnath Singh at SCO meet
-Singh stressed that there can be "no justification for terrorism; there can be no double standards in dealing with it"
+## Gem, jewellery exporters heave a sigh of relief as the US puts off punitive tax
+Exporters eye Christmas orders as gold price declines, supporting festive demand and buying
 
-## Today’s Gold Rate in India October 20: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices down across other cities on October 20
+## Expanding air passenger traffic brings into focus the growing demands on professionals managing the skies: Minister
+As India prepares for a five-fold increase in air passenger traffic by 2047, the spotlight is on the thousands of air traffic controllers who keep the skies safe, making split-second decisions and coordinating thousands of aircraft movements every day
 
-## Today’s Gold Rate in India October 20: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices down across metro cities on October 20
+## Women are earning, but who controls their money? India's financial literacy divide
+In India, numerous women face challenges in making financial decisions due to insufficient access to essential financial knowledge and limited participation. Although more women are starting to utilize financial services, many still lack involvement in crucial financial decisions. This insecurity is
 
-## AstraZeneca partners with Oracle for AI-driven clinical trials
-AstraZeneca and Oracle launch AI-powered real-world data trials in Abu Dhabi, accelerating recruitment and safety monitoring across multiple diseases
+## Trump’s 60-day tariff waiver on Russian oil: India dodges duties for now, but is relief credible?
+For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid Middle East tensions. If it continued to buy Russian crude, then the 100% tariffs woul
+
+## Hotel cook faces Rs 4 crore tax demand, he alleges PAN misuse; what Delhi High Court ruled
+In 2024, a cook employed at a 5-star hotel in Delhi received an income tax notice demanding nearly Rs 4 crore in tax, along with a penalty for under-reporting income. The notice alleged that the man had made cash sales worth Rs 24.62 crore through a company dealing in packing materials. He immediate
+
+## No job, but still 9-to-5: Why China's unemployed are pretending to go to work every day
+A growing number of young adults in China are pretending to go to work, cleverly hiding their unemployment by loitering in busy public spaces. Concerned about family inquiries, these individuals engage in a digital discourse about their plight on social media. The economic climate forces them to jug
 
 ## Beyond the Strait: Gulf looks for an escape route from Hormuz
 Gulf nations are exploring the potential of alternative energy pipelines to lessen vulnerabilities linked to the Strait of Hormuz. HSBC estimates there is a robust $1.4 trillion in infrastructure plans within the region. Despite current conflicts, the Gulf remains a promising investment territory, w
@@ -75,41 +81,35 @@ Apple India Pvt Ltd reported revenue from operations of Rs 1,03,853 crore for th
 ## Nepal bans Priyagold biscuit after FSSAI finds serious hygiene deficiencies
 In a significant move, Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This action follows alarming food safety concerns raised by the Food Safety and Standards Authority of India, which revealed serious hygiene iss
 
-## No buyers, higher costs: US homebuilder confidence hits 14-year low
-Homebuilder confidence in the United States has declined significantly as rising mortgage rates impact the housing market. Builders face increased construction costs and labor shortages, making it difficult to meet demand. A growing stock of unsold homes has led to reduced construction on new projec
+## ‘Unpaid dues can’t be classified as savings': DMK leader lashes out at Vijay's TVK govt over debt claims
+DMK leader Thangam Thennarasu alleged that contractor payments are being withheld to falsely project a reduced debt burden as a financial achievement.
 
-## Gold price prediction today: What is the outlook for gold on October 20, 2026?
-Gold price prediction today: In the coming days and even weeks; however, the yellow metal is likely to come under intense selling pressure as crude oil can spike sharply higher with the approaching midterm US election on November 3, says Praveen Singh, Head Currencies and Commodities, Mirae Asset Sh
+## PM Modi attends Delhi Dussehra celebration, calls Ramlila the 'end of tyranny, terror'
+PM Modi hailed Dussehra as a “testament to the belief” in the triumph of eternal truth over falsehood.
 
-## Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading today
-Domestic equity markets including NSE and BSE will remain closed on October 20 for Dussehra. This holiday follows a significant market drop due to weak private banking and disappointing earnings. The Multi Commodity Exchange will operate in the evening despite a morning session closure. Upcoming mar
+## HT Evening News Brief October 20: US secretary of state Marco Rubio in India, CJP leaders move Delhi HC and more
+Grab your tea as we bring you up to speed on today's top stories from India, the world, entertainment, and sports.
 
-## Crude holds near $110 per barrel as Middle East tensions keep supply concerns alive
-Currently hovering around $110 a barrel, oil prices are influenced by escalating geopolitical tensions involving Russia and Saudi Arabia. Washington's recent move to relax restrictions on Russian energy exports has shifted market impressions. Attacks claimed by Yemen's Houthis on Saudi facilities ha
+## Rubio hails ‘great’ meeting with Jaishankar, UAE foreign minister on regional energy security
+US secretary of state Marco Rubio is arrived in Mumbai on Tuesday for a three-day visit to India.
 
-## 'People will troll, but emotions are my strength': Abhijeet Dipke as CJP colleagues remain in judicial custody
-“True strength lies in love and compassion that we have for Saurav and Ashu,” Dipke said.
+## 'Very close, some items left': Marco Rubio optimistic about India-US trade deal
+Talking about a possible trade agreement between India and the US, Marco Rubio said that he hopes there is a good news to announce soon.
 
-## Air India Express flight suffers bird strike, lands safely at Bengaluru airport
-The aircraft landed safely at Bengaluru airport, and technical teams began inspecting it for possible damage following the bird strike.
+## CJP's Saurav Das, Ashutosh Ranka move Delhi HC against 2-day extension of judicial custody
+CJP leaders Saurav Das, Ashutosh Ranka moved the Delhi High Court against 2-day extension of judicial custody.
 
-## Gujarat govt approves allotment of disputed Vadodara plot to Yusuf Pathan
-Under the government’s decision, 500 square metres will be allotted to him free of cost for residential use, while the remaining 478 square metres will be allotted at 55% of its assessed market value
+## Rubio backs 'India's need to diversify' energy sources, says US can help meet needs amid Russian oil debate
+The ministry of external affairs (MEA) on Tuesday extended a warm welcome to US Secretary of State Marco Rubio upon his arrival in Mumbai.
 
-## Manipur: Kuki man killed; 6 houses torched amid shutdown over Meitei killings
-Armed assailants fired at two people collecting bamboo shoots in Kangpokpi, killing Paolen Khongsai on the spot
+## 31 sewer, septic tank deaths reported so far in 2026; compensation paid in 9 cases: NCSK
+31 sewer, septic tank deaths reported so far in 2026; compensation paid in 9 cases: NCSK
 
-## JNU students end 17-day hunger strike as committee promises to look into demands
-The revocation of rustication of the JNUSU office bearers, including the president, was among the key demands of the students.
+## Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow
+Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electric vehicle battery maker posted a 
 
-## 'No double standards on terrorism': Rajnath Singh at SCO in Pakistan deputy PM Ishaq Dar's presence
-Rajnath Singh called terrorism “one of the gravest threats to development” and said that it not only harms innocent lives but also investment and commerce.
-
-## Faecal coliform levels beyond permissible limits in Mandovi: Goa pollution board to HC
-According to the report, fecal coliform numbers ranged from 130 to 540 MPN/100 ml during high tide and 130 to 940 MPN/100 mL during low tide
-
-## DMK leader Thangam Thennarasu lashes out at TN govt over debt claims
-DMK leader Thangam Thennarasu lashes out at TN govt over debt claims
+## HKMA to swap jobs of 2 deputy heads as part of succession planning: sources
+The Hong Kong Monetary Authority (HKMA) will reshuffle the roles of two deputy chief executives next month as part of the de facto central bank’s succession planning strategy, two sources with knowledge of the matter told the South China Morning Post. Darryl Chan Wai-man will take over as CEO of HKM
 
 ## Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns
 Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said. The company has started taking in
@@ -129,11 +129,14 @@ Global ultra-rich families worry more about wealth succession than political unc
 ## Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers
 Hong Kong is opening its arms to more sovereign debt issuers, as this week’s Apec Finance Ministerial Meeting (FMM) provides a good opportunity to demonstrate the depth and advantages of the city’s financial markets. Its signature dim sum bond market could leverage low fundraising costs relative to 
 
-## Money manager eyes Asia-Pacific property for growth, but tells investors to keep bet on US
-US-based money manager Principal Asset Management says it is poised to become more active in Asia-Pacific property markets, believing investors have been “underweight” in the region’s office property segment. Richard Hill, its senior managing director and head of global real estate research and stra
+## Data Centers in the Crosshairs
+Why digital connectivity has become the new front in modern warfare.
 
-## China plans 18 active ETFs as regulator seeks to shore up stock market
-The China Securities Regulatory Commission (CSRC) has approved 18 actively managed exchange-traded funds (ETFs), which could channel tens of billions of yuan into the A-share market, as it seeks to strengthen investor confidence and market resilience. Speaking on Monday in Beijing at the opening cer
+## Myths of Battlefield Triumph Are Destroying the U.S. Military
+Bad strategy long predates Pete Hegseth and his obsession with “lethality.”
+
+## The Conciliator
+Why a retiring Jeanne Shaheen thinks bipartisanship still has a future in America.
 
 ## France Orders Curfews Amid Widespread Rioting
 More than half a million people joined anti-government protests over the weekend.
@@ -150,14 +153,11 @@ France and Germany are increasingly willing to flex market share for geopolitica
 ## Trump Can Push Past Israeli-Palestinian Paralysis
 Practical steps, U.S. pressure, and greater Arab involvement are needed to overcome trauma and despair.
 
-## China Is a Peer Competitor in a Dangerous Space Race
-Washington needs to take the realities of Chinese advances seriously.
+## Philippine Senator Files Resolution Seeking Chinese Ambassador’s Expulsion
+Jing Quan prompted controversy last week when he told reporters that China could "easily win" a war against the Philippines.
 
-## The Iran War Has Changed the World Forever
-Some dramatic long-term consequences are just beginning to come into view.
-
-## How Congress Fixed Social Security During Its Last Crisis
-In 1983, the realization the program could implode propelled last-ditch compromises.
+## Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi
+The photos reportedly show the 81-year-old receiving two books and a sealed diplomatic package from Britain's King Charles III.
 
 ## Unpacking Indonesia With Marcus Tantau
 The country is currently beset by wildfires, political ructions, and intensifying economic troubles.
@@ -176,12 +176,6 @@ Activists of the Hindu Raksha Dal, an outfit that furthers the Sangh Parivar’s
 
 ## Amid Economic Challenges, China Turns to Vulnerable Workforce to Fix Its Social Security Problems
 China is looking to “optimize and enhance” its social security program. People fear that will translate to pressure on gig economy workers and rural migrant workers.
-
-## What the New China-North Korea Bridge Really Means
-12 years after construction finished, the New Yalu River Bridge is finally open. Will North Korea's economy open too?
-
-## A Warm Welcome for US Secretary of State in Central Asia
-Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
 
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UEFA demands FIFA release key documents on World Cup sell-off plan
-In a letter outlining 42 questions, UEFA gives FIFA until November 2 to release documents on Infantino’s aborted plans.
+## Indonesians protest over land-clearing fires
+Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.
 
-## France protests are ‘outburst of resentment’ against Macron
-French student union spokesperson Alice Cohen-Morzadec says the protests reflect growing anger over Macron's policies.
+## US envoy Barrack defends decision to join Israel in war on Iran
+US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.
 
-## Morocco’s not-so-new government faces new challenges
-The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.
+## More than 250,000 displaced in Yemen since fighting escalated: UNHCR
+UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
 
-## Alberta voters reject separation from Canada, early results show
-With more than one million votes counted, about 77 percent supported remaining in Canada.
+## Israeli attacks kill at least four Palestinians in Gaza
+A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.
 
-## US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms
-Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.
+## ‘Every day could cost lives’: UK government blocks Gaza families’ reunion
+Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.
 
-## Palestine weekly: Israeli settlers attack journalist and diplomats
-Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.
+## ‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go
+From the ‘Flamingo Revolution’ to current protests, an inside look at a leaderless youth uprising challenging Edi Rama.
 
-## Egypt’s Hassan and Zico suspended over FIFA World Cup refereeing criticism
-FIFA punishes Egypt's head coach, forward and team manager for their comments after their World Cup loss to Argentina.
+## Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest
+Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.
 
-## Southeast Asia’s haze crisis will persist until polluters pay
-Cheap land clearing imposes costs across borders. ASEAN must change the incentives that keep the fires burning.
+## Iran denies collapse is close as US claims IRGC running out of money
+Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
