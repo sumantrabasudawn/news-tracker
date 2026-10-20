@@ -1,64 +1,79 @@
 # AION Intelligence
 
+## UK police rearrest two men on suspicion of helping Iranian intelligence
+Pair held as officers continue to probe September incident at RAF Fairford, which was hosting US bombers conducting strikes on Iran
+
+## Who are the Black Bloc?
+French government says agitators from the far left helped transform peaceful protests into riots
+
+## France extends curfews in some cities as restrictions quell unrest
+Italy also expected to approve new security measures to combat violent rioters
+
+## Trump pledges to spend $400mn on Republican Party campaigns
+US president’s announcement comes as candidates struggle with poor polls in race for control of Congress
+
+## Merz warns over Berlin plans to seize landlords’ property
+Chancellor calls for regional government not to ‘experiment’ with market economy as investors attend summit
+
+## Britain’s budget should build on its economic resilience
+Burnham and Healey must look beyond industrial nostalgia to the UK’s modern strengths
+
+## Gilt market catches up with peers as investor worries over Budget ease
+UK bonds were initially hard hit after onset of Iran war but have since outperformed as traders’ concerns shift to France
+
+## UK jobs market stabilises before Budget
+Figures suggest recent upswing in economy is starting to underpin employment
+
+## Britain’s grid operator underestimated demand for air con during heatwave
+Neso is under scrutiny after the system’s frequency fell below operational limits on one day in June
+
+## US pending home sales fall to record low as mortgage rates surge
+Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown
+
+## Sullivan & Cromwell to double London office space as US firms shake up UK legal market
+American corporate law firms emerge as among most prestigious institutions in Square Mile
+
+## NatWest tells 30,000 staff to spend more time in office
+UK bank tightens attendance rules for ‘remote-first’ and ‘hybrid’ staff who mostly work from home
+
 ## Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
 Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business
-
-## For 14 Americans, will divisions under Trump change their vote?
-Also in today’s newsletter, the war in Iran is tilting global oil power towards the Americas
 
 ## Flutter to cut more than 1,000 jobs after UK gambling tax raid
 Group behind Paddy Power blames move to axe about 15% of its UK and Irish workforce on higher taxes levied against industry
 
-## Gilt market catches up with peers as investor worries over Budget ease
-UK bonds were initially hard hit after onset of Iran war but have since outperformed G7 economies as traders’ concerns shift to France
-
-## Is CoreWeave the Silicon Valley Bank of 2026?
-Perhaps, but not in the way you might think
-
-## Insurers face losses as riots in France become ‘like natural catastrophes’
-Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest
-
-## How the Hormuz crisis could trigger a global ‘food shock’
-Report issues stark warning over the combined impact of geopolitical conflicts and one of the strongest ever El Niño events
-
-## ‘Protect the NHS’ slogan hurt care home residents in pandemic, inquiry finds
-Adult social care sector was ‘afterthought’ in initial weeks of Covid-19 outbreak, says Baroness Heather Hallett
-
 ## Why globetrotting retail banks are back in fashion
 The fear is that it’s those who stay at home, rather than those who venture abroad, who will end up lifelong losers
 
-## UK banks hit by Google Cloud outage
-Halifax and Revolut among a string of businesses affected by disruption
+## Heat storms now engulf 85% of the planet as extreme heat reshapes global weather
+A Reuters analysis reveals how expanding heat storms are connecting disasters worldwide, intensifying extreme temperatures and threatening lives, livelihoods and ecosystems.
 
-## Do not worry too much about European gas prices
-Wholesale values have hit new highs this year but the pain should be transitory
+## Marco Rubio hears firsthand account of 26/11 attacks from Taj Hotel security chief
+During his Mumbai visit, the US Secretary of State honoured the victims and discussed expanding bilateral cooperation with External Affairs Minister S Jaishankar.
 
-## More air connections between Chennai and Bangkok
-Enhanced frequency lets travellers explore Bangkok’s popular attractions more
+## India-US trade deal ‘incredibly close’, finalisation expected in weeks: Marco Rubio
+US Secretary of State Marco Rubio says both countries are working through final technical details before announcing an agreement on bilateral trade.
 
-## Mutual funds raise stake in KRN Heat Exchanger; Union MF enters with five schemes
-The number of mutual fund schemes holding the company’s shares rose to 30 in the September quarter from 26 in June
-
-## Fresh market borrowings for the govt getting pricier amid a tightening cycle
-The outstanding size of the existing 6.94 GS 2036 has already reached ₹2.38 lakh crore and it is likely the Ggovernment may issue a new 10-year G-Sec soonK Ram Kumar
-
-## Connectivity must respect sovereignty, territorial integrity: Rajnath Singh
-He was speaking at the 25th meeting of the Council of Heads of Government of SCO in Dushanbe, Tajikistan
+## Rubio defends Russia oil waiver, calls Iran’s shipping attacks ‘Nazi U-boat tactics’
+Rubio stresses US-Pakistan ties amid global tensions.
 
 ## Inflows in gold ETFs continue to be net positive for the 13th week in a row
 Investors find the current level attractive as the yellow metal hovers below $4,200 an ounce with $4,000 as the floor
 
-## Pay disparity: Why young MBBS doctors are protesting in Lucknow
-The agitation began after doctors approached the Directorate General of Medical Education (DGME) and the Directorate General of Health Services (DGHS) seeking an explanation for the disparity
+## Indian govt’s price correction of ethanol from maize may help balance distortion
+Grain-based distilleries upset with Rs3/litre cut in purchase price, but sugar sector welcomes the decision
 
-## Gem, jewellery exporters heave a sigh of relief as the US puts off punitive tax
-Exporters eye Christmas orders as gold price declines, supporting festive demand and buying
+## Assets of AIFs grow to ₹7.59 lakh crore as of June 30
+Domestic investors remained the largest source of funding, whereas foreign portfolio investors (FPIs) reduced their cumulative AIF holdings by 41.7 per cent
 
-## Expanding air passenger traffic brings into focus the growing demands on professionals managing the skies: Minister
-As India prepares for a five-fold increase in air passenger traffic by 2047, the spotlight is on the thousands of air traffic controllers who keep the skies safe, making split-second decisions and coordinating thousands of aircraft movements every day
+## Govt not to regulate airfares; caps only in exceptional cases
+Operating-cost disclosures to aid assessment; airlines to retain pricing freedom without prior government approval
 
 ## Women are earning, but who controls their money? India's financial literacy divide
 In India, numerous women face challenges in making financial decisions due to insufficient access to essential financial knowledge and limited participation. Although more women are starting to utilize financial services, many still lack involvement in crucial financial decisions. This insecurity is
+
+## Wall Street climbs as healthcare stocks hit record, oil prices ease
+Wall Street's primary indices saw an uptick, primarily driven by healthcare stocks reaching all-time highs amid falling oil prices. Investors are scrutinizing corporate earnings, with increasing worries about artificial intelligence expenditure impacting market stability. Significant advances from c
 
 ## Trump’s 60-day tariff waiver on Russian oil: India dodges duties for now, but is relief credible?
 For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid Middle East tensions. If it continued to buy Russian crude, then the 100% tariffs woul
@@ -78,32 +93,29 @@ The India-New Zealand Free Trade Agreement is now officially active, opening up 
 ## Big milestone: Apple India revenue tops Rs 1 lakh crore; profit jumps 66% to Rs 5,311 crore
 Apple India Pvt Ltd reported revenue from operations of Rs 1,03,853 crore for the year ended March 2026, which is a 31% increase from Rs 79,060 crore in FY25. The increase in profitability outpaced revenue growth. Apple's India net profit climbed 66% to Rs 5,311 crore in FY26, compared with Rs 3,196
 
-## Nepal bans Priyagold biscuit after FSSAI finds serious hygiene deficiencies
-In a significant move, Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This action follows alarming food safety concerns raised by the Food Safety and Standards Authority of India, which revealed serious hygiene iss
+## Punjab activist Jhota's kin refuse to cremate him; Amit Shah vows ‘drug-free’ state after meeting family
+Anti-drug activist Parvinder Singh was shot dead inside a medical shop on October 13. His family reused to cremate his body till a CBI inquiry was ordered.
 
-## ‘Unpaid dues can’t be classified as savings': DMK leader lashes out at Vijay's TVK govt over debt claims
-DMK leader Thangam Thennarasu alleged that contractor payments are being withheld to falsely project a reduced debt burden as a financial achievement.
+## Tiger Shroff shooting case: Mumbai Police arrest four more accused
+Tiger Shroff shooting case: Mumbai Police arrest four more accused
 
-## PM Modi attends Delhi Dussehra celebration, calls Ramlila the 'end of tyranny, terror'
-PM Modi hailed Dussehra as a “testament to the belief” in the triumph of eternal truth over falsehood.
+## Uddhav Thackeray questions Tiger Shroff attack response, challenges Fadnavis to confront Bishnoi gang's leader
+Targeting Fadnvis-led government, Thackeray said, “An attack took place on Tiger Shroff the other day. Did you rush to meet him immediately to gain publicity?”
 
-## HT Evening News Brief October 20: US secretary of state Marco Rubio in India, CJP leaders move Delhi HC and more
-Grab your tea as we bring you up to speed on today's top stories from India, the world, entertainment, and sports.
+## ‘Spend time with your families, remember Ashu, Saurav’: Abhijeet Dipke's emotional message to supporters ahead of festive season
+Abhijeet Dipke said that the consequences of the protests were also faced by their families of supporters and requested everyone to spend time with them.
 
-## Rubio hails ‘great’ meeting with Jaishankar, UAE foreign minister on regional energy security
-US secretary of state Marco Rubio is arrived in Mumbai on Tuesday for a three-day visit to India.
+## Lucknow murder: Shiva Sharma's mother welcomes Shraddha Dubey's arrest, claims 'videos of harassment' exist
+The arrests coincided with Vijayadashami, she said, expressing confidence that the case would proceed according to the due process of law.
 
-## 'Very close, some items left': Marco Rubio optimistic about India-US trade deal
-Talking about a possible trade agreement between India and the US, Marco Rubio said that he hopes there is a good news to announce soon.
+## Rubio urges India to boost US energy, defence purchases in talks with Jaishankar
+Rubio noted that Indian companies can play a role in refining Venezuelan heavy crude as more of it enters the world market.
 
-## CJP's Saurav Das, Ashutosh Ranka move Delhi HC against 2-day extension of judicial custody
-CJP leaders Saurav Das, Ashutosh Ranka moved the Delhi High Court against 2-day extension of judicial custody.
+## AAP claims Punjab CM Bhagwant Mann stopped at airport for 3 hrs: 'Centre's arrogance must end'
+Speaking about the incident, Bharadwaj, in a post on X, said, "Mann Saab stopped at Indian Airport for around 3 hours."
 
-## Rubio backs 'India's need to diversify' energy sources, says US can help meet needs amid Russian oil debate
-The ministry of external affairs (MEA) on Tuesday extended a warm welcome to US Secretary of State Marco Rubio upon his arrival in Mumbai.
-
-## 31 sewer, septic tank deaths reported so far in 2026; compensation paid in 9 cases: NCSK
-31 sewer, septic tank deaths reported so far in 2026; compensation paid in 9 cases: NCSK
+## Marco Rubio briefed on 26/11 attacks by Taj security chief who was present during 2008 attacks
+Kudyadi was present at the hotel when the attacks took place in November 2008 and briefed Rubio on the events surrounding the terror strike.
 
 ## Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow
 Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electric vehicle battery maker posted a 
@@ -129,6 +141,12 @@ Global ultra-rich families worry more about wealth succession than political unc
 ## Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers
 Hong Kong is opening its arms to more sovereign debt issuers, as this week’s Apec Finance Ministerial Meeting (FMM) provides a good opportunity to demonstrate the depth and advantages of the city’s financial markets. Its signature dim sum bond market could leverage low fundraising costs relative to 
 
+## How Ukraine Is Navigating Trump’s Latest U-Turn
+Zelensky joins Oslo talks as a worrying winter looms for Kyiv.
+
+## What if No One Wins the Israeli Election?
+Netanyahu’s opponents are ahead but will struggle to form a coalition.
+
 ## Data Centers in the Crosshairs
 Why digital connectivity has become the new front in modern warfare.
 
@@ -147,35 +165,29 @@ The real action starts after polls close and the coalition wrangling begins.
 ## Why Is France Perpetually Rioting?
 Protest and radicalization are the answer to an authoritarian, centralized state.
 
-## Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
-France and Germany are increasingly willing to flex market share for geopolitical leverage. But they still need reforms to maintain it.
+## Weapons to Russia, Wigs to China: How North Korea Balances Its Allies
+A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.
 
-## Trump Can Push Past Israeli-Palestinian Paralysis
-Practical steps, U.S. pressure, and greater Arab involvement are needed to overcome trauma and despair.
+## Bougainville Needs a Credible Timetable for PNG’s Independence Vote. Australia Can Help.
+Canberra should stay out of what Port Moresby decides on Bougainville, but it can push for a concrete timeline for the decision.
 
-## Philippine Senator Files Resolution Seeking Chinese Ambassador’s Expulsion
-Jing Quan prompted controversy last week when he told reporters that China could "easily win" a war against the Philippines.
+## Taiwan’s Tech Diplomacy Has a Labor Problem
+Migrant worker recruitment debt threatens the island’s access to Western markets and its ties with Southeast Asia.
 
-## Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi
-The photos reportedly show the 81-year-old receiving two books and a sealed diplomatic package from Britain's King Charles III.
+## North Korea Wants Security Talks With the US, Not Nuclear Talks
+For decades, Washington tried to change Pyongyang’s nuclear policy. Now North Korea is trying to do the reverse: use its nuclear weapons to change U.S. policy.
 
-## Unpacking Indonesia With Marcus Tantau
-The country is currently beset by wildfires, political ructions, and intensifying economic troubles.
+## Japan Has Considered Nuclear-Powered Submarines Since 1958. Why Has It Never Built One?
+From a 1958 design study to reported approaches to the U.S. Navy, Japan has repeatedly examined nuclear-powered submarines without making an acquisition decision.
 
-## Professor S.I. Keethaponcalan on Two Years of the AKD Presidency in Sri Lanka
-“The NPP government made a sensible decision to accept and continue most of the economic policies and programs Ranil Wickremesinghe introduced.”
+## Trial by Social Media? The Boundaries of Feminist Teaching in China
+A law school professor was dismissed after online controversy over her course on women’s rights.
 
-## How the Fossil Fuel Industry ‘Captured’ Australia and Maintains Its Political Dominance
-By framing coal and gas as essential to jobs, prosperity and national identity, the industry continues to resist the transition to renewable energy.
+## Expanding the Military Footprint: China’s New Air Base in Laos
+Establishment of the Laotian base follows a pattern in China’s growing external military presence and access.
 
-## Behind the Veil of Religious Harmony in Cambodia
-Aggregate rankings mistake the absence of overt conflict and the fear of speaking up for genuine tolerance.
-
-## Hindutva Goons Unleash Violence on Anti-Modi Protesters
-Activists of the Hindu Raksha Dal, an outfit that furthers the Sangh Parivar’s agenda, were caught on camera beating students and youth participating in the Delhi protests.
-
-## Amid Economic Challenges, China Turns to Vulnerable Workforce to Fix Its Social Security Problems
-China is looking to “optimize and enhance” its social security program. People fear that will translate to pressure on gig economy workers and rural migrant workers.
+## The Proliferation of Illicit Drones in Southeast Asia
+The past two years have seen the growing use of off-the-shelf commercial drones for criminal and militant activities.
 
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
@@ -225,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Indonesians protest over land-clearing fires
-Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.
+## CDC reports third measles death in the United States this year
+The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.
 
-## US envoy Barrack defends decision to join Israel in war on Iran
-US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.
+## Kenya confirms ninth Ebola case amid concerns about regional spread
+A 24-year-old man, who was already being held in quarantine, is the latest to test positive.
 
-## More than 250,000 displaced in Yemen since fighting escalated: UNHCR
-UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
+## As Macron visits Gulf, can France forge its own energy-for-security future?
+President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
 
-## Israeli attacks kill at least four Palestinians in Gaza
-A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.
+## How does language affect how we think?
+Does language shape the way we think?
 
-## ‘Every day could cost lives’: UK government blocks Gaza families’ reunion
-Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.
+## JERUSALEM DAILY: Half a million Palestinians lose food aid
+Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people
 
-## ‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go
-From the ‘Flamingo Revolution’ to current protests, an inside look at a leaderless youth uprising challenging Edi Rama.
+## Ben-Gvir mocks Gaza destruction in AI-generated video
+Israeli National Security Minister Itamar Ben-Gvir has posted an AI-generated video mocking the devastation in Gaza.
 
-## Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest
-Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.
+## Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia
+Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.
 
-## Iran denies collapse is close as US claims IRGC running out of money
-Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.
+## Macron lines up more Gulf diesel as France battles soaring fuel prices
+The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
