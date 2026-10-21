@@ -1,115 +1,130 @@
 # AION Intelligence
 
-## Lula fast-tracks Brazil welfare payments days before run-off vote
-Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot
+## FirstFT: SpaceX and Tesla explore merger
+Also in today’s newsletter: Iran war and UK visas for wealthy
 
-## UK to approve development of Jackdaw gasfield in North Sea
-Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen
+## Milan riots test Meloni’s law and order credentials
+Italian PM dispatches 500 soldiers to financial capital after youth turn violent and loot stores
 
-## SpaceX and Tesla boards explore potential merger
-Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity
+## UK’s top banking regulator to set targets with five-year strategy
+Katharine Braddick will outline plans to make the BoE’s Prudential Regulation Authority more accountable and transparent
 
-## Finnish president hails progress in talks about ending Russia’s war in Ukraine
-Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy
+## Netflix’s $300bn problem: lack of hits piles pressure on streaming giant
+Co-chief Ted Sarandos faces questions over content strategy as slowing viewer engagement threatens growth
 
-## Joel Kaplan to step down as Meta global affairs chief
-Republican political operative is a key adviser to CEO Mark Zuckerberg
+## Climate plans found to lower companies’ borrowing costs
+ITPN research finds debt interest rates for companies that publish full climate transition plans are 0.8 percentage points less than for those that do not
 
-## Can the Democrats win the Senate?
-The races, the money and the issues that will determine the final half of Trump’s second term
+## Andy Burnham cools on new towns project
+UK prime minister wants mayors to take responsibility for major housebuilding projects as part of his devolution push
 
-## Boeing wins approval for Max 10 jet in boost for turnaround efforts
-Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft
+## Stratford moves closer to international rail upgrade with Budget boost
+London mayor Sadiq Khan has been in talks over funding options for improving rail hub
 
-## Netflix gives downbeat outlook as streaming hits dry up
-Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint
+## The people shaping the Budget
+Healey’s statement will be moulded by a very small team of advisers working in conditions of tight secrecy
 
-## Pensions invest £11bn in UK private markets despite challenges
-Most of the money has been invested in UK real estate
+## Who’s merging with Weil?
+Everyone in Big Law would like to know
 
-## Submit a question: Could Anthropic’s IPO be a turning point for AI?
-Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
+## To replace Starlink, Europe will have to reawaken its animal spirits
+Even splurging on homegrown options won’t, by itself, solve the problem in a reasonable length of time
 
-## UK bets on a boring budget
-Priority number one: Don’t spook the bond market
+## Can protein craze bulk up retailer THG’s withered share price?
+Consumer brands company has been a controversial pick since its London float six years ago
 
-## Heat storms now engulf 85% of the planet as extreme heat reshapes global weather
-A Reuters analysis reveals how expanding heat storms are connecting disasters worldwide, intensifying extreme temperatures and threatening lives, livelihoods and ecosystems.
+## Castore courts Chinese buyers as sportswear brand’s backers seek exit
+UK brand backed by Sir Andy Murray and Sir Jim Ratcliffe holds sale talks with Anta, Li Ning and US footwear brands
 
-## Marco Rubio hears firsthand account of 26/11 attacks from Taj Hotel security chief
-During his Mumbai visit, the US Secretary of State honoured the victims and discussed expanding bilateral cooperation with External Affairs Minister S Jaishankar.
+## Netflix reports largest ever subscriber net adds in India in Q3
+View hours in India grew 24% annually, while view hours per member grew low-to-mid single digits in Q2; revenue for the country also increased 18% y-o-y on a foreign exchange, content slate basis
 
-## India-US trade deal ‘incredibly close’, finalisation expected in weeks: Marco Rubio
-US Secretary of State Marco Rubio says both countries are working through final technical details before announcing an agreement on bilateral trade.
+## Sensex today | Stock Market Live: Sensex, Nifty pare early gains; IT stocks rally, L&T Technology Services jumps 10.5%
+Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks traded higher on Wednesday but pared early gains, supported by a rally in IT stocks. The Nifty hovered near 23,000, while L&T Technology Services surged 10.5 per cent after reporting September-quarter revenue and profit growth.
 
-## Rubio defends Russia oil waiver, calls Iran’s shipping attacks ‘Nazi U-boat tactics’
-Rubio stresses US-Pakistan ties amid global tensions.
+## Kalpataru Projects International bags orders worth ₹2,349 cr
+The company said it has secured EPC orders in transmission and distribution (T&D) and buildings and factories (B&F) segments in the domestic market.
 
-## Inflows in gold ETFs continue to be net positive for the 13th week in a row
-Investors find the current level attractive as the yellow metal hovers below $4,200 an ounce with $4,000 as the floor
+## IMD update: More rain in store for Tamil Nadu as low-pressure area brews
+India Meteorological Department predicts very heavy showers over Tamil Nadu, Puducherry and Karaikal even as a second ‘low’ could intensify into a major system over the Bay early next week
 
-## Indian govt’s price correction of ethanol from maize may help balance distortion
-Grain-based distilleries upset with Rs3/litre cut in purchase price, but sugar sector welcomes the decision
+## Jio Platforms IPO Day 1 Live Updates: Issue subscribed 0.91 times, QIB portion 2.90 times
+Jio Platforms IPO GMP Day 1 live updates: Jio Platforms IPO Jio Platforms’ ₹30,213-crore IPO opens for subscription on October 21 and closes on October 23.
 
-## Assets of AIFs grow to ₹7.59 lakh crore as of June 30
-Domestic investors remained the largest source of funding, whereas foreign portfolio investors (FPIs) reduced their cumulative AIF holdings by 41.7 per cent
+## Rubio kicks off India visit with trade deal, Russian oil on agenda
+US Secretary of State to meet EAM Jaishankar, Reliance Industries Chair Mukesh Ambani on his two-day visit to Mumbai, Jamnagar
 
-## Govt not to regulate airfares; caps only in exceptional cases
-Operating-cost disclosures to aid assessment; airlines to retain pricing freedom without prior government approval
+## Q2 Results Today Live: Eternal, Adani Green, Indian Hotels, SRF, KEI Industries shares fall; PC Jeweller gains ahead of earnings
+Q2 Results Today, 21th October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earnings, revenue and profit, updates on Aditya Birla Sun Life AMC, Adani Green Energy, Aye Finance, Eternal, PC Jewellers, KEI Industries, Mahindra & Mahindra Financ
 
-## Musk says SpaceX-Tesla merger a 'good idea', special committees formed for talks
-SpaceX shares rose 4.9% in extended trading following the remarks. Speculation about a potential deal has grown in recent weeks, with Barclays suggesting last week that an announcement could come before Tesla's annual meeting in December. Musk has previously floated the idea, pointing to increasing 
+## MCX Copper: Key support coming up
+The price action around ₹1,376 will need a close watch
 
-## Asean emerges as fastest growing region for exports
-Latest data available with the commerce department showed that India’s exports to Asean went up 56% during the first five months of the fiscal year as oil product shipments soared 2.4 times to over $6.1 billion, with Singapore accounting for almost threefourths of it. What also helped was a 20-fold 
+## Taxman caps PSU bank retiree’s leave exemption at Rs 3 lakh; but ITAT grants relief of Rs 9.29 lakh
+Under income tax law, SBI staff are treated as non-government employees and, therefore, can claim leave encashment exemption subject to the applicable limit. A retired SBI employee from Jaipur, was unaware of this distinction. When he retired in 2020 he received Rs 9.29 lakh as leave encashment and 
 
-## Hacker group claims access to 3.8 lakh SBI data entries
-The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The
+## AI boom set to push Big Tech investment beyond $1 trillion in 2027, says UBS
+By 2027, big tech companies are projected to invest more than $1 trillion in AI infrastructure, fueled by soaring demand. This surge in investment is anticipated to enhance the US economy, potentially adding about 0.75 percentage points to GDP growth. Still, firms are grappling with mounting cash fl
 
-## Review of 2019 mineral policy on cards amid new priorities
-The National Mineral Policy, 2019, was approved by the Union cabinet chaired by Prime Minister Narendra Modi. It was aimed at ensuring more effective regulation and sustainable development of the mining sector, and addressing the concerns of project-affected persons, particularly those living in tri
+## Rupee gains 29 paise against dollar in early trade, but crude prices limit gains
+On Wednesday, the Rupee saw an impressive rise of nearly 0.5% against the US Dollar, marking its highest point in six weeks. This boost was fueled by strong foreign currency inflows from the Jio IPO and positive movements in the equity markets. Nonetheless, high crude oil prices presented challenges
 
-## PE-VC investments shine, may exceed $39 billion this year
-Data sourced by TOI from research firm Venture Intelligence shows that investments to the tune of $39 billion, comprising 1,434 deals, were recorded in CY2025. With 1,076 deals, it has already reached $32.7 billion during the nine-month period (Jan-Sept, 2026). It was primarily driven by record PEVC
+## Jio IPO: QIB portion fully subscribed within minutes; stock to list on October 28
+Jio Platforms IPO is open for subscription from October 21 to October 23. The company, which houses the telecom and digital businesses of the Mukesh Ambani-led group, plans to issue around 27 crore shares at a price band of Rs 1,065 to Rs 1,119 per share. The offering is expected to raise approximat
 
-## Smartphone shipments slip, Chinese brands lose ground
-Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its position. Xiaomi’s traditional appeal of offering more features for the money also came u
+## Stock market today: Sensex trades 400 points higher, Nifty50 inches above 23,100
 
-## Hotel tariffs in Delhi, Mumbai top Rishikesh, Ranthambore
-Leading hospitality consulting firm Hotelivate’s recently released trends & opportunities report for 2026 shows average revenue per available room (RevPAR) for Delhi at Rs 9,811; Mumbai Rs 9,761; Ranthambore Rs 9,649 and Rishikesh Rs 9,583 in FY 2025-26. In the previous fiscal, the top four position
 
-## Classrooms to customers: What student founders need
-Colleges also need to let students learn across disciplines, she added. For technical businesses, support can be tangible. IIT Jammu gave MachFly Aerospace labs, resources and early financial support to build its first prototype, Bajpai said. Incubators also give young companies access to equipment 
+## Which are the top stocks to buy or sell on October 21, 2026?
+Stock market recommendations: Premier Energies, Jio Financial Services, and ICICI Life Insurance have been identified as top stocks to sell today by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan for October 21, 2026. He sees ABB as a buy call.
 
-## Students gather at Delhi's Model Town park to burn 20-feet tall ‘Gyanesh Kumar effigy’, detained
-Police said the students were occupying space in a park, burning an effigy and protesting after which they were briefly detained.
+## Jio IPO opens for subscription: Top 10 things to know about India's largest IPO
+Jio Platforms IPO: The company has fixed the price band at Rs 1,065 to Rs 1,119 per share. Based on the offer documents, the IPO values the company at around $108 billion. Investors will be able to apply for Jio Platforms shares in lots of 12, or in multiples of 12 shares.
 
-## Punjab activist Jhota's kin refuse to cremate him; Amit Shah vows ‘drug-free’ state after meeting family
-Anti-drug activist Parvinder Singh was shot dead inside a medical shop on October 13. His family reused to cremate his body till a CBI inquiry was ordered.
+## India-US ‘pretty close’ to signing a ‘different kind of deal,’ says Trump
+After prolonged negotiations, India and the United States are on the verge of solidifying a crucial trade agreement. US Secretary of State Marco Rubio noted the strategic alignment between the two countries during his visit to India. With a shared sense of optimism, both parties are excited about th
 
-## Tiger Shroff shooting case: Four more arrested for supplying weapons to assailants
-The four accused were arrested by the Special Cell of Delhi Police following which they were handed to the Mumbai Police's CID.
+## Police uniform must symbolise public trust, safety, sacrifice: Nagaland ADGP
+Police uniform must symbolise public trust, safety, sacrifice: Nagaland ADGP
 
-## Uddhav Thackeray questions Tiger Shroff attack response, challenges Fadnavis to confront Bishnoi gang's leader
-Targeting Fadnvis-led government, Thackeray said, “An attack took place on Tiger Shroff the other day. Did you rush to meet him immediately to gain publicity?”
+## Delhi govt's winter pollution action plan to be enforced from November 1; WFH, no PUC-no fuel rules and more | Full list of measures
+The government has also announced several measures to discourage private vehicle use and reduce pollution
 
-## ‘Spend time with your families, remember Ashu, Saurav’: Abhijeet Dipke's emotional message to supporters ahead of festive season
-Abhijeet Dipke said that the consequences of the protests were also faced by their families of supporters and requested everyone to spend time with them.
+## From Punjab campus to Jodhpur prison: How Lawrence Bishnoi's path led him to Salman Khan
+Until 2013-14, the Punjab-based gangster’s network was confined to student politics, campus violence and extortion in the state.
 
-## Lucknow murder: Shiva Sharma's mother welcomes Shraddha Dubey's arrest, claims 'videos of harassment' exist
-The arrests coincided with Vijayadashami, she said, expressing confidence that the case would proceed according to the due process of law.
+## India slams UN over ‘selective targeting’ after experts flag crackdown on protests
+More than 20 UN human rights experts in Geneva expressed alarm over what they described as a "repeatedly heavy-handed police response" to peaceful protests.
 
-## Rubio urges India to boost US energy, defence purchases in talks with Jaishankar
-Rubio noted that Indian companies can play a role in refining Venezuelan heavy crude as more of it enters the world market.
+## Andhra CM Naidu calls for technology-driven policing to prevent crimes
+Andhra CM Naidu calls for technology-driven policing to prevent crimes
 
-## AAP claims Punjab CM Bhagwant Mann stopped at airport for 3 hrs: 'Centre's arrogance must end'
-Speaking about the incident, Bharadwaj, in a post on X, said, "Mann Saab stopped at Indian Airport for around 3 hours."
+## HC order to file FIR passed without hearing me: Pinarayi Vijayan tells SC
+Pinarayi Vijayan’s petition is scheduled to be heard on Wednesday by a vacation bench of justices Joymalya Bagchi and V Mohana
+
+## Schools in Chennai, four other Tamil Nadu districts declare holiday amid heavy rainfall
+Rains continued to lash parts of the state through Tuesday night and continued on Wednesday morning, with parts of Chennai witnessing waterlogging.
+
+## Women manufacturing employment decline followed by maternity leave amendment: Study
+The researchers recommended shifting maternity leave financing from individual employers to social insurance
+
+## DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool
+Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between open-source and closed-source AI as a battle between “light and darkness”. The 
+
+## Surveyors say presales at Pak Shing Kok residential project could begin in 2028
+New World Development and China Merchants Land broke ground recently on a joint residential project in Pak Shing Kok, Tseung Kwan O, with presales expected to begin as early as 2028, when surveyors say pricing pressure may have eased. James KT Cheung, executive director of the valuation department a
+
+## Shipping giant Cosco launches new routes to ride out Iran war, climate risks
+China Cosco Shipping Holdings, the country’s largest ocean carrier, has prioritised resilience as it rolls out an emergency response system to cope with rising geopolitical conflicts, infrastructure bottlenecks and climate-related disruptions. The company is launching fresh capacity and new trade ro
+
+## China’s pharma stocks gain favours amid ‘greater’ progress of innovative drugs
+Chinese pharmaceutical companies are ramping up global expansion and the sector, set to sustain rapid growth with the upcoming third-quarter earnings releases, could see a further lift in market sentiment, analysts said. In the first three quarters, domestic innovative drugs accounted for 80 per cen
 
 ## Commercial lenders shouldering heavier AI burden than central banks: ICBC president
 As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition than their central banking counterparts, the head of the world’s largest lender by assets said. Industrial and Commercial Bank of China president Liu Jun said that while central bank
 
-## Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow
-Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electric vehicle battery maker posted a 
+## Battery giant CATL posts surprise profit slowdown, mainland China shares tumble over 10%
+Chinese battery giant Contemporary Amperex Technology Limited (CATL) extended its stock price rout after recording a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electri
 
 ## HKMA to swap jobs of 2 deputy heads as part of succession planning: sources
 The Hong Kong Monetary Authority (HKMA) will reshuffle the roles of two deputy chief executives next month as part of the de facto central bank’s succession planning strategy, two sources with knowledge of the matter told the South China Morning Post. Darryl Chan Wai-man will take over as CEO of HKM
@@ -117,17 +132,11 @@ The Hong Kong Monetary Authority (HKMA) will reshuffle the roles of two deputy c
 ## Suzhou Dongshan’s US$1.8b Hong Kong IPO trails expectations amid US trade risk concerns
 Suzhou Dongshan Precision Manufacturing raised less than expected in its Hong Kong initial public offering (IPO), as investors weighed potential US trade restrictions on its optical modules business amid the city’s cautious appetite for mega listings, analysts said. The company has started taking in
 
-## Chinese carmakers gear up European production to sidestep tariffs, import quota
-Chinese carmakers, facing a European Union import quota targeting their hybrid electric vehicles (EVs), are gearing up for more local production to reinforce their go-global drive. They plan to either splash out billions of yuan to set up their own factories or tap international marques’ idle plants
+## Myanmar’s Shan State Is the World’s Meth Lab
+Are illicit drugs now a bigger business in the Mekong than scam centers?
 
-## China’s tax authority issues final call for wealthy citizens to declare offshore trust gains
-China’s tax authorities have issued a final call for high-net-worth individuals to disclose their overseas trust gains, a move analysts believe will further raise concerns in Hong Kong and other overseas tax havens used by wealthy Chinese. “We remind relevant taxpayers to promptly review their offsh
-
-## Hong Kong ranks second in Asian pension systems, behind Singapore, as ageing tests retirement
-Hong Kong’s retirement system remains one of Asia’s stronger performers this year, ranking second and trailing only Singapore. The two remain clear regional leaders, ahead of Malaysia, mainland China, Taiwan, Japan and South Korea, according to a report. The city retained its B grade, with its score
-
-## Succession? Survey finds 66% of ultra-rich’s young heirs not ready to take over
-Global ultra-rich families worry more about wealth succession than political uncertainty, as most of their next generation are not yet well prepared for the trillions of dollars’ worth of transfer, a survey by Julius Baer showed. The findings came after the Swiss private bank and its partner EY anal
+## What Does Beijing Mean By ‘Strategic Stability’?
+After the Trump summit, China wants managed competition.
 
 ## Zelensky Seeks U.S. Support, but Is Trump Interested?
 The White House appears increasingly focused on bolstering ties with Russia.
@@ -146,12 +155,6 @@ Why digital connectivity has become the new front in modern warfare.
 
 ## Myths of Battlefield Triumph Are Destroying the U.S. Military
 Bad strategy long predates Pete Hegseth and his obsession with “lethality.”
-
-## The Conciliator
-Why a retiring Jeanne Shaheen thinks bipartisanship still has a future in America.
-
-## France Orders Curfews Amid Widespread Rioting
-More than half a million people joined anti-government protests over the weekend.
 
 ## Weapons to Russia, Wigs to China: How North Korea Balances Its Allies
 A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why former FDLR fighters are returning to Rwanda
-From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.
+## Which countries and players have won the most Ballon d’Or awards?
+Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five.
 
-## One year on: Has Kenya’s opposition lost its way without Raila Odinga?
-Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.
+## Far from fringe: How Israel’s mainstream parties vote with the far right
+Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.
 
-## King Charles welcomes Omani sultan, hails peace efforts in UK state visit
-King Charles III pays tribute to Muscat's 'noble efforts' to help reopen the Strait of Hormuz.
+## Pro-Modi leader burns cockroach effigy to taunt youth protesters
+Pro-Modi leader burns cockroach effigy to taunt youth protesters
 
-## Iran war live: US warns peace deal with Tehran is extremely difficult
-Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.
+## Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff
+Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates.
 
-## Moment plane crashes on a busy highway in the US
-Moment plane crashes on a busy highway in the US
+## Italy approves sweeping security measures in response to protests
+Italy's government approves sending 500 troops to Milan after clashes and protests.
 
-## NATO to send additional patrol planes to Black Sea after drone attacks
-The alliance announces the deployment after a series of deadly drone attacks in the region.
+## Elon Musk says SpaceX and Tesla exploring largest merger in history
+Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.
 
-## The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
-The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.
+## Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says
+The report says nearby pig farms and municipal wastewater are the likely sources of contamination.
 
-## ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
-The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy.
+## Portugal cost-of-living protesters pour back into camps cleared by police
+Police arrested 55 people while clearing protest camps in Lisbon and Porto.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
@@ -273,6 +276,9 @@ The Food Safety and Standards Authority of India (FSSAI) on Saturday said it has
 ## Exporters may be asked to monitor supply chains' indirect emissions
 The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
 
+## On a High-way: India revamps highway EPC rules with rating-based deposits, crash penalties
+The Centre has revised performance security measures for national highway contractors based on their ratings. Contractors rated above 80% will deposit 3% of project value, while lower-rated contractors will deposit 4% or 5%. This initiative aims to incentivize quality in highway construction and imp
+
 ## RBI steps up scrutiny of companies' large foreign investments
 The Reserve Bank of India has implemented stricter scrutiny on large overseas direct investments exceeding $1 billion. This move aims to protect the rupee amid pressures from currency fluctuations and foreign portfolio investor sell-offs.
 
@@ -290,7 +296,4 @@ In response to rising bank demands, the Reserve Bank of India executed a liquidi
 
 ## RBI clarifies interbank trades, ECBs coupons not part of FERR
 Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
-
-## SEBI overhauls CAS framework and derivatives settlement norms
-The Securities and Exchange Board of India (SEBI) announced a comprehensive overhaul of the Closing Auction Session (CAS) framework in the equity cash segment, establishing a structured 10-minute auction window, revising reference price mechanisms, and changing settlement procedures for derivatives 
 
