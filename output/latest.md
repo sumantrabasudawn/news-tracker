@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## SpaceX and Tesla boards are exploring potential merger
+## Lula fast-tracks Brazil welfare payments days before run-off vote
+Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot
+
+## UK to approve development of Jackdaw gasfield in North Sea
+Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen
+
+## SpaceX and Tesla boards explore potential merger
 Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity
 
 ## Finnish president hails progress in talks about ending Russia’s war in Ukraine
@@ -8,12 +14,6 @@ Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald
 
 ## Joel Kaplan to step down as Meta global affairs chief
 Republican political operative is a key adviser to CEO Mark Zuckerberg
-
-## Lula fast-tracks Brazil welfare payments days before run-off vote
-Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot
-
-## UK to approve development of Jackdaw gasfield in North Sea
-Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen
 
 ## Can the Democrats win the Senate?
 The races, the money and the issues that will determine the final half of Trump’s second term
@@ -24,14 +24,14 @@ Long-awaited certification will help US group compete with Airbus as airlines se
 ## Netflix gives downbeat outlook as streaming hits dry up
 Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint
 
+## Pensions invest £11bn in UK private markets despite challenges
+Most of the money has been invested in UK real estate
+
 ## Submit a question: Could Anthropic’s IPO be a turning point for AI?
 Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
 
 ## UK bets on a boring budget
 Priority number one: Don’t spook the bond market
-
-## Carrefour blames French riots as it cuts profit forecast
-Retailer said stores were ransacked during recent disorder, which came days after supermarket fridges were hit by a cyber attack
 
 ## Heat storms now engulf 85% of the planet as extreme heat reshapes global weather
 A Reuters analysis reveals how expanding heat storms are connecting disasters worldwide, intensifying extreme temperatures and threatening lives, livelihoods and ecosystems.
@@ -57,29 +57,29 @@ Domestic investors remained the largest source of funding, whereas foreign portf
 ## Govt not to regulate airfares; caps only in exceptional cases
 Operating-cost disclosures to aid assessment; airlines to retain pricing freedom without prior government approval
 
-## Women are earning, but who controls their money? India's financial literacy divide
-In India, numerous women face challenges in making financial decisions due to insufficient access to essential financial knowledge and limited participation. Although more women are starting to utilize financial services, many still lack involvement in crucial financial decisions. This insecurity is
+## Musk says SpaceX-Tesla merger a 'good idea', special committees formed for talks
+SpaceX shares rose 4.9% in extended trading following the remarks. Speculation about a potential deal has grown in recent weeks, with Barclays suggesting last week that an announcement could come before Tesla's annual meeting in December. Musk has previously floated the idea, pointing to increasing 
 
-## Wall Street climbs as healthcare stocks hit record, oil prices ease
-Wall Street's primary indices saw an uptick, primarily driven by healthcare stocks reaching all-time highs amid falling oil prices. Investors are scrutinizing corporate earnings, with increasing worries about artificial intelligence expenditure impacting market stability. Significant advances from c
+## Asean emerges as fastest growing region for exports
+Latest data available with the commerce department showed that India’s exports to Asean went up 56% during the first five months of the fiscal year as oil product shipments soared 2.4 times to over $6.1 billion, with Singapore accounting for almost threefourths of it. What also helped was a 20-fold 
 
-## Trump’s 60-day tariff waiver on Russian oil: India dodges duties for now, but is relief credible?
-For India, the immediate relief is for its crude supply basket and exporters. If India decided to give up Russian crude oil, its single largest supplier would have gone off the table, with no easy replacement amid Middle East tensions. If it continued to buy Russian crude, then the 100% tariffs woul
+## Hacker group claims access to 3.8 lakh SBI data entries
+The claim was highlighted by cybersecurity monitoring account CyberPulse56 in a post on social media platform X. According to the account, the group purportedly possesses about 3.8 lakh data entries in CSV format and 2,722 pdf documents associated with the country’s largest public sector lender. The
 
-## Hotel cook faces Rs 4 crore tax demand, he alleges PAN misuse; what Delhi High Court ruled
-In 2024, a cook employed at a 5-star hotel in Delhi received an income tax notice demanding nearly Rs 4 crore in tax, along with a penalty for under-reporting income. The notice alleged that the man had made cash sales worth Rs 24.62 crore through a company dealing in packing materials. He immediate
+## Review of 2019 mineral policy on cards amid new priorities
+The National Mineral Policy, 2019, was approved by the Union cabinet chaired by Prime Minister Narendra Modi. It was aimed at ensuring more effective regulation and sustainable development of the mining sector, and addressing the concerns of project-affected persons, particularly those living in tri
 
-## No job, but still 9-to-5: Why China's unemployed are pretending to go to work every day
-A growing number of young adults in China are pretending to go to work, cleverly hiding their unemployment by loitering in busy public spaces. Concerned about family inquiries, these individuals engage in a digital discourse about their plight on social media. The economic climate forces them to jug
+## PE-VC investments shine, may exceed $39 billion this year
+Data sourced by TOI from research firm Venture Intelligence shows that investments to the tune of $39 billion, comprising 1,434 deals, were recorded in CY2025. With 1,076 deals, it has already reached $32.7 billion during the nine-month period (Jan-Sept, 2026). It was primarily driven by record PEVC
 
-## Beyond the Strait: Gulf looks for an escape route from Hormuz
-Gulf nations are exploring the potential of alternative energy pipelines to lessen vulnerabilities linked to the Strait of Hormuz. HSBC estimates there is a robust $1.4 trillion in infrastructure plans within the region. Despite current conflicts, the Gulf remains a promising investment territory, w
+## Smartphone shipments slip, Chinese brands lose ground
+Vivo’s shipments dropped 34% to 6.4 million — the sharpest decline among the top five. Repeated price increases disrupted retailers’ inventory planning, while limited supplies of entry-level phones weakened its position. Xiaomi’s traditional appeal of offering more features for the money also came u
 
-## India-New Zealand FTA kicks in: Zero duty, more opportunities - what's in it for India?
-The India-New Zealand Free Trade Agreement is now officially active, opening up exciting trade avenues for Indian businesses and exporters. With this agreement in place, Indian products gain duty-free access to the New Zealand market, which is especially favorable for sectors such as textiles and ph
+## Hotel tariffs in Delhi, Mumbai top Rishikesh, Ranthambore
+Leading hospitality consulting firm Hotelivate’s recently released trends & opportunities report for 2026 shows average revenue per available room (RevPAR) for Delhi at Rs 9,811; Mumbai Rs 9,761; Ranthambore Rs 9,649 and Rishikesh Rs 9,583 in FY 2025-26. In the previous fiscal, the top four position
 
-## Big milestone: Apple India revenue tops Rs 1 lakh crore; profit jumps 66% to Rs 5,311 crore
-Apple India Pvt Ltd reported revenue from operations of Rs 1,03,853 crore for the year ended March 2026, which is a 31% increase from Rs 79,060 crore in FY25. The increase in profitability outpaced revenue growth. Apple's India net profit climbed 66% to Rs 5,311 crore in FY26, compared with Rs 3,196
+## Classrooms to customers: What student founders need
+Colleges also need to let students learn across disciplines, she added. For technical businesses, support can be tangible. IIT Jammu gave MachFly Aerospace labs, resources and early financial support to build its first prototype, Bajpai said. Incubators also give young companies access to equipment 
 
 ## Students gather at Delhi's Model Town park to burn 20-feet tall ‘Gyanesh Kumar effigy’, detained
 Police said the students were occupying space in a park, burning an effigy and protesting after which they were briefly detained.
@@ -105,6 +105,9 @@ Rubio noted that Indian companies can play a role in refining Venezuelan heavy c
 ## AAP claims Punjab CM Bhagwant Mann stopped at airport for 3 hrs: 'Centre's arrogance must end'
 Speaking about the incident, Bharadwaj, in a post on X, said, "Mann Saab stopped at Indian Airport for around 3 hours."
 
+## Commercial lenders shouldering heavier AI burden than central banks: ICBC president
+As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition than their central banking counterparts, the head of the world’s largest lender by assets said. Industrial and Commercial Bank of China president Liu Jun said that while central bank
+
 ## Chinese battery giant CATL hit by profit slowdown as EV headwind fears grow
 Chinese battery giant Contemporary Amperex Technology Limited (CATL) has recorded a surprise slowdown in third-quarter net profits, as analysts warned the company could be hit by slowing demand from China’s electric car industry next year. The world’s largest electric vehicle battery maker posted a 
 
@@ -125,9 +128,6 @@ Hong Kong’s retirement system remains one of Asia’s stronger performers this
 
 ## Succession? Survey finds 66% of ultra-rich’s young heirs not ready to take over
 Global ultra-rich families worry more about wealth succession than political uncertainty, as most of their next generation are not yet well prepared for the trillions of dollars’ worth of transfer, a survey by Julius Baer showed. The findings came after the Swiss private bank and its partner EY anal
-
-## Hong Kong to cement its role as a yuan bond hub by appealing to more sovereign borrowers
-Hong Kong is opening its arms to more sovereign debt issuers, as this week’s Apec Finance Ministerial Meeting (FMM) provides a good opportunity to demonstrate the depth and advantages of the city’s financial markets. Its signature dim sum bond market could leverage low fundraising costs relative to 
 
 ## Zelensky Seeks U.S. Support, but Is Trump Interested?
 The White House appears increasingly focused on bolstering ties with Russia.
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump commits more than $400m ahead of high-stakes midterm elections
-The president's Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.
+## Why former FDLR fighters are returning to Rwanda
+From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.
 
-## PSG score late to sink Barcelona 4-2 in Champions League blockbuster
-Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.
+## One year on: Has Kenya’s opposition lost its way without Raila Odinga?
+Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.
 
-## US food importer sues Trump over 50 percent tariffs on Canadian goods
-The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.
+## King Charles welcomes Omani sultan, hails peace efforts in UK state visit
+King Charles III pays tribute to Muscat's 'noble efforts' to help reopen the Strait of Hormuz.
 
-## Why do the US midterms matter for Trump and Congress?
-Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.
+## Iran war live: US warns peace deal with Tehran is extremely difficult
+Rubio tells US media that reaching a peace deal with Tehran is extremely difficult while Hormuz attacks continue.
 
-## PSG and Barcelona fans divided over politics in football amid Paris riots
-As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.
+## Moment plane crashes on a busy highway in the US
+Moment plane crashes on a busy highway in the US
 
-## Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’
-Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.
+## NATO to send additional patrol planes to Black Sea after drone attacks
+The alliance announces the deployment after a series of deadly drone attacks in the region.
 
-## Why the war on Iran could backfire on US regime-change goals
-Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.
+## The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
+The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.
 
-## UK police re-arrest two men on suspicion of assisting Iran’s intelligence
-Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year's war.
+## ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
+The US president's remarks come amid a deepening feud with Ukraine's President Volodymyr Zelenskyy.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
