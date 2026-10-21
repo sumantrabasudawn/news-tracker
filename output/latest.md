@@ -3,59 +3,62 @@
 ## Abbott to spin off nutrition unit at centre of baby formula lawsuits
 US healthcare group plans to create standalone public company with $8.5bn in annual sales
 
-## Could Michigan elect America’s first Muslim senator?
-Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections
+## GM aims to leapfrog rivals with new generation of autonomous cars
+Detroit automaker’s chief product officer Sterling Anderson plans to put fully self-driving private autos on the road by 2028
 
-## Fridge hackers exploited ‘basic security flaws’ at French retailers
-Head of France’s cyber security agency said lack of protection and weak passwords helped criminals seize control of systems
+## Tesla’s profits slip on weaker vehicle sales
+Elon Musk’s carmaker reported flat revenue as it considers merger with SpaceX
 
-## France’s borrowing costs hit 5% for first time since 2002
-Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February
+## Meta to create new non-voting share class
+Change would enable the social media group to sell shares to fund AI investment without reducing Mark Zuckerberg’s control
 
-## Reform reports ITV to police over undercover documentary
-Zia Yusuf says tactics behind programme that showed party councillors making sexist and racist comments may have been illegal
+## Trump envoy proposes Ukraine talks and summit with Putin and Xi
+Steve Witkoff discusses resumption of peace dialogue with Russian president followed by US-China-Russia meeting next month
 
-## Who’s paying for the AI build-out? Probably you
-Every big pool of capital, in every corner of the developed world, is funding data centres
+## EU set to delay push for cheaper UK university fees for bloc’s students
+Concession could help the two sides finalise a ‘reset’ deal at a summit next month
 
-## Russia releases US citizen as Trump’s envoy visits
-Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine
+## Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference
+Treasury secretary spoke to financiers at charity event where tickets cost $7,500
 
-## Middle East oil exports climb back to prewar levels
-Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes
+## NSA warns on ‘critical’ cyber vulnerabilities detected using AI
+Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world
+
+## CVC explores bid for Verisure just 1 year after IPO
+Shares in Swedish-listed security group trading 30% below their price at flotation
+
+## What Elon Musk stands to gain from a Tesla-SpaceX merger
+A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today
 
 ## UK approves development of Jackdaw gasfield in North Sea
 Ministers stress that decision on larger Rosebank oilfield was a ‘different proposition’
 
-## Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX
-The world’s richest man attempts his most audacious deal yet. But shareholders and global regulators will need convincing
+## Persistent Systems opens $450 million QIP, sets floor price at ₹5,550 per share
+The IT company has secured board approval for the issue, while the final share price will be determined with its book-running lead managers
 
-## Andy Burnham plans to cut standing charges from household gas bills
-Experts say providers would probably recover loss of daily fixed fee via the unit rate
+## Google rolls out Gemini Personal Intelligence to Android Auto, brings AI to Apple CarPlay
+The updates extend Google’s AI assistant across in-car platforms, with optional access to personal data and navigation-based features for drivers.
 
-## Letters to the Editor dated October 21, 2026
+## FSSAI issues notices to Zydus Wellness, Nestle India
+FSSAI said it has issued notices to Nestle India for “misleading claims and non-compliant promotions” involving two food products ‘Lactogen Pro 1 Powder’ and ‘Nan Excella Pro Stage 1’
 
+## Bangka slow loris rediscovered after nearly a century, with over 90 rescued
+An Indonesian wildlife rescue centre has documented the rare primates across the island, prompting renewed calls to protect their shrinking forest habitats
 
-## IHCL profit grows 23%, company upgrades revenue guidance
-The meetings and events segment and renovated assets in key markets propped up revenue, which was up 21% at ₹2,566 crore on contributions from
+## India Cements Capital receives open offer letter at ₹12 per share
+The open offer will open on October 28 and close on November 11, 2026
 
-## Editorial. Yes, it’s a mess
-SC ruling on Yes Bank’s AT1 bonds write-off is defective
+## Slight fall in Nifty, Sensex masks small-caps pain
+388 stocks hit new lows, volatility index climbs 6.3% to 15.7; information technology index makes strong gains
 
-## Mapmygenome completes acquisition of dnaPower Inc.
-Mapmygenome CEO Anu Acharya says the acquisition creates a central platform for DNA, microbiome, pharmacogenetic, and longevity testing in North America
+## Jio Platforms IPO fully subscribed, attracts 3.16x demand on day one
+Investors bid for 62.4 crore shares in total. QIBs, allocated 4.9 crore, bid for 46.15 crore—about 9x demand
 
-## AP Govt rolls out financial restructuring plan for APTransco; to explore IPO option
-Plan to enhance enterprise value through operational efficiencies, sustainable practices and fund mobilisation via IPO and InvITs
+## El Niño may reach unprecedented strength, raising global weather risks: WMO
+Pacific Ocean temperatures could rise 3.8°C above average during November-January, increasing risks of drought, floods and extreme heat
 
-## Thiagarajar Mills Group and Germany’s Euro Textiles announce ₹100-crore textile manufacturing venture in TN
-Advanced jacquard air-jet weaving facility to target global markets; commercial production planned within eight months
-
-## Inflation risks overshadow 7.8% growth as MPC raises repo rate; majority favours calibrated tightening
-Supply shocks and strong demand push MPC towards pre-emptive rate action
-
-## Netflix reports largest ever subscriber net adds in India in Q3
-View hours in India grew 24% annually, while view hours per member grew low-to-mid single digits in Q2; revenue for the country also increased 18% y-o-y on a foreign exchange, content slate basis
+## Rupee hits 6-week high, surges 53 paise to 94.38 against dollar on Jio IPO inflows, RBI support
+The rupee strengthened by 53 paise on Wednesday, closing at 94.38 against the US dollar, bolstered by foreign currency flows from the Jio Platforms IPO and intervention from the Reserve Bank of India. Nonetheless, pressures persisted from falling domestic stocks and increasing crude oil prices. The 
 
 ## Iran war impact: Indian Oil plans to reduce Middle East crude purchases under annual deals in FY28
 Indian Oil Corporation is expected to cut back on crude oil purchases from Middle Eastern suppliers. This decision comes as the Iran war disrupts shipments and increases transportation costs significantly. Refiners in India have traditionally relied on Middle Eastern oil but are now exploring altern
@@ -78,13 +81,22 @@ HDFC Bank is conducting an internal investigation into two senior executives for
 ## Crude could hit $140 in early 2027 if Gulf supply disruptions persist: Goldman Sachs
 Commodity prices are expected to experience volatility due to geopolitical conflicts and supply chain disruptions. Energy prices may rise sharply if Middle Eastern supplies remain constrained or degrade further. Agricultural markets could face pressure from various conflicts and potential weather di
 
-## Explained: How capital gains tax works on stocks, mutual funds, property and gold
-The best time to plan for capital gains tax is before you place a sell order. This year is a good time to revisit the rules. From April 1, 2026, the Income-tax Act, 2025 has replaced the 1961 law. Section numbers have changed and the law now uses the term tax year, but capital gains are taxed largel
+## ‘Does BJP want Opposition votes to split?’ Annamalai backs CJP's right to protest
+In a post on X, Annamalai noted that questioning the violation of due process of law, one "would be called names."
+
+## 'Boys have a message': Dipke shares Saurav Das, Ashutosh Ranka's video after their release
+In a video, Saurav Das and Ashutosh Ranka were seen holding the tricolour and reiterating their demand for the resignation of CEC Gyanesh Kumar.
+
+## US Secretary of State Marco Rubio meets Mukesh, Anant Ambani at Jamnagar refinery
+The visitors were given a tour of the world-class refinery complex, offering a first-hand view of its scale, advanced technology and integrated operations.
+
+## Priyanka Gandhi's son Raihan alleges Bikaner House pulled down his protest pics ahead of exhibition
+In a social media post, Vadra said he was asked to take down most of the artworks from his show, No Idea Is Final, shortly before its scheduled opening.
 
 ## 21 turtles of protected species rescued in MP after tip-off by arrested gang member
 The Indore unit of the forest department's State Tiger Strike Force (STSF) took the action, a release said.
 
-## Centre orders probe as Bengaluru firm's eMudhra keys error leaves holes in web security
+## Centre orders probe as Bengaluru firm eMudhra's key-making error leaves holes in web security
 There is no evidence yet that the keys were misused, and the major browsers had a safeguard that would have exposed any attempt against their users.
 
 ## 'Saurav, Ashu much bigger leaders than me': Abhijeet Dipke on CJP members' release
@@ -92,18 +104,6 @@ CJP's Dipke, in a post on X, praised both Das and Ranka, asserting that he was �
 
 ## Centre tells TV channels to pick panellists carefully, mute or cut feed if debates turn abusive
 Centre has asked TV channels to exercise editorial control over debates, mute abusive panellists, avoid live anti-terror operation coverage, use verified facts.
-
-## No Jantar Mantar protest call until it remains de-notified: CJP's Saurav Das, Ashutosh Ranka to court
-CJP leaders Saurav Das and Ashutosh Ranka have assured that they will not make any calls for protest at Jantar Mantar until it remains de-notified.
-
-## Mallikarjun Kharge says PM Modi insults Opposition by getting Rijiju to reply to his letter
-Congress president Mallikarjun Kharge accused PM Narendra Modi of insulting Opposition leaders by asking Kiren Rijiju to reply to his letter seeking an all-party meet on delimitation.
-
-## ‘Suddenly we hear about regime change’: Delhi HC during CJP leaders Saurav Das, Ashutosh Ranka's plea hearing
-The observation comes days after a row erupted over senior Supreme Court lawyer Prashant Bhushan’s ‘regime change’ remarks.
-
-## Bengal government forms SIT headed by ex-judge to probe Chorbagan stampede; to submit findings in 3 months
-West Bengal has formed a six-member special investigation team to investigate the October 17 stampede at a north Kolkata pandal that killed 19 people.
 
 ## Tesla signs deal to integrate Alipay into its cars as China competition heats up
 Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla r
@@ -129,6 +129,15 @@ Asia-Pacific Economic Cooperation (Apec) finance chiefs reached a consensus on e
 ## A 2027 turning point? Goldman, Citi see stabilising signs in China’s housing market
 As China’s housing market downturn enters its fifth year, global investment banks including Goldman Sachs and Citi say they expect the sector to pivot as soon as 2027, with expectations fuelled by signs of shrinking supply and robust sales over the National Day holiday in early October. Citi holds a
 
+## Witkoff Pushes Putin to Restart Peace Talks
+The Russian leader said he is ready to resume negotiations but refused to compromise on key points.
+
+## Xi’s Gang of Three
+How China’s leader divides power between his two most trusted lieutenants.
+
+## NATO 3.0 Is a Dangerous Gamble
+The Trump administration’s plans threaten to undercut both pillars of deterrence at once.
+
 ## The West Has a Crisis of Hope
 A former president of Estonia on the growing tide of global protest—and how today’s leaders can win back ordinary people.
 
@@ -144,38 +153,32 @@ The country’s powerful Supreme Court is caught up in a swirling corruption pro
 ## Myanmar’s Shan State Is the World’s Meth Lab
 Are illicit drugs now a bigger business in the Mekong than scam centers?
 
-## What Does Beijing Mean By ‘Strategic Stability’?
-After the Trump summit, China wants managed competition.
+## China’s AI Industry Brings Both Gains and Challenges for Its Fragile Economy
+China’s exports are surging, driven by AI-related technologies. National security-driven export bans could change that.
 
-## Zelensky Seeks U.S. Support, but Is Trump Interested?
-The White House appears increasingly focused on bolstering ties with Russia.
+## The China-US Quantum Computing Contest
+Insights from Matt Kinsella.
 
-## Trump Makes Midterm Pitch to Farmers
-An $8 billion aid package aims to take the edge off the strain of the Iran war and trade chaos.
+## The Indian Government’s Job Statistics Are Misleading
+Behind the surge in EPFO numbers lies an uncomfortable question: is Delhi measuring new jobs or merely recording existing workers differently?
 
-## Weapons to Russia, Wigs to China: How North Korea Balances Its Allies
-A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.
+## Is China Getting Involved in the Japan-Russia Territorial Dispute?
+Amid deepening China-Russia ties, a Chinese delegation visited one of the disputed Southern Kuril Islands.
 
-## Bougainville Needs a Credible Timetable for PNG’s Independence Vote. Australia Can Help.
-Canberra should stay out of what Port Moresby decides on Bougainville, but it can push for a concrete timeline for the decision.
+## Afghanistan’s Wakhan Transit Road Is a Long Shot to Connect with China
+The road has been officially inaugurated, but China and the Taliban have very different views of its function.
 
-## Taiwan’s Tech Diplomacy Has a Labor Problem
-Migrant worker recruitment debt threatens the island’s access to Western markets and its ties with Southeast Asia.
+## The US Army Looks to the Pacific – and Space – for Future Relevance
+Army leadership has focused on developing tools to contribute to a potential fight against China, a fight in which space assets will be critical.
 
-## North Korea Wants Security Talks With the US, Not Nuclear Talks
-For decades, Washington tried to change Pyongyang’s nuclear policy. Now North Korea is trying to do the reverse: use its nuclear weapons to change U.S. policy.
+## Saudi Arabia Executes Two Bangladeshi Nationals
+Dhaka says it learned of their execution only after it happened. Its diplomacy is under scrutiny
 
-## Japan Has Considered Nuclear-Powered Submarines Since 1958. Why Has It Never Built One?
-From a 1958 design study to reported approaches to the U.S. Navy, Japan has repeatedly examined nuclear-powered submarines without making an acquisition decision.
+## China Capitalizes on America’s Scientific Brain Drain
+For generations, the flow of global talent was almost entirely one directional. Now China is increasingly attracting top researchers from U.S. institutions.
 
-## Trial by Social Media? The Boundaries of Feminist Teaching in China
-A law school professor was dismissed after online controversy over her course on women’s rights.
-
-## Expanding the Military Footprint: China’s New Air Base in Laos
-Establishment of the Laotian base follows a pattern in China’s growing external military presence and access.
-
-## The Proliferation of Illicit Drones in Southeast Asia
-The past two years have seen the growing use of off-the-shelf commercial drones for criminal and militant activities.
+## Fighting in Ethiopia and the Risk of Regional Spillover
+In September, fighting broke out in Ethiopia’s Tigray region between Ethiopian government forces and the Tigray People’s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the bo
 
 ## Establishing Battery Supply Chain Resilience for Drones
 Militaries have spent more than a century operating with fuel and ammunition as limits of combat endurance. They are only beginning to treat batteries with the same operational seriousness, as small unmanned systems move from niche equipment to mass-consumption weapons. Recent bipartisan supply dive
@@ -197,9 +200,6 @@ As the United States seeks to rebuild its defense industrial base, Washington is
 
 ## March Separately, Strike Combined: Rethinking Mass and Maneuver on the Transparent Battlefield
 Between May 10 and 13, 1940, German Panzer Group Kleist advanced through the densely wooded Ardennes Forest, which the French considered impenetrable to large, mechanized formations. Numbering five armored and three motorized infantry divisions, totaling around 41,000 vehicles, the entire panzer gro
-
-## China’s Strategic Reassessment of India
-As China and India have improved their relations in recent months, many observers have attributed this improvement to the end of U.S. strategic altruism toward India. Indeed, in the past year, China has watched India lose its balance and simmer in a sense of strategic disorientation due to America’s
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump says AI data centres should pay ‘dividends’ in pre-midterm shift
-US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans.
+## Cuba accuses US of threatening countries ahead of UN embargo vote
+Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
 
-## Russia to send first diesel tanker to the US amid Trump deal
-Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.
+## What happened to Australian politician Helen Haines?
+Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
 
-## Musk pledges $10bn in SpaceX shares for US children: Who really gains?
-The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms.
+## Conservative Party suspends ex-candidate filmed in Al Jazeera investigation
+An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.
 
-## US envoy Witkoff calls Russia’s Putin a ‘humanitarian’
-US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.
+## India’s ‘Cockroach’ leaders free after a week in jail
+Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.
 
-## Russia releases American Stephen Hubbard after four years in prison
-Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.
+## Tunisia jails opposition politician for four years over social media posts
+Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.
 
-## US congressional candidate Brad Lander freed after West Bank detention
-Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.
+## Russia willing to resume peace talks with Ukraine, US after Witkoff visit
+Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.
 
-## How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties
-Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.
+## Steelers and Saints set for historic NFL clash in riot-hit Paris
+The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.
 
-## How war in Lebanon has cost young people with autism and ADHD
-Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.
+## Iran determined to keep uranium amid increased war odds, flurry of meetings
+Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
