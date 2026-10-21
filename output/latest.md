@@ -1,37 +1,40 @@
 # AION Intelligence
 
-## Abbott to spin off nutrition unit at centre of baby formula lawsuits
-US healthcare group plans to create standalone public company with $8.5bn in annual sales
+## Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’
+Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world
 
-## GM aims to leapfrog rivals with new generation of autonomous cars
-Detroit automaker’s chief product officer Sterling Anderson plans to put fully self-driving private autos on the road by 2028
+## Is corporate India’s exuberance merited?
+The gap between corporate India’s public optimism and household and investor anxiety has become increasingly apparent
+
+## Poor-quality degrees ‘tarnish’ reputation of English universities, regulator warns
+Office For Students warns outcomes were worse than for students attending sponsoring institutions
+
+## UK students who graduated in 2024 more likely to be unemployed
+Problems facing small businesses a bigger factor than AI in tough jobs market, analysis shows
+
+## China’s drugmakers move into the big league
+Foreign pharma groups are now paying to access innovation developed locally
+
+## Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
+Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
+
+## US orders some personnel to leave Saudi Arabia after Houthi attacks
+Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
+
+## LSEG nears $3.5bn deal to buy credit data specialist Octus
+Transaction would enhance London Stock Exchange Group’s services for customers
+
+## Buyout firm EQT acquires German diagnostics group in €10.8bn deal
+Move for Germany’s Qiagen is one of the largest take-private transactions in Europe this year
+
+## FirstFT: Scott Bessent shrugs off ‘systemic’ AI risks at private event with investors
+Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery makers race to invest abroad
+
+## Submit a question: Could Anthropic’s IPO be a turning point for AI?
+Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
 
 ## Tesla’s profits slip on weaker vehicle sales
-Elon Musk’s carmaker reported flat revenue as it considers merger with SpaceX
-
-## Meta to create new non-voting share class
-Change would enable the social media group to sell shares to fund AI investment without reducing Mark Zuckerberg’s control
-
-## Trump envoy proposes Ukraine talks and summit with Putin and Xi
-Steve Witkoff discusses resumption of peace dialogue with Russian president followed by US-China-Russia meeting next month
-
-## EU set to delay push for cheaper UK university fees for bloc’s students
-Concession could help the two sides finalise a ‘reset’ deal at a summit next month
-
-## Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference
-Treasury secretary spoke to financiers at charity event where tickets cost $7,500
-
-## NSA warns on ‘critical’ cyber vulnerabilities detected using AI
-Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world
-
-## CVC explores bid for Verisure just 1 year after IPO
-Shares in Swedish-listed security group trading 30% below their price at flotation
-
-## What Elon Musk stands to gain from a Tesla-SpaceX merger
-A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today
-
-## UK approves development of Jackdaw gasfield in North Sea
-Ministers stress that decision on larger Rosebank oilfield was a ‘different proposition’
+Musk’s carmaker reports flat revenue as it considers merger with SpaceX
 
 ## Persistent Systems opens $450 million QIP, sets floor price at ₹5,550 per share
 The IT company has secured board approval for the issue, while the final share price will be determined with its book-running lead managers
@@ -105,6 +108,9 @@ CJP's Dipke, in a post on X, praised both Das and Ranka, asserting that he was �
 ## Centre tells TV channels to pick panellists carefully, mute or cut feed if debates turn abusive
 Centre has asked TV channels to exercise editorial control over debates, mute abusive panellists, avoid live anti-terror operation coverage, use verified facts.
 
+## Could Hong Kong’s student housing boom lure property giants off the sidelines?
+Hong Kong’s largest landlords and developers could get their first formal route into the rising student accommodation market after the government announced plans to tender land for a purpose-built student hostel this quarter, according to analysts. Development Secretary Bernadette Linn Hon-ho announ
+
 ## Tesla signs deal to integrate Alipay into its cars as China competition heats up
 Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla r
 
@@ -126,8 +132,11 @@ Hong Kong’s tougher oversight and weak investor demand have put many mainland 
 ## Apec finance ministers reach consensus on AI, digital financing in Hong Kong
 Asia-Pacific Economic Cooperation (Apec) finance chiefs reached a consensus on economic policy coordination and cooperation on financing technology and artificial intelligence at a landmark two-day gathering in Hong Kong, according to China’s finance minister. Lan Foan said the outcomes achieved dur
 
-## A 2027 turning point? Goldman, Citi see stabilising signs in China’s housing market
-As China’s housing market downturn enters its fifth year, global investment banks including Goldman Sachs and Citi say they expect the sector to pivot as soon as 2027, with expectations fuelled by signs of shrinking supply and robust sales over the National Day holiday in early October. Citi holds a
+## In India, Rubio Is All Business
+The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
+
+## The Paradox at the Heart of China’s Export Boom
+China’s domestic economic woes are helping fuel its success abroad.
 
 ## Witkoff Pushes Putin to Restart Peace Talks
 The Russian leader said he is ready to resume negotiations but refused to compromise on key points.
@@ -146,12 +155,6 @@ A broken asylum system and shrinking resettlement options leave many with nowher
 
 ## Trump Is Making a Mess of Diego Garcia
 Trying to reverse the Chagos Islands treaty only plays into China’s hands.
-
-## The Banking Scandal Upending Brazil’s Election
-The country’s powerful Supreme Court is caught up in a swirling corruption probe.
-
-## Myanmar’s Shan State Is the World’s Meth Lab
-Are illicit drugs now a bigger business in the Mekong than scam centers?
 
 ## China’s AI Industry Brings Both Gains and Challenges for Its Fragile Economy
 China’s exports are surging, driven by AI-related technologies. National security-driven export bans could change that.
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cuba accuses US of threatening countries ahead of UN embargo vote
-Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.
+## Pope Leo needs no further treatment after cancer surgery, doctors say
+The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
 
-## What happened to Australian politician Helen Haines?
-Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
+## Nigeria’s first Ebola case matches DR Congo strain, health officials say
+The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.
 
-## Conservative Party suspends ex-candidate filmed in Al Jazeera investigation
-An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.
+## US orders departure of personnel from Saudi Arabia, citing Houthi threat
+US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.
 
-## India’s ‘Cockroach’ leaders free after a week in jail
-Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.
+## Canadian publisher drops writer Thelyson Orelien over AI use in novel
+Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.
 
-## Tunisia jails opposition politician for four years over social media posts
-Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.
+## Video shows Israeli settler assaulting Palestinian child
+An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
 
-## Russia willing to resume peace talks with Ukraine, US after Witkoff visit
-Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.
+## Man United captain Fernandes slams Carrick’s tactics after Como hammering
+Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.
 
-## Steelers and Saints set for historic NFL clash in riot-hit Paris
-The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.
+## Tehran displays mock installation of Trump behind bars
+An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.
 
-## Iran determined to keep uranium amid increased war odds, flurry of meetings
-Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators.
+## Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start
+Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
