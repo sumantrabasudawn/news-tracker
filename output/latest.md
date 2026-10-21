@@ -1,73 +1,76 @@
 # AION Intelligence
 
+## Abbott to spin off nutrition unit at centre of baby formula lawsuits
+US healthcare group plans to create standalone public company with $8.5bn in annual sales
+
+## Could Michigan elect America’s first Muslim senator?
+Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections
+
+## Fridge hackers exploited ‘basic security flaws’ at French retailers
+Head of France’s cyber security agency said lack of protection and weak passwords helped criminals seize control of systems
+
+## France’s borrowing costs hit 5% for first time since 2002
+Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February
+
+## Reform reports ITV to police over undercover documentary
+Zia Yusuf says tactics behind programme that showed party councillors making sexist and racist comments may have been illegal
+
+## Who’s paying for the AI build-out? Probably you
+Every big pool of capital, in every corner of the developed world, is funding data centres
+
 ## Russia releases US citizen as Trump’s envoy visits
 Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine
 
-## Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker
-EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform
+## Middle East oil exports climb back to prewar levels
+Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes
 
-## The rise of index vigilantes
-Not the regulators we want, or the regulators we need. But at least it’s something?
-
-## WHO issues alert as Ebola spreads to west Africa
-Nigeria is urgently tracing dozens of contacts of person who tested positive for virus
-
-## Iran FM: We are ready for diplomacy, but will defend ourselves
-A way forward can only materialise once the US administration genuinely accepts that it has no military options
-
-## Iran war sparks heating crisis in US north-east as winter approaches
-Record heating oil prices are forcing the region to rethink prior opposition to natural gas pipelines
-
-## The far-right contender refusing to bow to Israel’s Netanyahu
-Proliferation of rightwing parties leads to infighting ahead of vote
+## UK approves development of Jackdaw gasfield in North Sea
+Ministers stress that decision on larger Rosebank oilfield was a ‘different proposition’
 
 ## Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX
 The world’s richest man attempts his most audacious deal yet. But shareholders and global regulators will need convincing
 
-## National Express owner in talks over £282mn take-private deal
-Mobico has received 46p per share offer from Spanish company Autobuses de Leon
+## Andy Burnham plans to cut standing charges from household gas bills
+Experts say providers would probably recover loss of daily fixed fee via the unit rate
 
-## FirstFT: SpaceX and Tesla explore merger
-Also in today’s newsletter: Netanyahu pushes to resume large-scale strikes against Iran and French borrowing costs hit 5% for the first time since 2002
+## Letters to the Editor dated October 21, 2026
 
-## EssilorLuxottica’s old-fashioned spectacles offset smart glasses slowdown
-Ray-Ban maker’s shares jump in third quarter
 
-## Burnham’s North Sea ‘pragmatism’ is no big shift from Starmer’s
-Plus, why Ed Davey believes the prime minister is about to call an early election
+## IHCL profit grows 23%, company upgrades revenue guidance
+The meetings and events segment and renovated assets in key markets propped up revenue, which was up 21% at ₹2,566 crore on contributions from
 
-## UK’s biggest port operator valued at over £10bn in Australian fund purchase
-Infrastructure giant IFM Investors buys majority stake in Associated British Ports from Canadian pension funds
+## Editorial. Yes, it’s a mess
+SC ruling on Yes Bank’s AT1 bonds write-off is defective
 
-## AirPods 5 review: The sweet spot between AirPods 4 and AirPods Pro
-With improved ANC, richer sound and all-day comfort, the AirPods 5 refine Apple’s most popular earbuds. But are they worth choosing over rivals and the AirPods Pro?
+## Mapmygenome completes acquisition of dnaPower Inc.
+Mapmygenome CEO Anu Acharya says the acquisition creates a central platform for DNA, microbiome, pharmacogenetic, and longevity testing in North America
 
-## Eternal profit nearly doubles to ₹125 crore in Q2
-Revenue from operations jumps to ₹24,138 crore in the second quarter
+## AP Govt rolls out financial restructuring plan for APTransco; to explore IPO option
+Plan to enhance enterprise value through operational efficiencies, sustainable practices and fund mobilisation via IPO and InvITs
 
-## Sensex today | Stock Market Highlights: Sensex ends down 143 pts, Nifty at 22,811; Nifty IT surges 2.2%
-Sensex, Nifty, Share Prices Highlights: Nifty closed at 22,811.35, down 77.60 points or 0.34 per cent, while Sensex fell 143.21 points or 0.19 per cent to 73,709.69
+## Thiagarajar Mills Group and Germany’s Euro Textiles announce ₹100-crore textile manufacturing venture in TN
+Advanced jacquard air-jet weaving facility to target global markets; commercial production planned within eight months
 
-## ‘Withdraw draft notification on animal experimentation that dilutes present regulatory framework’, say animal welfare organisations
-In a letter, the animal welfare bodies have urged the authorities to keep pace with science, and come up with a fresh draft prepared in consultation with all stakeholders
+## Inflation risks overshadow 7.8% growth as MPC raises repo rate; majority favours calibrated tightening
+Supply shocks and strong demand push MPC towards pre-emptive rate action
 
-## Travel platform Onto debuts with $1 million pre-seed funding
-Offers “Price Drop Refund” feature which automatically refunds travellers the difference if the price of their hotel booking falls after the reservations are made
+## Netflix reports largest ever subscriber net adds in India in Q3
+View hours in India grew 24% annually, while view hours per member grew low-to-mid single digits in Q2; revenue for the country also increased 18% y-o-y on a foreign exchange, content slate basis
 
-## IMF advises India to let rupee move as first defence amid oil shock
-Official says exchange rate should absorb shocks; RBI interventions offer limited near-term benefit
+## Iran war impact: Indian Oil plans to reduce Middle East crude purchases under annual deals in FY28
+Indian Oil Corporation is expected to cut back on crude oil purchases from Middle Eastern suppliers. This decision comes as the Iran war disrupts shipments and increases transportation costs significantly. Refiners in India have traditionally relied on Middle Eastern oil but are now exploring altern
 
-## GRAP-1 curbs imposed in Delhi-NCR as air quality slips into 'poor' category
-"The Air Quality lndex (AQI) of Delhi which was observed 179 (Moderate category)on October 20, has exhibited a sharp rise with AQI of 244 at 2 pm on October 21 (Poor category)," said the CAQM in a statement.
+## Jio IPO subscription hits 3.16x on Day 1; offer open till October 23
+The Rs 30,213-crore initial public offering (IPO) achieved full subscription in just 100 minutes after opening on Wednesday, setting a record for the fastest subscription of a mega IPO in India. By 5 pm, investors had bid for 62.36 crore shares, with the total value of bids reaching approximately Rs
 
-## Jio Platforms IPO Day 1 Live Updates: Jio Platforms IPO Day 1 Live: Issue subscribed 1.27x, QIB portion 3.86x
-Jio Platforms IPO GMP Day 1 live updates: Jio Platforms IPO Jio Platforms’ ₹30,213-crore IPO opens for subscription on October 21 and closes on October 23.
+## India's core sector growth accelerates to 7.9% in September; iron ore output jumps 18.4%, crude oil falls 1.4%
+India's core sector growth surged to 7.9 percent in September 2026, showcasing robust advancements across major industries. Leading the charge, iron ore production skyrocketed 18.4 percent, complemented by significant gains in electricity and coal sectors. Although there were setbacks in fertiliser 
+
+## Bengaluru-Mumbai Vande Bharat sleeper may launch November 1; check timings, fares
+The Vande Bharat sleeper train has a 16-coach configuration, comprising 11 AC three-tier coaches, four AC two-tier coaches and one AC First Class coach. Designed for operations at speeds of up to 160 kmph, the train has a maximum testing speed of 180 kmph, placing it in the semi-high-speed category.
 
 ## Is India running out of power? Over half of coal plants face critically low fuel stocks
 India's coal-fired power plants are grappling with alarming fuel shortages, with almost half of them maintaining reserves for less than three days. This comes amid soaring electricity demand driven by rising temperatures and dwindling hydropower supplies. In response, the government has ramped up lo
-
-## Jio IPO sets new records: Bids cross Rs 50,000 crore after full subscription in 100 minutes
-Jio IPO: Data from the stock exchanges, updated at 2:45 PM, showed bids for 46.50 crore shares against the 19.75 crore shares on offer. The response establishes a new record for the speed at which an Indian public issue has attracted subscriptions. The speed of Jio's IPO subscription sets it apart f
 
 ## HDFC Bank probe finds executives leaked confidential information: Report
 HDFC Bank is conducting an internal investigation into two senior executives for sharing confidential business information. The probe began after concerns were raised about potential information leaks to outsiders. As changes in leadership approach, the bank faces mounting challenges amid recent int
@@ -78,38 +81,41 @@ Commodity prices are expected to experience volatility due to geopolitical confl
 ## Explained: How capital gains tax works on stocks, mutual funds, property and gold
 The best time to plan for capital gains tax is before you place a sell order. This year is a good time to revisit the rules. From April 1, 2026, the Income-tax Act, 2025 has replaced the 1961 law. Section numbers have changed and the law now uses the term tax year, but capital gains are taxed largel
 
-## SpaceX Profit Jumps Sharply: AI unit fuels $4.4bn Q3 swing; Starlink adds 1.6m users
-In the third quarter, SpaceX achieved a remarkable net profit of $4.4 billion, largely propelled by its flourishing Super Intelligence segment, which alone contributed $7.6 billion. The company's revenue skyrocketed by 161 percent to reach $14.6 billion, highlighting a significant rebound from the p
+## 21 turtles of protected species rescued in MP after tip-off by arrested gang member
+The Indore unit of the forest department's State Tiger Strike Force (STSF) took the action, a release said.
 
-## SBI data leak: Nearly 4,000 customer records found on dark web; what we know so far
-The State Bank of India has confirmed that 3,897 customer records may have been compromised and found on the dark web. Following alerts from cybersecurity agencies, an initial investigation revealed that sensitive personal data such as mobile numbers and loan details were involved. SBI has initiated
+## Centre orders probe as Bengaluru firm's eMudhra keys error leaves holes in web security
+There is no evidence yet that the keys were misused, and the major browsers had a safeguard that would have exposed any attempt against their users.
 
-## 24 million barrels a day: Gulf oil flows surge past prewar levels despite US-Iran war
-Amidst ongoing threats to shipping, Persian Gulf oil exports have rebounded beyond prewar figures. Tankers are cleverly rerouting and seeking US naval protection to safeguard crude supplies. Nevertheless, traffic through the Strait of Hormuz has diminished, contributing to increased transportation c
+## 'Saurav, Ashu much bigger leaders than me': Abhijeet Dipke on CJP members' release
+CJP's Dipke, in a post on X, praised both Das and Ranka, asserting that he was “happy to follow” their orders.
 
-## Guwahati woman found dead in rented flat, insurance company senior officer held: Police
-A senior officer of a private insurance company was arrested on charges of abetment of suicide after a 29-year-old woman employee was found dead in her rented apartment
+## Centre tells TV channels to pick panellists carefully, mute or cut feed if debates turn abusive
+Centre has asked TV channels to exercise editorial control over debates, mute abusive panellists, avoid live anti-terror operation coverage, use verified facts.
 
-## Andhra local polls: SC asks SEC to decide on YSRCP plea for extending nomination deadline
-YSRCP cited instances where its candidates were either assaulted or prevented from filing nominations
+## No Jantar Mantar protest call until it remains de-notified: CJP's Saurav Das, Ashutosh Ranka to court
+CJP leaders Saurav Das and Ashutosh Ranka have assured that they will not make any calls for protest at Jantar Mantar until it remains de-notified.
 
-## Pak operatives trying to lure Indians into relationships to extract sensitive information: J&K cop
-The cop urged people to exercise caution when approached by strangers, particularly through calls from unknown numbers.
+## Mallikarjun Kharge says PM Modi insults Opposition by getting Rijiju to reply to his letter
+Congress president Mallikarjun Kharge accused PM Narendra Modi of insulting Opposition leaders by asking Kiren Rijiju to reply to his letter seeking an all-party meet on delimitation.
 
-## ‘Keep your powder dry’: HC declines to entertain plea by CJP’s Saurav Das, Ashutosh Ranka
-The CJP leaders decided to withdraw the plea after justice Subramonium Prasad raised questions concerning the maintainability of the petition.
+## ‘Suddenly we hear about regime change’: Delhi HC during CJP leaders Saurav Das, Ashutosh Ranka's plea hearing
+The observation comes days after a row erupted over senior Supreme Court lawyer Prashant Bhushan’s ‘regime change’ remarks.
 
-## Delhi court grants bail to man accused of deceiving woman into sexual relationship
-Delhi court grants bail to man accused of deceiving woman into sexual relationship
+## Bengal government forms SIT headed by ex-judge to probe Chorbagan stampede; to submit findings in 3 months
+West Bengal has formed a six-member special investigation team to investigate the October 17 stampede at a north Kolkata pandal that killed 19 people.
 
-## 5 children among 10 injured in fire during Ramlila performance at Bihar pandal
-Five children were referred to Patna for treatment after a fire at a Durga Puja pandal in Siwan injured 10 people during a Ramlila performance
+## Tesla signs deal to integrate Alipay into its cars as China competition heats up
+Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla r
 
-## Army Commanders' Conference begins, Rajnath Singh to release Land Warfare Doctrine
-Army Commanders' Conference begins, Rajnath Singh to release Land Warfare Doctrine
+## Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts
+The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say. The US Department of Homeland Security (DHS) ordered federal c
 
-## Sundays, not Fridays, are weekly off in Uttarakhand madrassas: Pushkar Singh Dhami
-Dhami said since madrassas function as schools recognised by the education department, its rules and regulations will apply to them as well.
+## Hong Kong working to boost global banks’ use of yuan trading tools
+Hong Kong has vowed to engage more international banks in a debt securities clearing system, as part of a wider push to develop the city into a leading global yuan trading hub. “Hong Kong is actively promoting a number of measures to advance the city’s offshore yuan market to higher and deeper level
+
+## China’s offshore tax crackdown could inadvertently fuel a digital dollar boom
+From October 22, China’s grace period for the disclosure and settlement of certain offshore-trust tax liabilities ends. For the Chinese government, this deadline highlights its desire to affirm control over capital outflows, while for Chinese high-net-worth families, it serves as a reminder that it 
 
 ## Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase
 Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end. By 5.40pm on Wednes
@@ -123,17 +129,17 @@ Asia-Pacific Economic Cooperation (Apec) finance chiefs reached a consensus on e
 ## A 2027 turning point? Goldman, Citi see stabilising signs in China’s housing market
 As China’s housing market downturn enters its fifth year, global investment banks including Goldman Sachs and Citi say they expect the sector to pivot as soon as 2027, with expectations fuelled by signs of shrinking supply and robust sales over the National Day holiday in early October. Citi holds a
 
-## China eases uncertainty over offshore trust taxes before grace period ends
-China’s tax authorities are accepting reasonable explanations when enforcing new rules on offshore trust gains, according to an executive who says their appeal was successful, offering some reassurance as a 90-day grace period expires on Thursday. The approach appears to be translating into greater 
+## The West Has a Crisis of Hope
+A former president of Estonia on the growing tide of global protest—and how today’s leaders can win back ordinary people.
 
-## DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool
-Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between open-source and closed-source AI as a battle between “light and darkness”. The 
+## They Fled Ethiopia’s War. Now, Israel May Send Them Back.
+A broken asylum system and shrinking resettlement options leave many with nowhere to turn.
 
-## Surveyors say presales at Pak Shing Kok residential project could begin in 2028
-New World Development and China Merchants Land broke ground recently on a joint residential project in Pak Shing Kok, Tseung Kwan O, with presales expected to begin as early as 2028, when surveyors say pricing pressure may have eased. James KT Cheung, executive director of the valuation department a
+## Trump Is Making a Mess of Diego Garcia
+Trying to reverse the Chagos Islands treaty only plays into China’s hands.
 
-## Shipping giant Cosco launches new routes to ride out Iran war, climate risks
-China Cosco Shipping Holdings, the country’s largest ocean carrier, has prioritised resilience as it rolls out an emergency response system to cope with rising geopolitical conflicts, infrastructure bottlenecks and climate-related disruptions. The company is launching fresh capacity and new trade ro
+## The Banking Scandal Upending Brazil’s Election
+The country’s powerful Supreme Court is caught up in a swirling corruption probe.
 
 ## Myanmar’s Shan State Is the World’s Meth Lab
 Are illicit drugs now a bigger business in the Mekong than scam centers?
@@ -146,18 +152,6 @@ The White House appears increasingly focused on bolstering ties with Russia.
 
 ## Trump Makes Midterm Pitch to Farmers
 An $8 billion aid package aims to take the edge off the strain of the Iran war and trade chaos.
-
-## How Ukraine Is Navigating Trump’s Latest U-Turn
-Zelensky joins Oslo talks as a worrying winter looms for Kyiv.
-
-## What if No One Wins the Israeli Election?
-Netanyahu’s opponents are ahead but will struggle to form a coalition.
-
-## Data Centers in the Crosshairs
-Why digital connectivity has become the new front in modern warfare.
-
-## Myths of Battlefield Triumph Are Destroying the U.S. Military
-Bad strategy long predates Pete Hegseth and his obsession with “lethality.”
 
 ## Weapons to Russia, Wigs to China: How North Korea Balances Its Allies
 A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.
@@ -183,6 +177,9 @@ Establishment of the Laotian base follows a pattern in China’s growing externa
 ## The Proliferation of Illicit Drones in Southeast Asia
 The past two years have seen the growing use of off-the-shelf commercial drones for criminal and militant activities.
 
+## Establishing Battery Supply Chain Resilience for Drones
+Militaries have spent more than a century operating with fuel and ammunition as limits of combat endurance. They are only beginning to treat batteries with the same operational seriousness, as small unmanned systems move from niche equipment to mass-consumption weapons. Recent bipartisan supply dive
+
 ## Tehran is a Different Beast Now
 The Tehran that the world knew is gone. It died in the fires with former Supreme Leader Ali Khamenei on the first day of the war in February. His son and new Supreme Leader, Mojtaba Khamenei — wherever he is and in whatever physical condition — witnessed his father, wife, and other close family memb
 
@@ -203,9 +200,6 @@ Between May 10 and 13, 1940, German Panzer Group Kleist advanced through the den
 
 ## China’s Strategic Reassessment of India
 As China and India have improved their relations in recent months, many observers have attributed this improvement to the end of U.S. strategic altruism toward India. Indeed, in the past year, China has watched India lose its balance and simmer in a sense of strategic disorientation due to America’s
-
-## Do the Benefits Outweigh the Risks of Hosting U.S. Military Bases?
-Since the end of World War II, the United States has maintained hundreds of military installations abroad. While U.S. forces have faced some objections to their presence, many allies and partners have seen U.S. bases and other facilities on their territory as a sign of their close relations with a s
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,35 +225,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?
-The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.
+## Trump says AI data centres should pay ‘dividends’ in pre-midterm shift
+US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans.
 
-## UK approves development of Jackdaw gasfield in North Sea
-The decision has drawn sharp criticism from left-wing politicians and environmentalists.
+## Russia to send first diesel tanker to the US amid Trump deal
+Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.
 
-## WW1 to Houthis: British jets for Saudi Arabia build on long military bond
-UK's deployment of jets to defend Saudi Arabia is the latest chapter in a relationship older than the kingdom itself.
+## Musk pledges $10bn in SpaceX shares for US children: Who really gains?
+The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms.
 
-## Paramilitary hitman linked to British right-wing group Turning Point UK
-Al Jazeera exposes UK far right's links to criminal underworld.
+## US envoy Witkoff calls Russia’s Putin a ‘humanitarian’
+US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.
 
-## UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad
-Britain’s King Charles III welcomed Oman’s Sultan Haitham bin Tariq on the first state visit in 44 years.
+## Russia releases American Stephen Hubbard after four years in prison
+Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.
 
-## Attack on Australian MP Haines: How threats against legislators have soared
-Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare.
+## US congressional candidate Brad Lander freed after West Bank detention
+Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.
 
-## Blast heard in Yemen’s Aden as Houthis claim attack on military camp
-Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.
+## How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties
+Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.
 
-## Australian MP loses both legs in vehicle attack as suspect appears in court
-Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
+## How war in Lebanon has cost young people with autism and ADHD
+Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
 
 ## India's FTA Sprint: How a Year of Trade Diplomacy Is Reshaping the Growth Story
 India’s recent FTA sprint marks a decisive shift from cautious market access to strategic economic integration, with trade deals increasingly aimed at supply chains, investment and manufacturing. Ajay Bagri, Chairman, CFO Council, ASSOCHAM and CFO, SEIL Energy India Limited, examines what this trans
+
+## Mahindra Manulife Insurance appoints Nilesh Kothari as CFO
+Kothari joins the life insurer with over 22 years of experience in the insurance sector, having previously served as CFO of PNB MetLife India Insurance.
 
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
@@ -275,9 +272,6 @@ Tata Sons is reviewing its Articles of Association to comply with Sebi listing r
 
 ## FSSAI issues notices to Nestle India, Hindustan Unilever over misleading claims and non-compliances
 The Food Safety and Standards Authority of India (FSSAI) on Saturday said it has issued notices to leading FMCG firms, including Nestle India and Hindustan Unilever Ltd (HUL) over alleged misleading claims and regulatory non-compliances concerning certain nutrition products.
-
-## Exporters may be asked to monitor supply chains' indirect emissions
-The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
 
 ## On a High-way: India revamps highway EPC rules with rating-based deposits, crash penalties
 The Centre has revised performance security measures for national highway contractors based on their ratings. Contractors rated above 80% will deposit 3% of project value, while lower-rated contractors will deposit 4% or 5%. This initiative aims to incentivize quality in highway construction and imp
@@ -296,6 +290,9 @@ The Reserve Bank of India is implementing stricter scrutiny on large overseas di
 
 ## Banks tap RBI's first cash auction in 3 months as market rates spike
 In response to rising bank demands, the Reserve Bank of India executed a liquidity infusion to stabilize interbank borrowing rates amid substantial tax outflows. Following this operation, overnight borrowing costs surged as the RBI raised rates to tackle inflation. A notable increase in bids suggest
+
+## Exporters may be asked to monitor supply chains' indirect emissions
+The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
 
 ## RBI clarifies interbank trades, ECBs coupons not part of FERR
 Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
