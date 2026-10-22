@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## Global stocks tumble as oil prices rise
-China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens
+## Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
+Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
 
-## Fixing Britain’s welfare state and the limits of AI policymaking
-Dependence on the technology risks worsening what Starmer dubbed ‘the warm bath of managed decline’ in Whitehall
+## Shell and Exxon’s $8bn UK chemicals unit put up for sale
+Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations
 
-## Nestlé removes Russian business from accounts after Kremlin takeover
-Swiss group takes $1.95bn net assets from its balance sheet after presidential decree to control business
+## ECB on course for another rate rise in 2026
+Read the October scenario by the FT’s Monetary Policy Radar team
 
-## Ukraine to buy military supplies via Nato agency
-Agreement could allow Kyiv to speed up delivery of ammunition and weapons at lower cost
+## Russia drops cluster warheads on Kyiv after Witkoff-Putin peace talks
+Bombs designed to cause widespread damage hit Ukraine capital hours after Donald Trump’s envoy met Russian president in diplomatic push
 
-## Liquidators of Chinese property giant pursue Harvard to recoup donation
-China Evergrande had given millions of dollars to university in decade before its collapse
+## Turkey cuts interest rates despite $18bn investment funds scandal
+Central bank lowers benchmark rate to 36% as inflation eases
 
-## US orders some personnel to leave Saudi Arabia after Houthi attacks
-Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
+## Macron warns some protests will be banned
+French president says labour unions will be allowed to organise marches on Saturday, but not other activists
+
+## Serbia’s students should take a leaf out of Magyar’s book
+Ahead of elections this weekend, those attempting to topple the Vučić regime should consider reform, not revolution
+
+## Europe’s moderates must stop treating politics as a spectator sport
+While centrists have retreated to myriad bubbles, extremists turn up, join up and organise
+
+## How are AI agents changing work inside Anthropic?
+The company is hiring relatively fewer junior-level staff while increasing the number of managers and meetings
+
+## Blackstone cuts property valuations as higher rates hit returns
+Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs
+
+## Why climate could soon move back up the global agenda
+IEA chief Fatih Birol told an FT summit that ‘quick’ and ‘cheap’ renewables could drive renewed focus even as energy disruption drags on
+
+## FirstFT: Global equities hit by rise in oil prices
+Also in today’s newsletter: Barclays axes 5,000 jobs and companies race to protect their websites
 
 ## Websites taken offline in race to patch PHP security flaw
 Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities
 
-## Russian missiles bombard Kyiv after Witkoff-Putin talks
-Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push
+## Europe’s underrated digital trailblazing
+At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy
 
-## Hermès hit by ‘challenging’ economic backdrop in China and Middle East
-Luxury brand’s sales miss forecast despite strong growth in handbags and leather goods
+## Q2 Results Today Live Updates: Adani Energy Solutions PAT surges 145%, CPCL profit triples; Havells profit up 9.7%, Jindal Stainless Q2 profit rises 11.1%, Colgate profit rise 4.3%, Adani Total Gas Q2 net profit rises 3%; Swiggy shares tumble over 5%
+Q2 Results Today, 22nd October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earning on Adani Energy, HPCL, Havells, Swiggy, Colgate, Hatsun, Cyient, Adani Total Gas, Nippon Life and others
 
-## FT Wealth: October
-In this edition: Global yacht boom turns marinas into valuable assets; brewing fortune finds social purpose in challenging the system; how a gargantuan home foretold our Mar-a-Lago world; landowners reap dividends from regenerative agriculture; well-written letter of wishes can save a lot of grief; 
+## J&K bank’s Q2 net profit rises 28.8% sequentially to ₹546 crore due to improved asset quality
+Net profit stood at ₹424.18 crore in the April-June quarter and ₹494.11 crore in the year-earlier period
 
-## Barclays plans 5,000 job cuts as bank steps up AI adoption
-Reductions announced as third-quarter profits fall short of City expectations
+## Delhi’s vehicle curbs put 1.9 lakh older trucks, 16,000 buses in replacement spotlight
+Some restrictions have no fixed expiry date
 
-## Hyperscalers and how to rate them
-In the land of known unknowns
+## Experts warn of weaker oversight of medical colleges after NMC scraps 2023 standards rules
+Physical inspections had already become less frequent for some processes, such as applications to add seats in existing colleges, making it harder to catch “ghost faculty” or claimed infrastructure that does not exist
 
-## Sensex today | Stock Market Live: Sensex, Nifty struggle to rise in choppy trade; 432 stocks hit 52-week lows
-Sensex, Nifty, Share Prices LIVE: Equity benchmarks Sensex and Nifty recovered partially from their opening lows by midday on Thursday but remained firmly in the red for a third consecutive session, weighed down by surging crude oil prices, geopolitical uncertainty and broad-based selling across sec
+## Why solar energy is becoming a global security strategy | Ashish Khanna | Energonomics EP 39
+India’s solar success story: Can Surya Ghar and PM-KUSUM go global?
 
-## Many areas inundated, dams fill up as TN receives widespread downpour
+## eMudhra exits the global certificate business to focus on Core Enterprise Solutions
+The company will assist affected customers to replace any certificate free of cost from partners through the transition
 
+## BSE, MMTC-PAMP partner to boost India’s electronic gold receipts market
+Under the partnership, BSE will launch EGR contracts in multiple denominations and enable seamless conversion between physical gold and electronic receipts
 
-## Restoring degraded landscapes can help improve rural income: WRI India
-Almost of half of India’s agricultural soils have poor soil health and low soil organic carbon impacting agricultural productivity, says Ruchika Singh, Executive Programme Director - Food, Land and Water, WRI India
+## haf.vc invests ₹3 crore in Hunar.AI
+The startup will use the funds for AI infrastructure, product development, sales and market expansion
 
-## Centre, LIC to become public shareholders in IDBI Bank after strategic sale: DIPAM Secretary
-Following the strategic restructuring, the responsibility to run the bank and infuse capital whenever required would rest with the strategic buyer, he told PTI
+## India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained
+Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against thi
 
-## Indian national killed in Saudi airport attack, 2 others injured
-The Indian Embassy in Riyadh said it is in touch with Saudi authorities and awaiting further details about the incident, which took place on Wednesday.
+## Barclays to slash 5,000 jobs by 2026-end as AI takes on bigger role in bank's operations
+In a significant restructuring effort, Barclays is poised to cut about 5,000 jobs from its worldwide team by the year's conclusion. This initiative focuses on optimizing efficiency and increasing investment in innovative technologies, notably artificial intelligence. The reductions will largely targ
 
-## Jio Platforms IPO: Terrific history, future prized or pricey?
-
-
-## 360 ONE allots 4.8% stake to UBS AG following warrant exercise
-UBS AG had subscribed to 20,502,939 warrants on a preferential basis under an agreement with 360 ONE
-
-## TTML narrows Q2 loss to ₹59 crore, revenue up 8%; stock surges 9% on results day
-Revenue from operations rose 8.2% year-on-year to ₹309.65 crore; the stock jumped 9.26% to ₹35.03 on the NSE by early afternoon on volumes of over 9.16 crore shares
+## Meta Q3 results: Net income jumps 264% to $9.86 bn, but legal charge limit profits
+Meta Platforms reported a net income of $9.86 billion in Q3 2026, tripling from the previous year. Overall revenue increased to $64.60 billion, primarily driven by higher advertising earnings. However, operating income declined due to a significant legal charge linked to teen mental health litigatio
 
 ## India’s private capex pipeline rises 39% to Rs 99.7 lakh crore, UBI flags risks
 India's private sector investments have surged to Rs 99.7 lakh crore, marking a remarkable growth of 39% over the year. This significant uptick is largely driven by larger projects, indicating a trend toward consolidation in investment plans. Maharashtra leads as a primary destination for these inve
@@ -75,38 +90,41 @@ The Indian Rupee fell by 12 paise, settling at 94.50 against the US dollar, driv
 ## Wife’s father paid for joint house; Kerala HC orders husband to vacate
 The dispute involved a couple who got married in 2012. The woman told the court that her father had paid Rs 30 lakh to purchase the house for her future security. Although the property was registered jointly, she maintained that her husband had contributed nothing towards the purchase and therefore 
 
-## Stock market today: Sensex plunges over 600 points, Nifty50 tumbles to 22,600
+## ‘Deprived of democracy’: Wangchuk says cancelled home ministry meeting has broken Ladakh’s trust
+Sonam Wangchuk accuses the Centre of denying Ladakh democracy after a home ministry meeting was cancelled, saying leaders may take their demand for safeguards to the UN.
 
+## ‘Nothing wrong with regime change’, Neha Bora tells Delhi HC; cops counter her
+Neha Bora was detained during a protest at Mandi House last week and released after approximately 12 hours.
 
-## Which are the top stocks to buy on October 22, 2026? Check list
-Top stock market recommendations: Persistent Systems, Sagility, and Waaree Energies - these are the top stocks to buy that Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth has identified for October 22, 2026.
+## Karnataka CM Shivakumar orders probe after police stop 3 Dalit ministers at Mysuru Palace Dasara puja
+Karnataka CM D K Shivakumar orders an inquiry after police stop three Dalit ministers at Mysuru Palace during Dasara puja, triggering a political row over social justice.
 
-## Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies
-Oil prices surged past $110 a barrel as Houthi attacks in Saudi Arabia raised alarms. The US took precautionary measures by evacuating diplomats' families from the kingdom amid escalating security issues. Simultaneously, US crude inventories dropped sharply, while distillate stocks showed an unexpec
+## 'We should understand them': Ex-Army chief Naravane on Gen Z's approach amidst recent protests
+Advocating for patient listening and empathy, he added, "We should try to understand them.
 
-## Meghalaya’s hills hum with a hidden world of bees key to honey economy, crop pollination, conservation
-Meghalaya’s rich bee diversity, traditional beekeeping, planned Bee Museum stress efforts to promote honey production, pollinator conservation, rural livelihood
+## HT Evening News Brief October 22: India condemns Houthi attacks in Saudi, Diljit Dosanjh concert denied police nod in Delhi and more
+Here are the top updates from across the country, the world and from the field of sports and entertainment.
 
-## ‘Protests achieve nothing’: Amit Shah takes dig at Rahul Gandhi, says Congress won't win polls even in ‘30 years’
-Launching a scathing attack on the Opposition, Shah said that the Congress party would not be able to win elections in 30 years due to its “negative politics”.
+## Delhi-based creator Amir Shokeen arrested over racial abuse of Tripura youth
+The arrest follows an investigation into a video of the alleged incident that circulated on social media and triggered widespread criticism.
 
-## Tiger Shroff firing suspect left Bihar two years ago, worked as a cook, bike-taxi driver: Police
-Only three months ago, he moved to Mumbai, where he worked as a cook at a restaurant and later as a bike-taxi driver and delivery partner, the police said.
+## The ‘Good Maharaja’: An Indian king who gave 650 Polish children a home during WWII
+The story dates back to 1942, when a ruler from Gujarat opened his doors to Polish children displaced by war.
 
-## ‘They’re just pictures of Indian flag': Raihan Vadra questions removal of protest photos from Delhi exhibition
-Vadra alleged that Bikaner House officials asked him to remove two photographs of the Indian flag from his exhibition, which he refused to do.
+## Karnataka urges Centre to fast-track wildlife clearance for Mekedatu drinking water project
+Karnataka CM D K Shivakumar has urged the Centre to expedite wildlife clearance for 20 boreholes for the Mekedatu drinking water project in Cauvery Wildlife Sanctuary.
 
-## Sit-ins, mass cease-work mark 3rd day of protest amid Manipur ethnic violence spike
-A committee formed in connection with the killing of three Meiteis urged people to observe a day’s mass cease-work
+## Hong Kong targets financial innovation to help ease economic ‘pain points’
+Hong Kong’s top banking regulator has called for greater innovation in the city’s financial system to help address “pain points” in the real economy, as the city works with mainland Chinese and Asia-Pacific partners to navigate a host of sustainability, geopolitical and other challenges. “True innov
 
-## BJP launches 15-day campaign to counter opposition’s SIR protests in Bihar
-The campaign will feature rallies, press conferences, youth and student dialogues and outreach to civil society groups to defend its position on electoral processes
+## US-China ties need more working-level dialogues, not just summits: business chamber
+The president of the American Chamber of Commerce in China (AmCham China) has urged Beijing and Washington to push more negotiations down to working-level officials, saying businesses need greater long-term stability in bilateral ties than leader-level diplomacy alone can provide. Michael Hart, pres
 
-## Jamia Millia Islamia cancels its 106th Foundation Day celebrations amid protest over students' union
-The protest demanding the restoration of the Jamia Millia Islamia Students’ Union, which was dissolved in 2006, entered its 10th day on October 22.
+## China expands tax workforce as tougher enforcement moves into spotlight
+Beijing’s plan to recruit more tax officers next year is drawing attention from businesses and wealthy families as tax compliance rises up the policy agenda and authorities intensify enforcement efforts. China’s 2027 national civil service recruitment plan includes 24,013 tax-related positions, acco
 
-## How to download e-Aadhaar online: From OTP authentication to PDF password
-Download your e-Aadhaar online using UIDAI's official portal. Learn about OTP verification, authentication requirements and the PDF password format
+## China targets offshore trusts in widening push for taxes
+Thursday marked the deadline for Chinese taxpayers to make outstanding tax payments tied to offshore trusts as the government chases new funding sources to help ease fiscal strains. Investors face a 20 per cent tax based on the initial value of assets placed in trusts and a 20 per cent tax on distri
 
 ## France’s borrowing costs reach 24-year high as riots deepen budget worries
 France’s 10-year borrowing cost topped 5 per cent again in early Paris trading on Thursday, a day after touching that level for the first time since 2002, as the country recovers from its worst urban riots in years and braces for more clashes to come. Analysts expected market pressure to persist in 
@@ -117,20 +135,14 @@ China has taken a major step in spearheading the standardisation of brain-comput
 ## Starbucks China rolls out buy-before-seating rule after reversing open-door policy in US
 Starbucks China says it will roll out its “purchase before seating” rule nationwide starting Thursday, with corresponding signs put in stores, following a similar policy it introduced at its North America stores last year. The Seattle-based coffee chain would prioritise helping visitors in need, suc
 
-## Hong Kong stocks head for 4-month low as chance of strong stimulus from Beijing shrinks
-Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge heading for its lowest level in nearly four months, as hopes faded that Beijing would introduce more meaningful stimulus measures, following recent economic data indicating the annual growth target was within reach. The Han
+## Hong Kong stocks fall most in 7 months as chance of strong stimulus from Beijing shrinks
+Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge capping its steepest decline in seven months, as hopes faded that Beijing would implement more meaningful stimulus policies, following latest economic data indicating the annual growth target was within reach. The Hang Seng
 
-## Receivers to sell indebted Shimao’s 2 Hong Kong hotels to Malaysian developer
-Receivers of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have agreed to sell the dual-branded complex, which together comprise the city’s third-largest hotel by room count, for HK$2.7 billion (US$344 million), Shimao Group announced on Thursday. In a filing to the Hong Ko
+## Brazil’s Sovereignty Is on the Ballot
+A far-right win in the country’s presidential election would open the door to U.S. military activity on Brazilian soil.
 
-## China’s stabilisation pledge did not lift stocks. Why are investors praising it?
-A slew of market-stabilising measures unveiled by the head of China’s securities regulator this week has won praise from investors, despite the fact that mainland stock prices did not roar back over the following days. The focus on supporting stocks and investor confidence over the long term, rather
-
-## Could Hong Kong’s student housing boom lure property giants off the sidelines?
-Hong Kong’s largest landlords and developers could get their first formal route into the rising student accommodation market after the government announced plans to tender land for a purpose-built student hostel this quarter, according to analysts. Development Secretary Bernadette Linn Hon-ho announ
-
-## Tesla signs deal to integrate Alipay into its cars as China competition heats up
-Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla r
+## Could AI Disinformation Disrupt the Midterms?
+The answers are more encouraging than you might think.
 
 ## What a New Rebel Alliance Means for Congo
 Former President Joseph Kabila has joined a coalition that seeks to challenge Kinshasa “by all means.”
@@ -150,11 +162,20 @@ How China’s leader divides power between his two most trusted lieutenants.
 ## NATO 3.0 Is a Dangerous Gamble
 The Trump administration’s plans threaten to undercut both pillars of deterrence at once.
 
-## The West Has a Crisis of Hope
-A former president of Estonia on the growing tide of global protest—and how today’s leaders can win back ordinary people.
+## To Import or Build? Southeast Asia’s Rolling Stock Dilemma
+Some of the region's governments are moving toward manufacturing their own rolling stock – but this comes with trade-offs.
 
-## They Fled Ethiopia’s War. Now, Israel May Send Them Back.
-A broken asylum system and shrinking resettlement options leave many with nowhere to turn.
+## China Coast Guard Says It Monitored Philippine Resupply Mission at Contested Shoal
+Last month, Manila accused Beijing of obstructing a similar mission to resupply troops stationed aboard a grounded warship on the shoal.
+
+## The Impending Impeachment Conviction of Philippine Vice President Sara Duterte
+Four months into her impeachment trial in the Senate, the political winds are starting to turn against Duterte.
+
+## Prabowo Accuses MSCI of Attempting to ‘Intimidate’ Indonesia After Downgrade Threat
+"We possess strength, we have courage, we are willing to make sacrifices, and we refuse to surrender," said the former general.
+
+## Inaccessible by Design: AIIB’s Complaint Mechanism
+The Asian Infrastructure Investment Bank has yet to approve a single complaint involving its projects for dispute resolution or compliance review.
 
 ## Why the China-US Naval Encounter at Sabina Shoal Is Different
 It’s a new kind of close encounter. Will it become a new normal?
@@ -165,26 +186,8 @@ Wellington’s latest environmental assessment highlights the growing economic r
 ## China’s AI Industry Brings Both Gains and Challenges for Its Fragile Economy
 China’s exports are surging, driven by AI-related technologies. National security-driven export bans could change that.
 
-## The China-US Quantum Computing Contest
-Insights from Matt Kinsella.
-
-## The Indian Government’s Job Statistics Are Misleading
-Behind the surge in EPFO numbers lies an uncomfortable question: is Delhi measuring new jobs or merely recording existing workers differently?
-
-## Is China Getting Involved in the Japan-Russia Territorial Dispute?
-Amid deepening China-Russia ties, a Chinese delegation visited one of the disputed Southern Kuril Islands.
-
-## Afghanistan’s Wakhan Transit Road Is a Long Shot to Connect with China
-The road has been officially inaugurated, but China and the Taliban have very different views of its function.
-
-## The US Army Looks to the Pacific – and Space – for Future Relevance
-Army leadership has focused on developing tools to contribute to a potential fight against China, a fight in which space assets will be critical.
-
 ## The Endless Chip War
 This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology
-
-## Deception in Mass Autonomous Warfare
-“[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
 
 ## The West Is Thinking Too Small About Ukraine’s Victory
 Since fall 2023, Ukraine’s supporters have fallen into a pattern: Ukrainians warn that Russia is targeting its energy infrastructure to prevent them from heating their homes, schools, and businesses in the coming winter. Allies provide insufficient support to Ukraine’s efforts to harden its energy g
@@ -203,6 +206,9 @@ In 2023, three North Korea analysts identified what they believe most people stu
 
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
+
+## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian strikes hit Kyiv after Witkoff meets Putin
-Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.
+## Yemenis face severe shortages in Taiz amid Houthi blockade
+Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.
 
-## Can Russia broker a new US-Iran deal?
-Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.
+## How Sudan’s shift to drone warfare is fuelling a civilian crisis
+Drone attacks on supply lines and safe cities are taking a devastating toll on civilians.
 
-## Angel Reese shines again as Dream down Valkyries to lead WNBA Finals
-Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.
+## Outposts, violence, impunity: The anatomy of Israeli settler land grabs
+With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.
 
-## Meta faces Australian lawsuit over alleged social media harm to children
-Class action could be first in Australia to blame social media for harming its users.
+## Macron blames ‘seditious’ far left for unrest as France bans some protests
+Thursday's planned demonstrations are outlawed in parts of Paris, Lyon, Lille and Grenoble.
 
-## Wrong national anthems played three times at Asian Para Games in Japan
-The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.
+## Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told
+Prosecutors have requested a 12-year prison sentence for Leopoldo Luque, one of seven healthcare professionals on trial.
 
-## In Israel election, Palestinian citizens weigh fear against disillusionment
-With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.
+## Shark returns to South Korea canal after failed rescue attempt
+An endangered shark swam back into a canal in South Korea after rescuers had led it back out to sea.
 
-## US universities are failing to protect victims of sexual assault
-The Cornell case shows how university bureaucracy discourages complaints and shields institutions.
+## What’s the PHP coding flaw that could pull down 70 percent of the internet?
+The vulnerability allows a hacker to change a website or extract data, including personal information.
 
-## China edge USA to women’s team gold at Gymnastics World Championships
-China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.
+## Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?
+US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
@@ -276,6 +282,12 @@ Big Four professional services firms in India have emerged as major players in t
 ## UAE VAT changes to increase costs and compliance burden for Indian businesses
 While the rules apply to all businesses operating in the UAE, Indian companies account for about 20-25% of total businesses, with over 265,000 operating as of June 2025, making the changes particularly relevant for them. "Indian-owned businesses in construction, hospitality, manufacturing, logistics
 
+## SEBI exploring proposal to allow REITs, InvITs to invest in third-party projects: ED Maninder Cheema
+SEBI is exploring a proposal to allow Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) to invest in third-party projects subject to certain conditions.
+
+## RBI rejects all 224 bids in T-bill auctions
+The recent treasury bill auctions on Wednesday saw the RBI reject all 224 bids, primarily due to constricted funds within the financial system. With government cash reserves hitting approximately ₹5.3 lakh crore, the central bank wasn't inclined to accept elevated bids.
+
 ## Why is the RBI pulling liquidity out of banks and injecting it back again?
 Reserve Bank of India has significantly reduced banking system liquidity from a peak surplus in a short time. Liquidity surged after banks received funds from overseas Indians under the FCNR(B) scheme. The central bank utilized reverse repo auctions and cash reserve ratio adjustments to absorb this 
 
@@ -293,10 +305,4 @@ US President Donald Trump waived key Russian sanctions which may enhance trade r
 
 ## India-New Zealand FTA takes effect October 20, opens duty-free access for Indian exports
 The India-New Zealand Free Trade Agreement (FTA) will come into force on Tuesday, October 20, providing duty-free access to Indian goods across the New Zealand market and opening up fresh opportunities for exporters, according to a presentation by the Ministry of Commerce and Industry.
-
-## RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure
-The Reserve Bank of India is implementing stricter scrutiny on large overseas direct investments by Indian companies. Banks must now collect and present detailed information regarding these investments to the RBI. This initiative aims to prevent potential losses for both the companies and the Indian
-
-## Banks tap RBI's first cash auction in 3 months as market rates spike
-In response to rising bank demands, the Reserve Bank of India executed a liquidity infusion to stabilize interbank borrowing rates amid substantial tax outflows. Following this operation, overnight borrowing costs surged as the RBI raised rates to tackle inflation. A notable increase in bids suggest
 
