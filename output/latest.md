@@ -1,120 +1,126 @@
 # AION Intelligence
 
-## Australian iron ore miner warns of production slowdown without China deal
-Fortescue says operations ‘may be affected’ by talks with state-backed commodities buyer
+## Global stocks tumble as oil prices rise
+China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens
+
+## Fixing Britain’s welfare state and the limits of AI policymaking
+Dependence on the technology risks worsening what Starmer dubbed ‘the warm bath of managed decline’ in Whitehall
+
+## Nestlé removes Russian business from accounts after Kremlin takeover
+Swiss group takes $1.95bn net assets from its balance sheet after presidential decree to control business
+
+## Ukraine to buy military supplies via Nato agency
+Agreement could allow Kyiv to speed up delivery of ammunition and weapons at lower cost
+
+## Liquidators of Chinese property giant pursue Harvard to recoup donation
+China Evergrande had given millions of dollars to university in decade before its collapse
 
 ## US orders some personnel to leave Saudi Arabia after Houthi attacks
 Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
 
-## Musk sets lower sales target for Tesla as it explores SpaceX merger
-Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI
+## Websites taken offline in race to patch PHP security flaw
+Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities
 
-## Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’
-Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world
+## Russian missiles bombard Kyiv after Witkoff-Putin talks
+Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push
 
-## Is corporate India’s exuberance merited?
-The gap between corporate India’s public optimism and household and investor anxiety has become increasingly apparent
+## Hermès hit by ‘challenging’ economic backdrop in China and Middle East
+Luxury brand’s sales miss forecast despite strong growth in handbags and leather goods
 
-## Poor-quality degrees ‘tarnish’ reputation of English universities, regulator warns
-Office For Students warns outcomes were worse than for students attending sponsoring institutions
+## FT Wealth: October
+In this edition: Global yacht boom turns marinas into valuable assets; brewing fortune finds social purpose in challenging the system; how a gargantuan home foretold our Mar-a-Lago world; landowners reap dividends from regenerative agriculture; well-written letter of wishes can save a lot of grief; 
 
-## UK students who graduated in 2024 more likely to be unemployed
-Problems facing small businesses a bigger factor than AI in tough jobs market, analysis shows
+## Barclays plans 5,000 job cuts as bank steps up AI adoption
+Reductions announced as third-quarter profits fall short of City expectations
 
-## China’s drugmakers move into the big league
-Foreign pharma groups are now paying to access innovation developed locally
+## Hyperscalers and how to rate them
+In the land of known unknowns
 
-## Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
-Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
+## Sensex today | Stock Market Live: Sensex, Nifty struggle to rise in choppy trade; 432 stocks hit 52-week lows
+Sensex, Nifty, Share Prices LIVE: Equity benchmarks Sensex and Nifty recovered partially from their opening lows by midday on Thursday but remained firmly in the red for a third consecutive session, weighed down by surging crude oil prices, geopolitical uncertainty and broad-based selling across sec
 
-## Buyout firm EQT acquires German diagnostics group in €10.8bn deal
-Move for Germany’s Qiagen is one of the largest take-private transactions in Europe this year
+## Many areas inundated, dams fill up as TN receives widespread downpour
 
-## LSEG nears $3.5bn deal to buy credit data specialist Octus
-Transaction would enhance London Stock Exchange Group’s services for customers
 
-## FirstFT: Scott Bessent shrugs off ‘systemic’ AI risks at private event with investors
-Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery makers race to invest abroad
+## Restoring degraded landscapes can help improve rural income: WRI India
+Almost of half of India’s agricultural soils have poor soil health and low soil organic carbon impacting agricultural productivity, says Ruchika Singh, Executive Programme Director - Food, Land and Water, WRI India
 
-## Submit a question: Could Anthropic’s IPO be a turning point for AI?
-Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
+## Centre, LIC to become public shareholders in IDBI Bank after strategic sale: DIPAM Secretary
+Following the strategic restructuring, the responsibility to run the bank and infuse capital whenever required would rest with the strategic buyer, he told PTI
 
-## RBI turns away all bids at treasury bill sale amid bond selloff
-This marks the first time since late March that an entire sale of treasury bills was cancelled
+## Indian national killed in Saudi airport attack, 2 others injured
+The Indian Embassy in Riyadh said it is in touch with Saudi authorities and awaiting further details about the incident, which took place on Wednesday.
 
-## Sensex today | Stock Market Live: Markets likely to open lower as high oil prices fuel inflation worries
-Sensex, Nifty, Share Prices LIVE: Indian shares are expected to open lower on Thursday, extending losses from the previous ​two sessions, as the escalating Middle East war keeps oil ‌above $110 per barrel, stoking inflation concerns.
+## Jio Platforms IPO: Terrific history, future prized or pricey?
 
-## Govt bond selloff to continue as RBI policy minutes hint at more rate hikes
-Benchmark ⁠6.94% 2036 bond yield may trade between 7.40% and 7.47%, trader at a primary dealership says
 
-## Stocks to watch, Oct 22: Sagility India, Tata Communications, Bharat Electronics, Omnitech, PDS, SEAMEC
-Here are details about stocks that are most likely to see action today
+## 360 ONE allots 4.8% stake to UBS AG following warrant exercise
+UBS AG had subscribed to 20,502,939 warrants on a preferential basis under an agreement with 360 ONE
 
-## Comcast plans significant job cuts ahead of NBCUniversal spin-off
-The media and telecom company is reshaping its operations amid subscriber losses, growing competition and efforts to strengthen its independent business
+## TTML narrows Q2 loss to ₹59 crore, revenue up 8%; stock surges 9% on results day
+Revenue from operations rose 8.2% year-on-year to ₹309.65 crore; the stock jumped 9.26% to ₹35.03 on the NSE by early afternoon on volumes of over 9.16 crore shares
 
-## Meta ordered to pay $25 billion in New Mexico privacy lawsuit
-The judgment follows years of litigation over consumer protection claims and adds to mounting legal challenges facing the technology company.
+## India’s private capex pipeline rises 39% to Rs 99.7 lakh crore, UBI flags risks
+India's private sector investments have surged to Rs 99.7 lakh crore, marking a remarkable growth of 39% over the year. This significant uptick is largely driven by larger projects, indicating a trend toward consolidation in investment plans. Maharashtra leads as a primary destination for these inve
 
-## Mukesh Ambani hosts Marco Rubio at Reliance’s Jamnagar refinery
-The visit featured discussions on energy security, advanced manufacturing, digital infrastructure and opportunities for commercial collaboration between Indian and American companies.
+## Tata Sons vs Tata Trusts: Both sides explore insurance cover as legal battle looms
+Tata Sons and Tata Trusts are actively evaluating their insurance policies in light of recent legal disputes. This exploration aims to ascertain the level of protection they have against potential lawsuits and legal expenses. The tension rose significantly following a contentious board meeting held 
 
-## Walmart launches AI tools to let agents shop and complete purchases
-The retailer is expanding its AI commerce strategy with new tools designed to connect digital assistants directly to its shopping systems.
+## Tesla reports $1.53 bn in free cash flow amid one-fifth cut to 2026 spending forecast
+Tesla generated $1.53 billion in free cash flow in the third quarter, which exceeded market expectations. The company's capital expenditure forecast for 2026 was cut to approximately $20 billion from over $25 billion. Tesla's revenue was flat compared to the previous year but still surpassed estimat
+
+## Rupee under pressure: Currency slips to 94.50 as oil rises, Dalal Street struggles in red
+The Indian Rupee fell by 12 paise, settling at 94.50 against the US dollar, driven primarily by surging crude oil prices. However, the currency found some respite from a weaker dollar and declining US treasury yields. Local stock market volatility and climbing oil costs further pressured the rupee. 
+
+## Wife’s father paid for joint house; Kerala HC orders husband to vacate
+The dispute involved a couple who got married in 2012. The woman told the court that her father had paid Rs 30 lakh to purchase the house for her future security. Although the property was registered jointly, she maintained that her husband had contributed nothing towards the purchase and therefore 
+
+## Stock market today: Sensex plunges over 600 points, Nifty50 tumbles to 22,600
+
+
+## Which are the top stocks to buy on October 22, 2026? Check list
+Top stock market recommendations: Persistent Systems, Sagility, and Waaree Energies - these are the top stocks to buy that Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth has identified for October 22, 2026.
 
 ## Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies
 Oil prices surged past $110 a barrel as Houthi attacks in Saudi Arabia raised alarms. The US took precautionary measures by evacuating diplomats' families from the kingdom amid escalating security issues. Simultaneously, US crude inventories dropped sharply, while distillate stocks showed an unexpec
 
-## SBI confirms data leak, says 4,000 customer records identified on dark web
-The disclosure follows a claim by cybersecurity monitoring account CyberPulse that a threat actor using the name Siriusim had leaked documents and personal data allegedly linked to SBI. The post claimed the dataset contained 3,75,000 rows in CSV files and 2,722 PDF documents, including customer info
+## Meghalaya’s hills hum with a hidden world of bees key to honey economy, crop pollination, conservation
+Meghalaya’s rich bee diversity, traditional beekeeping, planned Bee Museum stress efforts to promote honey production, pollinator conservation, rural livelihood
 
-## HDFC Bank probes 2 executives for leak of sensitive information
-The bank confirmed that an internal probe was underway. “In line with our policies, a review is currently underway to gather and evaluate all relevant facts. To protect the integrity of the process and the privacy of all parties involved, we do not comment on active internal reviews,” the bank said.
+## ‘Protests achieve nothing’: Amit Shah takes dig at Rahul Gandhi, says Congress won't win polls even in ‘30 years’
+Launching a scathing attack on the Opposition, Shah said that the Congress party would not be able to win elections in 30 years due to its “negative politics”.
 
-## Jio IPO subscribed within 100 mins; subscribed over 3x on Day 1
-The institutional (QIB) part of the IPO, in which a little over 4.9 crore shares were offered, was subscribed nearly 9.5 times while the high-net-worth investors’ portion, in which about 3.6 crore shares were reserved, was subscribed 1.7 times. Usually, in most initial offerings, institutional playe
+## Tiger Shroff firing suspect left Bihar two years ago, worked as a cook, bike-taxi driver: Police
+Only three months ago, he moved to Mumbai, where he worked as a cook at a restaurant and later as a bike-taxi driver and delivery partner, the police said.
 
-## SpaceX, Tesla boards weigh $3.5 trillion merger; Elon Musk endorses idea
-SpaceX is valued at more than $2 trillion, while Tesla has a market value of about $1.5 trillion. When asked on the call about the prospects of merging the two companies, Musk initially said he was “tap dancing through a minefield” before going into more detail. He cautioned that getting enough supp
+## ‘They’re just pictures of Indian flag': Raihan Vadra questions removal of protest photos from Delhi exhibition
+Vadra alleged that Bikaner House officials asked him to remove two photographs of the Indian flag from his exhibition, which he refused to do.
 
-## Rate hike: RBI more hawkish than external members at meet
-RBI’s MPC voted unanimously to raise the repo rate by 25 basis points to 5.5%, but split 4-2 on shifting to calibrated tightening, signalling rate cuts were off the table in the near term as inflation threatens to spread beyond food and fuel. Governor Sanjay Malhotra, deputy governor Poonam Gupta, e
+## Sit-ins, mass cease-work mark 3rd day of protest amid Manipur ethnic violence spike
+A committee formed in connection with the killing of three Meiteis urged people to observe a day’s mass cease-work
 
-## Surge in gold loans partly reflects stress, say lenders
-During the company’s Q2FY27 earnings, Piramal Finance MD & CEO Jairam Sridharan said 15% to 23% of gross gold loan disbursements across the industry over the past year went to customers already more than 90 days overdue. Piramal’s policy bars lending to such borrowers. According to RBI data, gold lo
+## BJP launches 15-day campaign to counter opposition’s SIR protests in Bihar
+The campaign will feature rallies, press conferences, youth and student dialogues and outreach to civil society groups to defend its position on electoral processes
 
-## Security flaw: eMudhra shares take a hit, fall 20%
-The flaw occurred during a key-generation ceremony on April 30, 2025, when a second set of weak keys was generated alongside the original strong keys. Mozilla cryptography engineer Dennis Jackson reported the issue on Oct 17, flagging insufficient randomness that made the keys vulnerable to recovery
+## Jamia Millia Islamia cancels its 106th Foundation Day celebrations amid protest over students' union
+The protest demanding the restoration of the Jamia Millia Islamia Students’ Union, which was dissolved in 2006, entered its 10th day on October 22.
 
-## HT Morning News Brief October 22: 10 arrests in Tiger Shroff case, CJP leaders' release and more
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+## How to download e-Aadhaar online: From OTP authentication to PDF password
+Download your e-Aadhaar online using UIDAI's official portal. Learn about OTP verification, authentication requirements and the PDF password format
 
-## Delhi’s air quality remains ‘poor’ for second consecutive day; no relief expected in coming days
-Stubble burning’s share of the city’s pollution areto rise from 3.9% on Wednesday to 7.4% on Thursday and 15.9% on Friday
+## France’s borrowing costs reach 24-year high as riots deepen budget worries
+France’s 10-year borrowing cost topped 5 per cent again in early Paris trading on Thursday, a day after touching that level for the first time since 2002, as the country recovers from its worst urban riots in years and braces for more clashes to come. Analysts expected market pressure to persist in 
 
-## Venezuelan crude, Russian oil, trade deal: What US Secretary of State Marco Rubio’s India visit signalled
-The trip offered a clear view of the Trump administration’s priorities in India, with energy, and Venezuelan crude in particular, at the top.
+## China moves to set global standards for brain-computer interface technology
+China has taken a major step in spearheading the standardisation of brain-computer interface (BCI) technologies, as it now chairs the secretariat of a subcommittee jointly overseen by two key international organisations and lists the technology applications as a national development priority. The Ch
 
-## El Nino could be unprecedented, may rise to 3.8°C above average between Nov-Jan: WMO
-A peak is likely in December, with weather patterns to be disrupted globally, including higher than normal temperatures and weaker rainfall in south and southeast Asia, including India
-
-## INDIA bloc plans next round of protests against CEC Gyanesh Kumar in early November
-The Opposition leaders have started discussing ideas for another round of protests after the series of marches in central Delhi in the second week of October.
-
-## Core sector growth rises to 7.9%, highest in new series
-Core sector industries output, as measured by the Index of Core Industries (ICI) stood at 7.9% in September, up from 5.9% in August, according to data released by Ministry of Commerce and Industry on Wednesday. September output was the highest growth in the new ICI series, which has 2022-23 as its b
-
-## Energy ties in focus as Ambani hosts Marco Rubio at Jamnagar
-Officials said Rubio was expected to discuss Venezuelan crude and RIL’s proposed refinery project in the US during the visit.
-
-## 30% of India’s croplands technically suitable for solar agrovoltaics: Pralhad Joshi
-Joshi also said the new PM-Kusum 2.0 includes a dedicated agrivoltaics component, with immense potential to expand India’s solar capacity while substantially benefiting farmers.
+## Starbucks China rolls out buy-before-seating rule after reversing open-door policy in US
+Starbucks China says it will roll out its “purchase before seating” rule nationwide starting Thursday, with corresponding signs put in stores, following a similar policy it introduced at its North America stores last year. The Seattle-based coffee chain would prioritise helping visitors in need, suc
 
 ## Hong Kong stocks head for 4-month low as chance of strong stimulus from Beijing shrinks
-Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge heading for its lowest level in nearly four months, as hopes fade that Beijing would introduce aggressive stimulus measures following recent economic data indicating the annual growth target was within reach. The Hang Seng 
+Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge heading for its lowest level in nearly four months, as hopes faded that Beijing would introduce more meaningful stimulus measures, following recent economic data indicating the annual growth target was within reach. The Han
 
-## Receivers to sell mainland developer Shimao’s 2 Hong Kong hotels for US$344 million
+## Receivers to sell indebted Shimao’s 2 Hong Kong hotels to Malaysian developer
 Receivers of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have agreed to sell the dual-branded complex, which together comprise the city’s third-largest hotel by room count, for HK$2.7 billion (US$344 million), Shimao Group announced on Thursday. In a filing to the Hong Ko
 
 ## China’s stabilisation pledge did not lift stocks. Why are investors praising it?
@@ -125,15 +131,6 @@ Hong Kong’s largest landlords and developers could get their first formal rout
 
 ## Tesla signs deal to integrate Alipay into its cars as China competition heats up
 Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla r
-
-## Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts
-The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say. The US Department of Homeland Security (DHS) ordered federal c
-
-## Hong Kong working to boost global banks’ use of yuan trading tools
-Hong Kong has vowed to engage more international banks in a debt securities clearing system, as part of a wider push to develop the city into a leading global yuan trading hub. “Hong Kong is actively promoting a number of measures to advance the city’s offshore yuan market to higher and deeper level
-
-## China’s offshore tax crackdown could inadvertently fuel a digital dollar boom
-From October 22, China’s grace period for the disclosure and settlement of certain offshore-trust tax liabilities ends. For the Chinese government, this deadline highlights its desire to affirm control over capital outflows, while for Chinese high-net-worth families, it serves as a reminder that it 
 
 ## What a New Rebel Alliance Means for Congo
 Former President Joseph Kabila has joined a coalition that seeks to challenge Kinshasa “by all means.”
@@ -183,6 +180,15 @@ The road has been officially inaugurated, but China and the Taliban have very di
 ## The US Army Looks to the Pacific – and Space – for Future Relevance
 Army leadership has focused on developing tools to contribute to a potential fight against China, a fight in which space assets will be critical.
 
+## The Endless Chip War
+This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology
+
+## Deception in Mass Autonomous Warfare
+“[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
+
+## The West Is Thinking Too Small About Ukraine’s Victory
+Since fall 2023, Ukraine’s supporters have fallen into a pattern: Ukrainians warn that Russia is targeting its energy infrastructure to prevent them from heating their homes, schools, and businesses in the coming winter. Allies provide insufficient support to Ukraine’s efforts to harden its energy g
+
 ## Fighting in Ethiopia and the Risk of Regional Spillover
 In September, fighting broke out in Ethiopia’s Tigray region between Ethiopian government forces and the Tigray People’s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the bo
 
@@ -197,15 +203,6 @@ In 2023, three North Korea analysts identified what they believe most people stu
 
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
-
-## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
-
-## The Pentagon Doesn’t Need to Reinvent Supply Chain Transparency
-As the United States seeks to rebuild its defense industrial base, Washington is scrambling to understand an industrial ecosystem that it no longer controls, nor largely understands. China has been able to achieve strategic advantage against the United States through the targeted application of expo
-
-## March Separately, Strike Combined: Rethinking Mass and Maneuver on the Transparent Battlefield
-Between May 10 and 13, 1940, German Panzer Group Kleist advanced through the densely wooded Ardennes Forest, which the French considered impenetrable to large, mechanized formations. Numbering five armored and three motorized infantry divisions, totaling around 41,000 vehicles, the entire panzer gro
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Can Trump deport Congresswoman Ilhan Omar?
-Can Trump deport Congresswoman Ilhan Omar?
+## Russian strikes hit Kyiv after Witkoff meets Putin
+Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.
 
-## Russia frees American Stephen Hubbard after 4 years behind bars
-Russia frees American Stephen Hubbard after 4 years behind bars
+## Can Russia broker a new US-Iran deal?
+Russia’s nuclear expertise, close ties with Tehran and negotiation experience could give Moscow an edge as a mediator.
 
-## Tigray resumes daily life amid fears of wider war
-Mekelle’s reopening offers little relief as instability and economic hardship persist.
+## Angel Reese shines again as Dream down Valkyries to lead WNBA Finals
+Atlanta's Reese has become the only woman in history to record consecutive double-doubles in three WNBA Finals games.
 
-## What is the FDLR, and why does its anti-Tutsi ideology endure?
-Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.
+## Meta faces Australian lawsuit over alleged social media harm to children
+Class action could be first in Australia to blame social media for harming its users.
 
-## Qatar, France call for opening of Hormuz and Gaza ceasefire implementation
-Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.
+## Wrong national anthems played three times at Asian Para Games in Japan
+The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.
 
-## Colombian president purges National Museum of works promoting ‘communism’
-Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions.
+## In Israel election, Palestinian citizens weigh fear against disillusionment
+With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.
 
-## George W Bush’s brother backs Democrat James Talarico in Texas Senate race
-Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton.
+## US universities are failing to protect victims of sexual assault
+The Cornell case shows how university bureaucracy discourages complaints and shields institutions.
 
-## One killed, eight injured in attack on Saudi Arabia’s King Fahd airport
-Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.
+## China edge USA to women’s team gold at Gymnastics World Championships
+China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
