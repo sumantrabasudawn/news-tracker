@@ -1,70 +1,70 @@
 # AION Intelligence
 
-## Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
-Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
-
-## Shell and Exxon’s $8bn UK chemicals unit put up for sale
-Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations
-
-## ECB on course for another rate rise in 2026
-Read the October scenario by the FT’s Monetary Policy Radar team
-
-## Russia drops cluster warheads on Kyiv after Witkoff-Putin peace talks
-Bombs designed to cause widespread damage hit Ukraine capital hours after Donald Trump’s envoy met Russian president in diplomatic push
-
-## Turkey cuts interest rates despite $18bn investment funds scandal
-Central bank lowers benchmark rate to 36% as inflation eases
+## Meta sell-off drags US tech stocks lower as AI spending fears flare up
+US Treasuries rally strongly as traders rush into haven assets
 
 ## Macron warns some protests will be banned
-French president says labour unions will be allowed to organise marches on Saturday, but not other activists
+French president says labour unions can hold marches on Saturday but not other activists in effort to prevent more rioting
 
-## Serbia’s students should take a leaf out of Magyar’s book
-Ahead of elections this weekend, those attempting to topple the Vučić regime should consider reform, not revolution
+## Ecuador opposition leader arrested in money laundering investigation
+Detention comes as president has been criticised for expanding campaign against drug traffickers to include rivals
 
-## Europe’s moderates must stop treating politics as a spectator sport
-While centrists have retreated to myriad bubbles, extremists turn up, join up and organise
+## US to fund speculative fusion venture backed by investors with ties to Trump
+Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law
 
-## How are AI agents changing work inside Anthropic?
-The company is hiring relatively fewer junior-level staff while increasing the number of managers and meetings
+## Number of UK founders choosing to sell not scale hits eight-year high
+Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs
 
-## Blackstone cuts property valuations as higher rates hit returns
-Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs
+## Steve Cohen takes Hertz for a defensive spin
+The hedge fund boss is taking a punt on just a part of the heavily indebted car rental company
 
-## Why climate could soon move back up the global agenda
-IEA chief Fatih Birol told an FT summit that ‘quick’ and ‘cheap’ renewables could drive renewed focus even as energy disruption drags on
+## Germany’s Merz warns of ‘intense’ Russian espionage after arrest
+German authorities detain Ukrainian national suspected of passing on intelligence about military sites and arms manufacturers to the Kremlin
 
-## FirstFT: Global equities hit by rise in oil prices
-Also in today’s newsletter: Barclays axes 5,000 jobs and companies race to protect their websites
+## Trump’s tourism push fails to lure visitors
+Number of tourist arrivals in US continues to drop following football World Cup
 
-## Websites taken offline in race to patch PHP security flaw
-Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities
+## Starlink saga shows why Europe must catch up in space
+US tech is far ahead, but Brussels still needs its own satellite networks and launch capacity
 
-## Europe’s underrated digital trailblazing
-At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy
+## Kering’s revenues hit by drop in sales at flagship brand Gucci
+Quarterly performance likely to delay chief executive Luca de Meo’s efforts to revive struggling luxury group
 
-## Q2 Results Today Live Updates: Adani Energy Solutions PAT surges 145%, CPCL profit triples; Havells profit up 9.7%, Jindal Stainless Q2 profit rises 11.1%, Colgate profit rise 4.3%, Adani Total Gas Q2 net profit rises 3%; Swiggy shares tumble over 5%
-Q2 Results Today, 22nd October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earning on Adani Energy, HPCL, Havells, Swiggy, Colgate, Hatsun, Cyient, Adani Total Gas, Nippon Life and others
+## Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators
+Collapse into insolvency of historic Welsh steelworks threatens future of 50-year-old plant
 
-## J&K bank’s Q2 net profit rises 28.8% sequentially to ₹546 crore due to improved asset quality
-Net profit stood at ₹424.18 crore in the April-June quarter and ₹494.11 crore in the year-earlier period
+## Could Anthropic’s IPO be a turning point for AI? You asked, we answered
+Tech writer at large Richard Waters and venture capital correspondent George Hammond replied to reader questions
 
-## Delhi’s vehicle curbs put 1.9 lakh older trucks, 16,000 buses in replacement spotlight
-Some restrictions have no fixed expiry date
+## Would you take out a mortgage backed by bitcoin?
+US officials are encouraging the use of crypto holdings as home-loan collateral
 
-## Experts warn of weaker oversight of medical colleges after NMC scraps 2023 standards rules
-Physical inspections had already become less frequent for some processes, such as applications to add seats in existing colleges, making it harder to catch “ghost faculty” or claimed infrastructure that does not exist
+## ‘Know Your Agent’ will be the new rule of the AI age
+As autonomous software does more, we need to focus on how to control its behaviour and establish accountability
+
+## Maharashtra to unveil dedicated chemicals policy by first week of November
+Maharashtra aims to strengthen its chemicals industry through a dedicated policy, port-linked infrastructure and a proposed large-scale industrial park.
+
+## Why crocodiles survived the asteroid strike that wiped out dinosaurs, study finds
+A study of more than 400 crocodilian species suggests their climate preferences and ability to withstand food shortages aided their survival.
+
+## Why young manta rays stay close to shore while adults migrate hundreds of kilometres
+Tracking data from 2018 to 2025 reveals how manta rays change their movements with age and repeatedly return to preferred coastal sites
+
+## NLC India plans ₹35,000-crore Odisha power plant, explores coal gasification and mineral processing
+The proposed projects span power generation, fertiliser-related technology and mineral processing, with the thermal plant expected to create about 4,000 jobs
+
+## Yes Bank unlikely to pay AT1 bond coupons despite bondholders’ demands, sources say
+Bondholders are seeking clarity on overdue interest payments as the lender weighs its legal options following the Supreme Court’s decision
+
+## Adani Total Gas Q2 profit rises 6% to ₹173 cr
+ATGL’s revenue growth was driven by a 12 per cent% year-on-year increase in gas sales volumes to 315 million standard cubic metres (MMSCM) in the July-September quarter
 
 ## Why solar energy is becoming a global security strategy | Ashish Khanna | Energonomics EP 39
 India’s solar success story: Can Surya Ghar and PM-KUSUM go global?
 
-## eMudhra exits the global certificate business to focus on Core Enterprise Solutions
-The company will assist affected customers to replace any certificate free of cost from partners through the transition
-
-## BSE, MMTC-PAMP partner to boost India’s electronic gold receipts market
-Under the partnership, BSE will launch EGR contracts in multiple denominations and enable seamless conversion between physical gold and electronic receipts
-
-## haf.vc invests ₹3 crore in Hunar.AI
-The startup will use the funds for AI infrastructure, product development, sales and market expansion
+## India extends duty-free raw sugar import deadline to December 31
+The extension gives importers additional time to bring in raw sugar under the duty-free import allowance, according to an official notification.
 
 ## India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained
 Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against thi
@@ -90,29 +90,29 @@ The Indian Rupee fell by 12 paise, settling at 94.50 against the US dollar, driv
 ## Wife’s father paid for joint house; Kerala HC orders husband to vacate
 The dispute involved a couple who got married in 2012. The woman told the court that her father had paid Rs 30 lakh to purchase the house for her future security. Although the property was registered jointly, she maintained that her husband had contributed nothing towards the purchase and therefore 
 
-## ‘Deprived of democracy’: Wangchuk says cancelled home ministry meeting has broken Ladakh’s trust
-Sonam Wangchuk accuses the Centre of denying Ladakh democracy after a home ministry meeting was cancelled, saying leaders may take their demand for safeguards to the UN.
+## Chennai YouTuber arrested for allegedly abetting suicide of influencer
+The accused allegedly posted defamatory videos targeting the influencer and threatened him in an attempt to extort money, a police official said.
 
-## ‘Nothing wrong with regime change’, Neha Bora tells Delhi HC; cops counter her
-Neha Bora was detained during a protest at Mandi House last week and released after approximately 12 hours.
+## Power supply hit in Gurugram, Faridabad and Nuh as workers strike over privatisation
+A strike by DHBVN workers disrupted power across three Haryana districts from Wednesday night, generating more than 3,000 complaints in 12 hours.
 
-## Karnataka CM Shivakumar orders probe after police stop 3 Dalit ministers at Mysuru Palace Dasara puja
-Karnataka CM D K Shivakumar orders an inquiry after police stop three Dalit ministers at Mysuru Palace during Dasara puja, triggering a political row over social justice.
+## ‘Rahul Gandhi should become PM’: Revanth Reddy's appeal in Telangana
+Reddy said the country was at a critical juncture and urged members of the Nehru family to take responsibility for its future.
 
-## 'We should understand them': Ex-Army chief Naravane on Gen Z's approach amidst recent protests
-Advocating for patient listening and empathy, he added, "We should try to understand them.
+## Upper caste activists gherao HP Secretariat; demand UGC notification rollback, Swaran Aayog
+Panchayat and Rural Development Minister Anirudh Singh was deputed to talk to the protesters on Thursday.
 
-## HT Evening News Brief October 22: India condemns Houthi attacks in Saudi, Diljit Dosanjh concert denied police nod in Delhi and more
-Here are the top updates from across the country, the world and from the field of sports and entertainment.
+## Power department staff begins 3-day strike against private discom in Gurugram, Nuh
+The Haryana Bijli Karamchari and Engineers Joint Sangharsh Morcha called for a strike after the power sector regulator granted a licence to a private firm.
 
-## Delhi-based creator Amir Shokeen arrested over racial abuse of Tripura youth
-The arrest follows an investigation into a video of the alleged incident that circulated on social media and triggered widespread criticism.
+## Gangster who claimed responsibility in Tiger Shroff firing case named wanted accused
+Pandit, a member of the Lawrence Bishnoi gang, who had allegedly claimed responsibility for the on Tiger Shroff, has been named as a wanted accused in the case.
 
-## The ‘Good Maharaja’: An Indian king who gave 650 Polish children a home during WWII
-The story dates back to 1942, when a ruler from Gujarat opened his doors to Polish children displaced by war.
+## PM Modi says Congress tarnishes India's image abroad: 'They seek intervention in internal affairs'
+PM Modi also accused the Congress of undermining movements that sought to hold the government accountable and push for reforms.
 
-## Karnataka urges Centre to fast-track wildlife clearance for Mekedatu drinking water project
-Karnataka CM D K Shivakumar has urged the Centre to expedite wildlife clearance for 20 boreholes for the Mekedatu drinking water project in Cauvery Wildlife Sanctuary.
+## Cong is fine when it wins, blames BJP and EC when it loses: Bhupender Yadav
+Union minister Bhupender Yadav accuses the Opposition of trying to destabilise Indian democracy through its allegations against the Election Commission over SIR.
 
 ## Hong Kong targets financial innovation to help ease economic ‘pain points’
 Hong Kong’s top banking regulator has called for greater innovation in the city’s financial system to help address “pain points” in the real economy, as the city works with mainland Chinese and Asia-Pacific partners to navigate a host of sustainability, geopolitical and other challenges. “True innov
@@ -138,6 +138,9 @@ Starbucks China says it will roll out its “purchase before seating” rule nat
 ## Hong Kong stocks fall most in 7 months as chance of strong stimulus from Beijing shrinks
 Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge capping its steepest decline in seven months, as hopes faded that Beijing would implement more meaningful stimulus policies, following latest economic data indicating the annual growth target was within reach. The Hang Seng
 
+## Europe Is Asking the Wrong Question About Russia’s Hybrid War
+Leaders are debating what to call it—rather than what to do.
+
 ## Brazil’s Sovereignty Is on the Ballot
 A far-right win in the country’s presidential election would open the door to U.S. military activity on Brazilian soil.
 
@@ -159,32 +162,29 @@ The Russian leader said he is ready to resume negotiations but refused to compro
 ## Xi’s Gang of Three
 How China’s leader divides power between his two most trusted lieutenants.
 
-## NATO 3.0 Is a Dangerous Gamble
-The Trump administration’s plans threaten to undercut both pillars of deterrence at once.
+## This Time, the Korean Loudspeaker Standoff Is Different
+Typically, South Korea has used loudspeakers to respond to North Korean provocations. Now Pyongyang has vowed to turn them on – and the prospects for de-escalation are dim.
 
-## To Import or Build? Southeast Asia’s Rolling Stock Dilemma
-Some of the region's governments are moving toward manufacturing their own rolling stock – but this comes with trade-offs.
+## The US Is Losing to China in the Battle of Global Influence
+China is building a dense network of relationships across all pillars of influence while the United States continues to weaken the institutions it traditionally used to compete.
 
-## China Coast Guard Says It Monitored Philippine Resupply Mission at Contested Shoal
-Last month, Manila accused Beijing of obstructing a similar mission to resupply troops stationed aboard a grounded warship on the shoal.
+## Philippine Energy Security Could Determine the Outcome of a Taiwan Contingency
+Any Sino-American conflict would place enormous pressure on fuel supplies. U.S. fuel dependence turns Manila’s energy fragility into a strategic vulnerability.
 
-## The Impending Impeachment Conviction of Philippine Vice President Sara Duterte
-Four months into her impeachment trial in the Senate, the political winds are starting to turn against Duterte.
+## How to Fix South Korea-Ukraine Relations
+Clear ground rules could not only help resolve the North Korean POW standoff but prevent the next case.
 
-## Prabowo Accuses MSCI of Attempting to ‘Intimidate’ Indonesia After Downgrade Threat
-"We possess strength, we have courage, we are willing to make sacrifices, and we refuse to surrender," said the former general.
+## Censorship in Pakistan Goes From ‘Pleasant’ to ‘Unpleasant’
+Authorities have directed satellite TV channels to refrain from broadcasting or providing live coverage of "unpleasant incidents," meaning shootings, blasts and terrorist attacks.
 
-## Inaccessible by Design: AIIB’s Complaint Mechanism
-The Asian Infrastructure Investment Bank has yet to approve a single complaint involving its projects for dispute resolution or compliance review.
+## Hong Kong’s Vanishing Rainbow Shows How China’s Social Control Travels
+From Hong Kong to Bangkok, Paris, Taiwan, and North America, LGBTQ communities are encountering censorship, surveillance, and coercive pressure linked to China.
 
-## Why the China-US Naval Encounter at Sabina Shoal Is Different
-It’s a new kind of close encounter. Will it become a new normal?
+## UNDP Asia-Pacific Director Kanni Wignaraja on the Necessity of Redefining Security
+“If governments are serious about security in the fullest sense, investment in development is non-negotiable.”
 
-## New Zealand’s Climate Report Tests Its Pacific Leadership
-Wellington’s latest environmental assessment highlights the growing economic risks of climate change, raising questions about whether government policy can keep pace.
-
-## China’s AI Industry Brings Both Gains and Challenges for Its Fragile Economy
-China’s exports are surging, driven by AI-related technologies. National security-driven export bans could change that.
+## What Happened to Gwadar’s Rights Movement?
+Haq Do Tehreek, the movement that once brought the world’s attention to Gwadar’s longstanding grievances, is a pale shadow of its former self.
 
 ## The Endless Chip War
 This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Yemenis face severe shortages in Taiz amid Houthi blockade
-Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.
+## Israel frees suspects in two settler attacks as West Bank pogroms intensify
+Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.
 
-## How Sudan’s shift to drone warfare is fuelling a civilian crisis
-Drone attacks on supply lines and safe cities are taking a devastating toll on civilians.
+## Trump says NBA star LeBron James disrespected US national anthem
+NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.
 
-## Outposts, violence, impunity: The anatomy of Israeli settler land grabs
-With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.
+## Iran says seven ships hit in Hormuz Strait, warns US of wider response
+The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections.
 
-## Macron blames ‘seditious’ far left for unrest as France bans some protests
-Thursday's planned demonstrations are outlawed in parts of Paris, Lyon, Lille and Grenoble.
+## US-sanctioned ICC wins top EU human rights award
+The EU has awarded the International Criminal Court its top human rights award.
 
-## Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told
-Prosecutors have requested a 12-year prison sentence for Leopoldo Luque, one of seven healthcare professionals on trial.
+## ‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients
+Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.
 
-## Shark returns to South Korea canal after failed rescue attempt
-An endangered shark swam back into a canal in South Korea after rescuers had led it back out to sea.
+## Foreign national beaten to death by a mob in South Africa
+Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.
 
-## What’s the PHP coding flaw that could pull down 70 percent of the internet?
-The vulnerability allows a hacker to change a website or extract data, including personal information.
+## Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs
+England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.
 
-## Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?
-US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.
+## Jerusalem Daily: Israeli soldier abusing cat goes viral
+A video of an Israeli soldier throwing a cat over a fence has gone viral online.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
