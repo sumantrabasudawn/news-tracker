@@ -1,46 +1,40 @@
 # AION Intelligence
 
-## Meta sell-off drags US tech stocks lower as AI spending fears flare up
-US Treasuries rally strongly as traders rush into haven assets
+## FirstFT: Meta rekindles AI spending fears
+Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee
 
-## Macron warns some protests will be banned
-French president says labour unions can hold marches on Saturday but not other activists in effort to prevent more rioting
+## UK urges public and business to better prepare for emergencies
+Ministers urge households to stock up on essential items amid growing risk of natural disasters, cyber attacks or state-sponsored terrorism
 
-## Ecuador opposition leader arrested in money laundering investigation
-Detention comes as president has been criticised for expanding campaign against drug traffickers to include rivals
+## Moderna shares sink after leaked cancer data missed expectations
+Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations
+
+## Singapore goes after companies over toxic haze
+Smog-choked city-state is threatening groups behind land burning in Indonesia
+
+## Airfares will not return to pre-Iran war levels, American Airlines warns
+Some industry chiefs say travellers should expect a further rise in ticket prices next year
+
+## Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears
+Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years
+
+## UK waters down ‘fit and proper’ rules set up to hold bankers to account
+Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey
+
+## Blackstone cuts property valuations as higher rates hit returns
+Group’s president Jonathan Gray says rising market volatility stalled a quick payout of cash to investors through IPOs
+
+## Trump ordered to face BBC questioning in $10bn defamation lawsuit
+President must appear by December 11 after attending campaign rally on date previously set for his deposition
 
 ## US to fund speculative fusion venture backed by investors with ties to Trump
 Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law
 
-## Number of UK founders choosing to sell not scale hits eight-year high
-Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs
-
-## Steve Cohen takes Hertz for a defensive spin
-The hedge fund boss is taking a punt on just a part of the heavily indebted car rental company
-
-## Germany’s Merz warns of ‘intense’ Russian espionage after arrest
-German authorities detain Ukrainian national suspected of passing on intelligence about military sites and arms manufacturers to the Kremlin
-
-## Trump’s tourism push fails to lure visitors
-Number of tourist arrivals in US continues to drop following football World Cup
-
 ## Starlink saga shows why Europe must catch up in space
 US tech is far ahead, but Brussels still needs its own satellite networks and launch capacity
 
-## Kering’s revenues hit by drop in sales at flagship brand Gucci
-Quarterly performance likely to delay chief executive Luca de Meo’s efforts to revive struggling luxury group
-
-## Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators
-Collapse into insolvency of historic Welsh steelworks threatens future of 50-year-old plant
-
-## Could Anthropic’s IPO be a turning point for AI? You asked, we answered
-Tech writer at large Richard Waters and venture capital correspondent George Hammond replied to reader questions
-
-## Would you take out a mortgage backed by bitcoin?
-US officials are encouraging the use of crypto holdings as home-loan collateral
-
-## ‘Know Your Agent’ will be the new rule of the AI age
-As autonomous software does more, we need to focus on how to control its behaviour and establish accountability
+## Number of UK founders choosing to sell not scale hits eight-year high
+Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs
 
 ## Maharashtra to unveil dedicated chemicals policy by first week of November
 Maharashtra aims to strengthen its chemicals industry through a dedicated policy, port-linked infrastructure and a proposed large-scale industrial park.
@@ -114,6 +108,9 @@ PM Modi also accused the Congress of undermining movements that sought to hold t
 ## Cong is fine when it wins, blames BJP and EC when it loses: Bhupender Yadav
 Union minister Bhupender Yadav accuses the Opposition of trying to destabilise Indian democracy through its allegations against the Election Commission over SIR.
 
+## Embracing the Experience Economy
+When Abel Zhao thinks about the future of travel and live experience, he begins with a memory. As a high school student during the 1998 FIFA World Cup, Zhao was too young to enter the stadium. Instead, he stood outside with friends, listening to the roar of the crowd and absorbing the energy of thou
+
 ## Hong Kong targets financial innovation to help ease economic ‘pain points’
 Hong Kong’s top banking regulator has called for greater innovation in the city’s financial system to help address “pain points” in the real economy, as the city works with mainland Chinese and Asia-Pacific partners to navigate a host of sustainability, geopolitical and other challenges. “True innov
 
@@ -135,8 +132,11 @@ China has taken a major step in spearheading the standardisation of brain-comput
 ## Starbucks China rolls out buy-before-seating rule after reversing open-door policy in US
 Starbucks China says it will roll out its “purchase before seating” rule nationwide starting Thursday, with corresponding signs put in stores, following a similar policy it introduced at its North America stores last year. The Seattle-based coffee chain would prioritise helping visitors in need, suc
 
-## Hong Kong stocks fall most in 7 months as chance of strong stimulus from Beijing shrinks
-Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge capping its steepest decline in seven months, as hopes faded that Beijing would implement more meaningful stimulus policies, following latest economic data indicating the annual growth target was within reach. The Hang Seng
+## Trump Puts His Faith in Putin
+Trump wants a foreign-policy win, but Moscow is unlikely to deliver.
+
+## Netanyahu Calls on Israel to Overthrow Iranian Regime
+The directive comes as Israel prepares for an election and fresh joint strikes on Iran.
 
 ## Europe Is Asking the Wrong Question About Russia’s Hybrid War
 Leaders are debating what to call it—rather than what to do.
@@ -155,12 +155,6 @@ The top U.S. diplomat’s three-day trip is focused largely on commercial intere
 
 ## The Paradox at the Heart of China’s Export Boom
 China’s domestic economic woes are helping fuel its success abroad.
-
-## Witkoff Pushes Putin to Restart Peace Talks
-The Russian leader said he is ready to resume negotiations but refused to compromise on key points.
-
-## Xi’s Gang of Three
-How China’s leader divides power between his two most trusted lieutenants.
 
 ## This Time, the Korean Loudspeaker Standoff Is Different
 Typically, South Korea has used loudspeakers to respond to North Korean provocations. Now Pyongyang has vowed to turn them on – and the prospects for de-escalation are dim.
@@ -186,6 +180,9 @@ From Hong Kong to Bangkok, Paris, Taiwan, and North America, LGBTQ communities a
 ## What Happened to Gwadar’s Rights Movement?
 Haq Do Tehreek, the movement that once brought the world’s attention to Gwadar’s longstanding grievances, is a pale shadow of its former self.
 
+## Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress
+After losing fellow marines in Iraq, Jeff Lindquist struggled with post-traumatic stress that was steadily destroying his life. Years later, an innovative technology helped him reclaim it. This is the story of Jeff and Erik Won, two veterans who served together, and how efforts to help Jeff recover 
+
 ## The Endless Chip War
 This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology
 
@@ -206,9 +203,6 @@ In 2023, three North Korea analysts identified what they believe most people stu
 
 ## Guns, Growth, and the German Reinvention of Military Keynesianism
 In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
-
-## In Skepticism We Trust: Ukraine Reacts to the Diesel Deal
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel frees suspects in two settler attacks as West Bank pogroms intensify
-Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.
+## Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports
+The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.
 
-## Trump says NBA star LeBron James disrespected US national anthem
-NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.
+## Trump ordered to sit for deposition in BBC defamation lawsuit
+Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.
 
-## Iran says seven ships hit in Hormuz Strait, warns US of wider response
-The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections.
+## Can Pakistan save the last two of its four captive African elephants?
+Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.
 
-## US-sanctioned ICC wins top EU human rights award
-The EU has awarded the International Criminal Court its top human rights award.
+## Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?
+Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.
 
-## ‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients
-Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.
+## Why measles outbreak in Pennsylvania poses risks beyond US borders
+The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.
 
-## Foreign national beaten to death by a mob in South Africa
-Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.
+## IEA chief warns energy is becoming a geopolitical weapon
+Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.
 
-## Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs
-England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.
+## Thousands gather at final student-led rally ahead of Serbia election
+The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.
 
-## Jerusalem Daily: Israeli soldier abusing cat goes viral
-A video of an Israeli soldier throwing a cat over a fence has gone viral online.
+## Why has the Libya-Turkiye maritime deal stirred controversy?
+Some countries in the region say it infringes on their rights.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
