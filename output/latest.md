@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Australian iron ore miner warns of production slowdown without China deal
+Fortescue says operations ‘may be affected’ by talks with state-backed commodities buyer
+
+## US orders some personnel to leave Saudi Arabia after Houthi attacks
+Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
+
+## Musk sets lower sales target for Tesla as it explores SpaceX merger
+Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI
+
 ## Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’
 Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world
 
@@ -18,14 +27,11 @@ Foreign pharma groups are now paying to access innovation developed locally
 ## Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
 Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
 
-## US orders some personnel to leave Saudi Arabia after Houthi attacks
-Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
+## Buyout firm EQT acquires German diagnostics group in €10.8bn deal
+Move for Germany’s Qiagen is one of the largest take-private transactions in Europe this year
 
 ## LSEG nears $3.5bn deal to buy credit data specialist Octus
 Transaction would enhance London Stock Exchange Group’s services for customers
-
-## Buyout firm EQT acquires German diagnostics group in €10.8bn deal
-Move for Germany’s Qiagen is one of the largest take-private transactions in Europe this year
 
 ## FirstFT: Scott Bessent shrugs off ‘systemic’ AI risks at private event with investors
 Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery makers race to invest abroad
@@ -33,80 +39,86 @@ Also in today’s newsletter: Elon Musk’s $3.6tn gamble and China’s battery 
 ## Submit a question: Could Anthropic’s IPO be a turning point for AI?
 Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22
 
-## Tesla’s profits slip on weaker vehicle sales
-Musk’s carmaker reports flat revenue as it considers merger with SpaceX
+## RBI turns away all bids at treasury bill sale amid bond selloff
+This marks the first time since late March that an entire sale of treasury bills was cancelled
 
-## Persistent Systems opens $450 million QIP, sets floor price at ₹5,550 per share
-The IT company has secured board approval for the issue, while the final share price will be determined with its book-running lead managers
+## Sensex today | Stock Market Live: Markets likely to open lower as high oil prices fuel inflation worries
+Sensex, Nifty, Share Prices LIVE: Indian shares are expected to open lower on Thursday, extending losses from the previous ​two sessions, as the escalating Middle East war keeps oil ‌above $110 per barrel, stoking inflation concerns.
 
-## Google rolls out Gemini Personal Intelligence to Android Auto, brings AI to Apple CarPlay
-The updates extend Google’s AI assistant across in-car platforms, with optional access to personal data and navigation-based features for drivers.
+## Govt bond selloff to continue as RBI policy minutes hint at more rate hikes
+Benchmark ⁠6.94% 2036 bond yield may trade between 7.40% and 7.47%, trader at a primary dealership says
 
-## FSSAI issues notices to Zydus Wellness, Nestle India
-FSSAI said it has issued notices to Nestle India for “misleading claims and non-compliant promotions” involving two food products ‘Lactogen Pro 1 Powder’ and ‘Nan Excella Pro Stage 1’
+## Stocks to watch, Oct 22: Sagility India, Tata Communications, Bharat Electronics, Omnitech, PDS, SEAMEC
+Here are details about stocks that are most likely to see action today
 
-## Bangka slow loris rediscovered after nearly a century, with over 90 rescued
-An Indonesian wildlife rescue centre has documented the rare primates across the island, prompting renewed calls to protect their shrinking forest habitats
+## Comcast plans significant job cuts ahead of NBCUniversal spin-off
+The media and telecom company is reshaping its operations amid subscriber losses, growing competition and efforts to strengthen its independent business
 
-## India Cements Capital receives open offer letter at ₹12 per share
-The open offer will open on October 28 and close on November 11, 2026
+## Meta ordered to pay $25 billion in New Mexico privacy lawsuit
+The judgment follows years of litigation over consumer protection claims and adds to mounting legal challenges facing the technology company.
 
-## Slight fall in Nifty, Sensex masks small-caps pain
-388 stocks hit new lows, volatility index climbs 6.3% to 15.7; information technology index makes strong gains
+## Mukesh Ambani hosts Marco Rubio at Reliance’s Jamnagar refinery
+The visit featured discussions on energy security, advanced manufacturing, digital infrastructure and opportunities for commercial collaboration between Indian and American companies.
 
-## Jio Platforms IPO fully subscribed, attracts 3.16x demand on day one
-Investors bid for 62.4 crore shares in total. QIBs, allocated 4.9 crore, bid for 46.15 crore—about 9x demand
+## Walmart launches AI tools to let agents shop and complete purchases
+The retailer is expanding its AI commerce strategy with new tools designed to connect digital assistants directly to its shopping systems.
 
-## El Niño may reach unprecedented strength, raising global weather risks: WMO
-Pacific Ocean temperatures could rise 3.8°C above average during November-January, increasing risks of drought, floods and extreme heat
+## Brent crude tops $110 as fresh attacks in Saudi raise concerns over oil supplies
+Oil prices surged past $110 a barrel as Houthi attacks in Saudi Arabia raised alarms. The US took precautionary measures by evacuating diplomats' families from the kingdom amid escalating security issues. Simultaneously, US crude inventories dropped sharply, while distillate stocks showed an unexpec
 
-## Rupee hits 6-week high, surges 53 paise to 94.38 against dollar on Jio IPO inflows, RBI support
-The rupee strengthened by 53 paise on Wednesday, closing at 94.38 against the US dollar, bolstered by foreign currency flows from the Jio Platforms IPO and intervention from the Reserve Bank of India. Nonetheless, pressures persisted from falling domestic stocks and increasing crude oil prices. The 
+## SBI confirms data leak, says 4,000 customer records identified on dark web
+The disclosure follows a claim by cybersecurity monitoring account CyberPulse that a threat actor using the name Siriusim had leaked documents and personal data allegedly linked to SBI. The post claimed the dataset contained 3,75,000 rows in CSV files and 2,722 PDF documents, including customer info
 
-## Iran war impact: Indian Oil plans to reduce Middle East crude purchases under annual deals in FY28
-Indian Oil Corporation is expected to cut back on crude oil purchases from Middle Eastern suppliers. This decision comes as the Iran war disrupts shipments and increases transportation costs significantly. Refiners in India have traditionally relied on Middle Eastern oil but are now exploring altern
+## HDFC Bank probes 2 executives for leak of sensitive information
+The bank confirmed that an internal probe was underway. “In line with our policies, a review is currently underway to gather and evaluate all relevant facts. To protect the integrity of the process and the privacy of all parties involved, we do not comment on active internal reviews,” the bank said.
 
-## Jio IPO subscription hits 3.16x on Day 1; offer open till October 23
-The Rs 30,213-crore initial public offering (IPO) achieved full subscription in just 100 minutes after opening on Wednesday, setting a record for the fastest subscription of a mega IPO in India. By 5 pm, investors had bid for 62.36 crore shares, with the total value of bids reaching approximately Rs
+## Jio IPO subscribed within 100 mins; subscribed over 3x on Day 1
+The institutional (QIB) part of the IPO, in which a little over 4.9 crore shares were offered, was subscribed nearly 9.5 times while the high-net-worth investors’ portion, in which about 3.6 crore shares were reserved, was subscribed 1.7 times. Usually, in most initial offerings, institutional playe
 
-## India's core sector growth accelerates to 7.9% in September; iron ore output jumps 18.4%, crude oil falls 1.4%
-India's core sector growth surged to 7.9 percent in September 2026, showcasing robust advancements across major industries. Leading the charge, iron ore production skyrocketed 18.4 percent, complemented by significant gains in electricity and coal sectors. Although there were setbacks in fertiliser 
+## SpaceX, Tesla boards weigh $3.5 trillion merger; Elon Musk endorses idea
+SpaceX is valued at more than $2 trillion, while Tesla has a market value of about $1.5 trillion. When asked on the call about the prospects of merging the two companies, Musk initially said he was “tap dancing through a minefield” before going into more detail. He cautioned that getting enough supp
 
-## Bengaluru-Mumbai Vande Bharat sleeper may launch November 1; check timings, fares
-The Vande Bharat sleeper train has a 16-coach configuration, comprising 11 AC three-tier coaches, four AC two-tier coaches and one AC First Class coach. Designed for operations at speeds of up to 160 kmph, the train has a maximum testing speed of 180 kmph, placing it in the semi-high-speed category.
+## Rate hike: RBI more hawkish than external members at meet
+RBI’s MPC voted unanimously to raise the repo rate by 25 basis points to 5.5%, but split 4-2 on shifting to calibrated tightening, signalling rate cuts were off the table in the near term as inflation threatens to spread beyond food and fuel. Governor Sanjay Malhotra, deputy governor Poonam Gupta, e
 
-## Is India running out of power? Over half of coal plants face critically low fuel stocks
-India's coal-fired power plants are grappling with alarming fuel shortages, with almost half of them maintaining reserves for less than three days. This comes amid soaring electricity demand driven by rising temperatures and dwindling hydropower supplies. In response, the government has ramped up lo
+## Surge in gold loans partly reflects stress, say lenders
+During the company’s Q2FY27 earnings, Piramal Finance MD & CEO Jairam Sridharan said 15% to 23% of gross gold loan disbursements across the industry over the past year went to customers already more than 90 days overdue. Piramal’s policy bars lending to such borrowers. According to RBI data, gold lo
 
-## HDFC Bank probe finds executives leaked confidential information: Report
-HDFC Bank is conducting an internal investigation into two senior executives for sharing confidential business information. The probe began after concerns were raised about potential information leaks to outsiders. As changes in leadership approach, the bank faces mounting challenges amid recent int
+## Security flaw: eMudhra shares take a hit, fall 20%
+The flaw occurred during a key-generation ceremony on April 30, 2025, when a second set of weak keys was generated alongside the original strong keys. Mozilla cryptography engineer Dennis Jackson reported the issue on Oct 17, flagging insufficient randomness that made the keys vulnerable to recovery
 
-## Crude could hit $140 in early 2027 if Gulf supply disruptions persist: Goldman Sachs
-Commodity prices are expected to experience volatility due to geopolitical conflicts and supply chain disruptions. Energy prices may rise sharply if Middle Eastern supplies remain constrained or degrade further. Agricultural markets could face pressure from various conflicts and potential weather di
+## HT Morning News Brief October 22: 10 arrests in Tiger Shroff case, CJP leaders' release and more
+Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
 
-## ‘Does BJP want Opposition votes to split?’ Annamalai backs CJP's right to protest
-In a post on X, Annamalai noted that questioning the violation of due process of law, one "would be called names."
+## Delhi’s air quality remains ‘poor’ for second consecutive day; no relief expected in coming days
+Stubble burning’s share of the city’s pollution areto rise from 3.9% on Wednesday to 7.4% on Thursday and 15.9% on Friday
 
-## 'Boys have a message': Dipke shares Saurav Das, Ashutosh Ranka's video after their release
-In a video, Saurav Das and Ashutosh Ranka were seen holding the tricolour and reiterating their demand for the resignation of CEC Gyanesh Kumar.
+## Venezuelan crude, Russian oil, trade deal: What US Secretary of State Marco Rubio’s India visit signalled
+The trip offered a clear view of the Trump administration’s priorities in India, with energy, and Venezuelan crude in particular, at the top.
 
-## US Secretary of State Marco Rubio meets Mukesh, Anant Ambani at Jamnagar refinery
-The visitors were given a tour of the world-class refinery complex, offering a first-hand view of its scale, advanced technology and integrated operations.
+## El Nino could be unprecedented, may rise to 3.8°C above average between Nov-Jan: WMO
+A peak is likely in December, with weather patterns to be disrupted globally, including higher than normal temperatures and weaker rainfall in south and southeast Asia, including India
 
-## Priyanka Gandhi's son Raihan alleges Bikaner House pulled down his protest pics ahead of exhibition
-In a social media post, Vadra said he was asked to take down most of the artworks from his show, No Idea Is Final, shortly before its scheduled opening.
+## INDIA bloc plans next round of protests against CEC Gyanesh Kumar in early November
+The Opposition leaders have started discussing ideas for another round of protests after the series of marches in central Delhi in the second week of October.
 
-## 21 turtles of protected species rescued in MP after tip-off by arrested gang member
-The Indore unit of the forest department's State Tiger Strike Force (STSF) took the action, a release said.
+## Core sector growth rises to 7.9%, highest in new series
+Core sector industries output, as measured by the Index of Core Industries (ICI) stood at 7.9% in September, up from 5.9% in August, according to data released by Ministry of Commerce and Industry on Wednesday. September output was the highest growth in the new ICI series, which has 2022-23 as its b
 
-## Centre orders probe as Bengaluru firm eMudhra's key-making error leaves holes in web security
-There is no evidence yet that the keys were misused, and the major browsers had a safeguard that would have exposed any attempt against their users.
+## Energy ties in focus as Ambani hosts Marco Rubio at Jamnagar
+Officials said Rubio was expected to discuss Venezuelan crude and RIL’s proposed refinery project in the US during the visit.
 
-## 'Saurav, Ashu much bigger leaders than me': Abhijeet Dipke on CJP members' release
-CJP's Dipke, in a post on X, praised both Das and Ranka, asserting that he was “happy to follow” their orders.
+## 30% of India’s croplands technically suitable for solar agrovoltaics: Pralhad Joshi
+Joshi also said the new PM-Kusum 2.0 includes a dedicated agrivoltaics component, with immense potential to expand India’s solar capacity while substantially benefiting farmers.
 
-## Centre tells TV channels to pick panellists carefully, mute or cut feed if debates turn abusive
-Centre has asked TV channels to exercise editorial control over debates, mute abusive panellists, avoid live anti-terror operation coverage, use verified facts.
+## Hong Kong stocks head for 4-month low as chance of strong stimulus from Beijing shrinks
+Sell-offs in Hong Kong stocks deepened on Thursday, with the benchmark gauge heading for its lowest level in nearly four months, as hopes fade that Beijing would introduce aggressive stimulus measures following recent economic data indicating the annual growth target was within reach. The Hang Seng 
+
+## Receivers to sell mainland developer Shimao’s 2 Hong Kong hotels for US$344 million
+Receivers of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have agreed to sell the dual-branded complex, which together comprise the city’s third-largest hotel by room count, for HK$2.7 billion (US$344 million), Shimao Group announced on Thursday. In a filing to the Hong Ko
+
+## China’s stabilisation pledge did not lift stocks. Why are investors praising it?
+A slew of market-stabilising measures unveiled by the head of China’s securities regulator this week has won praise from investors, despite the fact that mainland stock prices did not roar back over the following days. The focus on supporting stocks and investor confidence over the long term, rather
 
 ## Could Hong Kong’s student housing boom lure property giants off the sidelines?
 Hong Kong’s largest landlords and developers could get their first formal route into the rising student accommodation market after the government announced plans to tender land for a purpose-built student hostel this quarter, according to analysts. Development Secretary Bernadette Linn Hon-ho announ
@@ -123,14 +135,8 @@ Hong Kong has vowed to engage more international banks in a debt securities clea
 ## China’s offshore tax crackdown could inadvertently fuel a digital dollar boom
 From October 22, China’s grace period for the disclosure and settlement of certain offshore-trust tax liabilities ends. For the Chinese government, this deadline highlights its desire to affirm control over capital outflows, while for Chinese high-net-worth families, it serves as a reminder that it 
 
-## Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase
-Sun Hung Kai Properties (SHKP), one of Hong Kong’s largest developers, has sold out the latest batch of flats at its Sierra Sea project in the New Territories, where units were offered at discounted prices ahead of a possible US Federal Reserve interest-rate increase by year-end. By 5.40pm on Wednes
-
-## Hong Kong sees last-minute IPO cancellations amid increased regulatory checks, weak market
-Hong Kong’s tougher oversight and weak investor demand have put many mainland China issuers in a dilemma, forcing many small-cap non-technology firms to delay their fundraising plans or even cancel them at the last minute, according to industry players. On Tuesday Jiangsu Slender West Lake Culture a
-
-## Apec finance ministers reach consensus on AI, digital financing in Hong Kong
-Asia-Pacific Economic Cooperation (Apec) finance chiefs reached a consensus on economic policy coordination and cooperation on financing technology and artificial intelligence at a landmark two-day gathering in Hong Kong, according to China’s finance minister. Lan Foan said the outcomes achieved dur
+## What a New Rebel Alliance Means for Congo
+Former President Joseph Kabila has joined a coalition that seeks to challenge Kinshasa “by all means.”
 
 ## In India, Rubio Is All Business
 The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
@@ -153,8 +159,11 @@ A former president of Estonia on the growing tide of global protest—and how to
 ## They Fled Ethiopia’s War. Now, Israel May Send Them Back.
 A broken asylum system and shrinking resettlement options leave many with nowhere to turn.
 
-## Trump Is Making a Mess of Diego Garcia
-Trying to reverse the Chagos Islands treaty only plays into China’s hands.
+## Why the China-US Naval Encounter at Sabina Shoal Is Different
+It’s a new kind of close encounter. Will it become a new normal?
+
+## New Zealand’s Climate Report Tests Its Pacific Leadership
+Wellington’s latest environmental assessment highlights the growing economic risks of climate change, raising questions about whether government policy can keep pace.
 
 ## China’s AI Industry Brings Both Gains and Challenges for Its Fragile Economy
 China’s exports are surging, driven by AI-related technologies. National security-driven export bans could change that.
@@ -173,12 +182,6 @@ The road has been officially inaugurated, but China and the Taliban have very di
 
 ## The US Army Looks to the Pacific – and Space – for Future Relevance
 Army leadership has focused on developing tools to contribute to a potential fight against China, a fight in which space assets will be critical.
-
-## Saudi Arabia Executes Two Bangladeshi Nationals
-Dhaka says it learned of their execution only after it happened. Its diplomacy is under scrutiny
-
-## China Capitalizes on America’s Scientific Brain Drain
-For generations, the flow of global talent was almost entirely one directional. Now China is increasingly attracting top researchers from U.S. institutions.
 
 ## Fighting in Ethiopia and the Risk of Regional Spillover
 In September, fighting broke out in Ethiopia’s Tigray region between Ethiopian government forces and the Tigray People’s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the bo
@@ -228,32 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pope Leo needs no further treatment after cancer surgery, doctors say
-The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
+## Can Trump deport Congresswoman Ilhan Omar?
+Can Trump deport Congresswoman Ilhan Omar?
 
-## Nigeria’s first Ebola case matches DR Congo strain, health officials say
-The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.
+## Russia frees American Stephen Hubbard after 4 years behind bars
+Russia frees American Stephen Hubbard after 4 years behind bars
 
-## US orders departure of personnel from Saudi Arabia, citing Houthi threat
-US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.
+## Tigray resumes daily life amid fears of wider war
+Mekelle’s reopening offers little relief as instability and economic hardship persist.
 
-## Canadian publisher drops writer Thelyson Orelien over AI use in novel
-Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.
+## What is the FDLR, and why does its anti-Tutsi ideology endure?
+Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.
 
-## Video shows Israeli settler assaulting Palestinian child
-An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
+## Qatar, France call for opening of Hormuz and Gaza ceasefire implementation
+Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.
 
-## Man United captain Fernandes slams Carrick’s tactics after Como hammering
-Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.
+## Colombian president purges National Museum of works promoting ‘communism’
+Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions.
 
-## Tehran displays mock installation of Trump behind bars
-An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.
+## George W Bush’s brother backs Democrat James Talarico in Texas Senate race
+Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton.
 
-## Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start
-Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.
+## One killed, eight injured in attack on Saudi Arabia’s King Fahd airport
+Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.
+
+## Bond yield rises to 7.44% on higher oil prices, global cues
+Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
 
 ## High Inflation, costlier crude threaten festive demand and corporate margins
 Rising inflation, crude oil prices and borrowing costs are threatening to dent consumer demand and squeeze corporate margins, putting India Inc’s festive-season sales and second-half growth at risk. With retail inflation at 5.54% and wholesale inflation surging to 11.39% in September, economists war
+
+## SBI investigates dark web leak of 3.8 lakh records
+State Bank of India is currently investigating a suspected data breach involving customer information found online. The breach reportedly exposed around 375,000 records containing personally identifiable information. SBI activated protocols and engaged cybersecurity experts to assess the extent of t
 
 ## India's FTA Sprint: How a Year of Trade Diplomacy Is Reshaping the Growth Story
 India’s recent FTA sprint marks a decisive shift from cautious market access to strategic economic integration, with trade deals increasingly aimed at supply chains, investment and manufacturing. Ajay Bagri, Chairman, CFO Council, ASSOCHAM and CFO, SEIL Energy India Limited, examines what this trans
@@ -270,11 +279,11 @@ Big Four professional services firms in India have emerged as major players in t
 ## UAE VAT changes to increase costs and compliance burden for Indian businesses
 While the rules apply to all businesses operating in the UAE, Indian companies account for about 20-25% of total businesses, with over 265,000 operating as of June 2025, making the changes particularly relevant for them. "Indian-owned businesses in construction, hospitality, manufacturing, logistics
 
-## Tata Sons reviews AoA to meet Sebi listing norms
-Tata Sons is reviewing its Articles of Association to comply with Sebi listing regulations, which may impact the influence of Tata Trusts on board appointments. This scrutiny follows the RBI's rejection of Tata Sons' application to relinquish its core investment company registration, necessitating c
+## Why is the RBI pulling liquidity out of banks and injecting it back again?
+Reserve Bank of India has significantly reduced banking system liquidity from a peak surplus in a short time. Liquidity surged after banks received funds from overseas Indians under the FCNR(B) scheme. The central bank utilized reverse repo auctions and cash reserve ratio adjustments to absorb this 
 
-## FSSAI issues notices to Nestle India, Hindustan Unilever over misleading claims and non-compliances
-The Food Safety and Standards Authority of India (FSSAI) on Saturday said it has issued notices to leading FMCG firms, including Nestle India and Hindustan Unilever Ltd (HUL) over alleged misleading claims and regulatory non-compliances concerning certain nutrition products.
+## RBI flags widening inflation risks, puts rate cuts on ice
+RBI's Monetary Policy Committee raised the benchmark repo rate by 25 basis points to address rising inflation concerns. Governor Sanjay Malhotra indicated a generalisation of inflation, with many commodities exceeding 4% inflation. Deputy Governor Poonam Gupta highlighted the influence of external s
 
 ## On a High-way: India revamps highway EPC rules with rating-based deposits, crash penalties
 The Centre has revised performance security measures for national highway contractors based on their ratings. Contractors rated above 80% will deposit 3% of project value, while lower-rated contractors will deposit 4% or 5%. This initiative aims to incentivize quality in highway construction and imp
@@ -293,10 +302,4 @@ The Reserve Bank of India is implementing stricter scrutiny on large overseas di
 
 ## Banks tap RBI's first cash auction in 3 months as market rates spike
 In response to rising bank demands, the Reserve Bank of India executed a liquidity infusion to stabilize interbank borrowing rates amid substantial tax outflows. Following this operation, overnight borrowing costs surged as the RBI raised rates to tackle inflation. A notable increase in bids suggest
-
-## Exporters may be asked to monitor supply chains' indirect emissions
-The Indian government is engaging in discussions about measuring Scope 3 emissions for exporters. This consideration arises as trade partners impose tighter green requirements globally. Current frameworks focus on direct emissions and exclude indirect ones, making compliance more complex. As a resul
-
-## RBI clarifies interbank trades, ECBs coupons not part of FERR
-Reserve Bank of India recently clarified the applicability of foreign exchange risk reserve for banks. The requirement does not apply to banks engaging in market-making or proprietary trading. It will also not affect interest on External Commercial Borrowings or dividends payable to non-resident inv
 
