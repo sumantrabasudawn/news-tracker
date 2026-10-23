@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US Treasury proposes tighter rules on investing in sensitive Chinese tech
+Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech
+
+## ‘Relentless’ cost of living pressures behind collapse in UK consumer confidence
+Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020
+
 ## FirstFT: Meta rekindles AI spending fears
 Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee
 
@@ -18,23 +24,14 @@ Some industry chiefs say travellers should expect a further rise in ticket price
 ## Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears
 Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years
 
+## Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military
+Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines
+
+## OpenAI trims valuation target to $1.25tn after pitching higher price
+AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT
+
 ## UK waters down ‘fit and proper’ rules set up to hold bankers to account
 Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey
-
-## Blackstone cuts property valuations as higher rates hit returns
-Group’s president Jonathan Gray says rising market volatility stalled a quick payout of cash to investors through IPOs
-
-## Trump ordered to face BBC questioning in $10bn defamation lawsuit
-President must appear by December 11 after attending campaign rally on date previously set for his deposition
-
-## US to fund speculative fusion venture backed by investors with ties to Trump
-Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law
-
-## Starlink saga shows why Europe must catch up in space
-US tech is far ahead, but Brussels still needs its own satellite networks and launch capacity
-
-## Number of UK founders choosing to sell not scale hits eight-year high
-Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs
 
 ## Maharashtra to unveil dedicated chemicals policy by first week of November
 Maharashtra aims to strengthen its chemicals industry through a dedicated policy, port-linked infrastructure and a proposed large-scale industrial park.
@@ -60,29 +57,29 @@ India’s solar success story: Can Surya Ghar and PM-KUSUM go global?
 ## India extends duty-free raw sugar import deadline to December 31
 The extension gives importers additional time to bring in raw sugar under the duty-free import allowance, according to an official notification.
 
+## Crude rises, rupee falls & Dalal Street trips again
+Among the major Asian market indices, Kospi in Korea closed 3.5% down, Hang Seng in Hong Kong closed 3% down, Nikkei in Japan was down 2.7% at the close while Shanghai Composite in China closed 1.5% lower. European markets too were mostly in the red in late trades with CAC 40 in France down 1.4%, DA
+
+## Videos, the new gateway reshaping online retail
+Social media platforms such as Instagram and YouTube had already made access easier than ever—people sat at their homes, browsed through videos, subscribing to influencer-led recommendations and buying products. Platforms took note of the shopping habit and launched their own video and live formats.
+
+## Jio IPO subscribed over 5x as institutions bid big
+At the close of Day 2, the total demand for Jio shares was worth about Rs 3.7 lakh crore, including the anchor portion. On Thursday, the institutional (QIB) part of the IPO, in which a little over 4.9 crore shares were offered, was subscribed nearly 13.3 times, while the HNI portion, in which about 
+
+## Yes Bank Additional Tier 1 bondholders seek interest payment
+The YES Bank AT1 Retail Bond Holders Association cited Companies Act and Sebi obligations in seeking an explanation for non-payment of the 9% bond coupon due Oct 18, three days after the Oct 15 court order restoring the bonds. It also demanded payment of coupons skipped in 2020-25 and arrangements f
+
+## eMudhra to exit global SSL/TLS business, shares tank
+The company’s board decided to withdraw from the business after reviewing its commercial prospects and the scrutiny triggered by the incident. The global SSL/TLS business contributes about 1% of eMudhra’s revenue, but rising compliance requirements, increasing costs and competition from free certifi
+
+## At €310 billion, Union minister Piyush Goyal eyes 10x rise in Indo-German trade
+At the inauguration of the India Centre and Indo-German Business Forum in Berlin, Goyal said the FTA could be signed by Dec and implemented within four to five months. “We had 31.5 billion euros (in 2025) and (if) we were to be able to add a zero to that, make it 310 billion euros. How would that so
+
+## PHP security flaws trigger global scramble; CERT-In flags vulnerabilities
+Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Goo
+
 ## India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained
 Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against thi
-
-## Barclays to slash 5,000 jobs by 2026-end as AI takes on bigger role in bank's operations
-In a significant restructuring effort, Barclays is poised to cut about 5,000 jobs from its worldwide team by the year's conclusion. This initiative focuses on optimizing efficiency and increasing investment in innovative technologies, notably artificial intelligence. The reductions will largely targ
-
-## Meta Q3 results: Net income jumps 264% to $9.86 bn, but legal charge limit profits
-Meta Platforms reported a net income of $9.86 billion in Q3 2026, tripling from the previous year. Overall revenue increased to $64.60 billion, primarily driven by higher advertising earnings. However, operating income declined due to a significant legal charge linked to teen mental health litigatio
-
-## India’s private capex pipeline rises 39% to Rs 99.7 lakh crore, UBI flags risks
-India's private sector investments have surged to Rs 99.7 lakh crore, marking a remarkable growth of 39% over the year. This significant uptick is largely driven by larger projects, indicating a trend toward consolidation in investment plans. Maharashtra leads as a primary destination for these inve
-
-## Tata Sons vs Tata Trusts: Both sides explore insurance cover as legal battle looms
-Tata Sons and Tata Trusts are actively evaluating their insurance policies in light of recent legal disputes. This exploration aims to ascertain the level of protection they have against potential lawsuits and legal expenses. The tension rose significantly following a contentious board meeting held 
-
-## Tesla reports $1.53 bn in free cash flow amid one-fifth cut to 2026 spending forecast
-Tesla generated $1.53 billion in free cash flow in the third quarter, which exceeded market expectations. The company's capital expenditure forecast for 2026 was cut to approximately $20 billion from over $25 billion. Tesla's revenue was flat compared to the previous year but still surpassed estimat
-
-## Rupee under pressure: Currency slips to 94.50 as oil rises, Dalal Street struggles in red
-The Indian Rupee fell by 12 paise, settling at 94.50 against the US dollar, driven primarily by surging crude oil prices. However, the currency found some respite from a weaker dollar and declining US treasury yields. Local stock market volatility and climbing oil costs further pressured the rupee. 
-
-## Wife’s father paid for joint house; Kerala HC orders husband to vacate
-The dispute involved a couple who got married in 2012. The woman told the court that her father had paid Rs 30 lakh to purchase the house for her future security. Although the property was registered jointly, she maintained that her husband had contributed nothing towards the purchase and therefore 
 
 ## Chennai YouTuber arrested for allegedly abetting suicide of influencer
 The accused allegedly posted defamatory videos targeting the influencer and threatened him in an attempt to extort money, a police official said.
@@ -108,6 +105,12 @@ PM Modi also accused the Congress of undermining movements that sought to hold t
 ## Cong is fine when it wins, blames BJP and EC when it loses: Bhupender Yadav
 Union minister Bhupender Yadav accuses the Opposition of trying to destabilise Indian democracy through its allegations against the Election Commission over SIR.
 
+## Wall Street piles into Hong Kong’s dim sum bonds despite fading yuan funding edge: BofA
+Hong Kong’s offshore yuan bond market is becoming an increasingly important funding source for global banks, with US lenders driving a surge in issuance even as the currency’s traditional funding advantage over the dollar narrows. The shift offers a glimpse of how financial ties between Wall Street 
+
+## HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong
+HSBC will launch its Hong Kong dollar-backed stablecoin in stages from Friday for more than 3.3 million users of its PayMe app, as the bank pushes to bring digital currencies into the city’s mainstream retail and investment markets. HSBC RedCoin, available only through PayMe and the bank’s Hong Kong
+
 ## Embracing the Experience Economy
 When Abel Zhao thinks about the future of travel and live experience, he begins with a memory. As a high school student during the 1998 FIFA World Cup, Zhao was too young to enter the stadium. Instead, he stood outside with friends, listening to the roar of the crowd and absorbing the energy of thou
 
@@ -126,11 +129,8 @@ Thursday marked the deadline for Chinese taxpayers to make outstanding tax payme
 ## France’s borrowing costs reach 24-year high as riots deepen budget worries
 France’s 10-year borrowing cost topped 5 per cent again in early Paris trading on Thursday, a day after touching that level for the first time since 2002, as the country recovers from its worst urban riots in years and braces for more clashes to come. Analysts expected market pressure to persist in 
 
-## China moves to set global standards for brain-computer interface technology
-China has taken a major step in spearheading the standardisation of brain-computer interface (BCI) technologies, as it now chairs the secretariat of a subcommittee jointly overseen by two key international organisations and lists the technology applications as a national development priority. The Ch
-
-## Starbucks China rolls out buy-before-seating rule after reversing open-door policy in US
-Starbucks China says it will roll out its “purchase before seating” rule nationwide starting Thursday, with corresponding signs put in stores, following a similar policy it introduced at its North America stores last year. The Seattle-based coffee chain would prioritise helping visitors in need, suc
+## Hegseth Could Face Impeachment if Democrats Win in November
+One lawmaker lays out the case for indicting the defense secretary.
 
 ## Trump Puts His Faith in Putin
 Trump wants a foreign-policy win, but Moscow is unlikely to deliver.
@@ -152,9 +152,6 @@ Former President Joseph Kabila has joined a coalition that seeks to challenge Ki
 
 ## In India, Rubio Is All Business
 The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
-
-## The Paradox at the Heart of China’s Export Boom
-China’s domestic economic woes are helping fuel its success abroad.
 
 ## This Time, the Korean Loudspeaker Standoff Is Different
 Typically, South Korea has used loudspeakers to respond to North Korean provocations. Now Pyongyang has vowed to turn them on – and the prospects for de-escalation are dim.
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports
-The powerful earthquake has killed 16 people and wounded 32 so far, local medics reported.
+## Tibet rocked by 7.0-magnitude earthquake
+Tibet rocked by 7.0-magnitude earthquake
 
-## Trump ordered to sit for deposition in BBC defamation lawsuit
-Judge says Trump must sit for questioning from a BBC lawyer by December 11 or face possible dismissal of lawsuit.
+## Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran
+Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.
 
-## Can Pakistan save the last two of its four captive African elephants?
-Of four elephants brought to Pakistan in 2009, two have died. Now, two others are ill, raising welfare concerns.
+## UK Conservative Party leader responds to Al Jazeera investigation
+UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.
 
-## Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?
-Bayern Munich striker Kane faces tough competition from Lamine Yamal and Kylian Mbappe, who are also in the ‌‌running.
+## Almost all shallow-water coral reefs now face extinction risk, study warns
+World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as "critically endangered".
 
-## Why measles outbreak in Pennsylvania poses risks beyond US borders
-The United States is facing its largest outbreak of measles since the virus was declared eliminated in 2000.
+## Hundreds of Ethiopians cross into Kenya to flee regional fighting
+Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.
 
-## IEA chief warns energy is becoming a geopolitical weapon
-Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.
+## US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
 
-## Thousands gather at final student-led rally ahead of Serbia election
-The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.
+## Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
+Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
 
-## Why has the Libya-Turkiye maritime deal stirred controversy?
-Some countries in the region say it infringes on their rights.
+## US judge blocks federal operations seeking to identify non-citizen voters
+Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
