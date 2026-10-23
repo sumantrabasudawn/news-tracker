@@ -1,73 +1,73 @@
 # AION Intelligence
 
-## Oil hits $116 for first time since April as global stocks knocked by AI fears
-Markets face twin threats of surging crude prices and concern over durability of AI boom
+## Ukraine says Starlink speeds still throttled
+Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
 
-## A half-time scorecard for Trump-world
-Monetising America has pleased tycoons but not citizens
+## Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
+Rise in energy prices pushes US inflation expectations higher
 
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Hokusai’s Mount Fuji prints to Renoir at the National Gallery
+## Zuckerberg’s deal to stay in California cheered by wealth tax campaign
+Supporters of the tax say many billionaires threatening to leave the state will not go
+
+## Reform’s former policy chief steps down from Cambridge management roles
+Move by James Orr comes after allegations he breached electoral law by soliciting political donations from foreign citizens
+
+## Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
+Melania Trump helps organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
+
+## Trump administration moves to block certification of Alaska Senate election
+Candidates’ similar names could ‘taint’ the result, argues the US Justice Department
+
+## Global Insight: The ‘cockroach’ protesters Modi cannot stamp out
+Movement that began as an online satirical movement but has become a thorn in the side of the prime minister
 
 ## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
 Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
 
-## Ukraine says Starlink speeds still throttled
-Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+## Directors’ Deals: Safestore directors raise stakes as shares struggle
+Self-store group to review its UK plans for 2027-28
 
-## The meaning of Michigan — part two
-Democrats’ hopes of taking back the Senate hinge in part on Abdul El-Sayed winning this key state
+## The ledger problem
+Tokenisation doesn’t suspend the laws of finance
 
-## EU capitals moderate plans to help companies operate bloc-wide
-Key features scrapped in new ‘EU Inc’ legal structure that aims to smooth business operations across the 27 member states
+## Stockpickers: Aberdeen, ITM Power, Tristel
+Our experts discuss which companies to buy, sell or hold this week
 
-## London Underground blames rising delays on repair backlog
-Transport for London says increasing disruption inevitable unless more funding granted in next year’s spending review
+## How a transatlantic mega-merger fell apart over a leadership tug of war
+Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
+
+## Managing a new world of bots and bargain hunters
+AI agents promise to empower consumers and boost competition, but must first earn users’ trust
 
 ## KKR founders back Valencia in deal valuing football club at €1.25bn
 Family offices of KKR co-founders George Roberts and Henry Kravis are part of consortium that has agreed to take 42% stake in Spanish team
 
-## National Crime Agency wins freezing order over £15mn London flat
-Bangladeshi owner Anisuzzaman Chowdhury failed to disclose source of his wealth amid UK probe into prominent family
+## London Underground blames rising delays on repair backlog
+Transport for London says increasing disruption inevitable unless more funding granted in next year’s spending review
 
-## What the coming copper crunch means for the global economy
-A looming shortage of the metal will push up costs for AI, defence tech and the green transition
+## AI-discovered software flaws could trigger more internet disruptions, experts warn
+Cybersecurity experts warn that artificial intelligence is accelerating the discovery and exploitation of software flaws, leaving organisations less time to respond
 
-## Citi wins long-awaited approval for China securities business
-Green light comes ahead of expected meeting between Donald Trump and Xi Jinping next month
+## Dr Reddy’s launches two new semaglutide brands amid Obeda supply disruptions
+The drugmaker has shifted production to a partner facility and expects to resolve the impurity issue affecting its injectable product next month.
 
-## FirstFT: AI doubts fuel tech sell-off
-Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand
+## India’s bulk Scotch tariff dispute risks undermining India-UK trade deal, industry group says
+An industry association has sought urgent clarification from the government as the tariff dispute raises concerns over market access and investment
 
-## How smart does my fridge need to be?
-In an age of cyber attacks and malfunctioning technology, dumb appliances are starting to look like the clever choice
+## IDBI Bank employees’ service conditions will remain unchanged after sale, says DIPAM secretary
+DIPAM secretary Arunish Chawla said the share purchase agreement protects existing employees against changes to their disadvantage following the proposed sale
 
-## US nuclear revival faces scrutiny after incidents at flagship plant
-Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand
+## Fodder scam accused arrested after 25 years; CBI traces trail to Nepal
+The accused was travelling from Guna to Lucknow when a CBI team intercepted him following specific intelligence inputs on Thursday night
 
-## TN CM Vijay’s government to distribute 62 lakh cake pieces to school students on Children’s Day
-The programme will cover school students across Tamil Nadu, with the government procuring the cakes from the four vendors for distribution on the occasion
+## Odisha attracts ₹53,893 crore investment proposals at India Chem 2026, expects 20,210 jobs
+Chief Minister Mohan Charan Majhi said the proposals include major investments in chemicals and power as Odisha seeks to diversify its economy
 
-## Q2 Results Today Live: JSW Steel posts ₹5,359 cr profit, Adani Power jumps 134%, Infosys up 6.2%; CG Power, CSB Bank gain, Mahindra Logistics turns profitable
-Q2 Results Today, 23rd October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earning on Adani Power, JSW Steel, Tata Motors, Shriram Fin, Torrent Pharma, CG Power, BPCL, Dr Reddys Lab and others
-
-## Samudra Manthan: Govt to partially underwrite drilling risks; operators to retain operational responsibility
-For accelerating offshore oil and gas exploration, the government will partially underwrite drilling risks while operators retain majority capital exposure and full operational responsibility
+## SEBI orders Avadhut Sathe Trading Academy to refund ₹546 crore; imposes ₹11.5 crore penalty
+The regulator cited unregistered advisory services, misleading return claims and a failure to assess the suitability of investment recommendations to participants
 
 ## 23 days after new RBI forex rules, individual service exporters still await clarity, banks lack SOPs
 With no written clarification from the central bank, AD banks have adopted conflicting interpretations, and most are yet to release the mandated SOPs.
-
-## Stay vigilant, adopt long-term vision: Defence Minister Rajnath Singh tells Army leadership
-He urged a 20–30 year strategic vision with flexible, dynamic plans ready to adapt to changing circumstances
-
-## Honeywell Aerospace scouts for more MRO partnerships in India
-Company’s senior executive cites India as a major sourcing market, with over 100 parts suppliers
-
-## Chennai airport ATF tax cut to 16% from 29%; rate slashed to 1% for other TN airports
-The move is expected to ease airlines’ operating costs and, in turn, reduce the cost of air tickets
-
-## Dr Reddy’s Q2 FY27 net down 36% at ₹925 cr
-Provision for Semaglutide inventory and lower lenalidomide revenues in North America hit performance
 
 ## Jio Platforms' IPO becomes first public offer globally to cross 1 cr applications
 
@@ -93,29 +93,29 @@ At the inauguration of the India Centre and Indo-German Business Forum in Berlin
 ## PHP security flaws trigger global scramble; CERT-In flags vulnerabilities
 Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Goo
 
-## LAC situation ‘disturbed’ when Chinese troops diverge from patrolling patterns, India says
-India says the LAC situation gets disturbed when Chinese troops diverge from established patrolling patterns, amid reports of face-offs at several locations in Arunachal Pradesh.
+## Nirmala Sitharaman urges regulators to speed up refunds of unclaimed bank deposits, shares and funds
+Finance minister Nirmala Sitharaman has urged regulators to speed up refunds of unclaimed bank deposits, shares, dividends, insurance and pension funds.
 
-## Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29
-Singer Usha Mangeshkar will receive the first Dr Bhupen Hazarika National Award from PM Narendra Modi on November 29, as Assam marks the singer-composer’s birth centenary.
+## TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore
+Tamil Nadu police have booked a school principal, a teacher and two students after a Class 11 Dalit boy was found dead in Coimbatore, amid caste harassment allegations.
 
-## 4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan
-The blast ripped through a house in Bihar's Siwan from where a licensed firecracker unit was being run.
+## Govt to issue consultation paper on a new AI law in ‘coming weeks’: Ashwini Vaishnaw
+Union minister Ashwini Vaishnav said the time has come when the risks of AI have crossed a threshold when we should come up with a law.
 
-## Manipur SoO pact with Kuki groups not extended, says Konthoujam amid crackdown after 3 Meitei killed
-Manipur home minister says the Suspension of Operations pact with Kuki militant groups has not been extended as security forces intensify a crackdown after three Meitei youths were killed.
+## Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses
+Shivakumar said he had documented the episode and had information about people who might have been involved.
 
-## Delhi HC rejects Neha Bora's plea against notice to sign peace, 'maintain peace'
-Pronouncing the order, Justice Subramonium Prasad said, "I am rejecting the writ petition at this juncture."
+## ED officer, head constable held in Lucknow for demanding ₹5 lakh bribe from complainant: CBI
+The CBI has arrested an ED officer and head constable posted in Lucknow for allegedly demanding a ₹5 lakh bribe to help a complainant’s father in an Enforcement Directorate case.
 
-## 'India, China continue using existing mechanisms to avoid LAC miscalculations': MEA after ITBP chief's remarks
-MEA spokesperson Randhir Jaiswal made the remarks in response to a question on ITBP chief's statement on India-China stand-off in Arunachal Pradesh.
+## India, Azerbaijan explore stronger trade and energy ties as Jaishankar meets Aliyev in Baku
+S Jaishankar’s first visit to Azerbaijan in eight years focuses on expanding India-Azerbaijan ties in trade, energy, investment, tourism and connectivity.
 
-## ‘Ram ne Yadav ko maara, B.Com’: Bizarre entries in voter list for UP MLC polls
-Uttar Pradesh MLC polls saw bizarre voter list entries such as ‘Ram ne Yadav ko maara’ and ‘B.Com’ in the father’s name column, prompting a probe.
+## ED files FIR after trespassers occupy flat attached in case against Dawood Ibrahim’s brother
+The Enforcement Directorate has filed an FIR over alleged trespassing at a Thane flat attached in a money laundering probe against Dawood Ibrahim’s brother Iqbal Kaskar.
 
-## Second Puzhal prison escapee arrested near Chennai home, 7 prison officials suspended
-Both convicts who escaped from Chennai’s high-security Puzhal prison on successive days have been arrested, while seven prison officials have been suspended.
+## CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station
+The CBI has arrested Satyendra Kumar, wanted in Bihar’s fodder case since 2001, after tracing him to Nepal and apprehending him at Lucknow railway station.
 
 ## Hong Kong burnishes gold hub credentials with local refineries deal
 Hong Kong has taken another step towards building itself into an international gold trading hub, after confirming deals that will see gold refineries localise production in the city. The addition of the local refineries will allow Hong Kong to form a complete gold trading ecosystem, boosting belief 
@@ -141,6 +141,15 @@ This article was first published by The Korea Times in a partnership with the So
 ## Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment
 As regional equities tumbled and hopes for investor stimulus faded, the Hang Seng Index fell to a seven-month low. Attention also remained focused on Beijing’s intensified scrutiny of offshore wealth and tax compliance. Macroeconomic data pointed to steady, if uneven, domestic momentum. Here are the
 
+## Filming Among the Rubble of Nazi Germany
+How Hollywood captured the struggle to make a better world.
+
+## How to Make a Monster
+What a novel about Ireland’s last great auks reveals about xenophobia today.
+
+## What in the World?
+Test yourself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters.
+
 ## Why the ‘Odds of Mischief Are High’ in These Midterms
 Is the United States destined for a repeat of Jan. 6 every election now?
 
@@ -156,38 +165,29 @@ One lawmaker lays out the case for indicting the defense secretary.
 ## Trump Puts His Faith in Putin
 Trump wants a foreign-policy win, but Moscow is unlikely to deliver.
 
-## Netanyahu Vows to Overthrow Iranian Regime
-The directive comes as Israel prepares for an election and fresh joint strikes on Iran.
+## With Strict Agendas and Silent Corridors Kazakhstan’s Kurultai Is Muzzling the Press
+Journalists covering the country’s parliament are pushing back against new rules that constrict their ability to question officials.
 
-## Europe Is Asking the Wrong Question About Russia’s Hybrid War
-Leaders are debating what to call it—rather than what to do.
+## South China Sea Code of Conduct: A Deal Is Not Enough
+A COC that lacks credible enforcement mechanisms would do little to address security challenges.
 
-## Brazil’s Sovereignty Is on the Ballot
-A far-right win in the country’s presidential election would open the door to U.S. military activity on Brazilian soil.
+## Why Durga Puja’s Celebration in West Bengal This Year Was Different
+The BJP government in the state stripped the festival of its secular-cultural uniqueness to impose religious and ritualistic practices that are anathema to Bengalis.
 
-## Indonesia’s Stock Market Crisis Is Self-Inflicted
-Jakarta has serious questions to answer about the credibility of its capital markets and the effectiveness of the institutions responsible for regulating them.
+## What States Make of Military Exercises: Ulchi and Beyond
+Repeated military cooperation can help build predictability, trust, interoperability, and institutionalized relationships among participants.
 
-## Malaysian PM Anwar Bans Civil Servants From Using Israel-developed Navigation App
-Anwar Ibrahim said that Waze, which was developed in Tel Aviv before being acquired by Google in 2013, could be "exploited by the Israeli regime."
+## Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang
+The deteriorating security environment in the region thus reinforces the importance of China-Pakistan military cooperation.
 
-## China, Djibouti Express ‘Serious Concern’ Over Threats to Red Sea Shipping
-A joint communique ups the diplomatic rhetoric but offers no solutions.
+## Japan Needs Higher Interest Rates
+Japanese exporters enjoy high demand and strong profit margins, but importers are under severe pressure. The weak yen also hurts Japanese consumers.
 
-## This Time, the Korean Loudspeaker Standoff Is Different
-Typically, South Korea has used loudspeakers to respond to North Korean provocations. Now Pyongyang has vowed to turn them on – and the prospects for de-escalation are dim.
+## TenPayGo and China’s Digital Opening to Foreigners
+Tencent’s new payment app shows how China’s tech companies can lower barriers for foreign users without fundamentally changing the systems behind them.
 
-## The US Is Losing to China in the Battle of Global Influence
-China is building a dense network of relationships across all pillars of influence while the United States continues to weaken the institutions it traditionally used to compete.
-
-## Philippine Energy Security Could Determine the Outcome of a Taiwan Contingency
-Any Sino-American conflict would place enormous pressure on fuel supplies. U.S. fuel dependence turns Manila’s energy fragility into a strategic vulnerability.
-
-## How to Fix South Korea-Ukraine Relations
-Clear ground rules could not only help resolve the North Korean POW standoff but prevent the next case.
-
-## Censorship in Pakistan Goes From ‘Pleasant’ to ‘Unpleasant’
-Authorities have directed satellite TV channels to refrain from broadcasting or providing live coverage of "unpleasant incidents," meaning shootings, blasts and terrorist attacks.
+## Korean Dramas: Ukraine, Russia, and Where South Korea Begins
+A diplomatic spat and a comment that caused controversy.
 
 ## Deception in Mass Autonomous Warfare
 “[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround
-Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.
+## Aston Villa vs Manchester City: Premier League – teams, prediction, lineups
+Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.
 
-## What to know as Brazil prepares for tense presidential run-off
-Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.
+## Israel locks down occupied West Bank after Hebron shooting
+Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.
 
-## Conte dismisses reports of Man United takeover with Carrick’s job uncertain
-Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.
+## Former FBI officials charged in connection with Hunter Biden laptop probe
+Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
 
-## Mississippi releases video of 1-year-old’s fatal police shooting
-Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.
+## Trump administration sues to block possible Democratic win in Alaska
+President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.
 
-## Finland nearing opening of world’s first permanent nuclear waste repository
-Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.
+## Many feared trapped after multistorey building collapses in Kenya
+Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.
 
-## Dembele to miss Ballon d’Or event as PSG game moved amid protests in France
-Paris Saint-Germain's game has been postponed following a request by police amid a wave of violent protests in France.
+## Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage
+The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.
 
-## Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU
-Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August.
+## Bayern coach Kompany taken to hospital after collapsing during training
+The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions.
 
-## Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House
-No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky.
+## Jerusalem Daily: Israel to ‘lock down’ occupied West Bank
+Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
