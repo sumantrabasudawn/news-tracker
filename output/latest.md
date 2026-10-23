@@ -1,10 +1,37 @@
 # AION Intelligence
 
-## Oil hits $114 for first time since May as global stocks knocked by AI fears
+## Oil hits $116 for first time since April as global stocks knocked by AI fears
 Markets face twin threats of surging crude prices and concern over durability of AI boom
 
-## Austria expels Russian diplomats suspected of espionage
-Vienna steps up crackdown on Moscow’s spies after years of leniency that frustrated Kyiv and other European capitals
+## A half-time scorecard for Trump-world
+Monetising America has pleased tycoons but not citizens
+
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Hokusai’s Mount Fuji prints to Renoir at the National Gallery
+
+## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
+Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
+
+## Ukraine says Starlink speeds still throttled
+Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+
+## The meaning of Michigan — part two
+Democrats’ hopes of taking back the Senate hinge in part on Abdul El-Sayed winning this key state
+
+## EU capitals moderate plans to help companies operate bloc-wide
+Key features scrapped in new ‘EU Inc’ legal structure that aims to smooth business operations across the 27 member states
+
+## London Underground blames rising delays on repair backlog
+Transport for London says increasing disruption inevitable unless more funding granted in next year’s spending review
+
+## KKR founders back Valencia in deal valuing football club at €1.25bn
+Family offices of KKR co-founders George Roberts and Henry Kravis are part of consortium that has agreed to take 42% stake in Spanish team
+
+## National Crime Agency wins freezing order over £15mn London flat
+Bangladeshi owner Anisuzzaman Chowdhury failed to disclose source of his wealth amid UK probe into prominent family
+
+## What the coming copper crunch means for the global economy
+A looming shortage of the metal will push up costs for AI, defence tech and the green transition
 
 ## Citi wins long-awaited approval for China securities business
 Green light comes ahead of expected meeting between Donald Trump and Xi Jinping next month
@@ -12,56 +39,35 @@ Green light comes ahead of expected meeting between Donald Trump and Xi Jinping 
 ## FirstFT: AI doubts fuel tech sell-off
 Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand
 
-## ‘Relentless’ cost of living pressures behind collapse in UK consumer confidence
-Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020
+## How smart does my fridge need to be?
+In an age of cyber attacks and malfunctioning technology, dumb appliances are starting to look like the clever choice
 
 ## US nuclear revival faces scrutiny after incidents at flagship plant
 Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand
 
-## Volvo Cars shares plunge as much as 30% after it swings to loss
-Swedish carmaker to cut another 2,500 jobs and warns that the market ‘has not reached the bottom’
+## TN CM Vijay’s government to distribute 62 lakh cake pieces to school students on Children’s Day
+The programme will cover school students across Tamil Nadu, with the government procuring the cakes from the four vendors for distribution on the occasion
 
-## September inflation keeps BoJ on tightening course
-The key measures of inflation are rising
-
-## How smart does my fridge need to be?
-In an age of cyber attacks and malfunctioning technology, dumb appliances are starting to look like the clever choice
-
-## Anthropic strikes deal to launch European consultancy
-New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI
-
-## Why the UK should greenlight both Jackdaw and Rosebank
-The real problem, for those concerned about the climate, isn’t that oil and gas might become too cheap, but that renewables remain too expensive
-
-## Kering shares slide 10% after drop in sales at flagship brand Gucci
-Third-quarter performance likely to delay chief Luca de Meo’s efforts to revive struggling luxury group
-
-## Investing in Argentina
-Javier Milei’s sweeping free-market reforms have proved painful and the mood in Argentina is growing gloomy. With presidential elections next year, can the political outsider secure enough time to complete his transformation of the chronically troubled economy?
-
-## Data leak incident: SBI says customer balances completely safe
-A detailed assessment is currently underway and appropriate remedial and preventive measures are being implemented as required, the bank said
-
-## Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red
-Sensex, Nifty, Share Prices Highlights: The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues.
-
-## Bharat Biotech slashes price of malaria vaccine MOSQIVAC by 40%
-Bharat Biotech said the move will help protect another 1 million children and generate $50 million in savings.
-
-## Q2 Results Today Live: JSW Steel profit at ₹5,359 crore, CG Power earnings rise, CSB Bank profit jumps 14% YoY, Mahindra Logistics turns profitable, Shree Digvijay Cement swings to loss, Atul announces ₹90-crore buyback
+## Q2 Results Today Live: JSW Steel posts ₹5,359 cr profit, Adani Power jumps 134%, Infosys up 6.2%; CG Power, CSB Bank gain, Mahindra Logistics turns profitable
 Q2 Results Today, 23rd October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earning on Adani Power, JSW Steel, Tata Motors, Shriram Fin, Torrent Pharma, CG Power, BPCL, Dr Reddys Lab and others
 
-## Paras Healthcare IPO fully subscribed on day 3
-The retail investors' category is subscribed 1.80 times, while the portion for qualified institutional buyers receives 1.41 times subscription
+## Samudra Manthan: Govt to partially underwrite drilling risks; operators to retain operational responsibility
+For accelerating offshore oil and gas exploration, the government will partially underwrite drilling risks while operators retain majority capital exposure and full operational responsibility
 
-## India's general insurance industry to see modest growth in FY27 amid pricing pressures: Report
-Strong retail health demand and motor OD gains offset by crop and fire declines; pricing pressures persist in motor segment
+## 23 days after new RBI forex rules, individual service exporters still await clarity, banks lack SOPs
+With no written clarification from the central bank, AD banks have adopted conflicting interpretations, and most are yet to release the mandated SOPs.
 
-## Mozambique eyes India partnership to boost agro-processing, expand rice trade across Southern Africa
-Mozambique aims to deepen agricultural tech and processing cooperation with India and serve as a gateway for Indian firms to regional markets
+## Stay vigilant, adopt long-term vision: Defence Minister Rajnath Singh tells Army leadership
+He urged a 20–30 year strategic vision with flexible, dynamic plans ready to adapt to changing circumstances
 
-## Adani Power net profit Q2 FY27 jumps 134% to ₹6,919 crore
-Revenue from operations rose 44% to ₹19,439 crore in the quarter from ₹13,457 crore a year ago, on stronger demand and higher selling rates
+## Honeywell Aerospace scouts for more MRO partnerships in India
+Company’s senior executive cites India as a major sourcing market, with over 100 parts suppliers
+
+## Chennai airport ATF tax cut to 16% from 29%; rate slashed to 1% for other TN airports
+The move is expected to ease airlines’ operating costs and, in turn, reduce the cost of air tickets
+
+## Dr Reddy’s Q2 FY27 net down 36% at ₹925 cr
+Provision for Semaglutide inventory and lower lenalidomide revenues in North America hit performance
 
 ## Jio Platforms' IPO becomes first public offer globally to cross 1 cr applications
 
@@ -87,29 +93,35 @@ At the inauguration of the India Centre and Indo-German Business Forum in Berlin
 ## PHP security flaws trigger global scramble; CERT-In flags vulnerabilities
 Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Goo
 
-## Chhattisgarh man raped, killed 7-year-old girl; sniffer dog leads to his house: Police
-The child’s body was recovered from bushes behind a poultry farm in the Rajgamar police chowki area on Thursday morning.
+## LAC situation ‘disturbed’ when Chinese troops diverge from patrolling patterns, India says
+India says the LAC situation gets disturbed when Chinese troops diverge from established patrolling patterns, amid reports of face-offs at several locations in Arunachal Pradesh.
 
-## 5 years, 50 letters: A battle to save Delhi’s vanishing water bodies
-According to DSWA records, Delhi has 1,045 water bodies recorded in revenue records and 322 identified through satellite imagery. Yet demarcation is incomplete
+## Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29
+Singer Usha Mangeshkar will receive the first Dr Bhupen Hazarika National Award from PM Narendra Modi on November 29, as Assam marks the singer-composer’s birth centenary.
 
-## Over 700 kg illegal firecrackers seized in east Delhi, man arrested after raid at home
-Police arrested Vikas Jain, 37, a resident of Trilokpuri, after the cache of illegal firecrackers was recovered during a raid at his residence.
+## 4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan
+The blast ripped through a house in Bihar's Siwan from where a licensed firecracker unit was being run.
 
-## Cyclone likely to form over Bay of Bengal in few days, rain alert for Andhra Pradesh, Odisha: IMD
-Cyclone alert: In rainfall warnings, the IMD projected extremely heavy to heavy rainfall for coastal Andhra Pradesh and Odisha between October 27 and 29.
+## Manipur SoO pact with Kuki groups not extended, says Konthoujam amid crackdown after 3 Meitei killed
+Manipur home minister says the Suspension of Operations pact with Kuki militant groups has not been extended as security forces intensify a crackdown after three Meitei youths were killed.
 
-## Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu
-Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu
+## Delhi HC rejects Neha Bora's plea against notice to sign peace, 'maintain peace'
+Pronouncing the order, Justice Subramonium Prasad said, "I am rejecting the writ petition at this juncture."
 
-## Bengal CM inaugurates nutrition support scheme for tribal families
-Bengal CM inaugurates nutrition support scheme for tribal families
+## 'India, China continue using existing mechanisms to avoid LAC miscalculations': MEA after ITBP chief's remarks
+MEA spokesperson Randhir Jaiswal made the remarks in response to a question on ITBP chief's statement on India-China stand-off in Arunachal Pradesh.
 
-## 'Let's see what happens': CJP's Saurav Das, Ashutosh Ranka appear for questioning day after skipping probe summons
-Saurav Das and Ashutosh Ranka were released from judicial custody on Wednesday after being in jail for nearly a week in Jantar Mantar trespassing case.
+## ‘Ram ne Yadav ko maara, B.Com’: Bizarre entries in voter list for UP MLC polls
+Uttar Pradesh MLC polls saw bizarre voter list entries such as ‘Ram ne Yadav ko maara’ and ‘B.Com’ in the father’s name column, prompting a probe.
 
-## Bomb threat note in Kolkata airport toilet triggers search; flight ops unaffected
-A handwritten bomb threat on tissue paper was found in a women’s toilet at Kolkata airport on Friday, prompting a search by the bomb squad and CISF personnel.
+## Second Puzhal prison escapee arrested near Chennai home, 7 prison officials suspended
+Both convicts who escaped from Chennai’s high-security Puzhal prison on successive days have been arrested, while seven prison officials have been suspended.
+
+## Hong Kong burnishes gold hub credentials with local refineries deal
+Hong Kong has taken another step towards building itself into an international gold trading hub, after confirming deals that will see gold refineries localise production in the city. The addition of the local refineries will allow Hong Kong to form a complete gold trading ecosystem, boosting belief 
+
+## Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources
+Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co failed to excite retail investors in Hong Kong, making it one of the least popular mega initial public offerings (IPOs) in the city so far this year. Bookbuilding closed as scheduled on Friday, with preliminary figures sh
 
 ## China party meeting, stocks slump, HSBC leads earnings
 A key Communist Party meeting next week in Beijing is likely to be dominated by two themes – the renewal of President Xi Jinping’s long-standing anti-corruption drive and the hunt for clues about a looming leadership reshuffle. “Major issues related to advancing full and rigorous party self-governan
@@ -129,11 +141,14 @@ This article was first published by The Korea Times in a partnership with the So
 ## Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment
 As regional equities tumbled and hopes for investor stimulus faded, the Hang Seng Index fell to a seven-month low. Attention also remained focused on Beijing’s intensified scrutiny of offshore wealth and tax compliance. Macroeconomic data pointed to steady, if uneven, domestic momentum. Here are the
 
-## Beijing tightens rules on outbound capital to better shield Chinese assets
-China has unveiled a revised rule for regulating outbound investment, requiring investors to report major adverse developments more diligently, including foreign demands to hand over technology or dispose of stakes. The new rule, announced by the National Development and Reform Commission (NDRC) on 
+## Why the ‘Odds of Mischief Are High’ in These Midterms
+Is the United States destined for a repeat of Jan. 6 every election now?
 
-## Chinese stocks bounce back from bear market on suspected state support
-Chinese stocks rebounded on Friday after a sell-off drove the benchmark index into a bear market, as surging trading volumes in the nation’s biggest exchange-traded funds (ETFs) pointed to possible state buying and major companies at the centre of the artificial intelligence trade sought to soothe i
+## What’s Behind Turkish-Azerbaijani Tensions?
+A fight over veiling reflects deeper strains over sovereignty.
+
+## Bolivia and Chile Make Nice
+The two countries are mending ties after a decades-long territorial dispute.
 
 ## Hegseth Could Face Impeachment if Democrats Win in November
 One lawmaker lays out the case for indicting the defense secretary.
@@ -141,7 +156,7 @@ One lawmaker lays out the case for indicting the defense secretary.
 ## Trump Puts His Faith in Putin
 Trump wants a foreign-policy win, but Moscow is unlikely to deliver.
 
-## Netanyahu Calls on Israel to Overthrow Iranian Regime
+## Netanyahu Vows to Overthrow Iranian Regime
 The directive comes as Israel prepares for an election and fresh joint strikes on Iran.
 
 ## Europe Is Asking the Wrong Question About Russia’s Hybrid War
@@ -149,15 +164,6 @@ Leaders are debating what to call it—rather than what to do.
 
 ## Brazil’s Sovereignty Is on the Ballot
 A far-right win in the country’s presidential election would open the door to U.S. military activity on Brazilian soil.
-
-## Could AI Disinformation Disrupt the Midterms?
-The answers are more encouraging than you might think.
-
-## What a New Rebel Alliance Means for Congo
-Former President Joseph Kabila has joined a coalition that seeks to challenge Kinshasa “by all means.”
-
-## In India, Rubio Is All Business
-The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
 
 ## Indonesia’s Stock Market Crisis Is Self-Inflicted
 Jakarta has serious questions to answer about the credibility of its capital markets and the effectiveness of the institutions responsible for regulating them.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Korea invites North for military talks over border
-The proposal comes days after Pyongyang says it moved new military units into 'firing positions' along the border.
+## Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround
+Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.
 
-## New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit
-Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can't afford them.
+## What to know as Brazil prepares for tense presidential run-off
+Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.
 
-## Serbia’s snap election: What’s at stake and can students unseat Vucic?
-A snap parliamentary vote on October 25 will determine whether a student-led group can loosen Vucic’s grip on power.
+## Conte dismisses reports of Man United takeover with Carrick’s job uncertain
+Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.
 
-## NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid
-Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.
+## Mississippi releases video of 1-year-old’s fatal police shooting
+Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.
 
-## What role does the military play in Israeli schools?
-For Israeli teenagers, military life ordinarily kicks off in school.
+## Finland nearing opening of world’s first permanent nuclear waste repository
+Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.
 
-## Pulaku: The two faces of Nigeria’s vigilantes
-Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.
+## Dembele to miss Ballon d’Or event as PSG game moved amid protests in France
+Paris Saint-Germain's game has been postponed following a request by police amid a wave of violent protests in France.
 
-## Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight
-Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.
+## Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU
+Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August.
 
-## Israeli military kills two in gun battle in occupied West Bank
-Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.
+## Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House
+No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
