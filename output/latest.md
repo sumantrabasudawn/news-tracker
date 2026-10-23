@@ -1,61 +1,67 @@
 # AION Intelligence
 
-## US Treasury proposes tighter rules on investing in sensitive Chinese tech
-Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech
+## Winter arrives in markets
+Bonds and stocks tell the same chilly story
 
-## ‘Relentless’ cost of living pressures behind collapse in UK consumer confidence
-Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020
+## Serbia’s Vučić faces tough election as fraud fears mount
+Also in this newsletter: How to defend Europe’s position in quantum technology
 
-## FirstFT: Meta rekindles AI spending fears
-Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee
+## Healey to promise end of ‘pointless paperwork’ for small UK companies
+Government claims chancellor’s deregulation drive could cut costs by £800mn annually
 
-## UK urges public and business to better prepare for emergencies
-Ministers urge households to stock up on essential items amid growing risk of natural disasters, cyber attacks or state-sponsored terrorism
+## How nervous are bond markets about France?
+Dusting off our apples-for-apples spreadsheet
 
-## Moderna shares sink after leaked cancer data missed expectations
-Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations
+## Global tech sell-off sparks flight to safety
+Japanese bonds and yen rally as Asian stock markets follow Wall Street lower
 
-## Singapore goes after companies over toxic haze
-Smog-choked city-state is threatening groups behind land burning in Indonesia
+## FirstFT: OpenAI trims valuation target to $1.25tn
+Also in today’s newsletter: Iran war and Berlin flats plan
 
-## Airfares will not return to pre-Iran war levels, American Airlines warns
-Some industry chiefs say travellers should expect a further rise in ticket prices next year
+## Investing in Argentina
+Javier Milei’s sweeping free-market reforms have proved painful and the mood in Argentina is growing gloomy. With presidential elections next year, can the political outsider secure enough time to complete his transformation of the chronically troubled economy?
 
-## Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears
-Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years
+## The dispute that blew up a $34bn deal
+And a parting message from DD co-founder JFK
 
-## Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military
-Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines
+## Is Zuckerberg being greedy? Let shareholders decide
+If the billionaire founder cares what people think, he should persuade his fellow investors to back his vision
 
-## OpenAI trims valuation target to $1.25tn after pitching higher price
-AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT
+## How a transatlantic mega-merger fell apart over a leadership tug of war
+Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
 
-## UK waters down ‘fit and proper’ rules set up to hold bankers to account
-Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey
+## Credit insurers cut cover on struggling UK housebuilder Crest Nicholson
+Coface and Allianz Trade have reduced their exposure to the company in moves that could further squeeze its cash flow
 
-## Maharashtra to unveil dedicated chemicals policy by first week of November
-Maharashtra aims to strengthen its chemicals industry through a dedicated policy, port-linked infrastructure and a proposed large-scale industrial park.
+## Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK
+Company hopes for state backing of up to £200mn to put towards engine for short-haul aircraft
 
-## Why crocodiles survived the asteroid strike that wiped out dinosaurs, study finds
-A study of more than 400 crocodilian species suggests their climate preferences and ability to withstand food shortages aided their survival.
+## Should UK banks be taxed more?
+Financial services sector bracing for higher levies as chancellor looks for ways to repair public finances
 
-## Why young manta rays stay close to shore while adults migrate hundreds of kilometres
-Tracking data from 2018 to 2025 reveals how manta rays change their movements with age and repeatedly return to preferred coastal sites
+## Sensex today | Stock Market Live: Sensex falls 400 pts, Nifty slips below 22,500 as markets dip after positive open
+Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks Sensex and Nifty opened higher on Friday but struggled to build on early gains and slid into red as a technology-led selloff across Wall Street and Asia and Brent crude near $114 kept sentiment fragile.
 
-## NLC India plans ₹35,000-crore Odisha power plant, explores coal gasification and mineral processing
-The proposed projects span power generation, fertiliser-related technology and mineral processing, with the thermal plant expected to create about 4,000 jobs
+## Welspun Corp bags ₹5,500-crore US pipeline order, global order book hits record $5.25 billion
+Welspun Tubular’s latest US contract links natural gas transmission with AI infrastructure growth, taking its global order book to unprecedented levels
 
-## Yes Bank unlikely to pay AT1 bond coupons despite bondholders’ demands, sources say
-Bondholders are seeking clarity on overdue interest payments as the lender weighs its legal options following the Supreme Court’s decision
+## Amaha set to close ₹100-crore fundraise to expand mental healthcare network
+Amaha secures ₹100 crore in funding from Lightbox, Fireside, Sandbox, Rainmatter, and others to expand 9 centers across India and boost tech-driven mental healthcare
 
-## Adani Total Gas Q2 profit rises 6% to ₹173 cr
-ATGL’s revenue growth was driven by a 12 per cent% year-on-year increase in gas sales volumes to 315 million standard cubic metres (MMSCM) in the July-September quarter
+## India’s October business growth hits 4-month high; hiring stalls, PMI shows
+A ​services PMI rose ‌to 56.2 from 55.2, driving the majority of the acceleration in private-sector output
 
-## Why solar energy is becoming a global security strategy | Ashish Khanna | Energonomics EP 39
-India’s solar success story: Can Surya Ghar and PM-KUSUM go global?
+## Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown
+Charges allege immigrants lied on citizenship paperwork or voter forms, risking naturalisation and potential prison time as crackdown targets alleged noncitizen voting ahead of midterms.
 
-## India extends duty-free raw sugar import deadline to December 31
-The extension gives importers additional time to bring in raw sugar under the duty-free import allowance, according to an official notification.
+## USFDA concludes inspection at Cipla arm InvaGen's New York facility with 'zero' observations
+Cipla’s InvaGen facility in Hauppauge, New York passed a US FDA inspection October 19-22, 2026 with zero Form 483 observations
+
+## Jio Platforms IPO Day 3 Live Updates: Issue subscribed 5.98 times so far, QIB demand at 13.35x
+Jio Platforms IPO Day 3 live updates: Jio Platforms IPO enters Day 3 of bidding after the issue was subscribed 5.38 times on Day 2, with bids for 106.27 crore shares against 19.75 crore shares on offer. Qualified institutional buyers (QIBs) led the demand, subscribing to their reserved portion 12.87
+
+## India highlights UNSC’s struggles to deliver peace after 80 years since inception
+India also calls out the deliberate suppression of sacrifices made by nations in the world wars while the UNSC did not include concerns of the victims
 
 ## Crude rises, rupee falls & Dalal Street trips again
 Among the major Asian market indices, Kospi in Korea closed 3.5% down, Hang Seng in Hong Kong closed 3% down, Nikkei in Japan was down 2.7% at the close while Shanghai Composite in China closed 1.5% lower. European markets too were mostly in the red in late trades with CAC 40 in France down 1.4%, DA
@@ -81,29 +87,41 @@ Google Cloud executives Chris Betz, chief information security officer, and Ralu
 ## India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained
 Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against thi
 
-## Chennai YouTuber arrested for allegedly abetting suicide of influencer
-The accused allegedly posted defamatory videos targeting the influencer and threatened him in an attempt to extort money, a police official said.
+## US national Mathew Vandyke appears before Delhi court in Myanmar arms training case
+The six Ukrainian nationals arrested along with Mathew VanDyke on March 13, however, have not returned to India.
 
-## Power supply hit in Gurugram, Faridabad and Nuh as workers strike over privatisation
-A strike by DHBVN workers disrupted power across three Haryana districts from Wednesday night, generating more than 3,000 complaints in 12 hours.
+## Row over ITBP chief's Arunachal 'face-off' remark, Congress questions govt
+In an address to the troops, ITBP director general purportedly said "there was a face-off at different locations" in Arunachal, "which is still continuing".
 
-## ‘Rahul Gandhi should become PM’: Revanth Reddy's appeal in Telangana
-Reddy said the country was at a critical juncture and urged members of the Nehru family to take responsibility for its future.
+## Kolkata Durga Puja stampede: SIT zeroes in on narrow exit point, dimly lit pathway of Chor Bagan pandal
+A six-member Special Investigation Team (SIT) is probing the October 17 stampede that killed 19 people
 
-## Upper caste activists gherao HP Secretariat; demand UGC notification rollback, Swaran Aayog
-Panchayat and Rural Development Minister Anirudh Singh was deputed to talk to the protesters on Thursday.
+## CPI(M) MP seeks independent probe into SBI customer data exposure, writes to FM Nirmala Sitharaman
+On October 21, SBI informed the Bombay Stock Exchange and the National Stock Exchange that it had suffered “an incident involving the loss of certain data.”
 
-## Power department staff begins 3-day strike against private discom in Gurugram, Nuh
-The Haryana Bijli Karamchari and Engineers Joint Sangharsh Morcha called for a strike after the power sector regulator granted a licence to a private firm.
+## Two workers die of asphyxiation due to gas leak in Telangana’s pharma factory
+The plant manufactures active pharmaceutical ingredients and drug intermediates, and also takes up contract manufacturing services.
 
-## Gangster who claimed responsibility in Tiger Shroff firing case named wanted accused
-Pandit, a member of the Lawrence Bishnoi gang, who had allegedly claimed responsibility for the on Tiger Shroff, has been named as a wanted accused in the case.
+## Class 3 student crushed by reversing school van Uttar Pradesh's Naini
+Residents reportedly assaulted the driver before handing him to police. Officials said the van appeared to be operating without a required helper.
 
-## PM Modi says Congress tarnishes India's image abroad: 'They seek intervention in internal affairs'
-PM Modi also accused the Congress of undermining movements that sought to hold the government accountable and push for reforms.
+## Gujarat bars outsiders from govt schools without principal’s nod; Congress alleges cover-up
+Gujarat Cong spokesperson Manish Doshi the restrictions would not address teacher shortages, the condition of classrooms or the lack of facilities in schools.
 
-## Cong is fine when it wins, blames BJP and EC when it loses: Bhupender Yadav
-Union minister Bhupender Yadav accuses the Opposition of trying to destabilise Indian democracy through its allegations against the Election Commission over SIR.
+## No dilution in prescribed standards: NMC on denotification of medical education regulations
+No dilution in prescribed standards: NMC on denotification of medical education regulations
+
+## Beijing tightens rules on outbound capital to better shield Chinese assets
+China has unveiled a revised rule for regulating outbound investment, requiring investors to report major adverse developments more diligently, including foreign demands to hand over technology or dispose of stakes. The new rule, announced by the National Development and Reform Commission (NDRC) on 
+
+## China’s bear-market rout deepens as growth concerns and AI sell-off spur caution
+Chinese stocks extended their sell-off on Friday, pushing the benchmark CSI 300 Index deeper into bear-market territory, as waning hopes for fresh stimulus from Beijing and a global retreat from artificial intelligence-related trades rattled investor sentiment. The CSI 300 fell by as much as 2 per c
+
+## Fighting for the last hundredths
+[The content of this article has been produced by our advertising partner.] As Formula One moves from Singapore to Austin, Richard Mille and Ferrari show how innovation, performance and talent development can become powerful drivers of brand value. With the Formula One season entering a decisive pha
+
+## Even as Beijing boosts oversight, Chinese investors continue pivot to offshore assets
+Chinese households are increasingly shifting assets from real estate and bank deposits into more lucrative investments at home and abroad, despite growing oversight, Moody’s Ratings said. A multi-year downturn in the Chinese property market and low interest rates are fuelling the demand for alternat
 
 ## Wall Street piles into Hong Kong’s dim sum bonds despite fading yuan funding edge: BofA
 Hong Kong’s offshore yuan bond market is becoming an increasingly important funding source for global banks, with US lenders driving a surge in issuance even as the currency’s traditional funding advantage over the dollar narrows. The shift offers a glimpse of how financial ties between Wall Street 
@@ -116,18 +134,6 @@ When Abel Zhao thinks about the future of travel and live experience, he begins 
 
 ## Hong Kong targets financial innovation to help ease economic ‘pain points’
 Hong Kong’s top banking regulator has called for greater innovation in the city’s financial system to help address “pain points” in the real economy, as the city works with mainland Chinese and Asia-Pacific partners to navigate a host of sustainability, geopolitical and other challenges. “True innov
-
-## US-China ties need more working-level dialogues, not just summits: business chamber
-The president of the American Chamber of Commerce in China (AmCham China) has urged Beijing and Washington to push more negotiations down to working-level officials, saying businesses need greater long-term stability in bilateral ties than leader-level diplomacy alone can provide. Michael Hart, pres
-
-## China expands tax workforce as tougher enforcement moves into spotlight
-Beijing’s plan to recruit more tax officers next year is drawing attention from businesses and wealthy families as tax compliance rises up the policy agenda and authorities intensify enforcement efforts. China’s 2027 national civil service recruitment plan includes 24,013 tax-related positions, acco
-
-## China targets offshore trusts in widening push for taxes
-Thursday marked the deadline for Chinese taxpayers to make outstanding tax payments tied to offshore trusts as the government chases new funding sources to help ease fiscal strains. Investors face a 20 per cent tax based on the initial value of assets placed in trusts and a 20 per cent tax on distri
-
-## France’s borrowing costs reach 24-year high as riots deepen budget worries
-France’s 10-year borrowing cost topped 5 per cent again in early Paris trading on Thursday, a day after touching that level for the first time since 2002, as the country recovers from its worst urban riots in years and braces for more clashes to come. Analysts expected market pressure to persist in 
 
 ## Hegseth Could Face Impeachment if Democrats Win in November
 One lawmaker lays out the case for indicting the defense secretary.
@@ -153,6 +159,9 @@ Former President Joseph Kabila has joined a coalition that seeks to challenge Ki
 ## In India, Rubio Is All Business
 The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
 
+## China, Djibouti Express ‘Serious Concern’ Over Threats to Red Sea Shipping
+A joint communique ups the diplomatic rhetoric but offers no solutions.
+
 ## This Time, the Korean Loudspeaker Standoff Is Different
 Typically, South Korea has used loudspeakers to respond to North Korean provocations. Now Pyongyang has vowed to turn them on – and the prospects for de-escalation are dim.
 
@@ -173,9 +182,6 @@ From Hong Kong to Bangkok, Paris, Taiwan, and North America, LGBTQ communities a
 
 ## UNDP Asia-Pacific Director Kanni Wignaraja on the Necessity of Redefining Security
 “If governments are serious about security in the fullest sense, investment in development is non-negotiable.”
-
-## What Happened to Gwadar’s Rights Movement?
-Haq Do Tehreek, the movement that once brought the world’s attention to Gwadar’s longstanding grievances, is a pale shadow of its former self.
 
 ## Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress
 After losing fellow marines in Iraq, Jeff Lindquist struggled with post-traumatic stress that was steadily destroying his life. Years later, an innovative technology helped him reclaim it. This is the story of Jeff and Erik Won, two veterans who served together, and how efforts to help Jeff recover 
@@ -225,29 +231,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tibet rocked by 7.0-magnitude earthquake
-Tibet rocked by 7.0-magnitude earthquake
+## Grenade exercise sparked deadly fire at Canada military base, army says
+High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.
 
-## Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran
-Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.
+## Keeping Madhubala alive: The fight for Karachi’s captive elephants
+Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?
 
-## UK Conservative Party leader responds to Al Jazeera investigation
-UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.
+## Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up
+Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.
 
-## Almost all shallow-water coral reefs now face extinction risk, study warns
-World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as "critically endangered".
+## US tech stocks tumble as investors fret over AI spending
+Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
 
-## Hundreds of Ethiopians cross into Kenya to flee regional fighting
-Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.
+## Venezuelans demand elections in first national protest in nearly two years
+No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.
 
-## US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
-The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
+## Indian developer turns ‘Cockroach’ protests into video game
+A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.
 
-## Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
-Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
+## Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother
+Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement.
 
-## US judge blocks federal operations seeking to identify non-citizen voters
-Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
+## Ilhan Omar plans to move out of her Washington DC home after federal raid
+US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud.
+
+## India Inc's succession Dilemma
+Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
+
+## GST reforms to roll out in phases from November 1, says CBIC member Mangal
+Sanjay Mangal, Member (GST) of Central Board of Indirect Taxes and Customs (CBIC), said the decisions taken at the 57th GST Council meeting focused on process and structural reforms to reduce the compliance burden on taxpayers, improve the flow of input tax credit (ITC) and facilitate refunds.
 
 ## Bond yield rises to 7.44% on higher oil prices, global cues
 Yields on the 10-year benchmark bond have increased due to high oil prices. The Reserve Bank of India rejected all bids at the treasury bill auction conducted recently. The government aimed to raise ₹23,000 crores through treasury bill sales but faced significantly higher yield bids. Market analysts
@@ -267,11 +279,8 @@ Kothari joins the life insurer with over 22 years of experience in the insurance
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
 
-## Big Four battle for India’s $2-billion and growing GCC work
-Big Four professional services firms in India have emerged as major players in the Global Capability Centre sector. These firms are generating substantial revenue as multinational companies shift focus to higher-value work. Competition in the sector is intensifying due to the involvement of various 
-
-## UAE VAT changes to increase costs and compliance burden for Indian businesses
-While the rules apply to all businesses operating in the UAE, Indian companies account for about 20-25% of total businesses, with over 265,000 operating as of June 2025, making the changes particularly relevant for them. "Indian-owned businesses in construction, hospitality, manufacturing, logistics
+## Government plans to pare stakes in 4 PSU banks to 75%
+The Union government announced in the 2021-22 budget that, besides IDBI Bank, it would take up two public sector banks and one general insurance company for privatisation.
 
 ## SEBI exploring proposal to allow REITs, InvITs to invest in third-party projects: ED Maninder Cheema
 SEBI is exploring a proposal to allow Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) to invest in third-party projects subject to certain conditions.
@@ -293,7 +302,4 @@ The Reserve Bank of India has implemented stricter scrutiny on large overseas di
 
 ## Trump waives Russia sanctions, easing India’s energy concerns as US trade deal nears
 US President Donald Trump waived key Russian sanctions which may enhance trade relations with India. This decision is expected to provide negotiating space for a potential trade deal. India, one of the largest importers of Russian oil, faces challenges due to declining imports. Secretary of State Ma
-
-## India-New Zealand FTA takes effect October 20, opens duty-free access for Indian exports
-The India-New Zealand Free Trade Agreement (FTA) will come into force on Tuesday, October 20, providing duty-free access to Indian goods across the New Zealand market and opening up fresh opportunities for exporters, according to a presentation by the Ministry of Commerce and Industry.
 
