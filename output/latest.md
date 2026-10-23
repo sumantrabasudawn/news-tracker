@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Ukraine says Starlink speeds still throttled
-Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+## Trump to cut Canadian tariffs after pressure from Republicans
+President to ease some levies to help candidates facing tough US Senate election battles
+
+## France avoids downgrade from Moody’s in boost for Macron’s government
+Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’
+
+## Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
+Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
+
+## Xi gathers China’s top cadres with focus on discipline
+Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term
+
+## Trump moves to block certification of Alaska Senate election if Republican loses
+Candidates’ similar names could ‘taint’ the result, argues US Justice Department
 
 ## Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
 Rise in energy prices pushes US inflation expectations higher
 
+## Macron says deadly shooting near Paris was racially motivated
+Gunman arrested in Trappes after he kills one person and injures five others in ‘murderous rampage’
+
+## Turn Downing Street into museum or flats, says Starmer’s cost of living tsar
+Iceland boss Richard Walker joins chorus of voices calling for 300-year-old hub of British government to be overhauled
+
 ## Zuckerberg’s deal to stay in California cheered by wealth tax campaign
 Supporters of the tax say many billionaires threatening to leave the state will not go
-
-## Reform’s former policy chief steps down from Cambridge management roles
-Move by James Orr comes after allegations he breached electoral law by soliciting political donations from foreign citizens
-
-## Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
-Melania Trump helps organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
-
-## Trump administration moves to block certification of Alaska Senate election
-Candidates’ similar names could ‘taint’ the result, argues the US Justice Department
-
-## Global Insight: The ‘cockroach’ protesters Modi cannot stamp out
-Movement that began as an online satirical movement but has become a thorn in the side of the prime minister
-
-## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
-Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
 
 ## Directors’ Deals: Safestore directors raise stakes as shares struggle
 Self-store group to review its UK plans for 2027-28
@@ -69,29 +72,29 @@ The regulator cited unregistered advisory services, misleading return claims and
 ## 23 days after new RBI forex rules, individual service exporters still await clarity, banks lack SOPs
 With no written clarification from the central bank, AD banks have adopted conflicting interpretations, and most are yet to release the mandated SOPs.
 
-## Jio Platforms' IPO becomes first public offer globally to cross 1 cr applications
+## Upper layer NBFCs have to list: RBI guv on Tatas; dispels doubts on Sept order
+RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of RBI rules. The consequences of continued noncompliance remain unclear. The governor declined to be drawn into the question of Noel Tata’s proposal to merge two Tata Sons subsidiaries with the holding company, a move that 
 
+## Record haul: Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids
+In the unofficial market, speculators are betting that the company will be listing at about Rs 1,370, a mark-up (also called the grey market premium or GMP) of about Rs 250 over the upper limit of the IPO price band of Rs 1,065 to Rs 1,119. The current GMP is slightly off Rs 273, the highest level s
 
-## Crude rises, rupee falls & Dalal Street trips again
-Among the major Asian market indices, Kospi in Korea closed 3.5% down, Hang Seng in Hong Kong closed 3% down, Nikkei in Japan was down 2.7% at the close while Shanghai Composite in China closed 1.5% lower. European markets too were mostly in the red in late trades with CAC 40 in France down 1.4%, DA
+## Amid volatile trades, sensex falls for 4th day
+The day’s slide came despite Rs 888-crore net buying by foreign funds and another Rs 3,235-crore net buying by domestic institutions, BSE data showed. Early on Friday, Brent crude had hit a nearly six-month high at $114 per barrel. As a result, the rupee also weakened and inched closer to the 95-to-
 
-## Videos, the new gateway reshaping online retail
-Social media platforms such as Instagram and YouTube had already made access easier than ever—people sat at their homes, browsed through videos, subscribing to influencer-led recommendations and buying products. Platforms took note of the shopping habit and launched their own video and live formats.
+## At $43 billion, RBI’s net dollar purchase hits new high
+India’s foreign exchange reserves fell by $5.01 billion to $721.02 billion in the week ended Oct 16, down $64.7 billion from their all-time high of $785.71 billion in the week ended Sept 4, as pressure on the rupee continued. Foreign currency assets, the largest component of reserves, declined by $5
 
-## Jio IPO subscribed over 5x as institutions bid big
-At the close of Day 2, the total demand for Jio shares was worth about Rs 3.7 lakh crore, including the anchor portion. On Thursday, the institutional (QIB) part of the IPO, in which a little over 4.9 crore shares were offered, was subscribed nearly 13.3 times, while the HNI portion, in which about 
+## India seventh most targeted by cyberattacks: MS executive Nicholas Butts
+Butts cited Storm 3168, also called Jadepuffer, which he described as a China-based ransomware operation using AI agents against customers worldwide. He also pointed to Russian and Chinese state-sponsored actors deploying agents for espionage, including a group Microsoft tracks as Storm 0940. AI was
 
-## Yes Bank Additional Tier 1 bondholders seek interest payment
-The YES Bank AT1 Retail Bond Holders Association cited Companies Act and Sebi obligations in seeking an explanation for non-payment of the 9% bond coupon due Oct 18, three days after the Oct 15 court order restoring the bonds. It also demanded payment of coupons skipped in 2020-25 and arrangements f
+## Driven by travel, outward transfers jump 6% to $2.7 billion
+Business travel surged 365.4% to $51 million from $11 million, while other travel, including leisure trips and international credit card settlements, fell 7.4% to $713.8 million. Spending on pilgrimage travel declined 46% to $5.5 million and remittances for travel-related medical treatment fell 17.7
 
-## eMudhra to exit global SSL/TLS business, shares tank
-The company’s board decided to withdraw from the business after reviewing its commercial prospects and the scrutiny triggered by the incident. The global SSL/TLS business contributes about 1% of eMudhra’s revenue, but rising compliance requirements, increasing costs and competition from free certifi
+## Demand at home supporting growth momentum: RBI
+The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23
 
-## At €310 billion, Union minister Piyush Goyal eyes 10x rise in Indo-German trade
-At the inauguration of the India Centre and Indo-German Business Forum in Berlin, Goyal said the FTA could be signed by Dec and implemented within four to five months. “We had 31.5 billion euros (in 2025) and (if) we were to be able to add a zero to that, make it 310 billion euros. How would that so
-
-## PHP security flaws trigger global scramble; CERT-In flags vulnerabilities
-Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Goo
+## Infosys ADRs tumble 6% as growth guidance cut to 1-2%
+Infosys CEO Salil Parekh said the weakness was driven by specific client situations rather than a broad-based slowdown across industries. “We have seen different client-specific situations in both retail and high-tech. This is not happening across all industries. We continue to see strong growth and
 
 ## Nirmala Sitharaman urges regulators to speed up refunds of unclaimed bank deposits, shares and funds
 Finance minister Nirmala Sitharaman has urged regulators to speed up refunds of unclaimed bank deposits, shares, dividends, insurance and pension funds.
@@ -141,6 +144,15 @@ This article was first published by The Korea Times in a partnership with the So
 ## Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment
 As regional equities tumbled and hopes for investor stimulus faded, the Hang Seng Index fell to a seven-month low. Attention also remained focused on Beijing’s intensified scrutiny of offshore wealth and tax compliance. Macroeconomic data pointed to steady, if uneven, domestic momentum. Here are the
 
+## Netanyahu Orders Large-Scale Military Operation in West Bank
+Israeli forces will go “house to house” after two soldiers were killed in a shooting.
+
+## The Real Danger of Big Tech
+The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.
+
+## Why Putin’s Defenders Are Increasingly American
+Like Joseph Stalin’s Western fans, they use a vicious foreign regime to grind their axe at home.
+
 ## Filming Among the Rubble of Nazi Germany
 How Hollywood captured the struggle to make a better world.
 
@@ -155,15 +167,6 @@ Is the United States destined for a repeat of Jan. 6 every election now?
 
 ## What’s Behind Turkish-Azerbaijani Tensions?
 A fight over veiling reflects deeper strains over sovereignty.
-
-## Bolivia and Chile Make Nice
-The two countries are mending ties after a decades-long territorial dispute.
-
-## Hegseth Could Face Impeachment if Democrats Win in November
-One lawmaker lays out the case for indicting the defense secretary.
-
-## Trump Puts His Faith in Putin
-Trump wants a foreign-policy win, but Moscow is unlikely to deliver.
 
 ## With Strict Agendas and Silent Corridors Kazakhstan’s Kurultai Is Muzzling the Press
 Journalists covering the country’s parliament are pushing back against new rules that constrict their ability to question officials.
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Aston Villa vs Manchester City: Premier League – teams, prediction, lineups
-Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.
+## Why is Israel increasing its presence in the Balkans?
+In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
 
-## Israel locks down occupied West Bank after Hebron shooting
-Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.
+## Masked gunmen kill seven in attack on church funeral in Jordan
+At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
 
-## Former FBI officials charged in connection with Hunter Biden laptop probe
-Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
+## ‘Generation Right’: Israeli youth show strong support for the right
+Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
 
-## Trump administration sues to block possible Democratic win in Alaska
-President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.
+## FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
+Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.
 
-## Many feared trapped after multistorey building collapses in Kenya
-Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.
+## Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says
+More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.
 
-## Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage
-The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.
+## Why is the UK at the forefront of AI-driven job cuts?
+AI-linked job losses in the UK are running at twice the rate of US and Germany.
 
-## Bayern coach Kompany taken to hospital after collapsing during training
-The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions.
+## Why is Trump questioning Ilhan Omar’s name?
+A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.
 
-## Jerusalem Daily: Israel to ‘lock down’ occupied West Bank
-Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.
+## Russia, Ukraine agree to Melania Trump-brokered localised ceasefire
+President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
