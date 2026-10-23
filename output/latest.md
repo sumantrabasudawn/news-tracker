@@ -1,67 +1,70 @@
 # AION Intelligence
 
-## Winter arrives in markets
-Bonds and stocks tell the same chilly story
+## Oil hits $114 for first time since May as global stocks knocked by AI fears
+Markets face twin threats of surging crude prices and concern over durability of AI boom
 
-## Serbia’s Vučić faces tough election as fraud fears mount
-Also in this newsletter: How to defend Europe’s position in quantum technology
+## Austria expels Russian diplomats suspected of espionage
+Vienna steps up crackdown on Moscow’s spies after years of leniency that frustrated Kyiv and other European capitals
 
-## Healey to promise end of ‘pointless paperwork’ for small UK companies
-Government claims chancellor’s deregulation drive could cut costs by £800mn annually
+## Citi wins long-awaited approval for China securities business
+Green light comes ahead of expected meeting between Donald Trump and Xi Jinping next month
 
-## How nervous are bond markets about France?
-Dusting off our apples-for-apples spreadsheet
+## FirstFT: AI doubts fuel tech sell-off
+Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand
 
-## Global tech sell-off sparks flight to safety
-Japanese bonds and yen rally as Asian stock markets follow Wall Street lower
+## ‘Relentless’ cost of living pressures behind collapse in UK consumer confidence
+Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020
 
-## FirstFT: OpenAI trims valuation target to $1.25tn
-Also in today’s newsletter: Iran war and Berlin flats plan
+## US nuclear revival faces scrutiny after incidents at flagship plant
+Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand
+
+## Volvo Cars shares plunge as much as 30% after it swings to loss
+Swedish carmaker to cut another 2,500 jobs and warns that the market ‘has not reached the bottom’
+
+## September inflation keeps BoJ on tightening course
+The key measures of inflation are rising
+
+## How smart does my fridge need to be?
+In an age of cyber attacks and malfunctioning technology, dumb appliances are starting to look like the clever choice
+
+## Anthropic strikes deal to launch European consultancy
+New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI
+
+## Why the UK should greenlight both Jackdaw and Rosebank
+The real problem, for those concerned about the climate, isn’t that oil and gas might become too cheap, but that renewables remain too expensive
+
+## Kering shares slide 10% after drop in sales at flagship brand Gucci
+Third-quarter performance likely to delay chief Luca de Meo’s efforts to revive struggling luxury group
 
 ## Investing in Argentina
 Javier Milei’s sweeping free-market reforms have proved painful and the mood in Argentina is growing gloomy. With presidential elections next year, can the political outsider secure enough time to complete his transformation of the chronically troubled economy?
 
-## The dispute that blew up a $34bn deal
-And a parting message from DD co-founder JFK
+## Data leak incident: SBI says customer balances completely safe
+A detailed assessment is currently underway and appropriate remedial and preventive measures are being implemented as required, the bank said
 
-## Is Zuckerberg being greedy? Let shareholders decide
-If the billionaire founder cares what people think, he should persuade his fellow investors to back his vision
+## Sensex today | Stock Market Highlights: Sensex, Nifty extend losses as crude surges to $114, all sectors close in red
+Sensex, Nifty, Share Prices Highlights: The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues.
 
-## How a transatlantic mega-merger fell apart over a leadership tug of war
-Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
+## Bharat Biotech slashes price of malaria vaccine MOSQIVAC by 40%
+Bharat Biotech said the move will help protect another 1 million children and generate $50 million in savings.
 
-## Credit insurers cut cover on struggling UK housebuilder Crest Nicholson
-Coface and Allianz Trade have reduced their exposure to the company in moves that could further squeeze its cash flow
+## Q2 Results Today Live: JSW Steel profit at ₹5,359 crore, CG Power earnings rise, CSB Bank profit jumps 14% YoY, Mahindra Logistics turns profitable, Shree Digvijay Cement swings to loss, Atul announces ₹90-crore buyback
+Q2 Results Today, 23rd October 2026 Live Updates: Follow the latest announcements and developments on the company's September quarter earning on Adani Power, JSW Steel, Tata Motors, Shriram Fin, Torrent Pharma, CG Power, BPCL, Dr Reddys Lab and others
 
-## Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK
-Company hopes for state backing of up to £200mn to put towards engine for short-haul aircraft
+## Paras Healthcare IPO fully subscribed on day 3
+The retail investors' category is subscribed 1.80 times, while the portion for qualified institutional buyers receives 1.41 times subscription
 
-## Should UK banks be taxed more?
-Financial services sector bracing for higher levies as chancellor looks for ways to repair public finances
+## India's general insurance industry to see modest growth in FY27 amid pricing pressures: Report
+Strong retail health demand and motor OD gains offset by crop and fire declines; pricing pressures persist in motor segment
 
-## Sensex today | Stock Market Live: Sensex falls 400 pts, Nifty slips below 22,500 as markets dip after positive open
-Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks Sensex and Nifty opened higher on Friday but struggled to build on early gains and slid into red as a technology-led selloff across Wall Street and Asia and Brent crude near $114 kept sentiment fragile.
+## Mozambique eyes India partnership to boost agro-processing, expand rice trade across Southern Africa
+Mozambique aims to deepen agricultural tech and processing cooperation with India and serve as a gateway for Indian firms to regional markets
 
-## Welspun Corp bags ₹5,500-crore US pipeline order, global order book hits record $5.25 billion
-Welspun Tubular’s latest US contract links natural gas transmission with AI infrastructure growth, taking its global order book to unprecedented levels
+## Adani Power net profit Q2 FY27 jumps 134% to ₹6,919 crore
+Revenue from operations rose 44% to ₹19,439 crore in the quarter from ₹13,457 crore a year ago, on stronger demand and higher selling rates
 
-## Amaha set to close ₹100-crore fundraise to expand mental healthcare network
-Amaha secures ₹100 crore in funding from Lightbox, Fireside, Sandbox, Rainmatter, and others to expand 9 centers across India and boost tech-driven mental healthcare
+## Jio Platforms' IPO becomes first public offer globally to cross 1 cr applications
 
-## India’s October business growth hits 4-month high; hiring stalls, PMI shows
-A ​services PMI rose ‌to 56.2 from 55.2, driving the majority of the acceleration in private-sector output
-
-## Immigrants seeking US citizenship targeted in Trump administration's illegal voting crackdown
-Charges allege immigrants lied on citizenship paperwork or voter forms, risking naturalisation and potential prison time as crackdown targets alleged noncitizen voting ahead of midterms.
-
-## USFDA concludes inspection at Cipla arm InvaGen's New York facility with 'zero' observations
-Cipla’s InvaGen facility in Hauppauge, New York passed a US FDA inspection October 19-22, 2026 with zero Form 483 observations
-
-## Jio Platforms IPO Day 3 Live Updates: Issue subscribed 5.98 times so far, QIB demand at 13.35x
-Jio Platforms IPO Day 3 live updates: Jio Platforms IPO enters Day 3 of bidding after the issue was subscribed 5.38 times on Day 2, with bids for 106.27 crore shares against 19.75 crore shares on offer. Qualified institutional buyers (QIBs) led the demand, subscribing to their reserved portion 12.87
-
-## India highlights UNSC’s struggles to deliver peace after 80 years since inception
-India also calls out the deliberate suppression of sacrifices made by nations in the world wars while the UNSC did not include concerns of the victims
 
 ## Crude rises, rupee falls & Dalal Street trips again
 Among the major Asian market indices, Kospi in Korea closed 3.5% down, Hang Seng in Hong Kong closed 3% down, Nikkei in Japan was down 2.7% at the close while Shanghai Composite in China closed 1.5% lower. European markets too were mostly in the red in late trades with CAC 40 in France down 1.4%, DA
@@ -84,56 +87,53 @@ At the inauguration of the India Centre and Indo-German Business Forum in Berlin
 ## PHP security flaws trigger global scramble; CERT-In flags vulnerabilities
 Google Cloud executives Chris Betz, chief information security officer, and Raluca Ada Popa, head of Gemini Security at Google DeepMind, said PHP and cybersecurity firm Wiz Research disclosed the two vulnerabilities after research that used multiple AI models to identify and help remediate them. Goo
 
-## India-UK Social Security Agreement: DCC limits double contributions; five-year rule explained
-Historically, the two countries did not have a bilateral social security agreement as against the other European countries with whom India has a Social Security Agreement (SSA) i.e. Belgium, Germany, France, Switzerland, the Netherlands, Denmark, Finland, Luxembourg, Portugal and Sweden. Against thi
+## Chhattisgarh man raped, killed 7-year-old girl; sniffer dog leads to his house: Police
+The child’s body was recovered from bushes behind a poultry farm in the Rajgamar police chowki area on Thursday morning.
 
-## US national Mathew Vandyke appears before Delhi court in Myanmar arms training case
-The six Ukrainian nationals arrested along with Mathew VanDyke on March 13, however, have not returned to India.
+## 5 years, 50 letters: A battle to save Delhi’s vanishing water bodies
+According to DSWA records, Delhi has 1,045 water bodies recorded in revenue records and 322 identified through satellite imagery. Yet demarcation is incomplete
 
-## Row over ITBP chief's Arunachal 'face-off' remark, Congress questions govt
-In an address to the troops, ITBP director general purportedly said "there was a face-off at different locations" in Arunachal, "which is still continuing".
+## Over 700 kg illegal firecrackers seized in east Delhi, man arrested after raid at home
+Police arrested Vikas Jain, 37, a resident of Trilokpuri, after the cache of illegal firecrackers was recovered during a raid at his residence.
 
-## Kolkata Durga Puja stampede: SIT zeroes in on narrow exit point, dimly lit pathway of Chor Bagan pandal
-A six-member Special Investigation Team (SIT) is probing the October 17 stampede that killed 19 people
+## Cyclone likely to form over Bay of Bengal in few days, rain alert for Andhra Pradesh, Odisha: IMD
+Cyclone alert: In rainfall warnings, the IMD projected extremely heavy to heavy rainfall for coastal Andhra Pradesh and Odisha between October 27 and 29.
 
-## CPI(M) MP seeks independent probe into SBI customer data exposure, writes to FM Nirmala Sitharaman
-On October 21, SBI informed the Bombay Stock Exchange and the National Stock Exchange that it had suffered “an incident involving the loss of certain data.”
+## Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu
+Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu
 
-## Two workers die of asphyxiation due to gas leak in Telangana’s pharma factory
-The plant manufactures active pharmaceutical ingredients and drug intermediates, and also takes up contract manufacturing services.
+## Bengal CM inaugurates nutrition support scheme for tribal families
+Bengal CM inaugurates nutrition support scheme for tribal families
 
-## Class 3 student crushed by reversing school van Uttar Pradesh's Naini
-Residents reportedly assaulted the driver before handing him to police. Officials said the van appeared to be operating without a required helper.
+## 'Let's see what happens': CJP's Saurav Das, Ashutosh Ranka appear for questioning day after skipping probe summons
+Saurav Das and Ashutosh Ranka were released from judicial custody on Wednesday after being in jail for nearly a week in Jantar Mantar trespassing case.
 
-## Gujarat bars outsiders from govt schools without principal’s nod; Congress alleges cover-up
-Gujarat Cong spokesperson Manish Doshi the restrictions would not address teacher shortages, the condition of classrooms or the lack of facilities in schools.
+## Bomb threat note in Kolkata airport toilet triggers search; flight ops unaffected
+A handwritten bomb threat on tissue paper was found in a women’s toilet at Kolkata airport on Friday, prompting a search by the bomb squad and CISF personnel.
 
-## No dilution in prescribed standards: NMC on denotification of medical education regulations
-No dilution in prescribed standards: NMC on denotification of medical education regulations
+## China party meeting, stocks slump, HSBC leads earnings
+A key Communist Party meeting next week in Beijing is likely to be dominated by two themes – the renewal of President Xi Jinping’s long-standing anti-corruption drive and the hunt for clues about a looming leadership reshuffle. “Major issues related to advancing full and rigorous party self-governan
+
+## Former HSBC insurance veteran Edward Moncreiffe joins AIA in latest senior talent move
+Former HSBC Holdings global insurance head Edward Moncreiffe will join rival AIA Group as regional CEO from November 2, following a path taken by former HSBC Group chairman Mark Tucker, who returned to the Asia-Pacific region’s largest insurer as non-executive chairman last year. Moncreiffe will ove
+
+## Citigroup gets Beijing’s approval for wholly owned securities firm in China
+US bank Citigroup has received approval to set up a wholly foreign-owned securities firm in mainland China, allowing the lender to pursue more opportunities in one of the world’s largest capital markets. The long-awaited green light was given by the China Securities Regulatory Commission (CSRC) on F
+
+## Hong Kong life insurance sales up 58% in first half but tax crackdown threatens momentum
+Life insurance sales in Hong Kong rose 58 per cent in the first half of this year to another record high as affluent mainland and overseas customers continued to buy policies in the city for wealth transfer, protection and medical needs. It was the fourth consecutive year in which first half sales h
+
+## China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI
+This article was first published by The Korea Times in a partnership with the South China Morning Post. Chinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Se
+
+## Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment
+As regional equities tumbled and hopes for investor stimulus faded, the Hang Seng Index fell to a seven-month low. Attention also remained focused on Beijing’s intensified scrutiny of offshore wealth and tax compliance. Macroeconomic data pointed to steady, if uneven, domestic momentum. Here are the
 
 ## Beijing tightens rules on outbound capital to better shield Chinese assets
 China has unveiled a revised rule for regulating outbound investment, requiring investors to report major adverse developments more diligently, including foreign demands to hand over technology or dispose of stakes. The new rule, announced by the National Development and Reform Commission (NDRC) on 
 
-## China’s bear-market rout deepens as growth concerns and AI sell-off spur caution
-Chinese stocks extended their sell-off on Friday, pushing the benchmark CSI 300 Index deeper into bear-market territory, as waning hopes for fresh stimulus from Beijing and a global retreat from artificial intelligence-related trades rattled investor sentiment. The CSI 300 fell by as much as 2 per c
-
-## Fighting for the last hundredths
-[The content of this article has been produced by our advertising partner.] As Formula One moves from Singapore to Austin, Richard Mille and Ferrari show how innovation, performance and talent development can become powerful drivers of brand value. With the Formula One season entering a decisive pha
-
-## Even as Beijing boosts oversight, Chinese investors continue pivot to offshore assets
-Chinese households are increasingly shifting assets from real estate and bank deposits into more lucrative investments at home and abroad, despite growing oversight, Moody’s Ratings said. A multi-year downturn in the Chinese property market and low interest rates are fuelling the demand for alternat
-
-## Wall Street piles into Hong Kong’s dim sum bonds despite fading yuan funding edge: BofA
-Hong Kong’s offshore yuan bond market is becoming an increasingly important funding source for global banks, with US lenders driving a surge in issuance even as the currency’s traditional funding advantage over the dollar narrows. The shift offers a glimpse of how financial ties between Wall Street 
-
-## HSBC RedCoin stablecoin launches for 3.3 million PayMe users in Hong Kong
-HSBC will launch its Hong Kong dollar-backed stablecoin in stages from Friday for more than 3.3 million users of its PayMe app, as the bank pushes to bring digital currencies into the city’s mainstream retail and investment markets. HSBC RedCoin, available only through PayMe and the bank’s Hong Kong
-
-## Embracing the Experience Economy
-When Abel Zhao thinks about the future of travel and live experience, he begins with a memory. As a high school student during the 1998 FIFA World Cup, Zhao was too young to enter the stadium. Instead, he stood outside with friends, listening to the roar of the crowd and absorbing the energy of thou
-
-## Hong Kong targets financial innovation to help ease economic ‘pain points’
-Hong Kong’s top banking regulator has called for greater innovation in the city’s financial system to help address “pain points” in the real economy, as the city works with mainland Chinese and Asia-Pacific partners to navigate a host of sustainability, geopolitical and other challenges. “True innov
+## Chinese stocks bounce back from bear market on suspected state support
+Chinese stocks rebounded on Friday after a sell-off drove the benchmark index into a bear market, as surging trading volumes in the nation’s biggest exchange-traded funds (ETFs) pointed to possible state buying and major companies at the centre of the artificial intelligence trade sought to soothe i
 
 ## Hegseth Could Face Impeachment if Democrats Win in November
 One lawmaker lays out the case for indicting the defense secretary.
@@ -159,6 +159,12 @@ Former President Joseph Kabila has joined a coalition that seeks to challenge Ki
 ## In India, Rubio Is All Business
 The top U.S. diplomat’s three-day trip is focused largely on commercial interests.
 
+## Indonesia’s Stock Market Crisis Is Self-Inflicted
+Jakarta has serious questions to answer about the credibility of its capital markets and the effectiveness of the institutions responsible for regulating them.
+
+## Malaysian PM Anwar Bans Civil Servants From Using Israel-developed Navigation App
+Anwar Ibrahim said that Waze, which was developed in Tel Aviv before being acquired by Google in 2013, could be "exploited by the Israeli regime."
+
 ## China, Djibouti Express ‘Serious Concern’ Over Threats to Red Sea Shipping
 A joint communique ups the diplomatic rhetoric but offers no solutions.
 
@@ -177,11 +183,8 @@ Clear ground rules could not only help resolve the North Korean POW standoff but
 ## Censorship in Pakistan Goes From ‘Pleasant’ to ‘Unpleasant’
 Authorities have directed satellite TV channels to refrain from broadcasting or providing live coverage of "unpleasant incidents," meaning shootings, blasts and terrorist attacks.
 
-## Hong Kong’s Vanishing Rainbow Shows How China’s Social Control Travels
-From Hong Kong to Bangkok, Paris, Taiwan, and North America, LGBTQ communities are encountering censorship, surveillance, and coercive pressure linked to China.
-
-## UNDP Asia-Pacific Director Kanni Wignaraja on the Necessity of Redefining Security
-“If governments are serious about security in the fullest sense, investment in development is non-negotiable.”
+## Deception in Mass Autonomous Warfare
+“[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
 
 ## Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress
 After losing fellow marines in Iraq, Jeff Lindquist struggled with post-traumatic stress that was steadily destroying his life. Years later, an innovative technology helped him reclaim it. This is the story of Jeff and Erik Won, two veterans who served together, and how efforts to help Jeff recover 
@@ -203,9 +206,6 @@ The Tehran that the world knew is gone. It died in the fires with former Supreme
 
 ## Reading Pyongyang Through the Cracks of the International System
 In 2023, three North Korea analysts identified what they believe most people studying the country get wrong, and how analysts can avoid those traps. Three years later, we asked them to revisit their arguments and offer fresh insights into what North Korean propaganda reveals about Pyongyang’s priori
-
-## Guns, Growth, and the German Reinvention of Military Keynesianism
-In March 2025, Germany did more than loosen a fiscal rule. It fused two national emergencies — a deteriorating European security order and a deteriorating industrial model — into a single constitutional bargain. The reform de facto exempted German defense expenditure from any domestic budgetary ceil
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Grenade exercise sparked deadly fire at Canada military base, army says
-High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.
+## South Korea invites North for military talks over border
+The proposal comes days after Pyongyang says it moved new military units into 'firing positions' along the border.
 
-## Keeping Madhubala alive: The fight for Karachi’s captive elephants
-Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?
+## New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit
+Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can't afford them.
 
-## Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up
-Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.
+## Serbia’s snap election: What’s at stake and can students unseat Vucic?
+A snap parliamentary vote on October 25 will determine whether a student-led group can loosen Vucic’s grip on power.
 
-## US tech stocks tumble as investors fret over AI spending
-Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
+## NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid
+Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.
 
-## Venezuelans demand elections in first national protest in nearly two years
-No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.
+## What role does the military play in Israeli schools?
+For Israeli teenagers, military life ordinarily kicks off in school.
 
-## Indian developer turns ‘Cockroach’ protests into video game
-A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.
+## Pulaku: The two faces of Nigeria’s vigilantes
+Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.
 
-## Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother
-Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement.
+## Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight
+Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.
 
-## Ilhan Omar plans to move out of her Washington DC home after federal raid
-US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud.
+## Israeli military kills two in gun battle in occupied West Bank
+Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
@@ -279,6 +279,9 @@ Kothari joins the life insurer with over 22 years of experience in the insurance
 ## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
 The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
 
+## Repo rate seen peaking at 6% as December hike odds rise: MPC minutes analysis
+Two external members favoured retaining the neutral stance, while most members emphasised that the change did not signal a series of hikes. Instead, it indicated that rate cuts were off the table for now, with the future policy path allowing for further increases or a pause, according to Barclays In
+
 ## Government plans to pare stakes in 4 PSU banks to 75%
 The Union government announced in the 2021-22 budget that, besides IDBI Bank, it would take up two public sector banks and one general insurance company for privatisation.
 
@@ -299,7 +302,4 @@ The Centre has revised performance security measures for national highway contra
 
 ## RBI steps up scrutiny of companies' large foreign investments
 The Reserve Bank of India has implemented stricter scrutiny on large overseas direct investments exceeding $1 billion. This move aims to protect the rupee amid pressures from currency fluctuations and foreign portfolio investor sell-offs.
-
-## Trump waives Russia sanctions, easing India’s energy concerns as US trade deal nears
-US President Donald Trump waived key Russian sanctions which may enhance trade relations with India. This decision is expected to provide negotiating space for a potential trade deal. India, one of the largest importers of Russian oil, faces challenges due to declining imports. Secretary of State Ma
 
