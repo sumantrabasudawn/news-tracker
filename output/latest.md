@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## France deploys 70,000 officers to police latest protests
-Government puts 20% more officers on the streets to boost security following last weekend’s riots
+## Hundreds of thousands protest in France in second weekend of mass demonstrations
+Government puts 70,000 police officers on to the streets to boost security after last weekend’s riots
+
+## Kim reaffirms ties with China amid worries over Russian friendship
+Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts
+
+## Intelligence memo warns Iran is plotting to kill Americans in Middle East
+Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document
 
 ## Mayfair club Maison Estelle set to reopen after alleged firearm incident
 Luxury venue closed in September after police asked Westminster council to review its licence
@@ -18,12 +24,6 @@ Two soldiers killed and three injured by Palestinian gunmen in attack that has s
 ## UK mortgage market ‘failing to adapt to new patterns of work’
 Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
 
-## Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu
-The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier
-
-## Country music and cowboy hats: Brazil’s rightward shift
-A conservative identity with heavy American influence has developed in Brazilian politics over the past decade
-
 ## French government and corporate bond yields are converging
 Some companies’ bonds now yield less than government bonds
 
@@ -39,32 +39,32 @@ Investors are questioning whether appeal of homegrown Chinese luxury is a durabl
 ## Musk’s bet of the century
 The proposed Tesla-SpaceX merger is going all in on AI
 
-## Pegasus spyware founder urges governments to trust his tech and ditch US AI
-Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security
+## It’s a matter of TRUST
+While the universe of REITs and InvITs is still small, their outperformance over equities and debt in recent years, makes a case for bringing it into your investment radar
 
-## Utssav CZ Gold Jewels to issue 1:1 bonus shares
-Board approves issuance of one bonus share of face value ₹10 for every existing share held by eligible shareholders
+## MF Davids give Goliaths a run for their money
+Newer fund houses outperform larger rivals as market volatility tests investment strategies
 
-## Lumax profit jumps 58%, bets ₹150 crore on electronics plant to generate ₹500 crore revenue
-Lumax Auto Technologies reported a 57.8% rise in quarterly profit and 34.5% revenue growth despite higher material costs
+## Parag Parikh Conservative Hybrid Fund: Conservative yet consistently rewarding
+How equity exposure, high-quality debt and REITs have helped deliver superior returns
 
-## Centre issues 11 crore farmer IDs under AgriStack, 26% are women
-The Farmer ID initiative is designed to provide farmers with a unique digital identity, enabling transparent, efficient and timely access to government schemes, bank credit, crop insurance and disaster relief, while reducing paperwork and repeated verification, the agriculture ministry said in a sta
+## EAAA India Alternatives IPO: Hardly breaks new ground
+Strong fundraising and a differentiated alternatives franchise offer growth potential, but valuation is fully priced
 
-## Castrol India Q3 profit falls 22.6% as raw-material costs surge 71%
-Profit drops despite revenue growing 27.3%; results come ahead of global ownership change that would give Stonepeak indirect control of the listed Indian lubricant maker
+## Bandu’s Blockbusters for October 25, 2026
+Guess the stock that will give the best return by next Friday
 
-## India's Finance Ministry pushes broking industry to shed family-firm model, build structural trust
-Dr. Alok Tiwari, Joint Secretary at the Ministry of Finance, spoke Saturday at an ANMI-NSE event, addressing market intermediaries, regulators, and government bodies
+## Tech Query: Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals — What is the outlook? Where are these stocks headed?
+We look at the prospects of Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals
 
-## Supreme Power Equipment net profit grows to ₹14 crore in Apr-Sept period
-Total income rose to ₹135.57 crore in the first half of FY27, up from ₹75.36 crore in the same period of the previous fiscal
+## US Market Outlook: Indices look vulnerable
+More fall could be on the cards
 
-## Outreach to villages key in expanding India’s higher education access: V Kamakoti
-During the event, 20 students with household income less than ₹6 lakh per annum were awarded the Sumangala Scholarship
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Eternal, PVR Inox and Union Bank of India
 
-## India's basmati rice yield likely to be 5-10% higher this year: Industry leader
-Rajeev Setia, President of Basmati IREF and Joint MD of Chaman Lal Setia Exports, said the monsoon and rainfall supported basmati growth and higher yields
+## Kotak Mahindra Bank Q2 results: Consolidated net profit jumps 26% to Rs 5,645 crore
+Kotak Mahindra Bank reported an impressive 26% growth in its consolidated net profit for the September quarter of FY27. Standalone profit surged by 29%, reaching Rs 4,212 crore. The bank's asset quality improved, as evidenced by the notable decrease in gross non-performing assets. Moreover, the net 
 
 ## From fuel price hikes to cost-of-living concerns, US consumer sentiment nears record low
 US consumer sentiment has declined slightly as rising prices related to the Middle East conflict affect households' financial views. The Consumer Sentiment Index fell marginally to 48.0 in October, approaching a record low. Independents reported significantly weaker sentiment while Democrats and Rep
@@ -87,32 +87,29 @@ Butts cited Storm 3168, also called Jadepuffer, which he described as a China-ba
 ## Driven by travel, outward transfers jump 6% to $2.7 billion
 Business travel surged 365.4% to $51 million from $11 million, while other travel, including leisure trips and international credit card settlements, fell 7.4% to $713.8 million. Spending on pilgrimage travel declined 46% to $5.5 million and remittances for travel-related medical treatment fell 17.7
 
-## Demand at home supporting growth momentum: RBI
-The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23
+## Delhi AQI 'moderate' at 191; environment minister says govt in 'war mode for clean air'
+Delhi’s AQI fell to 191 from 230 a day earlier, ending a three-day ‘poor’ spell, while minimum temperatures dipped slightly under partly cloudy skies.
 
-## 17 Kuki militants under SoO deal arrested in Manipur; mismatch found in identities
-The operation was carried out in Mt Sinai Camp, Saimol village, a day after three persons from the Meitei community were killed in an attack.
+## Muskan Rastogi, Sahil Shukla challenge death sentence in Saurabh Rajput's ‘blue drum’ murder case before Allahabad HC
+The court had convicted the two on September 30 for the murder of Muskan's husband Saurabh Rajput and for attempting to conceal his body.
 
-## Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology
-The former Jammu and Kashmir CM made the remarks at a party event in Baramulla district of Kashmir Valley.
+## 3-year-old girl dies after boiling milk spills on her while fleeing stray dog in Maharashtra's Beed
+The tragedy struck when the child was playing outside her home at Nandur Haveli on Thursday.
 
-## Defence secretary Rajesh Kumar Singh gets one-year extension in Centre's big move
-Since May 31 this year, Singh has also held additional charge as secretary, Department of Defence Research and Development, and chairman of the DRDO.
+## Allahabad HC makes Meerut SSP stand through hearing for failure to comply with order
+The court instructed the administrative judge in Meerut to take action against the Chief Judicial Magistrate (CJM) in Meerut.
 
-## Chandrababu Naidu compares Jagan Mohan Reddy to 'Kamsa' from Mahabharata over niece’s wedding row
-Naidu said the public should understand what he described as Jagan’s dangerous mindset and alleged that his overall approach was driven by destruction.
+## Voter's name appears 11 times in Azamgarh rolls, ECI orders action against 9 officials in UP
+The issue came to light after Samajwadi Party chief Akhilesh Yadav alleged that the name of a man had been entered multiple times in the Azamgarh voter list.
 
-## Hacker group claims to have accessed 86.3 lakh Rajasthan police emails; probe on
-Cyber Crime DIG Shantanu Kumar said multiple teams were examining the claims.
+## RG Kar rape victim's parents question bail to ex-principal: 'should have been sentenced to life imprisonment'
+The proposed march on November 12, organised by 'Voice of Abhaya' and 'Voice of Women', citizen groups, will begin at RG Kar Medical College and Hospital.
 
-## Demand for students' union, row over ‘slogans’ trigger tensions in Jamia Millia Islamia
-The students of JMI have been protesting over the past couple of weeks, demanding restoration of students’ union, which was dissolved in 2006.
+## Man beaten to death in Ludhiana, severed hand left at grocery shop; cops suspect old rivalry
+Eyewitnesses said the accused handed the severed hand to the grocer and when the shopkeeper refused, the assailants ‘threatened’ him with a similar fate.
 
-## West Bengal CM Suvendu Adhikari begins preparations for first Gangasagar Mela under BJP govt
-Held every January on Makar Sankranti, the Gangasagar Mela draws millions of Hindu pilgrims to Sagar Island in West Bengal’s South 24 Parganas district.
-
-## HT Evening News Brief Oct 24: Jamia moves classes online amid protests; India beat New Zealand to take 2-0 lead in T20I series
-Here are the top updates from across the country, the world and from the field of sports and entertainment.
+## BJP alleges Sanjay Raut faked AI audio on ₹500 crore payout to Jarange; Sena UBT leader claims BJP MLC leaked clip
+The BJP alleged that the recording was part of an attempt to advance Rahul Gandhi's agenda and create divisions within the ruling alliance.
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?
-Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.
+## Trump says he may move White House press corps to new location
+Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
 
-## Man City beaten at Aston Villa as perfect Premier League start ends
-Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+## About 25,000 rally in Madrid in support of Spain’s state pension scheme
+Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
 
-## Do abstaining voters hold the key to Brazil’s 2026 presidential election?
-Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?
+## Serbian elections: A country where students may actually take power
+Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
 
-## Rybakina readies for title defence at Ningbo Open in final with Fernandez
-The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.
+## Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams
+Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.
 
-## Sudan’s soaring fuel prices make getting by harder for workers
-Sudan is suffering from a cost-of-living crisis affecting millions across the country.
+## More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids
+Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.
 
-## Who was behind the deadly church shooting in Jordan?
-Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.
+## Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll
+The race between Brazil's president and the right-wing senator has tightened in recent days.
 
-## Netanyahu floats Crypto to bypass sanctions
-Netanyahu floats Crypto to bypass sanctions
+## Hundreds of soldiers deploy as protesters rally in Italy’s Milan
+The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.
 
-## Armed Israeli settlers try to break into Palestinian grandfather’s home
-A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.
+## Why Israeli tourists and investors are unsettling Cypriots
+Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
