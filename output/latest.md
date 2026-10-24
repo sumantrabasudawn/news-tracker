@@ -1,12 +1,18 @@
 # AION Intelligence
 
-## France prepares for protests with big police deployment
+## Ukraine military says Starlink service restrictions have been removed
+Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes
+
+## France prepares for more protests with big police deployment
 Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots
+
+## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
+Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
 
 ## UK mortgage market ‘failing to adapt to new patterns of work’
 Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
 
-## Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?
+## Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu
 The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier
 
 ## Country music and cowboy hats: Brazil’s rightward shift
@@ -17,6 +23,9 @@ Healey is poised to deliver his plans just as this year’s drag on global bonds
 
 ## Tobacco taxes work — even when they give smugglers a windfall
 Fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut
+
+## French government and corporate bond yields are converging
+Some companies’ bonds now yield less than government bonds
 
 ## Patrick Dele Cole, journalist and diplomat, 1940-2026
 The intellectual, writer and adviser made an outsized contribution to Nigerian political and civil life
@@ -33,32 +42,32 @@ Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of so
 ## Pubs, pints and the art of the Budget gimmick
 Andy Burnham may be hoping to repeat George Osborne’s trick by cutting beer duty
 
-## The money questions children ask AI chatbots
-Forty per cent of UK youngsters in a survey had asked AI for financial advice
+## Civil society group raises concerns over composition of expert committee on UCPMP
+Flags Dr Trehan’s participation as potential conflict of interest, given his association with private hospital group Medanta
 
-## India reaffirms commitment to safe, peaceful nuclear technology at UNGA
-India reaffirms at UNGA commitment to safe, peaceful nuclear tech; highlights IAEA role, South-South cooperation, and technical cooperation program
+## Q2 Results Today Live: Kotak Mahindra Bank, JK Cement log gains, BPCL profit falls, AU Small Finance Bank, IDFC First Bank, Netweb Tech, Castrol India, Kajaria Ceramics, Bharat Coking Coal to announce Q2 results
+Q2 Results Today, 24th October 2026: Follow the latest announcements and developments on the September quarter earnings, key companies in focus today include Kotak Mahindra Bank, AU Small Finance Bank, IDFC First Bank, JK Cement, Netweb Technologies, Castrol India, Kajaria Ceramics and Bharat Coking
 
-## Apple’s iPhone Duo hits stores in face of short supply and high demand
-Marking the company’s most radical reinvention in the iPhone’s nearly two-decade history, the Duo is a major bet that Apple can establish itself in a category that’s remained a niche so far
+## JK Cement Q2 profit rises 6.3% to ₹169.3 cr on higher sales volume
+JK Cement’s revenue from operations jumps 23.65% to ₹3,733.42 crore in Q2 FY27 compared to ₹3,019.20 crore in the year-ago period
 
-## Boeing supplier dispute has halted 777 freighter production for two months
-Boeing is trying to bring production of the trailing-edge rib kit in-house; the component is used in wing assembly for ‌the 767 and current-generation 777 freighter
+## Mutual Funds returns
+As on : Oct 24, 2026
 
-## India-Germany R&D partnership can boost joint innovation, manufacturing: Piyush Goyal
-As per Goyal, India's trade agreements already cover two-thirds of global markets and could extend to 75% of global GDP over the next 12 to 18 months
+## India, Uzbekistan discuss bilateral ties during Jaishankar’s Azerbaijan visit
+Jaishankar met President Ilham Aliyev and held talks with Foreign Minister Jeyhun Bayramov on trade, investment, energy, tourism and connectivity
 
-## Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area
-While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages
+## Karnataka flour mills seek higher wheat allocation under OMSS
+Karnataka received only 6,000 tonnes in the October 21 auction, meeting about 17 per cent of the association members’ estimated weekly requirement of 34,600 tonnes
 
-## OpenAI resumes frontier AI training with enhanced security, no internet access
-Concerns are mounting over the ‌ability of increasingly capable AI agents to identify and ‌exploit software flaws, including in ‌guardrails
+## Tata Motors Q2 consolidated profit rebounds to ₹1,257 crore; revenue rises 36.3%
+The company moved closer to completing its €3.91-billion Iveco acquisition
 
-## US says Russia, Ukraine to let civilians leave war-torn area
-The White House statement says that the humanitarian arrangement is due to begin Oct. 29, which credited First Lady Melania Trump with brokering the agreement
+## Torrent Pharma Q2 Results: Net profit falls 10% to ₹534 cr; revenue rises 51%
+Revenue from operations of the Ahmedabad-based company increased 50.8 per cent to ₹4,979 crore in the quarter, compared with ₹3,302 crore a year earlier
 
-## West Bengal farmers cut area under early potato varieties due to ‘unremunerative’ price
-Currently, truck-loading prices at cold storage gates for the Jyoti potato are ruling at a ₹500 per quintal, some ₹100 lower than the same period last year
+## From fuel price hikes to cost-of-living concerns, US consumer sentiment nears record low
+US consumer sentiment has declined slightly as rising prices related to the Middle East conflict affect households' financial views. The Consumer Sentiment Index fell marginally to 48.0 in October, approaching a record low. Independents reported significantly weaker sentiment while Democrats and Rep
 
 ## Upper layer NBFCs have to list: RBI guv on Tatas; dispels doubts on Sept order
 RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of RBI rules. The consequences of continued noncompliance remain unclear. The governor declined to be drawn into the question of Noel Tata’s proposal to merge two Tata Sons subsidiaries with the holding company, a move that 
@@ -81,32 +90,29 @@ Business travel surged 365.4% to $51 million from $11 million, while other trave
 ## Demand at home supporting growth momentum: RBI
 The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23
 
-## Infosys ADRs tumble 6% as growth guidance cut to 1-2%
-Infosys CEO Salil Parekh said the weakness was driven by specific client situations rather than a broad-based slowdown across industries. “We have seen different client-specific situations in both retail and high-tech. This is not happening across all industries. We continue to see strong growth and
+## Tiger Shroff's shooters received real-time updates, instructions based on media coverage
+The firing took place on the evening of October 18 in Mumbai's Juhu area, when two shooters allegedly fired several rounds at Shroff's car.
 
-## HT Morning Brief October 24: Delhi sees few Form 6 applications amid SIR, Trump issues fresh threat to Iran and more
-Start your day informed with the latest news headlines from politics, global affairs, sports, and entertainment.
+## India condemns ‘heinous’ attack that killed 8 in Jordan church, reaffirms ‘fight against terrorism’
+External affairs minister S Jaishankar said India stood with the government and people of Jordan during the difficult hour.
 
-## Kerala governor faces row on first day in office over reported ban on non-veg food at Lok Bhavan
-A section of the media said that Mathur had directed that non vegetarian delicacies should not be prepared or served in the Lok Bhavan kitchen.
+## Andhra Pradesh, Odisha on alert as IMD warns of possible cyclone over Bay of Bengal by October 26
+The IMD has issued a pre-cyclone watch for Andhra Pradesh and adjoining South Odisha coasts amid the impending cyclone.
 
-## Five killed in accidental blast during road construction work in Andhra Pradesh
-The blast occurred at Pinakota village in Anantagiri mandal during rock blasting for road expansion.
+## Piyush Goyal identifies India's ‘AI-proof’ sectors, says ministry working on jobs AI can't replace
+Piyush Goyal said the commerce ministry is identifying professions and sectors where artificial intelligence can improve efficiency without displacing workers.
 
-## Tiger Shroff attack handlers relayed TV news updates to shooters: Report
-Police are yet to establish who was relaying TV news updates to the shooters, which was done through a messaging app.
+## NCERT releases AI module for Classes 9 to 12; deepfakes, ethical usage in focus
+Aligned with NEP 2020, the introductory module –a foundational learning resource – is designed for students with no prior knowledge of AI.
 
-## EOW issues notices to 11, including Sunetra Pawar’s two OSDs, in Mundhwa land deal case
-The Economic Offences Wing has issued notices to 11 people, including two OSDs to Maharashtra deputy CM Sunetra Pawar, in the Pune Mundhwa land deal probe.
+## Sonam Wangchuk slams Ladakh administration's stand over institute's land lease cancellation
+In an affidavit, the Ladakh administration blamed the cancellation on the activist’s “disregard for the law” said the land allotment had automatically lapsed.
 
-## Mumbai man arrested over suspected Jaish-e-Mohammed links, Pakistan intelligence angle under probe
-Mumbai man arrested over suspected Jaish-e-Mohammed links, Pakistan intelligence angle under probe
+## Centre praises Tamil Nadu CM Vijay’s Aviation Fuel Tax cut: ‘Thank you, Thiru’
+Tamil Nadu has reduced VAT on ATF at Chennai airport to 16% from 29%, while the rate has been cut to 1% at all other airports in the state.
 
-## 3 killed, 7 injured as bus carrying pilgrims from Maharashtra crashes into trailer in Rajasthan’s Jaipur
-Three pilgrims were killed and seven injured after a bus from Maharashtra collided with a trailer on the Jaipur-Ajmer National Highway in Bagru early Saturday.
-
-## Rivalry among TMC factions in focus as parties gear up for Bengal civic polls
-West Bengal civic polls are set to see a contest involving rival Trinamool Congress factions, the BJP and Congress as parties prepare for elections in Kolkata and Howrah.
+## Jamia Millia Islamia moves classes online, cites ‘safety of students' amid ongoing protests
+Students of Delhi's Jamia Millia Islamia began the protest demanding restoration of students' union on October 12.
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
@@ -228,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How Benjamin Netanyahu reshaped Israel’s institutions
-As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
+## German police detain suspect after fire engulfs Hitler’s Eagle’s Nest
+No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.
 
-## Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
-Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
+## Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks
+Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be 'stable' in hospital.
 
-## Lebanese sceptical Israeli polls will bring change, end occupation of south
-Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
+## Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
+Monitoring group reports more Muslims in Europe face racial discrimination as 'terrorist' attack kills one in France.
 
-## Massive oil slick seen weeks after tanker struck off UAE’s coast
-An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.
+## France braces for another day of mass protests as security on high alert
+Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.
 
-## Argentina identifies dozens of victims killed in its ‘Dirty War’
-Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
+## Brazil’s Lula and Bolsonaro debate policy proposals before run-off
+Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.
 
-## Marco Rubio urges Cubans to collaborate with CIA to topple gov’t
-Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.
+## Ethiopian PM’s advisor: Tigrayan forces and others hinder stability
+Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.
 
-## Israel raids towns, detains dozens of Palestinians in occupied West Bank
-Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.
+## Just Eat apologises after AI-generated images blunder
+Just Eat has apologised after its AI-generated food images went viral for grossly misrepresenting menu items.
 
-## Pentagon designates Confucius Institutes a national security threat
-Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.
+## Ilhan Omar votes as Trump renews attacks amid federal probe
+US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
