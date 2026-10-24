@@ -1,70 +1,64 @@
 # AION Intelligence
 
-## US executives quit $25bn gas venture over claims of secret Russian control
-Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval
+## France prepares for protests with big police deployment
+Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots
 
-## Trump moves to block certification of Alaska Senate election if Republican loses
-Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+## UK mortgage market ‘failing to adapt to new patterns of work’
+Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
 
-## John Healey to give £20bn boost to UK’s business lender and infrastructure bank
-Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules
+## Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?
+The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier
 
-## UK sets up AI lab to monitor biosecurity threats
-Move comes amid widespread fears that users could create new viruses and bioweapons
+## Country music and cowboy hats: Brazil’s rightward shift
+A conservative identity with heavy American influence has developed in Brazilian politics over the past decade
 
-## Trump to cut Canadian tariffs after pressure from Republicans
-President to ease some levies to help candidates facing tough US Senate election battles
+## A little bit of luck is lifting UK Budget expectations
+Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning
 
-## France avoids downgrade from Moody’s in boost for Macron’s government
-Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’
+## Tobacco taxes work — even when they give smugglers a windfall
+Fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut
 
-## Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
-Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
+## Patrick Dele Cole, journalist and diplomat, 1940-2026
+The intellectual, writer and adviser made an outsized contribution to Nigerian political and civil life
 
-## Xi gathers China’s top cadres with focus on discipline
-Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term
+## China’s luxury brands are ready to elbow western rivals aside
+Investors are questioning whether appeal of homegrown Chinese luxury is a durable shift or a shortlived trend
 
-## Zuckerberg’s deal to stay in California cheered by wealth tax campaign
-Supporters of the tax say many billionaires threatening to leave the state will not go
+## Musk’s bet of the century
+The proposed Tesla-SpaceX merger is going all in on AI
 
-## Directors’ Deals: Safestore directors raise stakes as shares struggle
-Self-store group to review its UK plans for 2027-28
+## Pegasus spyware founder urges governments to trust his tech and ditch US AI
+Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security
 
-## The ledger problem
-Tokenisation doesn’t suspend the laws of finance
+## Pubs, pints and the art of the Budget gimmick
+Andy Burnham may be hoping to repeat George Osborne’s trick by cutting beer duty
 
-## Stockpickers: Aberdeen, ITM Power, Tristel
-Our experts discuss which companies to buy, sell or hold this week
+## The money questions children ask AI chatbots
+Forty per cent of UK youngsters in a survey had asked AI for financial advice
 
-## How a transatlantic mega-merger fell apart over a leadership tug of war
-Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
+## India reaffirms commitment to safe, peaceful nuclear technology at UNGA
+India reaffirms at UNGA commitment to safe, peaceful nuclear tech; highlights IAEA role, South-South cooperation, and technical cooperation program
 
-## Managing a new world of bots and bargain hunters
-AI agents promise to empower consumers and boost competition, but must first earn users’ trust
+## Apple’s iPhone Duo hits stores in face of short supply and high demand
+Marking the company’s most radical reinvention in the iPhone’s nearly two-decade history, the Duo is a major bet that Apple can establish itself in a category that’s remained a niche so far
 
-## AI-discovered software flaws could trigger more internet disruptions, experts warn
-Cybersecurity experts warn that artificial intelligence is accelerating the discovery and exploitation of software flaws, leaving organisations less time to respond
+## Boeing supplier dispute has halted 777 freighter production for two months
+Boeing is trying to bring production of the trailing-edge rib kit in-house; the component is used in wing assembly for ‌the 767 and current-generation 777 freighter
 
-## Dr Reddy’s launches two new semaglutide brands amid Obeda supply disruptions
-The drugmaker has shifted production to a partner facility and expects to resolve the impurity issue affecting its injectable product next month.
+## India-Germany R&D partnership can boost joint innovation, manufacturing: Piyush Goyal
+As per Goyal, India's trade agreements already cover two-thirds of global markets and could extend to 75% of global GDP over the next 12 to 18 months
 
-## India’s bulk Scotch tariff dispute risks undermining India-UK trade deal, industry group says
-An industry association has sought urgent clarification from the government as the tariff dispute raises concerns over market access and investment
+## Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area
+While all the 28 villages under Kotia Gram Panchayat remain in Odisha territory, Andhra Pradesh has been claiming its rights over 21 villages
 
-## IDBI Bank employees’ service conditions will remain unchanged after sale, says DIPAM secretary
-DIPAM secretary Arunish Chawla said the share purchase agreement protects existing employees against changes to their disadvantage following the proposed sale
+## OpenAI resumes frontier AI training with enhanced security, no internet access
+Concerns are mounting over the ‌ability of increasingly capable AI agents to identify and ‌exploit software flaws, including in ‌guardrails
 
-## Fodder scam accused arrested after 25 years; CBI traces trail to Nepal
-The accused was travelling from Guna to Lucknow when a CBI team intercepted him following specific intelligence inputs on Thursday night
+## US says Russia, Ukraine to let civilians leave war-torn area
+The White House statement says that the humanitarian arrangement is due to begin Oct. 29, which credited First Lady Melania Trump with brokering the agreement
 
-## Odisha attracts ₹53,893 crore investment proposals at India Chem 2026, expects 20,210 jobs
-Chief Minister Mohan Charan Majhi said the proposals include major investments in chemicals and power as Odisha seeks to diversify its economy
-
-## SEBI orders Avadhut Sathe Trading Academy to refund ₹546 crore; imposes ₹11.5 crore penalty
-The regulator cited unregistered advisory services, misleading return claims and a failure to assess the suitability of investment recommendations to participants
-
-## 23 days after new RBI forex rules, individual service exporters still await clarity, banks lack SOPs
-With no written clarification from the central bank, AD banks have adopted conflicting interpretations, and most are yet to release the mandated SOPs.
+## West Bengal farmers cut area under early potato varieties due to ‘unremunerative’ price
+Currently, truck-loading prices at cold storage gates for the Jyoti potato are ruling at a ₹500 per quintal, some ₹100 lower than the same period last year
 
 ## Upper layer NBFCs have to list: RBI guv on Tatas; dispels doubts on Sept order
 RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of RBI rules. The consequences of continued noncompliance remain unclear. The governor declined to be drawn into the question of Noel Tata’s proposal to merge two Tata Sons subsidiaries with the holding company, a move that 
@@ -90,29 +84,32 @@ The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept f
 ## Infosys ADRs tumble 6% as growth guidance cut to 1-2%
 Infosys CEO Salil Parekh said the weakness was driven by specific client situations rather than a broad-based slowdown across industries. “We have seen different client-specific situations in both retail and high-tech. This is not happening across all industries. We continue to see strong growth and
 
-## Nirmala Sitharaman urges regulators to speed up refunds of unclaimed bank deposits, shares and funds
-Finance minister Nirmala Sitharaman has urged regulators to speed up refunds of unclaimed bank deposits, shares, dividends, insurance and pension funds.
+## HT Morning Brief October 24: Delhi sees few Form 6 applications amid SIR, Trump issues fresh threat to Iran and more
+Start your day informed with the latest news headlines from politics, global affairs, sports, and entertainment.
 
-## TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore
-Tamil Nadu police have booked a school principal, a teacher and two students after a Class 11 Dalit boy was found dead in Coimbatore, amid caste harassment allegations.
+## Kerala governor faces row on first day in office over reported ban on non-veg food at Lok Bhavan
+A section of the media said that Mathur had directed that non vegetarian delicacies should not be prepared or served in the Lok Bhavan kitchen.
 
-## Govt to issue consultation paper on a new AI law in ‘coming weeks’: Ashwini Vaishnaw
-Union minister Ashwini Vaishnav said the time has come when the risks of AI have crossed a threshold when we should come up with a law.
+## Five killed in accidental blast during road construction work in Andhra Pradesh
+The blast occurred at Pinakota village in Anantagiri mandal during rock blasting for road expansion.
 
-## Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses
-Shivakumar said he had documented the episode and had information about people who might have been involved.
+## Tiger Shroff attack handlers relayed TV news updates to shooters: Report
+Police are yet to establish who was relaying TV news updates to the shooters, which was done through a messaging app.
 
-## ED officer, head constable held in Lucknow for demanding ₹5 lakh bribe from complainant: CBI
-The CBI has arrested an ED officer and head constable posted in Lucknow for allegedly demanding a ₹5 lakh bribe to help a complainant’s father in an Enforcement Directorate case.
+## EOW issues notices to 11, including Sunetra Pawar’s two OSDs, in Mundhwa land deal case
+The Economic Offences Wing has issued notices to 11 people, including two OSDs to Maharashtra deputy CM Sunetra Pawar, in the Pune Mundhwa land deal probe.
 
-## India, Azerbaijan explore stronger trade and energy ties as Jaishankar meets Aliyev in Baku
-S Jaishankar’s first visit to Azerbaijan in eight years focuses on expanding India-Azerbaijan ties in trade, energy, investment, tourism and connectivity.
+## Mumbai man arrested over suspected Jaish-e-Mohammed links, Pakistan intelligence angle under probe
+Mumbai man arrested over suspected Jaish-e-Mohammed links, Pakistan intelligence angle under probe
 
-## ED files FIR after trespassers occupy flat attached in case against Dawood Ibrahim’s brother
-The Enforcement Directorate has filed an FIR over alleged trespassing at a Thane flat attached in a money laundering probe against Dawood Ibrahim’s brother Iqbal Kaskar.
+## 3 killed, 7 injured as bus carrying pilgrims from Maharashtra crashes into trailer in Rajasthan’s Jaipur
+Three pilgrims were killed and seven injured after a bus from Maharashtra collided with a trailer on the Jaipur-Ajmer National Highway in Bagru early Saturday.
 
-## CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station
-The CBI has arrested Satyendra Kumar, wanted in Bihar’s fodder case since 2001, after tracing him to Nepal and apprehending him at Lucknow railway station.
+## Rivalry among TMC factions in focus as parties gear up for Bengal civic polls
+West Bengal civic polls are set to see a contest involving rival Trinamool Congress factions, the BJP and Congress as parties prepare for elections in Kolkata and Howrah.
+
+## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
+HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
 
 ## Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion
 When Wang Junhong was helping Chinese brokerage Guotai Junan International establish a foothold in Vietnam, he had to knock on the door of a familiar Chinese bank. As part of the Hong Kong-based firm’s expansion into Southeast Asia, it had acquired a controlling stake of a small Vietnamese securitie
@@ -134,9 +131,6 @@ US bank Citigroup has received approval to set up a wholly foreign-owned securit
 
 ## Hong Kong life insurance sales up 58% in first half but tax crackdown threatens momentum
 Life insurance sales in Hong Kong rose 58 per cent in the first half of this year to another record high as affluent mainland and overseas customers continued to buy policies in the city for wealth transfer, protection and medical needs. It was the fourth consecutive year in which first half sales h
-
-## China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI
-This article was first published by The Korea Times in a partnership with the South China Morning Post. Chinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Se
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -234,32 +228,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Syrians protest Israel’s incursions near occupied Golan Heights
-Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.
+## How Benjamin Netanyahu reshaped Israel’s institutions
+As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
 
-## WHO announces start of Ebola vaccine clinical trial in DR Congo
-A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
+## Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
+Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
 
-## Iran war live: Israel launches ‘targeted’ Hebron operation after attack
-Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.
+## Lebanese sceptical Israeli polls will bring change, end occupation of south
+Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
 
-## Macklemore: ‘I say free Palestine’ as he kicks off a new tour
-Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
+## Massive oil slick seen weeks after tanker struck off UAE’s coast
+An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.
 
-## Typhoon Champi hits Taiwan, killing one and injuring 350
-Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.
+## Argentina identifies dozens of victims killed in its ‘Dirty War’
+Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
 
-## Kenya announces second Ebola death, says ‘no evidence’ of community spread
-The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
+## Marco Rubio urges Cubans to collaborate with CIA to topple gov’t
+Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.
 
-## Why is Israel increasing its presence in the Balkans?
-In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
+## Israel raids towns, detains dozens of Palestinians in occupied West Bank
+Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.
 
-## Masked gunmen kill seven in attack on church funeral in Jordan
-At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
+## Pentagon designates Confucius Institutes a national security threat
+Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
+
+## How CFOs can prepare Indian businesses for a more volatile global economy
+For Indian businesses, volatility is no longer an occasional disruption to an otherwise stable plan. A rise in oil prices leads to depreciation of rupee which leads to inflationary cycle. Cycle has two fold impact one on consumer spending (generating demand) and other one on input costs ( like incre
 
 ## GST reforms to roll out in phases from November 1, says CBIC member Mangal
 Sanjay Mangal, Member (GST) of Central Board of Indirect Taxes and Customs (CBIC), said the decisions taken at the 57th GST Council meeting focused on process and structural reforms to reduce the compliance burden on taxpayers, improve the flow of input tax credit (ITC) and facilitate refunds.
@@ -278,9 +275,6 @@ India’s recent FTA sprint marks a decisive shift from cautious market access t
 
 ## Mahindra Manulife Insurance appoints Nilesh Kothari as CFO
 Kothari joins the life insurer with over 22 years of experience in the insurance sector, having previously served as CFO of PNB MetLife India Insurance.
-
-## Explained: How foreign companies should structure their India entry under MCA’s 2026 guidance
-The MCA’s FAQs clarify when overseas businesses need foreign company registration, why a new project may not require a fresh filing, and how RBI approvals, annual returns and sectoral clearances fit into the compliance process.
 
 ## Repo rate seen peaking at 6% as December hike odds rise: MPC minutes analysis
 Two external members favoured retaining the neutral stance, while most members emphasised that the change did not signal a series of hikes. Instead, it indicated that rate cuts were off the table for now, with the future policy path allowing for further increases or a pause, according to Barclays In
