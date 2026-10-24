@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US executives quit $25bn gas venture over claims of secret Russian control
+Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval
+
+## Trump moves to block certification of Alaska Senate election if Republican loses
+Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+
+## John Healey to give £20bn boost to UK’s business lender and infrastructure bank
+Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules
+
+## UK sets up AI lab to monitor biosecurity threats
+Move comes amid widespread fears that users could create new viruses and bioweapons
+
 ## Trump to cut Canadian tariffs after pressure from Republicans
 President to ease some levies to help candidates facing tough US Senate election battles
 
@@ -11,18 +23,6 @@ Pope and Melania Trump help organise deal to allow humanitarian aid to enter are
 
 ## Xi gathers China’s top cadres with focus on discipline
 Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term
-
-## Trump moves to block certification of Alaska Senate election if Republican loses
-Candidates’ similar names could ‘taint’ the result, argues US Justice Department
-
-## Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
-Rise in energy prices pushes US inflation expectations higher
-
-## Macron says deadly shooting near Paris was racially motivated
-Gunman arrested in Trappes after he kills one person and injures five others in ‘murderous rampage’
-
-## Turn Downing Street into museum or flats, says Starmer’s cost of living tsar
-Iceland boss Richard Walker joins chorus of voices calling for 300-year-old hub of British government to be overhauled
 
 ## Zuckerberg’s deal to stay in California cheered by wealth tax campaign
 Supporters of the tax say many billionaires threatening to leave the state will not go
@@ -41,12 +41,6 @@ Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refuse
 
 ## Managing a new world of bots and bargain hunters
 AI agents promise to empower consumers and boost competition, but must first earn users’ trust
-
-## KKR founders back Valencia in deal valuing football club at €1.25bn
-Family offices of KKR co-founders George Roberts and Henry Kravis are part of consortium that has agreed to take 42% stake in Spanish team
-
-## London Underground blames rising delays on repair backlog
-Transport for London says increasing disruption inevitable unless more funding granted in next year’s spending review
 
 ## AI-discovered software flaws could trigger more internet disruptions, experts warn
 Cybersecurity experts warn that artificial intelligence is accelerating the discovery and exploitation of software flaws, leaving organisations less time to respond
@@ -120,6 +114,9 @@ The Enforcement Directorate has filed an FIR over alleged trespassing at a Thane
 ## CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station
 The CBI has arrested Satyendra Kumar, wanted in Bihar’s fodder case since 2001, after tracing him to Nepal and apprehending him at Lucknow railway station.
 
+## Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion
+When Wang Junhong was helping Chinese brokerage Guotai Junan International establish a foothold in Vietnam, he had to knock on the door of a familiar Chinese bank. As part of the Hong Kong-based firm’s expansion into Southeast Asia, it had acquired a controlling stake of a small Vietnamese securitie
+
 ## Hong Kong burnishes gold hub credentials with local refineries deal
 Hong Kong has taken another step towards building itself into an international gold trading hub, after confirming deals that will see gold refineries localise production in the city. The addition of the local refineries will allow Hong Kong to form a complete gold trading ecosystem, boosting belief 
 
@@ -140,9 +137,6 @@ Life insurance sales in Hong Kong rose 58 per cent in the first half of this yea
 
 ## China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI
 This article was first published by The Korea Times in a partnership with the South China Morning Post. Chinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom displays to factory trials and commercial deployments, as Se
-
-## Market sell-off, tax scrutiny and growth: key figures shaping investor sentiment
-As regional equities tumbled and hopes for investor stimulus faded, the Hang Seng Index fell to a seven-month low. Attention also remained focused on Beijing’s intensified scrutiny of offshore wealth and tax compliance. Macroeconomic data pointed to steady, if uneven, domestic momentum. Here are the
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -168,6 +162,15 @@ Is the United States destined for a repeat of Jan. 6 every election now?
 ## What’s Behind Turkish-Azerbaijani Tensions?
 A fight over veiling reflects deeper strains over sovereignty.
 
+## South Korea’s Ruling Democratic Party Is Tumbling in the Polls
+Its in-house gaffes and disputes are largely to blame for the DP's plummeting approval ratings.
+
+## Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit
+A formal trilateral could raise strategic questions that are awkward for the EU, Ukraine – and China itself.
+
+## The China-Taiwan Diplomatic War Is More About Politics Than Economics
+Taiwan’s formal relationships in Africa and Latin America point to the real factors driving recognition decisions – and it’s not “dollar diplomacy.”
+
 ## With Strict Agendas and Silent Corridors Kazakhstan’s Kurultai Is Muzzling the Press
 Journalists covering the country’s parliament are pushing back against new rules that constrict their ability to question officials.
 
@@ -182,15 +185,6 @@ Repeated military cooperation can help build predictability, trust, interoperabi
 
 ## Karakoram 2026: Inside China-Pakistan Joint Military Training in Xinjiang
 The deteriorating security environment in the region thus reinforces the importance of China-Pakistan military cooperation.
-
-## Japan Needs Higher Interest Rates
-Japanese exporters enjoy high demand and strong profit margins, but importers are under severe pressure. The weak yen also hurts Japanese consumers.
-
-## TenPayGo and China’s Digital Opening to Foreigners
-Tencent’s new payment app shows how China’s tech companies can lower barriers for foreign users without fundamentally changing the systems behind them.
-
-## Korean Dramas: Ukraine, Russia, and Where South Korea Begins
-A diplomatic spat and a comment that caused controversy.
 
 ## Deception in Mass Autonomous Warfare
 “[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
@@ -240,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrians protest Israel’s incursions near occupied Golan Heights
+Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.
+
+## WHO announces start of Ebola vaccine clinical trial in DR Congo
+A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.
+
+## Iran war live: Israel launches ‘targeted’ Hebron operation after attack
+Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.
+
+## Macklemore: ‘I say free Palestine’ as he kicks off a new tour
+Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
+
+## Typhoon Champi hits Taiwan, killing one and injuring 350
+Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.
+
+## Kenya announces second Ebola death, says ‘no evidence’ of community spread
+The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.
+
 ## Why is Israel increasing its presence in the Balkans?
 In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
 
 ## Masked gunmen kill seven in attack on church funeral in Jordan
 At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
-
-## ‘Generation Right’: Israeli youth show strong support for the right
-Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
-
-## FCC Democrat warns broadcasters to resist Trump’s media pressure tactics
-Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.
-
-## Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says
-More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.
-
-## Why is the UK at the forefront of AI-driven job cuts?
-AI-linked job losses in the UK are running at twice the rate of US and Germany.
-
-## Why is Trump questioning Ilhan Omar’s name?
-A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.
-
-## Russia, Ukraine agree to Melania Trump-brokered localised ceasefire
-President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
