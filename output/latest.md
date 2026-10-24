@@ -1,7 +1,10 @@
 # AION Intelligence
 
 ## Hundreds of thousands protest in France in second weekend of mass demonstrations
-Government puts 70,000 police officers on to the streets to boost security after last weekend’s riots
+Government puts 70,000 police officers on the streets to boost security after last weekend’s riots
+
+## Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions
+Critics say prime minister’s proposal would turn country into an economic pariah
 
 ## Kim reaffirms ties with China amid worries over Russian friendship
 Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts
@@ -21,11 +24,11 @@ Power broker behind kingdom’s flagship investment conference has weathered sca
 ## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
 Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
 
-## UK mortgage market ‘failing to adapt to new patterns of work’
-Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
-
 ## French government and corporate bond yields are converging
 Some companies’ bonds now yield less than government bonds
+
+## UK mortgage market ‘failing to adapt to new patterns of work’
+Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
 
 ## Tobacco taxes work — even when they give smugglers a windfall
 Fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut
@@ -63,6 +66,9 @@ More fall could be on the cards
 ## Movers & Shakers: Stocks that will see action this week
 Here is what the charts say about the shares of Eternal, PVR Inox and Union Bank of India
 
+## IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30%
+In Q2 FY27, IDFC First Bank showcased an impressive profit surge of 196.5 percent year-on-year, reaching Rs 1,045 crore. The bank's robust core operating performance is highlighted by a 21 percent rise in net interest income. Additionally, total loan assets expanded by 30.1 percent, showcasing subst
+
 ## Kotak Mahindra Bank Q2 results: Consolidated net profit jumps 26% to Rs 5,645 crore
 Kotak Mahindra Bank reported an impressive 26% growth in its consolidated net profit for the September quarter of FY27. Standalone profit surged by 29%, reaching Rs 4,212 crore. The bank's asset quality improved, as evidenced by the notable decrease in gross non-performing assets. Moreover, the net 
 
@@ -84,8 +90,11 @@ India’s foreign exchange reserves fell by $5.01 billion to $721.02 billion in 
 ## India seventh most targeted by cyberattacks: MS executive Nicholas Butts
 Butts cited Storm 3168, also called Jadepuffer, which he described as a China-based ransomware operation using AI agents against customers worldwide. He also pointed to Russian and Chinese state-sponsored actors deploying agents for espionage, including a group Microsoft tracks as Storm 0940. AI was
 
-## Driven by travel, outward transfers jump 6% to $2.7 billion
-Business travel surged 365.4% to $51 million from $11 million, while other travel, including leisure trips and international credit card settlements, fell 7.4% to $713.8 million. Spending on pilgrimage travel declined 46% to $5.5 million and remittances for travel-related medical treatment fell 17.7
+## Delhi man arrested for uploading Siddaramaiah-targeting video, gets bail; JDS link under probe
+The accused told the investigators that he uploaded the footage at the direction of a person associated with the JD(S) social media team, police said.
+
+## Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report
+Congress has reportedly asked the Karnataka govt to probe alleged sting bids on two CMs, after Shivakumar flagged a businessman wearing Meta glasses.
 
 ## Delhi AQI 'moderate' at 191; environment minister says govt in 'war mode for clean air'
 Delhi’s AQI fell to 191 from 230 a day earlier, ending a three-day ‘poor’ spell, while minimum temperatures dipped slightly under partly cloudy skies.
@@ -104,12 +113,6 @@ The issue came to light after Samajwadi Party chief Akhilesh Yadav alleged that 
 
 ## RG Kar rape victim's parents question bail to ex-principal: 'should have been sentenced to life imprisonment'
 The proposed march on November 12, organised by 'Voice of Abhaya' and 'Voice of Women', citizen groups, will begin at RG Kar Medical College and Hospital.
-
-## Man beaten to death in Ludhiana, severed hand left at grocery shop; cops suspect old rivalry
-Eyewitnesses said the accused handed the severed hand to the grocer and when the shopkeeper refused, the assailants ‘threatened’ him with a similar fate.
-
-## BJP alleges Sanjay Raut faked AI audio on ₹500 crore payout to Jarange; Sena UBT leader claims BJP MLC leaked clip
-The BJP alleged that the recording was part of an attempt to advance Rahul Gandhi's agenda and create divisions within the ruling alliance.
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
@@ -231,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
+Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
+
+## Thousands of Israelis rally against Netanyahu gov’t days before election
+Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.
+
+## Thousands join Paris protests as authorities clamp down on disorder
+Thousands of protesters are on the streets of Paris for a second weekend.
+
+## Thousands gather at new Albanian antigovernment rally
+More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.
+
+## Kim Jong Un crosses new bridge linking North Korea and China
+Kim Jong Un crosses new bridge linking North Korea and China
+
 ## Trump says he may move White House press corps to new location
 Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
 
@@ -239,21 +257,6 @@ Demonstrators want pensions to remain indexed to inflation and the gender pensio
 
 ## Serbian elections: A country where students may actually take power
 Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
-
-## Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams
-Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.
-
-## More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids
-Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.
-
-## Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll
-The race between Brazil's president and the right-wing senator has tightened in recent days.
-
-## Hundreds of soldiers deploy as protesters rally in Italy’s Milan
-The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.
-
-## Why Israeli tourists and investors are unsettling Cypriots
-Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
