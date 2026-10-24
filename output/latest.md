@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Ukraine military says Starlink service restrictions have been removed
+## France deploys 70,000 officers to police latest protests
+Government puts 20% more officers on the streets to boost security following last weekend’s riots
+
+## Mayfair club Maison Estelle set to reopen after alleged firearm incident
+Luxury venue closed in September after police asked Westminster council to review its licence
+
+## Ukraine military says Starlink service restrictions have been lifted
 Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes
 
-## France prepares for more protests with big police deployment
-Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots
+## Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test
+Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts
 
 ## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
 Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
@@ -18,14 +24,11 @@ The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge 
 ## Country music and cowboy hats: Brazil’s rightward shift
 A conservative identity with heavy American influence has developed in Brazilian politics over the past decade
 
-## A little bit of luck is lifting UK Budget expectations
-Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning
+## French government and corporate bond yields are converging
+Some companies’ bonds now yield less than government bonds
 
 ## Tobacco taxes work — even when they give smugglers a windfall
 Fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut
-
-## French government and corporate bond yields are converging
-Some companies’ bonds now yield less than government bonds
 
 ## Patrick Dele Cole, journalist and diplomat, 1940-2026
 The intellectual, writer and adviser made an outsized contribution to Nigerian political and civil life
@@ -39,32 +42,29 @@ The proposed Tesla-SpaceX merger is going all in on AI
 ## Pegasus spyware founder urges governments to trust his tech and ditch US AI
 Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security
 
-## Pubs, pints and the art of the Budget gimmick
-Andy Burnham may be hoping to repeat George Osborne’s trick by cutting beer duty
+## Utssav CZ Gold Jewels to issue 1:1 bonus shares
+Board approves issuance of one bonus share of face value ₹10 for every existing share held by eligible shareholders
 
-## Civil society group raises concerns over composition of expert committee on UCPMP
-Flags Dr Trehan’s participation as potential conflict of interest, given his association with private hospital group Medanta
+## Lumax profit jumps 58%, bets ₹150 crore on electronics plant to generate ₹500 crore revenue
+Lumax Auto Technologies reported a 57.8% rise in quarterly profit and 34.5% revenue growth despite higher material costs
 
-## Q2 Results Today Live: Kotak Mahindra Bank, JK Cement log gains, BPCL profit falls, AU Small Finance Bank, IDFC First Bank, Netweb Tech, Castrol India, Kajaria Ceramics, Bharat Coking Coal to announce Q2 results
-Q2 Results Today, 24th October 2026: Follow the latest announcements and developments on the September quarter earnings, key companies in focus today include Kotak Mahindra Bank, AU Small Finance Bank, IDFC First Bank, JK Cement, Netweb Technologies, Castrol India, Kajaria Ceramics and Bharat Coking
+## Centre issues 11 crore farmer IDs under AgriStack, 26% are women
+The Farmer ID initiative is designed to provide farmers with a unique digital identity, enabling transparent, efficient and timely access to government schemes, bank credit, crop insurance and disaster relief, while reducing paperwork and repeated verification, the agriculture ministry said in a sta
 
-## JK Cement Q2 profit rises 6.3% to ₹169.3 cr on higher sales volume
-JK Cement’s revenue from operations jumps 23.65% to ₹3,733.42 crore in Q2 FY27 compared to ₹3,019.20 crore in the year-ago period
+## Castrol India Q3 profit falls 22.6% as raw-material costs surge 71%
+Profit drops despite revenue growing 27.3%; results come ahead of global ownership change that would give Stonepeak indirect control of the listed Indian lubricant maker
 
-## Mutual Funds returns
-As on : Oct 24, 2026
+## India's Finance Ministry pushes broking industry to shed family-firm model, build structural trust
+Dr. Alok Tiwari, Joint Secretary at the Ministry of Finance, spoke Saturday at an ANMI-NSE event, addressing market intermediaries, regulators, and government bodies
 
-## India, Uzbekistan discuss bilateral ties during Jaishankar’s Azerbaijan visit
-Jaishankar met President Ilham Aliyev and held talks with Foreign Minister Jeyhun Bayramov on trade, investment, energy, tourism and connectivity
+## Supreme Power Equipment net profit grows to ₹14 crore in Apr-Sept period
+Total income rose to ₹135.57 crore in the first half of FY27, up from ₹75.36 crore in the same period of the previous fiscal
 
-## Karnataka flour mills seek higher wheat allocation under OMSS
-Karnataka received only 6,000 tonnes in the October 21 auction, meeting about 17 per cent of the association members’ estimated weekly requirement of 34,600 tonnes
+## Outreach to villages key in expanding India’s higher education access: V Kamakoti
+During the event, 20 students with household income less than ₹6 lakh per annum were awarded the Sumangala Scholarship
 
-## Tata Motors Q2 consolidated profit rebounds to ₹1,257 crore; revenue rises 36.3%
-The company moved closer to completing its €3.91-billion Iveco acquisition
-
-## Torrent Pharma Q2 Results: Net profit falls 10% to ₹534 cr; revenue rises 51%
-Revenue from operations of the Ahmedabad-based company increased 50.8 per cent to ₹4,979 crore in the quarter, compared with ₹3,302 crore a year earlier
+## India's basmati rice yield likely to be 5-10% higher this year: Industry leader
+Rajeev Setia, President of Basmati IREF and Joint MD of Chaman Lal Setia Exports, said the monsoon and rainfall supported basmati growth and higher yields
 
 ## From fuel price hikes to cost-of-living concerns, US consumer sentiment nears record low
 US consumer sentiment has declined slightly as rising prices related to the Middle East conflict affect households' financial views. The Consumer Sentiment Index fell marginally to 48.0 in October, approaching a record low. Independents reported significantly weaker sentiment while Democrats and Rep
@@ -90,29 +90,29 @@ Business travel surged 365.4% to $51 million from $11 million, while other trave
 ## Demand at home supporting growth momentum: RBI
 The report said headline CPI inflation rose to a 23-month high of 5.5% in Sept from 4.8% in Aug, with price increases spreading across food, fuel and core items. Core inflation rose to 4.3%, while core inflation excluding precious metals reached 3.2%. WPI inflation climbed to 11.4% under the 2022-23
 
-## Tiger Shroff's shooters received real-time updates, instructions based on media coverage
-The firing took place on the evening of October 18 in Mumbai's Juhu area, when two shooters allegedly fired several rounds at Shroff's car.
+## 17 Kuki militants under SoO deal arrested in Manipur; mismatch found in identities
+The operation was carried out in Mt Sinai Camp, Saimol village, a day after three persons from the Meitei community were killed in an attack.
 
-## India condemns ‘heinous’ attack that killed 8 in Jordan church, reaffirms ‘fight against terrorism’
-External affairs minister S Jaishankar said India stood with the government and people of Jordan during the difficult hour.
+## Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology
+The former Jammu and Kashmir CM made the remarks at a party event in Baramulla district of Kashmir Valley.
 
-## Andhra Pradesh, Odisha on alert as IMD warns of possible cyclone over Bay of Bengal by October 26
-The IMD has issued a pre-cyclone watch for Andhra Pradesh and adjoining South Odisha coasts amid the impending cyclone.
+## Defence secretary Rajesh Kumar Singh gets one-year extension in Centre's big move
+Since May 31 this year, Singh has also held additional charge as secretary, Department of Defence Research and Development, and chairman of the DRDO.
 
-## Piyush Goyal identifies India's ‘AI-proof’ sectors, says ministry working on jobs AI can't replace
-Piyush Goyal said the commerce ministry is identifying professions and sectors where artificial intelligence can improve efficiency without displacing workers.
+## Chandrababu Naidu compares Jagan Mohan Reddy to 'Kamsa' from Mahabharata over niece’s wedding row
+Naidu said the public should understand what he described as Jagan’s dangerous mindset and alleged that his overall approach was driven by destruction.
 
-## NCERT releases AI module for Classes 9 to 12; deepfakes, ethical usage in focus
-Aligned with NEP 2020, the introductory module –a foundational learning resource – is designed for students with no prior knowledge of AI.
+## Hacker group claims to have accessed 86.3 lakh Rajasthan police emails; probe on
+Cyber Crime DIG Shantanu Kumar said multiple teams were examining the claims.
 
-## Sonam Wangchuk slams Ladakh administration's stand over institute's land lease cancellation
-In an affidavit, the Ladakh administration blamed the cancellation on the activist’s “disregard for the law” said the land allotment had automatically lapsed.
+## Demand for students' union, row over ‘slogans’ trigger tensions in Jamia Millia Islamia
+The students of JMI have been protesting over the past couple of weeks, demanding restoration of students’ union, which was dissolved in 2006.
 
-## Centre praises Tamil Nadu CM Vijay’s Aviation Fuel Tax cut: ‘Thank you, Thiru’
-Tamil Nadu has reduced VAT on ATF at Chennai airport to 16% from 29%, while the rate has been cut to 1% at all other airports in the state.
+## West Bengal CM Suvendu Adhikari begins preparations for first Gangasagar Mela under BJP govt
+Held every January on Makar Sankranti, the Gangasagar Mela draws millions of Hindu pilgrims to Sagar Island in West Bengal’s South 24 Parganas district.
 
-## Jamia Millia Islamia moves classes online, cites ‘safety of students' amid ongoing protests
-Students of Delhi's Jamia Millia Islamia began the protest demanding restoration of students' union on October 12.
+## HT Evening News Brief Oct 24: Jamia moves classes online amid protests; India beat New Zealand to take 2-0 lead in T20I series
+Here are the top updates from across the country, the world and from the field of sports and entertainment.
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## German police detain suspect after fire engulfs Hitler’s Eagle’s Nest
-No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.
+## Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?
+Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.
 
-## Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks
-Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be 'stable' in hospital.
+## Man City beaten at Aston Villa as perfect Premier League start ends
+Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
 
-## Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
-Monitoring group reports more Muslims in Europe face racial discrimination as 'terrorist' attack kills one in France.
+## Do abstaining voters hold the key to Brazil’s 2026 presidential election?
+Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?
 
-## France braces for another day of mass protests as security on high alert
-Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.
+## Rybakina readies for title defence at Ningbo Open in final with Fernandez
+The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.
 
-## Brazil’s Lula and Bolsonaro debate policy proposals before run-off
-Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.
+## Sudan’s soaring fuel prices make getting by harder for workers
+Sudan is suffering from a cost-of-living crisis affecting millions across the country.
 
-## Ethiopian PM’s advisor: Tigrayan forces and others hinder stability
-Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.
+## Who was behind the deadly church shooting in Jordan?
+Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.
 
-## Just Eat apologises after AI-generated images blunder
-Just Eat has apologised after its AI-generated food images went viral for grossly misrepresenting menu items.
+## Netanyahu floats Crypto to bypass sanctions
+Netanyahu floats Crypto to bypass sanctions
 
-## Ilhan Omar votes as Trump renews attacks amid federal probe
-US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.
+## Armed Israeli settlers try to break into Palestinian grandfather’s home
+A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
