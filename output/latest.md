@@ -1,9 +1,12 @@
 # AION Intelligence
 
+## Ukraine military says Starlink service restrictions have been lifted
+Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes
+
 ## Hundreds of thousands protest in France in second weekend of mass demonstrations
 Government puts 70,000 police officers on the streets to boost security after last weekend’s riots
 
-## Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions
+## Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions
 Critics say prime minister’s proposal would turn country into an economic pariah
 
 ## Kim reaffirms ties with China amid worries over Russian friendship
@@ -14,9 +17,6 @@ Plans against US citizens have reached ‘advanced stages’ as tensions rise in
 
 ## Mayfair club Maison Estelle set to reopen after alleged firearm incident
 Luxury venue closed in September after police asked Westminster council to review its licence
-
-## Ukraine military says Starlink service restrictions have been lifted
-Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes
 
 ## Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test
 Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
-Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
+## How have Democrats’ policies shifted since the last major US election?
+From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.
 
-## Thousands of Israelis rally against Netanyahu gov’t days before election
-Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.
+## Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
+The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
 
-## Thousands join Paris protests as authorities clamp down on disorder
-Thousands of protesters are on the streets of Paris for a second weekend.
+## Brazil’s candidates hold final rallies before knife-edge run off
+Brazil’s candidates hold final rallies before knife-edge run off
 
-## Thousands gather at new Albanian antigovernment rally
-More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.
+## Iran blames US for deal failure, urges new try amid fear of new attacks
+Tehran warns that even limited strikes would trigger a response 'several times greater'.
 
-## Kim Jong Un crosses new bridge linking North Korea and China
-Kim Jong Un crosses new bridge linking North Korea and China
+## Houthis launch attacks on Saudi Arabia and Yemen’s Aden
+Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.
 
-## Trump says he may move White House press corps to new location
-Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
+## Train slams into crane that collapsed onto railway line in Brazil
+Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.
 
-## About 25,000 rally in Madrid in support of Spain’s state pension scheme
-Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
+## Severe hunger stalks people in Gaza as bakeries close down
+Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.
 
-## Serbian elections: A country where students may actually take power
-Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
+## Violent clashes as Albanian government cracks down on protests
+Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
