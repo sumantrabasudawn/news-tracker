@@ -1,28 +1,40 @@
 # AION Intelligence
 
+## Burnham stokes Brexit debate ahead of UK-EU summit
+Prime Minister calls for ‘honest discussion’ about free movement of people
+
+## Britain will not join Canada-led defence bank
+Move may be seen as a snub to Canadian PM Mark Carney as UK chancellor John Healey throws weight behind a separate initiative
+
+## France’s Le Pen vows national ‘renewal’ in campaign launch
+Far-right leader casts herself as only presidential candidate able to restore order and unity
+
+## A knife-edge election in Israel and other potential pivot points
+A key Knesset election, a (hopefully) boring British Budget, Big Oil and Big Tech reports
+
+## Venezuelan opposition leader Machado returns from exile
+Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government
+
+## The battle for the soul of Israel
+A Netanyahu victory would set the country and region on a destructive path
+
 ## Marco Rubio still owes Europe answers about America’s intentions
 The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future
 
 ## Carney’s energy ambitions boosted by Conservative victory in British Columbia
 Party leader wants to end emissions limits and replace province’s carbon tax framework
 
+## Bon Secours nears $6bn takeover of Bain-backed Surgery Partners
+US hospital chain is the latest not-for-profit healthcare provider to seek a large deal
+
+## Enough golfers commit to LIV 2.0 to keep hopes of new league alive
+Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund
+
 ## London’s most famous shopping street bans cars in bid to revive its fortunes
 Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores
 
-## Andy Burnham stokes Brexit debate ahead of UK-EU summit
-Prime minister calls for ‘honest discussion’ about free movement of people
-
-## Britain needs ‘chainsaw economics’
-Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state
-
 ## Measles surge exposes Republicans’ vulnerability on vaccines
 Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the majority of Americans
-
-## Will the Fed drop any hints on rate rises?
-Market Questions is the FT’s guide to the week ahead
-
-## Why students in a midterm battleground fear AI will ruin their future
-Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects
 
 ## Airbus to hold talks with BAE over role in GCAP fighter jet programme
 Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain
@@ -32,12 +44,6 @@ Move announced at Trump rally in Georgia comes as carmaker and its parent Volksw
 
 ## German billionaire says €250mn Bayern Munich deal about more than money
 Family stake in Germany’s most successful football club driven by passion as much as financial returns, Maximilian Viessmann says
-
-## Luxury groups’ value drops by €250bn as Chinese consumer demand fades
-Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector
-
-## Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses
-Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war
 
 ## Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg
 Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake
@@ -87,6 +93,18 @@ As Dalal Street braces for a pivotal week, key earnings reports and the impendin
 ## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
 France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
+## At least 2 feared trapped as under-construction building collapses in Delhi's Harsh Vihar
+An under-construction house collapsed in northeast Delhi’s Harsh Vihar. Two are feared trapped under debris.
+
+## Collegium decisions unanimous, says ex-CJI Chandrachud
+Former CJI Chandrachud says collegium decisions were unanimous and Kaul endorsed all recommendations, disputing memoir claims of government deference.
+
+## 6 arrested, over 1,400 bank accounts frozen in Manipur, Mizoram as ED busts cross-border ‘narco-hawala’ scam
+The bank accounts that the ED froze belong to alleged narco-trade and narco-hawala operators and their mule and beneficiary account holders in Manipur, Mizoram.
+
+## Mumbai Police detains 25, including comedian Masoom Rajwani, over candle march for IIT Bombay suicide victim
+A police official said the gathering did not have the required permission. Police took precautionary measures to maintain law and order, they said.
+
 ## FIR filed against 2 Congress MPs for 'trespass' as Jamia university protest over student union demand continues
 The protest, which includes a hunger strike, began on October 12, with students continuing to press their demands.
 
@@ -98,18 +116,6 @@ Iran has indicated that negotiations with Washington cannot move forward unless 
 
 ## Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views
 The trio can be seen attempting the track's famous horse-riding dance, replacing the familiar music of political campaigns with an international pop anthem.
-
-## 'Extortion bid, death threat': Actress Urmila Sanawar arrested on complaint by ex-BJP MLA's daughter
-The arrest comes days after Sanawar gave to undergo polygraph and narco-analysis tests as part of probe into the Pauri Garhwal receptionist murder case.
-
-## Nitin Nabin chairs key BJP meet to discuss response to Opposition’s anti-SIR campaign
-Union home minister Amit Shah also attended the meeting where the party discussed the response to the opposition’s November 1 rally against SIR.
-
-## Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent
-The ministry of home affairs directed on Saturday that two RAF companies will be airlifted from Navi Mumbai on board an IAF transport aircraft.
-
-## ‘Mafia’: BJP attacks Congress after Kharge’s ‘baap’ remark targeting PM Modi
-Union home minister Amit Shah criticised Kharge, saying his remark about Modi’s father crossed the limits of decency.
 
 ## Globevisa to Convene Hong Kong Summit on Asia's Evolving Global Mobility and Cross-Border Planning
 [The content of this article has been produced by our advertising partner.] HONG KONG, October 26, 2026 — The Globevisa Global Citizen Conference 2026 (GGCC 2026), organised by Globevisa Group, will open today at the JW Marriott Hong Kong, bringing together government representatives, industry leade
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US and Israel elections: New leaders, same policies?
-Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.
+## Can Carrick survive Man United’s slump and Fernandes fallout?
+Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
 
-## Can protests in Europe bring about change?
-People have been taking to the streets to demand action.
+## Brazil election results 2026 live: Top court extends voting for two hours
+Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.
 
-## AI’s ‘opportunity divide’ could deepen global inequality, UN official warns
-The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.
+## The narrative battle over France’s unrest
+Student protests, police violence and French media obsessed with 'barbarians'.
 
-## Jerusalem Daily: Israel expels thousands from Hebron
-Jerusalem Daily: Israel expels thousands from Hebron
+## Iraqis mark seven years since Tishreen protests with reform demands
+Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.
 
-## Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports
-Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.
+## Serbia voter turnout highest in decades as students oppose longtime leader
+Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
 
-## Israel’s ‘Generation Right’ could shape Netanyahu’s future
-The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
+## Venezuela’s opposition leader Maria Corina Machado returns from exile
+The Nobel laureate's homecoming follows national protests demanding free elections.
 
-## Barcelona vs Real Madrid LIVE: La Liga El Clasico
-Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
+## When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?
+Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.
 
-## Jordanians mourn victims of deadly church attack
-Jordanians mourn victims of deadly church attack
+## Will Michael Carrick be sacked? Man United manager says he doesn’t know
+Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
