@@ -1,16 +1,37 @@
 # AION Intelligence
 
-## What my most embarrassing job interview taught me
-Job hunters should not have to disclose their pay history or guess what salary is on offer
+## London’s most famous shopping street bans cars in bid to revive its fortunes
+Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores
 
-## Bolsonaro and Lula face off in knife-edge Brazil election
-Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump
+## Andy Burnham stokes Brexit debate ahead of UK-EU summit
+Prime minister calls for ‘honest discussion’ about free movement of people
+
+## Britain needs ‘chainsaw economics’
+Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state
+
+## Measles surge exposes Republicans’ vulnerability on vaccines
+Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the majority of Americans
+
+## Will the Fed drop any hints on rate rises?
+Market Questions is the FT’s guide to the week ahead
+
+## Why students in a midterm battleground fear AI will ruin their future
+Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects
+
+## Airbus to hold talks with BAE over role in GCAP fighter jet programme
+Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain
+
+## US voters worried about corruption under Trump — FT poll
+Americans link graft to affordability crisis as midterm elections loom
+
+## Audi to build $4bn US plant as it grapples with tariffs
+Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies
+
+## German billionaire says €250mn Bayern Munich deal about more than money
+Family stake in Germany’s most successful football club driven by passion as much as financial returns, Maximilian Viessmann says
 
 ## Luxury groups’ value drops by €250bn as Chinese consumer demand fades
 Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector
-
-## Martin Wolf on the US midterms: What’s at stake for the world?
-The FT’s chief economics commentator speaks to writer and historian Anne Applebaum about why the elections matter beyond America
 
 ## Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses
 Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war
@@ -18,50 +39,29 @@ Case will test the Baltic Exchange’s decision to keep publishing price estimat
 ## The Black Sea is now the world’s deadliest shipping route
 Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf
 
-## Life after USAID in Somalia
-Jowhar, a town on the frontline of conflict, climate change and aid cuts, is preparing for flooding as international support evaporates
+## Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg
+Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake
 
-## The right’s obsession with ‘civil war’ in Britain
-Many of those stoking fears of bloody unrest don’t actually live in the country
+## Tata Motors’ €3.91-billion Iveco bid faces make-or-break October 26 test of global ambitions
+Tata Motors faces a crucial October 26 deadline in its €3.91-billion Iveco takeover, with only 35% of shares tendered at the last reported count against the required 80%. While management expects a last-minute surge in acceptances, it faces resistance from influential investors, Italian concerns ove
 
-## Many care services in England have never been inspected by regulator
-Backlog of assessment calls into question Andy Burnham’s vow to fix the ‘broken’ system
+## Govt examining high margins beyond cancer drugs
+While govt has so far acted only on oncology drugs, other such cases being examined with stakeholders, Dept of Pharma stated in its Oct 12 affidavit to the SC without sharing details
 
-## Climate accounting body in battle over corporate ‘capture’, say staff
-Former BCG partner involved in drafting job description before taking the role
+## India, Russia to conduct pilot voyages on Northern Sea Route in 2027
+Considered the shortest coastal passage between Western Eurasia and Asia-Pacific, the 5,600 km long NSR runs from the Kara Strait to Cape Dezhnev in the Bering Strait
 
-## ‘Designer baby’ start-ups test limits of biotech taboo
-Failed ventures have not cooled investor appetite for gene-editing groups and one of the most contested frontiers in science
+## Smartphone market slump likely to impact Mobile PLI 2.0 applications
+The new scheme currently looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of ₹10,000 crore in FY26
 
-## Billionaire benevolence is booming, but it comes with strings
-Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention
+## Smartphone and earbud makers import more components from Vietnam as domestic prices surge
+Electronics imports from Vietnam are set to rise further this year from $5,364.61 million in FY26, industry sources say
 
-## Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’
-Jim Chalmers argues economic security and bolstering supply chains would benefit consumers
+## Brokerage profits grow in September quarter despite slowdown in market activity
+Profit growth holds up as cash-market turnover falls 11.7% sequentially, with margin funding helping cushion weaker trading activity
 
-## China’s export controls around PV cells could slow India’s upstream solar push
-The restrictions can throw a wrench for Indian module manufacturers who are now planning to enter upstream segments like cells, Ingots wafers and polysilicon
+## JSW Steel expects higher H2 volumes to offset rising input costs
 
-## Riyadh airport resumes flights as Saudis fight Houthi missiles
-Dozens of flights departed King Khalid International Airport early on Sunday to destinations including London, Dubai and Beijing, according to the airport’s website
-
-## India’s 2029 rear-crash rule could cost car makers ₹2,700 crore annually, squeeze small-car margins
-Manufacturers with newer architectures and higher volumes may absorb the expenditure more easily, while entry-level models could face greater margin pressure
-
-## Private capex pipeline grows fourfold since 2014, but lending risks rise amid sectoral concentration: Report
-India’s outstanding private capex pipeline reached ₹99.7 lakh crore in September 2026, nearly 4.1 times its March 2014 level and 39% higher than a year ago, report says
-
-## India’s auto production boom set to slow in 2027 as CIE Automotive flags margin pressures
-Passenger-vehicle and two-wheeler production growth is expected to moderate in early 2027, tractor output could contract, and higher raw-material and energy costs are already squeezing supplier margins.
-
-## Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards
-Market valuation of HDFC Bank tumbles ₹55,506.95 crore to ₹10,67,121.12 crore
-
-## Smartphone makers undecided on new PLI scheme amid market slump
-The new scheme looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of ₹1,000 crore in FY 2025-26
-
-## GSTAT allows GST refund on cancelled air tickets if fare, taxes returned to passengers
-The ruling comes in a case relating to refund claims filed by Singapore Airlines
 
 ## MSMEs remain upbeat despite rising input costs, manufacturing sentiment strongest: SIDBI
 In the July-September 2026 quarter, India's micro, small, and medium enterprises showcased a notable surge in business optimism. The MSME Business Confidence Index rose from 59.3 to 60.4, signaling an encouraging outlook across various sectors. Notably, manufacturing, trading, and services surpassed
@@ -87,29 +87,29 @@ As Dalal Street braces for a pivotal week, key earnings reports and the impendin
 ## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
 France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
-## 'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case
-'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case
+## Kharge escalates ‘vote chori’ charge in Patna, demands CEC’s ouster, attacks Nitish over RSS ties
+The Congress president sharpened his attack by linking the alleged irregularities to Rahul Gandhi’s earlier warnings.
 
-## Rahul Gandhi likely to appear before special MP/MLA court in UP on October 26
-Congress leader Rahul Gandhi has been summoned by the MP/MLA court on December 16, 2023, in connection with a 2018 case.
+## 'Alliance gave BJP stomach ache': Akhilesh Yadav calls Congress ‘200 seats’ UP poll poster fake
+Sharing the visuals of the poster, Yadav, in a post on X, demanded the suspension of senior municipal officials in Uttar Pradesh.
 
-## PM Modi inaugurates ₹150-crore Arvind Limited textile plant in Varanasi
-Prime Minister Narendra Modi inaugurated Arvind Limited’s ₹150-crore textile plant in Varanasi, where over 300 women have been recruited for training and thousands of jobs are expected.
+## Akhilesh Yadav's effigy burnt in Haldwani after row over ‘infiltrator’ remark against Uttarakhand people
+Uttarakhand's Pahadi Army sought an apology from Akhilesh Yadav and warned the protest could intensify if Yadav did not apologise.
 
-## India advises its nationals in Saudi Arabia against filming missile interceptions
-The advisory comes amid escalating tensions in the region due to a series of drone and missile attacks targeting civilian infrastructure by Yemen's Houthis.
+## Kharge’s ‘baap’ remark targeting PM Modi draws BJP backlash, Amit Shah hits out at Congress
+Amit Shah accused the Congress of repeatedly using abusive language against the PM and his family. He also claimed the Opposition mocked Modi as a ‘chaiwala’.
 
-## Robert Vadra pens note for son Raihan amid Bikaner House exhibition row: ‘Every challenge is a lesson’
-Praising his son's dedication to his work, Robert Vadra said he was confident that Raihan would emerge stronger and wiser from the challenges he faced.
+## HT Evening News Brief October 25: Jaishankar urges dialogue on global conflicts, Kharge targets BJP, Sindhu loses French Open final
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
 
-## DK Shivakumar warns IT firms of action if found sidelining locals in Bengaluru: 'Kannadiga is sovereign'
-The remarks come amid a longstanding debate in Karnataka over providing employment opportunities to locals in the private sector.
+## Jaishankar says Global South faces '4F crisis' of finance, fuel, food, fertilisers; urges Global North to act
+Pointing to the conflicts in Ukraine and West Asia, the EAM said societies far away from these regions are “paying the cost” of the turmoil.
 
-## Book Box: Two Himalayan bookstores, a birthday and a borrowed book
-Discovering independent bookstores in the Himalayas on a birthday book crawl in Manali and beyond
+## BJP questions Kerala CM’s ‘selective secularism’ over beef, Jinnah statue at Fort Kochi cafe
+The controversy followed a social media video alleging that the cafe was named after Kashi despite displaying a statue of Jinnah and serving beef.
 
-## '200 seats are our right': Congress poster seen in Lucknow as UP poll seat-sharing talks with SP intensify
-Congress UP chief said the party had submitted a list of 175 to 200 seats, adding that the final decision would be taken by the senior leadership.
+## Ex-IAS officer Divya Mittal's new party looks to field 'strong candidates' across 403 seats in UP
+Ten days after announcing her political entry, Divya Mittal said her Janneeti Bharat Party would field candidates in the 2027 UP Assembly polls.
 
 ## BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs
 China’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive. “Europe is a very important regional market for BYD. We will not let tarif
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pakistan axe Shan Masood from Sri Lanka Test squad as Agha, Rizwan return
-Ali Usman has also been recalled to the Test team after being sent home from the England tour.
+## Gaza content creator tells Al Jazeera how much her award win means
+Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means
 
-## Trump mocks reporter asking about Iran strikes, as Tehran says US derailed
-US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.
+## Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?
+Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture.
 
-## Qatar official calls for peace and security to boost trade, investment
-The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.
+## The search for gold is a dangerous and laborious gamble for Sudan’s miners
+As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.
 
-## Israeli forces turn Hebron homes into military posts amid lockdown
-Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.
+## Saudi air defences intercept Houthi barrage near Mecca
+Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz.
 
-## Australian Grand Prix called off as rain spoils Phillip Island sendoff
-Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.
+## Gaza’s visually and hearing-impaired children miss school due to Israel war
+Children in Gaza with auditory and visual challenges often have no access to specialist education.
 
-## Thousands of Northern Irish Protestants march ahead of court ruling
-Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland.
+## Serbia votes as student-led bloc challenges longtime leader Vucic
+Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.
 
-## Brazil 2026 election live: Lula and Bolsonaro in tight race
-Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.
+## Portuguese police clear Lisbon housing protest camp, arrest 25
+Officers baton-charge demonstrators in overnight operation as activists demand government action on housing crisis.
 
-## Indigenous communities worry Brazil’s election could hurt environment
-Brazil's indigenous communities say they’re concerned by how the election outcome could impact environmental protections
+## Elena Rybakina retains Ningbo title, wins first trophy as world number one
+The victory helped the Kazakh take a big step towards securing the year-end number one ranking.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
