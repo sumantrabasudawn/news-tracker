@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Billionaire benevolence is booming, but it comes with strings
+Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention
+
+## Why 17 is not the magic number in industrial policy
+A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy
+
+## Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’
+Jim Chalmers argues economic security and bolstering supply chains would benefit consumers
+
+## SoftBank-backed drone maker wants every farmer to ‘have their own robot’
+Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures
+
 ## Hundreds of thousands protest in France in second weekend of mass demonstrations
 Government puts 70,000 police officers on the streets to boost security after last weekend’s riots
 
@@ -9,20 +21,14 @@ Slowdown in drone communication system had hampered Kyiv’s ability to defend i
 ## Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions
 Critics say prime minister’s proposal would turn country into an economic pariah
 
-## Kim reaffirms ties with China amid worries over Russian friendship
+## North Korea’s Kim crosses new China border bridge to reaffirm ties
 Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts
-
-## Intelligence memo warns Iran is plotting to kill Americans in Middle East
-Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document
 
 ## Mayfair club Maison Estelle set to reopen after alleged firearm incident
 Luxury venue closed in September after police asked Westminster council to review its licence
 
 ## Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test
 Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts
-
-## Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
-Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
 
 ## French government and corporate bond yields are converging
 Some companies’ bonds now yield less than government bonds
@@ -36,35 +42,38 @@ Fiscal income has dwindled as smokers quit but the link between tax rates and il
 ## Patrick Dele Cole, journalist and diplomat, 1940-2026
 The intellectual, writer and adviser made an outsized contribution to Nigerian political and civil life
 
-## China’s luxury brands are ready to elbow western rivals aside
-Investors are questioning whether appeal of homegrown Chinese luxury is a durable shift or a shortlived trend
+## NICDC launches Bihar Integrated Manufacturing City Gaya Limited, signs 12 MoUs worth ₹4,200 crore
+BIMCGL is the SPV tasked with implementing the Integrated Manufacturing Cluster (IMC) at Gaya
 
-## Musk’s bet of the century
-The proposed Tesla-SpaceX merger is going all in on AI
+## US updates UAE travel advisory citing heightened threat of ‘terrorism and armed conflict’ by Iranian-supported Houthis
+The development comes amid heightened security concerns in the region, with attacks targeting civilian and critical infrastructure in Saudi Arabia.
 
-## It’s a matter of TRUST
-While the universe of REITs and InvITs is still small, their outperformance over equities and debt in recent years, makes a case for bringing it into your investment radar
+## Andhra on alert as depression over Bay of Bengal likely to intensify into severe cyclonic storm
+Cyclonic storm expected to intensify and sustain through October 26, 27, 28
 
-## MF Davids give Goliaths a run for their money
-Newer fund houses outperform larger rivals as market volatility tests investment strategies
+## INDIA bloc to hold 'public impeachment' of CEC on Oct 30
+Congress President Mallikarjun Kharge has reached out to all INDIA Bloc parties for their presence in Delhi on the two days
 
-## Parag Parikh Conservative Hybrid Fund: Conservative yet consistently rewarding
-How equity exposure, high-quality debt and REITs have helped deliver superior returns
+## OMCs back interim LPG distributors' commission hike; ministry approval awaited: AIHPGDA
+Interim hike proposal under review as OMCs pledge joint recommendation while addressing distributor distress, SOPs, and market constraints.
 
-## EAAA India Alternatives IPO: Hardly breaks new ground
-Strong fundraising and a differentiated alternatives franchise offer growth potential, but valuation is fully priced
+## Musk says he was behind Starlink speed restriction after service in Ukraine restored
+The restoration follows a new US diplomatic push to end the war
 
-## Bandu’s Blockbusters for October 25, 2026
-Guess the stock that will give the best return by next Friday
+## Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand
+Manipur Chief Minister Khemchand says proposal follows a query from Prime Minister Narendra Modi on whether such a committee existed
 
-## Tech Query: Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals — What is the outlook? Where are these stocks headed?
-We look at the prospects of Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals
+## USFDA concludes inspection at Lupin's Goa facility with one observation
+Inspection conducted from October 19-23, 2026
 
-## US Market Outlook: Indices look vulnerable
-More fall could be on the cards
+## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
+France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Eternal, PVR Inox and Union Bank of India
+## Sebi plans curbs on terminal misuse, graded compliance for market intermediaries
+In a proactive move, market regulator Sebi is rolling out initiatives to curb the misuse of brokers' trading terminals and bolster compliance efforts. The focus is also on enhancing cybersecurity while safely testing AI tools. Sebi's vision encompasses streamlining regulations, promoting responsible
+
+## US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms
+The US Federal Reserve is expected to keep interest rates unchanged in its upcoming meeting next week. Analysts suggest this decision comes despite ongoing inflation pressures and looming midterm elections. The Federal Reserve has struggled to meet its long-term inflation target due to rising prices
 
 ## IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30%
 In Q2 FY27, IDFC First Bank showcased an impressive profit surge of 196.5 percent year-on-year, reaching Rs 1,045 crore. The bank's robust core operating performance is highlighted by a 21 percent rise in net interest income. Additionally, total loan assets expanded by 30.1 percent, showcasing subst
@@ -81,38 +90,32 @@ RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of
 ## Record haul: Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids
 In the unofficial market, speculators are betting that the company will be listing at about Rs 1,370, a mark-up (also called the grey market premium or GMP) of about Rs 250 over the upper limit of the IPO price band of Rs 1,065 to Rs 1,119. The current GMP is slightly off Rs 273, the highest level s
 
-## Amid volatile trades, sensex falls for 4th day
-The day’s slide came despite Rs 888-crore net buying by foreign funds and another Rs 3,235-crore net buying by domestic institutions, BSE data showed. Early on Friday, Brent crude had hit a nearly six-month high at $114 per barrel. As a result, the rupee also weakened and inched closer to the 95-to-
+## Indo-Pacific developments call for vigilance, India ready to protect interests: IAF chief AP Singh
+His remarks came amid global concerns over China's increasing military assertiveness in the Indo-Pacific.
 
-## At $43 billion, RBI’s net dollar purchase hits new high
-India’s foreign exchange reserves fell by $5.01 billion to $721.02 billion in the week ended Oct 16, down $64.7 billion from their all-time high of $785.71 billion in the week ended Sept 4, as pressure on the rupee continued. Foreign currency assets, the largest component of reserves, declined by $5
+## Meerut ‘blue drum’ murder convicts Muskan, Sahil challenge death sentence in high court
+They argue the prosecution failed to prove its case beyond reasonable doubt and that the trial court relied on speculation.
 
-## India seventh most targeted by cyberattacks: MS executive Nicholas Butts
-Butts cited Storm 3168, also called Jadepuffer, which he described as a China-based ransomware operation using AI agents against customers worldwide. He also pointed to Russian and Chinese state-sponsored actors deploying agents for espionage, including a group Microsoft tracks as Storm 0940. AI was
+## Amid Jamia row, ABVP claims ‘Free Umar Khalid’, ‘Long Live Naxalbari’ slogans written on JNU walls, seeks action
+ABVP's claims over the alleged slogans on the JNU walls comes two days after similar slogans were allegedly spotted at Jamia Millia Islamia University.
 
-## Delhi man arrested for uploading Siddaramaiah-targeting video, gets bail; JDS link under probe
-The accused told the investigators that he uploaded the footage at the direction of a person associated with the JD(S) social media team, police said.
+## UP Congress alleges voter discrepancies were being corrected through Form-8
+The party alleged the errors were the Commission’s responsibility and said voters received no acknowledgment slips in some cases.
 
-## Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report
-Congress has reportedly asked the Karnataka govt to probe alleged sting bids on two CMs, after Shivakumar flagged a businessman wearing Meta glasses.
+## Amit Shah hails ‘another lethal blow’ as Operation Trident strikes drug cartels across Assam, Manipur, Mizoram
+The network was involved in trafficking narcotics across India, Myanmar and Bangladesh through what Amit Shah described as the "Death Triangle Corridor".
 
-## Delhi AQI 'moderate' at 191; environment minister says govt in 'war mode for clean air'
-Delhi’s AQI fell to 191 from 230 a day earlier, ending a three-day ‘poor’ spell, while minimum temperatures dipped slightly under partly cloudy skies.
+## Anti-CEC protest LIVE: INDIA bloc to hold CEC's ‘public impeachment’ on Oct 30, ‘Dilli Chalo' march on Nov 1
+Anti-CEC protest LIVE: On November 1, opposition leaders will take to the streets for a Dilli Chalo march to Ramlila Maidan. Meanwhile, the CJP leaders stated that they would continue to protest against the SIR of electoral rolls.
 
-## Muskan Rastogi, Sahil Shukla challenge death sentence in Saurabh Rajput's ‘blue drum’ murder case before Allahabad HC
-The court had convicted the two on September 30 for the murder of Muskan's husband Saurabh Rajput and for attempting to conceal his body.
+## 5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor
+The bodies were taken to the mortuary at the Government Sub-District Hospital, said officers familiar with the matter.
 
-## 3-year-old girl dies after boiling milk spills on her while fleeing stray dog in Maharashtra's Beed
-The tragedy struck when the child was playing outside her home at Nandur Haveli on Thursday.
+## HT Morning Brief October 25: EC keeps SIR software under wraps; pistols used in Shroff firing found
+Here are the top headlines you need to know today, covering politics, global events, sports and entertainment.
 
-## Allahabad HC makes Meerut SSP stand through hearing for failure to comply with order
-The court instructed the administrative judge in Meerut to take action against the Chief Judicial Magistrate (CJM) in Meerut.
-
-## Voter's name appears 11 times in Azamgarh rolls, ECI orders action against 9 officials in UP
-The issue came to light after Samajwadi Party chief Akhilesh Yadav alleged that the name of a man had been entered multiple times in the Azamgarh voter list.
-
-## RG Kar rape victim's parents question bail to ex-principal: 'should have been sentenced to life imprisonment'
-The proposed march on November 12, organised by 'Voice of Abhaya' and 'Voice of Women', citizen groups, will begin at RG Kar Medical College and Hospital.
+## Sri Lanka’s property boom gives Chinese developers hope. But familiar risks linger
+A Chinese developer behind one of Sri Lanka’s biggest projects has reason to celebrate as a luxury property boom lifts sentiment in the South Asian nation and fuels optimism about the market’s prospects. Analysts, however, cautioned that a string of disappointing Chinese overseas property investment
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
@@ -134,9 +137,6 @@ Former HSBC Holdings global insurance head Edward Moncreiffe will join rival AIA
 
 ## Citigroup gets Beijing’s approval for wholly owned securities firm in China
 US bank Citigroup has received approval to set up a wholly foreign-owned securities firm in mainland China, allowing the lender to pursue more opportunities in one of the world’s largest capital markets. The long-awaited green light was given by the China Securities Regulatory Commission (CSRC) on F
-
-## Hong Kong life insurance sales up 58% in first half but tax crackdown threatens momentum
-Life insurance sales in Hong Kong rose 58 per cent in the first half of this year to another record high as affluent mainland and overseas customers continued to buy policies in the city for wealth transfer, protection and medical needs. It was the fourth consecutive year in which first half sales h
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
-Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.
+## Bots, deepfakes and surveillance: Israel’s election goes to war online
+Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
 
-## Violence breaks out across Europe after another day of protests
-Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.
+## Serbia votes in election pitting longtime leader against student movement
+Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.
 
-## Iran war live: Trump hints at possible Sunday Iran attack or deal reached
-Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.
+## Obama joins El-Sayed in Michigan rally cry before key midterms
+Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.
 
-## Trump lauds Melania over Russia-Ukraine localised ceasefire deal
-Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.
+## New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors
+The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.
 
-## Gunmen kill at least 10 people in eastern Nigeria, police say
-Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
+## Thousands rally in Turkiye over journalist arrests, media shutdowns
+Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.
 
-## How have Democrats’ policies shifted since the last major US election?
-From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.
+## El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga
+Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.
 
-## Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
-The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
+## Bulgarians vote for president in shadow of Russia’s war in Ukraine
+The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.
 
-## Brazil’s candidates hold final rallies before knife-edge run off
-Brazil’s candidates hold final rallies before knife-edge run off
+## Mass rally against Netanyahu ahead of pivotal Israeli election
+Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
