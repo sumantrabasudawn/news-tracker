@@ -1,118 +1,121 @@
 # AION Intelligence
 
+## What my most embarrassing job interview taught me
+Job hunters should not have to disclose their pay history or guess what salary is on offer
+
+## Bolsonaro and Lula face off in knife-edge Brazil election
+Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump
+
+## Luxury groups’ value drops by €250bn as Chinese consumer demand fades
+Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector
+
+## Martin Wolf on the US midterms: What’s at stake for the world?
+The FT’s chief economics commentator speaks to writer and historian Anne Applebaum about why the elections matter beyond America
+
+## Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses
+Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war
+
+## The Black Sea is now the world’s deadliest shipping route
+Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf
+
+## Life after USAID in Somalia
+Jowhar, a town on the frontline of conflict, climate change and aid cuts, is preparing for flooding as international support evaporates
+
+## The right’s obsession with ‘civil war’ in Britain
+Many of those stoking fears of bloody unrest don’t actually live in the country
+
+## Many care services in England have never been inspected by regulator
+Backlog of assessment calls into question Andy Burnham’s vow to fix the ‘broken’ system
+
+## Climate accounting body in battle over corporate ‘capture’, say staff
+Former BCG partner involved in drafting job description before taking the role
+
+## ‘Designer baby’ start-ups test limits of biotech taboo
+Failed ventures have not cooled investor appetite for gene-editing groups and one of the most contested frontiers in science
+
 ## Billionaire benevolence is booming, but it comes with strings
 Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention
-
-## Why 17 is not the magic number in industrial policy
-A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy
 
 ## Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’
 Jim Chalmers argues economic security and bolstering supply chains would benefit consumers
 
-## SoftBank-backed drone maker wants every farmer to ‘have their own robot’
-Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures
+## China’s export controls around PV cells could slow India’s upstream solar push
+The restrictions can throw a wrench for Indian module manufacturers who are now planning to enter upstream segments like cells, Ingots wafers and polysilicon
 
-## Hundreds of thousands protest in France in second weekend of mass demonstrations
-Government puts 70,000 police officers on the streets to boost security after last weekend’s riots
+## Riyadh airport resumes flights as Saudis fight Houthi missiles
+Dozens of flights departed King Khalid International Airport early on Sunday to destinations including London, Dubai and Beijing, according to the airport’s website
 
-## Ukraine military says Starlink service restrictions have been lifted
-Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes
+## India’s 2029 rear-crash rule could cost car makers ₹2,700 crore annually, squeeze small-car margins
+Manufacturers with newer architectures and higher volumes may absorb the expenditure more easily, while entry-level models could face greater margin pressure
 
-## Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions
-Critics say prime minister’s proposal would turn country into an economic pariah
+## Private capex pipeline grows fourfold since 2014, but lending risks rise amid sectoral concentration: Report
+India’s outstanding private capex pipeline reached ₹99.7 lakh crore in September 2026, nearly 4.1 times its March 2014 level and 39% higher than a year ago, report says
 
-## North Korea’s Kim crosses new China border bridge to reaffirm ties
-Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts
+## India’s auto production boom set to slow in 2027 as CIE Automotive flags margin pressures
+Passenger-vehicle and two-wheeler production growth is expected to moderate in early 2027, tractor output could contract, and higher raw-material and energy costs are already squeezing supplier margins.
 
-## Mayfair club Maison Estelle set to reopen after alleged firearm incident
-Luxury venue closed in September after police asked Westminster council to review its licence
+## Mcap of eight of the top-10 firms erodes by ₹1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards
+Market valuation of HDFC Bank tumbles ₹55,506.95 crore to ₹10,67,121.12 crore
 
-## Davos in the Desert’s ‘old fox’ Richard Attias faces his latest test
-Power broker behind kingdom’s flagship investment conference has weathered scandal and setbacks. Now he must contend with war and spending cuts
+## Smartphone makers undecided on new PLI scheme amid market slump
+The new scheme looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of ₹1,000 crore in FY 2025-26
 
-## French government and corporate bond yields are converging
-Some companies’ bonds now yield less than government bonds
+## GSTAT allows GST refund on cancelled air tickets if fare, taxes returned to passengers
+The ruling comes in a case relating to refund claims filed by Singapore Airlines
 
-## UK mortgage market ‘failing to adapt to new patterns of work’
-Lenders’ affordability criteria lead many self-employed borrowers to give up seeking a home loan
+## MSMEs remain upbeat despite rising input costs, manufacturing sentiment strongest: SIDBI
+In the July-September 2026 quarter, India's micro, small, and medium enterprises showcased a notable surge in business optimism. The MSME Business Confidence Index rose from 59.3 to 60.4, signaling an encouraging outlook across various sectors. Notably, manufacturing, trading, and services surpassed
 
-## Tobacco taxes work — even when they give smugglers a windfall
-Fiscal income has dwindled as smokers quit but the link between tax rates and illicit activity is not clear-cut
+## Cancelled flight tickets: Airlines can claim GST refunds if fare and tax are returned
+The GST Appellate Tribunal ruled that airlines are eligible for GST refunds on cancelled flight tickets. Singapore Airlines was allowed to reclaim Rs 45.92 lakh after proving refunds were issued directly to passengers. The tribunal emphasized that airlines must provide ample documentation to establi
 
-## Patrick Dele Cole, journalist and diplomat, 1940-2026
-The intellectual, writer and adviser made an outsized contribution to Nigerian political and civil life
+## Industrial growth may ease to 6% in September as capital goods, mining lose steam
+In September 2026, India's industrial production growth is anticipated to decline to 6%, down from 8% in August. Notably, capital goods production is projected to drop significantly to 2.2%, from an impressive 16.9% the previous month. Additionally, mining output is expected to contract by 8%, indic
 
-## NICDC launches Bihar Integrated Manufacturing City Gaya Limited, signs 12 MoUs worth ₹4,200 crore
-BIMCGL is the SPV tasked with implementing the Integrated Manufacturing Cluster (IMC) at Gaya
+## Market recap: Eight of top 10 firms lose Rs 1.55 lakh crore
+HDFC Bank and Bajaj Finance experienced significant market value declines last week amid broader market losses. The combined drop in valuations for eight major companies totaled Rs 1.55 lakh crore. Market capitalization for BSE-listed companies fell sharply by Rs 20,78,774.28 crore. Only Tata Consul
 
-## US updates UAE travel advisory citing heightened threat of ‘terrorism and armed conflict’ by Iranian-supported Houthis
-The development comes amid heightened security concerns in the region, with attacks targeting civilian and critical infrastructure in Saudi Arabia.
+## Foreign investors withdraw Rs 48,056 crore in October as market selling continues
+Foreign Portfolio Investors have withdrawn Rs 48,056 crore from Indian equities during October due to high crude oil prices. Selling eased slightly in a recent week, with some FPIs becoming net buyers for two days. Elevated oil prices and inflation concerns are contributing to deteriorating corporat
 
-## Andhra on alert as depression over Bay of Bengal likely to intensify into severe cyclonic storm
-Cyclonic storm expected to intensify and sustain through October 26, 27, 28
+## Five IPOs to hit Dalal Street next week, targeting nearly Rs 2,600 cr from investors
+Between October 26 and October 29, five companies will debut their initial public offerings, aiming to raise an impressive Rs 2,600 crore from the primary market. These firms—EAAA India Alternatives, SFC Environmental Technologies, M K Sons Fine Jewels, BLS Polymers, and Bombay Coated and Special St
 
-## INDIA bloc to hold 'public impeachment' of CEC on Oct 30
-Congress President Mallikarjun Kharge has reached out to all INDIA Bloc parties for their presence in Delhi on the two days
-
-## OMCs back interim LPG distributors' commission hike; ministry approval awaited: AIHPGDA
-Interim hike proposal under review as OMCs pledge joint recommendation while addressing distributor distress, SOPs, and market constraints.
-
-## Musk says he was behind Starlink speed restriction after service in Ukraine restored
-The restoration follows a new US diplomatic push to end the war
-
-## Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand
-Manipur Chief Minister Khemchand says proposal follows a query from Prime Minister Narendra Modi on whether such a committee existed
-
-## USFDA concludes inspection at Lupin's Goa facility with one observation
-Inspection conducted from October 19-23, 2026
+## Stock market outlook: Fed meeting, crude & more - top cues guiding Dalal Street this week
+As Dalal Street braces for a pivotal week, key earnings reports and the impending US Federal Reserve interest rate decision are grabbing attention. Investors are eagerly anticipating the September industrial production and manufacturing figures, set to be released on October 28. Moreover, Jio Platfo
 
 ## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
 France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
-## Sebi plans curbs on terminal misuse, graded compliance for market intermediaries
-In a proactive move, market regulator Sebi is rolling out initiatives to curb the misuse of brokers' trading terminals and bolster compliance efforts. The focus is also on enhancing cybersecurity while safely testing AI tools. Sebi's vision encompasses streamlining regulations, promoting responsible
+## 'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case
+'Looted wealth in Lord Ram's name': Kharge targets BJP over Ayodhya temple fund theft case
 
-## US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms
-The US Federal Reserve is expected to keep interest rates unchanged in its upcoming meeting next week. Analysts suggest this decision comes despite ongoing inflation pressures and looming midterm elections. The Federal Reserve has struggled to meet its long-term inflation target due to rising prices
+## Rahul Gandhi likely to appear before special MP/MLA court in UP on October 26
+Congress leader Rahul Gandhi has been summoned by the MP/MLA court on December 16, 2023, in connection with a 2018 case.
 
-## IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30%
-In Q2 FY27, IDFC First Bank showcased an impressive profit surge of 196.5 percent year-on-year, reaching Rs 1,045 crore. The bank's robust core operating performance is highlighted by a 21 percent rise in net interest income. Additionally, total loan assets expanded by 30.1 percent, showcasing subst
+## PM Modi inaugurates ₹150-crore Arvind Limited textile plant in Varanasi
+Prime Minister Narendra Modi inaugurated Arvind Limited’s ₹150-crore textile plant in Varanasi, where over 300 women have been recruited for training and thousands of jobs are expected.
 
-## Kotak Mahindra Bank Q2 results: Consolidated net profit jumps 26% to Rs 5,645 crore
-Kotak Mahindra Bank reported an impressive 26% growth in its consolidated net profit for the September quarter of FY27. Standalone profit surged by 29%, reaching Rs 4,212 crore. The bank's asset quality improved, as evidenced by the notable decrease in gross non-performing assets. Moreover, the net 
+## India advises its nationals in Saudi Arabia against filming missile interceptions
+The advisory comes amid escalating tensions in the region due to a series of drone and missile attacks targeting civilian infrastructure by Yemen's Houthis.
 
-## From fuel price hikes to cost-of-living concerns, US consumer sentiment nears record low
-US consumer sentiment has declined slightly as rising prices related to the Middle East conflict affect households' financial views. The Consumer Sentiment Index fell marginally to 48.0 in October, approaching a record low. Independents reported significantly weaker sentiment while Democrats and Rep
+## Robert Vadra pens note for son Raihan amid Bikaner House exhibition row: ‘Every challenge is a lesson’
+Praising his son's dedication to his work, Robert Vadra said he was confident that Raihan would emerge stronger and wiser from the challenges he faced.
 
-## Upper layer NBFCs have to list: RBI guv on Tatas; dispels doubts on Sept order
-RBI governor Sanjay Malhotra’s comments also suggest Tata Sons is in breach of RBI rules. The consequences of continued noncompliance remain unclear. The governor declined to be drawn into the question of Noel Tata’s proposal to merge two Tata Sons subsidiaries with the holding company, a move that 
+## DK Shivakumar warns IT firms of action if found sidelining locals in Bengaluru: 'Kannadiga is sovereign'
+The remarks come amid a longstanding debate in Karnataka over providing employment opportunities to locals in the private sector.
 
-## Record haul: Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids
-In the unofficial market, speculators are betting that the company will be listing at about Rs 1,370, a mark-up (also called the grey market premium or GMP) of about Rs 250 over the upper limit of the IPO price band of Rs 1,065 to Rs 1,119. The current GMP is slightly off Rs 273, the highest level s
+## Book Box: Two Himalayan bookstores, a birthday and a borrowed book
+Discovering independent bookstores in the Himalayas on a birthday book crawl in Manali and beyond
 
-## Indo-Pacific developments call for vigilance, India ready to protect interests: IAF chief AP Singh
-His remarks came amid global concerns over China's increasing military assertiveness in the Indo-Pacific.
+## '200 seats are our right': Congress poster seen in Lucknow as UP poll seat-sharing talks with SP intensify
+Congress UP chief said the party had submitted a list of 175 to 200 seats, adding that the final decision would be taken by the senior leadership.
 
-## Meerut ‘blue drum’ murder convicts Muskan, Sahil challenge death sentence in high court
-They argue the prosecution failed to prove its case beyond reasonable doubt and that the trial court relied on speculation.
+## BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs
+China’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive. “Europe is a very important regional market for BYD. We will not let tarif
 
-## Amid Jamia row, ABVP claims ‘Free Umar Khalid’, ‘Long Live Naxalbari’ slogans written on JNU walls, seeks action
-ABVP's claims over the alleged slogans on the JNU walls comes two days after similar slogans were allegedly spotted at Jamia Millia Islamia University.
-
-## UP Congress alleges voter discrepancies were being corrected through Form-8
-The party alleged the errors were the Commission’s responsibility and said voters received no acknowledgment slips in some cases.
-
-## Amit Shah hails ‘another lethal blow’ as Operation Trident strikes drug cartels across Assam, Manipur, Mizoram
-The network was involved in trafficking narcotics across India, Myanmar and Bangladesh through what Amit Shah described as the "Death Triangle Corridor".
-
-## Anti-CEC protest LIVE: INDIA bloc to hold CEC's ‘public impeachment’ on Oct 30, ‘Dilli Chalo' march on Nov 1
-Anti-CEC protest LIVE: On November 1, opposition leaders will take to the streets for a Dilli Chalo march to Ramlila Maidan. Meanwhile, the CJP leaders stated that they would continue to protest against the SIR of electoral rolls.
-
-## 5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor
-The bodies were taken to the mortuary at the Government Sub-District Hospital, said officers familiar with the matter.
-
-## HT Morning Brief October 25: EC keeps SIR software under wraps; pistols used in Shroff firing found
-Here are the top headlines you need to know today, covering politics, global events, sports and entertainment.
+## What’s next for Hong Kong developers in mainland China?
+Hong Kong’s major property developers are shifting investment in mainland China from residential projects to commercial assets, including hospitality, as weak home sales and fewer attractive investment opportunities prompt them to focus on existing properties, recurring income and debt reduction. “I
 
 ## Sri Lanka’s property boom gives Chinese developers hope. But familiar risks linger
 A Chinese developer behind one of Sri Lanka’s biggest projects has reason to celebrate as a luxury property boom lifts sentiment in the South Asian nation and fuels optimism about the market’s prospects. Analysts, however, cautioned that a string of disappointing Chinese overseas property investment
@@ -131,12 +134,6 @@ Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co f
 
 ## China party meeting, stocks slump, HSBC leads earnings
 A key Communist Party meeting next week in Beijing is likely to be dominated by two themes – the renewal of President Xi Jinping’s long-standing anti-corruption drive and the hunt for clues about a looming leadership reshuffle. “Major issues related to advancing full and rigorous party self-governan
-
-## Former HSBC insurance veteran Edward Moncreiffe joins AIA in latest senior talent move
-Former HSBC Holdings global insurance head Edward Moncreiffe will join rival AIA Group as regional CEO from November 2, following a path taken by former HSBC Group chairman Mark Tucker, who returned to the Asia-Pacific region’s largest insurer as non-executive chairman last year. Moncreiffe will ove
-
-## Citigroup gets Beijing’s approval for wholly owned securities firm in China
-US bank Citigroup has received approval to set up a wholly foreign-owned securities firm in mainland China, allowing the lender to pursue more opportunities in one of the world’s largest capital markets. The long-awaited green light was given by the China Securities Regulatory Commission (CSRC) on F
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bots, deepfakes and surveillance: Israel’s election goes to war online
-Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
+## Pakistan axe Shan Masood from Sri Lanka Test squad as Agha, Rizwan return
+Ali Usman has also been recalled to the Test team after being sent home from the England tour.
 
-## Serbia votes in election pitting longtime leader against student movement
-Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.
+## Trump mocks reporter asking about Iran strikes, as Tehran says US derailed
+US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.
 
-## Obama joins El-Sayed in Michigan rally cry before key midterms
-Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.
+## Qatar official calls for peace and security to boost trade, investment
+The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.
 
-## New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors
-The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.
+## Israeli forces turn Hebron homes into military posts amid lockdown
+Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.
 
-## Thousands rally in Turkiye over journalist arrests, media shutdowns
-Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.
+## Australian Grand Prix called off as rain spoils Phillip Island sendoff
+Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.
 
-## El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga
-Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.
+## Thousands of Northern Irish Protestants march ahead of court ruling
+Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland.
 
-## Bulgarians vote for president in shadow of Russia’s war in Ukraine
-The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.
+## Brazil 2026 election live: Lula and Bolsonaro in tight race
+Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.
 
-## Mass rally against Netanyahu ahead of pivotal Israeli election
-Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.
+## Indigenous communities worry Brazil’s election could hurt environment
+Brazil's indigenous communities say they’re concerned by how the election outcome could impact environmental protections
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
