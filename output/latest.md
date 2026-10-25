@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## Ukraine military says Starlink service restrictions have been lifted
-Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes
-
 ## Hundreds of thousands protest in France in second weekend of mass demonstrations
 Government puts 70,000 police officers on the streets to boost security after last weekend’s riots
+
+## Ukraine military says Starlink service restrictions have been lifted
+Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes
 
 ## Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions
 Critics say prime minister’s proposal would turn country into an economic pariah
@@ -234,6 +234,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
+Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.
+
+## Violence breaks out across Europe after another day of protests
+Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.
+
+## Iran war live: Trump hints at possible Sunday Iran attack or deal reached
+Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.
+
+## Trump lauds Melania over Russia-Ukraine localised ceasefire deal
+Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.
+
+## Gunmen kill at least 10 people in eastern Nigeria, police say
+Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
+
 ## How have Democrats’ policies shifted since the last major US election?
 From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.
 
@@ -242,21 +257,6 @@ The pivotal run-off will determine whether Brazilians stick with their left-wing
 
 ## Brazil’s candidates hold final rallies before knife-edge run off
 Brazil’s candidates hold final rallies before knife-edge run off
-
-## Iran blames US for deal failure, urges new try amid fear of new attacks
-Tehran warns that even limited strikes would trigger a response 'several times greater'.
-
-## Houthis launch attacks on Saudi Arabia and Yemen’s Aden
-Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.
-
-## Train slams into crane that collapsed onto railway line in Brazil
-Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.
-
-## Severe hunger stalks people in Gaza as bakeries close down
-Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.
-
-## Violent clashes as Albanian government cracks down on protests
-Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
