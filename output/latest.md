@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Marco Rubio still owes Europe answers about America’s intentions
+The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future
+
+## Carney’s energy ambitions boosted by Conservative victory in British Columbia
+Party leader wants to end emissions limits and replace province’s carbon tax framework
+
 ## London’s most famous shopping street bans cars in bid to revive its fortunes
 Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores
 
@@ -21,9 +27,6 @@ Young people are increasingly anxious — and angry — about the Big Tech revol
 ## Airbus to hold talks with BAE over role in GCAP fighter jet programme
 Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain
 
-## US voters worried about corruption under Trump — FT poll
-Americans link graft to affordability crisis as midterm elections loom
-
 ## Audi to build $4bn US plant as it grapples with tariffs
 Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies
 
@@ -36,32 +39,29 @@ Slowdown in China and cooling global stock markets are exacerbating a downturn f
 ## Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses
 Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war
 
-## The Black Sea is now the world’s deadliest shipping route
-Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf
-
 ## Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg
 Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake
 
-## Tata Motors’ €3.91-billion Iveco bid faces make-or-break October 26 test of global ambitions
-Tata Motors faces a crucial October 26 deadline in its €3.91-billion Iveco takeover, with only 35% of shares tendered at the last reported count against the required 80%. While management expects a last-minute surge in acceptances, it faces resistance from influential investors, Italian concerns ove
+## Worst Samvat under Modi era; Nifty down 13% as investors enter new year amid growing caution
+No bottom in sight as Samvat 2083 approaches
 
-## Govt examining high margins beyond cancer drugs
-While govt has so far acted only on oncology drugs, other such cases being examined with stakeholders, Dept of Pharma stated in its Oct 12 affidavit to the SC without sharing details
+## Secure banking system needs secure digital infrastructure, says PM Modi
+Modi highlighted the significance of the RBI’s Data Centre and Cybersecurity Training Institute in strengthening India’s digital financial infrastructure and advancing its technological self-reliance
+
+## Letters to the Editor dated October 25, 2026
+
+
+## The forces shaping next stage for Indian startups
+A book that examines whether India can move from producing successful startups to building globally competitive companies
+
+## The invisible blueprint
+Over the last two decades, Eric Ries’s ideas about innovation and long-term thinking have made companies build new management practices
+
+## Editorial. Jio 2.0
+Jio’s challenge is to convert scale into sustained growth
 
 ## India, Russia to conduct pilot voyages on Northern Sea Route in 2027
 Considered the shortest coastal passage between Western Eurasia and Asia-Pacific, the 5,600 km long NSR runs from the Kara Strait to Cape Dezhnev in the Bering Strait
-
-## Smartphone market slump likely to impact Mobile PLI 2.0 applications
-The new scheme currently looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of ₹10,000 crore in FY26
-
-## Smartphone and earbud makers import more components from Vietnam as domestic prices surge
-Electronics imports from Vietnam are set to rise further this year from $5,364.61 million in FY26, industry sources say
-
-## Brokerage profits grow in September quarter despite slowdown in market activity
-Profit growth holds up as cash-market turnover falls 11.7% sequentially, with margin funding helping cushion weaker trading activity
-
-## JSW Steel expects higher H2 volumes to offset rising input costs
-
 
 ## MSMEs remain upbeat despite rising input costs, manufacturing sentiment strongest: SIDBI
 In the July-September 2026 quarter, India's micro, small, and medium enterprises showcased a notable surge in business optimism. The MSME Business Confidence Index rose from 59.3 to 60.4, signaling an encouraging outlook across various sectors. Notably, manufacturing, trading, and services surpassed
@@ -87,29 +87,32 @@ As Dalal Street braces for a pivotal week, key earnings reports and the impendin
 ## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
 France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
-## Kharge escalates ‘vote chori’ charge in Patna, demands CEC’s ouster, attacks Nitish over RSS ties
-The Congress president sharpened his attack by linking the alleged irregularities to Rahul Gandhi’s earlier warnings.
+## FIR filed against 2 Congress MPs for 'trespass' as Jamia university protest over student union demand continues
+The protest, which includes a hunger strike, began on October 12, with students continuing to press their demands.
 
-## 'Alliance gave BJP stomach ache': Akhilesh Yadav calls Congress ‘200 seats’ UP poll poster fake
-Sharing the visuals of the poster, Yadav, in a post on X, demanded the suspension of senior municipal officials in Uttar Pradesh.
+## Industrialist R Veeramani booked in eighth POCSO case: Police
+The case was registered based on a complaint received by the SIT from a victim who was a minor at the time of the alleged offence.
 
-## Akhilesh Yadav's effigy burnt in Haldwani after row over ‘infiltrator’ remark against Uttarakhand people
-Uttarakhand's Pahadi Army sought an apology from Akhilesh Yadav and warned the protest could intensify if Yadav did not apologise.
+## Iran says US talks ‘meaningless’ until 7 conditions met as Qatari mediators arrive in Tehran
+Iran has indicated that negotiations with Washington cannot move forward unless its previously stated conditions are accepted.
 
-## Kharge’s ‘baap’ remark targeting PM Modi draws BJP backlash, Amit Shah hits out at Congress
-Amit Shah accused the Congress of repeatedly using abusive language against the PM and his family. He also claimed the Opposition mocked Modi as a ‘chaiwala’.
+## Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views
+The trio can be seen attempting the track's famous horse-riding dance, replacing the familiar music of political campaigns with an international pop anthem.
 
-## HT Evening News Brief October 25: Jaishankar urges dialogue on global conflicts, Kharge targets BJP, Sindhu loses French Open final
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+## 'Extortion bid, death threat': Actress Urmila Sanawar arrested on complaint by ex-BJP MLA's daughter
+The arrest comes days after Sanawar gave to undergo polygraph and narco-analysis tests as part of probe into the Pauri Garhwal receptionist murder case.
 
-## Jaishankar says Global South faces '4F crisis' of finance, fuel, food, fertilisers; urges Global North to act
-Pointing to the conflicts in Ukraine and West Asia, the EAM said societies far away from these regions are “paying the cost” of the turmoil.
+## Nitin Nabin chairs key BJP meet to discuss response to Opposition’s anti-SIR campaign
+Union home minister Amit Shah also attended the meeting where the party discussed the response to the opposition’s November 1 rally against SIR.
 
-## BJP questions Kerala CM’s ‘selective secularism’ over beef, Jinnah statue at Fort Kochi cafe
-The controversy followed a social media video alleging that the cafe was named after Kashi despite displaying a statue of Jinnah and serving beef.
+## Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent
+The ministry of home affairs directed on Saturday that two RAF companies will be airlifted from Navi Mumbai on board an IAF transport aircraft.
 
-## Ex-IAS officer Divya Mittal's new party looks to field 'strong candidates' across 403 seats in UP
-Ten days after announcing her political entry, Divya Mittal said her Janneeti Bharat Party would field candidates in the 2027 UP Assembly polls.
+## ‘Mafia’: BJP attacks Congress after Kharge’s ‘baap’ remark targeting PM Modi
+Union home minister Amit Shah criticised Kharge, saying his remark about Modi’s father crossed the limits of decency.
+
+## Globevisa to Convene Hong Kong Summit on Asia's Evolving Global Mobility and Cross-Border Planning
+[The content of this article has been produced by our advertising partner.] HONG KONG, October 26, 2026 — The Globevisa Global Citizen Conference 2026 (GGCC 2026), organised by Globevisa Group, will open today at the JW Marriott Hong Kong, bringing together government representatives, industry leade
 
 ## BYD to build new factories in Europe to combat strict trade barriers targeting Chinese EVs
 China’s BYD will build new factories in Europe for a bigger market share, as the world’s largest electric vehicle (EV) maker faces fiscal support pullback at home and rising trade barriers overseas, according to an executive. “Europe is a very important regional market for BYD. We will not let tarif
@@ -131,9 +134,6 @@ Hong Kong has taken another step towards building itself into an international g
 
 ## Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources
 Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co failed to excite retail investors in Hong Kong, making it one of the least popular mega initial public offerings (IPOs) in the city so far this year. Bookbuilding closed as scheduled on Friday, with preliminary figures sh
-
-## China party meeting, stocks slump, HSBC leads earnings
-A key Communist Party meeting next week in Beijing is likely to be dominated by two themes – the renewal of President Xi Jinping’s long-standing anti-corruption drive and the hunt for clues about a looming leadership reshuffle. “Major issues related to advancing full and rigorous party self-governan
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza content creator tells Al Jazeera how much her award win means
-Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means
+## US and Israel elections: New leaders, same policies?
+Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.
 
-## Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?
-Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture.
+## Can protests in Europe bring about change?
+People have been taking to the streets to demand action.
 
-## The search for gold is a dangerous and laborious gamble for Sudan’s miners
-As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.
+## AI’s ‘opportunity divide’ could deepen global inequality, UN official warns
+The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.
 
-## Saudi air defences intercept Houthi barrage near Mecca
-Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen's Taiz.
+## Jerusalem Daily: Israel expels thousands from Hebron
+Jerusalem Daily: Israel expels thousands from Hebron
 
-## Gaza’s visually and hearing-impaired children miss school due to Israel war
-Children in Gaza with auditory and visual challenges often have no access to specialist education.
+## Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports
+Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.
 
-## Serbia votes as student-led bloc challenges longtime leader Vucic
-Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.
+## Israel’s ‘Generation Right’ could shape Netanyahu’s future
+The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.
 
-## Portuguese police clear Lisbon housing protest camp, arrest 25
-Officers baton-charge demonstrators in overnight operation as activists demand government action on housing crisis.
+## Barcelona vs Real Madrid LIVE: La Liga El Clasico
+Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.
 
-## Elena Rybakina retains Ningbo title, wins first trophy as world number one
-The victory helped the Kazakh take a big step towards securing the year-end number one ranking.
+## Jordanians mourn victims of deadly church attack
+Jordanians mourn victims of deadly church attack
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
