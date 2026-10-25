@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Brazil’s Supreme Court extends voting as transport complaints mar election
+Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump
+
+## Burnham promises Budget cash to end rough sleeping
+Chancellor John Healey prepares to unveil a fiscal statement aimed at reassuring markets while finding cash for Labour’s social objectives
+
+## Venezuelan opposition leader Machado returns from exile
+Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government
+
+## FirstFT: Brazil awaits results in knife-edge presidential vote
+Also in today’s newsletter: Venezuela’s opposition leader returns from exile and Kim Jong Un visits Chinese border city
+
+## Toyota takes on Tesla and China in humanoid robot race
+Japanese group uses 20 years of research to commercialise intelligent robots
+
 ## Burnham stokes Brexit debate ahead of UK-EU summit
 Prime Minister calls for ‘honest discussion’ about free movement of people
 
@@ -9,26 +24,17 @@ Move may be seen as a snub to Canadian PM Mark Carney as UK chancellor John Heal
 ## France’s Le Pen vows national ‘renewal’ in campaign launch
 Far-right leader casts herself as only presidential candidate able to restore order and unity
 
-## A knife-edge election in Israel and other potential pivot points
-A key Knesset election, a (hopefully) boring British Budget, Big Oil and Big Tech reports
-
-## Venezuelan opposition leader Machado returns from exile
-Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government
-
-## The battle for the soul of Israel
-A Netanyahu victory would set the country and region on a destructive path
-
-## Marco Rubio still owes Europe answers about America’s intentions
-The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future
-
-## Carney’s energy ambitions boosted by Conservative victory in British Columbia
-Party leader wants to end emissions limits and replace province’s carbon tax framework
+## Weil’s incoming leader to walk away from top job as law firm faces talent crisis
+Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm
 
 ## Bon Secours nears $6bn takeover of Bain-backed Surgery Partners
 US hospital chain is the latest not-for-profit healthcare provider to seek a large deal
 
 ## Enough golfers commit to LIV 2.0 to keep hopes of new league alive
 Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund
+
+## Carney’s energy ambitions boosted by Conservative victory in British Columbia
+Party leader wants to end emissions limits and replace province’s carbon tax framework
 
 ## London’s most famous shopping street bans cars in bid to revive its fortunes
 Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores
@@ -38,12 +44,6 @@ Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the
 
 ## Airbus to hold talks with BAE over role in GCAP fighter jet programme
 Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain
-
-## Audi to build $4bn US plant as it grapples with tariffs
-Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies
-
-## German billionaire says €250mn Bayern Munich deal about more than money
-Family stake in Germany’s most successful football club driven by passion as much as financial returns, Maximilian Viessmann says
 
 ## Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg
 Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake
@@ -69,6 +69,15 @@ Jio’s challenge is to convert scale into sustained growth
 ## India, Russia to conduct pilot voyages on Northern Sea Route in 2027
 Considered the shortest coastal passage between Western Eurasia and Asia-Pacific, the 5,600 km long NSR runs from the Kara Strait to Cape Dezhnev in the Bering Strait
 
+## West Asia crisis: Government ready with energy, fertiliser stocks
+
+
+## Keeping all data centres sovereign, says RBI governor
+
+
+## Banks pass on rate hikes, but go slow when rates fall; RBI study finds
+A recent study by the RBI indicates that banks are more responsive to interest rate hikes than to cuts. Specifically, banks relayed 76.4% of repo rate increases, while only 64% of reductions were passed on. Amid periods of tightening, lending rates surged significantly, in contrast to the minimal de
+
 ## MSMEs remain upbeat despite rising input costs, manufacturing sentiment strongest: SIDBI
 In the July-September 2026 quarter, India's micro, small, and medium enterprises showcased a notable surge in business optimism. The MSME Business Confidence Index rose from 59.3 to 60.4, signaling an encouraging outlook across various sectors. Notably, manufacturing, trading, and services surpassed
 
@@ -83,15 +92,6 @@ HDFC Bank and Bajaj Finance experienced significant market value declines last w
 
 ## Foreign investors withdraw Rs 48,056 crore in October as market selling continues
 Foreign Portfolio Investors have withdrawn Rs 48,056 crore from Indian equities during October due to high crude oil prices. Selling eased slightly in a recent week, with some FPIs becoming net buyers for two days. Elevated oil prices and inflation concerns are contributing to deteriorating corporat
-
-## Five IPOs to hit Dalal Street next week, targeting nearly Rs 2,600 cr from investors
-Between October 26 and October 29, five companies will debut their initial public offerings, aiming to raise an impressive Rs 2,600 crore from the primary market. These firms—EAAA India Alternatives, SFC Environmental Technologies, M K Sons Fine Jewels, BLS Polymers, and Bombay Coated and Special St
-
-## Stock market outlook: Fed meeting, crude & more - top cues guiding Dalal Street this week
-As Dalal Street braces for a pivotal week, key earnings reports and the impending US Federal Reserve interest rate decision are grabbing attention. Investors are eagerly anticipating the September industrial production and manufacturing figures, set to be released on October 28. Moreover, Jio Platfo
-
-## France’s economic woes: Debt nears 122% of GDP, growth forecast at just 0.4%
-France is grappling with severe economic challenges, marked by soaring public debt nearing 122% of GDP. With government expenditure exceeding 57% of the nation's economic output, the forecast of just a 0.4% growth raises concerns over financial stability. Protests centered on the rising cost of livi
 
 ## At least 2 feared trapped as under-construction building collapses in Delhi's Harsh Vihar
 An under-construction house collapsed in northeast Delhi’s Harsh Vihar. Two are feared trapped under debris.
@@ -117,6 +117,9 @@ Iran has indicated that negotiations with Washington cannot move forward unless 
 ## Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views
 The trio can be seen attempting the track's famous horse-riding dance, replacing the familiar music of political campaigns with an international pop anthem.
 
+## Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches
+After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”. “Our next major milestone is to [help] bring regulated digital money into ever
+
 ## Globevisa to Convene Hong Kong Summit on Asia's Evolving Global Mobility and Cross-Border Planning
 [The content of this article has been produced by our advertising partner.] HONG KONG, October 26, 2026 — The Globevisa Global Citizen Conference 2026 (GGCC 2026), organised by Globevisa Group, will open today at the JW Marriott Hong Kong, bringing together government representatives, industry leade
 
@@ -137,9 +140,6 @@ When Wang Junhong was helping Chinese brokerage Guotai Junan International estab
 
 ## Hong Kong burnishes gold hub credentials with local refineries deal
 Hong Kong has taken another step towards building itself into an international gold trading hub, after confirming deals that will see gold refineries localise production in the city. The addition of the local refineries will allow Hong Kong to form a complete gold trading ecosystem, boosting belief 
-
-## Dongshan Precision retail IPO undersubscribed as Hong Kong mega listing flops: sources
-Chinese printed circuit board maker Suzhou Dongshan Precision Manufacturing Co failed to excite retail investors in Hong Kong, making it one of the least popular mega initial public offerings (IPOs) in the city so far this year. Bookbuilding closed as scheduled on Friday, with preliminary figures sh
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bulgaria election heads to a run-off amid low voter turnout
+Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.
+
+## Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders
+French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.
+
+## Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
+National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
+
+## US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
+
+## Marine Le Pen launches French presidential campaign
+Marine Le Pen launches French presidential campaign
+
+## Trump VS California
+The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.
+
+## Kenya bus crash kills at least 24 as government vows road safety crackdown
+Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.
+
 ## Can Carrick survive Man United’s slump and Fernandes fallout?
 Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
-
-## Brazil election results 2026 live: Top court extends voting for two hours
-Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in a closely watched election.
-
-## The narrative battle over France’s unrest
-Student protests, police violence and French media obsessed with 'barbarians'.
-
-## Iraqis mark seven years since Tishreen protests with reform demands
-Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.
-
-## Serbia voter turnout highest in decades as students oppose longtime leader
-Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
-
-## Venezuela’s opposition leader Maria Corina Machado returns from exile
-The Nobel laureate's homecoming follows national protests demanding free elections.
-
-## When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?
-Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.
-
-## Will Michael Carrick be sacked? Man United manager says he doesn’t know
-Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
