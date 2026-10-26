@@ -1,49 +1,43 @@
 # AION Intelligence
 
-## Iran hosts regional powers for talks to prevent fresh escalation
-Senior security officials from Saudi Arabia, Pakistan and Turkey met Iranian counterparts in Tehran on Monday
+## England captain Harry Kane wins Ballon d’Or
+Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years
+
+## Healey poised to increase adult minimum wage in UK Budget
+Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge
+
+## US charges ex-FBI chief James Comey for third time
+Former official is charged with disclosing national defence information in latest case brought by the Trump administration
+
+## EU loan to Airbus threatens trade truce with US, Trump trade official warns
+Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal
+
+## Healey focuses Budget on ‘everyday fixes’ as energy costs bite
+Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners
+
+## UK needs more powers to intervene when telecoms providers fail, minister says
+Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse
+
+## Trump offers $1mn reward for tips leading to election fraud conviction
+US president offers payout days before midterm vote that will shape balance of power in Congress
+
+## FirstFT: Anthropic unveils long-awaited IPO prospectus
+Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns
+
+## Meta plans $95bn stock offering to bankroll AI expansion
+Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors
+
+## Microsoft offers buyouts to 60,000 staff
+Tech giant moves to control costs and it spends up to $175bn on AI infrastructure this year
 
 ## DWS to honour just 10% of redemption requests at flagship property fund
 Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogether
 
-## Lula’s stunning comeback meets fiscal reality
-Brazil’s president must now rein in spending and build a broad coalition
-
-## Trump administration illegally fired Maurene Comey, judge rules
-Ruling deals a blow to the US government’s claims of sweeping presidential power to sack officials
-
-## The five policy splits emerging in Andy Burnham’s cabinet
-Prime minister faces many of the same problems that undermined his predecessor Sir Keir Starmer despite a pledge to end factionalism
-
-## Lula’s surprise victory triggers worst rout in decades for Brazilian markets
-Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit
-
-## Why you shouldn’t bother reading the Anthropic IPO filing
-Valuing AI lab based on its historic reported numbers is a fool’s errand
-
-## Nigeria evacuates Ebola patient to Switzerland
-Authorities work to contain deadly Bundibugyo virus after wife of Abuja-based Swiss diplomat became country’s first confirmed case
-
 ## ‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing
 Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure
 
-## Trump’s fresh campaign against wind power puts permitting deal in doubt
-Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill
-
-## Apollo takes minority stake in Abu Dhabi’s Mubadala Capital
-Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed
-
-## Anthropic begins countdown to IPO with prospectus filing
-240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors
-
-## Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners
-US hospital chain is the latest not-for-profit healthcare provider to strike a large deal
-
-## Plan for AI-run companies challenged by US lawmakers
-US House oversight committee probes Delaware proposal to let AI ‘agents’ run corporate entities
-
-## Anthropic S-1 as it happened: Inside the Claude maker’s 335-page IPO plan
-Start-up’s planned listing could be the biggest stock market debut in history
+## Why you shouldn’t bother reading the Anthropic IPO filing
+Valuing AI lab based on its historic reported numbers is a fool’s errand
 
 ## Tata Motors' Iveco takeover bid clears 80 pc acceptance threshold
 Touches 87.8 per cent on ‌the ‌last ⁠day of ⁠the offer
@@ -69,6 +63,12 @@ The company reported a consolidated profit after tax (PAT) of ₹1.26 crore in Q
 ## Almost half of domestic coal-based power plants have critical stocks
 Electricity demand surged 23.4% year-on-year in the first 10 days of October, adding pressure on coal inventories
 
+## Businesses require simpler procedures, greater freedom in Europe: Goyal
+
+
+## Noel challenges Chandrasekaran’s reappointment
+
+
 ## Two new Vande Bharat Sleeper trains to launch soon: Routes, timings, fares and more
 Indian Railways is gearing up to introduce two innovative Vande Bharat Sleeper services, enhancing connectivity between major urban centers. The new Mumbai-Bengaluru route promises to shorten travel times, making it ideal for commuters and tourists. Additionally, the Varanasi-New Delhi service aims 
 
@@ -86,12 +86,6 @@ The government has amended the Central Motor Vehicles Rules to facilitate the re
 
 ## Bank holiday on Valmiki Jayanti: Will banks remain shut on October 26? Check list
 As October unfolds, India's vibrant festival season translates into various state-specific bank holidays. On October 26, banking services will pause in Tripura, Chandigarh, Jammu and Kashmir, and Himachal Pradesh. Important dates approaching include Karva Chauth on October 29 and Sardar Vallabhbhai 
-
-## Gold, Silver rate today: Gold hovers near three-month low ahead of Fed policy meeting
-
-
-## Crude prices fall from six-month highs; WTI stands at $101 per barrel, Brent costs $115
-Oil prices experienced a decline of over 1% after hitting six-month peaks, primarily due to geopolitical unrest in Saudi Arabia. Currently, Brent crude fluctuates around $115 per barrel, and WTI at $101.5 per barrel. The threat to energy exports and infrastructure from Houthi attacks raises alarm, w
 
 ## Supreme Court Collegium recommends chief justices for Delhi, Gujarat, Telangana and Uttarakhand high courts
 Supreme Court Collegium recommends four judges as chief justices of Delhi, Gujarat, Telangana and Uttarakhand high courts.
@@ -117,6 +111,12 @@ It ordered all schools to remain closed for students on October 26 and 27 and ad
 ## Four shot dead at hotel in Assam’s Guwahati, police fear more casualties
 Four people were reportedly shot dead at Hotel Bilas Inn in Guwahati’s Bora Service area on Monday evening, October 26.
 
+## How Shimao’s sale of 2 hotels reveals the growing complexity of Hong Kong debt workouts
+The HK$2.7 billion (US$344 million) sale of two Shimao Group hotels in Hong Kong leaves an estimated HK$1.8 billion shortfall against their secured loans. Still, receivers managed to squeeze out improved bids in the final stages, with all shortlisted parties improving their offers, said Una Ge, a ma
+
+## European levy on non-EU parcels kicks in on Sunday in bid to curb China influx
+The European Union will from Sunday slap a €2 (US$2.25) handling fee on packages from outside the 27-nation bloc in a bid to curb the influx from China. The new levy – coming just weeks before the Black Friday, Cyber Monday and Christmas season shopping rushes – will be on top of the EU’s €3 fee on 
+
 ## China’s tax offices issue disclosure orders as offshore asset grace period ends
 Local tax bureaus across China are continuing to step up oversight following the expiration of the country’s grace period for the reporting of offshore trusts last Thursday, part of an ongoing push to spur voluntary tax disclosures. Municipal tax authorities in Beijing published notices for 21 indiv
 
@@ -135,11 +135,14 @@ Chinese biotech firms face fresh headwinds in their global expansion as Washingt
 ## Top bankers to gather in Hong Kong to learn how city has rethought ‘playbook’
 Around 280 of the world’s top bankers, including 120 group chairmen and CEOs, will gather in Hong Kong next week to learn how the city has been rethinking its playbook as it moves forward, Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man said on Monday. This year’s summit will h
 
-## China’s bearish stock market faces more pressure from weak earnings growth forecast
-Corporate earnings are becoming another factor holding back Chinese stocks, with industries ranging from consumer goods to real estate and green energy under pressure because of weak demand or excessive capacity. Profit growth through the first nine months for mainland Chinese listed companies slowe
+## Serbia’s Student Protesters Deserve a Nobel Prize
+What Serbian youth understood about politics that their counterparts elsewhere in the West haven’t.
 
-## Global gold trading hub status attracts industry leaders to set up operations in Hong Kong
-Investment in gold – long considered a traditional safe-haven during uncertain times – is taking on renewed importance amid the current global geopolitical uncertainty, market volatility and shifting confidence. For Hong Kong, this surge in interest comes as it is increasing its effort to become an 
+## Vucic’s Reign Is Over
+A student-led grassroots movement in Serbia will replace one of Europe’s staunchest populists.
+
+## Lula Defies Latin America’s Pro-Trump Wave
+Brazil’s left-wing president won a historic fourth term in office.
 
 ## China’s Overcapacity Has a Mind of Its Own
 Beijing can’t rein in its own industrial machine.
@@ -156,38 +159,32 @@ Republicans successfully connected wartime spending to the rising price of pork 
 ## 5 Foreign-Policy Priorities for Democrats After the Midterms
 What to expect if they win big in November.
 
-## Netanyahu Orders Large-Scale Military Operation in West Bank
-Israeli forces will go “house to house” after two soldiers were killed in a shooting.
+## Will There Be a Putin-Trump-Xi Summit?
+If so, to what end? Panda and Putz discuss on the latest episode of the Asia Geopolitics podcast.
 
-## The Real Danger of Big Tech
-The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.
+## Taiwan-Vatican Ties: The Dynamic Interplay Under Pope Leo XIV
+Regardless of the Sino-Vatican agreement, the practical, multifaceted ties between Taiwan and the Holy See have deepened over the past year.
 
-## Why Putin’s Defenders Are Increasingly American
-Like Joseph Stalin’s Western fans, they use a vicious foreign regime to grind their axe at home.
+## Uzbekistan Wants Out of the Iran-US Social Media War
+Tashkent summoned the Iranian ambassador to lodge a protest regarding social media posts by Iranian diplomatic missions.
 
-## Trial by Fire: The 2025 Thai-Cambodian Border Clashes and the Royal Thai Air Force
-In two outbreaks of war last year, the RTAF underlined its status as one of the region’s most effective and professional air forces.
+## Beyond the Pukpuk Treaty, Australia’s Strategic Footprint in PNG Grows
+In the wake of the Pukpuk Treaty, Australia and PNG continued to deepen relations with a new rotation planned, defense infrastructure investment, and expanded ADF recruitment.
 
-## Why China Can’t Fix Its Broken Economy
-China's economy has a huge problem: Chinese people aren’t spending enough money. And this is not just a problem for China.
+## A US Pivot Toward Commercial Espionage?
+However justified or inevitable it might be, this represents a major shift in how the U.S. has thought about intellectual property for the last three decades.
 
-## Indonesia Reduces Gas Supply to Singapore, Citing Domestic Energy Needs
-Energy Minister Bahlil Lahadalia said last week that Jakarta would prioritize its own needs, and might cut off supplies to nations that did not respect Indonesia.
+## Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confirms
+Since June, civil society groups and local media warned of PLA encroachments into Arunachal Pradesh. Hitherto, Delhi’s response was to deny and dismiss their claims.
 
-## The Strategic Logic Behind Pakistan’s Defense Pacts
-Last week, Pakistan signed the Badr Pact with Türkiye, Qatar, and Indonesia, the latest in a string of defense-related agreements with key partners.
+## The Debate Over the Maldives’ Deal with Eagle Hills
+Handing over prime land in a land-scarce country, on an island pitched as a lasting solution to an acute housing crisis, warrants deeper scrutiny.
 
-## Myanmar War Crimes Survivors Look to Denmark for Justice
-The country's legal system may provide one of the few remaining means of bringing Myanmar's generals to justice.
+## What Does Durga Puja Tell Us About Minorities in Bangladesh?
+The largest Hindu religious festival went off smoothly – a credit to the new BNP government.
 
-## Indonesia Seizes More Than 2 Tons of Narcotics in Major Anti-drug Operations
-In recent years Indonesian waters have become an important route for the trafficking of Golden Triangle drugs to Asian and global markets.
-
-## South Korea’s Ruling Democratic Party Is Tumbling in the Polls
-Its in-house gaffes and disputes are largely to blame for the DP's plummeting approval ratings.
-
-## Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit
-A formal trilateral could raise strategic questions that are awkward for the EU, Ukraine – and China itself.
+## Tensions Rise
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIndications of a return to direct hostilities are increasing. The United States is evacuating more troops an
 
 ## Are Critiques of Zelensky a Side Effect of Societal Exhaustion?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
@@ -209,9 +206,6 @@ This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Ag
 
 ## The West Is Thinking Too Small About Ukraine’s Victory
 Since fall 2023, Ukraine’s supporters have fallen into a pattern: Ukrainians warn that Russia is targeting its energy infrastructure to prevent them from heating their homes, schools, and businesses in the coming winter. Allies provide insufficient support to Ukraine’s efforts to harden its energy g
-
-## Fighting in Ethiopia and the Risk of Regional Spillover
-In September, fighting broke out in Ethiopia’s Tigray region between Ethiopian government forces and the Tigray People’s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the bo
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump faces private citizens lawsuit over limiting White House media access
-The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
+## Mass brawl between Galatasaray and Fenerbahce after Istanbul derby
+A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.
 
-## Brazil’s real sinks after Lula’s re-election victory
-Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.
+## Former FBI director James Comey hit with third set of charges under Trump
+Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information
 
-## Could the midterms change US military support for Israel?
-From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.
+## Africa food security under threat due to Iran war, trade officials warn
+The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
 
-## US midterm elections 2026 in maps and charts
-On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.
+## What will Lula’s fourth term mean for Brazil?
+Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?
 
-## Zelenskyy says peace talks with Russia, US to restart
-Zelenskyy says peace talks with Russia, US to restart
+## US court rules daughter of Trump critic James Comey was illegally fired
+Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump's ire.
 
-## How Venezuela’s earthquake amputees adapt to life without limbs
-Experts say recovery for earthquake survivors will likely be a lifelong endeavour, given the physical and mental toll.
+## Palestinian children crawl under Israeli military gates to get to school
+Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.
 
-## Algeria’s president orders troop deployment to neighbouring Niger
-Niger requested troops to secure shared energy interests in what would be Algeria’s first deployment abroad since 1973.
+## Huge explosion at a weapons depot in Syria
+Huge explosion at a weapons depot in Syria
 
-## Britain sanctions Sudanese commanders over weaponised rape
-Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.
+## What Vucic’s defeat means for Serbia’s foreign policy
+Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues.
 
 ## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
 Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
