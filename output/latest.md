@@ -1,10 +1,13 @@
 # AION Intelligence
 
-## Brazil’s Supreme Court extends voting as transport complaints mar election
-Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump
+## Lula re-elected Brazil’s president in knife-edge election
+Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America
 
 ## Burnham promises Budget cash to end rough sleeping
 Chancellor John Healey prepares to unveil a fiscal statement aimed at reassuring markets while finding cash for Labour’s social objectives
+
+## Brazil’s Supreme Court extends voting as transport complaints mar election
+Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump
 
 ## Venezuelan opposition leader Machado returns from exile
 Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government
@@ -15,14 +18,11 @@ Also in today’s newsletter: Venezuela’s opposition leader returns from exile
 ## Toyota takes on Tesla and China in humanoid robot race
 Japanese group uses 20 years of research to commercialise intelligent robots
 
-## Burnham stokes Brexit debate ahead of UK-EU summit
-Prime Minister calls for ‘honest discussion’ about free movement of people
+## PM stokes Brexit debate ahead of UK-EU summit
+Leader calls for ‘honest discussion’ about free movement as he prepares to set out options for country’s long-term relationship with Brussels
 
 ## Britain will not join Canada-led defence bank
 Move may be seen as a snub to Canadian PM Mark Carney as UK chancellor John Healey throws weight behind a separate initiative
-
-## France’s Le Pen vows national ‘renewal’ in campaign launch
-Far-right leader casts herself as only presidential candidate able to restore order and unity
 
 ## Weil’s incoming leader to walk away from top job as law firm faces talent crisis
 Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm
@@ -45,29 +45,38 @@ Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the
 ## Airbus to hold talks with BAE over role in GCAP fighter jet programme
 Germany weighs joining UK, Italy and Japan in project after collapse of its rival FCAS partnership with France and Spain
 
-## Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg
-Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake
+## Sensex today | Stock Market Live: Stock to buy today: Leela Palaces Hotels & Resorts (₹577.70)
+Sensex, Nifty, Share Prices Live: The stock of Leela Palaces Hotels & Resorts has been rallying steadily since June. It established rally on the back of the support at ₹400. But after hitting a high of ₹649.80 recently, the price has now moderated to ₹577.70. This price drop is largely a correction 
 
-## Worst Samvat under Modi era; Nifty down 13% as investors enter new year amid growing caution
-No bottom in sight as Samvat 2083 approaches
+## Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma among 15 stocks to remain in focus
+Markets in focus: a mix of M&A, contract wins, regulatory updates and new product launches across 15 stocks, from Ray­mond’s rebrand to Lupin’s FDA observation and Orchid Pharma’s Latin American licensing deal.
 
-## Secure banking system needs secure digital infrastructure, says PM Modi
-Modi highlighted the significance of the RBI’s Data Centre and Cybersecurity Training Institute in strengthening India’s digital financial infrastructure and advancing its technological self-reliance
+## Ventures in the pink of health
+Alkemi Growth Capital backs healthcare and wellness businesses with potential to grow without compromising care
 
-## Letters to the Editor dated October 25, 2026
+## Founders who chose the ‘nuclear option’
+Meet the people vying to turn nuclear technology, long dominated by the State, into thriving private businesses
+
+## Sell your vision for the future, but don’t oversell the present
+A founder’s credibility is the most valuable asset of a young company
+
+## Astrobase’s 3Rs of rocket launches
 
 
-## The forces shaping next stage for Indian startups
-A book that examines whether India can move from producing successful startups to building globally competitive companies
+## Asserting sovereignty in low Earth orbit
+Amid promises of linking the remotest regions, can global satcom providers meet national security demands?
 
-## The invisible blueprint
-Over the last two decades, Eric Ries’s ideas about innovation and long-term thinking have made companies build new management practices
+## Festive party overload at work?
+Are corporates over-celebrating at the workplace
 
-## Editorial. Jio 2.0
-Jio’s challenge is to convert scale into sustained growth
+## Global AI companies turn to India for data centre capacity
 
-## India, Russia to conduct pilot voyages on Northern Sea Route in 2027
-Considered the shortest coastal passage between Western Eurasia and Asia-Pacific, the 5,600 km long NSR runs from the Kara Strait to Cape Dezhnev in the Bering Strait
+
+## Deadlines to file annual statements, returns extended
+
+
+## Dalal Street braces for volatile week
+
 
 ## West Asia crisis: Government ready with energy, fertiliser stocks
 
@@ -84,17 +93,14 @@ In the July-September 2026 quarter, India's micro, small, and medium enterprises
 ## Cancelled flight tickets: Airlines can claim GST refunds if fare and tax are returned
 The GST Appellate Tribunal ruled that airlines are eligible for GST refunds on cancelled flight tickets. Singapore Airlines was allowed to reclaim Rs 45.92 lakh after proving refunds were issued directly to passengers. The tribunal emphasized that airlines must provide ample documentation to establi
 
-## Industrial growth may ease to 6% in September as capital goods, mining lose steam
-In September 2026, India's industrial production growth is anticipated to decline to 6%, down from 8% in August. Notably, capital goods production is projected to drop significantly to 2.2%, from an impressive 16.9% the previous month. Additionally, mining output is expected to contract by 8%, indic
-
-## Market recap: Eight of top 10 firms lose Rs 1.55 lakh crore
-HDFC Bank and Bajaj Finance experienced significant market value declines last week amid broader market losses. The combined drop in valuations for eight major companies totaled Rs 1.55 lakh crore. Market capitalization for BSE-listed companies fell sharply by Rs 20,78,774.28 crore. Only Tata Consul
-
-## Foreign investors withdraw Rs 48,056 crore in October as market selling continues
-Foreign Portfolio Investors have withdrawn Rs 48,056 crore from Indian equities during October due to high crude oil prices. Selling eased slightly in a recent week, with some FPIs becoming net buyers for two days. Elevated oil prices and inflation concerns are contributing to deteriorating corporat
+## Election Commission orders statewide scrutiny of Uttar Pradesh voter list entries, deletions post-SIR
+Divisional commissioners will supervise the work, while electoral officers must promptly review applications, resolve complaints and remove duplicate entries.
 
 ## At least 2 feared trapped as under-construction building collapses in Delhi's Harsh Vihar
 An under-construction house collapsed in northeast Delhi’s Harsh Vihar. Two are feared trapped under debris.
+
+## Karnataka CM DK Shivakumar warns firms of action if Kannadigas sidelined in recruitment
+A woman’s video alleged that some Bengaluru companies rejected applicants who listed Kannada as their mother tongue and favoured candidates from other states.
 
 ## Collegium decisions unanimous, says ex-CJI Chandrachud
 Former CJI Chandrachud says collegium decisions were unanimous and Kaul endorsed all recommendations, disputing memoir claims of government deference.
@@ -111,11 +117,11 @@ The protest, which includes a hunger strike, began on October 12, with students 
 ## Industrialist R Veeramani booked in eighth POCSO case: Police
 The case was registered based on a complaint received by the SIT from a victim who was a minor at the time of the alleged offence.
 
-## Iran says US talks ‘meaningless’ until 7 conditions met as Qatari mediators arrive in Tehran
-Iran has indicated that negotiations with Washington cannot move forward unless its previously stated conditions are accepted.
+## Hong Kong to tighten burgeoning premium financing market as red flags, risks emerge
+Hong Kong’s insurance watchdog is tightening oversight of the city’s booming premium financing market, as the once-niche lending arrangement spreads to lower-tier insurance buyers, while also reviewing regulations, particularly on how insurers evaluate clients’ affordability, according to Insurance 
 
-## Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views
-The trio can be seen attempting the track's famous horse-riding dance, replacing the familiar music of political campaigns with an international pop anthem.
+## Goldman Sachs steps up Asia hiring as wealthy clients eye US assets for diversification
+Goldman Sachs is accelerating the hiring of wealth management advisers across Asia as the region’s wealthy families increasingly seek to diversify into US assets after years of strong market gains, while the AI boom is creating a new generation of millionaires with growing financial planning needs. 
 
 ## Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches
 After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”. “Our next major milestone is to [help] bring regulated digital money into ever
@@ -134,12 +140,6 @@ A Chinese developer behind one of Sri Lanka’s biggest projects has reason to c
 
 ## HSBC to open new wealth centre in Abu Dhabi despite regional conflict
 HSBC, the biggest lender in Hong Kong and Europe, will open a new wealth management centre in Abu Dhabi in December, as the lender has not found the conflicts in the Middle East have dampened demand for its wealth business in the region, according to a senior executive. Mohamed Al Marzooqi, CEO of H
-
-## Good morning Vietnam: Chinese brokers eye neighbouring springboard for overseas expansion
-When Wang Junhong was helping Chinese brokerage Guotai Junan International establish a foothold in Vietnam, he had to knock on the door of a familiar Chinese bank. As part of the Hong Kong-based firm’s expansion into Southeast Asia, it had acquired a controlling stake of a small Vietnamese securitie
-
-## Hong Kong burnishes gold hub credentials with local refineries deal
-Hong Kong has taken another step towards building itself into an international gold trading hub, after confirming deals that will see gold refineries localise production in the city. The addition of the local refineries will allow Hong Kong to form a complete gold trading ecosystem, boosting belief 
 
 ## Netanyahu Orders Large-Scale Military Operation in West Bank
 Israeli forces will go “house to house” after two soldiers were killed in a shooting.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bulgaria election heads to a run-off amid low voter turnout
-Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.
+## Netanyahu rival Eisenkot holds final rally before Israeli election
+Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
 
-## Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders
-French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.
+## Serbia celebrates historic election win for student-backed movement
+Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory
 
-## Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
-National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
+## Lula holds off far right with victory in Brazil presidential election
+Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
 
-## US Attorney General Todd Blanche defends Alaska Senate election lawsuit
-The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
+## Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed
+Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.
 
-## Marine Le Pen launches French presidential campaign
-Marine Le Pen launches French presidential campaign
+## Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron
+Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.
 
-## Trump VS California
-The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.
+## Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?
+Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d'Or at the age of 21.
 
-## Kenya bus crash kills at least 24 as government vows road safety crackdown
-Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.
+## Thousands protest in Prague against public media funding reforms
+Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom.
 
-## Can Carrick survive Man United’s slump and Fernandes fallout?
-Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
+## Venezuela’s opposition leader Machado returns after months in exile
+Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.
 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
