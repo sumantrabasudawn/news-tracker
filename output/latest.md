@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Andy Burnham backtracks on idea of referendum if UK accepts EU free movement
-Prime minister says he would like to see Britain rejoin EU ‘in my lifetime’ but stressed he would not get ahead of public opinion
+## Iran hosts regional powers for talks to prevent fresh escalation
+Senior security officials from Saudi Arabia, Pakistan and Turkey met Iranian counterparts in Tehran on Monday
 
-## Breaking down Anthropic’s 335-page S-1
-Anthropic’s planned listing could be the biggest stock market debut in history
+## DWS to honour just 10% of redemption requests at flagship property fund
+Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogether
 
-## Brazil’s markets tumble as investors bet Lula will add to fiscal pain
+## Lula’s stunning comeback meets fiscal reality
+Brazil’s president must now rein in spending and build a broad coalition
+
+## Trump administration illegally fired Maurene Comey, judge rules
+Ruling deals a blow to the US government’s claims of sweeping presidential power to sack officials
+
+## The five policy splits emerging in Andy Burnham’s cabinet
+Prime minister faces many of the same problems that undermined his predecessor Sir Keir Starmer despite a pledge to end factionalism
+
+## Lula’s surprise victory triggers worst rout in decades for Brazilian markets
 Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit
 
-## Can Europe find a third way?
-A new ‘great game’ is afoot in the Arctic and the continent needs to build its own military capability in the region
+## Why you shouldn’t bother reading the Anthropic IPO filing
+Valuing AI lab based on its historic reported numbers is a fool’s errand
 
-## Can the Democrats win the Senate?
-The races, the money and the issues that will determine the final half of Trump’s second term
+## Nigeria evacuates Ebola patient to Switzerland
+Authorities work to contain deadly Bundibugyo virus after wife of Abuja-based Swiss diplomat became country’s first confirmed case
 
-## Meta plans $95bn stock offering to bankroll AI expansion
-Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors
+## ‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing
+Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure
 
-## Relieving Starlink’s chokehold takes more than good intentions
-The EU is making slow progress in building alternative satellite systems
+## Trump’s fresh campaign against wind power puts permitting deal in doubt
+Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill
 
-## NHS consultants in England to go on strike in November
-Stoppage is first test on public sector pay and conditions for Burnham government
+## Apollo takes minority stake in Abu Dhabi’s Mubadala Capital
+Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed
 
 ## Anthropic begins countdown to IPO with prospectus filing
 240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors
@@ -30,38 +39,35 @@ Stoppage is first test on public sector pay and conditions for Burnham governmen
 ## Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners
 US hospital chain is the latest not-for-profit healthcare provider to strike a large deal
 
-## EQT to buy Range Resources in natural gas megadeal
-Combination set to create largest natural gas producer in the US
+## Plan for AI-run companies challenged by US lawmakers
+US House oversight committee probes Delaware proposal to let AI ‘agents’ run corporate entities
 
-## Saudi Arabia to increase electricity and water charges
-Electricity and water tariffs will rise from January as part of long-planned economic reforms, adding to economic uncertainty in wartime
+## Anthropic S-1 as it happened: Inside the Claude maker’s 335-page IPO plan
+Start-up’s planned listing could be the biggest stock market debut in history
 
-## The luxury Singapore apartments that nobody wants
-Properties seized by authorities are as unpopular as the lifestyle favoured by the people who once lived in them
+## Tata Motors' Iveco takeover bid clears 80 pc acceptance threshold
+Touches 87.8 per cent on ‌the ‌last ⁠day of ⁠the offer
+
+## Noel Tata seeks record of Tata Sons September 17 board meet
+Tata requested records in a letter to the company secretary, Suprakash Mukhopadhyay, on Monday. The letter was copied to other board members of Tata Sons
 
 ## Inflows into gold ETFs turned negative after 13 weeks as the yellow metal fell 4% last week
 US investors show the way as exits top $3 billion, while investments were $1.8 billion
 
-## SBI chief expects 50 bps repo rate hike in MPC’s next meeting
-Rate hikes may weigh on discretionary consumption demand, says Chairman
-
-## Meta plans to raise up to $95 billion to fund AI and data centre expansion
-The proposed financing combines depositary shares, Class A stock and a planned future offering as the company expands computing capacity and AI products
-
-## Q2 Results Today Live: Tata Consumer Q2 profit declines, Aequs, Dalmia Bharat PAT declines q-o-q, Ather Energy & ITC Hotels jump after Q2 results, BoM, TMB, IOB, Mankind Pharma, APL Apollo Q2 PAT rise, Paytm, KFin Tech, Nazara to announce Q2 results
-Q2 Results Today, 26th October 2026 Live Updates: Stay tuned to businessline for more Q2 updates
-
-## Tata Consumer Q2 consolidated profit rises 16%
-Standalone profit fell nearly 15% following exceptional charges, while domestic input-cost pressures weighed on operating margins
-
-## India-US trade deal: Most discussions concluded, agreement being fine-tuned
-Further negotiations followed changes in US tariffs after both countries announced the framework for the first phase of the proposed agreement in February
-
 ## Indian Overseas Bank Q2 net surges 56% on strong interest income growth
 Lender eyes $500 million ECB funding by December
 
-## Consumer and retail sector activity in September quarter at 127 deals worth $1.92 billion: Grant Thornton Bharat
-M&A activity was pegged at 29 deals worth $229 million in Q3 2026, compared with 19 deals worth $179 million in Q2
+## FCNR(B) rush squeezes margins; private banks feel more heat than PSU peers
+Private banks raise FCNR(B) at 7.5-10% of deposits versus 2-2.5% for PSUs
+
+## TSF Investments’ Board approves sale of 3.7% stake in TVS Holdings
+The approval is for selling the stake to existing members of the Promoter and Promoter Group of TVS Holdings Ltd,
+
+## Ather Energy shares jump 14% as EV maker posts Q2 profit, plans capacity expansion
+The company reported a consolidated profit after tax (PAT) of ₹1.26 crore in Q2, compared with a loss of ₹154 crore in the year-ago period.=
+
+## Almost half of domestic coal-based power plants have critical stocks
+Electricity demand surged 23.4% year-on-year in the first 10 days of October, adding pressure on coal inventories
 
 ## Two new Vande Bharat Sleeper trains to launch soon: Routes, timings, fares and more
 Indian Railways is gearing up to introduce two innovative Vande Bharat Sleeper services, enhancing connectivity between major urban centers. The new Mumbai-Bengaluru route promises to shorten travel times, making it ideal for commuters and tourists. Additionally, the Varanasi-New Delhi service aims 
@@ -87,29 +93,29 @@ As October unfolds, India's vibrant festival season translates into various stat
 ## Crude prices fall from six-month highs; WTI stands at $101 per barrel, Brent costs $115
 Oil prices experienced a decline of over 1% after hitting six-month peaks, primarily due to geopolitical unrest in Saudi Arabia. Currently, Brent crude fluctuates around $115 per barrel, and WTI at $101.5 per barrel. The threat to energy exports and infrastructure from Houthi attacks raises alarm, w
 
-## Father, 18-year-old son allegedly paraded naked over relationship with minor girl in Kolkata
-The young man's father alleged that prime accused asked him to either shoot his son with a pistol or stab him with a knife that had been heated in an oven.
+## Supreme Court Collegium recommends chief justices for Delhi, Gujarat, Telangana and Uttarakhand high courts
+Supreme Court Collegium recommends four judges as chief justices of Delhi, Gujarat, Telangana and Uttarakhand high courts.
 
-## Ghaziabad man, 32, stabbed at home by wife’s gym trainer in Vasundhara
-Police identified the suspect gym trainer as Vasundhara resident Pratap Singh, 30, who is native of Shamli district.
+## Andhra, Odisha brace for Cyclone Arnab; 15 NDRF teams deployed ahead of landfall, 3000 pregnant women under watch
+The Konaseema–Yanam–Kakinada coastal belt is among the areas being closely monitored for a possible landfall.
 
-## Keeping up with UP: When the poll caste calculus is set at 80% of the population
-In the 2017 UP polls, the NDA managed to secure less than 1 per cent support from Muslim women who appreciated the government's move against Triple Talaq
+## Police custody of 4 accused in Tiger Shroff shooting case extended till October 28, cops to verify phone data
+Police told the court two pistols and cartridges used in the commission of the crime have been recovered, adding the four had full knowledge of the conspiracy.
 
-## 'Sorry anti-Indian forces, but Modi won't go': BJP hits back day after Kharge's 'baap' remark
-'Sorry anti-Indian forces, but Modi won't go': BJP hits back day after Kharge's 'baap' remark
+## SIT formed to probe accident involving vehicles in Rahul Gandhi’s convoy on UP expressway
+The police headquarters has directed the SIT to conduct a comprehensive inquiry into all aspects of the incident and submit a detailed report at the earliest.
 
-## India-Mexico trade deal: Talks to begin this week amid fresh 50% tariffs on Indian exports
-India’s merchandise exports to Mexico stood at $5.73 billion in 2025-26, with automobiles accounting for the largest share at $1.92 billion.
+## ECI suspends six officers in UP, orders action against 21 others over MLC poll lapses
+The commission also removed IAS officer Abhay from his role as observer for the biennial election to the Gorakhpur-Faizabad Division Teachers’ Constituency.
 
-## HT Evening News Brief October 26: Cyclone Arnab intensifies, Jamia protests continue, E100 cars get conditional nod
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+## Ray-Ban heir Leonardo Del Vecchio seeks to buy Italian newspaper critical of him, owners reject offer
+The publication’s seven founding shareholders, including editor-in-chief Marco Travaglio, said that they had no intention of selling.
 
-## India’s balancing act: Managing border tensions with China and uncertainty with the US
-In a conversation on Point Blank, HT's Shishir Gupta discusses India's balancing act with China and the US with Aayesha Varma, stressing strategic autonomy.
+## Cyclone Arnab: Andaman and Nicobar schools shut till Tuesday
+It ordered all schools to remain closed for students on October 26 and 27 and advised people to remain highly vigilant about developments in the weather system.
 
-## Drones, artillery guns and helicopters: DAC clears ₹2.12 lakh crore defence buys
-The DAC, chaired by defence minister Rajnath Singh, also granted Acceptance of Necessity (AoN) for special utility helicopters.
+## Four shot dead at hotel in Assam’s Guwahati, police fear more casualties
+Four people were reportedly shot dead at Hotel Bilas Inn in Guwahati’s Bora Service area on Monday evening, October 26.
 
 ## China’s tax offices issue disclosure orders as offshore asset grace period ends
 Local tax bureaus across China are continuing to step up oversight following the expiration of the country’s grace period for the reporting of offshore trusts last Thursday, part of an ongoing push to spur voluntary tax disclosures. Municipal tax authorities in Beijing published notices for 21 indiv
@@ -135,6 +141,12 @@ Corporate earnings are becoming another factor holding back Chinese stocks, with
 ## Global gold trading hub status attracts industry leaders to set up operations in Hong Kong
 Investment in gold – long considered a traditional safe-haven during uncertain times – is taking on renewed importance amid the current global geopolitical uncertainty, market volatility and shifting confidence. For Hong Kong, this surge in interest comes as it is increasing its effort to become an 
 
+## China’s Overcapacity Has a Mind of Its Own
+Beijing can’t rein in its own industrial machine.
+
+## America’s Least Bad Option in Iran
+Why staying the course is the most prudent of Washington’s three unsavory choices.
+
 ## Could Victory for Netanyahu Mean Mass Emigration?
 Nearly one-fifth of Israeli voters are already considering leaving the country.
 
@@ -152,12 +164,6 @@ The biggest risks of AI and other advanced technologies have less to do with the
 
 ## Why Putin’s Defenders Are Increasingly American
 Like Joseph Stalin’s Western fans, they use a vicious foreign regime to grind their axe at home.
-
-## Filming Among the Rubble of Nazi Germany
-How Hollywood captured the struggle to make a better world.
-
-## How to Make a Monster
-What a novel about Ireland’s last great auks reveals about xenophobia today.
 
 ## Trial by Fire: The 2025 Thai-Cambodian Border Clashes and the Royal Thai Air Force
 In two outbreaks of war last year, the RTAF underlined its status as one of the region’s most effective and professional air forces.
@@ -183,6 +189,9 @@ Its in-house gaffes and disputes are largely to blame for the DP's plummeting ap
 ## Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit
 A formal trilateral could raise strategic questions that are awkward for the EU, Ukraine – and China itself.
 
+## Are Critiques of Zelensky a Side Effect of Societal Exhaustion?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues sh
+
 ## Lessons for Pentagon Procurement from the Special Operations Enterprise
 As the Pentagon races to buy hundreds of thousands of unmanned systems, acquisition professionals have turned to the special operations community to learn about how to buy commercial technologies fast. Cara Teeter, deputy assistant secretary of war for special operations analysis, resources, and cap
 
@@ -203,9 +212,6 @@ Since fall 2023, Ukraine’s supporters have fallen into a pattern: Ukrainians w
 
 ## Fighting in Ethiopia and the Risk of Regional Spillover
 In September, fighting broke out in Ethiopia’s Tigray region between Ethiopian government forces and the Tigray People’s Liberation Front (TPLF), effectively collapsing the 2022 peace deal. In October, Ethiopian forces recaptured an airport and towns from the TPLF and started moving closer to the bo
-
-## Establishing Battery Supply Chain Resilience for Drones
-Militaries have spent more than a century operating with fuel and ammunition as limits of combat endurance. They are only beginning to treat batteries with the same operational seriousness, as small unmanned systems move from niche equipment to mass-consumption weapons. Recent bipartisan supply dive
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel expands expulsions in occupied West Bank to cement control
-Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.
+## Trump faces private citizens lawsuit over limiting White House media access
+The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
 
-## Who are the Israeli candidates trying to unseat Netanyahu?
-Who are the Israeli candidates trying to unseat Netanyahu?
+## Brazil’s real sinks after Lula’s re-election victory
+Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.
 
-## How did Lula beat Bolsonaro after losing Brazil’s first-round election?
-Brazil's president secured a historic fourth term after overturning a first-round defeat.
+## Could the midterms change US military support for Israel?
+From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.
 
-## Has Pakistan reopened its border with Iran for trade?
-Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.
+## US midterm elections 2026 in maps and charts
+On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.
 
-## Intercepted Houthi missiles cause damage in Saudi Arabian city
-Debris fell on the Saudi city of Khamis Mushait after Houthi-fired missiles were intercepted.
+## Zelenskyy says peace talks with Russia, US to restart
+Zelenskyy says peace talks with Russia, US to restart
 
-## Key takeaways from Real Madrid’s El Clasico win over Barcelona
-Real won their fifth straight game across all competitions and are finding their footing under veteran Jose Mourinho.
+## How Venezuela’s earthquake amputees adapt to life without limbs
+Experts say recovery for earthquake survivors will likely be a lifelong endeavour, given the physical and mental toll.
 
-## Manchester United crisis: What are the top five problems facing the club?
-Manchester United hit a new low on Sunday with a home loss to Bournemouth. So, how can they solve their issues?
+## Algeria’s president orders troop deployment to neighbouring Niger
+Niger requested troops to secure shared energy interests in what would be Algeria’s first deployment abroad since 1973.
 
-## Israeli forces kill at least five people in Gaza, including 7-year-old girl
-The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.
+## Britain sanctions Sudanese commanders over weaponised rape
+Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.
 
 ## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
 Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
