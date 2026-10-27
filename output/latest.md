@@ -1,69 +1,69 @@
 # AION Intelligence
 
-## India moves to tweak jobs data
-Also, multinationals face more pressure from food safety regulator
+## The Putin whisperers: how three men tried to stop nuclear Armageddon
+An American lawyer, a banker and a former spy hatched a plan to prevent nuclear Armageddon. They just needed to tell the Russian president
 
-## Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’
-US president casts doubt on integrity of election result over extension of voting hours
-
-## Channel 4 strikes streaming deal with Disney
-Agreement comes as linear broadcasters struggle to compete with US media giants
-
-## England captain Harry Kane wins Ballon d’Or
-Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years
-
-## Healey poised to increase adult minimum wage in UK Budget
+## Healey poised to increase adult minimum wage by 3.9 per cent
 Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge
 
-## US charges ex-FBI chief James Comey for third time
-Former official accused of disclosing national defence information in latest case brought by Trump administration
+## Tech stocks rise as AI trade regains steam
+Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing
 
-## EU loan to Airbus threatens trade truce with US, Trump trade official warns
-Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal
+## EU’s border agency to boost powers to return irregular migrants
+Also in this newsletter: Bloc needs more water for its data centre build-out, warns industry chief
 
-## Healey focuses Budget on ‘everyday fixes’ as energy costs bite
-Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners
+## FirstFT: What Healey plans for his first UK Budget
+Also in today’s newsletter: Israel elections and French finances
 
-## UK needs more powers to intervene when telecoms providers fail, minister says
-Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse
+## Anthropic’s constitutional order
+Plus, Lula’s victory
 
-## FirstFT: Anthropic unveils long-awaited IPO prospectus
-Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns
+## Bank of Japan to remain on quarterly tightening path
+Read the BoJ’s October forecast from the FT’s Monetary Policy Radar team
 
-## Meta plans $95bn stock offering to bankroll AI expansion
-Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors
+## India’s outsourcers defy AI threat
+IT services groups now make 10% of revenue from helping companies integrate the new technology
 
-## Microsoft offers buyouts to 60,000 staff
-Tech giant moves to control costs and it spends up to $175bn on AI infrastructure this year
+## Reckitt cuts sales outlook as Lysol and China businesses hit
+Group’s European business returned to growth despite ‘challenging’ consumer environment and lower cold and flu incidence
 
-## DWS to honour just 10% of redemption requests at flagship property fund
-Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogether
+## HSBC shares slide as results disappoint
+Third-quarter profits and revenues at Europe’s biggest bank narrowly miss expectations
 
-## New UNSC permanent members without veto would be 'second-class': India
-India says the veto must be held by all permanent members of a reformed Council as long as the provision exists
+## What makes a project ringfence? For Metlen, it’s complicated
+So near, and yet solar
 
-## Anthropic's potential mega IPO joins ranks of world's biggest listings
-The listing could become one of the largest debuts ever, reshaping benchmarks, investor flows, and the broader US equity narrative
+## Anthropic’s big financial reveal
+Here are the big takeaways from the start-up’s IPO prospectus
 
-## Sensex today | Stock Market Live: Nifty 50, Sensex seen opening flat amid positive Asian markets
-Sensex, Nifty, Share Prices Live: Gift Nifty is ruling at 22,760 with respect to Nifty futures closing of 22,774 on the NSE. Key results will anchor today’s movement
+## JSW Steel expects 8%-9% gain in second-half volume, CEO says
+The Indian steel producer also expects margin pressure to ease with efficiencies including larger blast furnaces, better raw material mix and cost management
 
-## Q2 Results Today Live: L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer, Ather, Paytm, Dalmia, BOM, IOB, TMB, KFin Tech, Nazara shares in focus
+## Sensex today | Stock Market Live: Sensex down 200 pts, Nifty near 22,700 on expiry day blues; Smallcaps surge 2.5%, Tata Consumer stock up 5%
+Sensex, Nifty, Share Prices Live: Benchmark indices clawed back early losses by midday on Tuesday, October 27, 2026, as broader market buying offset persistent weakness in information technology and consumer staples stocks.
+
+## India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
+Puri said higher domestic production (34,000 to 55,000 mt/day) and imports from the US and Algeria offset Gulf shocks
+
+## Rage over E20 fuel was 'paid campaign': Nitin Gadkari
+According to Gadkari, India can save precious foreign exchange by reducing imports of fossil fuels
+
+## PM Modi, Liechtenstein's Prince Alois hold talks to boost ties
+Liechtenstein's Prince Alois is on a visit to India from October 25-28 to shore up bilateral cooperation in trade and investment, science, technology and innovation
+
+## Q2 Results Today Live: Bharat Bijlee & Bharat Seats rally after Q2, Cipla profit declines 35%, L&T, Maruti Suzuki, Bajaj Auto, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results
 Stay tuned to businessline for more business, financial and stock market news.
 
-## Paytm Q2 FY27 profit rises over 10-fold to ₹225 crore; revenue grows 28% to ₹2,648 crore
-EBITDA increased 90% y-o-y to ₹270 crore, its highest ever for a quarter, with the EBITDA margin expanding to 10%, reaching double digits for the first time
+## Study finds plant-based meat offers more absorbable protein than chicken
+The study was carried out by the Council of Scientific and Industrial Research - Institute of Himalayan Bioresource Technology and the Good Food Institute
 
-## EC defends SIR in SC, says Form 6 unchanged, justifies documentation framework
-In a counter affidavit, the poll body sought summary dismissal of the petitions and called the allegations ‘misconceived’ which rested on a single newspaper report
+## DPIIT advances trust-based governance to ease business regulations across India
+According to an official statement, the government has reduced 47,957 compliance requirements across Central Ministries and States and Union Territories (UTs)
 
-## Trump offers $1 million for tipoffs that lead to voter fraud convictions
-Offer comes a week before midterms as Republicans face difficult polls and low approval over living costs and Iran war fuel prices
+## India-US trade portal sees 3,500 registrations within months of launch, says Piyush Goyal
+The recently launched India-US Trade Facilitation Portal has quickly attracted around 3,500 registrations, demonstrating its strong appeal. Designed particularly for Indian exporters, including MSMEs and newcomers, this platform enables users to present their products and discover potential business
 
-## Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking
-Reports of the problem first surfaced on Reddit and other social media sites
-
-## Sensex, Nifty likely to open lower as oil stays near six-month high
+## Sensex falls down over 120 points at 73, 490, Nifty plunges 24 points to 22,728
 
 
 ## Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs
@@ -84,32 +84,44 @@ Oil prices have seen a decline amid diplomatic dialogues aimed at easing Middle 
 ## Insurance benefit for cargo extended
 
 
-## FDI inflows up 68% in Aug, seen topping $100bn in FY27
+## Weak monsoon, crop failures, force farmers to cut spending
+India’s weakest monsoon in over a decade raises concerns about farm output, winter sowing and rural spending
 
+## SC refrains from directing ECI to preserve files amid row over SIR decisions
+The Supreme Court tentatively posted the matter for November 17, giving the petitioners time to file their rejoinders to the Election Commission’s affidavit
 
-## Survey of unincorporated enterprises to expand, shift to financial-year cycle from 2027
-The proposed changes follow consultations with stakeholder ministries, data users expert groups, and an assessment of emerging information requirements.
+## India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
+India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
 
-## Delhi Police revamps website, adds emergency contact widget, section for legal updates
-One of the prominent additions is a widget for emergency numbers, allowing visitors to click and access important helpline numbers when they need police assistance or other emergency services
+## ‘Role confined to re-posting’: Bombay HC quashes FIR against student linked to controversial Op Sindoor post
+The Bombay High Court said that the student's role was limited to re-posting and noted that she has already suffered custody.
 
-## 17 convicts escape Tamil Nadu jail after staging epilepsy ruse
-At around 11:20 pm on Monday, police received information from the prison authorities that a jailbreak had occurred, said IGP South Zone Vijayendra S Bidari.
+## Australia expands biometric collection programme to visa applicants in India
+Australia expands biometric collection programme to visa applicants in India
 
-## HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more
-India's Permanent Representative to the UN said that the privilege of the veto carries an immense burden of responsibility that requires restraint.
+## Global peace means assurance of security, dignity and justice for all: Birla
+Global peace means assurance of security, dignity and justice for all: Birla
 
-## Lok Sabha speaker Om Birla urges Brics parliaments to turn dialogue into concrete outcomes
-The two-day forum will focus on resilience, innovation, cooperation and sustainability amid geopolitical and economic uncertainty.
+## UP: Three businessmen found dead inside car, pulled out of Sitapur pond
+Station house officer (SHO) Atul Choudhary said the bodies have been sent for postmortem examination and all aspects of the incident were being investigated
 
-## MCD to procure 98,500 vials of anti-rabies vaccine
-The procurement of 98,500 vials, approved on Monday, is part of the MCD’s plan to acquire 1.20 lakh anti-rabies vaccine vials over the next two years
+## SC issues notice on fresh pleas challenging law mandating singing of Vande Mataram
+SC issues notice on fresh pleas challenging law mandating singing of Vande Mataram
 
-## Ankita Bhandari murder case: CBI summons journalist, main petitioner for questioning
-CBI, in its summon to Ashutosh Negi, said that “there are reasonable grounds to question you to ascertain facts and circumstances from you”
+## Rental income prospects boost grade A office market in Hong Kong’s core districts
+The relatively swift recovery of Hong Kong’s grade A office market has spurred some owners of properties in prime locations to accelerate the listing of their assets, analysts said. Stanley Poon Chi-ming, managing director at Centaline Commercial, said the number of grade A office properties for sal
 
-## Very severe cyclonic storm Arnab LIVE: Landfall likely tomorrow at Andhra coast; schools shut, trains cancelled
-Cyclone Arnab LIVE: Heavy to very heavy rainfall is likely over Coastal Andhra Pradesh and Yanam on October 27 and 28, Odisha on October 28, Chhattisgarh on October 28 and 29, and East Uttar Pradesh on October 29.
+## ‘Depth and breadth’, strong liquidity anchor China stock outlook: JPMAM
+Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally across Asia, but J.P. Morgan Asset Management remained “structurally very positive” on both markets, according to a senior executive at the firm. Chinese markets offered “a lot of depth and breadth” and ample liquidity 
+
+## Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens
+Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over its promotional practices and cybersecurity measures. “We’re sorry for the rate l
+
+## China stock sell-off could erase another 15% in value, Morgan Stanley says
+Weakness in Chinese stocks may persist, with a quick rebound unlikely after a key benchmark slid into bear territory last week, according to global investment banks including Morgan Stanley. China’s onshore and offshore stocks could decline by an additional 10 to 15 per cent before bottoming out, ba
+
+## HSBC shares drop 5.6% despite strong third-quarter profit, US$1b share buy-back
+Shares of HSBC dropped more than 5 per cent on Tuesday even as Hong Kong’s biggest lender reported a 32 per cent rise in third quarter pre-tax profits and announced a new round of share buy-backs worth US$1 billion. The bank said its third quarter pre-tax profit increased to US$9.6 billion, in-line 
 
 ## Hong Kong market faces fundraising test after fourth IPO pulled since midyear
 Hong Kong’s fundraising market is now facing a severe test, as the last-minute halt of two initial public offerings (IPOs) within a week raises concerns over investor appetite amid market volatility and stricter regulation, analysts say. Robotics maker Changzhou Microintelligence decided to postpone
@@ -120,20 +132,8 @@ China has granted new autonomous-driving permission to electric vehicle (EV) mak
 ## How Shimao’s sale of 2 hotels reveals the growing complexity of Hong Kong debt workouts
 The HK$2.7 billion (US$344 million) sale of two Shimao Group hotels in Hong Kong leaves an estimated HK$1.8 billion shortfall against their secured loans. Still, receivers managed to squeeze out improved bids in the final stages, with all shortlisted parties improving their offers, said Una Ge, a ma
 
-## European levy on non-EU parcels kicks in on Sunday in bid to curb China influx
-The European Union will from Sunday slap a €2 (US$2.25) handling fee on packages from outside the 27-nation bloc in a bid to curb the influx from China. The new levy – coming just weeks before the Black Friday, Cyber Monday and Christmas season shopping rushes – will be on top of the EU’s €3 fee on 
-
-## China’s tax offices issue disclosure orders as offshore asset grace period ends
-Local tax bureaus across China are continuing to step up oversight following the expiration of the country’s grace period for the reporting of offshore trusts last Thursday, part of an ongoing push to spur voluntary tax disclosures. Municipal tax authorities in Beijing published notices for 21 indiv
-
-## Chinese biotech giant WuXi AppTec raises 2026 outlook after profit surge
-WuXi AppTec raised its full-year revenue guidance after its net profit surged 62.4 per cent in the first nine months of 2026, while revenue rose 38.6 per cent on strong demand for its drug development and manufacturing services. The Chinese pharmaceutical research services provider’s net profit reac
-
-## In a global first, Hong Kong opens secondary trading for tokenised public funds
-The Hong Kong Securities and Futures Commission (SFC) on Monday approved the world’s first-ever secondary trading of tokenised public funds, reinforcing the city’s push to build the region’s leading ecosystem for tokenised finance. Investors can now trade two tokenised money market funds – the Hong 
-
-## From bright ideas to real businesses: women entrepreneurs make their mark in Shenzhen
-[The content of this article has been produced by our advertising partner.] From AI-powered mental health screening to beer brewed from surplus bread, women entrepreneurs at the Standard Chartered Women’s International Network (SC WIN) Now & Next Challenge in Shenzhen demonstrated how innovation can
+## China Takes Its Lawfare to Sea
+Beijing is making life difficult for Panamanian ships, and others could be next.
 
 ## Serbia’s Student Protesters Deserve a Nobel Prize
 What Serbian youth understood about politics that their counterparts elsewhere in the West haven’t.
@@ -156,8 +156,17 @@ Nearly one-fifth of Israeli voters are already considering leaving the country.
 ## How the 1966 Midterm Elections Presage 2026
 Republicans successfully connected wartime spending to the rising price of pork chops.
 
-## 5 Foreign-Policy Priorities for Democrats After the Midterms
-What to expect if they win big in November.
+## Malaysia’s 2027 Budget: Fiscal Consolidation Continues Apace
+Unlike most of its ASEAN counterparts, Malaysia can look forward to strong growth, increased state revenue, and shrinking deficits in 2027.
+
+## Indonesia Announces New Measures to Improve Stock Market Transparency
+The global index provider MSCI has threatened to downgrade the country to "standalone market" status, potentially triggering billions of dollars in capital outflows.
+
+## ‘We Have Friends, No Enemies’: Timor-Leste’s First Year in ASEAN
+Dili will seek to "ensure that ASEAN’s principles work together in support of peace and the well-being of its peoples," says the country's vice minister for ASEAN affairs.
+
+## The 2026 US Midterm Elections: Ramifications for Australia
+From AUKUS to trade, for Australia, the implications of the midterms are particularly profound.
 
 ## Will There Be a Putin-Trump-Xi Summit?
 If so, to what end? Panda and Putz discuss on the latest episode of the Asia Geopolitics podcast.
@@ -171,17 +180,11 @@ Tashkent summoned the Iranian ambassador to lodge a protest regarding social med
 ## Beyond the Pukpuk Treaty, Australia’s Strategic Footprint in PNG Grows
 In the wake of the Pukpuk Treaty, Australia and PNG continued to deepen relations with a new rotation planned, defense infrastructure investment, and expanded ADF recruitment.
 
-## A US Pivot Toward Commercial Espionage?
-However justified or inevitable it might be, this represents a major shift in how the U.S. has thought about intellectual property for the last three decades.
+## The Machine Staff
+At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tacti
 
-## Face-Offs at India-China Border Are Continuing at Multiple Points, ITBP Chief Confirms
-Since June, civil society groups and local media warned of PLA encroachments into Arunachal Pradesh. Hitherto, Delhi’s response was to deny and dismiss their claims.
-
-## The Debate Over the Maldives’ Deal with Eagle Hills
-Handing over prime land in a land-scarce country, on an island pitched as a lasting solution to an acute housing crisis, warrants deeper scrutiny.
-
-## What Does Durga Puja Tell Us About Minorities in Bangladesh?
-The largest Hindu religious festival went off smoothly – a credit to the new BNP government.
+## The Anti-Taliban Resistance Has Survived. Can It Win?
+As the Taliban enters its sixth year in power, it remains more powerful than it was before the Sept. 11 attacks. The Taliban’s flag flies in all of Afghanistan’s 34 provinces. While only Russia has formally recognized the group as the country’s government, China and the United Arab Emirates have off
 
 ## Tensions Rise
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIndications of a return to direct hostilities are increasing. The United States is evacuating more troops an
@@ -200,12 +203,6 @@ Early on the morning of July 16, 1808, Captain-General Francisco Javier Castaño
 
 ## Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress
 After losing fellow marines in Iraq, Jeff Lindquist struggled with post-traumatic stress that was steadily destroying his life. Years later, an innovative technology helped him reclaim it. This is the story of Jeff and Erik Won, two veterans who served together, and how efforts to help Jeff recover 
-
-## The Endless Chip War
-This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology
-
-## The West Is Thinking Too Small About Ukraine’s Victory
-Since fall 2023, Ukraine’s supporters have fallen into a pattern: Ukrainians warn that Russia is targeting its energy infrastructure to prevent them from heating their homes, schools, and businesses in the coming winter. Allies provide insufficient support to Ukraine’s efforts to harden its energy g
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ex-FBI chief Comey defiant in the face of third prosecution
-Ex-FBI Director James Comey denies US Justice Department's new charges.
+## UK prosecutors charge two after RAF Fairford incident
+This is a breaking news story.
 
-## Moroccan police intercept migrant swimming back towards Ceuta
-Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta
+## Cruise ship crashes into two container ships during storm
+A captain whose cruise liner collided with container ships in strong winds is being investigated by German police.
 
-## Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect
-The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.
+## Israelis begin voting as Netanyahu fights for political survival
+Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.
 
-## Trump suggests renaming the Atlantic Ocean the ‘American Ocean’
-US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.
+## Drone strike kills at least 21 and injures 40 in Sudan’s Nyala
+A resident says the attack took place on Monday evening at a market in the north of Nyala city in the Darfur region.
 
-## Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’
-Trump pushes unsubstantiated claims about Brazil's presidential vote but says he 'didn't take sides' in the race.
+## India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears
+The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.
 
-## Harry Kane wins Ballon d’Or, ending England’s 25-year wait
-Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.
+## Qatar’s path to defence autonomy
+Qatar needs a strategy built on national resilience and diversified security guarantees.
 
-## Serbia’s ‘students’ celebrate for a second night after election victory
-Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.
+## Wales first minister : ‘We’re within a union that is not a union of equals’
+Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.
 
-## US court rules against Trump administration in California voting case
-US appeals court blocks government effort to stop California from tabulating ballots from list of alleged non-citizens.
+## US, EU and 30 countries warn of famine risk in Sudan, call for aid
+Countries also urge Sudan's warring parties to 'lift all impediments on humanitarian assistance'.
 
 ## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
 Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
@@ -279,6 +276,12 @@ Ideally, leadership roles should be backed by robust succession planning to ensu
 ## How CFOs can prepare Indian businesses for a more volatile global economy
 For Indian businesses, volatility is no longer an occasional disruption to an otherwise stable plan. A rise in oil prices leads to depreciation of rupee which leads to inflationary cycle. Cycle has two fold impact one on consumer spending (generating demand) and other one on input costs ( like incre
 
+## RBI steps up liquidity support as tighter cash conditions push up borrowing rates: Report
+Tightening liquidity in the banking system has pushed up short-term borrowing rates, prompting the Reserve Bank of India (RBI) to inject funds into banks, according to an ICICI Bank report. Meanwhile, rising oil prices and concerns over inflation are putting pressure on government bond yields. The r
+
+## Amid supply chain issues, India's strategic mining in critical state
+India's mining sector remains underdeveloped due to high import dependence and severe execution bottlenecks. Challenges include land acquisition difficulties, uncoordinated state-level regulations, and environmental concerns related to mining activities. The Centre has urged states to improve the op
+
 ## Don’t bank on RBI alone: The investor protection gap in India’s banking system
 RBI imposes strict regulations on banks to ensure transparency for depositors and investors. However, listed banks often fail to provide timely disclosure of crucial information to the market. The governance of Public Sector Banks (PSBs) also faces scrutiny due to government influence on board appoi
 
@@ -296,10 +299,4 @@ The recent treasury bill auctions on Wednesday saw the RBI reject all 224 bids, 
 
 ## Why is the RBI pulling liquidity out of banks and injecting it back again?
 Reserve Bank of India has significantly reduced banking system liquidity from a peak surplus in a short time. Liquidity surged after banks received funds from overseas Indians under the FCNR(B) scheme. The central bank utilized reverse repo auctions and cash reserve ratio adjustments to absorb this 
-
-## RBI flags widening inflation risks, puts rate cuts on ice
-RBI's Monetary Policy Committee raised the benchmark repo rate by 25 basis points to address rising inflation concerns. Governor Sanjay Malhotra indicated a generalisation of inflation, with many commodities exceeding 4% inflation. Deputy Governor Poonam Gupta highlighted the influence of external s
-
-## On a High-way: India revamps highway EPC rules with rating-based deposits, crash penalties
-The Centre has revised performance security measures for national highway contractors based on their ratings. Contractors rated above 80% will deposit 3% of project value, while lower-rated contractors will deposit 4% or 5%. This initiative aims to incentivize quality in highway construction and imp
 
