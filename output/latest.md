@@ -1,69 +1,69 @@
 # AION Intelligence
 
-## The Putin whisperers: how three men tried to stop nuclear Armageddon
-An American lawyer, a banker and a former spy hatched a plan to prevent nuclear Armageddon. They just needed to tell the Russian president
+## Israel turnout highest since 1973 in historic election
+First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest
 
-## Healey poised to increase adult minimum wage by 3.9 per cent
-Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge
+## Iran threatens South Korean shipping group over Hormuz transits
+Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action
 
-## Tech stocks rise as AI trade regains steam
+## Putin speaks with Norwegian and Finnish leaders
+Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks
+
+## Egypt shuts down one of the country’s last independent news outlets
+Civil society groups decry move against Mada Masr and editor-in-chief Lina Atallah
+
+## GM to switch listing from NYSE to Nasdaq as it accelerates AI push
+Move marks another blow for Big Board as tech-focused rival attracts some of world’s most valuable companies
+
+## Pop Mart sales fall up to 50% as Labubu fever ebbs
+Chinese maker of hit doll posts sinking quarterly revenues as demand wanes
+
+## Two British men charged over plot at RAF Fairford
+Mohmed Abdulkarim and Nouman Essghir both charged under National Security Act
+
+## Tech stocks gain as AI trade revives
 Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing
 
-## EU’s border agency to boost powers to return irregular migrants
-Also in this newsletter: Bloc needs more water for its data centre build-out, warns industry chief
+## Novartis takes $1.9bn writedown on key drug after blockbuster Avidity acquisition
+Swiss drugmaker raises profit outlook despite impairment charge on rare-disease medicine
 
-## FirstFT: What Healey plans for his first UK Budget
-Also in today’s newsletter: Israel elections and French finances
+## Anthropic and the AI cluster effect in fundraising
+$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect
 
-## Anthropic’s constitutional order
-Plus, Lula’s victory
+## EY defies consulting downturn to pay UK partners record £870,000
+Firm axes partners and reduces promotions to protect pay for top ranks
 
-## Bank of Japan to remain on quarterly tightening path
-Read the BoJ’s October forecast from the FT’s Monetary Policy Radar team
+## Three Russian diesel tankers steam for US — including two under sanctions
+Trump deal with Putin to ease fuel prices exposes companies to legal threats from Congress
 
-## India’s outsourcers defy AI threat
-IT services groups now make 10% of revenue from helping companies integrate the new technology
+## Finance Ministry sets Nov 1 to implement simplified post-sale discount rules, 90% provisional refunds for IDS
+A key change is related to post-supply discounts
 
-## Reckitt cuts sales outlook as Lysol and China businesses hit
-Group’s European business returned to growth despite ‘challenging’ consumer environment and lower cold and flu incidence
+## CoinDCX flags a phishing attack, days after confirming a compromised wallet
+It stressed that the exchange will never ask users to share private keys or seed phrases, ask for OTP, send links to withdraw funds
 
-## HSBC shares slide as results disappoint
-Third-quarter profits and revenues at Europe’s biggest bank narrowly miss expectations
+## AP Govt fully prepared to tackle Cyclone Arnab: CM Naidu
+The cyclone is likely to affect the region from Srikakulam to Bapatla. The cyclone is likely to cross the coast near Yanam, close to Kakinada.
 
-## What makes a project ringfence? For Metlen, it’s complicated
-So near, and yet solar
+## RBI Governor urges States to onboard onto ULI, utilise Programmable CBDC for Direct Benefit Transfers
+RBI Governor Sanjay Malhotra urged states to adopt UPI-linked lending, leverage CBDC for direct transfers, and strengthen fiscal health nationwide
 
-## Anthropic’s big financial reveal
-Here are the big takeaways from the start-up’s IPO prospectus
+## Voluntary buyouts offer Big Tech an alternative to layoffs
+Experts say buyouts offer a relatively graceful way to reset costs, remove unnecessary layers, and redirect investments
 
-## JSW Steel expects 8%-9% gain in second-half volume, CEO says
-The Indian steel producer also expects margin pressure to ease with efficiencies including larger blast furnaces, better raw material mix and cost management
+## Venu Srinivasan family members file cross-caveats
+Mother and daughter reiterate amicable settlement
 
-## Sensex today | Stock Market Live: Sensex down 200 pts, Nifty near 22,700 on expiry day blues; Smallcaps surge 2.5%, Tata Consumer stock up 5%
-Sensex, Nifty, Share Prices Live: Benchmark indices clawed back early losses by midday on Tuesday, October 27, 2026, as broader market buying offset persistent weakness in information technology and consumer staples stocks.
+## Delhi–Haridwar road link to open in two months: Gadkari
+Gadkari said improved road connectivity to religious destinations would help boost tourist arrivals and create jobs.
 
-## India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
-Puri said higher domestic production (34,000 to 55,000 mt/day) and imports from the US and Algeria offset Gulf shocks
-
-## Rage over E20 fuel was 'paid campaign': Nitin Gadkari
-According to Gadkari, India can save precious foreign exchange by reducing imports of fossil fuels
-
-## PM Modi, Liechtenstein's Prince Alois hold talks to boost ties
-Liechtenstein's Prince Alois is on a visit to India from October 25-28 to shore up bilateral cooperation in trade and investment, science, technology and innovation
-
-## Q2 Results Today Live: Bharat Bijlee & Bharat Seats rally after Q2, Cipla profit declines 35%, L&T, Maruti Suzuki, Bajaj Auto, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results
-Stay tuned to businessline for more business, financial and stock market news.
-
-## Study finds plant-based meat offers more absorbable protein than chicken
-The study was carried out by the Council of Scientific and Industrial Research - Institute of Himalayan Bioresource Technology and the Good Food Institute
-
-## DPIIT advances trust-based governance to ease business regulations across India
-According to an official statement, the government has reduced 47,957 compliance requirements across Central Ministries and States and Union Territories (UTs)
+## MSME, unsecured retail stress to lift bank NPAs in FY27
+Indian banks in India are set to see a modest rise in fresh non-performing assets in FY27
 
 ## India-US trade portal sees 3,500 registrations within months of launch, says Piyush Goyal
 The recently launched India-US Trade Facilitation Portal has quickly attracted around 3,500 registrations, demonstrating its strong appeal. Designed particularly for Indian exporters, including MSMEs and newcomers, this platform enables users to present their products and discover potential business
 
-## Sensex falls down over 120 points at 73, 490, Nifty plunges 24 points to 22,728
+## Stock markets end largely unchanged amid elevated crude oil prices
 
 
 ## Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs
@@ -84,29 +84,44 @@ Oil prices have seen a decline amid diplomatic dialogues aimed at easing Middle 
 ## Insurance benefit for cargo extended
 
 
-## Weak monsoon, crop failures, force farmers to cut spending
-India’s weakest monsoon in over a decade raises concerns about farm output, winter sowing and rural spending
+## Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute
+The firing incident happened near Hotel Bilas Inn in Guwahati’s Bora Service area on Monday evening.
 
-## SC refrains from directing ECI to preserve files amid row over SIR decisions
-The Supreme Court tentatively posted the matter for November 17, giving the petitioners time to file their rejoinders to the Election Commission’s affidavit
+## 'What if someone falls ill?': Delhi's non-BS VI vehicle ban from November 1 leaves Noida commuters worried
+Data from the Noida transport department showed that Noida and Greater Noida had 9.7 lakh registered petrol and 1.3 lakh diesel vehicles as of October 27
 
-## India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
-India ramped up LPG output, diversified imports to weather Hormuz crisis: Union Minister Puri
+## Chaos at Mumbai airport after network glitch, IndiGo and Air India flight operations affected
+Teams are working to resolve the issue, while all systems have been switched to manual mode as a precautionary measure.
 
-## ‘Role confined to re-posting’: Bombay HC quashes FIR against student linked to controversial Op Sindoor post
-The Bombay High Court said that the student's role was limited to re-posting and noted that she has already suffered custody.
+## Two accused shot dead in separate police encounters in Bengal in a day
+Two men accused in separate cases were killed in police encounters in West Bengal after allegedly snatching firearms from police.
 
-## Australia expands biometric collection programme to visa applicants in India
-Australia expands biometric collection programme to visa applicants in India
+## India to examine Liechtenstein’s proposal for double tax avoidance pact
+A DTAA is a bilateral treaty between India and another country to prevent the same income from being taxed in both nations.
 
-## Global peace means assurance of security, dignity and justice for all: Birla
-Global peace means assurance of security, dignity and justice for all: Birla
+## 19-month-old cheetah dies of gunshot injuries in MP's Kuno National Park; pellets extracted from body
+The cub was first rescued from the Pahargarh range in Morena and brought to Kuno National Park, where it died during treatment.
 
-## UP: Three businessmen found dead inside car, pulled out of Sitapur pond
-Station house officer (SHO) Atul Choudhary said the bodies have been sent for postmortem examination and all aspects of the incident were being investigated
+## Theni jailbreak: 13 of 17 inmates recaptured, 9 prison staff suspended; Opposition slams govt
+As many as 17 special teams were formed to trace the absconding convicts by the police.
 
-## SC issues notice on fresh pleas challenging law mandating singing of Vande Mataram
-SC issues notice on fresh pleas challenging law mandating singing of Vande Mataram
+## TVK's Keerthana hits back at criticism over ‘gold ornaments', says Vijay's support keeps her strong
+In a post on X, TVK minister Keerthana said she was being subjected to intense scrutiny, with critics questioning her statements and actions.
+
+## China hands former regulator suspended death sentence over US$65m bribery charge
+A former high-ranking official with China’s securities regulator was sentenced to death with a two-year reprieve on Tuesday over bribery charges, as Beijing continues its sweeping anti-corruption campaign. Wang Huimin, who served as a member of the Communist Party committee of the China Securities R
+
+## How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing
+Open-weight models, China-US tensions, Taiwan – just a few of the more than dozen references to China-related risks cited in Anthropic’s much-anticipated listing prospectus, which was finally released on Monday after months of speculation. Mostly concentrated within the 93-page “risk factors” sectio
+
+## China’s Hengrui posts 89% rise in third-quarter net profit, beating estimates
+Jiangsu Hengrui Pharmaceuticals, one of China’s largest drug makers, reported a 20.55 per cent rise in third-quarter revenue to 8.95 billion yuan (US$1.34 billion), beating analyst estimates of 8.55 billion yuan amid stronger innovative drug sales. Net profit reached 2.46 billion yuan for the three 
+
+## Pop Mart reports 45 to 50% revenue decline as Labubu sales weaken across major markets
+Pop Mart, the Chinese toymaker famous for Labubu collectible dolls, reported a 45 to 50 per cent year-on-year decline in third-quarter revenue, as sales weakened across its major markets, with overseas operations and online channels bearing the brunt of the slowdown. Revenue in mainland China fell 2
+
+## ByteDance’s Zhang Yiming tops China rich list with US$99.7 billion as AI fuels fortunes
+ByteDance founder Zhang Yiming has reclaimed the title of China’s richest person with a nearly US$100 billion fortune, as artificial intelligence powers a surge in wealth among China’s top entrepreneurs, according to the Hurun Research Institute. The 43-year-old Zhang, who topped the ranking in 2024
 
 ## Rental income prospects boost grade A office market in Hong Kong’s core districts
 The relatively swift recovery of Hong Kong’s grade A office market has spurred some owners of properties in prime locations to accelerate the listing of their assets, analysts said. Stanley Poon Chi-ming, managing director at Centaline Commercial, said the number of grade A office properties for sal
@@ -117,20 +132,20 @@ Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally
 ## Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens
 Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over its promotional practices and cybersecurity measures. “We’re sorry for the rate l
 
-## China stock sell-off could erase another 15% in value, Morgan Stanley says
-Weakness in Chinese stocks may persist, with a quick rebound unlikely after a key benchmark slid into bear territory last week, according to global investment banks including Morgan Stanley. China’s onshore and offshore stocks could decline by an additional 10 to 15 per cent before bottoming out, ba
+## Space Junk Is a Problem We Know How to Solve
+Satellite mega-constellations are transforming our night skies. It’s time to plug the governance gaps.
 
-## HSBC shares drop 5.6% despite strong third-quarter profit, US$1b share buy-back
-Shares of HSBC dropped more than 5 per cent on Tuesday even as Hong Kong’s biggest lender reported a 32 per cent rise in third quarter pre-tax profits and announced a new round of share buy-backs worth US$1 billion. The bank said its third quarter pre-tax profit increased to US$9.6 billion, in-line 
+## Trump Has Lost the Foreign-Policy Debate
+Polling shows the president’s policies are deeply unpopular.
 
-## Hong Kong market faces fundraising test after fourth IPO pulled since midyear
-Hong Kong’s fundraising market is now facing a severe test, as the last-minute halt of two initial public offerings (IPOs) within a week raises concerns over investor appetite amid market volatility and stricter regulation, analysts say. Robotics maker Changzhou Microintelligence decided to postpone
+## A Papal ‘Homecoming’
+Pope Leo XIV is proceeding with a trip to Latin America despite his cancer diagnosis.
 
-## China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies
-China has granted new autonomous-driving permission to electric vehicle (EV) maker Xpeng and a mainland joint venture of Volkswagen, intensifying the commercialisation race between China’s autonomous driving firms and US company Tesla. Xpeng would now be allowed to conduct “demonstration operations”
+## The Global Push to Keep Kids Off Social Media
+From age verification to time limits, more than 60 countries have embraced online restrictions.
 
-## How Shimao’s sale of 2 hotels reveals the growing complexity of Hong Kong debt workouts
-The HK$2.7 billion (US$344 million) sale of two Shimao Group hotels in Hong Kong leaves an estimated HK$1.8 billion shortfall against their secured loans. Still, receivers managed to squeeze out improved bids in the final stages, with all shortlisted parties improving their offers, said Una Ge, a ma
+## China Is Building Its Way Around Europe’s EV Tariffs
+Beijing’s evolving industrial playbook is taking shape in Morocco.
 
 ## China Takes Its Lawfare to Sea
 Beijing is making life difficult for Panamanian ships, and others could be next.
@@ -141,44 +156,29 @@ What Serbian youth understood about politics that their counterparts elsewhere i
 ## Vucic’s Reign Is Over
 A student-led grassroots movement in Serbia will replace one of Europe’s staunchest populists.
 
-## Lula Defies Latin America’s Pro-Trump Wave
-Brazil’s left-wing president won a historic fourth term in office.
+## China Pulls Out of Logistics Hub Project at Colombo Port
+Given international developments, geopolitical rivalries, and the expertise needed to develop a logistics center, finding a replacement investor will be difficult.
 
-## China’s Overcapacity Has a Mind of Its Own
-Beijing can’t rein in its own industrial machine.
+## The ASEAN-India Trade Agreement and Its Discontents
+The myth of the ASEAN FTA as a bad deal is costing India diplomatically.
 
-## America’s Least Bad Option in Iran
-Why staying the course is the most prudent of Washington’s three unsavory choices.
+## Togo’s China Pivot: Building a Strategic Gateway to the Sahel
+Lomé’s maritime ambitions, deepening ties with Beijing, and growing coordination with the AES could reshape West Africa’s trade and geopolitical architecture
 
-## Could Victory for Netanyahu Mean Mass Emigration?
-Nearly one-fifth of Israeli voters are already considering leaving the country.
+## Arakan Army Firms Up Relocation Plan For Villages on Bangladesh-Myanmar Border
 
-## How the 1966 Midterm Elections Presage 2026
-Republicans successfully connected wartime spending to the rising price of pork chops.
+
+## Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct
+Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.
+
+## Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim
+Over the past few years, the country’s military has received hundreds of thousands of barrels of aviation fuel from Iran’s large tanker “shadow fleet.”
 
 ## Malaysia’s 2027 Budget: Fiscal Consolidation Continues Apace
 Unlike most of its ASEAN counterparts, Malaysia can look forward to strong growth, increased state revenue, and shrinking deficits in 2027.
 
 ## Indonesia Announces New Measures to Improve Stock Market Transparency
 The global index provider MSCI has threatened to downgrade the country to "standalone market" status, potentially triggering billions of dollars in capital outflows.
-
-## ‘We Have Friends, No Enemies’: Timor-Leste’s First Year in ASEAN
-Dili will seek to "ensure that ASEAN’s principles work together in support of peace and the well-being of its peoples," says the country's vice minister for ASEAN affairs.
-
-## The 2026 US Midterm Elections: Ramifications for Australia
-From AUKUS to trade, for Australia, the implications of the midterms are particularly profound.
-
-## Will There Be a Putin-Trump-Xi Summit?
-If so, to what end? Panda and Putz discuss on the latest episode of the Asia Geopolitics podcast.
-
-## Taiwan-Vatican Ties: The Dynamic Interplay Under Pope Leo XIV
-Regardless of the Sino-Vatican agreement, the practical, multifaceted ties between Taiwan and the Holy See have deepened over the past year.
-
-## Uzbekistan Wants Out of the Iran-US Social Media War
-Tashkent summoned the Iranian ambassador to lodge a protest regarding social media posts by Iranian diplomatic missions.
-
-## Beyond the Pukpuk Treaty, Australia’s Strategic Footprint in PNG Grows
-In the wake of the Pukpuk Treaty, Australia and PNG continued to deepen relations with a new rotation planned, defense infrastructure investment, and expanded ADF recruitment.
 
 ## The Machine Staff
 At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tacti
@@ -228,29 +228,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK prosecutors charge two after RAF Fairford incident
-This is a breaking news story.
+## Cyclone Arnab batters India’s east coast
+Heavy rains and coastal floodings hit India’s east coast on Tuesday as cyclone Arnab is making landfall.
 
-## Cruise ship crashes into two container ships during storm
-A captain whose cruise liner collided with container ships in strong winds is being investigated by German police.
+## Israeli military detains Egyptian national who crossed border
+Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.
 
-## Israelis begin voting as Netanyahu fights for political survival
-Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.
+## Hegseth heads to Manila to shore up US ties with Asia-Pacific partners
+The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.
 
-## Drone strike kills at least 21 and injures 40 in Sudan’s Nyala
-A resident says the attack took place on Monday evening at a market in the north of Nyala city in the Darfur region.
+## Carrick stays on as Manchester United manager for crucial Chelsea match
+Carrick will be in charge of football's Man United when they visit Chelsea on October 31, reports in British media say.
 
-## India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears
-The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.
+## Sudan’s war steals children’s future with school closures and displacement
+The conflict in Sudan has left millions of children without education, as they work to help their families.
 
-## Qatar’s path to defence autonomy
-Qatar needs a strategy built on national resilience and diversified security guarantees.
+## King Charles’s Caribbean tour: Will he discuss slavery reparations?
+UK's King Charles launches nine-day Caribbean tour amid monarchy questions and growing demands for slavery reparations.
 
-## Wales first minister : ‘We’re within a union that is not a union of equals’
-Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.
+## Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin
+Strikes hit a major bridge in the Ukrainian capital as leaders push for 'direct discussions' to end the war.
 
-## US, EU and 30 countries warn of famine risk in Sudan, call for aid
-Countries also urge Sudan's warring parties to 'lift all impediments on humanitarian assistance'.
+## Lebanon’s lost olive season: harvesting olives under drones and warplanes
+Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.
+
+## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
+Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
 
 ## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
 Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
@@ -273,8 +276,8 @@ The corporate affairs ministry has extended the deadlines for submitting annual 
 ## India Inc's succession Dilemma
 Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
 
-## How CFOs can prepare Indian businesses for a more volatile global economy
-For Indian businesses, volatility is no longer an occasional disruption to an otherwise stable plan. A rise in oil prices leads to depreciation of rupee which leads to inflationary cycle. Cycle has two fold impact one on consumer spending (generating demand) and other one on input costs ( like incre
+## GAMP Services Limited Files DRHP with SEBI for Proposed IPO
+New Delhi [India], GAMP Services Limited, an integrated validation, qualification, compliance consulting and engineering solutions company catering primarily to regulated life sciences, pharmaceutical and high-tech industries, has filed its Draft Red Herring Prospectus (DRHP) with the Securities and
 
 ## RBI steps up liquidity support as tighter cash conditions push up borrowing rates: Report
 Tightening liquidity in the banking system has pushed up short-term borrowing rates, prompting the Reserve Bank of India (RBI) to inject funds into banks, according to an ICICI Bank report. Meanwhile, rising oil prices and concerns over inflation are putting pressure on government bond yields. The r
@@ -296,7 +299,4 @@ SEBI is exploring a proposal to allow Real Estate Investment Trusts (REITs) and 
 
 ## RBI rejects all 224 bids in T-bill auctions
 The recent treasury bill auctions on Wednesday saw the RBI reject all 224 bids, primarily due to constricted funds within the financial system. With government cash reserves hitting approximately ₹5.3 lakh crore, the central bank wasn't inclined to accept elevated bids.
-
-## Why is the RBI pulling liquidity out of banks and injecting it back again?
-Reserve Bank of India has significantly reduced banking system liquidity from a peak surplus in a short time. Liquidity surged after banks received funds from overseas Indians under the FCNR(B) scheme. The central bank utilized reverse repo auctions and cash reserve ratio adjustments to absorb this 
 
