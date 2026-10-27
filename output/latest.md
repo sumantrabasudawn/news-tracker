@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## India moves to tweak jobs data
+Also, multinationals face more pressure from food safety regulator
+
+## Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’
+US president casts doubt on integrity of election result over extension of voting hours
+
+## Channel 4 strikes streaming deal with Disney
+Agreement comes as linear broadcasters struggle to compete with US media giants
+
 ## England captain Harry Kane wins Ballon d’Or
 Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years
 
@@ -7,7 +16,7 @@ Bayern Munich forward recognised as world’s best-performing footballer — the
 Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge
 
 ## US charges ex-FBI chief James Comey for third time
-Former official is charged with disclosing national defence information in latest case brought by the Trump administration
+Former official accused of disclosing national defence information in latest case brought by Trump administration
 
 ## EU loan to Airbus threatens trade truce with US, Trump trade official warns
 Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal
@@ -17,9 +26,6 @@ Chancellor set to offer limited giveaways to ease cost of living and help for fi
 
 ## UK needs more powers to intervene when telecoms providers fail, minister says
 Lisa Nandy tells MPs she is concerned about the sector’s ‘financial fragility’ in the wake of broadband provider TalkTalk’s near-collapse
-
-## Trump offers $1mn reward for tips leading to election fraud conviction
-US president offers payout days before midterm vote that will shape balance of power in Congress
 
 ## FirstFT: Anthropic unveils long-awaited IPO prospectus
 Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns
@@ -33,83 +39,83 @@ Tech giant moves to control costs and it spends up to $175bn on AI infrastructur
 ## DWS to honour just 10% of redemption requests at flagship property fund
 Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogether
 
-## ‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing
-Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure
+## New UNSC permanent members without veto would be 'second-class': India
+India says the veto must be held by all permanent members of a reformed Council as long as the provision exists
 
-## Why you shouldn’t bother reading the Anthropic IPO filing
-Valuing AI lab based on its historic reported numbers is a fool’s errand
+## Anthropic's potential mega IPO joins ranks of world's biggest listings
+The listing could become one of the largest debuts ever, reshaping benchmarks, investor flows, and the broader US equity narrative
 
-## Tata Motors' Iveco takeover bid clears 80 pc acceptance threshold
-Touches 87.8 per cent on ‌the ‌last ⁠day of ⁠the offer
+## Sensex today | Stock Market Live: Nifty 50, Sensex seen opening flat amid positive Asian markets
+Sensex, Nifty, Share Prices Live: Gift Nifty is ruling at 22,760 with respect to Nifty futures closing of 22,774 on the NSE. Key results will anchor today’s movement
 
-## Noel Tata seeks record of Tata Sons September 17 board meet
-Tata requested records in a letter to the company secretary, Suprakash Mukhopadhyay, on Monday. The letter was copied to other board members of Tata Sons
+## Q2 Results Today Live: L&T, Maruti Suzuki, Bajaj Auto, Tata Steel, Cipla, Vedanta Iron, Waaree Energies, Mazagon Dock, ACC, SAIL, SBI Life, Tata Capital, Star Health, Honeywell Automation, ABDL to announce Q2 results, Tata Consumer, Ather, Paytm, Dalmia, BOM, IOB, TMB, KFin Tech, Nazara shares in focus
+Stay tuned to businessline for more business, financial and stock market news.
 
-## Inflows into gold ETFs turned negative after 13 weeks as the yellow metal fell 4% last week
-US investors show the way as exits top $3 billion, while investments were $1.8 billion
+## Paytm Q2 FY27 profit rises over 10-fold to ₹225 crore; revenue grows 28% to ₹2,648 crore
+EBITDA increased 90% y-o-y to ₹270 crore, its highest ever for a quarter, with the EBITDA margin expanding to 10%, reaching double digits for the first time
 
-## Indian Overseas Bank Q2 net surges 56% on strong interest income growth
-Lender eyes $500 million ECB funding by December
+## EC defends SIR in SC, says Form 6 unchanged, justifies documentation framework
+In a counter affidavit, the poll body sought summary dismissal of the petitions and called the allegations ‘misconceived’ which rested on a single newspaper report
 
-## FCNR(B) rush squeezes margins; private banks feel more heat than PSU peers
-Private banks raise FCNR(B) at 7.5-10% of deposits versus 2-2.5% for PSUs
+## Trump offers $1 million for tipoffs that lead to voter fraud convictions
+Offer comes a week before midterms as Republicans face difficult polls and low approval over living costs and Iran war fuel prices
 
-## TSF Investments’ Board approves sale of 3.7% stake in TVS Holdings
-The approval is for selling the stake to existing members of the Promoter and Promoter Group of TVS Holdings Ltd,
+## Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking
+Reports of the problem first surfaced on Reddit and other social media sites
 
-## Ather Energy shares jump 14% as EV maker posts Q2 profit, plans capacity expansion
-The company reported a consolidated profit after tax (PAT) of ₹1.26 crore in Q2, compared with a loss of ₹154 crore in the year-ago period.=
-
-## Almost half of domestic coal-based power plants have critical stocks
-Electricity demand surged 23.4% year-on-year in the first 10 days of October, adding pressure on coal inventories
-
-## Businesses require simpler procedures, greater freedom in Europe: Goyal
+## Sensex, Nifty likely to open lower as oil stays near six-month high
 
 
-## Noel challenges Chandrasekaran’s reappointment
+## Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs
+Oil prices have seen a decline amid diplomatic dialogues aimed at easing Middle Eastern tensions. A meeting between Saudi Arabia, Turkey, Pakistan, and Iranian officials focused on achieving peace and stability. However, worries linger over the safety of shipping in the Strait of Hormuz, due to esca
+
+## Meta seeks up to $95bn in equity
 
 
-## Two new Vande Bharat Sleeper trains to launch soon: Routes, timings, fares and more
-Indian Railways is gearing up to introduce two innovative Vande Bharat Sleeper services, enhancing connectivity between major urban centers. The new Mumbai-Bengaluru route promises to shorten travel times, making it ideal for commuters and tourists. Additionally, the Varanasi-New Delhi service aims 
-
-## Jio Platforms IPO allotment likely today: How to check, subscription details, GMP & listing date
-Jio Platforms' initial public offering made waves with an unprecedented subscription rate, with allotment results to be finalized on Monday. The IPO opened from October 21 to October 23, garnering an impressive 22.19 times overall subscription. Approximately 1.3 crore applicants participated, leadin
-
-## Middle East conflict may end, but energy crisis will drag on: IEA chief explains
-Oil prices have surged towards $120 a barrel amid concerns over market stability and supply disruptions. The International Energy Agency's director emphasizes the need for energy security as uncertainty looms. As winter approaches, demand for refined products, especially diesel, is expected to rise 
-
-## E100 cars get regulatory green light ahead of planned launches
-The government has amended the Central Motor Vehicles Rules to facilitate the registration of flex-fuel vehicles capable of running on 85% to 100% ethanol blended petrol. As car manufacturers gear up to introduce their E100 models soon, this initiative promises to lessen emissions and curb reliance 
-
-## Stock market today: NSE Nifty50 nears 22,400 mark, BSE Sensex trades flat
+## Come clean on UAE assets, taxpayers told
 
 
-## Bank holiday on Valmiki Jayanti: Will banks remain shut on October 26? Check list
-As October unfolds, India's vibrant festival season translates into various state-specific bank holidays. On October 26, banking services will pause in Tripura, Chandigarh, Jammu and Kashmir, and Himachal Pradesh. Important dates approaching include Karva Chauth on October 29 and Sardar Vallabhbhai 
+## Tata Motor’s Iveco takeover bid clears 80% threshold
 
-## Supreme Court Collegium recommends chief justices for Delhi, Gujarat, Telangana and Uttarakhand high courts
-Supreme Court Collegium recommends four judges as chief justices of Delhi, Gujarat, Telangana and Uttarakhand high courts.
 
-## Andhra, Odisha brace for Cyclone Arnab; 15 NDRF teams deployed ahead of landfall, 3000 pregnant women under watch
-The Konaseema–Yanam–Kakinada coastal belt is among the areas being closely monitored for a possible landfall.
+## Paytm net profit rises over 10-fold to Rs 225cr in Q2
 
-## Police custody of 4 accused in Tiger Shroff shooting case extended till October 28, cops to verify phone data
-Police told the court two pistols and cartridges used in the commission of the crime have been recovered, adding the four had full knowledge of the conspiracy.
 
-## SIT formed to probe accident involving vehicles in Rahul Gandhi’s convoy on UP expressway
-The police headquarters has directed the SIT to conduct a comprehensive inquiry into all aspects of the incident and submit a detailed report at the earliest.
+## Insurance benefit for cargo extended
 
-## ECI suspends six officers in UP, orders action against 21 others over MLC poll lapses
-The commission also removed IAS officer Abhay from his role as observer for the biennial election to the Gorakhpur-Faizabad Division Teachers’ Constituency.
 
-## Ray-Ban heir Leonardo Del Vecchio seeks to buy Italian newspaper critical of him, owners reject offer
-The publication’s seven founding shareholders, including editor-in-chief Marco Travaglio, said that they had no intention of selling.
+## FDI inflows up 68% in Aug, seen topping $100bn in FY27
 
-## Cyclone Arnab: Andaman and Nicobar schools shut till Tuesday
-It ordered all schools to remain closed for students on October 26 and 27 and advised people to remain highly vigilant about developments in the weather system.
 
-## Four shot dead at hotel in Assam’s Guwahati, police fear more casualties
-Four people were reportedly shot dead at Hotel Bilas Inn in Guwahati’s Bora Service area on Monday evening, October 26.
+## Survey of unincorporated enterprises to expand, shift to financial-year cycle from 2027
+The proposed changes follow consultations with stakeholder ministries, data users expert groups, and an assessment of emerging information requirements.
+
+## Delhi Police revamps website, adds emergency contact widget, section for legal updates
+One of the prominent additions is a widget for emergency numbers, allowing visitors to click and access important helpline numbers when they need police assistance or other emergency services
+
+## 17 convicts escape Tamil Nadu jail after staging epilepsy ruse
+At around 11:20 pm on Monday, police received information from the prison authorities that a jailbreak had occurred, said IGP South Zone Vijayendra S Bidari.
+
+## HT Morning Brief October 27: India calls for veto powers for UNSC members; Trump's Brazil election 'rigged' claim and more
+India's Permanent Representative to the UN said that the privilege of the veto carries an immense burden of responsibility that requires restraint.
+
+## Lok Sabha speaker Om Birla urges Brics parliaments to turn dialogue into concrete outcomes
+The two-day forum will focus on resilience, innovation, cooperation and sustainability amid geopolitical and economic uncertainty.
+
+## MCD to procure 98,500 vials of anti-rabies vaccine
+The procurement of 98,500 vials, approved on Monday, is part of the MCD’s plan to acquire 1.20 lakh anti-rabies vaccine vials over the next two years
+
+## Ankita Bhandari murder case: CBI summons journalist, main petitioner for questioning
+CBI, in its summon to Ashutosh Negi, said that “there are reasonable grounds to question you to ascertain facts and circumstances from you”
+
+## Very severe cyclonic storm Arnab LIVE: Landfall likely tomorrow at Andhra coast; schools shut, trains cancelled
+Cyclone Arnab LIVE: Heavy to very heavy rainfall is likely over Coastal Andhra Pradesh and Yanam on October 27 and 28, Odisha on October 28, Chhattisgarh on October 28 and 29, and East Uttar Pradesh on October 29.
+
+## Hong Kong market faces fundraising test after fourth IPO pulled since midyear
+Hong Kong’s fundraising market is now facing a severe test, as the last-minute halt of two initial public offerings (IPOs) within a week raises concerns over investor appetite amid market volatility and stricter regulation, analysts say. Robotics maker Changzhou Microintelligence decided to postpone
+
+## China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies
+China has granted new autonomous-driving permission to electric vehicle (EV) maker Xpeng and a mainland joint venture of Volkswagen, intensifying the commercialisation race between China’s autonomous driving firms and US company Tesla. Xpeng would now be allowed to conduct “demonstration operations”
 
 ## How Shimao’s sale of 2 hotels reveals the growing complexity of Hong Kong debt workouts
 The HK$2.7 billion (US$344 million) sale of two Shimao Group hotels in Hong Kong leaves an estimated HK$1.8 billion shortfall against their secured loans. Still, receivers managed to squeeze out improved bids in the final stages, with all shortlisted parties improving their offers, said Una Ge, a ma
@@ -128,12 +134,6 @@ The Hong Kong Securities and Futures Commission (SFC) on Monday approved the wor
 
 ## From bright ideas to real businesses: women entrepreneurs make their mark in Shenzhen
 [The content of this article has been produced by our advertising partner.] From AI-powered mental health screening to beer brewed from surplus bread, women entrepreneurs at the Standard Chartered Women’s International Network (SC WIN) Now & Next Challenge in Shenzhen demonstrated how innovation can
-
-## Could new US investment curbs complicate China’s biotech licensing surge?
-Chinese biotech firms face fresh headwinds in their global expansion as Washington’s proposed outbound investment restrictions threaten to disrupt deal structures, even though drug licensing agreements remain untouched for now, analysts say. The US Treasury Department’s draft rules released last wee
-
-## Top bankers to gather in Hong Kong to learn how city has rethought ‘playbook’
-Around 280 of the world’s top bankers, including 120 group chairmen and CEOs, will gather in Hong Kong next week to learn how the city has been rethinking its playbook as it moves forward, Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue Wai-man said on Monday. This year’s summit will h
 
 ## Serbia’s Student Protesters Deserve a Nobel Prize
 What Serbian youth understood about politics that their counterparts elsewhere in the West haven’t.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mass brawl between Galatasaray and Fenerbahce after Istanbul derby
-A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.
+## Ex-FBI chief Comey defiant in the face of third prosecution
+Ex-FBI Director James Comey denies US Justice Department's new charges.
 
-## Former FBI director James Comey hit with third set of charges under Trump
-Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information
+## Moroccan police intercept migrant swimming back towards Ceuta
+Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta
 
-## Africa food security under threat due to Iran war, trade officials warn
-The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+## Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect
+The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.
 
-## What will Lula’s fourth term mean for Brazil?
-Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?
+## Trump suggests renaming the Atlantic Ocean the ‘American Ocean’
+US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.
 
-## US court rules daughter of Trump critic James Comey was illegally fired
-Maurene Comey had argued that she was fired because her father, former FBI chief James Comey, was target of Trump's ire.
+## Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’
+Trump pushes unsubstantiated claims about Brazil's presidential vote but says he 'didn't take sides' in the race.
 
-## Palestinian children crawl under Israeli military gates to get to school
-Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.
+## Harry Kane wins Ballon d’Or, ending England’s 25-year wait
+Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.
 
-## Huge explosion at a weapons depot in Syria
-Huge explosion at a weapons depot in Syria
+## Serbia’s ‘students’ celebrate for a second night after election victory
+Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement's victory.
 
-## What Vucic’s defeat means for Serbia’s foreign policy
-Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues.
+## US court rules against Trump administration in California voting case
+US appeals court blocks government effort to stop California from tabulating ballots from list of alleged non-citizens.
 
 ## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
 Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
