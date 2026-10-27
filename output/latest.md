@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil
-Defeated rightwing presidential candidate is under investigation by federal police over alleged corruption and money laundering
+## No clear winner in Israeli parliamentary election, exit polls suggest
+Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys
+
+## Healey puts UK energy reform at centre of his ‘do no harm’ Budget
+Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’
+
+## Healey to reverse cuts to cash Isa allowance
+Chancellor will use Wednesday’s Budget to maintain tax-free limit at £20,000 a year, reversing plan by predecessor Rachel Reeves
+
+## FirstFT: Israeli exit polls show no clear winner in parliamentary election
+Also in today’s newsletter: US and Russia discuss potential oil deals and law firm Weil prepares for possible wind-down
+
+## Washington to issue Flávio Bolsonaro US visa after election loss
+Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering
+
+## Tech stocks gain as AI trade revives
+Wall Street rises as tech industry reports third-quarter earnings
 
 ## Israel election turnout highest in decades
 First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest
@@ -9,32 +24,14 @@ First vote since October 7 2023 attack pits Netanyahu’s far-right coalition ag
 ## Washington discusses Russian deals for US oil majors in Ukraine peace talks
 White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table
 
-## Putin lectures Nordic leaders on Russian history
-Russia’s leader goes on extended tangent in call with western European leaders as they seek to revive Ukraine peace talks
+## UK aims to establish if Poundland owners are trying to force its collapse
+Business secretary wants to know whether Gordon Brothers is unnecessarily seeking to push discount group into administration
 
-## UK government quietly axes more than two dozen new road schemes
-Cost-saving move raises questions about commitment to regional growth just as Andy Burnham pushes devolution as way to kick-start economy
-
-## Britain is trying to cut its deficit quickly — can it do it mainly through tax rises?
-Economists warn ahead of chancellor John Healey’s first Budget that the UK must also exercise spending restraint
-
-## Boeing shares slump as planemaker cuts 737 jet delivery target
-Stock falls 10% after chief executive Kelly Ortberg admits group is behind schedule in production of airliner
-
-## Australia’s drive to transform economy with data centres, aerospace — and meat pies
-Labor government’s National Reconstruction Fund posts 7.7% rate of return in its second year
+## How much is Anthropic really worth?
+Anthropic’s initial public offering is shaping up to be the largest ever.
 
 ## Elite consulting firms raise starting salaries for first time since 2022
 McKinsey, BCG and Bain have boosted offers for candidates as jobs market heats up
-
-## Law firm Weil prepares for possible wind-down as crisis deepens
-Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity
-
-## Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems
-Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus
-
-## Tech stocks gain as AI trade revives
-Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing
 
 ## Amazon wins FCC approval for $11.5 billion Globalstar acquisition to challenge Starlink
 The approval strengthens Amazon’s plans for satellite broadband and direct-to-device connectivity as technology companies compete for a growing market
@@ -57,8 +54,8 @@ The Mumbai-based pharmaceutical company recorded higher operating revenue during
 ## India could have achieved over 8% GDP growth without external shocks: RBI Deputy Governor
 Poonam Gupta highlighted domestic investment, foreign capital and economic resilience as key factors shaping India’s growth prospects amid global uncertainty.
 
-## Aluminium futures face a resistance
-Traders can consider short positions
+## Bajaj Auto faces drought squeeze, eyes Japan entry through KTM
+Bajaj Auto is balancing weaker demand among price-sensitive buyers with international expansion prospects as its Austrian partner recovers from financial distress
 
 ## India-US trade portal sees 3,500 registrations within months of launch, says Piyush Goyal
 The recently launched India-US Trade Facilitation Portal has quickly attracted around 3,500 registrations, demonstrating its strong appeal. Designed particularly for Indian exporters, including MSMEs and newcomers, this platform enables users to present their products and discover potential business
@@ -84,7 +81,7 @@ Oil prices have seen a decline amid diplomatic dialogues aimed at easing Middle 
 ## Insurance benefit for cargo extended
 
 
-## Cyclone Arnab makes landfall along Andhra Pradesh coast, triggers heavy rain and strong winds
+## Cyclone Arnab starts landfall process along Andhra Pradesh coast, triggers heavy rain and strong winds
 Authorities remain on high alert as rescue and relief teams continue to take precautionary measures to minimise the impact of the severe cyclonic storm.
 
 ## Civil aviation ministry holds fog preparedness meeting for upcoming winter season
@@ -108,6 +105,9 @@ The Madras High Court said Vijay was not asked to convert to Hinduism, only to a
 ## Andhra govt fully geared up for Cyclone Arnab, 84,000 evacuated to safer places: CM Naidu
 The cyclone is expected to affect a large stretch of the Andhra Pradesh coastline, with heavy rainfall and strong winds forecast in several coastal districts.
 
+## How Hong Kong went from a yuan gateway to a complete currency ecosystem
+In September, Chief Executive John Lee Ka-chiu unveiled the city’s first five-year plan along with his policy address, highlighting Hong Kong’s strategic role in promoting the greater use of the yuan outside mainland China as a key priority. In the second part of a four-part series on the globalisat
+
 ## China hands former regulator suspended death sentence over US$65m bribery charge
 A former high-ranking official with China’s securities regulator was sentenced to death with a two-year reprieve on Tuesday over bribery charges, as Beijing continues its sweeping anti-corruption campaign. Wang Huimin, who served as a member of the Communist Party committee of the China Securities R
 
@@ -129,8 +129,17 @@ The relatively swift recovery of Hong Kong’s grade A office market has spurred
 ## ‘Depth and breadth’, strong liquidity anchor China stock outlook: JPMAM
 Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally across Asia, but J.P. Morgan Asset Management remained “structurally very positive” on both markets, according to a senior executive at the firm. Chinese markets offered “a lot of depth and breadth” and ample liquidity 
 
-## Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens
-Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over its promotional practices and cybersecurity measures. “We’re sorry for the rate l
+## Why Party Plenums Matter So Much to Xi
+The Chinese leader is deeply reliant on formal mechanisms of power.
+
+## Decoding Israel’s Election Results
+Exit polls show no clear winner, with Eisenkot’s opposition bloc slightly ahead of Netanyahu’s.
+
+## Trump’s Tariffs Will Have Another Day in Court
+The administration has lost five trade cases in a row, and it’s set to potentially notch another loss.
+
+## Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted
+Eisenkot’s centrist bloc takes lead in exit polls.
 
 ## Is Israel a Good Ally?
 A new book details how the country slayed Washington’s foes.
@@ -144,17 +153,14 @@ Polling shows the president’s policies are deeply unpopular.
 ## A Papal ‘Homecoming’
 Pope Leo XIV is proceeding with a trip to Latin America despite his cancer diagnosis.
 
-## The Global Push to Keep Kids Off Social Media
-From age verification to time limits, more than 60 countries have embraced online restrictions.
+## Japan Confirms Dispatch to India to Explore Anti-Ship Missile Drills
+Discussions highlight the training challenges posed by Japan’s expanding arsenal and opportunities for closer defense cooperation with New Delhi.
 
-## China Is Building Its Way Around Europe’s EV Tariffs
-Beijing’s evolving industrial playbook is taking shape in Morocco.
+## The Future of India-Israel Ties After Israel’s Election
+The election may change the political setting in which India-Israel relations operate, but it is unlikely to erase the interests and institutional links that sustain them.
 
-## China Takes Its Lawfare to Sea
-Beijing is making life difficult for Panamanian ships, and others could be next.
-
-## Serbia’s Student Protesters Deserve a Nobel Prize
-What Serbian youth understood about politics that their counterparts elsewhere in the West haven’t.
+## China Is Learning to Sell Japanese Culture Better Than Japan
+In much of the world, Chinese firms introduced local consumers to Japanese aesthetics. Now, they are ready to sell Japanese culture back to Japan itself.
 
 ## China Pulls Out of Logistics Hub Project at Colombo Port
 Given international developments, geopolitical rivalries, and the expertise needed to develop a logistics center, finding a replacement investor will be difficult.
@@ -166,19 +172,10 @@ The myth of the ASEAN FTA as a bad deal is costing India diplomatically.
 Lomé’s maritime ambitions, deepening ties with Beijing, and growing coordination with the AES could reshape West Africa’s trade and geopolitical architecture
 
 ## Arakan Army Firms Up Relocation Plan For Villages on Bangladesh-Myanmar Border
-
+Under pressure from ARSA and the Myanmar military, the AA is looking to simply move vulnerable villagers to new locations.
 
 ## Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct
 Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.
-
-## Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim
-Over the past few years, the country’s military has received hundreds of thousands of barrels of aviation fuel from Iran’s large tanker “shadow fleet.”
-
-## Malaysia’s 2027 Budget: Fiscal Consolidation Continues Apace
-Unlike most of its ASEAN counterparts, Malaysia can look forward to strong growth, increased state revenue, and shrinking deficits in 2027.
-
-## Indonesia Announces New Measures to Improve Stock Market Transparency
-The global index provider MSCI has threatened to downgrade the country to "standalone market" status, potentially triggering billions of dollars in capital outflows.
 
 ## The Machine Staff
 At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tacti
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike
-Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.
+## Gaza’s women filmmakers turn pain into cinema as new academy launches
+Gaza film festival highlights women's resilience through stories of war, loss and survival.
 
-## Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict
-Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.
+## President Lula calls Bolsonaro’s Brazil exit ‘shameful’
+President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.
 
-## Israel election results live: No clear winner – first TV exit polls
-High turnout in vote widely described as the most consequential in Israel's history.
+## A bad day for Ben-Gvir as he addresses his supporters
+Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
 
-## US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong
-US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.
+## No clear mandate projected in Israel election: What’s next?
+President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.
 
-## Trump says he’ll respect US midterm results if elections are ‘honest’
-US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’.
+## Smotrich dances in Israel despite far-right decline
+Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.
 
-## Deadly tornado strikes construction site in Turkiye
-Deadly tornado strikes construction site in Turkiye
+## Arab towns in Israel celebrate historic Knesset gains with fireworks
+Celebrations erupted in Lod, Kafr Manda and Tayibe after Israeli media exit polls projected a combined 18 Knesset seats
 
-## Russia jails IT worker for 13 years for donating money to Ukraine
-Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.
+## ‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election
+Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.
 
-## Rain brings temporary relief as Southeast Asia battles fires and toxic haze
-Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn
+## Iran war live: Pezeshkian says Middle East can solve own issues without US
+Iranian president's words came at summit for gas exporting countries in Russia.
 
 ## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
 Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
