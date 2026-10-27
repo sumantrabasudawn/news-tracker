@@ -1,64 +1,64 @@
 # AION Intelligence
 
-## Israel turnout highest since 1973 in historic election
+## Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil
+Defeated rightwing presidential candidate is under investigation by federal police over alleged corruption and money laundering
+
+## Israel election turnout highest in decades
 First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest
 
-## Iran threatens South Korean shipping group over Hormuz transits
-Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action
+## Washington discusses Russian deals for US oil majors in Ukraine peace talks
+White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table
 
-## Putin speaks with Norwegian and Finnish leaders
-Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks
+## Putin lectures Nordic leaders on Russian history
+Russia’s leader goes on extended tangent in call with western European leaders as they seek to revive Ukraine peace talks
 
-## Egypt shuts down one of the country’s last independent news outlets
-Civil society groups decry move against Mada Masr and editor-in-chief Lina Atallah
+## UK government quietly axes more than two dozen new road schemes
+Cost-saving move raises questions about commitment to regional growth just as Andy Burnham pushes devolution as way to kick-start economy
 
-## GM to switch listing from NYSE to Nasdaq as it accelerates AI push
-Move marks another blow for Big Board as tech-focused rival attracts some of world’s most valuable companies
+## Britain is trying to cut its deficit quickly — can it do it mainly through tax rises?
+Economists warn ahead of chancellor John Healey’s first Budget that the UK must also exercise spending restraint
 
-## Pop Mart sales fall up to 50% as Labubu fever ebbs
-Chinese maker of hit doll posts sinking quarterly revenues as demand wanes
+## Boeing shares slump as planemaker cuts 737 jet delivery target
+Stock falls 10% after chief executive Kelly Ortberg admits group is behind schedule in production of airliner
 
-## Two British men charged over plot at RAF Fairford
-Mohmed Abdulkarim and Nouman Essghir both charged under National Security Act
+## Australia’s drive to transform economy with data centres, aerospace — and meat pies
+Labor government’s National Reconstruction Fund posts 7.7% rate of return in its second year
+
+## Elite consulting firms raise starting salaries for first time since 2022
+McKinsey, BCG and Bain have boosted offers for candidates as jobs market heats up
+
+## Law firm Weil prepares for possible wind-down as crisis deepens
+Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity
+
+## Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems
+Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus
 
 ## Tech stocks gain as AI trade revives
 Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing
 
-## Novartis takes $1.9bn writedown on key drug after blockbuster Avidity acquisition
-Swiss drugmaker raises profit outlook despite impairment charge on rare-disease medicine
+## Amazon wins FCC approval for $11.5 billion Globalstar acquisition to challenge Starlink
+The approval strengthens Amazon’s plans for satellite broadband and direct-to-device connectivity as technology companies compete for a growing market
 
-## Anthropic and the AI cluster effect in fundraising
-$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect
+## Scientists discover first known fully marine amphibian that lived 237 million years ago
+Two nearly complete skeletons discovered in China reveal how an unusual armoured amphibian adapted to marine life during the Triassic Period
 
-## EY defies consulting downturn to pay UK partners record £870,000
-Firm axes partners and reduces promotions to protect pay for top ranks
+## Flavio Bolsonaro leaves Brazil for US after election defeat and passport order
+The senator’s departure comes amid a money laundering probe and uncertainty over how he travelled abroad despite a Supreme Court deadline
 
-## Three Russian diesel tankers steam for US — including two under sanctions
-Trump deal with Putin to ease fuel prices exposes companies to legal threats from Congress
+## Trump vows to respect midterm election results, warns of veto if needed
+The November 3 polls will determine control of Congress, with economic concerns and voter turnout emerging as key factors shaping the contest
 
-## Finance Ministry sets Nov 1 to implement simplified post-sale discount rules, 90% provisional refunds for IDS
-A key change is related to post-supply discounts
+## Delhi may raise agricultural land circle rates to ₹5 crore per acre
+The proposed changes seek to bridge the gap between official land valuations and market prices across Delhi’s districts and localities
 
-## CoinDCX flags a phishing attack, days after confirming a compromised wallet
-It stressed that the exchange will never ask users to share private keys or seed phrases, ask for OTP, send links to withdraw funds
+## Piramal Pharma swings to ₹5 crore profit in Q2 as revenue rises 28%
+The Mumbai-based pharmaceutical company recorded higher operating revenue during the quarter, while its total expenses also increased year-on-year
 
-## AP Govt fully prepared to tackle Cyclone Arnab: CM Naidu
-The cyclone is likely to affect the region from Srikakulam to Bapatla. The cyclone is likely to cross the coast near Yanam, close to Kakinada.
+## India could have achieved over 8% GDP growth without external shocks: RBI Deputy Governor
+Poonam Gupta highlighted domestic investment, foreign capital and economic resilience as key factors shaping India’s growth prospects amid global uncertainty.
 
-## RBI Governor urges States to onboard onto ULI, utilise Programmable CBDC for Direct Benefit Transfers
-RBI Governor Sanjay Malhotra urged states to adopt UPI-linked lending, leverage CBDC for direct transfers, and strengthen fiscal health nationwide
-
-## Voluntary buyouts offer Big Tech an alternative to layoffs
-Experts say buyouts offer a relatively graceful way to reset costs, remove unnecessary layers, and redirect investments
-
-## Venu Srinivasan family members file cross-caveats
-Mother and daughter reiterate amicable settlement
-
-## Delhi–Haridwar road link to open in two months: Gadkari
-Gadkari said improved road connectivity to religious destinations would help boost tourist arrivals and create jobs.
-
-## MSME, unsecured retail stress to lift bank NPAs in FY27
-Indian banks in India are set to see a modest rise in fresh non-performing assets in FY27
+## Aluminium futures face a resistance
+Traders can consider short positions
 
 ## India-US trade portal sees 3,500 registrations within months of launch, says Piyush Goyal
 The recently launched India-US Trade Facilitation Portal has quickly attracted around 3,500 registrations, demonstrating its strong appeal. Designed particularly for Indian exporters, including MSMEs and newcomers, this platform enables users to present their products and discover potential business
@@ -84,29 +84,29 @@ Oil prices have seen a decline amid diplomatic dialogues aimed at easing Middle 
 ## Insurance benefit for cargo extended
 
 
-## Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute
-The firing incident happened near Hotel Bilas Inn in Guwahati’s Bora Service area on Monday evening.
+## Cyclone Arnab makes landfall along Andhra Pradesh coast, triggers heavy rain and strong winds
+Authorities remain on high alert as rescue and relief teams continue to take precautionary measures to minimise the impact of the severe cyclonic storm.
 
-## 'What if someone falls ill?': Delhi's non-BS VI vehicle ban from November 1 leaves Noida commuters worried
-Data from the Noida transport department showed that Noida and Greater Noida had 9.7 lakh registered petrol and 1.3 lakh diesel vehicles as of October 27
+## Civil aviation ministry holds fog preparedness meeting for upcoming winter season
+The civil aviation ministry reviewed winter fog preparedness for Dec 15-Feb 15, 2027, directing airlines and airports to ensure flight safety.
 
-## Chaos at Mumbai airport after network glitch, IndiGo and Air India flight operations affected
-Teams are working to resolve the issue, while all systems have been switched to manual mode as a precautionary measure.
+## Traffic restrictions near Chandni Chowk on October 28 ahead of proposed rally
+Traffic restrictions and diversions will be in effect in central Delhi on Wednesday, October 28, from 3 pm to 5 pm for a rally expected to draw 10,000 people.
 
-## Two accused shot dead in separate police encounters in Bengal in a day
-Two men accused in separate cases were killed in police encounters in West Bengal after allegedly snatching firearms from police.
+## INDIA bloc leaders to hold ‘public impeachment of CEC’ at Kharge's Delhi residence on October 30
+The INDIA bloc has been protesting against CEC Kumar over the special intensive revision (SIR) of electoral rolls.
 
-## India to examine Liechtenstein’s proposal for double tax avoidance pact
-A DTAA is a bilateral treaty between India and another country to prevent the same income from being taxed in both nations.
+## Farmers call off march to Mumbai after Fadnavis govt promises drought relief
+Over 12,000 farmers who began the march at Igatpuri called it off after CM Fadnavis assured drought relief, pending payments and a review of demands.
 
-## 19-month-old cheetah dies of gunshot injuries in MP's Kuno National Park; pellets extracted from body
-The cub was first rescued from the Pahargarh range in Morena and brought to Kuno National Park, where it died during treatment.
+## Bihar MLC election results: BJP’s Narendra Prasad Singh wins Tirhut Teachers’ seat
+The NDA opened its tally when BJP candidate Narendra Prasad Singh (2,945 votes) won the Tirhut Teachers’ seat with 594 votes.
 
-## Theni jailbreak: 13 of 17 inmates recaptured, 9 prison staff suspended; Opposition slams govt
-As many as 17 special teams were formed to trace the absconding convicts by the police.
+## Vijay wasn’t asked to convert to Hinduism, only affirm faith in deity: Madras HC
+The Madras High Court said Vijay was not asked to convert to Hinduism, only to affirm his faith in the deity before entering the Meenakshi Amman temple.
 
-## TVK's Keerthana hits back at criticism over ‘gold ornaments', says Vijay's support keeps her strong
-In a post on X, TVK minister Keerthana said she was being subjected to intense scrutiny, with critics questioning her statements and actions.
+## Andhra govt fully geared up for Cyclone Arnab, 84,000 evacuated to safer places: CM Naidu
+The cyclone is expected to affect a large stretch of the Andhra Pradesh coastline, with heavy rainfall and strong winds forecast in several coastal districts.
 
 ## China hands former regulator suspended death sentence over US$65m bribery charge
 A former high-ranking official with China’s securities regulator was sentenced to death with a two-year reprieve on Tuesday over bribery charges, as Beijing continues its sweeping anti-corruption campaign. Wang Huimin, who served as a member of the Communist Party committee of the China Securities R
@@ -132,6 +132,9 @@ Chinese and Hong Kong stocks have lagged an artificial intelligence-driven rally
 ## Moonshot apologises after Kimi K3.1 Pro roll-out stumbles as promotional scrutiny widens
 Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi series, apologised on Monday for limiting customers’ use of its latest model in a botched roll-out that has also invited scrutiny over its promotional practices and cybersecurity measures. “We’re sorry for the rate l
 
+## Is Israel a Good Ally?
+A new book details how the country slayed Washington’s foes.
+
 ## Space Junk Is a Problem We Know How to Solve
 Satellite mega-constellations are transforming our night skies. It’s time to plug the governance gaps.
 
@@ -152,9 +155,6 @@ Beijing is making life difficult for Panamanian ships, and others could be next.
 
 ## Serbia’s Student Protesters Deserve a Nobel Prize
 What Serbian youth understood about politics that their counterparts elsewhere in the West haven’t.
-
-## Vucic’s Reign Is Over
-A student-led grassroots movement in Serbia will replace one of Europe’s staunchest populists.
 
 ## China Pulls Out of Logistics Hub Project at Colombo Port
 Given international developments, geopolitical rivalries, and the expertise needed to develop a logistics center, finding a replacement investor will be difficult.
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cyclone Arnab batters India’s east coast
-Heavy rains and coastal floodings hit India’s east coast on Tuesday as cyclone Arnab is making landfall.
+## Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike
+Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.
 
-## Israeli military detains Egyptian national who crossed border
-Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.
+## Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict
+Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.
 
-## Hegseth heads to Manila to shore up US ties with Asia-Pacific partners
-The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.
+## Israel election results live: No clear winner – first TV exit polls
+High turnout in vote widely described as the most consequential in Israel's history.
 
-## Carrick stays on as Manchester United manager for crucial Chelsea match
-Carrick will be in charge of football's Man United when they visit Chelsea on October 31, reports in British media say.
+## US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong
+US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.
 
-## Sudan’s war steals children’s future with school closures and displacement
-The conflict in Sudan has left millions of children without education, as they work to help their families.
+## Trump says he’ll respect US midterm results if elections are ‘honest’
+US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’.
 
-## King Charles’s Caribbean tour: Will he discuss slavery reparations?
-UK's King Charles launches nine-day Caribbean tour amid monarchy questions and growing demands for slavery reparations.
+## Deadly tornado strikes construction site in Turkiye
+Deadly tornado strikes construction site in Turkiye
 
-## Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin
-Strikes hit a major bridge in the Ukrainian capital as leaders push for 'direct discussions' to end the war.
+## Russia jails IT worker for 13 years for donating money to Ukraine
+Cryptocurrency exchange Binance shared Ukraine donation data with Russian authorities resulting in his conviction.
 
-## Lebanon’s lost olive season: harvesting olives under drones and warplanes
-Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.
+## Rain brings temporary relief as Southeast Asia battles fires and toxic haze
+Rain has offered brief relief from wildfires in Indonesia, but underground peat fires continue to burn
 
 ## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
 Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
