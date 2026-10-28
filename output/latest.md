@@ -1,49 +1,40 @@
 # AION Intelligence
 
-## Bank of England able to take UK Budget in its stride despite slippage in deficit reduction
-Higher energy prices and interest costs take their toll on borrowing outlook
-
-## Healey avoids bond market wobble with ‘uneventful’ first Budget
-Gilts hold on to pre-Budget gains following modest package of tax and spending changes
-
-## At least 68 killed in collision of high-speed trains in Spain
-Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January
-
-## Healey hits banks and savers with tax rises in Budget ‘for working people’
-Scale of chancellor’s plans was modest compared with recent fiscal events
-
-## What the Budget means for your money
-The chancellor’s maiden Budget was intended to deliver ‘everyday fixes’ to the UK’s financial concerns — but will it leave you better off?
-
-## Budget calculator: how will Healey’s forecasts affect the tax you pay?
-Fiscal drag is set to hit taxpayers harder than previously thought
-
-## Budget in brief: what you need to know
-A quick guide to John Healey’s main policy announcements and official economic forecasts
-
-## Healey delivers a Budget with echoes of Reeves
-Chancellor’s ‘steady as she goes’ announcements seen as ‘a vindication’ of strategy set out by his predecessor
-
-## Mubadala Capital dealmaker to launch his own venture fund
-Ibrahim Ajami, a senior executive at the private capital arm Abu Dhabi’s sovereign wealth fund, is set to leave next year
-
-## JetBlue tries to sweet-talk an unforgiving bond market
-Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying
-
-## European gas prices jump above €100 on fears of Iran war escalation
-Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low
+## Microsoft cloud revenue beats expectations
+Software group reports overall revenue rose 19% to $92.3bn in quarter to end of September
 
 ## Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s
 Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company
 
-## Are catastrophe risk modellers ‘fudging the numbers’?
-The FT spoke to professionals in the reinsurance industry for a special report
+## Google shares tumble 9% after $51bn AI outlay deepens cash burn
+Search giant missed estimates for revenue and profit as its search business undershot expectations
 
-## Iran threatens South Korean shipping group over Hormuz transits
-Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action
+## Weil leadership tells partners firm should be dissolved
+Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious
 
-## GSK shares slide after weaker vaccine sales
-FTSE 100 drugmaker says falling Chinese demand hurt sales of shingles vaccine
+## Republicans seek to deflect Epstein anger on to Democrats
+Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign
+
+## Healey praised business. The feeling was not mutual
+While the Treasury issued supportive quotes from corporate stakeholders, other leaders said the package fell short
+
+## Healey hits banks and savers to fund modest Budget handout
+Chancellor opts for limited household relief as fiscal watchdog warns of ‘pretty grim’ picture for living standards
+
+## Oracle rallies after telling investors its AI bet will pay off sooner than expected
+Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn
+
+## London cap for new first-time buyer scheme ‘needs urgent rethink’
+Effectiveness of measures to help buyers on to the ladder called into question while interest rates are elevated, housing experts warn
+
+## Property tax rise will push more landlords to sell, Healey warned
+Measure will yield £575mn for Treasury in 2028-29, but estate agents say it will add to pressures in private rental sector
+
+## Apple shows first touchscreen laptops amid product blitz
+The new 14-inch and 16-inch touchscreen MacBook Pros powered by the M5 Pro and M5 Max chips are priced at ₹3,49,900 and ₹4,09,900, respectively.
+
+## Couple of international airlines may opt not to fly from Mumbai for next 2 years: Adani Airports CEO
+While not naming the two airlines, Arun Bansal said discussions with the remaining airlines were expected to conclude over the next four months
 
 ## Cancer drug prices: Generics and biosimilars see steep cuts, but most patented drugs remain unchanged
 A new pricing order has lowered costs for hundreds of cancer drug formulations, though patients on several newer therapies may see no immediate relief
@@ -63,11 +54,8 @@ Revenue from operations surged 75% y-o-y to ₹37,216 crore during the September
 ## Individual investors in Yes Bank’s AT-1 bonds request RBI to ensure implementation of SC judgment
 The individual bond holders forum emphasised that it recognises that the coupon terms must be examined separately for each issuance and that the IM contain provisions relevant to coupon discretion
 
-## Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore
-Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago
+## US Federal Reserve keeps rates unchanged, leaves door open to further hikes
 
-## Textiles PLI scheme: Government reopens application portal from November 1
-The revised eligibility criteria aim to widen participation in the textiles incentive scheme and provide approved Round 4 applicants a longer investment horizon.
 
 ## Festive season sales are not always bargains: Avoid these 10 money mistakes
 Festive sales are designed to make every purchase feel like a bargain, and the fear of missing out can lead to buying far more than planned. Set a spending limit before the sales begin and list what is genuinely needed. A budget does not take the joy out of the season, but it ensures that the spendi
@@ -90,32 +78,29 @@ Jio Platforms Limited made a notable debut on the stock market, listing at a pre
 ## Jio makes strong debut at 21% premium to become India's second-most valuable firm
 Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 per share. The IPO attracted an impressive 22.19 times oversubscription, with bids surpassing Rs 7.4 lakh crore. Following this, the firm's market capitalisation soared to around Rs 12.5 lakh crore, securing its position 
 
-## Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme
-India's mobile phone manufacturing sector has generated Rs 25,000 crore in direct tax collections and Rs 3,000 crore in GST. Union minister Ashwini Vaishnaw announced new schemes to further enhance production and strengthen global supply chains. The Mobile Phone Manufacturing Scheme will operate fro
+## New RSS group registers with justice dept to lobby in America
+RSS Friends’ Foreign Agents Registration Act (FARA) filing came just days before RSS chief Mohan Bhagwat held a major rally at Madison Square Garden in New York
+
+## UP MLC election results: BJP suffers setback in strongholds Varanasi and Lucknow, SP gets shot in the arm
+In the results announced on Wednesday, the BJP’s tally of six was the same as in the 2020 Legislative Council election.
+
+## Airlines seek more time to shift international flights to Navi Mumbai airport
+MIAL presented its redevelopment plans and proposed temporarily shifting international traffic accounting for five million passengers per annum (MPPA) to NMIA.
+
+## Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2
+Tension prevailed at the counting centre during the counting of votes for the Darbhanga graduate constituency in the evening.
+
+## NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent
+Siddique is considered close to Parth, and his appointment marked Siddique’s second significant political milestone in just five months within the organization.
+
+## Antilia bomb scare: Court to examine first witness on November 4 as trial enters evidence stage
+Hiran's son Meet, brother Vinod and widow Vimla are scheduled to testify on November 23, December 4 and December 8, respectively.
+
+## Akasa Air to hike pilot salaries by up to 20%, increase annual leave entitlements
+Akasa Air has also decided to increase the minimum annual leave entitlements to 42 days.
 
 ## Cancer drug prices slashed for 543 brands; new rates from November 9
 Dr Reddy's Laboratories' Azacytin, a 100 mg azacitidine injection, will now cost ₹1,495.04, down from ₹6,337.
-
-## Supreme Court directs Centre to grant war injury pension to Army veteran who developed illness during Kargil posting
-The bench said the government must go by what its policy actually says and not what it intended it to mean.
-
-## SEM court directs Delhi police to give Neha Bora copies of 6 FIRs by November 20
-The direction by Special Executive Magistrate Raj came after Bora’s counsel, advocate, argued that the documents earlier supplied by the police were deficient.
-
-## Heavy rain warning in Chhattisgarh post Cyclone Arnab, schools shut in Raipur
-The IMD has warned of rain, thunderstorms, lightning and strong winds in several parts of the state under the influence of the cyclone.
-
-## ‘Delhi's air will be very bad after Diwali’: SC judge on request to defer a hearing
-The issue of pollution in Delhi is being monitored by the Supreme Court in a suo motu proceeding arising from a petition filed by advocate MC Mehta.
-
-## Defence minister Rajnath Singh flags concern over US military aid to Pakistan in talks with Pete Hegseth
-Singh raised US aid to Pakistan, its F-16 upgrade and tech-sharing with a third country in talks with Hegseth; they reviewed the defence framework.
-
-## Cyclone Arnab kills 5, damages crops and infrastructure in Andhra Pradesh; CM Naidu announces relief
-Naidu expressed his condolences to the bereaved families and announced ex gratia of ₹5 lakh to each of the families of the deceased.
-
-## Theni jailbreak: All 17 escaped prisoners back in custody after arrest of remaining 4
-Brothers K Thirupathy and K Meenakshi Sundaram surrendered at the Cumbum police station in the district.
 
 ## Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit
 Leading Chinese robotics company Unitree Robotics on Wednesday reported a 69.93 per cent year-on-year increase in quarterly revenue to 665 million yuan (US$99.7 million), though net profits excluding non-recurring items fell 17.42 per cent to 105 million yuan, as the company released its first earni
@@ -141,6 +126,15 @@ JPMorgan Asset Management (JPMAM) expects to launch more actively managed exchan
 ## China’s stock slide can’t be reversed by massive state buying, analysts warn
 Increasingly apparent state buying in China’s struggling stock market helped drive the benchmark CSI 300 Index up 0.9 per cent on Wednesday, but will be insufficient to engineer a durable rally in the world’s second-largest equity market, according to analysts from global investment banks. “National
 
+## In Deadlocked Israeli Election, Netanyahu Has Upper Hand
+Main opposition parties fail to muster majority.
+
+## Has Russia’s Influence in Africa Peaked?
+Moscow’s role across the continent has become increasingly controversial.
+
+## Ukrainians Have a Long-Shot Plan to Boot Russia from the U.N.
+An expert team argues that the Soviet succession was improperly decided.
+
 ## Violence Flares Again in Thailand’s Deep South
 With a pro-military government in power and nationalism on the rise, locals fear further escalation.
 
@@ -155,15 +149,6 @@ What 2 percent milk reveals about our system of rules and norms.
 
 ## Dawn of the Data Centers
 A global boom is underway. Are countries ready?
-
-## Young People Are Struggling in Southeast Asia Too
-Social media is a potent feeder of frustrations.
-
-## Why Party Plenums Matter So Much to Xi
-The Chinese leader is deeply reliant on formal mechanisms of power.
-
-## Decoding Israel’s Election Results
-Exit polls show no clear winner, with Eisenkot’s opposition bloc slightly ahead of Netanyahu’s.
 
 ## Toward a New ‘Normal’: The Recalibration of the Japan-US Alliance
 Since the Cold War, Japan and the U.S. have both been seeking normalcy, but they define the term very differently.
@@ -189,6 +174,12 @@ The election may change the political setting in which India-Israel relations op
 ## China Is Learning to Sell Japanese Culture Better Than Japan
 In much of the world, Chinese firms introduced local consumers to Japanese aesthetics. Now, they are ready to sell Japanese culture back to Japan itself.
 
+## Jihadism’s Global Struggle, and Where It’s Gaining
+In 2018, Barak Mendelsohn wrote, “Bound to Fail: Transnational Jihadism and the Aggregation Problem,” where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counterterrorism forces to co
+
+## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
+Date: Thursday, Nov. 12, 2026Time: 12:00 – 1:00 p.m. ESTThe third joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel.Overview:For this edition of The Atlantic Brief, the Royal United Services Institute and War on th
+
 ## The Next Congress Needs to Reclaim Its Oversight of the Department of Defense
 Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government. Meanwhile, Congress has not adequately applied its oversight role to rein in the executive branch, particularly over the Department of Defense. We have wa
 
@@ -206,12 +197,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Lessons for Pentagon Procurement from the Special Operations Enterprise
 As the Pentagon races to buy hundreds of thousands of unmanned systems, acquisition professionals have turned to the special operations community to learn about how to buy commercial technologies fast. Cara Teeter, deputy assistant secretary of war for special operations analysis, resources, and cap
-
-## The Importance of the Battle of Bailén
-Early on the morning of July 16, 1808, Captain-General Francisco Javier Castaños of the Army of Andalusia launched a surprise attack against the divided forces of Emperor Napoleon Bonaparte’s Army of the Gironde. After three grueling days of combat, French Gen. Pierre Dupont requested a truce and op
-
-## Deception in Mass Autonomous Warfare
-“[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kremlin says European countries not included in next Ukraine talks
-The comment comes as UK and Netherlands pledge extra military support for Kyiv.
+## Indonesian students demand action on wildfires and rising costs
+Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs.
 
-## Israeli soldier visiting UK faces war crimes complaint
-New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.
+## What’s next for Brazil’s Flavio Bolsonaro after election defeat?
+The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
 
-## US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
-US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
+## UN votes to condemn embargo of Cuba despite US lobbying push
+US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
 
-## What is the controversy between Real Madrid’s Kylian Mbappe and China?
-The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
+## Rwanda’s milk bars
+Rwanda’s milk bars
 
-## Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
-All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
+## US envoy reads anti-Castro book during Cuban FM’s UN address
+US envoy reads anti-Castro book during Cuban FM’s UN address
 
-## Bolsonaro turns up in Florida after vanishing from public view
-Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.
+## Spain demands answers after deadliest train disaster in over a decade
+At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.
 
-## Are GCC countries looking for a regional security pact with Iran?
-Observers say diverging views are unlikely to turn current diplomatic efforts into a lasting infrastructure.
+## Putin: Russia is African continent’s best partner, not ‘colonial’ West
+Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.
 
-## Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9
-Amanda Serrano will defend her unified WBO and WBA featherweight world boxing titles against Australia's Skye ⁠Falzon.
+## Fed leaves interest rates unchanged despite inflation in the US
+Rates will remain 3.75-4 percent even as inflation continues to rise.
 
 ## GST registration explained: What businesses need to know about CBIC’s new framework
 New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
