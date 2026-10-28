@@ -1,136 +1,139 @@
 # AION Intelligence
 
-## South Korean ‘tilt’ towards Russia alarms European allies
-Lee Jae Myung prioritises Seoul’s interests with its giant neighbour amid strained ties with Ukraine, analysts say
+## FirstFT: Netanyahu moves ahead in Israel’s election
+Also in today’s newsletter: Flávio Bolsonaro flees to the US, and law firm Weil assesses its options
 
-## Bolsonaro lands in US after fleeing Brazil following election defeat
-Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening
+## Ambani’s $130bn Jio soars in India’s biggest listing
+Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran
 
-## No clear winner in Israeli parliamentary election, exit polls suggest
-Benjamin Netanyahu urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority
+## At least 10 killed in collision of high-speed trains in Spain
+Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January
 
-## Sizewell nuclear plant is ‘terrible deal’ for British taxpayers, MPs conclude
-Parliamentary inquiry says consumers are carrying ‘extraordinary’ financial risk and footing most of the £40bn bill as private investors ‘cash in’
+## Why even America’s ‘haves’ are feeling the squeeze
+Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room
 
-## Healey puts UK energy reform at centre of his ‘do no harm’ Budget
-Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’
+## Zelenskyy opens door to security guarantees for Russia
+Ukrainian president acknowledges Moscow could also receive security guarantees as part of peace deal
 
-## Healey to reverse cuts to cash Isa allowance
-Chancellor will use Wednesday’s Budget to maintain tax-free limit at £20,000 a year, reversing plan by predecessor Rachel Reeves
+## The ECB needs a smooth transmission and a smooth transition
+Central bank at a critical juncture as it prepares leadership changes at time of strains in bond markets
 
-## FirstFT: Israeli exit polls show no clear winner in parliamentary election
-Also in today’s newsletter: US and Russia discuss potential oil deals and law firm Weil prepares for possible wind-down
+## Netanyahu ahead but no clear winner in Israeli election
+Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority
 
-## Washington to issue Flávio Bolsonaro US visa after election loss
-Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering
+## Mercedes and Stellantis struggle to revive fortunes despite cost cuts and new models
+Aston Martin narrows operating losses but net debt rises 14% since end of 2025
 
-## SK Hynix profits soar amid roaring AI chip demand
-South Korean group announces better than expected quarterly operating profit and will return $75bn to investors this year
+## CATL’s next bet is bigger than electric cars
+The company is moving beyond selling batteries towards building an infrastructure business
 
-## UK aims to establish if Poundland owners are trying to force its collapse
-Business secretary wants to know whether Gordon Brothers is unnecessarily seeking to push discount group into administration
+## European banks boost profits but fail to match Wall Street boom
+Lenders benefit from investments by wealthy clients and resilient corporate and investment banking activity
 
-## Tech stocks gain as AI trade revives
-Wall Street rises as tech industry reports third-quarter earnings
+## Rio Tinto proposes 56% pay bump for CEO
+Increase comes after Anglo-Australian group broadened benchmark outside mining sector
 
-## How much is Anthropic really worth?
-Anthropic’s initial public offering is shaping up to be the largest ever.
+## Adani Enterprises Q2 profit plunges 54% to ₹1,492 crore despite revenue growth
+Revenue from operations surged 75% y-o-y to ₹37,216 crore during the September quarter, driven primarily by a sharp expansion in the copper business, whose revenue rose 11-fold to ₹14,772 crore
 
-## Sensex today | Stock Market Live: Sensex opens in deep red, down 600 pts, Nifty 50 below 22,600; Q2 results, US Fed decision in focus
-Sensex, Nifty, Share Prices Live: Analysts expect consolidation phase to continue even as Crude Oil price remains at elevated level. The focus will also be on US Federal Reserve’s policy outcome, that will be known later tonight.
+## Barista Coffee opens 555th café in Kolkata, expands hybrid café format
+The new outlet combines an expanded food and beverage menu with flexible workspaces, reflecting the changing role of cafés in India
 
-## Q2 Results Today Live: Adani Enterprises, Adani Ports, TVS Motor, Hyundai, Pidilite, Cholamandalam, Hero MotoCorp, Meesho, United Spirits, Vedanta, JSW Energy share to announce Q2 results, Bajaj Auto, L&T, Maruti, Cipla, ACC, Mazagon, Waaree Energies shares in focus
+## Sensex today | Stock Market Closing Bell: Sensex settled at 73,246.03; Nifty 50 declined 50.90 points
+Sensex, Nifty, Share Prices Closing Bell: Sensex settled 352.64 pts or 0.48% lower at 73,246.03, and Nifty 50 declined 50.90 pts or 0.22% to 22,698.85.
+
+## Global shares are mixed after US stock rally, and oil prices gain more than 1%
+Oil prices rose more than 1% after an attack on a major Saudi Arabia refinery by Iran-backed Houthi rebels on Tuesday renewed supply concerns
+
+## Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore
+Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago
+
+## Cholamandalam Investment and Finance Q2 net up 41%, board approves fundraise up to ₹5000 cr via QIP
+For the half year ended September 2026 (H1 FY27), net profit came in at ₹3,284 Ccrore, up 43 per cent y-o-y
+
+## Q2 Results Today Live: Adani Enterprises & Hyundai Q2 profit down, Adani Ports Q2 con. profit rise, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind Q2 profit rise, Vedanta Q2 loss at ₹170 cr, Pidilite, Hero MotoCorp, Meesho, United Spirits to announce Q2 results
 Q2 Results Today, 28th October 2026 Live Updates: businessline brings to you latest Q2 annoucements, earnings updates and more.
 
-## Iran hasn't tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says
-During a UN Security Council meeting, International Atomic Energy Agency chief Rafael Grossi urged Iran to give inspectors access to all nuclear sites, including those damaged in the military attacks
-
-## Jio Platforms Share Price & IPO Listing Live: Mukesh Ambani's Jio set for trading debut after record IPO
+## Jio Platforms Share Price & IPO Listing Live: Mukesh Ambani's Jio Platforms stock jumps to ₹1,415 mark, 26% above IPO price
 Jio Platforms IPO listing today, Jio Platforms share price live updates: Catch real-time share price updates
 
-## Three South Korean financial firms including Bithumb report data breaches, Yonhap says
-Daishin Securities said about 38,000 customer records were leaked and emergency measures were taken, Yonhap reported
+## India-Mexico PTA Negotiations: talks begin with Terms of Reference; automotive, pharma, electronics in focus
+India and Mexico have embarked on talks for a Preferential Trade Agreement that aims to enhance bilateral trade relations. This initiative is intended to unlock new opportunities in key sectors such as automotive, pharmaceuticals, and electronics. Key topics during the discussions will include negot
 
-## Rural Gen Z consumers expanding baskets, adopting influencer led shopping : Report
-The Rural Barometer Report 2026 finds younger consumers driving digital shopping, influencer-led discovery and AI adoption amid cautious household spending.
-
-## OpenAI plans to buy Google’s AI chips
-The ⁠reported plan would deepen ties between OpenAI and Alphabet’s Google, which compete in AI products and search but have increasingly struck ‌commercial deals.
-
-## Israeli vote deadlocked with Netanyahu level with Opposition
-Netanyahu’s religious right-wing alliance and Eisenkot’s bloc are both on track to secure 51 of Israel’s 120 parliamentary seats, according to two exit polls published after voting closed late Tuesday. A third had Netanyahu slightly ahead, having earlier said Eisenkot was leading.
-
-## Stock market today: Where are NSE Nifty50 and BSE Sesnex headed?
+## Advent raises $30bn, starts mid-market fund
 
 
-## IPO listing: Jio Platforms to debut stock market; check share price, gains & more
+## Nifty 50 heads for worst year in a decade: Should you buy stocks now or wait?
+In 2026, Dalal Street faces a challenging landscape as the Nifty50 sinks by 13%, prompting investors to weigh the merits of buying stocks at discounted rates. The path to market recovery hinges on several factors: the resurgence of earnings, influx of foreign investments, and fluctuations in crude o
+
+## Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing
+Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and Anant Ambani commemorated their father's legacy while outlining future ambitions 
+
+## Jio makes strong debut at 21% premium to become India's second-most valuable firm
+Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 per share. The IPO attracted an impressive 22.19 times oversubscription, with bids surpassing Rs 7.4 lakh crore. Following this, the firm's market capitalisation soared to around Rs 12.5 lakh crore, securing its position 
+
+## Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme
+India's mobile phone manufacturing sector has generated Rs 25,000 crore in direct tax collections and Rs 3,000 crore in GST. Union minister Ashwini Vaishnaw announced new schemes to further enhance production and strengthen global supply chains. The Mobile Phone Manufacturing Scheme will operate fro
+
+## Stock market today: BSE Sensex tumbles 600 points, Nifty50 slips near 22,600
 
 
-## Reliance Industries board to consider fund-raise on Oct 30
+## Jio Platforms Limited lists at 21% premium, m-cap hits Rs 12.5 lakh crore
 
 
-## Larsen & Toubro Q2 net profit up 33% at Rs 5,202 cr
+## Centre announces DA hike for govt employees, pensioners ahead of Diwali
+Centre announces DA increase for govt employees, pensioners ahead of Diwali
 
+## Cyclone Arnab-induced rain batters Odisha, alert sounded in southern districts
+Cyclone Arnab-induced rain batters Odisha, alert sounded in southern districts
 
-## Oil price today: Brent crude holds firm at $115 per barrel, WTI trades at $100
-After the Houthis announced a missile strike, Brent crude prices jumped to $115 a barrel, intensifying fears of oil supply disruptions from the conflict-laden Middle East. Additionally, a slight uptick in US oil inventories influenced trader responses. With expectations that OPEC+ will stick to exis
+## New India Foundation announces shortlist for 2026 Kamaladevi Chattopadhyay NIF Book Prize
+The award presentation has been scheduled for December 12 at the Bangalore Literature Festival 2026.
 
-## Government takes step to ease GST notices, litigation
+## Cyclone Arnab: 22 train services cancelled; passengers advised to check updates
+Train passengers face cancellations, suspensions and route changes through November 5 following cyclone Arnab’s landfall.
 
+## Ladakh administration calls Sonam Wangchuk’s allegations on liquor policy ‘false, baseless'
+The Ladakh administration rejected Sonam Wangchuk’s claims that alcohol was being promoted and bars were opening near schools.
 
-## India open to free, fair trade with China: Piyush Goyal
+## Jamia alleges campus vandalism amid protests, says university gates, CCTV cameras damaged
+The university alleged that a group of masked protesters reached the university’s boys’ hostels to mobilise additional support.
 
+## Air Force Sports Complex near PM’s residence in Delhi shut till further notice
+Several members confirmed receiving messages from the authorities on Tuesday informing them of the sports complex’s closure.
 
-## Government identifies 120 items for local production push
+## Three killed by storm in southern India
+Three killed by storm in southern India
 
+## Chinese drug sector’s stature grows at major cancer conference
+An array of Chinese drug makers showcased positive trial results for new cancer treatments at a major European medical conference, underscoring the expanding international influence of China’s biotech sector. Domestic innovative drugs, particularly antibody-drug conjugates (ADCs), delivered impressi
 
-## Ramlila Maidan Congress rally: Roads to be barricaded, contingency plan in place for evacuations
-A contingency plan will be in place for immediate evacuation of top politicians in case of an emergency and possible disruptions
+## Why Hong Kong’s extensive I&T ecosystem and global connectivity appeal to top-tier talent
+Talent recruitment and development are playing a prominent role in Hong Kong’s long-term development strategy as it looks to lure skilled professionals from around the world to drive growth in its key industries. In his first five-year plan announced last month, Chief Executive John Lee Ka-chiu high
 
-## BRICS Parliamentary Forum: 8 artisans put India’s traditional crafts on display
-The artisans participated in a two-day Cultural Bazar organised alongside the forum, offering delegates a glimpse into the country’s indigenous skills
+## China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to build new factories in Europe to beat trade barriers aimed at Chinese EVs China
 
-## Maharashtra to intensify background checks of app-based drivers after ATS action against Rapido rider in Mumbai
-The move follows an action by the Anti-Terrorism Squad (ATS) against a Rapido bike taxi driver in Mumbai’s Mahim area.
+## Yulan bond debuts in Dubai amid Beijing’s yuan-denominated asset push
+Against a backdrop of geopolitical strains in the Middle East, the Yulan renminbi bond structure has made its debut in Dubai, garnering strong investor interest with its order book more than five times oversubscribed, as global investor appetite for yuan assets remains firm. Bank of China Dubai rang
 
-## Rajnath Singh to push for deeper defence ties at ASEAN defence ministers' meet in Philippines
-The visit will also focus on advancing a free, open and inclusive order in the vast Indo-Pacific region, the officials said.
+## JPMAM plans more active ETFs in China after debut fund hits US$300 million cap on day one
+JPMorgan Asset Management (JPMAM) expects to launch more actively managed exchange-traded funds (ETFs) in mainland China after its first such fund there hit the 2 billion yuan (US$300 million) fundraising cap on the first day of sales, its China chief said. “The first launch is just an opening move 
 
-## UAPA does not bar bail for all foreigners; illegal entry is key, rules SC
-The court said the statutory bar applies only when a foreigner has entered India unauthorisedly or illegally
+## China’s stock slide can’t be reversed by massive state buying, analysts warn
+Increasingly apparent state buying in China’s struggling stock market helped drive the benchmark CSI 300 Index up 0.9 per cent on Wednesday, but will be insufficient to engineer a durable rally in the world’s second-largest equity market, according to analysts from global investment banks. “National
 
-## Two held in Raxaul for allegedly helping Pakistani operatives activate Indian WhatsApp accounts
-Bihar, Andhra police arrest two in Raxaul for allegedly sharing OTPs with Pakistani operatives.
+## Why Hong Kong developer CK Asset sold a mall at an ‘exceptionally cheap’ price
+With the “exceptionally cheap” sale of a vacant Hong Kong shopping mall, developer CK Asset Holdings is freeing up capital for other projects, while the buyer will have to be patient because the location will struggle to attract tenants in the short term, according to analysts. The developer complet
 
-## Delhi airport's T3 set for makeover with new carpets inspired by Indian heritage
-Terracotta, rust, ochre and orange are set to transform the look of Delhi airport's Terminal 3 departure area.
+## Standard Chartered shares close 7.6% higher after third-quarter earnings beat forecast
+Standard Chartered’s third-quarter net profit rose 46 per cent as strong growth in wealth management and lower credit impairment buffered one of Hong Kong’s three note-issuing banks from provisions linked to geopolitical tensions. The bank’s shares surged as much as 8.7 per cent after the earnings r
 
-## Only 1.4% with notices marked ineligible; highest in Bengaluru
-Bengaluru accounted for nearly half of the 61,867 electors declared ineligible by electoral officers after notices issued in the Special Intensive Revision (SIR) exercise were resolved through hearings, data released by the Election Commission showed
+## Dawn of the Data Centers
+A global boom is underway. Are countries ready?
 
-## Chinese circuit board firm Dongshan Precision plunges at Hong Kong debut
-Suzhou Dongshan Precision Manufacturing Co. slumped in its Hong Kong trading debut after an underwhelming HK$9.9 billion (US$1.26 billion) initial public offering (IPO), as investor sentiment was haunted by the deepening sell-off across China’s artificial intelligence (AI) and tech hardware sectors.
-
-## Global carmakers search for new China strategy as market share slips below 30%
-Global carmakers are searching for a way to survive in China’s cutthroat market, as they continue to lose ground to domestic competitors in a landscape that is increasingly tilting towards electric vehicles. International auto brands from Volkswagen to Toyota saw their market share in the Chinese ma
-
-## How Hong Kong went from a yuan gateway to a complete currency ecosystem
-In September, Chief Executive John Lee Ka-chiu unveiled the city’s first five-year plan along with his policy address, highlighting Hong Kong’s strategic role in promoting the greater use of the yuan outside mainland China as a key priority. In the second part of a four-part series on the globalisat
-
-## China hands former regulator suspended death sentence over US$65m bribery charge
-A former high-ranking official with China’s securities regulator was sentenced to death with a two-year reprieve on Tuesday over bribery charges, as Beijing continues its sweeping anti-corruption campaign. Wang Huimin, who served as a member of the Communist Party committee of the China Securities R
-
-## How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing
-Open-weight models, China-US tensions, Taiwan – just a few of the more than dozen references to China-related risks cited in Anthropic’s much-anticipated listing prospectus, which was finally released on Monday after months of speculation. Mostly concentrated within the 93-page “risk factors” sectio
-
-## Chinese drug maker Hengrui surges in Hong Kong after 89% rise in third-quarter net profit
-Jiangsu Hengrui Pharmaceuticals surged more than 12 per cent in Hong Kong following strong third-quarter results, as positive momentum continues to buoy Chinese biotech stocks. Hengrui, one of China’s largest drug makers, reported a 20.55 per cent rise in third-quarter revenue to 8.95 billion yuan (
-
-## Pop Mart reports 45 to 50% revenue decline as Labubu sales weaken across major markets
-Pop Mart, the Chinese toymaker famous for Labubu collectible dolls, reported a 45 to 50 per cent year-on-year decline in third-quarter revenue, as sales weakened across its major markets, with overseas operations and online channels bearing the brunt of the slowdown. Revenue in mainland China fell 2
-
-## ByteDance’s Zhang Yiming tops China rich list with US$99.7 billion as AI fuels fortunes
-ByteDance founder Zhang Yiming has reclaimed the title of China’s richest person with a nearly US$100 billion fortune, as artificial intelligence powers a surge in wealth among China’s top entrepreneurs, according to the Hurun Research Institute. The 43-year-old Zhang, who topped the ranking in 2024
+## Young People Are Struggling in Southeast Asia Too
+Social media is a potent feeder of frustrations.
 
 ## Why Party Plenums Matter So Much to Xi
 The Chinese leader is deeply reliant on formal mechanisms of power.
@@ -150,11 +153,11 @@ A new book details how the country slayed Washington’s foes.
 ## Space Junk Is a Problem We Know How to Solve
 Satellite mega-constellations are transforming our night skies. It’s time to plug the governance gaps.
 
-## Trump Has Lost the Foreign-Policy Debate
-Polling shows the president’s policies are deeply unpopular.
+## How Would China Actually Govern Taiwan?
+A recent academic symposium offers new insights into China’s vision of a “Taiwan Special Administrative Region.”
 
-## A Papal ‘Homecoming’
-Pope Leo XIV is proceeding with a trip to Latin America despite his cancer diagnosis.
+## Mongolia Eyes a Non-Permanent Seat on the UNSC – in 2048
+To make good on Khurelsukh’s announcement, Mongolia’s foreign policy will require more than two decades of sustained continuity.
 
 ## Japan Confirms Dispatch to India to Explore Anti-Ship Missile Drills
 Discussions highlight the training challenges posed by Japan’s expanding arsenal and opportunities for closer defense cooperation with New Delhi.
@@ -174,11 +177,8 @@ The myth of the ASEAN FTA as a bad deal is costing India diplomatically.
 ## Togo’s China Pivot: Building a Strategic Gateway to the Sahel
 Lomé’s maritime ambitions, deepening ties with Beijing, and growing coordination with the AES could reshape West Africa’s trade and geopolitical architecture
 
-## Arakan Army Firms Up Relocation Plan For Villages on Bangladesh-Myanmar Border
-Under pressure from ARSA and the Myanmar military, the AA is looking to simply move vulnerable villagers to new locations.
-
-## Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct
-Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.
+## The Next Congress Needs to Reclaim Its Oversight of the Department of Defense
+Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government. Meanwhile, Congress has not adequately applied its oversight role to rein in the executive branch, particularly over the Department of Defense. We have wa
 
 ## The Machine Staff
 At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tacti
@@ -200,9 +200,6 @@ Early on the morning of July 16, 1808, Captain-General Francisco Javier Castaño
 
 ## Deception in Mass Autonomous Warfare
 “[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.” —Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether 
-
-## Brothers in Arms, Partners in Healing: A Story about a Breakthrough in Treating Post-Traumatic Stress
-After losing fellow marines in Iraq, Jeff Lindquist struggled with post-traumatic stress that was steadily destroying his life. Years later, an innovative technology helped him reclaim it. This is the story of Jeff and Erik Won, two veterans who served together, and how efforts to help Jeff recover 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +225,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bolsonaro ally denies knowledge of senator’s plan to flee Brazil
-Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.
+## Hormuz oil spill forces closure of UAE beaches
+An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.
 
-## Global stock markets rise as investors continue to bet on AI
-Asian stock markets rise, following gains on Wall Street.
+## Netanyahu or Eisenkot? Can you form Israel’s next coalition government?
+Israel has only ever been governed by coalitions. Can you put one together that reaches 61 of the Knesset's 120 seats?
 
-## Syria-Jordan border reopens amid probe into deadly air strikes
-Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.
+## Israel’s stock market drops as exit polls show no clear election winner
+Benchmark Tel Aviv 125 index falls more than 3 percent amid uncertainty over who will lead the next government.
 
-## Five key takeaways from Israel’s parliamentary elections
-Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition.
+## Mapping the siege of Yemen’s Taiz, and the price families are paying
+Three weeks into the siege of Yemen’s third-largest city, prices have doubled, and families are down to the basics.
 
-## Netanyahu: Coalition with Arab parties would be ‘shameful’
-Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.
+## Israeli right makes provocative statements as election votes are counted
+Netanyahu and Smotrich rail against Arab voters as rival political camps face an uncertain path to power.
 
-## Arab parties could win record 18 seats in Israel election, exit polls show
-Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.
+## At least 10 killed after two trains collide in Spain, authorities say
+High-speed train slammed into the rear of another train that had stopped, derailing two cars, authorities said.
 
-## Netanyahu, Eisenkot camps clash over Israel election projections
-Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.
+## China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment
+France international Kylian Mbappe's remarks saw him become the latest foreign sports figure to anger Beijing.
 
-## Israel’s Eisenkot says country voted for change
-Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.
+## Canada signs trade deal with UAE in push for non-US markets
+The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.
+
+## GST registration explained: What businesses need to know about CBIC’s new framework
+New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
+
+## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
+The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
 
 ## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
 Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
@@ -270,11 +273,8 @@ Demand spans experience in commercial and corporate disputes, including regulato
 ## GST tribunal allows airlines to claim tax refund on cancelled tickets if fare, GST returned to passengers
 The case relates to eight GST refund claims totalling ₹45,92,528 by Singapore Airlines for the period between October 2019 and March 2021. During the period, owing to COVID-19, the airline had to cancel flights and returned fares and GST to passengers. However, it could not adjust the credit notes a
 
-## Companies get more time to file FY26 financial statements, annual returns
-The corporate affairs ministry has extended the deadlines for submitting annual financial statements and returns for fiscal year 2025-26. Companies can now file financial statements until December 31, 2026, without incurring additional fees. The deadline for submitting annual returns has also been a
-
-## India Inc's succession Dilemma
-Ideally, leadership roles should be backed by robust succession planning to ensure continuity. Otherwise, ongoing projects can be disrupted. In today’s digital world, where everything is moving towards real time, a multitude of projects are under way, ranging from cloud migration and DPDP implementa
+## India’s record bank cash surplus fades as RBI curbs rupee bets
+Indian banks have seen their excess funds drop significantly as the Reserve Bank of India maintains liquidity tightness. This monetary policy is aimed at curbing speculation against the rupee, which has reached critical levels. The central bank has provided limited liquidity support and capped assis
 
 ## Textile PLI scheme likely to be extended by four years with easier norms for MSMEs
 The government plans to extend the PLI scheme for textiles for four years with easier criteria. This initiative aims to increase participation from micro, small and medium enterprises. The scheme, initially approved in September 2021, supports large-scale manufacturing of textiles in India. Lowering
@@ -296,7 +296,4 @@ Two external members favoured retaining the neutral stance, while most members e
 
 ## Government plans to pare stakes in 4 PSU banks to 75%
 The Union government announced in the 2021-22 budget that, besides IDBI Bank, it would take up two public sector banks and one general insurance company for privatisation.
-
-## SEBI exploring proposal to allow REITs, InvITs to invest in third-party projects: ED Maninder Cheema
-SEBI is exploring a proposal to allow Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) to invest in third-party projects subject to certain conditions.
 
