@@ -1,63 +1,81 @@
 # AION Intelligence
 
-## FirstFT: Netanyahu moves ahead in Israel’s election
-Also in today’s newsletter: Flávio Bolsonaro flees to the US, and law firm Weil assesses its options
+## Bank of England able to take UK Budget in its stride despite slippage in deficit reduction
+Higher energy prices and interest costs take their toll on borrowing outlook
 
-## Ambani’s $130bn Jio soars in India’s biggest listing
-Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran
+## Healey avoids bond market wobble with ‘uneventful’ first Budget
+Gilts hold on to pre-Budget gains following modest package of tax and spending changes
 
-## At least 10 killed in collision of high-speed trains in Spain
+## At least 68 killed in collision of high-speed trains in Spain
 Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January
 
-## Why even America’s ‘haves’ are feeling the squeeze
-Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room
+## Healey hits banks and savers with tax rises in Budget ‘for working people’
+Scale of chancellor’s plans was modest compared with recent fiscal events
 
-## Zelenskyy opens door to security guarantees for Russia
-Ukrainian president acknowledges Moscow could also receive security guarantees as part of peace deal
+## What the Budget means for your money
+The chancellor’s maiden Budget was intended to deliver ‘everyday fixes’ to the UK’s financial concerns — but will it leave you better off?
 
-## The ECB needs a smooth transmission and a smooth transition
-Central bank at a critical juncture as it prepares leadership changes at time of strains in bond markets
+## Budget calculator: how will Healey’s forecasts affect the tax you pay?
+Fiscal drag is set to hit taxpayers harder than previously thought
 
-## Netanyahu ahead but no clear winner in Israeli election
-Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority
+## Budget in brief: what you need to know
+A quick guide to John Healey’s main policy announcements and official economic forecasts
 
-## Mercedes and Stellantis struggle to revive fortunes despite cost cuts and new models
-Aston Martin narrows operating losses but net debt rises 14% since end of 2025
+## Healey delivers a Budget with echoes of Reeves
+Chancellor’s ‘steady as she goes’ announcements seen as ‘a vindication’ of strategy set out by his predecessor
 
-## CATL’s next bet is bigger than electric cars
-The company is moving beyond selling batteries towards building an infrastructure business
+## Mubadala Capital dealmaker to launch his own venture fund
+Ibrahim Ajami, a senior executive at the private capital arm Abu Dhabi’s sovereign wealth fund, is set to leave next year
 
-## European banks boost profits but fail to match Wall Street boom
-Lenders benefit from investments by wealthy clients and resilient corporate and investment banking activity
+## JetBlue tries to sweet-talk an unforgiving bond market
+Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying
 
-## Rio Tinto proposes 56% pay bump for CEO
-Increase comes after Anglo-Australian group broadened benchmark outside mining sector
+## European gas prices jump above €100 on fears of Iran war escalation
+Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low
+
+## Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s
+Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company
+
+## Are catastrophe risk modellers ‘fudging the numbers’?
+The FT spoke to professionals in the reinsurance industry for a special report
+
+## Iran threatens South Korean shipping group over Hormuz transits
+Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action
+
+## GSK shares slide after weaker vaccine sales
+FTSE 100 drugmaker says falling Chinese demand hurt sales of shingles vaccine
+
+## Cancer drug prices: Generics and biosimilars see steep cuts, but most patented drugs remain unchanged
+A new pricing order has lowered costs for hundreds of cancer drug formulations, though patients on several newer therapies may see no immediate relief
+
+## City Union Bank Q2 net up 27% at ₹416 crore on core biz growth
+Total deposits of the bank increased by 21 per cent y-o-y to ₹83,893 crore
+
+## Vedanta net doubles in Q2 on better realisation
+The company’s Zinc cost of production dipped 29 per cent to $703 a tonne after its transition to underground mining
+
+## HUL beats cost pressures with price hikes, savings as net profit rises 3.9%
+Revenue grew 14.5% to ₹18,226 crore, supported by 7% underlying volume growth, even as EBITDA margins contracted by 140 basis points to 22.6%.
 
 ## Adani Enterprises Q2 profit plunges 54% to ₹1,492 crore despite revenue growth
 Revenue from operations surged 75% y-o-y to ₹37,216 crore during the September quarter, driven primarily by a sharp expansion in the copper business, whose revenue rose 11-fold to ₹14,772 crore
 
-## Barista Coffee opens 555th café in Kolkata, expands hybrid café format
-The new outlet combines an expanded food and beverage menu with flexible workspaces, reflecting the changing role of cafés in India
-
-## Sensex today | Stock Market Closing Bell: Sensex settled at 73,246.03; Nifty 50 declined 50.90 points
-Sensex, Nifty, Share Prices Closing Bell: Sensex settled 352.64 pts or 0.48% lower at 73,246.03, and Nifty 50 declined 50.90 pts or 0.22% to 22,698.85.
-
-## Global shares are mixed after US stock rally, and oil prices gain more than 1%
-Oil prices rose more than 1% after an attack on a major Saudi Arabia refinery by Iran-backed Houthi rebels on Tuesday renewed supply concerns
+## Individual investors in Yes Bank’s AT-1 bonds request RBI to ensure implementation of SC judgment
+The individual bond holders forum emphasised that it recognises that the coupon terms must be examined separately for each issuance and that the IM contain provisions relevant to coupon discretion
 
 ## Hyundai Motor India Q2 FY27 net profit declines by 24% y-o-y to ₹1,196.1 crore
 Profit fall comes despite total ‌revenue from operations rising to ₹20,696 crore from ₹17,461 crore a year ago
 
-## Cholamandalam Investment and Finance Q2 net up 41%, board approves fundraise up to ₹5000 cr via QIP
-For the half year ended September 2026 (H1 FY27), net profit came in at ₹3,284 Ccrore, up 43 per cent y-o-y
+## Textiles PLI scheme: Government reopens application portal from November 1
+The revised eligibility criteria aim to widen participation in the textiles incentive scheme and provide approved Round 4 applicants a longer investment horizon.
 
-## Q2 Results Today Live: Adani Enterprises & Hyundai Q2 profit down, Adani Ports Q2 con. profit rise, TVS Motor, HUL, JSW Energy, PVR Inox, KPIT Tech, Arvind Q2 profit rise, Vedanta Q2 loss at ₹170 cr, Pidilite, Hero MotoCorp, Meesho, United Spirits to announce Q2 results
-Q2 Results Today, 28th October 2026 Live Updates: businessline brings to you latest Q2 annoucements, earnings updates and more.
+## Festive season sales are not always bargains: Avoid these 10 money mistakes
+Festive sales are designed to make every purchase feel like a bargain, and the fear of missing out can lead to buying far more than planned. Set a spending limit before the sales begin and list what is genuinely needed. A budget does not take the joy out of the season, but it ensures that the spendi
 
-## Jio Platforms Share Price & IPO Listing Live: Mukesh Ambani's Jio Platforms stock jumps to ₹1,415 mark, 26% above IPO price
-Jio Platforms IPO listing today, Jio Platforms share price live updates: Catch real-time share price updates
+## First time health buyers increased 2.8X since FY22: Policybazaar
 
-## India-Mexico PTA Negotiations: talks begin with Terms of Reference; automotive, pharma, electronics in focus
+
+## India-Mexico PTA: Talks aim to deepen trade and investment ties
 India and Mexico have embarked on talks for a Preferential Trade Agreement that aims to enhance bilateral trade relations. This initiative is intended to unlock new opportunities in key sectors such as automotive, pharmaceuticals, and electronics. Key topics during the discussions will include negot
 
 ## Advent raises $30bn, starts mid-market fund
@@ -75,35 +93,35 @@ Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 p
 ## Rs 25,000 crore in taxes, 12 lakh jobs: Vaishnaw backs mobile PLI scheme
 India's mobile phone manufacturing sector has generated Rs 25,000 crore in direct tax collections and Rs 3,000 crore in GST. Union minister Ashwini Vaishnaw announced new schemes to further enhance production and strengthen global supply chains. The Mobile Phone Manufacturing Scheme will operate fro
 
-## Stock market today: BSE Sensex tumbles 600 points, Nifty50 slips near 22,600
+## Cancer drug prices slashed for 543 brands; new rates from November 9
+Dr Reddy's Laboratories' Azacytin, a 100 mg azacitidine injection, will now cost ₹1,495.04, down from ₹6,337.
 
+## Supreme Court directs Centre to grant war injury pension to Army veteran who developed illness during Kargil posting
+The bench said the government must go by what its policy actually says and not what it intended it to mean.
 
-## Jio Platforms Limited lists at 21% premium, m-cap hits Rs 12.5 lakh crore
+## SEM court directs Delhi police to give Neha Bora copies of 6 FIRs by November 20
+The direction by Special Executive Magistrate Raj came after Bora’s counsel, advocate, argued that the documents earlier supplied by the police were deficient.
 
+## Heavy rain warning in Chhattisgarh post Cyclone Arnab, schools shut in Raipur
+The IMD has warned of rain, thunderstorms, lightning and strong winds in several parts of the state under the influence of the cyclone.
 
-## Centre announces DA hike for govt employees, pensioners ahead of Diwali
-Centre announces DA increase for govt employees, pensioners ahead of Diwali
+## ‘Delhi's air will be very bad after Diwali’: SC judge on request to defer a hearing
+The issue of pollution in Delhi is being monitored by the Supreme Court in a suo motu proceeding arising from a petition filed by advocate MC Mehta.
 
-## Cyclone Arnab-induced rain batters Odisha, alert sounded in southern districts
-Cyclone Arnab-induced rain batters Odisha, alert sounded in southern districts
+## Defence minister Rajnath Singh flags concern over US military aid to Pakistan in talks with Pete Hegseth
+Singh raised US aid to Pakistan, its F-16 upgrade and tech-sharing with a third country in talks with Hegseth; they reviewed the defence framework.
 
-## New India Foundation announces shortlist for 2026 Kamaladevi Chattopadhyay NIF Book Prize
-The award presentation has been scheduled for December 12 at the Bangalore Literature Festival 2026.
+## Cyclone Arnab kills 5, damages crops and infrastructure in Andhra Pradesh; CM Naidu announces relief
+Naidu expressed his condolences to the bereaved families and announced ex gratia of ₹5 lakh to each of the families of the deceased.
 
-## Cyclone Arnab: 22 train services cancelled; passengers advised to check updates
-Train passengers face cancellations, suspensions and route changes through November 5 following cyclone Arnab’s landfall.
+## Theni jailbreak: All 17 escaped prisoners back in custody after arrest of remaining 4
+Brothers K Thirupathy and K Meenakshi Sundaram surrendered at the Cumbum police station in the district.
 
-## Ladakh administration calls Sonam Wangchuk’s allegations on liquor policy ‘false, baseless'
-The Ladakh administration rejected Sonam Wangchuk’s claims that alcohol was being promoted and bars were opening near schools.
+## Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit
+Leading Chinese robotics company Unitree Robotics on Wednesday reported a 69.93 per cent year-on-year increase in quarterly revenue to 665 million yuan (US$99.7 million), though net profits excluding non-recurring items fell 17.42 per cent to 105 million yuan, as the company released its first earni
 
-## Jamia alleges campus vandalism amid protests, says university gates, CCTV cameras damaged
-The university alleged that a group of masked protesters reached the university’s boys’ hostels to mobilise additional support.
-
-## Air Force Sports Complex near PM’s residence in Delhi shut till further notice
-Several members confirmed receiving messages from the authorities on Tuesday informing them of the sports complex’s closure.
-
-## Three killed by storm in southern India
-Three killed by storm in southern India
+## Why Hong Kong rents are hitting records while home price gains lose momentum
+Hong Kong’s lived-in home prices fell 0.8 per cent in the third quarter, their first quarterly decline after five quarters of gains, as a September rebound failed to fully offset a summer slowdown in the residential market. Prices rose 0.19 per cent in September from August, marking a second consecu
 
 ## Chinese drug sector’s stature grows at major cancer conference
 An array of Chinese drug makers showcased positive trial results for new cancer treatments at a major European medical conference, underscoring the expanding international influence of China’s biotech sector. Domestic innovative drugs, particularly antibody-drug conjugates (ADCs), delivered impressi
@@ -123,11 +141,17 @@ JPMorgan Asset Management (JPMAM) expects to launch more actively managed exchan
 ## China’s stock slide can’t be reversed by massive state buying, analysts warn
 Increasingly apparent state buying in China’s struggling stock market helped drive the benchmark CSI 300 Index up 0.9 per cent on Wednesday, but will be insufficient to engineer a durable rally in the world’s second-largest equity market, according to analysts from global investment banks. “National
 
-## Why Hong Kong developer CK Asset sold a mall at an ‘exceptionally cheap’ price
-With the “exceptionally cheap” sale of a vacant Hong Kong shopping mall, developer CK Asset Holdings is freeing up capital for other projects, while the buyer will have to be patient because the location will struggle to attract tenants in the short term, according to analysts. The developer complet
+## Violence Flares Again in Thailand’s Deep South
+With a pro-military government in power and nationalism on the rise, locals fear further escalation.
 
-## Standard Chartered shares close 7.6% higher after third-quarter earnings beat forecast
-Standard Chartered’s third-quarter net profit rose 46 per cent as strong growth in wealth management and lower credit impairment buffered one of Hong Kong’s three note-issuing banks from provisions linked to geopolitical tensions. The bank’s shares surged as much as 8.7 per cent after the earnings r
+## Trump’s Middle East Dealmaking Is Working Against Itself
+Taken together, bilateral deals risk fueling regional rivalries that undermine U.S. interests.
+
+## How to Not Change Your Mind
+Even when you’re wrong about the Iran war (or anything else).
+
+## The Quiet Power of International Orders
+What 2 percent milk reveals about our system of rules and norms.
 
 ## Dawn of the Data Centers
 A global boom is underway. Are countries ready?
@@ -141,17 +165,14 @@ The Chinese leader is deeply reliant on formal mechanisms of power.
 ## Decoding Israel’s Election Results
 Exit polls show no clear winner, with Eisenkot’s opposition bloc slightly ahead of Netanyahu’s.
 
-## Trump’s Tariffs Will Have Another Day in Court
-The administration has lost five trade cases in a row, and it’s set to potentially notch another loss.
+## Toward a New ‘Normal’: The Recalibration of the Japan-US Alliance
+Since the Cold War, Japan and the U.S. have both been seeking normalcy, but they define the term very differently.
 
-## Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted
-Eisenkot’s centrist bloc takes lead in exit polls.
+## What Type of Country Should India Be? The Debate Over the Sharjeel Imam Interview
+Entrenching more group rights would permanently institutionalize the division of Indian society — already an issue — into a large number of groups with different privileges.
 
-## Is Israel a Good Ally?
-A new book details how the country slayed Washington’s foes.
-
-## Space Junk Is a Problem We Know How to Solve
-Satellite mega-constellations are transforming our night skies. It’s time to plug the governance gaps.
+## Bangladesh’s Persisting Mob Violence
+Are law enforcement agencies responding swiftly when someone is beaten on the street, or when a mob vandalizes an institution?
 
 ## How Would China Actually Govern Taiwan?
 A recent academic symposium offers new insights into China’s vision of a “Taiwan Special Administrative Region.”
@@ -167,15 +188,6 @@ The election may change the political setting in which India-Israel relations op
 
 ## China Is Learning to Sell Japanese Culture Better Than Japan
 In much of the world, Chinese firms introduced local consumers to Japanese aesthetics. Now, they are ready to sell Japanese culture back to Japan itself.
-
-## China Pulls Out of Logistics Hub Project at Colombo Port
-Given international developments, geopolitical rivalries, and the expertise needed to develop a logistics center, finding a replacement investor will be difficult.
-
-## The ASEAN-India Trade Agreement and Its Discontents
-The myth of the ASEAN FTA as a bad deal is costing India diplomatically.
-
-## Togo’s China Pivot: Building a Strategic Gateway to the Sahel
-Lomé’s maritime ambitions, deepening ties with Beijing, and growing coordination with the AES could reshape West Africa’s trade and geopolitical architecture
 
 ## The Next Congress Needs to Reclaim Its Oversight of the Department of Defense
 Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government. Meanwhile, Congress has not adequately applied its oversight role to rein in the executive branch, particularly over the Department of Defense. We have wa
@@ -225,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hormuz oil spill forces closure of UAE beaches
-An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.
+## Kremlin says European countries not included in next Ukraine talks
+The comment comes as UK and Netherlands pledge extra military support for Kyiv.
 
-## Netanyahu or Eisenkot? Can you form Israel’s next coalition government?
-Israel has only ever been governed by coalitions. Can you put one together that reaches 61 of the Knesset's 120 seats?
+## Israeli soldier visiting UK faces war crimes complaint
+New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.
 
-## Israel’s stock market drops as exit polls show no clear election winner
-Benchmark Tel Aviv 125 index falls more than 3 percent amid uncertainty over who will lead the next government.
+## US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
+US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric
 
-## Mapping the siege of Yemen’s Taiz, and the price families are paying
-Three weeks into the siege of Yemen’s third-largest city, prices have doubled, and families are down to the basics.
+## What is the controversy between Real Madrid’s Kylian Mbappe and China?
+The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
 
-## Israeli right makes provocative statements as election votes are counted
-Netanyahu and Smotrich rail against Arab voters as rival political camps face an uncertain path to power.
+## Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
+All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
 
-## At least 10 killed after two trains collide in Spain, authorities say
-High-speed train slammed into the rear of another train that had stopped, derailing two cars, authorities said.
+## Bolsonaro turns up in Florida after vanishing from public view
+Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.
 
-## China says it takes Mbappe’s apology ‘seriously’ after Mao dictator comment
-France international Kylian Mbappe's remarks saw him become the latest foreign sports figure to anger Beijing.
+## Are GCC countries looking for a regional security pact with Iran?
+Observers say diverging views are unlikely to turn current diplomatic efforts into a lasting infrastructure.
 
-## Canada signs trade deal with UAE in push for non-US markets
-The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.
+## Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9
+Amanda Serrano will defend her unified WBO and WBA featherweight world boxing titles against Australia's Skye ⁠Falzon.
 
 ## GST registration explained: What businesses need to know about CBIC’s new framework
 New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
