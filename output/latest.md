@@ -1,58 +1,67 @@
 # AION Intelligence
 
-## Microsoft cloud revenue beats expectations
-Software group reports overall revenue rose 19% to $92.3bn in quarter to end of September
+## Flávio Bolsonaro claims fraud in Brazil’s presidential election
+But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations
+
+## Google shares tumble 10% after $51bn AI outlay deepens cash burn
+Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations
+
+## Microsoft blames data centre delays for lower capital expenditure
+Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September
+
+## North Korean labour advertised online to Russian factories
+Report into worker pipeline sheds light on deepening economic ties between Moscow and Pyongyang
+
+## Trump calls for Alaska Democratic candidate to be banned from Senate race
+Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters
+
+## FirstFT: Weil leadership tells partners firm should wind down
+Also in today’s newsletter: Google shares tumble as cash burn deepens and dozens killed in Spain high-speed train crash
+
+## Fed holds fire on interest rates despite intensifying inflation
+Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings
 
 ## Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s
 Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company
 
-## Google shares tumble 9% after $51bn AI outlay deepens cash burn
-Search giant missed estimates for revenue and profit as its search business undershot expectations
+## Debt woes throttle European commercial property market
+Office transactions slide to lowest level since 2009 in third quarter
 
 ## Weil leadership tells partners firm should be dissolved
 Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious
 
-## Republicans seek to deflect Epstein anger on to Democrats
-Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign
-
 ## Healey praised business. The feeling was not mutual
 While the Treasury issued supportive quotes from corporate stakeholders, other leaders said the package fell short
-
-## Healey hits banks and savers to fund modest Budget handout
-Chancellor opts for limited household relief as fiscal watchdog warns of ‘pretty grim’ picture for living standards
 
 ## Oracle rallies after telling investors its AI bet will pay off sooner than expected
 Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn
 
-## London cap for new first-time buyer scheme ‘needs urgent rethink’
-Effectiveness of measures to help buyers on to the ladder called into question while interest rates are elevated, housing experts warn
+## Sensex today | Stock Market Live: Stock to buy today: APL Apollo Tubes (₹2,165)
+Sensex, Nifty, Share Prices Live: APL Apollo Tubes eyes a breakout above ₹2,260 as bullish momentum returns; traders can consider buying with stops below ₹2,020
 
-## Property tax rise will push more landlords to sell, Healey warned
-Measure will yield £575mn for Treasury in 2028-29, but estate agents say it will add to pressures in private rental sector
+## Alphabet shares fall over 10% after earnings miss as AI spending drives cash burn
+Rising infrastructure costs and weaker-than-expected advertising revenue weighed on the technology giant, even as its cloud business expanded rapidly
+
+## Gautam Adani explores €3 billion acquisition of Dutch energy storage group VTTI
+The potential deal could expand Adani Group’s global infrastructure portfolio as energy supply disruptions increase the value of storage facilities
+
+## Ageing muscles sacrifice strength to protect cells, study finds
+Researchers have identified a mitochondrial molecule that could help explain muscle decline and point towards potential treatments for age-related weakness
+
+## Scientists spot icy object beyond Pluto that could be a new dwarf planet
+The discovery highlights how advanced telescopes are helping astronomers uncover distant icy worlds and deepen understanding of the solar system.
+
+## US teachers rethink homework and exams as AI chatbots reshape classrooms
+From oral examinations to handwritten essays, educators are redesigning classroom assessments to understand what students know and how they think.
+
+## Fed holds interest rates steady at 3.9% as US inflation remains elevated
+With inflation above target and borrowing costs squeezing homebuyers, policymakers face mounting pressure to balance price stability with economic growth.
 
 ## Apple shows first touchscreen laptops amid product blitz
 The new 14-inch and 16-inch touchscreen MacBook Pros powered by the M5 Pro and M5 Max chips are priced at ₹3,49,900 and ₹4,09,900, respectively.
 
-## Couple of international airlines may opt not to fly from Mumbai for next 2 years: Adani Airports CEO
-While not naming the two airlines, Arun Bansal said discussions with the remaining airlines were expected to conclude over the next four months
-
-## Cancer drug prices: Generics and biosimilars see steep cuts, but most patented drugs remain unchanged
-A new pricing order has lowered costs for hundreds of cancer drug formulations, though patients on several newer therapies may see no immediate relief
-
-## City Union Bank Q2 net up 27% at ₹416 crore on core biz growth
-Total deposits of the bank increased by 21 per cent y-o-y to ₹83,893 crore
-
-## Vedanta net doubles in Q2 on better realisation
-The company’s Zinc cost of production dipped 29 per cent to $703 a tonne after its transition to underground mining
-
-## HUL beats cost pressures with price hikes, savings as net profit rises 3.9%
-Revenue grew 14.5% to ₹18,226 crore, supported by 7% underlying volume growth, even as EBITDA margins contracted by 140 basis points to 22.6%.
-
-## Adani Enterprises Q2 profit plunges 54% to ₹1,492 crore despite revenue growth
-Revenue from operations surged 75% y-o-y to ₹37,216 crore during the September quarter, driven primarily by a sharp expansion in the copper business, whose revenue rose 11-fold to ₹14,772 crore
-
-## Individual investors in Yes Bank’s AT-1 bonds request RBI to ensure implementation of SC judgment
-The individual bond holders forum emphasised that it recognises that the coupon terms must be examined separately for each issuance and that the IM contain provisions relevant to coupon discretion
+## On debut, Jio 2nd most valuable company, behind only parent Reliance Industries
+Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group to the top of India's most valued business houses. Jio’s IPO was oversubscribed 
 
 ## US Federal Reserve keeps rates unchanged, leaves door open to further hikes
 
@@ -74,9 +83,6 @@ In 2026, Dalal Street faces a challenging landscape as the Nifty50 sinks by 13%,
 
 ## Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing
 Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and Anant Ambani commemorated their father's legacy while outlining future ambitions 
-
-## Jio makes strong debut at 21% premium to become India's second-most valuable firm
-Jio Platforms celebrated a remarkable stock market entry, debuting at Rs 1,358 per share. The IPO attracted an impressive 22.19 times oversubscription, with bids surpassing Rs 7.4 lakh crore. Following this, the firm's market capitalisation soared to around Rs 12.5 lakh crore, securing its position 
 
 ## New RSS group registers with justice dept to lobby in America
 RSS Friends’ Foreign Agents Registration Act (FARA) filing came just days before RSS chief Mohan Bhagwat held a major rally at Madison Square Garden in New York
@@ -102,6 +108,15 @@ Akasa Air has also decided to increase the minimum annual leave entitlements to 
 ## Cancer drug prices slashed for 543 brands; new rates from November 9
 Dr Reddy's Laboratories' Azacytin, a 100 mg azacitidine injection, will now cost ₹1,495.04, down from ₹6,337.
 
+## Veteran investor snaps up 2 Hong Kong street shops as values remain well below peaks
+Private equity veteran Ramon Lo has bought two ground-floor shops on Swatow Street in Wan Chai for HK$32.5 million (US$4.1 million), at a time when prices in the district remain about one-third below previous levels. Land Registry records showed that the properties were acquired by Smart Golden Co, 
+
+## Hong Kong holds base rate at 4.25% after US Federal Reserve decision
+The Hong Kong Monetary Authority (HKMA) announced on Thursday that it would keep its base rate unchanged at 4.25 per cent, hours after the US Federal Reserve also decided to hold its benchmark rate steady. The city’s de facto central bank often mirrors steps taken by the US Fed as the Hong Kong’s cu
+
+## Beijing wants Hong Kong to sow the seeds for the digital yuan. Will its plans bear fruit?
+In September, Chief Executive John Lee Ka-chiu unveiled the city’s first five-year plan along with his policy address, highlighting Hong Kong’s strategic role in promoting the greater use of the yuan outside mainland China as a key priority. In the third part of a four-part series on the globalisati
+
 ## Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit
 Leading Chinese robotics company Unitree Robotics on Wednesday reported a 69.93 per cent year-on-year increase in quarterly revenue to 665 million yuan (US$99.7 million), though net profits excluding non-recurring items fell 17.42 per cent to 105 million yuan, as the company released its first earni
 
@@ -117,14 +132,11 @@ Talent recruitment and development are playing a prominent role in Hong Kong’s
 ## China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to build new factories in Europe to beat trade barriers aimed at Chinese EVs China
 
-## Yulan bond debuts in Dubai amid Beijing’s yuan-denominated asset push
-Against a backdrop of geopolitical strains in the Middle East, the Yulan renminbi bond structure has made its debut in Dubai, garnering strong investor interest with its order book more than five times oversubscribed, as global investor appetite for yuan assets remains firm. Bank of China Dubai rang
+## Bangladesh Measles Outbreak Is a ‘Warning Sign’
+A new expert report raises alarm about the country’s vaccination crisis.
 
-## JPMAM plans more active ETFs in China after debut fund hits US$300 million cap on day one
-JPMorgan Asset Management (JPMAM) expects to launch more actively managed exchange-traded funds (ETFs) in mainland China after its first such fund there hit the 2 billion yuan (US$300 million) fundraising cap on the first day of sales, its China chief said. “The first launch is just an opening move 
-
-## China’s stock slide can’t be reversed by massive state buying, analysts warn
-Increasingly apparent state buying in China’s struggling stock market helped drive the benchmark CSI 300 Index up 0.9 per cent on Wednesday, but will be insufficient to engineer a durable rally in the world’s second-largest equity market, according to analysts from global investment banks. “National
+## Flávio Bolsonaro Becomes a Florida Man
+Just like his father, the far-right senator fled Brazil following his presidential election loss.
 
 ## In Deadlocked Israeli Election, Netanyahu Has Upper Hand
 Main opposition parties fail to muster majority.
@@ -144,35 +156,29 @@ Taken together, bilateral deals risk fueling regional rivalries that undermine U
 ## How to Not Change Your Mind
 Even when you’re wrong about the Iran war (or anything else).
 
-## The Quiet Power of International Orders
-What 2 percent milk reveals about our system of rules and norms.
+## Lula’s Election Win in Brazil Is a Relief for China
+Lula’s victory secures the most important destination for Chinese foreign direct investment in the Western Hemisphere and ends a winning streak for Trump-supported candidates.
 
-## Dawn of the Data Centers
-A global boom is underway. Are countries ready?
+## Tokayev Proposes Dipping Into National Fund to Turn Kazakhstan into a ‘Big Construction Site’
+In his annual state of the nation address, Tokayev laid out an ambitious spending spree focused on infrastructure and investment.
 
-## Toward a New ‘Normal’: The Recalibration of the Japan-US Alliance
-Since the Cold War, Japan and the U.S. have both been seeking normalcy, but they define the term very differently.
+## The Evolution of Taiwan’s Military
+Insights from Eric Setzekorn.
 
-## What Type of Country Should India Be? The Debate Over the Sharjeel Imam Interview
-Entrenching more group rights would permanently institutionalize the division of Indian society — already an issue — into a large number of groups with different privileges.
+## Can Singapore Help Europe Rethink Its Indo-Pacific Strategy?
+Singapore has spent decades making itself indispensable to a global economy in which it has little control over the behavior of the major powers. Germany might be seeking to learn from that example.
 
-## Bangladesh’s Persisting Mob Violence
-Are law enforcement agencies responding swiftly when someone is beaten on the street, or when a mob vandalizes an institution?
+## Will Pakistan Fight in Saudi Arabia’s Wars?
+Questions have been raised over the strength of Pakistan’s security commitment to Saudi Arabia ever since the SMDA’s inception in September 2025.
 
-## How Would China Actually Govern Taiwan?
-A recent academic symposium offers new insights into China’s vision of a “Taiwan Special Administrative Region.”
+## Why Are Russia and China Cooperating on ‘Patriotic Education’?
+China has decades of experience in “patriotic education.” What it can learn from Russia is how to use education to support a war effort.
 
-## Mongolia Eyes a Non-Permanent Seat on the UNSC – in 2048
-To make good on Khurelsukh’s announcement, Mongolia’s foreign policy will require more than two decades of sustained continuity.
+## China Wants Its AI to Go Global, on Its Own Terms
+Beijing also wants tailored control over what technology leaves, who acquires it, and what remains in the hands of the Chinese government.
 
-## Japan Confirms Dispatch to India to Explore Anti-Ship Missile Drills
-Discussions highlight the training challenges posed by Japan’s expanding arsenal and opportunities for closer defense cooperation with New Delhi.
-
-## The Future of India-Israel Ties After Israel’s Election
-The election may change the political setting in which India-Israel relations operate, but it is unlikely to erase the interests and institutional links that sustain them.
-
-## China Is Learning to Sell Japanese Culture Better Than Japan
-In much of the world, Chinese firms introduced local consumers to Japanese aesthetics. Now, they are ready to sell Japanese culture back to Japan itself.
+## Kyrgyzstan Temporarily Bans Imports of Apples (and More)
+The EU – which is the top exporter of apples to Kyrgyzstan – urged Bishkek against the ban, noting that WTO rules require “exceptional circumstances” to justify such measures.
 
 ## Jihadism’s Global Struggle, and Where It’s Gaining
 In 2018, Barak Mendelsohn wrote, “Bound to Fail: Transnational Jihadism and the Aggregation Problem,” where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counterterrorism forces to co
@@ -222,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Riot police deployed in Madrid as protests erupt over deadly train crash
+A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
+
+## Israelis rally for Jewish-Arab government after election gains
+Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.
+
+## No clear winner in Israel election with nearly 90 percent of votes counted
+Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.
+
+## Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks
+Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.
+
+## Romania extends pre-trial detention of far-right politician Calin Georgescu
+The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
+
+## UN experts sound alarm at excessive use of force in French student protests
+UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
+
+## Costa Rica’s mega-prison receives first inmates
+President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
+
 ## Indonesian students demand action on wildfires and rising costs
 Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs.
-
-## What’s next for Brazil’s Flavio Bolsonaro after election defeat?
-The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
-
-## UN votes to condemn embargo of Cuba despite US lobbying push
-US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
-
-## Rwanda’s milk bars
-Rwanda’s milk bars
-
-## US envoy reads anti-Castro book during Cuban FM’s UN address
-US envoy reads anti-Castro book during Cuban FM’s UN address
-
-## Spain demands answers after deadliest train disaster in over a decade
-At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.
-
-## Putin: Russia is African continent’s best partner, not ‘colonial’ West
-Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.
-
-## Fed leaves interest rates unchanged despite inflation in the US
-Rates will remain 3.75-4 percent even as inflation continues to rise.
 
 ## GST registration explained: What businesses need to know about CBIC’s new framework
 New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
