@@ -1,73 +1,76 @@
 # AION Intelligence
 
-## Palantir shareholders want to know when they’ll get their money back
-Vibesourcing the Pili
-
 ## US economy beats forecasts to grow at 3.4% rate in third quarter
 AI investment boom and solid consumer spending continue to fuel growth in world’s largest economy
 
-## Christine Lagarde to step down as ECB president in February
-Departure announced just hours before central bank held interest rates at 2.5%
+## Burnham’s Budget balancing act
+The 2026 Budget: your questions answered
 
-## The two pragmatists leading the race to run the ECB
-Pablo Hernández de Cos and Klaas Knot are currently frontrunners to become the fifth president of Europe’s top monetary institution
+## Venezuela opposition leader hails Trump on return from exile
+María Corina Machado praises US president and secretary of state after Washington sets out timetable for elections
 
-## Strong US inflation and growth will keep Fed on a tightening path
-Third-quarter growth figures and September’s PCE inflation data confirm the US economy is running hot
+## DoorDash buys Instacart just as AI rewrites the menu
+Combined company to have same share of the US online grocery market as Walmart
 
-## Reader callout: Has IVF treatment hit your finances?
-Uncertainty over costs can leave people facing difficult financial decisions when looking to start a family
+## Brazil politicians back away from Bolsonaro election fraud claims
+Even some allies of the losing candidate reject complaints that Lula won unfairly
 
-## French prosecutors say Trappes gunman targeted Muslims and Africans
-Suspect ‘Kevin T’ does not regret attacks that killed one and injured others, anti-terror official says
+## The legacy of Christine Lagarde
+After a shaky start, the outgoing president leaves the ECB in solid shape
 
-## South Africa blocks anti-foreigner protests ahead of elections
-Durban court issues temporary ban on anti-immigrant demonstrations by March and March movement, which have often turned violent
+## John Healey’s Budget spending plans strain credibility, economists warn
+Leading think-tanks say chancellor’s pledge to slash deficit does not seem likely given pressures on public services and households
+
+## Healey commits to set out benefits cuts this year
+Chancellor responds to criticism that Wednesday’s Budget rested on unrealistic spending assumptions
+
+## Burnham demands answers over demise of Poundland
+UK prime minister seeks explanation over why discount chain’s US owners are pushing it towards administration
+
+## Google is eating itself — but it could still eat everyone else too
+Leadership in the AI race can be won, lost and won again at speed
+
+## New Jersey governor threatens to block delivery of Russian diesel cargoes
+Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port
+
+## US tech stocks fall after earnings fuel AI spending concerns
+Nasdaq 100 drops 1.5% after Google parent Alphabet and Microsoft report lower than expected capex
+
+## Eli Lilly profits surge on demand for weight-loss drugs
+US company’s shares hit new record as it raises revenue outlook for second time in three months
 
 ## Alphabet shares tumble in $500bn rout
 Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations
 
-## US tech stocks fall after earnings fuel AI spending concerns
-Nasdaq 100 opens 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex
+## Investors double withdrawal requests at Partners’ flagship US private equity fund
+Wealthy individuals sought to pull 15% of the fund’s net assets during the third quarter
 
-## Eli Lilly profits surge on demand for weight-loss drugs
-US drugmaker to raise its revenue outlook for the second time in three months
+## NYSE owner’s tokenised stock plan hits hurdle as big companies object
+Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included
 
-## Poundland on brink of collapse with 12,000 jobs at risk
-UK discount retailer files notice of intent to appoint administrators after sale process fails
+## SC refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’
+The court asks why an MP wants to file a public interest petition under Article 32 when she can raise the issue in the Parliament
 
-## How is AI changing the way FT data reporters work?
-The voluminous output of agents requires equally voluminous verification
-
-## Crypto exchange HTX agrees to exit UK after being sued by watchdog
-Venture linked to billionaire Trump backer Justin Sun sued by FCA for ‘unlawfully promoting crypto asset services’
-
-## BYD’s export surge helps offset sales weakness in China
-Electric vehicle maker’s foreign expansion takes on rising importance amid roadblocks in domestic market
-
-## Noel Tata retires from Trent, to step down from other key group companies on Nov 12
-Trent named Bahram Vakil to succeed him as chair, with Tata serving as Chairman Emeritus.
-
-## India’s LPG demand likely to fall by 100,000 b/d in 2026
-Global gasoline demand is also forecasted to decline by 330,000 b/d in 2026, a downward revision of 450,000 b/d from the pre-conflict outlook
-
-## Axiro Semiconductor announces investment in ThinSiC
-Axiro entered into a long-term commercial partnership to support the development and commercialisation of ThinSiC’s silicon carbide power device technology
-
-## This Diwali, pricey dry fruits could usher in different mix in gift boxes
-Prices of pistachios have increased by 30-40 per cent, while almond rates are up 20% with marginal rise in other commodities
-
-## Bharat RE Summit to explore financing mechanisms, bridge funding gap: MNRE Secretary
-The BRESE 2026 is scheduled to be held in the national capital from November 2-5
+## ARCIL’s logs 23% increase in standalone Q2 FY27 net profit at ₹147 crore
+Fees and other income soared 64 per cent y-o-y to ₹110 crore (₹67 crore in Q2 FY26). Investment income jumped 57 per cent y-o-y to ₹112 crore (₹71 crore). Total expenses declined 31 per cent y-o-y to ₹42 crore
 
 ## Learn, Earn, Flourish: Dr Reddy’s blueprint for workforce transformation
 Selected youth receive a stipend and hostel facilities and can pursue their studies while working, eventually earning degrees in pharmacy, engineering, sciences or other specialisations required for manufacturing operations
 
-## Tamil Nadu Cabinet clears incentives for eight new industrial projects worth ₹3,767 crore
-The proposed projects span emerging sectors, including technical textiles, aerospace and defence, life sciences and electronics, among others, according to sources
+## Post rate hike, highly rated large companies step up rupee bond issuances
+Meanwhile, NABARD is believed to be eyeing a ₹6,000 crore fund mobilisation via a 5-year NCD issuance, according to market sources
 
-## Sundaram Home Finance Q2 net profit up 20%
-Emerging Business Disbursements rise 63% on small towns branch expansion Assets Under Management up 14% to ₹21,213 crores
+## The charitable side of Indian corporates
+India’s corporate social responsibility (CSR) spending is projected to cross ₹1.1 lakh crore annually by FY35, but the expanding pool of funds masks gaps in how companies give and employees participate. The top 200 companies already account for nearly half of the overall CSR expenditure, while emplo
+
+## Axis Trusteeship issues notice to Yes Bank to restore/ reactivate AT-1 bonds
+ATSL said the aforesaid notice has also been copied to RBI, SEBI, BSE, NSE, and depositories — NSDL and CDSL
+
+## Star Health CFO Nilesh Kambli says insurance distribution rule changes not to cause much disruption
+Many group health insurance businesses may shift to retail on the bancassurance channel if the proposed changes take effect in their current form, Kambli says
+
+## Editorial. Stock against shock
+India should move fast to boost strategic oil reserves
 
 ## Stock market today: BSE Sensex ends 900 points higher, NSE Nifty50 closes above 22,800
 
@@ -93,6 +96,18 @@ In a market shaken by geopolitical tensions, oil prices saw a downturn as trader
 ## Financial services firm Chola to raise 5k crore through QIP
 
 
+## Delhi's Jamia University agrees to students’ demands, sets timeline for union polls
+The Jamia university administration has directed that the students' union constitution be completed by May 15, 2027.
+
+## TVK functionary arrested for allegedly sexually harassing college student in Tamil Nadu
+Citing heavy rainfall, TVK's district executive committee member Christopher offered to drive the two students home in his car.
+
+## Delhi traders urge Rahul Gandhi to postpone INDIA bloc's Ramlila Maidan rally over Diwali business loss fears
+In a letter to the Leader of the Opposition in the Lok Sabha, the traders' body urged the Congress leadership to reschedule the rally until after November 10.
+
+## Delhi Metro trains to operate till midnight on Oct 30 for Diljit Dosanjh concert at JLN Stadium
+The move comes as the concert is expected to draw approximately 70,000 spectators.
+
 ## Tamil Nadu transfers DGP-prisons after two jailbreaks in a week
 Rathore has been posted as the DGP-chief vigilance officer, Vigilance, Tamil Nadu Generation and Distribution Corporation Ltd (TANGEDCO).
 
@@ -105,17 +120,8 @@ Vivek Aggarwal, secretary, ministry of culture, told HT last month that the whol
 ## Park Hospitals strengthens north India footprint with Rs200 crore investment, targets 6,600 beds
 The hospital is being developed in partnership with the Prayagraj Municipal Corporation under a public-private partnership (PPP) model.
 
-## UP tightens government job verification rules, says political ideology alone cannot disqualify candidates
-A government order states that political ideology alone cannot be grounds for denying employment.
-
-## HT Evening News Brief October 29: Israel ‘vote theft’ row, SC on digital fraud, Imran Khan’s OCI case, India hockey in action
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
-
-## IndiGo CEO says airline has ‘no choice’ but to raise fares as fuel bill jumps 67%
-The airline’s fuel bill surged 67.2% year-on-year to nearly ₹9,967 crore, while it recovered only about 60% of the increase through fares and other measures.
-
-## ‘Silence is not an option’: Mamata extends support to INDIA bloc's Nov-1 ‘Chalo Dilli Ramlila March’
-In a post on X, Banerjee said the opposition bloc would stand united in its fight against alleged electoral irregularities.
+## DBS Vantage Card Elevates the DBS Treasures Experience with Hong Kong’s First Visa Infinite Privilege Card
+[The content of this article has been produced by our advertising partner.] The first DBS Hong Kong Visa Infinite Priviledge Card has finally arrived. The “DBS Vantage Card" marks a new chapter in affluent banking as we see a stronger connection has been built through wealth, travel and lifestyle in
 
 ## China’s BYD, Geely report profit jump as sales abroad surge, though local market stalls
 China’s two largest carmakers, BYD and Geely Auto, reported a jump in their third-quarter earnings, propelled by surging overseas sales as they intensified pressure on established international marques in Europe and Southeast Asia. BYD, mainland China’s largest automotive group, posted a net profit 
@@ -138,8 +144,11 @@ The tightening of Hong Kong’s securities regulations – in the wake of proper
 ## Veteran investor snaps up 2 Hong Kong street shops as values remain well below peaks
 Private equity veteran Ramon Lo has bought two ground-floor shops on Swatow Street in Wan Chai for HK$32.5 million (US$4.1 million), at a time when prices in the district remain about one-third below previous levels. Land Registry records showed that the properties were acquired by Smart Golden Co, 
 
-## Hong Kong banks leave rates unchanged as HKMA warns of uncertainties
-The Hong Kong Monetary Authority (HKMA) warned of considerable uncertainty over the path of US interest rates as it kept its base rate unchanged at 4.25 per cent on Thursday, hours after the US Federal Reserve also held its benchmark rate steady. Hong Kong’s three note-issuing banks – HSBC, Bank of 
+## A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
+Netanyahu and Trump appear to be planning another round.
+
+## (Latin) America’s Pastime
+The World Series demonstrated the region’s importance to modern-day baseball.
 
 ## No One Has a Plan for American Decline
 Amid Washington’s fractious foreign-policy debate, there’s one possibility too grim to think about.
@@ -158,12 +167,6 @@ Just like his father, the far-right senator fled Brazil following his presidenti
 
 ## In Deadlocked Israeli Election, Netanyahu Has Upper Hand
 Main opposition parties fail to muster majority.
-
-## Has Russia’s Influence in Africa Peaked?
-Moscow’s role across the continent has become increasingly controversial.
-
-## Ukrainians Have a Long-Shot Plan to Boot Russia from the U.N.
-An expert team argues that the Soviet succession was improperly decided.
 
 ## Asian Cybersecurity in the Age of AI and Quantum Computing
 AI has changed – perhaps forever – the tone and tenor of discussions at Singapore International Cyber Week, and probably all cyber forums of equal scale.
@@ -189,6 +192,12 @@ Two important rulings on political dynasties and the budget system could have si
 ## Pakistan’s Artificial Intelligence Warfare
 Faced with multipronged challenges, the country has gradually incorporated AI into its security strategy.
 
+## What Israel’s Election Results Mean for the Middle East and Beyond
+Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
+
+## What’s a Revolution in Military Affairs Good For?
+For decades, militaries have chased the next revolution in warfare. But what actually makes a revolution in military affairs revolutionary? Is there one happening now? Does it matter? Is it just about drones and AI or something more? Ryan digs into the promises, pitfalls, and persistent myths of mil
+
 ## A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech
 It’s a strange time for the defense technology sector. Despite the headlines of record capital, valuations, and defense budgets, there is a growing unease among investors and leadership teams. Production contracts remain as elusive as ever, and a generation of startups is struggling to extend their 
 
@@ -206,12 +215,6 @@ Since returning to office in January 2025, the Trump administration has aggressi
 
 ## The Machine Staff
 At Nellis Air Force Base last year, an AI system was tasked with building courses of action, a complex operational problem that military planners have spent generations learning to perform. The AI system took less than a minute to complete its task with solutions rated at 97 percent viable and tacti
-
-## The Anti-Taliban Resistance Has Survived. Can It Win?
-As the Taliban enters its sixth year in power, it remains more powerful than it was before the Sept. 11 attacks. The Taliban’s flag flies in all of Afghanistan’s 34 provinces. While only Russia has formally recognized the group as the country’s government, China and the United Arab Emirates have off
-
-## Tensions Rise
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIndications of a return to direct hostilities are increasing. The United States is evacuating more troops an
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight
-American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced.
+## Cornell begins no confidence vote over handling of alleged gang rape
+Faculty vote will continue until next Friday and could send message that school's president has lost their confidence.
 
-## Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick
-Former Manchester United captain Gary Neville believes root of team’s problems is Glazer family, urges them to sell up.
+## Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
+Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
 
-## Damascus, Amman contradict each other on attack that killed civilians
-Analysts say accountability is needed to quell public outrage over killing of family in southern Syria.
+## Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
+With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
 
-## Indonesians share impact of haze on their livelihoods
-Months of forest fires and toxic haze in Indonesia has severely disrupted daily life.
+## ‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support
+Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate
 
-## Rising fuel costs force passengers off cruise ship
-203 passengers have been forced to disembark from a US cruise ship.
+## Pentagon fires general it says leaked classified information to media
+Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.
 
-## The megadonors financing the US midterms to influence policy
-Who are the groups funding the US midterm campaigns and what are they hoping to influence?
+## Texas Republican group seeks to block certification of state’s election
+Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.
 
-## Men pulled from vehicle stranded by floods in Syria
-This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.
+## US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed
+Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.
 
-## Bangladesh’s Shadman Islam hits century, but West Indies force collapse
-Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.
+## Finland launches criminal probe of suspected environmental damage by Google
+The US tech giant is investing $15bn in a huge new data centre project in northern Finland.
 
 ## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
 The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
