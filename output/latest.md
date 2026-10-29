@@ -1,118 +1,121 @@
 # AION Intelligence
 
-## Flávio Bolsonaro claims fraud in Brazil’s presidential election
-But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations
+## Healey pledges to cut welfare spending as he defends Budget
+Chancellor promises to set out plans to bring down ‘unsustainable’ bill by end of the year
 
-## Google shares tumble 10% after $51bn AI outlay deepens cash burn
-Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations
+## US tech stocks set to fall after earnings fuel AI spending concerns
+Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex
 
-## Microsoft blames data centre delays for lower capital expenditure
-Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September
+## Hello Kitty gets caught up in Japan-China spat
+Sanrio apologises for collaboration with wartime spy thriller that drew outrage over depiction of torture
 
-## North Korean labour advertised online to Russian factories
-Report into worker pipeline sheds light on deepening economic ties between Moscow and Pyongyang
+## EU can compete with US AI giants, says Brussels’ frontier-model champion
+Also in this newsletter: Are the EU’s short seller rules fit for purpose?
 
-## Trump calls for Alaska Democratic candidate to be banned from Senate race
-Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters
+## What has caused the bad economic vibes, and does it actually matter?
+Level-headed consumers
 
-## FirstFT: Weil leadership tells partners firm should wind down
-Also in today’s newsletter: Google shares tumble as cash burn deepens and dozens killed in Spain high-speed train crash
+## FirstFT: What’s next for Burnham after the Budget?
+Also in today’s newsletter: US holds rates and Google shares tumble
 
-## Fed holds fire on interest rates despite intensifying inflation
-Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings
+## Weil’s Lehman moment
+The law firm’s leadership held a meeting with partners to recommend winding the practice down
 
-## Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s
-Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company
+## Israel vote leaves door open to Iran attack
+Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say
 
-## Debt woes throttle European commercial property market
-Office transactions slide to lowest level since 2009 in third quarter
+## Healey’s autumn Budget kicks off the gas doom loop
+Scrapping the standing charge will accelerate households’ move towards alternatives such as heat pumps
 
-## Weil leadership tells partners firm should be dissolved
-Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious
+## What we learnt about European banking’s almost-fab five
+UBS, Santander, Deutsche Bank, BNP Paribas and Standard Chartered’s results showcace region’s various business models — and problems
 
-## Healey praised business. The feeling was not mutual
-While the Treasury issued supportive quotes from corporate stakeholders, other leaders said the package fell short
+## Private equity grows up
+The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism
 
-## Oracle rallies after telling investors its AI bet will pay off sooner than expected
-Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn
+## Traditional crops offer a taste of tomorrow
+The human diet of the future can draw on traditions from regions that share similar climate conditions — but farmers need more security to experiment
 
-## Sensex today | Stock Market Live: Stock to buy today: APL Apollo Tubes (₹2,165)
-Sensex, Nifty, Share Prices Live: APL Apollo Tubes eyes a breakout above ₹2,260 as bullish momentum returns; traders can consider buying with stops below ₹2,020
+## One Planet Partners raises PE fund, ties up with Japan’s SMTB
+One Planet Partners plans to deploy over ₹3,000 crore with a first close planned by mid-2027
 
-## Alphabet shares fall over 10% after earnings miss as AI spending drives cash burn
-Rising infrastructure costs and weaker-than-expected advertising revenue weighed on the technology giant, even as its cloud business expanded rapidly
+## Q2 Results Today Live: JSW Holdings Q2 PAT jumps, Coal India, Asian Paints, IndiGo, Trent, Laurus Labs, Ambuja Cements, Godrej Consumer, Welspun Corp, Blue Star, Strides Pharma, Milky Mist to announce Q2 results, Adani Ports, Hyundai, PVR Inox, Meesho, Satin Creditcare, Birlasoft, United Spirits gain
+Q2 Results Today, 29th October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
 
-## Gautam Adani explores €3 billion acquisition of Dutch energy storage group VTTI
-The potential deal could expand Adani Group’s global infrastructure portfolio as energy supply disruptions increase the value of storage facilities
+## Sensex today | Stock Market Live: Sensex gains 600 pts, Nifty touches 22,850; Adani Ports leads gainers
+Sensex, Nifty, Share Prices Live: Analysts expect the market to remain volatile but stock-specific action will continue on Q2 results.
 
-## Ageing muscles sacrifice strength to protect cells, study finds
-Researchers have identified a mitochondrial molecule that could help explain muscle decline and point towards potential treatments for age-related weakness
+## TN BESS policy targets 2.5 GW/10 GWh
+The policy offers a 10-year waiver of transmission and wheeling charges, subject to approval by the Tamil Nadu Electricity Regulatory Commission (TNERC)
 
-## Scientists spot icy object beyond Pluto that could be a new dwarf planet
-The discovery highlights how advanced telescopes are helping astronomers uncover distant icy worlds and deepen understanding of the solar system.
+## HUL trades in green as strong Q2 numbers lift stock 1.55%
+At the current price, the stock trades at a symbol P/E of 28.30, well below its 52-week high of ₹2,526 touched on October 28, 2025.
 
-## US teachers rethink homework and exams as AI chatbots reshape classrooms
-From oral examinations to handwritten essays, educators are redesigning classroom assessments to understand what students know and how they think.
+## Adani Ports jumps 4% as analysts pile on with Buy calls after Q2 beat
+Stock opened at ₹1,797, hit ₹1,840 intraday high, with trades worth ₹778.73 crore and over 42 lakh shares traded by noon
 
-## Fed holds interest rates steady at 3.9% as US inflation remains elevated
-With inflation above target and borrowing costs squeezing homebuyers, policymakers face mounting pressure to balance price stability with economic growth.
+## India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh
+"India is fully prepared to share its practical and battle-tested counter-terrorism expertise with ADMM-Plus partners," he said
 
-## Apple shows first touchscreen laptops amid product blitz
-The new 14-inch and 16-inch touchscreen MacBook Pros powered by the M5 Pro and M5 Max chips are priced at ₹3,49,900 and ₹4,09,900, respectively.
+## Govt releases voluntary data sharing framework for power sector
+To ensure protection of sensitive data, the datasets designated as non-shareable by the data issuer entity will remain outside the scope of this framework.
 
-## On debut, Jio 2nd most valuable company, behind only parent Reliance Industries
-Jio Platforms successfully listed its shares at a premium price of Rs 1,358 on debut day. The stock surged to Rs 1,419, resulting in a market capitalisation of Rs 13.1 lakh crore. The listing also elevated the RIL group to the top of India's most valued business houses. Jio’s IPO was oversubscribed 
+## Rupee gains 11 paise to 95.17 against dollar after Fed holds interest rates
+In early trading on Thursday, the rupee gained 11 paise against the US dollar, reaching 95.17. This uptick followed the US Federal Reserve's decision to keep interest rates steady, causing a weakening of the dollar as traders reacted negatively. Observers are now focused on upcoming economic data, e
 
-## US Federal Reserve keeps rates unchanged, leaves door open to further hikes
+## Bank holiday on Karwa Chauth? Will banks be closed on Thursday
+Banking services in various Indian states will face disruptions due to ongoing holidays and approaching regional festivities. Customers are encouraged to consult their local bank schedules for specific closure dates. With Diwali and other major holidays looming in November, it's essential to anticip
 
-
-## Festive season sales are not always bargains: Avoid these 10 money mistakes
-Festive sales are designed to make every purchase feel like a bargain, and the fear of missing out can lead to buying far more than planned. Set a spending limit before the sales begin and list what is genuinely needed. A budget does not take the joy out of the season, but it ensures that the spendi
-
-## First time health buyers increased 2.8X since FY22: Policybazaar
+## TVS Motor Company raises prices
 
 
-## India-Mexico PTA: Talks aim to deepen trade and investment ties
-India and Mexico have embarked on talks for a Preferential Trade Agreement that aims to enhance bilateral trade relations. This initiative is intended to unlock new opportunities in key sectors such as automotive, pharmaceuticals, and electronics. Key topics during the discussions will include negot
+## Oil prices slip as peace hopes ease supply fears, Middle East tensions limit losses
+In a market shaken by geopolitical tensions, oil prices saw a downturn as traders considered possible U.S.-Iran diplomatic actions against the backdrop of supply disruption risks. Brent crude prices slipped by 0.74%, while WTI dropped by 0.89%. The recent assaults by Yemen's Houthis have further com
 
-## Advent raises $30bn, starts mid-market fund
+## Financial services firm Chola to raise 5k crore through QIP
 
 
-## Nifty 50 heads for worst year in a decade: Should you buy stocks now or wait?
-In 2026, Dalal Street faces a challenging landscape as the Nifty50 sinks by 13%, prompting investors to weigh the merits of buying stocks at discounted rates. The path to market recovery hinges on several factors: the resurgence of earnings, influx of foreign investments, and fluctuations in crude o
+## Meesho’s 2nd qtr loss narrows 68% to 132cr
 
-## Mukesh Ambani gets teary-eyed as children talk about Reliance's journey at Jio listing
-Jio Platforms Limited made a notable debut on the stock market, listing at a premium of 21.36%. The public issue was highly successful, being subscribed 22.19 times and valued at over Rs 10 lakh crore. Isha, Akash, and Anant Ambani commemorated their father's legacy while outlining future ambitions 
 
-## New RSS group registers with justice dept to lobby in America
-RSS Friends’ Foreign Agents Registration Act (FARA) filing came just days before RSS chief Mohan Bhagwat held a major rally at Madison Square Garden in New York
+## United Spirits Q2 net falls 8% to 428cr
 
-## UP MLC election results: BJP suffers setback in strongholds Varanasi and Lucknow, SP gets shot in the arm
-In the results announced on Wednesday, the BJP’s tally of six was the same as in the 2020 Legislative Council election.
 
-## Airlines seek more time to shift international flights to Navi Mumbai airport
-MIAL presented its redevelopment plans and proposed temporarily shifting international traffic accounting for five million passengers per annum (MPPA) to NMIA.
+## SC rejects actor's plea seeking recognition of relationship with Rajesh Khanna as marriage
+SC rejects actor's plea seeking recognition of relationship with Rajesh Khanna as marriage
 
-## Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2
-Tension prevailed at the counting centre during the counting of votes for the Darbhanga graduate constituency in the evening.
+## Progress made but more to do: Top UNDP India official on global biodiversity targets
+HT’s Jasjeev Gandhiok spoke to Ruchi Pant, head, Natural Resource Management and Biodiversity Conservation, UNDP India, on the key outcomes expected from the talks and what it means for India
 
-## NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent
-Siddique is considered close to Parth, and his appointment marked Siddique’s second significant political milestone in just five months within the organization.
+## Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation
+Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation
 
-## Antilia bomb scare: Court to examine first witness on November 4 as trial enters evidence stage
-Hiran's son Meet, brother Vinod and widow Vimla are scheduled to testify on November 23, December 4 and December 8, respectively.
+## Karnataka SIR: Congress minister defends deletions, says exercise legitimate unlike other states
+Karnataka Congress chief B K Hariprasad questioned the exclusion of voters classified as absent during SIR
 
-## Akasa Air to hike pilot salaries by up to 20%, increase annual leave entitlements
-Akasa Air has also decided to increase the minimum annual leave entitlements to 42 days.
+## No ‘paani’ or ‘abba’ in Bengali textbooks: Govt panel plans syllabus revamp from 2027
+Chatterjee said the committee avoided major changes to the textbooks because they were working against a tight deadline.
 
-## Cancer drug prices slashed for 543 brands; new rates from November 9
-Dr Reddy's Laboratories' Azacytin, a 100 mg azacitidine injection, will now cost ₹1,495.04, down from ₹6,337.
+## Chennai youth convicted to 22 yrs imprisonment for sexually assaulting minor girl
+The youth hailing from Manali in North Chennai made false promises of marrying the minor girl and sexually assaulted her in 2018
+
+## ‘Why is his arrest required?’: Kerala HC stays arrest of judge whose son was involved in Kochi Mercedes crash
+The minor driver was booked for charges including rash and negligent driving and culpable homicide not amounting to murder, but was later released on bail.
+
+## Man stabbed to death by food vendor after he asked for extra chhole in Delhi's Nihal Vihar
+The deceased, identified as Sandeep, worked as a driver and was allegedly attacked during an argument with a food vendor who was selling chhole bhature.
+
+## Hong Kong poised for capital inflow amid unrest in France, Middle East war: AllianzGI
+Recent unrest in Europe and the Middle East war could prompt investors to seek greater diversification, potentially driving capital inflows to Asian markets including mainland China and Hong Kong in coming months, according to a senior executive of Allianz Global Investors (AllianzGI), one of Europe
+
+## Regulatory tightening in Hong Kong sees delistings outnumber resumptions: report
+The tightening of Hong Kong’s securities regulations – in the wake of property developer Evergrande’s liquidation and unrelated IPO frauds – has resulted in more delistings than resumptions for the first time in three years, according to a report by accountants Grant Thornton. Hong Kong saw 35 delis
 
 ## Veteran investor snaps up 2 Hong Kong street shops as values remain well below peaks
 Private equity veteran Ramon Lo has bought two ground-floor shops on Swatow Street in Wan Chai for HK$32.5 million (US$4.1 million), at a time when prices in the district remain about one-third below previous levels. Land Registry records showed that the properties were acquired by Smart Golden Co, 
 
-## Hong Kong holds base rate at 4.25% after US Federal Reserve decision
-The Hong Kong Monetary Authority (HKMA) announced on Thursday that it would keep its base rate unchanged at 4.25 per cent, hours after the US Federal Reserve also decided to hold its benchmark rate steady. The city’s de facto central bank often mirrors steps taken by the US Fed as the Hong Kong’s cu
+## Hong Kong banks leave rates unchanged as HKMA warns of uncertainties
+The Hong Kong Monetary Authority (HKMA) warned of considerable uncertainty over the path of US interest rates as it kept its base rate unchanged at 4.25 per cent on Thursday, hours after the US Federal Reserve also held its benchmark rate steady. Hong Kong’s three note-issuing banks – HSBC, Bank of 
 
 ## Beijing wants Hong Kong to sow the seeds for the digital yuan. Will its plans bear fruit?
 In September, Chief Executive John Lee Ka-chiu unveiled the city’s first five-year plan along with his policy address, highlighting Hong Kong’s strategic role in promoting the greater use of the yuan outside mainland China as a key priority. In the third part of a four-part series on the globalisati
@@ -126,11 +129,8 @@ Hong Kong’s lived-in home prices fell 0.8 per cent in the third quarter, their
 ## Chinese drug sector’s stature grows at major cancer conference
 An array of Chinese drug makers showcased positive trial results for new cancer treatments at a major European medical conference, underscoring the expanding international influence of China’s biotech sector. Domestic innovative drugs, particularly antibody-drug conjugates (ADCs), delivered impressi
 
-## Why Hong Kong’s extensive I&T ecosystem and global connectivity appeal to top-tier talent
-Talent recruitment and development are playing a prominent role in Hong Kong’s long-term development strategy as it looks to lure skilled professionals from around the world to drive growth in its key industries. In his first five-year plan announced last month, Chief Executive John Lee Ka-chiu high
-
-## China’s hybrid car exports to EU up 200%; response to Tesla’s ‘flying car’: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD to build new factories in Europe to beat trade barriers aimed at Chinese EVs China
+## Europe Was Never Meant to Be a ‘Regulatory Superpower’
+The EU has a far more potent tool in its arsenal: trade.
 
 ## Bangladesh Measles Outbreak Is a ‘Warning Sign’
 A new expert report raises alarm about the country’s vaccination crisis.
@@ -153,8 +153,17 @@ With a pro-military government in power and nationalism on the rise, locals fear
 ## Trump’s Middle East Dealmaking Is Working Against Itself
 Taken together, bilateral deals risk fueling regional rivalries that undermine U.S. interests.
 
-## How to Not Change Your Mind
-Even when you’re wrong about the Iran war (or anything else).
+## Singapore, Indonesia Ready to Address Bilateral Issues Including Haze, Minister Says
+For several weeks tension between the two neighbors has been growing over a range of issues including transboundary haze and energy supplies.
+
+## Hegseth Seeks to Reassure Southeast Asia of US Security Commitment to the Region
+Speaking at the ASEAN Defense Ministers' Meeting in Cebu, the U.S. secretary of war pledged to "defend our interests and the interests of our allies and partners.”
+
+## The Impact of the Philippine Supreme Court’s Recent Landmark Rulings
+Two important rulings on political dynasties and the budget system could have significant implications for the Marcos administration.
+
+## Pakistan’s Artificial Intelligence Warfare
+Faced with multipronged challenges, the country has gradually incorporated AI into its security strategy.
 
 ## Lula’s Election Win in Brazil Is a Relief for China
 Lula’s victory secures the most important destination for Chinese foreign direct investment in the Western Hemisphere and ends a winning streak for Trump-supported candidates.
@@ -167,18 +176,6 @@ Insights from Eric Setzekorn.
 
 ## Can Singapore Help Europe Rethink Its Indo-Pacific Strategy?
 Singapore has spent decades making itself indispensable to a global economy in which it has little control over the behavior of the major powers. Germany might be seeking to learn from that example.
-
-## Will Pakistan Fight in Saudi Arabia’s Wars?
-Questions have been raised over the strength of Pakistan’s security commitment to Saudi Arabia ever since the SMDA’s inception in September 2025.
-
-## Why Are Russia and China Cooperating on ‘Patriotic Education’?
-China has decades of experience in “patriotic education.” What it can learn from Russia is how to use education to support a war effort.
-
-## China Wants Its AI to Go Global, on Its Own Terms
-Beijing also wants tailored control over what technology leaves, who acquires it, and what remains in the hands of the Chinese government.
-
-## Kyrgyzstan Temporarily Bans Imports of Apples (and More)
-The EU – which is the top exporter of apples to Kyrgyzstan – urged Bishkek against the ban, noting that WTO rules require “exceptional circumstances” to justify such measures.
 
 ## Jihadism’s Global Struggle, and Where It’s Gaining
 In 2018, Barak Mendelsohn wrote, “Bound to Fail: Transnational Jihadism and the Aggregation Problem,” where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counterterrorism forces to co
@@ -228,35 +225,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Riot police deployed in Madrid as protests erupt over deadly train crash
-A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
+## US midterms: Five days to go – What the polls say as Trump, Harris campaign
+With five days until the US midterms, here's what polls show, the latest campaign news and what's next.
 
-## Israelis rally for Jewish-Arab government after election gains
-Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.
+## What European students can learn from their Serbian peers
+The Serbian student mobilisation chose a political strategy that ensured its success where others had failed.
 
-## No clear winner in Israel election with nearly 90 percent of votes counted
-Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.
+## Europe’s wealth gap: Older households eight times richer than young ones
+As protests over living costs and programme cuts spread across Europe, under-35s hold 2.8%t of household wealth.
 
-## Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks
-Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.
+## Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarterfinals
+After a 1-1 draw in normal time, Liverpool win 6-5 to edge a narrow win after penalties in last-16 match at Anfield.
 
-## Romania extends pre-trial detention of far-right politician Calin Georgescu
-The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
+## Russia’s alleged sabotage campaign in Europe raises fears of escalation
+From drone incursions to an alleged campaign of assassinations, Russia is feared to be pressing a shadow war.
 
-## UN experts sound alarm at excessive use of force in French student protests
-UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
+## Why a Democratic win in US midterms could adversely affect Europe
+Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.
 
-## Costa Rica’s mega-prison receives first inmates
-President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
+## Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?
+Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.
 
-## Indonesian students demand action on wildfires and rising costs
-Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs.
-
-## GST registration explained: What businesses need to know about CBIC’s new framework
-New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
+## Russia says more than 600 drones launched towards Moscow overnight
+The attack is the latest in a series of major drone assaults targeting the Moscow region.
 
 ## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
 The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
+
+## GST registration explained: What businesses need to know about CBIC’s new framework
+New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
 
 ## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
 Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
@@ -275,6 +272,9 @@ Demand spans experience in commercial and corporate disputes, including regulato
 
 ## GST tribunal allows airlines to claim tax refund on cancelled tickets if fare, GST returned to passengers
 The case relates to eight GST refund claims totalling ₹45,92,528 by Singapore Airlines for the period between October 2019 and March 2021. During the period, owing to COVID-19, the airline had to cancel flights and returned fares and GST to passengers. However, it could not adjust the credit notes a
+
+## Sebi to review FPI compliance norms, issue consultation paper to align with global standards
+Acknowledging that some compliance requirements in India remain more onerous than those in other major jurisdictions, Pandey said it is examining the existing norms to facilitate greater foreign investor participation in domestic markets.
 
 ## India’s record bank cash surplus fades as RBI curbs rupee bets
 Indian banks have seen their excess funds drop significantly as the Reserve Bank of India maintains liquidity tightness. This monetary policy is aimed at curbing speculation against the rupee, which has reached critical levels. The central bank has provided limited liquidity support and capped assis
@@ -296,7 +296,4 @@ RBI imposes strict regulations on banks to ensure transparency for depositors an
 
 ## Repo rate seen peaking at 6% as December hike odds rise: MPC minutes analysis
 Two external members favoured retaining the neutral stance, while most members emphasised that the change did not signal a series of hikes. Instead, it indicated that rate cuts were off the table for now, with the future policy path allowing for further increases or a pause, according to Barclays In
-
-## Government plans to pare stakes in 4 PSU banks to 75%
-The Union government announced in the 2021-22 budget that, besides IDBI Bank, it would take up two public sector banks and one general insurance company for privatisation.
 
