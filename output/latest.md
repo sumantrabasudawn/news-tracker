@@ -1,52 +1,43 @@
 # AION Intelligence
 
-## US economy beats forecasts to grow at 3.4% rate in third quarter
-AI investment boom and solid consumer spending continue to fuel growth in world’s largest economy
+## Intel shares fall 22% as weak sales outlook dents turnaround
+Chipmaker forecasts lower than expected PC chip sales and falling margins
 
-## Burnham’s Budget balancing act
-The 2026 Budget: your questions answered
+## Amazon shares slide on lower Christmas sales forecast
+Ecommerce giant posts disappointing sales and guidance despite booming cloud unit
 
-## Venezuela opposition leader hails Trump on return from exile
-María Corina Machado praises US president and secretary of state after Washington sets out timetable for elections
+## Swedish academic claims he has been barred from UK over pro-Palestinian views
+Climate activist Andreas Malm, author of ‘How to Blow Up a Pipeline’, was due to speak alongside Palestine Action co-founder next week
 
-## DoorDash buys Instacart just as AI rewrites the menu
-Combined company to have same share of the US online grocery market as Walmart
+## Healey undermines Burnham by saying UK will not rejoin EU in his lifetime
+Chancellor also has to clarify his remarks on welfare after suggesting government will cut spending on benefits before the next election
 
-## Brazil politicians back away from Bolsonaro election fraud claims
-Even some allies of the losing candidate reject complaints that Lula won unfairly
+## Uproar in Alaska sparks Democratic fears for Senate majority
+Campaign mishaps and infighting could undermine party’s push to take Republican strongholds
 
-## The legacy of Christine Lagarde
-After a shaky start, the outgoing president leaves the ECB in solid shape
-
-## John Healey’s Budget spending plans strain credibility, economists warn
-Leading think-tanks say chancellor’s pledge to slash deficit does not seem likely given pressures on public services and households
-
-## Healey commits to set out benefits cuts this year
-Chancellor responds to criticism that Wednesday’s Budget rested on unrealistic spending assumptions
-
-## Burnham demands answers over demise of Poundland
-UK prime minister seeks explanation over why discount chain’s US owners are pushing it towards administration
-
-## Google is eating itself — but it could still eat everyone else too
-Leadership in the AI race can be won, lost and won again at speed
-
-## New Jersey governor threatens to block delivery of Russian diesel cargoes
-Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port
-
-## US tech stocks fall after earnings fuel AI spending concerns
-Nasdaq 100 drops 1.5% after Google parent Alphabet and Microsoft report lower than expected capex
-
-## Eli Lilly profits surge on demand for weight-loss drugs
-US company’s shares hit new record as it raises revenue outlook for second time in three months
+## Starbucks to resume share buybacks but China shift clouds growth outlook
+US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround
 
 ## Alphabet shares tumble in $500bn rout
 Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations
 
-## Investors double withdrawal requests at Partners’ flagship US private equity fund
-Wealthy individuals sought to pull 15% of the fund’s net assets during the third quarter
+## How Flávio Bolsonaro fled Brazil
+Facing a money laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone
 
-## NYSE owner’s tokenised stock plan hits hurdle as big companies object
-Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included
+## FirstFT: Intel stock drops 20% as it forecasts weaker chip sales
+Also in today’s newsletter: Xi Jinping promotes general who led military purge and Christine Lagarde to step down as ECB president in February
+
+## What killed Weil Gotshal?
+Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures
+
+## Paul Weiss to end financial disclosures as law firm transparency wanes
+New York firm follows industry leader Kirkland & Ellis in withholding performance figures from benchmark industry ranking
+
+## New Jersey governor threatens to block delivery of Russian diesel cargoes
+Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port
+
+## Intel shares plunge 21% as weak PC demand and supply shortages hit revenue outlook
+The chipmaker faces mounting production challenges even as artificial intelligence demand supports its data centre business and longer-term growth ambitions
 
 ## SC refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’
 The court asks why an MP wants to file a public interest petition under Article 32 when she can raise the issue in the Parliament
@@ -69,8 +60,8 @@ ATSL said the aforesaid notice has also been copied to RBI, SEBI, BSE, NSE, and 
 ## Star Health CFO Nilesh Kambli says insurance distribution rule changes not to cause much disruption
 Many group health insurance businesses may shift to retail on the bancassurance channel if the proposed changes take effect in their current form, Kambli says
 
-## Editorial. Stock against shock
-India should move fast to boost strategic oil reserves
+## US Fed rate pause, slower FPI selling lift sensex by 905 pts
+Investor risk-appetite improves, external challenges remain
 
 ## Stock market today: BSE Sensex ends 900 points higher, NSE Nifty50 closes above 22,800
 
@@ -92,9 +83,6 @@ Indian stock markets rallied sharply on Thursday, with the Sensex rising over 90
 
 ## Oil prices slip as peace hopes ease supply fears, Middle East tensions limit losses
 In a market shaken by geopolitical tensions, oil prices saw a downturn as traders considered possible U.S.-Iran diplomatic actions against the backdrop of supply disruption risks. Brent crude prices slipped by 0.74%, while WTI dropped by 0.89%. The recent assaults by Yemen's Houthis have further com
-
-## Financial services firm Chola to raise 5k crore through QIP
-
 
 ## Delhi's Jamia University agrees to students’ demands, sets timeline for union polls
 The Jamia university administration has directed that the students' union constitution be completed by May 15, 2027.
@@ -120,6 +108,9 @@ Vivek Aggarwal, secretary, ministry of culture, told HT last month that the whol
 ## Park Hospitals strengthens north India footprint with Rs200 crore investment, targets 6,600 beds
 The hospital is being developed in partnership with the Prayagraj Municipal Corporation under a public-private partnership (PPP) model.
 
+## As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?
+The artificial intelligence boom in the United States is set to raise corporate valuations even higher as Anthropic prepares for a public listing, reinforcing the dominance of American companies among the world’s most valuable firms and widening the gap with Chinese firms. Anthropic, valued at US$96
+
 ## DBS Vantage Card Elevates the DBS Treasures Experience with Hong Kong’s First Visa Infinite Privilege Card
 [The content of this article has been produced by our advertising partner.] The first DBS Hong Kong Visa Infinite Priviledge Card has finally arrived. The “DBS Vantage Card" marks a new chapter in affluent banking as we see a stronger connection has been built through wealth, travel and lifestyle in
 
@@ -141,8 +132,11 @@ Recent unrest in France and the Middle East war could prompt investors to seek g
 ## Regulatory tightening in Hong Kong sees delistings outnumber resumptions: report
 The tightening of Hong Kong’s securities regulations – in the wake of property developer Evergrande’s liquidation and unrelated IPO frauds – has resulted in more delistings than resumptions for the first time in three years, according to a report by accountants Grant Thornton. Hong Kong saw 35 delis
 
-## Veteran investor snaps up 2 Hong Kong street shops as values remain well below peaks
-Private equity veteran Ramon Lo has bought two ground-floor shops on Swatow Street in Wan Chai for HK$32.5 million (US$4.1 million), at a time when prices in the district remain about one-third below previous levels. Land Registry records showed that the properties were acquired by Smart Golden Co, 
+## How Big of a Threat Are the Houthis?
+The Saudi ambassador to the U.S. compared them to the Islamic State.
+
+## The EU and Canada Struggle to Define Their Relationship
+Von der Leyen downplays Ottawa’s associate member bid.
 
 ## A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
 Netanyahu and Trump appear to be planning another round.
@@ -162,35 +156,29 @@ The EU has a far more potent tool in its arsenal: trade.
 ## Bangladesh Measles Outbreak Is a ‘Warning Sign’
 A new expert report raises alarm about the country’s vaccination crisis.
 
-## Flávio Bolsonaro Becomes a Florida Man
-Just like his father, the far-right senator fled Brazil following his presidential election loss.
+## The Lasting Price of Mbappé’s Apology to China
+The commercial fallout for Real Madrid may be temporary, but the precedent for censoring speech beyond China’s borders is far more consequential.
 
-## In Deadlocked Israeli Election, Netanyahu Has Upper Hand
-Main opposition parties fail to muster majority.
+## Japan Advances Deep-Sea Mining as Support for a Moratorium Grows
+As the first country to have continuously retrieved rare-earth mud from such depths, Japan is in a position to influence the future of the maritime order.
+
+## ‘Made in Vietnam’ Is Harder To Prove Than It Looks
+Companies are under increasing pressure to show that goods produced in their new locations are genuinely made there.
+
+## What a China-US AI Safety Channel Needs
+Trump and Xi agreed to set up a China-U.S. AI incident reporting channel. But AI companies in both countries don’t currently provide the necessary information.
+
+## As North Korea’s Loudspeaker Broadcasts Loom, South Korea Has No Good Options
+Kim Yo Jong said broadcasts near the border will resume this month. For Seoul, every possible response carries a cost.
+
+## A Judicial Challenge to India’s Paternalistic Anti-trafficking Framework
+The Supreme Court distinguishes trafficking from voluntary adult sex work, but legislative reform and effective implementation remain essential to protect dignity and autonomy.
+
+## Russian Help Would Make North Korea’s Missile-test Flurry Worse News
+Many security analysts have attributed North Korean missile progress to the closer relationship between North Korea and Russia.
 
 ## Asian Cybersecurity in the Age of AI and Quantum Computing
 AI has changed – perhaps forever – the tone and tenor of discussions at Singapore International Cyber Week, and probably all cyber forums of equal scale.
-
-## Delhi’s De-Hyphenation Policy is Taking Shape in the South Caucasus
-Azerbaijan backed Pakistan during the May 2025 military clashes. Foreign Minister Jaishankar’s recent visit to Baku is part of an effort at rapprochement.
-
-## Promises and Perils of Nepal’s India Pivot
-Kathmandu should avoid making sweeping claims that constraints in India-Nepal ties have disappeared or that the anti-India nationalism in Nepal has run its course.
-
-## Evolving Scope of the China-Pakistan Economic Corridor
-The two countries have launched the China-Pakistan Information Corridor to counter ‘misleading narratives,’ expand cultural exchanges, and strengthen think tank cooperation.
-
-## Singapore, Indonesia Ready to Address Bilateral Issues Including Haze, Minister Says
-For several weeks tension between the two neighbors has been growing over a range of issues including transboundary haze and energy supplies.
-
-## Hegseth Seeks to Reassure Southeast Asia of US Security Commitment to the Region
-Speaking at the ASEAN Defense Ministers' Meeting in Cebu, the U.S. secretary of war pledged to "defend our interests and the interests of our allies and partners.”
-
-## The Impact of the Philippine Supreme Court’s Recent Landmark Rulings
-Two important rulings on political dynasties and the budget system could have significant implications for the Marcos administration.
-
-## Pakistan’s Artificial Intelligence Warfare
-Faced with multipronged challenges, the country has gradually incorporated AI into its security strategy.
 
 ## What Israel’s Election Results Mean for the Middle East and Beyond
 Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
@@ -240,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cornell begins no confidence vote over handling of alleged gang rape
-Faculty vote will continue until next Friday and could send message that school's president has lost their confidence.
+## Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86
+Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.
 
-## Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
-Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
+## Trump administration attempts to take down leak of ICE personnel data
+An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest.
 
-## Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
-With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
+## Palestinians face growing bans from Al-Aqsa as Israel tightens control
+As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.
 
-## ‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support
-Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate
+## Israel bans travel for Brad Lander after detention in occupied West Bank
+Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.
 
-## Pentagon fires general it says leaked classified information to media
-Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.
+## Real Madrid and FC Barcelona honour Spain train crash victims
+Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.
 
-## Texas Republican group seeks to block certification of state’s election
-Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.
+## Palestinians injured, arrested in Israeli raids across West Bank
+This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues.
 
-## US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed
-Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.
+## Does Russia offer African countries an equal partnership?
+President Vladimir Putin hosts African leaders at a summit in Moscow.
 
-## Finland launches criminal probe of suspected environmental damage by Google
-The US tech giant is investing $15bn in a huge new data centre project in northern Finland.
+## Israel election result shows no overall majority as vote count complete
+Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.
 
 ## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
 The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
