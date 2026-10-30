@@ -1,115 +1,109 @@
 # AION Intelligence
 
-## Weil’s Ramona Nee in talks to join Kirkland & Ellis
-Co-managing partner decided in August not to take over as law firm’s chair
+## Anthropic may not secure investment-grade rating after IPO, Blackstone says
+Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance
 
-## Did Anthropic value itself at $1.2tn in August?
-Not quite Navier-Stokes
+## How AI might be deployed for better bank supervision
+The technology could help tackle some of the cultural issues that contributed to the collapse of SVB
 
-## Offshore oil and gas workers turn to weight-loss drugs to meet 124kg limit
-Industry safety restrictions on flying out to North Sea facilities to start from November
+## How to return big cities to pedestrians
+By closing part of Oxford Street to traffic, London is joining a wider trend
 
-## Qatari mediators return to Tehran in last-ditch effort to broker interim deal
-Talks ahead of next week’s US midterm elections aimed at preventing an intense new round of war
+## US tech stocks tumble as earnings stoke AI spending fears
+Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors
 
-## UK National Wealth Fund to invest in defence tech firm after Budget boost
-Chancellor told taxpayer-funded body to increase focus on the defence industry in return for extra £15.4bn of capital
+## Stick or treat
+Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come
 
-## Russia observes rare Ukraine ceasefire to allow evacuations
-More than 500 residents from Russian-occupied Oleshky to be repatriated to Ukraine via Russia and Belarus
+## Apollo and Thrive capitalise on private equity’s generational shift
+By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order
 
-## Iran hits Hormuz tanker with limpet mines in apparent tactical shift
-Ship damaged on Thursday by attackers in speedboat in first such incident since 2019
+## CD&R pursues buyout of $40bn card processor Global Payments
+Deal for US company would rank among largest buyouts in history
 
-## Global tech sell-off deepens as US earnings stoke AI spending fears
-Wall Street heads for steep losses at Friday’s open after Amazon results disappoint
+## The effects of a midterm ‘blue wave’ will be felt for years
+Senate arithmetic in this electoral cycle could spell disaster for the Republicans
 
-## Partners plans to halve withdrawal limits on strained private equity fund
-Swiss firm is under pressure as clients pull their money from its largest US and European funds
+## Directors’ Deals: Rentokil’s new chair buys in as group’s US fortunes turn
+Rising revenue growth and improved customer retention
 
-## GLP-1 pioneer Lotte Bjerre Knudsen: ‘The food industry has to listen’
-The Danish biochemist on her role in paving the way for weight-loss drugs such as Ozempic and Wegovy — and how they could change the way all of us eat
+## Stockpickers: London Stock Exchange, Ultimate Products, Revolution Beauty
+Our experts discuss which companies to buy, sell or hold this week
 
-## Europe’s EV transition accelerates
-Carmakers are producing more attractive and affordable models to compete with Chinese rivals
-
-## The super-rich are moving to Athens — what does that mean for everyone else?
-Greece has spent years offering incentives to wealthy foreigners. Now its ambition is for them to put down roots by bringing their families and businesses and forming new communities
-
-## Binance halts withdrawals after record $6.3bn heist
+## Binance rushes to recover customer money after $6.3bn heist
 World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach
 
-## GAIL (India) to list city gas distribution arm; profit surges to ₹4,724 cr in Q2 FY27
-GAIL said the quarter reflected resilience in transmission and natural gas marketing performance
+## Noel Tata seeks board vote on Tata Sons restructuring
+The fresh communication comes days after a meeting between Noel Tata and Tata Sons Chairman N Chandrasekaran failed to bridge differences between the two sides.
 
-## Q2 Results Today Live: GAIL, IOC, Sun Pharma, Aditya Birla, BOB, Aether, Smartworks Q2 PAT rise, Zee Entertainment con. PAT declines, Dixon's profit fall, Reliance, Jio Platforms, BEL, GE Vernova, Lodha, Delhivery, NTPC Green to announce Q2 results
-Q2 Results Today, 30th October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
+## Reliance posts record profit, revenue in Q2 as O2C, Jio lead growth
+The results underscore resilience across Reliance’s integrated energy and digital services despite volatile markets
 
-## Extreme poverty falls to 2.6%, but top 10% earn 13 times more than bottom 10%
-The latest assessment highlights improvements in living standards while pointing to persistent disparities across income groups, regions and employment opportunities
+## EKA’s $1 billion bus book, ₹1,000 crore capex fuel push into trucks, six-seaters
+Sudhir Mehta targets ₹2,800 crore in combined FY27 revenue as EKA Mobility expands manufacturing, electric freight and rural mobility operations
 
-## Indian agri scientists find use of iron ore tailings beneficial in agriculture
-Initial experiments carried out by ICAR-IARI with tailings from ArcelorMittal Nippon Steel show higher yield, lower use of fertilizers
+## RIL diversifies crude sourcing, redirects exports amid Middle East disruptions
+Diversified crude supplies and a shift in export destinations helped the company navigate disruptions and capture stronger refining margins during the quarter
 
-## Govt tightens rules for importing medicines, sets minimum shelf-life requirement
-For biological drugs and radiopharmaceuticals, the government has provided a separate threshold, allowing imports where “Sixty percent of the labelled shelf-life may be allowed”
+## Editorial. Capex turnaround
+Uptick in private investment, a happy augury
 
-## AU SFB probes potential vehicle loan data leak; says core systems unaffected
-A cyber threat intelligence platform has reported breach claims, but the bank says allegations of KYC data exposure remain unverified
+## Nifty reclaims 23,000 on Oct’s last trading day; IT, Pharma stocks lead
+Nifty 50 gained 0.51% to close at 23,053, reclaiming the 23,000 mark for the first time in eight sessions, while the Sensex rose 0.42% to 74,459.53
 
-## Sun TV reports 3% increase in consolidated PAT in Q2’27
-Revenue was down 30% to ₹940 crore (₹1,300 crore); the advertisement revenues for Q2’27 declined to ₹253 crore (₹292 crore); Domestic subscription revenues up 2.34% ₹487 crore
+## Jio Platforms Q2 profit rises 13% on subscriber growth, higher ARPU
+Revenue from operations grew 11.3% year-on-year, while EBITDA rose 16.6% to ₹21,879 crore, supported by robust revenue growth and a 250 basis-point expansion in operating margins
 
-## Michelin looking at India as a potential global sourcing base for raw materials
-To engage more with Indian start-ups on rubber plantation management.
+## Indian millers bid higher rates to get FCI’s wheat, offtake 100% in many States
+The government had reduced the overall wheat allocation for sales in the weekly auction held on October 28, by 5,000 tonnes to 1.01 lakh tonnes (lt) from the previous tender
 
-## Rupee Ends Session Strong: gains 33 paise to 94.93 vs dollar; IMF backs FX flexibility
-Closing at 94.93 against the US dollar, the rupee gained 33 paise in trading, buoyed by a soft dollar and positive domestic bond market conditions. Yet, high crude oil prices and escalating tensions in the Middle East limited its gains. Analysts caution that geopolitical factors may create hurdles a
-
-## Global LNG prices jump 6%: Is India's gas affordability under pressure
-The global energy sector is currently undergoing major upheavals that have pushed LNG prices and transport expenses to new heights. Indian oil marketing firms are suffering marked losses on petrol and diesel due to the surge in crude procurement costs. Though there has been a rebound in Middle Easte
-
-## Are banks cyber-ready? RBI seeks proof of compliance amid rising attacks
-In light of increasing cyberattacks on financial institutions, the Reserve Bank of India has shifted its focus to enhancing cybersecurity protocols. Banks are now mandated to fortify their application programming interfaces to avert potential security breaches. Alarming recent incidents, such as dat
-
-## Trent shares jump 7% after strong Q2 results, Zudio's 1,000-store milestone
-Trent's shares increased by 7% on the stock market after reporting a 25% increase in net profit. Revenue from operations also rose by 22%, contributing to significant financial growth. The company opened its 1,000th Zudio store as part of its ongoing expansion strategy. Trent's food and grocery segm
-
-## Amazon shares sink 7% as AI spending fuels cash-burn concerns, overshadow cloud growth
-Amazon's shares dropped significantly in after-hours trading following disappointing earnings and substantial investments in artificial intelligence. The company reported a net income decline and lower-than-expected forecasting for the holiday season. Its cloud computing unit, Amazon Web Services, s
-
-## Google parent Alphabet loses $500 billion in market value as AI spending spooks investors
-In a surprising turn of events on Thursday, Alphabet saw a steep decline in its stock prices due to underwhelming earnings announcements. This downturn has sparked worries about rising costs associated with artificial intelligence and their impact on profit margins. As AI tools challenge Alphabet's 
-
-## Markets open flat; Sensex rises 49 points to 74,200, Nifty at 22,965
+## Tata Motors takes control of Italian commercial vehicle maker Iveco in 3.43-bn euro deal
 
 
-## Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116
-Crude oil prices are increasing as Brent crude surpasses $115 per barrel amid escalating tensions. Attacks by Yemen’s Houthi group on Saudi oil sites raise fears of supply disruptions. Efforts for diplomatic negotiations between Washington and Tehran remain unyielding, contributing to market uncerta
+## Big Tech's AI spending spree puts over $2 trillion in Nasdaq market value at risk
+As concerns rise over the Nasdaq 100, which faces risks surpassing $2 trillion this month, investors are questioning the viability of major AI investments. With firms like Meta and Alphabet boosting their spending projections, uncertainties around profitability loom large. However, positive results 
 
-## Two labourers killed, two injured after crane collapses at construction site in Nagpur
-Police are recording statements and examining safety practices and the possibility of mechanical failure or human error.
+## Reliance Q2 results: RIL posts record Rs 29,550 crore quarterly profit
+Reliance Industries Limited announced impressive figures for FY27, with consolidated gross revenue peaking at Rs 3,62,268 crore. The company experienced a remarkable profit growth of 33.8%, reaching Rs 29,550 crore, largely due to a stellar 67.9% rise in oil-to-chemicals segment EBITDA. While retail
 
-## Rafale M carries out maiden landing, take-off on INS Vikrant
-India ordered 26 Rafale Marine fighter jets from France in April 2025 for the navy, which will operate them from its two aircraft carriers.
+## Bank of Baroda net profit up 36% to Rs 6532 crore
 
-## Evening News Brief October 30: Uttarakhand chopper crash, mega Binance crypto heist and more top stories
-A helicopter crash in Uttarakhand killed six people, including the pilot. Binance said a complex cyberattack put $6.3 billion in crypto assets at risk.
 
-## He meant pro-talks faction: Himanta days after Assam minister 'praises' ULFA
-He meant pro-talks faction: Himanta days after Assam minister 'praises' ULFA
+## Gold hits one-year low, silver slips below $50 as inflation fears bite
+Gold and silver prices have plummeted to their lowest in a year as energy costs surge and inflation remains a pressing concern. The decline in precious metals mirrors waning investor confidence, driven by fears over persistently high interest rates set by the US Federal Reserve. Furthermore, weak de
 
-## Ready for special session on ‘vote chori’, but Rahul Gandhi will never agree: Amit Shah
-Amit Shah’s sharp attack comes ahead of the Opposition’s plan to hold a “public impeachment” of Chief Election Commissioner Gyanesh Kumar on Saturday
+## India's forex kitty shrinks by $1.27 billion as gold reserves slide
+In the week ending October 23, India witnessed a decline in foreign exchange reserves, dropping by $1.269 billion to a total of $719.748 billion. This decrease was primarily driven by a notable reduction in the value of gold reserves. However, foreign currency assets saw a rise of $1.358 billion, re
 
-## Badrinath helicopter crash LIVE updates: Bodies of all 6, including pilot, recovered from crash site
-Badrinath helicopter crash LIVE updates: A helicopter carrying six, including the pilot, crashed near Joshimath in Uttarakhand today afternoon. The helicopter, operated by Trans Bharat Aviation Pvt Ltd, took off from Badrinath at around 1.14 pm for Sahastradhara in Dehradun.
+## Jio Q2 results: Profit jumps 14% to Rs 8,389 crore, revenue up 11.4%
+In its Q2 FY27 report, Jio Platforms recorded a robust net profit increase of 13.7% year-on-year. Operational revenues surged to Rs 40,475 crore, marking an 11.4% rise. The company welcomed 9.1 million new customers, pushing its total to 542.4 million. Furthermore, average revenue per user (ARPU) im
 
-## Badrinath helicopter crash: A look at 10 chopper mishaps in Uttarakhand over the years
-The latest crash adds to a series of helicopter-related mishaps reported in Uttarakhand over the years.
+## 'Reason why NDA govt wins trust': Sitharaman cites World Bank's poverty reduction findings
 
-## Sowjanya murder case: Karnataka names Chetan Singh Rathore as new SIT
-Sowjanya, a student of SDM College in Ujire, went missing on October 9, 2012, while returning home. Her body was found the next day in a forested area
+
+## Isro's navigation satellite NVS-03 lifts off from Andhra Pradesh's Sriharikota
+The satellite, which was abroad a GSLV-F18 rocket, had lift off at 11:51pm IST on Friday from the second launch pad of the space centre in Sriharikota.
+
+## How AAIB conducts probe into air crashes
+The main objective of an AAIB investigation is to identify the circumstances and causes of an accident and recommend measures to prevent similar occurrences.
+
+## Construction, demolition activities halted in Delhi-NCR from Nov 5 to 20 to curb air pollution
+Delhi is bracing for worsening air pollution in the coming days as the city's air quality is expected to drop into ‘poor’ category from November 1.
+
+## Air Marshal Inderpal Singh Walia named next IAF vice chief
+Air Marshal Inderpal Singh Walia is an alumnus of the National Defence Academy and was commissioned in the fighter stream of the IAF on June 11, 1988.
+
+## Char Dham trip ends in tragedy for five Bengaluru friends as helicopter crashes in Chamoli
+The five passengers killed in the crash were identified as Arun Salunke, H S Nataraj, Prathap Ningraju, Sudheer K and Shankar Gowda.
+
+## 'We should make our art, culture global’: Piyush Goyal recalls how Prada row helped Kolhapuri artisans
+Piyush Goyal also urged the young entrepreneurs to look beyond the domestic market and build globally competitive businesses.
+
+## Population census begins January 25, barring poll-bound states and snow-covered regions
+The population census will be conducted from January 25 to February 28, 2027.
+
+## Delhi records coldest October day since 1951, cleanest air for month in over a decade
+Delhi has also recorded its cleanest October air in more than a decade as the average AQI of 167 this October is the lowest for the month since 2015
 
 ## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
 Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
@@ -135,29 +129,38 @@ Hong Kong banks are facing a growing backlog of repossessed homes as aggressive 
 ## Binance pledges to cover losses after US$6 billion crypto hack
 Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypto theft on record, surpassing the US$1.5 billion stolen from Dubai-based exchang
 
+## What in the World?
+Test yourself on the week of Oct. 24: Brazil, Israel, and Serbia vote; China’s fifth plenum begins; and Trump campaigns ahead of the midterms.
+
+## Why Trump’s Hail Mary on Fuel Prices Fell Short
+Appeasing Moscow and punting on Iran haven’t calmed oil markets or voters.
+
+## The Security Challenges Facing the Next Israeli Leader
+Netanyahu’s wars have weakened foes, but they’re unsustainable.
+
+## The Gulf Isn’t Ready for a Renewed Iran War
+The region’s energy infrastructure can’t absorb another round of fighting.
+
+## U.S. Allies Have Midterm Fever
+Europeans and Canadians are searching for signs that Americans have grown sick of Trump.
+
+## How Israel’s Coalition Wrangling Could Play Out
+Pollster Dahlia Scheindlin on whether Benjamin Netanyahu can stay in power.
+
+## What Life Is Like by the Strait of Hormuz Right Now
+The war has left its mark on the port city of Bandar Abbas.
+
 ## Venezuela’s Exiled Opposition Leader Comes Home
 María Corina Machado intends to push for elections.
 
-## Trump Promised Poland More Troops. They’re Still Not There.
-The delay exposes the chaos of the Trump administration’s foreign-policy pivots.
+## China Owes Climate Accountability to South Asia
+Beijing’s responsibility stems not only from its massive contribution to global gas emissions, but also from its capability as a green technology provider and its position as an upstream actor.
 
-## Russia’s Next Mobilization Is Already Happening
-With military recruitment falling short, the Kremlin has switched to stealth and coercion.
+## What Women in Indonesia and Malaysia Want From Research on Climate and Health
+Women's knowledge and perspectives can strengthen the relevance and contextual grounding of climate-health research and policy action.
 
-## How Big of a Threat Are the Houthis?
-The Saudi ambassador to the U.S. compared them to the Islamic State.
-
-## The EU and Canada Struggle to Define Their Relationship
-Von der Leyen downplays Ottawa’s associate member bid.
-
-## A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
-Netanyahu and Trump appear to be planning another round.
-
-## (Latin) America’s Pastime
-The World Series demonstrated the region’s importance to modern-day baseball.
-
-## No One Has a Plan for American Decline
-Amid Washington’s fractious foreign-policy debate, there’s one possibility too grim to think about.
+## Can the US Defense Industry Keep Pace with China’s Military Machine?
+A quarterly index offers a way to find out.
 
 ## Rights Groups Links Cambodian Security Companies to Scam Compounds
 According to a new report by Amnesty International, many Cambodian enablers of the country's scam industry remain at large.
@@ -173,15 +176,6 @@ CEO Jensen Huang received a warm welcome in a country whose aims for AI may exce
 
 ## The Lasting Price of Mbappé’s Apology to China
 The commercial fallout for Real Madrid may be temporary, but the precedent for censoring speech beyond China’s borders is far more consequential.
-
-## Japan Advances Deep-Sea Mining as Support for a Moratorium Grows
-As the first country to have continuously retrieved rare-earth mud from such depths, Japan is in a position to influence the future of the maritime order.
-
-## ‘Made in Vietnam’ Is Harder To Prove Than It Looks
-Companies are under increasing pressure to show that goods produced in their new locations are genuinely made there.
-
-## What a China-US AI Safety Channel Needs
-Trump and Xi agreed to set up a China-U.S. AI incident reporting channel. But AI companies in both countries don’t currently provide the necessary information.
 
 ## What Israel’s Election Results Mean for the Middle East and Beyond
 Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Senators briefed on Trump’s ‘insane’ plan to restart war on Iran
-Senator Chris Murphy warns Trump’s reported plan to restart war with Iran could have devastating consequences.
+## Kim Jong Un calls for North Korea’s drone technology superiority
+North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.
 
-## Irish government to assess potential for united Ireland
-London has to call a referendum on Irish unity if it appears likely that most Northern Irish voters would ​back it.
+## How cuts under Colombia’s de la Espriella threaten a key human rights court
+Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.
 
-## Sudan RSF commander defects from Hemedti’s forces
-Senior Rapid Support Forces commander Siddiq Ander says he has defected, in an exclusive video obtained by Al Jazeera.
+## Report reveals campaign promoting racist, Islamophobic, anti-Qatar views
+Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.
 
-## Russia back in ice hockey world championships after sport court ruling
-Court of Arbitration for Sport overturned IIHF decisions that excluded Russia from events in the 2026-27 season.
+## Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or
+Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction.
 
-## World number one Rybakina withdraws from Pan Pacific Open with neck injury
-Elena Rybakina expects to return for next month's WTA Finals in Indian Wells after withdrawing from the Tokyo quarterfinals.
+## Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+Manchester United appeared set to sack Michael Carrick this week, but he may have one chance to save his job - at Chelsea.
 
-## Binance says $6.3bn stolen in biggest crypto heist in history: What we know
-The world’s largest crypto exchange halts withdrawals as the theft is linked to North Korean hackers.
+## Police in Scotland launch Andrew and Epstein royal castle investigation
+Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.
 
-## Qatari officials in Iran in bid to revive ceasefire deal with US
-The mediation mission comes amid speculation about a potential resumption of hostilities.
+## Arsenal boss Arteta fires ‘Disneyland’ warning at Dowman after red card
+Arsenal manager Mikel Arteta says he blasted Max Dowman for red card in shock cup loss at Fleetwood.
 
-## Spain’s deadly train crash redraws electoral battle lines
-The tragedy has upended the November 29 election campaign, shifting attention from housing to security.
+## Jerusalem Daily: Israel’s siege on Hebron displaces thousands
+Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
 
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
