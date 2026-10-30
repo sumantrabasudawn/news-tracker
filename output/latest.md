@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US tech stocks tumble as concerns over AI spending intensify
+Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree
+
+## US affordability tracker: the data that could decide the 2026 midterm elections
+The FT is tracking changes to the cost of living that will affect American voters
+
+## Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead
+Chancellor will have to make hard choices on welfare and defence as he prepares for pivotal spending review
+
 ## Anthropic may not secure investment-grade rating after IPO, Blackstone says
 Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance
 
@@ -9,20 +18,17 @@ The technology could help tackle some of the cultural issues that contributed to
 ## How to return big cities to pedestrians
 By closing part of Oxford Street to traffic, London is joining a wider trend
 
-## US tech stocks tumble as earnings stoke AI spending fears
-Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors
-
 ## Stick or treat
 Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come
 
 ## Apollo and Thrive capitalise on private equity’s generational shift
 By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order
 
-## CD&R pursues buyout of $40bn card processor Global Payments
-Deal for US company would rank among largest buyouts in history
+## $6.3bn in 30 minutes: how the world’s biggest heist unfolded
+North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale
 
-## The effects of a midterm ‘blue wave’ will be felt for years
-Senate arithmetic in this electoral cycle could spell disaster for the Republicans
+## Binance rushes to recover customer money after $6.3bn heist
+World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach
 
 ## Directors’ Deals: Rentokil’s new chair buys in as group’s US fortunes turn
 Rising revenue growth and improved customer retention
@@ -30,8 +36,8 @@ Rising revenue growth and improved customer retention
 ## Stockpickers: London Stock Exchange, Ultimate Products, Revolution Beauty
 Our experts discuss which companies to buy, sell or hold this week
 
-## Binance rushes to recover customer money after $6.3bn heist
-World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach
+## ISRO successfully injects third NavIC satellite NVS-03 in GTO
+NavIC series to replace navigation satellite system; new constellation to facilitate India’s own GPS
 
 ## Noel Tata seeks board vote on Tata Sons restructuring
 The fresh communication comes days after a meeting between Noel Tata and Tata Sons Chairman N Chandrasekaran failed to bridge differences between the two sides.
@@ -54,8 +60,23 @@ Nifty 50 gained 0.51% to close at 23,053, reclaiming the 23,000 mark for the fir
 ## Jio Platforms Q2 profit rises 13% on subscriber growth, higher ARPU
 Revenue from operations grew 11.3% year-on-year, while EBITDA rose 16.6% to ₹21,879 crore, supported by robust revenue growth and a 250 basis-point expansion in operating margins
 
-## Indian millers bid higher rates to get FCI’s wheat, offtake 100% in many States
-The government had reduced the overall wheat allocation for sales in the weekly auction held on October 28, by 5,000 tonnes to 1.01 lakh tonnes (lt) from the previous tender
+## Power, fertiliser fuel LNG import surge
+
+
+## Trai proposes draft framework for responsible use of AI in tele networks
+
+
+## Govt sets up committee to reform banking sector
+
+
+## Reliance Industries Q2 net rises 34% to Rs 29,550 crore
+
+
+## IOC profit surges 2.7x in Q2 on crude price decline
+
+
+## NHAI’s free-flow tolling push to cut land acquisition needs, cap toll plaza lanes at 8
+
 
 ## Tata Motors takes control of Italian commercial vehicle maker Iveco in 3.43-bn euro deal
 
@@ -63,23 +84,11 @@ The government had reduced the overall wheat allocation for sales in the weekly 
 ## Big Tech's AI spending spree puts over $2 trillion in Nasdaq market value at risk
 As concerns rise over the Nasdaq 100, which faces risks surpassing $2 trillion this month, investors are questioning the viability of major AI investments. With firms like Meta and Alphabet boosting their spending projections, uncertainties around profitability loom large. However, positive results 
 
-## Reliance Q2 results: RIL posts record Rs 29,550 crore quarterly profit
-Reliance Industries Limited announced impressive figures for FY27, with consolidated gross revenue peaking at Rs 3,62,268 crore. The company experienced a remarkable profit growth of 33.8%, reaching Rs 29,550 crore, largely due to a stellar 67.9% rise in oil-to-chemicals segment EBITDA. While retail
+## Audits, SOPs after stormy 2025 season preceded chopper crash near Joshimath
+Six people died in a Joshimath helicopter crash, renewing concerns over pilgrimage flight safety despite new safeguards in Uttarakhand.
 
-## Bank of Baroda net profit up 36% to Rs 6532 crore
-
-
-## Gold hits one-year low, silver slips below $50 as inflation fears bite
-Gold and silver prices have plummeted to their lowest in a year as energy costs surge and inflation remains a pressing concern. The decline in precious metals mirrors waning investor confidence, driven by fears over persistently high interest rates set by the US Federal Reserve. Furthermore, weak de
-
-## India's forex kitty shrinks by $1.27 billion as gold reserves slide
-In the week ending October 23, India witnessed a decline in foreign exchange reserves, dropping by $1.269 billion to a total of $719.748 billion. This decrease was primarily driven by a notable reduction in the value of gold reserves. However, foreign currency assets saw a rise of $1.358 billion, re
-
-## Jio Q2 results: Profit jumps 14% to Rs 8,389 crore, revenue up 11.4%
-In its Q2 FY27 report, Jio Platforms recorded a robust net profit increase of 13.7% year-on-year. Operational revenues surged to Rs 40,475 crore, marking an 11.4% rise. The company welcomed 9.1 million new customers, pushing its total to 542.4 million. Furthermore, average revenue per user (ARPU) im
-
-## 'Reason why NDA govt wins trust': Sitharaman cites World Bank's poverty reduction findings
-
+## Isro successfully launches NVS-03 satellite to strengthen India's NavIC navigation system, improve civilian access
+Besides enabling navigation, the atomic clock also provides precise timekeeping.
 
 ## Isro's navigation satellite NVS-03 lifts off from Andhra Pradesh's Sriharikota
 The satellite, which was abroad a GSLV-F18 rocket, had lift off at 11:51pm IST on Friday from the second launch pad of the space centre in Sriharikota.
@@ -98,12 +107,6 @@ The five passengers killed in the crash were identified as Arun Salunke, H S Nat
 
 ## 'We should make our art, culture global’: Piyush Goyal recalls how Prada row helped Kolhapuri artisans
 Piyush Goyal also urged the young entrepreneurs to look beyond the domestic market and build globally competitive businesses.
-
-## Population census begins January 25, barring poll-bound states and snow-covered regions
-The population census will be conducted from January 25 to February 28, 2027.
-
-## Delhi records coldest October day since 1951, cleanest air for month in over a decade
-Delhi has also recorded its cleanest October air in more than a decade as the average AQI of 167 this October is the lowest for the month since 2015
 
 ## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
 Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
@@ -129,53 +132,53 @@ Hong Kong banks are facing a growing backlog of repossessed homes as aggressive 
 ## Binance pledges to cover losses after US$6 billion crypto hack
 Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypto theft on record, surpassing the US$1.5 billion stolen from Dubai-based exchang
 
+## The World’s Biggest Crypto Heist
+Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
+
+## Russia the Disruptor
+How Moscow broke with the West—and unleashed a more chaotic world.
+
+## AI Isn’t a Revolution—Yet
+Just as British people did with steam power, the American public can shape how this technology spreads.
+
+## Fame, Fortune, and Murder in 1960s France
+What a scandal involving movie star Alain Delon can—and can’t—tell us about French society.
+
+## Is Netflix’s ‘The New Stanford Prison Experiment’ for Real?
+The creators of “Is It Cake?” set out to answer the question of whether power corrupts.
+
+## ‘I Welcome Their Hatred’
+Why politicians love FDR’s toughest speech.
+
 ## What in the World?
 Test yourself on the week of Oct. 24: Brazil, Israel, and Serbia vote; China’s fifth plenum begins; and Trump campaigns ahead of the midterms.
 
 ## Why Trump’s Hail Mary on Fuel Prices Fell Short
 Appeasing Moscow and punting on Iran haven’t calmed oil markets or voters.
 
-## The Security Challenges Facing the Next Israeli Leader
-Netanyahu’s wars have weakened foes, but they’re unsustainable.
+## Fire Devastated a Mongolian Nature Reserve. Who’s to Blame?
+The fire in Numrug touches on cross-border capital compliance risks and geopolitical changes impacting Northeast Asia’s ecology.
 
-## The Gulf Isn’t Ready for a Renewed Iran War
-The region’s energy infrastructure can’t absorb another round of fighting.
+## Cautious Hope For Mekong’s Irrawaddy Dolphins Amid a River in Crisis
+Despite illegal fishing and the construction of hydropower dams, attempts to conserve the sacred dolphin are beginning to bear fruit.
 
-## U.S. Allies Have Midterm Fever
-Europeans and Canadians are searching for signs that Americans have grown sick of Trump.
+## Hong Kong’s Deadly 2025 Fire: Accountability on Lee’s Terms
+A ministerial resignation, official apologies, and promises of reform leave a fundamental question unanswered: What power do Hong Kong citizens have to demand accountability beyond what their government is willing to offer?
 
-## How Israel’s Coalition Wrangling Could Play Out
-Pollster Dahlia Scheindlin on whether Benjamin Netanyahu can stay in power.
+## Will Islamic Finance Expand Financial Inclusion in Uzbekistan?
+Does removing a religious objection make financing accessible and affordable?
 
-## What Life Is Like by the Strait of Hormuz Right Now
-The war has left its mark on the port city of Bandar Abbas.
+## On a Remote Island, Japan Puts Its Deep-Sea Mining Ambitions on Display
+Experts argue that Japan’s rush to exploit rare-earth mud from the sea floor near Minamitorishima is driven less by resources than by the political value of being seen to use the island.
 
-## Venezuela’s Exiled Opposition Leader Comes Home
-María Corina Machado intends to push for elections.
+## Japan-Taiwan Relations Enter ‘Deep Waters.’ Will They Sink or Swim?
+Economic, technological, and societal ties between the two sides have never been stronger, yet political constraints are becoming more and more visible.
 
-## China Owes Climate Accountability to South Asia
-Beijing’s responsibility stems not only from its massive contribution to global gas emissions, but also from its capability as a green technology provider and its position as an upstream actor.
+## What Tokayev’s Economic Agenda Means for Kazakhstan’s International Partnerships
+The Kazakh president’s insistence that public spending mobilize private capital, rather than substitute for it, gives the initiative an international dimension.
 
-## What Women in Indonesia and Malaysia Want From Research on Climate and Health
-Women's knowledge and perspectives can strengthen the relevance and contextual grounding of climate-health research and policy action.
-
-## Can the US Defense Industry Keep Pace with China’s Military Machine?
-A quarterly index offers a way to find out.
-
-## Rights Groups Links Cambodian Security Companies to Scam Compounds
-According to a new report by Amnesty International, many Cambodian enablers of the country's scam industry remain at large.
-
-## China’s Military Build-up Has Created ‘Pressure’ in Southeast Asia, Australian Defense Chief Says
-His comments came as Beijing accused Manila of obstructing its attendance at this week's ASEAN Defense Ministers' Meeting in Cebu.
-
-## ASEAN Special Envoy Concludes Humanitarian Mission to Myanmar
-During the two-day visit, Philippine Foreign Secretary Ma. Theresa Lazaro oversaw the distribution of humanitarian aid and met with Naypyidaw's foreign minister.
-
-## The Promise and Pitfalls of Nvidia’s Venture in Kazakhstan
-CEO Jensen Huang received a warm welcome in a country whose aims for AI may exceed its capabilities.
-
-## The Lasting Price of Mbappé’s Apology to China
-The commercial fallout for Real Madrid may be temporary, but the precedent for censoring speech beyond China’s borders is far more consequential.
+## India’s China+1 Dilemma: It May Need China to Depend Less on China
+India wants to rely less on China. Interviews with executives and policymakers suggest that whether Chinese firms take part matters less than what India gets for letting them.
 
 ## What Israel’s Election Results Mean for the Middle East and Beyond
 Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kim Jong Un calls for North Korea’s drone technology superiority
-North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.
+## Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence
+Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.
 
-## How cuts under Colombia’s de la Espriella threaten a key human rights court
-Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.
+## US appeals court again rejects Trump bid to set aside California ballots
+The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.
 
-## Report reveals campaign promoting racist, Islamophobic, anti-Qatar views
-Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.
+## G20 drops group photo as Europeans refuse to stand with Lavrov
+Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.
 
-## Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or
-Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction.
+## Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions
+US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.
 
-## Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-Manchester United appeared set to sack Michael Carrick this week, but he may have one chance to save his job - at Chelsea.
+## Port Sudan families can barely afford water as shortages persist
+Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply
 
-## Police in Scotland launch Andrew and Epstein royal castle investigation
-Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.
+## EU and Canada seek deeper ties amid worsening global uncertainty
+Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere.
 
-## Arsenal boss Arteta fires ‘Disneyland’ warning at Dowman after red card
-Arsenal manager Mikel Arteta says he blasted Max Dowman for red card in shock cup loss at Fleetwood.
+## How 20-year-old Kimi Antonelli is making F1 history
+Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.
 
-## Jerusalem Daily: Israel’s siege on Hebron displaces thousands
-Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.
+## What to know about California’s midterm elections
+Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat.
 
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
