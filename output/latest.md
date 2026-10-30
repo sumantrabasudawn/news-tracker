@@ -1,136 +1,133 @@
 # AION Intelligence
 
-## Intel shares fall 22% as weak sales outlook dents turnaround
-Chipmaker forecasts lower than expected PC chip sales and falling margins
+## FirstFT: The high-stakes AI mega-project behind Nscale’s $35bn IPO
+Also in today’s newsletter: tech sell-off and $6.3bn Binance hack
 
-## Amazon shares slide on lower Christmas sales forecast
-Ecommerce giant posts disappointing sales and guidance despite booming cloud unit
+## What moves hyperscaler stocks?
+Plus the ECB
 
-## Swedish academic claims he has been barred from UK over pro-Palestinian views
-Climate activist Andreas Malm, author of ‘How to Blow Up a Pipeline’, was due to speak alongside Palestine Action co-founder next week
+## Bank of Japan says 2% inflation goal reached after decades of deflation
+Japanese central bank holds interest rates as expectations mount for December increase
 
-## Healey undermines Burnham by saying UK will not rejoin EU in his lifetime
-Chancellor also has to clarify his remarks on welfare after suggesting government will cut spending on benefits before the next election
+## The last days of Weil
+The firm was brought down by a mercenary culture that has emerged in Big Law in recent years
 
-## Uproar in Alaska sparks Democratic fears for Senate majority
-Campaign mishaps and infighting could undermine party’s push to take Republican strongholds
+## Oil spills from Iran’s tanker attacks wash up on UAE beaches
+Tehran has stepped up strikes on vessels in Strait of Hormuz in the past month, leading to a trail of pollution
 
-## Starbucks to resume share buybacks but China shift clouds growth outlook
-US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround
+## The former family homes targeted by anti-migrant protests
+Tensions over houses in multiple occupation have risen sharply and are often associated with accommodating asylum seekers
 
-## Alphabet shares tumble in $500bn rout
-Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations
+## Kaitlan Collins on political power dressing
+CNN’s chief White House correspondent talks about image, communication — and what to wear for battle with Donald Trump
 
-## How Flávio Bolsonaro fled Brazil
-Facing a money laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone
+## UK government accused of ‘stealth’ £1.5bn rise in business rates
+Chancellor touted an extension of relief in Budget that took 70,000 small shops, restaurants, cafés and gyms out of paying the tax
 
-## FirstFT: Intel stock drops 20% as it forecasts weaker chip sales
-Also in today’s newsletter: Xi Jinping promotes general who led military purge and Christine Lagarde to step down as ECB president in February
+## The story of Anthropic in three numbers
+IPO filing leaves open questions about the state of the company’s business and the wider sector
 
-## What killed Weil Gotshal?
-Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures
+## Russian businessman blames sanctions in £30mn divorce battle
+Vasiliy Peganov, who now lives in Moscow, tells court transfers from Russia were ‘practically impossible’
 
-## Paul Weiss to end financial disclosures as law firm transparency wanes
-New York firm follows industry leader Kirkland & Ellis in withholding performance figures from benchmark industry ranking
+## Pharmacists warn AI-doctored photos used to obtain weight-loss drugs
+Chemists caution over growing use of deception to secure treatments such as Mounjaro and Wegovy
 
-## New Jersey governor threatens to block delivery of Russian diesel cargoes
-Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port
+## Sensex today | Stock Market Live: Sensex gains 300 pts, Nifty 50 touches 23,000; Trent shares up 7%, Reliance, Jio results in focus
+Sensex, Nifty, Share Prices Live: By 11.30 am, Sensex gained 322.25 pts or 0.43% to 74,473.29 from previous closing level. Nifty 50 rose 95.25 pts or 0.42% to 23,032.
 
-## Intel shares plunge 21% as weak PC demand and supply shortages hit revenue outlook
-The chipmaker faces mounting production challenges even as artificial intelligence demand supports its data centre business and longer-term growth ambitions
+## Q2 Results Today Live: Smartworks Q2 PAT up q-o-q, Reliance, Jio Platforms, Sun Pharma, Dixon, BEL, IOC, BoB, GAIL, GE Vernova, Lodha, Max Health, Delhivery, Aether, NTPC Green to announce Q2 results, Trent, IndiGo, Deepak Nitrite shares zoom, CAMS, Equitas SFB, Steamhouse, Suzlon, RPG Life shares fall after Q2
+Q2 Results Today, 30th October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
 
-## SC refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’
-The court asks why an MP wants to file a public interest petition under Article 32 when she can raise the issue in the Parliament
+## Adjudicatory Board for Major Ports launches e-filing portal
+The e-filing portal to enable online filing of cases and digital processing and management of case-related activities
 
-## ARCIL’s logs 23% increase in standalone Q2 FY27 net profit at ₹147 crore
-Fees and other income soared 64 per cent y-o-y to ₹110 crore (₹67 crore in Q2 FY26). Investment income jumped 57 per cent y-o-y to ₹112 crore (₹71 crore). Total expenses declined 31 per cent y-o-y to ₹42 crore
+## Former Coro Health employees plan healthcare IT cooperative
+The proposed Health Care IT & Revenue Cycle Co-operative Society has applied for registration as a primary cooperative society and approached the Cooperation Department seeking support
 
-## Learn, Earn, Flourish: Dr Reddy’s blueprint for workforce transformation
-Selected youth receive a stipend and hostel facilities and can pursue their studies while working, eventually earning degrees in pharmacy, engineering, sciences or other specialisations required for manufacturing operations
+## Russia strikes energy facilities in Kyiv, port infrastructure near Odesa, defence ministry says
+Russia also strikes energy infrastructure in the Dnipropetrovsk region, port ‌facilities in the Odesa region and ‌cargo vessels ​that it said ⁠were used ⁠by the military
 
-## Post rate hike, highly rated large companies step up rupee bond issuances
-Meanwhile, NABARD is believed to be eyeing a ₹6,000 crore fund mobilisation via a 5-year NCD issuance, according to market sources
+## OpenAI expands AI safety monitoring after agents breach restricted environments
+The monitoring framework uses multiple layers to identify potentially concerning behaviour, including probes that examine patterns in a model's internal activity
 
-## The charitable side of Indian corporates
-India’s corporate social responsibility (CSR) spending is projected to cross ₹1.1 lakh crore annually by FY35, but the expanding pool of funds masks gaps in how companies give and employees participate. The top 200 companies already account for nearly half of the overall CSR expenditure, while emplo
+## Digital merchant payments likely to recover in Oct-Nov on festive spending, post Sept dip: Equirus
+UPI person-to-merchant (P2M) transactions recorded a strong growth of 23.3% YoY during September, while credit card spending declined 5.9%
 
-## Axis Trusteeship issues notice to Yes Bank to restore/ reactivate AT-1 bonds
-ATSL said the aforesaid notice has also been copied to RBI, SEBI, BSE, NSE, and depositories — NSDL and CDSL
+## HDFC Bank drifts lower as week ends
+The week’s dominant event remains Wednesday’s fresh 52-week low of ₹669.20, from which the stock has since partially recovered
 
-## Star Health CFO Nilesh Kambli says insurance distribution rule changes not to cause much disruption
-Many group health insurance businesses may shift to retail on the bancassurance channel if the proposed changes take effect in their current form, Kambli says
+## Google parent Alphabet loses $500 billion in market value as AI spending spooks investors
+In a surprising turn of events on Thursday, Alphabet saw a steep decline in its stock prices due to underwhelming earnings announcements. This downturn has sparked worries about rising costs associated with artificial intelligence and their impact on profit margins. As AI tools challenge Alphabet's 
 
-## US Fed rate pause, slower FPI selling lift sensex by 905 pts
-Investor risk-appetite improves, external challenges remain
-
-## Stock market today: BSE Sensex ends 900 points higher, NSE Nifty50 closes above 22,800
+## Markets open flat; Sensex rises 49 points to 74,200, Nifty at 22,965
 
 
-## Microsoft net income rises 32% to $36.6 billion days after buyout offer to 60,000 staff
-In the latest quarterly results, Microsoft reported a remarkable 32 percent surge in net income, hitting $36.6 billion for the July-September period. The tech giant also unveiled a voluntary buyout plan affecting about 60,000 employees worldwide. Cloud revenue soared with Azure seeing a 48 percent b
+## Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116
+Crude oil prices are increasing as Brent crude surpasses $115 per barrel amid escalating tensions. Attacks by Yemen’s Houthi group on Saudi oil sites raise fears of supply disruptions. Efforts for diplomatic negotiations between Washington and Tehran remain unyielding, contributing to market uncerta
 
-## Rupee gains 11 paise to 95.17 against dollar after Fed holds interest rates
-In early trading on Thursday, the rupee gained 11 paise against the US dollar, reaching 95.17. This uptick followed the US Federal Reserve's decision to keep interest rates steady, causing a weakening of the dollar as traders reacted negatively. Observers are now focused on upcoming economic data, e
-
-## Bank holiday on Karwa Chauth? Will banks be closed on Thursday
-Banking services in various Indian states will face disruptions due to ongoing holidays and approaching regional festivities. Customers are encouraged to consult their local bank schedules for specific closure dates. With Diwali and other major holidays looming in November, it's essential to anticip
-
-## TVS Motor Company raises prices
+## Sagility BV to cut stake in India arm
 
 
-## Why markets rallied: Sensex jumps over 900 points, Nifty gains 1 per cent; 5 key reasons
-Indian stock markets rallied sharply on Thursday, with the Sensex rising over 900 points to close at 74,151. The Nifty gained more than 1%, settling at 22,936.75, supported by positive corporate earnings and a firmer rupee. Crude oil prices eased slightly, providing relief to oil-importing India ami
+## BLS Polymers IPO subscribed 241x
 
-## Oil prices slip as peace hopes ease supply fears, Middle East tensions limit losses
-In a market shaken by geopolitical tensions, oil prices saw a downturn as traders considered possible U.S.-Iran diplomatic actions against the backdrop of supply disruption risks. Brent crude prices slipped by 0.74%, while WTI dropped by 0.89%. The recent assaults by Yemen's Houthis have further com
 
-## Delhi's Jamia University agrees to students’ demands, sets timeline for union polls
-The Jamia university administration has directed that the students' union constitution be completed by May 15, 2027.
+## Vijay Sankar named next Ficci president
 
-## TVK functionary arrested for allegedly sexually harassing college student in Tamil Nadu
-Citing heavy rainfall, TVK's district executive committee member Christopher offered to drive the two students home in his car.
 
-## Delhi traders urge Rahul Gandhi to postpone INDIA bloc's Ramlila Maidan rally over Diwali business loss fears
-In a letter to the Leader of the Opposition in the Lok Sabha, the traders' body urged the Congress leadership to reschedule the rally until after November 10.
+## Asian Paints profit up 7.5%; inflation squeezes margins
 
-## Delhi Metro trains to operate till midnight on Oct 30 for Diljit Dosanjh concert at JLN Stadium
-The move comes as the concert is expected to draw approximately 70,000 spectators.
 
-## Tamil Nadu transfers DGP-prisons after two jailbreaks in a week
-Rathore has been posted as the DGP-chief vigilance officer, Vigilance, Tamil Nadu Generation and Distribution Corporation Ltd (TANGEDCO).
+## September pain for credit card companies: Spending down 6% at Rs 2L cr
 
-## ‘Orders becoming a mockery’: Supreme Court pulls up Delhi govt over firecracker curbs
-A bench questioned the authorities over the lack of concrete data on enforcement and the impact of measures taken to curb pollution in Delhi-NCR.
 
-## Delhi's Jantar Mantar added as venue for Indian Biennale 2026
-Vivek Aggarwal, secretary, ministry of culture, told HT last month that the whole of Delhi will be a stage for the Biennale.
+## INDIA bloc meet LIVE: Opposition bloc preps for ‘public impeachment’ of CEC Gyanesh Kumar
+INDIA bloc meet LIVE: The "public impeachment" comes as a form of symbolic protest amid the ongoing stir against CEC and the polling body over the Special Intensive Revision (SIR) of electoral rolls in the country.
 
-## Park Hospitals strengthens north India footprint with Rs200 crore investment, targets 6,600 beds
-The hospital is being developed in partnership with the Prayagraj Municipal Corporation under a public-private partnership (PPP) model.
+## Cyclone Arnab: Central teams to arrive today to assess damage in Andhra Pradesh
+A preliminary Andhra Pradesh government estimate suggested ₹4,600 crore damage to crops and infrastructure
+
+## Nicobarese tribal leaders ‘not necessary or proper parties’ in Great Nicobar forest rights case: Centre tells Calcutta HC
+The dispute concerns the validity of the process through which forest rights were recognised, paving the way for Centre’s ₹81,000-crore Great Nicobar project.
+
+## Orissa HC issues notice to BJD MLAs over alleged cross-voting in Rajya Sabha polls
+Justice MS Sahoo directed suspended MLAs Arvind Mohapatra, Sanatan Mahakud, Chakramani Kanhar, Souvic Biswal and Subasini Jena to file their replies by December 4
+
+## HT Morning Brief Oct 20: Delhi air quality improves after rain, Netanyahu’s party falls short of majority in Israel elections
+Start your day informed with the latest news from politics, global affairs, sports, and entertainment.
+
+## Andhra CM directs officials to expedite restoration works in cyclone-hit areas
+Andhra CM directs officials to expedite restoration works in cyclone-hit areas
+
+## 1,330 registered unrecognised parties lack both financial reports for financial year 2024-25: ADR report
+Uttar Pradesh had the highest number of RUPPs with available financial statements, followed by Delhi and Bihar.
+
+## ‘Changing political winds, shifting stands’: SC strikes down 2022 Karnataka recruitment law
+The Supreme Court said the legislature could not sit in appeal over judicial decisions and undo them through a law
+
+## Evergrande liquidators sell controlling stake in property services unit for US$513 million
+Liquidators of China Evergrande Group have agreed to sell a controlling stake in its property management arm to investment firm PAG for HK$4.03 billion (US$513.6 million), as they seek to recover assets for creditors owed US$46 billion. The sale of a 51.016 per cent stake in Evergrande Property Serv
+
+## Hong Kong banks face growing pile of repossessed homes as sales slow
+Hong Kong banks are facing a growing backlog of repossessed homes as aggressive pricing by developers draws buyers towards new projects, leaving fewer buyers for second-hand properties being sold by mortgagees. The number of residential properties listed for sale by mortgagees rose 30 per cent in th
+
+## Binance pledges to cover losses after US$6 billion crypto hack
+Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypto theft on record, surpassing the US$1.5 billion stolen from Dubai-based exchang
+
+## CATL, BYD, Gotion to gain as fossil-fuel prices drive demand for battery energy storage
+China’s makers of energy storage systems, including Contemporary Amperex Technology (CATL) and Gotion High-Tech, stand to benefit as conflict in the Middle East keeps fossil fuel prices elevated, raising demand for their products in green energy projects, according to analysts. The tailwinds are exp
+
+## Traders await Hong Kong’s marquee financial summit: a good omen for stocks?
+Investors are gearing up for a high-stakes financial summit in Hong Kong next week, an event that has historically coincided with gains in the city’s stock market while underscoring its standing as a global financial hub. The annual Global Financial Leaders’ Investment Summit enters its fifth year o
+
+## New chapter in creative design begins in Hong Kong
+[The content of this article has been produced by our advertising partner.] With its upcoming flagship exhibition DesignInspire 2026, the Hong Kong Trade Development Council (HKTDC) will offer trade professionals to design enthusiasts and members of the public the opportunity to view and experience 
 
 ## As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?
 The artificial intelligence boom in the United States is set to raise corporate valuations even higher as Anthropic prepares for a public listing, reinforcing the dominance of American companies among the world’s most valuable firms and widening the gap with Chinese firms. Anthropic, valued at US$96
 
 ## DBS Vantage Card Elevates the DBS Treasures Experience with Hong Kong’s First Visa Infinite Privilege Card
 [The content of this article has been produced by our advertising partner.] The first DBS Hong Kong Visa Infinite Priviledge Card has finally arrived. The “DBS Vantage Card" marks a new chapter in affluent banking as we see a stronger connection has been built through wealth, travel and lifestyle in
-
-## China’s BYD, Geely report profit jump as sales abroad surge, though local market stalls
-China’s two largest carmakers, BYD and Geely Auto, reported a jump in their third-quarter earnings, propelled by surging overseas sales as they intensified pressure on established international marques in Europe and Southeast Asia. BYD, mainland China’s largest automotive group, posted a net profit 
-
-## Xi-Trump summits must leave businesses with greater clarity, not less
-An aircraft supplier can have parts ready and a customer waiting yet be unable to ship while Washington holds up its licence. In Shanghai, Citi has approval to establish a securities business after years of waiting. Companies must invest, sign contracts and move production while the two governments 
-
-## World’s first intergovernmental mediation organisation to ramp up outreach
-Business disputes are expected to make up the bulk of cases at Hong Kong’s new International Organisation for Mediation (IOMed), which plans to accelerate its outreach efforts entering its second year of operation, secretary general Teresa Cheng Yeuk-wah said in an interview. Commercial cases accoun
-
-## CK Asset pauses Hong Kong sales launch at Yuen Long’s Montage development
-CK Asset Holdings has suspended sales at its Yuen Long residential project Montage, days before it planned to begin marketing the development’s first homes. The developer confirmed the suspension to the South China Morning Post but declined to explain the abrupt decision, saying only that it reserve
-
-## Hong Kong poised for capital inflow amid unrest in France, Middle East war: AllianzGI
-Recent unrest in France and the Middle East war could prompt investors to seek greater diversification, potentially driving capital inflows to Asian markets in the coming months – including mainland China and Hong Kong – according to a senior executive of Allianz Global Investors (AllianzGI), one of
-
-## Regulatory tightening in Hong Kong sees delistings outnumber resumptions: report
-The tightening of Hong Kong’s securities regulations – in the wake of property developer Evergrande’s liquidation and unrelated IPO frauds – has resulted in more delistings than resumptions for the first time in three years, according to a report by accountants Grant Thornton. Hong Kong saw 35 delis
 
 ## How Big of a Threat Are the Houthis?
 The Saudi ambassador to the U.S. compared them to the Islamic State.
@@ -156,6 +153,18 @@ The EU has a far more potent tool in its arsenal: trade.
 ## Bangladesh Measles Outbreak Is a ‘Warning Sign’
 A new expert report raises alarm about the country’s vaccination crisis.
 
+## Rights Groups Links Cambodian Security Companies to Scam Compounds
+According to a new report by Amnesty International, many Cambodian enablers of the country's scam industry remain at large.
+
+## China’s Military Build-up Has Created ‘Pressure’ in Southeast Asia, Australian Defense Chief Says
+His comments came as Beijing accused Manila of obstructing its attendance at this week's ASEAN Defense Ministers' Meeting in Cebu.
+
+## ASEAN Special Envoy Concludes Humanitarian Mission to Myanmar
+During the two-day visit, Philippine Foreign Secretary Ma. Theresa Lazaro oversaw the distribution of humanitarian aid and met with Naypyidaw's foreign minister.
+
+## The Promise and Pitfalls of Nvidia’s Venture in Kazakhstan
+CEO Jensen Huang received a warm welcome in a country whose aims for AI may exceed its capabilities.
+
 ## The Lasting Price of Mbappé’s Apology to China
 The commercial fallout for Real Madrid may be temporary, but the precedent for censoring speech beyond China’s borders is far more consequential.
 
@@ -167,18 +176,6 @@ Companies are under increasing pressure to show that goods produced in their new
 
 ## What a China-US AI Safety Channel Needs
 Trump and Xi agreed to set up a China-U.S. AI incident reporting channel. But AI companies in both countries don’t currently provide the necessary information.
-
-## As North Korea’s Loudspeaker Broadcasts Loom, South Korea Has No Good Options
-Kim Yo Jong said broadcasts near the border will resume this month. For Seoul, every possible response carries a cost.
-
-## A Judicial Challenge to India’s Paternalistic Anti-trafficking Framework
-The Supreme Court distinguishes trafficking from voluntary adult sex work, but legislative reform and effective implementation remain essential to protect dignity and autonomy.
-
-## Russian Help Would Make North Korea’s Missile-test Flurry Worse News
-Many security analysts have attributed North Korean missile progress to the closer relationship between North Korea and Russia.
-
-## Asian Cybersecurity in the Age of AI and Quantum Computing
-AI has changed – perhaps forever – the tone and tenor of discussions at Singapore International Cyber Week, and probably all cyber forums of equal scale.
 
 ## What Israel’s Election Results Mean for the Middle East and Beyond
 Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
@@ -228,29 +225,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86
-Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.
+## Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections
+Nobel winner returns to Venezuela from exile, urging elections and criticising a controversial US oil deal with Caracas.
 
-## Trump administration attempts to take down leak of ICE personnel data
-An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest.
+## US judge blocks Trump’s Medicaid rule forcing ill to prove impairment
+A US district judge sided with 25 states and the District of Columbia, which sued the administration.
 
-## Palestinians face growing bans from Al-Aqsa as Israel tightens control
-As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.
+## ‘You look like hell’, Trump lashes out at reporter in tarmac tirade
+US President Donald Trump has lashed out at a reporter’s appearance.
 
-## Israel bans travel for Brad Lander after detention in occupied West Bank
-Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.
+## Israeli actress slams occupation in accidental ‘hot mic’ moment
+Veteran Israeli actress Chelli Goldenberg was left shocked after she was caught ripping into Israel's policies.
 
-## Real Madrid and FC Barcelona honour Spain train crash victims
-Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.
+## Why are Detroit gas stations selling discounted fuel in Trump’s name?
+Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices.
 
-## Palestinians injured, arrested in Israeli raids across West Bank
-This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues.
+## Flash floods kill five in Syria
+Four children drowned while a man died after his car was caught in floodwaters.
 
-## Does Russia offer African countries an equal partnership?
-President Vladimir Putin hosts African leaders at a summit in Moscow.
+## Husband of one of Modi’s closest advisors questions election integrity
+The husband of India’s finance minister in the Modi government has joined mass protests against voter-list revision.
 
-## Israel election result shows no overall majority as vote count complete
-Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.
+## Netanyahu attacks Israel’s Arab parties as he falls short of majority
+Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.
+
+## Jio Lists India Story on Global Map
+It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
+
+## SC questions MCA’s grip on NCLT, seeks plan to fix staffing and infrastructure gaps
+Supreme Court says NCLT president should have authority over staff appointments; directs NCLT and NCLAT to submit four week proposals on manpower and infrastructure requirements.
 
 ## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
 The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
@@ -269,12 +272,6 @@ Parliament's Standing Committee on Finance has identified 46 subjects for detail
 
 ## Ind AS 118: India Inc gears up for big changes to financial reporting
 India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system a
-
-## Law firms make a strong case for hiring top litigation partners
-Demand spans experience in commercial and corporate disputes, including regulatory matters, insolvency, white-collar crime, investigations, sector-specific arbitration and complex shareholder disputes. Hiring has picked up not just in large firms but also at midsize practices and boutiques.
-
-## GST tribunal allows airlines to claim tax refund on cancelled tickets if fare, GST returned to passengers
-The case relates to eight GST refund claims totalling ₹45,92,528 by Singapore Airlines for the period between October 2019 and March 2021. During the period, owing to COVID-19, the airline had to cancel flights and returned fares and GST to passengers. However, it could not adjust the credit notes a
 
 ## Abolish LTCG, rationalise STCG, STT rates on equities: PHDCCI to Finance Ministry
 The PHDCCI has urged the government to eliminate the Long Term Capital Gains tax, aiming to boost foreign investment. It also advocates extending the holding period for long-term investment classification from 12 months to between 18 to 24 months. The current tax structure leads to double taxation o
