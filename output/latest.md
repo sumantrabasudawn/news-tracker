@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Evacuees from Russian-occupied city arrive in Ukraine
+Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv
+
+## Investors trim growth bets over fears of US economy’s AI exposure
+Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending
+
 ## Iran warns it will retaliate without ‘geographical limitations’ if attacked
 Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign
 
@@ -17,15 +23,6 @@ Decisive vote against autocratic leader Aleksandar Vučić will enable restorati
 
 ## Chart of the Week: Bond investors may cheer gridlock
 Midterms will have higher stakes for the bond market
-
-## Rating agency Fitch hits France with unscheduled outlook downgrade
-Move comes hours after data showed an unexpected contraction in third-quarter economic output
-
-## US approves $2.1bn sale of Patriot interceptors to Ukraine
-Volodymyr Zelenskyy welcomes ‘strong decision’ but calls for the missiles to be provided immediately
-
-## Investors trim growth bets over fears of US economy’s AI exposure
-Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending
 
 ## Kane, Mbappé and the cost of star power
 Also in today’s newsletter: the courts loom for Kalshi and the WNBA’s season of chaos
@@ -48,29 +45,32 @@ Steep fall in Brazilian real has made the country’s exports more competitive, 
 ## How a £1 deal dragged Poundland’s owner into a political storm
 Gordon Brothers is under intense scrutiny over whether it could have prevented the UK retailer’s looming insolvency
 
-## AICTE launches four schemes to fund infrastructure, practical learning in technical institutions
-The four schemes are IDEA Lab, Grant for Organizing Conference (GOC), Modernization and Re-structuring for Outcome Based System (MODROBS), and the Margdarshan Scheme
+## SEBI bars EKI Energy Services MD Manish Dabkara for 12 months over financial misrepresentation
+The regulator found premature revenue recognition of ₹197.04 crore and fictitious expenses of ₹26.34 crore in the company’s financial statements
 
-## Q2 Results Today Live: NTPC, Quess Corp, Best Agrolife, Eveready Industries, CDSL, Muthoot Finance, Aditya Birla Fashion post profit growth; IGL, Tilaknagar Industries, Birla Corp report profit decline
-Q2 Results Today, 31st October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
+## Anthropic’s IPO and the most defining months ahead in stock market history
+What unfolds in the months after the Claude creator’s listing could go down as one of the most defining episodes in the history of stock markets
 
-## ATSL’s notice on re-instatement of written-down AT-1 Bonds: Yes Bank says fully committed to acting in accordance with SC Judgment
-Yes Bank, as per its regulatory filing, has informed the Trustee that it is cognizant of the matters and is examining the SC Judgment and its implications in detail
+## Centre releases ₹1.09 lakh crore in additional tax devolution to States
+The additional allocation comes ahead of the festival season, giving State governments more resources to meet development and expenditure requirements.
 
-## Jammu and Kashmir CM Omar Abdullah marries Nidhi Razdan
-Family members from both sides witnessed the ceremony, while wedding functions in Srinagar and New Delhi brought close relatives together
+## Nifty 500 vs S&P 500: India or US, innovation is the only game in town for investors
+Corporate India has enjoyed among the best profitability across major markets, giving it ample muscle to drive technological changes
 
-## Gold plunges ₹3,200 to 10-month low of ₹1.42 lakh; silver slides ₹4,200
-Rising energy prices, inflation concerns and expectations of tighter US monetary policy have intensified selling pressure across precious metals markets
+## El Niño, climate change and the new reality for Indian farmers
 
-## LPG under recovery may rise to ₹370/cylinder in December 2026
-The OMCs are saddled with huge under recoveries on account of selling the cooking fuel--used by more than 33 crore households--at below the prevailing market rates
 
-## NTPC posts net profit of ₹7,351 Cr in Q2 FY27
-he net profit of the country’s largest power generator rose by 7 per cent on a sequential basis
+## Simply Put: Oversold market
+Friends Peter and Paul discuss if an ‘oversold’ stock market would result in market recovery
 
-## NASA’s Swift space telescope set to crash back to Earth after failed rescue
-The ageing observatory’s descent marks the end of a mission that helped scientists track some of the universe’s most powerful explosions.
+## Who Am I? November 1, 2026
+Are you an avid investor? How well do you know corporate India?
+
+## KEI Industries: Valuations rewired for risks and rewards
+Strong demand should offset price or competitive volatility
+
+## GST Rules To Ease: Council clears simpler registration and faster refunds; small online sellers gain
+Starting November 1, new Goods and Services Tax procedures will offer a streamlined experience for businesses. Small online sellers can enjoy simplified registration and access to e-commerce operators' warehouses. The GST portal's enhanced user-friendliness will minimize registration errors. Automat
 
 ## Tata Sons row: ‘Sebi monitoring all developments,’ says chairman Tuhin Kanta Pandey
 Currently, SEBI is taking charge of governance issues within Tata Sons, the umbrella organization for Tata Group. While Tata Sons is not publicly traded, its subsidiary companies are required to follow SEBI regulations. The regulatory authority has confirmed its vigilant oversight of governance-rela
@@ -93,32 +93,29 @@ From November 1, telecom operators will implement Calling Name Presentation, cha
 ## US midterm elections: What a Democratic win could mean for India's trade
 The midterm elections in the United States are approaching, and results may affect trade relations with India. A Democratic win could lead to increased scrutiny of current trade policies, including tariffs and government spending. However, significant policy changes are not expected immediately foll
 
-## NBFCs overtake housing as biggest driver of bank credit
+## Andhra chainsaw attacker was teen victim’s uncle, harassed her in name of ‘love’: Police
+The 15-year-old girl was brutally attacked by Hemanth with a chainsaw at her school while she was attending a class with other students on Saturday morning.
 
+## Rajasthan IPS officer placed on APO amid villa purchase probe
+At the Ananta resort in Bujhda, Udaipur, Agarwal and Mathur allegedly purchased 10 villas each in March 2026 at ₹15 lakh apiece.
 
-## SP leader Azam Khan detained by ED minutes after release from Rampur jail
-SP leader Azam Khan detained by ED minutes after release from Rampur jail
+## PM Modi slams Opposition for acting as 'obstructive force' at Unity Day event in Gujarat
+Modi said the nation needs to stand united against such forces and alleged that the Opposition wants to divide the people of the country.
 
-## Supreme Court registers suo motu contempt case over Kerala Congress' derogatory post against CJI Surya Kant
-Converting separate letters addressed by two lawyers into a common petition on Friday, the court has tentatively listed the matter on November 6.
+## Rahul Gandhi hints at big 'reveal' on CEC Gyanesh Kumar; BJP calls him 'mock PM'
+Rahul Gandhi alleged democratic institutions are shut to Opposition, forcing INDIA bloc leaders to discuss CEC's impeachment in a garden.
 
-## Evening News Brief October 31: Oppn levels 6 charges against CEC Gyanesh Kumar; filmmaker Sanjay Gupta passes away
-Top headlines: Kharge levels charges against CEC Gyanesh Kumar, a Class 10 girl is attacked with a chainsaw in Andhra Pradesh, and filmmaker Sanjay Gupta dies
+## Delhi to Kanpur in 1 hour 45 minutes: PM Modi clears north corridor of bullet train project
+Providing details of the proposed travel times, Vaishnaw said passengers would be able to travel from Delhi to Kanpur in 1 hour and 45 minutes.
 
-## Public administration at critical juncture; governance should be faster, citizen-centric: VP
-Public administration at critical juncture; governance should be faster, citizen-centric: VP
+## 'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events
+The order also expressed displeasure over widespread non-compliance to prior circulars aimed at maintaining dignity and professional culture at schools.
 
-## SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek
-SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek
+## From Op Safed Sagar to Sindoor: New IAF chief Ashutosh Dixit's 4-decade-long decorated career
+A fighter pilot with more than 3,500 flying hours, Dixit has held senior operational and command roles and received several military honours.
 
-## UP's first Vande Bharat Sleeper train between Varanasi and Delhi flagged off: Timings, stations
-The new service will reduce travel time from Varanasi to New Delhi by 55 minutes and from New Delhi to Varanasi by 35 minutes.
-
-## Kharge accuses CEC Gyanesh Kumar of 'treason', levels 6 charges during INDIA bloc's mock impeachment
-During the mock parliament held by INDIA bloc to publicly impeach Gyanesh Kumar, Kharge accused the CEC of being part of a “conspiracy orchestrated by the BJP”.
-
-## Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace
-Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace
+## CJP's Abhijeet Dipke meets Mamata Banerjee ahead of Oppn rally; TMC chief says 'so proud of him'
+Banerjee praised Dipke and other young activists for their role in raising issues related to the SIR and the Election Commission.
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
@@ -240,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
-Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.
+## Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?
+A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.
 
-## Syria considering entry into Mecca defence pact, says foreign minister
-Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.
+## London police arrest 48 as hundreds protest Palestine Action ban
+Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.
 
-## Israel voted for Israel: Why Gaza wasn’t on the ballot
-Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives.
+## Evacuees of Russian-occupied Oleshky reunited with families
+Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.
 
-## Burnham opens door to formal apology for Britain’s slave trade
-UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.
+## Tension and clashes as hundreds of thousands protest again in France
+Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.
 
-## On the Norway-Russia border, the Sámi people face a growing divide
-As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.
+## Coventry win leaves Man United on brink of Premier League relegation zone
+Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland.
 
-## West Indies thrash Bangladesh by eight wickets in first Test in Mirpur
-West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.
+## At least four Palestinians killed in Gaza as Israeli attacks continue
+Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.
 
-## Studios destroyed, traditions saved: Artists fight to save Sudan’s culture
-Artists in Sudan are working to save culture and traditions amid the country's war.
+## Michigan Muslims helped elect Trump. Now their faith is under fire
+Michigan Muslims helped elect Trump. Now their faith is under fire
 
-## Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?
-Same names on Alaska ballot triggered political firestorm in US, prompting a Justice Department investigation.
+## Brighton shock Man City, closing gap on Premier League leader to two points
+Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
