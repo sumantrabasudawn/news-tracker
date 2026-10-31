@@ -69,6 +69,15 @@ Are you an avid investor? How well do you know corporate India?
 ## KEI Industries: Valuations rewired for risks and rewards
 Strong demand should offset price or competitive volatility
 
+## Windfall gains tax on diesel, ATF exports up; petrol cut to nil
+
+
+## AAIB for better coordination between civil, defence aviation authorities
+
+
+## Indigenous bullet train B28 undergoes 'squeeze test'
+
+
 ## GST Rules To Ease: Council clears simpler registration and faster refunds; small online sellers gain
 Starting November 1, new Goods and Services Tax procedures will offer a streamlined experience for businesses. Small online sellers can enjoy simplified registration and access to e-commerce operators' warehouses. The GST portal's enhanced user-friendliness will minimize registration errors. Automat
 
@@ -84,14 +93,11 @@ Binance has encountered a serious security breach, with $6.3 billion in digital 
 ## Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5
 The Centre took significant steps on October 31 by eliminating the Rs 2.5 per litre duty on petrol exports. In contrast, the excise duties for high-speed diesel and aviation turbine fuel were ramped up; diesel duties increased from Rs 8.5 to Rs 11.5 per litre, and ATF duties from Rs 10.5 to Rs 11.
 
-## Nifty50 faces worst year in a decade: Will November help Dalal Street to bounce back?
-October was a challenging month for Indian stocks, leading to a cautious perspective for November. The recent dip in the Nifty50 has sparked recovery hopes, even as elevated crude oil prices and AI sector trends may pose obstacles. Interestingly, foreign investors seem to be transitioning from a pes
+## 3 Kukis shot dead in Manipur gunfight
+Three Kuki men were killed in Manipur gunfire as Meitei and Naga groups rallied in Imphal to scrap the SoO pact with Kuki-Zo armed groups.
 
-## No more unknown calls! Govt mandates displaying names - here's what changes from November 1
-From November 1, telecom operators will implement Calling Name Presentation, changing how incoming calls are displayed. This new feature will show caller names for both saved and unsaved numbers, depending on subscriber details. International calls will be labeled as 'International Call' regardless 
-
-## US midterm elections: What a Democratic win could mean for India's trade
-The midterm elections in the United States are approaching, and results may affect trade relations with India. A Democratic win could lead to increased scrutiny of current trade policies, including tariffs and government spending. However, significant policy changes are not expected immediately foll
+## Jaishankar meets Russian FM Lavrov in Atlanta, discusses Ukraine, West Asia situation
+Jaishankar meets Lavrov in Atlanta to discuss Ukraine, Gulf tensions and global issues.
 
 ## Andhra chainsaw attacker was teen victim’s uncle, harassed her in name of ‘love’: Police
 The 15-year-old girl was brutally attacked by Hemanth with a chainsaw at her school while she was attending a class with other students on Saturday morning.
@@ -110,12 +116,6 @@ Providing details of the proposed travel times, Vaishnaw said passengers would b
 
 ## 'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events
 The order also expressed displeasure over widespread non-compliance to prior circulars aimed at maintaining dignity and professional culture at schools.
-
-## From Op Safed Sagar to Sindoor: New IAF chief Ashutosh Dixit's 4-decade-long decorated career
-A fighter pilot with more than 3,500 flying hours, Dixit has held senior operational and command roles and received several military honours.
-
-## CJP's Abhijeet Dipke meets Mamata Banerjee ahead of Oppn rally; TMC chief says 'so proud of him'
-Banerjee praised Dipke and other young activists for their role in raising issues related to the SIR and the Election Commission.
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?
-A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.
+## Palestine Action supporters arrested outside US embassy in London
+Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.
 
-## London police arrest 48 as hundreds protest Palestine Action ban
-Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.
+## Legal filing questions Trump’s claims of non-citizen voting in California
+Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.
 
-## Evacuees of Russian-occupied Oleshky reunited with families
-Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.
+## Fiery confrontations between protestors and police in Albania
+Fiery confrontations between protestors and police in Albania
 
-## Tension and clashes as hundreds of thousands protest again in France
-Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.
+## Health authorities probe two suspected Ebola cases in northeast Nigeria
+The two individuals have been isolated while officials carry out contact tracing and laboratory testing.
 
-## Coventry win leaves Man United on brink of Premier League relegation zone
-Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland.
+## District of Columbia and Virginia sue to block Trump’s triumphal arch plans
+The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.
 
-## At least four Palestinians killed in Gaza as Israeli attacks continue
-Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.
+## Israel’s allegations of Qatari election interference rejected
+Israel’s allegations of Qatari election interference rejected
 
-## Michigan Muslims helped elect Trump. Now their faith is under fire
-Michigan Muslims helped elect Trump. Now their faith is under fire
+## What is ranked-choice voting and how does it work in US elections?
+Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.
 
-## Brighton shock Man City, closing gap on Premier League leader to two points
-Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL.
+## Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks
+Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
