@@ -1,13 +1,34 @@
 # AION Intelligence
 
+## Iran warns it will retaliate without ‘geographical limitations’ if attacked
+Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign
+
+## Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections
+Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in
+
+## Budget frees London to go on £10bn borrowing spree, says Sadiq Khan
+UK capital’s mayor hails chancellor’s financial plan that will boost key infrastructure projects
+
+## Poland suspends top judges as battle over rule of law escalates
+President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court
+
+## Serbia comes back into the fold
+Decisive vote against autocratic leader Aleksandar Vučić will enable restoration of democratic checks and balances
+
+## Chart of the Week: Bond investors may cheer gridlock
+Midterms will have higher stakes for the bond market
+
+## Rating agency Fitch hits France with unscheduled outlook downgrade
+Move comes hours after data showed an unexpected contraction in third-quarter economic output
+
 ## US approves $2.1bn sale of Patriot interceptors to Ukraine
 Volodymyr Zelenskyy welcomes ‘strong decision’ but calls for the missiles to be provided immediately
 
-## Fiscal drifting: why the Budget won’t leave you better off
-Frozen thresholds and higher inflation forecasts mean thousands more could be dragged into the £100,000 tax trap than previously thought
+## Investors trim growth bets over fears of US economy’s AI exposure
+Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending
 
-## The rightward march of Israel
-Netanyahu lost his majority. Why is he so hard to defeat?
+## Kane, Mbappé and the cost of star power
+Also in today’s newsletter: the courts loom for Kalshi and the WNBA’s season of chaos
 
 ## French protests show BNP Paribas what’s in a name
 Despite a strong third quarter, a bumpy journey lies ahead for investors
@@ -18,12 +39,6 @@ Many first-time purchasers want three-bed houses but Your First Home price caps 
 ## French banks’ rising profits fail to reverse sell-off as political fears bite
 BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty
 
-## The bonkers business of tax breaks for entrepreneurs
-Encouraging start-ups and scale-ups is a good idea but is not best served by Healey’s new Founders’ Relief
-
-## US midterms loom over jittery investors
-Caution certainly seems warranted for the coming weeks
-
 ## Bank of England explores easing key limit on riskier mortgage lending
 Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership
 
@@ -33,83 +48,77 @@ Steep fall in Brazilian real has made the country’s exports more competitive, 
 ## How a £1 deal dragged Poundland’s owner into a political storm
 Gordon Brothers is under intense scrutiny over whether it could have prevented the UK retailer’s looming insolvency
 
-## Is this the first clear evidence of AI’s impact on the labour market?
-Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier
+## AICTE launches four schemes to fund infrastructure, practical learning in technical institutions
+The four schemes are IDEA Lab, Grant for Organizing Conference (GOC), Modernization and Re-structuring for Outcome Based System (MODROBS), and the Margdarshan Scheme
 
-## Britain’s charity shops are fighting for survival
-Consumers are selling their best items on Vinted, Depop and other websites rather than donating them
-
-## Today’s Gold Rate: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices down across other cities on October 31
-
-## Today’s Gold Rate: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices down across metro cities on October 31
-
-## OpenAI’s Altman meets Samsung executives as chip crunch deepens
-
-
-## IBBI amends regulations to strengthen insolvency resolution of stressed real estate projects
-The amendments aim to boost the participation of homebuyers as well as strengthen oversight during the insolvency resolution process
-
-## IMD update: AP coast braces for a second cyclone, hot on heels of Arnab
-The well-marked ‘low’ may move west-northwest and concentrate into a depression by this evening. Conditions appear favourable for its rapid intensification into a cyclone as early as tomorrow.
-
-## Q2 Results Today Live: NTPC, Muthoot Finance, Shyam Metalics & Energy, Sarda Energy and Minerals, Zen Technologies, National Securities Depository, Rainbow Childrens Medicare Share to announce Q2 results
+## Q2 Results Today Live: NTPC, Quess Corp, Best Agrolife, Eveready Industries, CDSL, Muthoot Finance, Aditya Birla Fashion post profit growth; IGL, Tilaknagar Industries, Birla Corp report profit decline
 Q2 Results Today, 31st October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
 
-## OpenAI funding target cut by $10 billion as AI slumps
-The ChatGPT maker is now seeking about $20 billion at a $1.25 trillion valuation, down from $30 billion at a $1.4 trillion valuation last month
+## ATSL’s notice on re-instatement of written-down AT-1 Bonds: Yes Bank says fully committed to acting in accordance with SC Judgment
+Yes Bank, as per its regulatory filing, has informed the Trustee that it is cognizant of the matters and is examining the SC Judgment and its implications in detail
 
-## SEBI pushes for resilient capital markets, focuses on investor protection: Chairman
-SEBI Chief Tuhin Pandey in Kolkata unveiled moves to deepen India’s capital markets, boosting access, efficiency, investor protection, and SME funding
+## Jammu and Kashmir CM Omar Abdullah marries Nidhi Razdan
+Family members from both sides witnessed the ceremony, while wedding functions in Srinagar and New Delhi brought close relatives together
+
+## Gold plunges ₹3,200 to 10-month low of ₹1.42 lakh; silver slides ₹4,200
+Rising energy prices, inflation concerns and expectations of tighter US monetary policy have intensified selling pressure across precious metals markets
+
+## LPG under recovery may rise to ₹370/cylinder in December 2026
+The OMCs are saddled with huge under recoveries on account of selling the cooking fuel--used by more than 33 crore households--at below the prevailing market rates
+
+## NTPC posts net profit of ₹7,351 Cr in Q2 FY27
+he net profit of the country’s largest power generator rose by 7 per cent on a sequential basis
+
+## NASA’s Swift space telescope set to crash back to Earth after failed rescue
+The ageing observatory’s descent marks the end of a mission that helped scientists track some of the universe’s most powerful explosions.
+
+## Tata Sons row: ‘Sebi monitoring all developments,’ says chairman Tuhin Kanta Pandey
+Currently, SEBI is taking charge of governance issues within Tata Sons, the umbrella organization for Tata Group. While Tata Sons is not publicly traded, its subsidiary companies are required to follow SEBI regulations. The regulatory authority has confirmed its vigilant oversight of governance-rela
+
+## Swipe, shop, repeat: Online buyers splash out 7.5% more than offline shoppers
+Research indicates that households in India utilizing online shopping platforms incur a monthly expenditure that is 7.5 percent higher than those who do not shop online. Notably, the rise in spending for services and durable goods is strikingly high at 23.4 and 24.5 percent. Despite this, the majori
+
+## ‘Binance will absorb impact, not users’: Crypto giant sets aside $6.34 bn to cover losses
+Binance has encountered a serious security breach, with $6.3 billion in digital assets being stolen. To safeguard its users, the exchange will utilize its Secure Asset Fund for Users to absorb the losses. Collaborating with law enforcement, approximately $3 billion in stolen cryptocurrency has been 
+
+## Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5
+The Centre took significant steps on October 31 by eliminating the Rs 2.5 per litre duty on petrol exports. In contrast, the excise duties for high-speed diesel and aviation turbine fuel were ramped up; diesel duties increased from Rs 8.5 to Rs 11.5 per litre, and ATF duties from Rs 10.5 to Rs 11.
+
+## Nifty50 faces worst year in a decade: Will November help Dalal Street to bounce back?
+October was a challenging month for Indian stocks, leading to a cautious perspective for November. The recent dip in the Nifty50 has sparked recovery hopes, even as elevated crude oil prices and AI sector trends may pose obstacles. Interestingly, foreign investors seem to be transitioning from a pes
+
+## No more unknown calls! Govt mandates displaying names - here's what changes from November 1
+From November 1, telecom operators will implement Calling Name Presentation, changing how incoming calls are displayed. This new feature will show caller names for both saved and unsaved numbers, depending on subscriber details. International calls will be labeled as 'International Call' regardless 
+
+## US midterm elections: What a Democratic win could mean for India's trade
+The midterm elections in the United States are approaching, and results may affect trade relations with India. A Democratic win could lead to increased scrutiny of current trade policies, including tariffs and government spending. However, significant policy changes are not expected immediately foll
 
 ## NBFCs overtake housing as biggest driver of bank credit
 
 
-## Sebi relaxes timeline for FPI KYC updates
+## SP leader Azam Khan detained by ED minutes after release from Rampur jail
+SP leader Azam Khan detained by ED minutes after release from Rampur jail
 
+## Supreme Court registers suo motu contempt case over Kerala Congress' derogatory post against CJI Surya Kant
+Converting separate letters addressed by two lawyers into a common petition on Friday, the court has tentatively listed the matter on November 6.
 
-## Nasdaq bleeds: Faces $2 trillion wipeout in October
+## Evening News Brief October 31: Oppn levels 6 charges against CEC Gyanesh Kumar; filmmaker Sanjay Gupta passes away
+Top headlines: Kharge levels charges against CEC Gyanesh Kumar, a Class 10 girl is attacked with a chainsaw in Andhra Pradesh, and filmmaker Sanjay Gupta dies
 
+## Public administration at critical juncture; governance should be faster, citizen-centric: VP
+Public administration at critical juncture; governance should be faster, citizen-centric: VP
 
-## Power, fertiliser fuel LNG import surge
+## SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek
+SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek
 
+## UP's first Vande Bharat Sleeper train between Varanasi and Delhi flagged off: Timings, stations
+The new service will reduce travel time from Varanasi to New Delhi by 55 minutes and from New Delhi to Varanasi by 35 minutes.
 
-## 'Play only administrative role in NCLT appointment'
+## Kharge accuses CEC Gyanesh Kumar of 'treason', levels 6 charges during INDIA bloc's mock impeachment
+During the mock parliament held by INDIA bloc to publicly impeach Gyanesh Kumar, Kharge accused the CEC of being part of a “conspiracy orchestrated by the BJP”.
 
-
-## Trai proposes draft framework for responsible use of AI in tele networks
-
-
-## Govt sets up committee to reform banking sector
-
-
-## Reliance Industries Q2 net rises 34% to Rs 29,550 crore
-
-
-## 10 diversions, 11 roads affected: Delhi Traffic Police issue advisory for commuters amid INDIA bloc's Ramlila Maidan rally
-Nearly 350 traffic personnel and more than 100 home guards will remain deployed on roads leading to the venue from central and New Delhi areas.
-
-## Minor girl sexually assaulted at crime branch office in Goa; female aide, cop booked under POCSO
-A 16-year-old girl alleged she was sexually assaulted on multiple occasions at the Crime Branch office in Ribandar by Inspector Vikas Deykar.
-
-## Lord Buddha’s sacred relics at Delhi museum to be displayed in Arunachal starting today
-The sacred remains, known as the Piprahwa relics, originate from a site in UP associated with ancient Kapilavastu and the Shakya tradition of Buddha.
-
-## Delhi high court bar body writes to LG, chief justice; urges BS-IV ban exemption for advocates and judges
-In a letter addressed by DHCBA president N Hariharan, the association highlighted that a large number of lawyers commute daily across state borders
-
-## Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool
-The injured, who tried to rescue the victims, are out of danger. Police have registered a case and are investigating.
-
-## AAP banks on sitting MLAs in first list, names 40 candidates for 2027 Punjab polls; CM Mann to contest from Dhuri
-The announcement, made nearly four months before the polls, signals the AAP's decision to prioritise continuity and give its candidates an early start.
-
-## From Mangolpuri shoe factory to Uphaar cinema: The major fires that keep bringing Delhi under scrutiny
-Over the years, Delhi has witnessed several devastating fires in factories, hotels, hospitals, buildings and more, exposing serious violations of safety norms.
-
-## 3 villages this Maharashtra district want to be excluded from drought-hit list
-Villagers from Arjuni Moregaon, Sadak Arjuni and Goregaon argue that the classification has restricted irrigation water supply.
+## Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace
+Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
@@ -231,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hakimi’s hat-trick guides PSG to stunning 5-1 win at Le Havre in Ligue 1
-European champions PSG registered their sixth league victory and sit two points clear at top of the Ligue 1 standings.
+## Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks
+Iran’s Foreign Minister Abbas Araghchi tells Al Jazeera Tehran doesn't rule out attack, is ‘prepared for all scenarios’.
 
-## US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea
-The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.
+## Syria considering entry into Mecca defence pact, says foreign minister
+Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.
 
-## US midterms: 3 days to go – What latest polls say as early voting surges
-More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.
+## Israel voted for Israel: Why Gaza wasn’t on the ballot
+Despite genocide, regional war and isolation, Israel's election revealed little appetite for political alternatives.
 
-## Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo
-Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.
+## Burnham opens door to formal apology for Britain’s slave trade
+UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.
 
-## LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
-LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
+## On the Norway-Russia border, the Sámi people face a growing divide
+As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.
 
-## The selective solidarity at the heart of India’s voter protests
-The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
+## West Indies thrash Bangladesh by eight wickets in first Test in Mirpur
+West Indies extended ‌their encouraging run in red-ball cricket with an emphatic eight-wicket victory ⁠over Bangladesh.
 
-## What has it cost to keep Al Jazeera on air for 30 years?
-For 30 years, Al Jazeera went where others couldn’t. Or wouldn’t. AJLabs traces the price of staying on air.
+## Studios destroyed, traditions saved: Artists fight to save Sudan’s culture
+Artists in Sudan are working to save culture and traditions amid the country's war.
 
-## After the ‘martyr’s’ funeral: The families left behind by Yemen’s war
-Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.
+## Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?
+Same names on Alaska ballot triggered political firestorm in US, prompting a Justice Department investigation.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
