@@ -1,64 +1,67 @@
 # AION Intelligence
 
-## Muji takes its China playbook global
-Localising products is key to minimalist Japanese retailer’s plan to expand in Europe and US
+## US approves $2.1bn sale of Patriot interceptors to Ukraine
+Volodymyr Zelenskyy welcomes ‘strong decision’ but calls for the missiles to be provided immediately
 
-## OpenAI slashes funding target by $10bn as tech anxieties mount
-ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions
+## Fiscal drifting: why the Budget won’t leave you better off
+Frozen thresholds and higher inflation forecasts mean thousands more could be dragged into the £100,000 tax trap than previously thought
 
-## Poland suspends top judges as battle over rule of law escalates
-President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court
+## The rightward march of Israel
+Netanyahu lost his majority. Why is he so hard to defeat?
 
-## US greenlights $2.1bn sale of Patriot interceptors to Ukraine
-Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as relations deteriorated between the countries
+## French protests show BNP Paribas what’s in a name
+Despite a strong third quarter, a bumpy journey lies ahead for investors
 
-## US tech stocks tumble as concerns over AI spending intensify
-Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree
+## Equity loan scheme will struggle to deliver ‘the homes buyers want’
+Many first-time purchasers want three-bed houses but Your First Home price caps mean mostly flats will qualify in large parts of country
 
-## US affordability tracker: the data that could decide the 2026 midterm elections
-The FT is tracking changes to the cost of living that will affect American voters
+## French banks’ rising profits fail to reverse sell-off as political fears bite
+BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty
 
-## Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead
-Chancellor will have to make hard choices on welfare and defence as he prepares for pivotal spending review
+## The bonkers business of tax breaks for entrepreneurs
+Encouraging start-ups and scale-ups is a good idea but is not best served by Healey’s new Founders’ Relief
 
-## Anthropic may not secure investment-grade rating after IPO, Blackstone says
-Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance
+## US midterms loom over jittery investors
+Caution certainly seems warranted for the coming weeks
 
-## $6.3bn in 30 minutes: how the world’s biggest heist unfolded
-North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale
+## Bank of England explores easing key limit on riskier mortgage lending
+Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership
 
-## Binance rushes to recover customer money after $6.3bn heist
-World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach
+## Lula’s surprise election victory sends agri-commodities tumbling
+Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries
 
-## Directors’ Deals: Rentokil’s new chair buys in as group’s US fortunes turn
-Rising revenue growth and improved customer retention
+## How a £1 deal dragged Poundland’s owner into a political storm
+Gordon Brothers is under intense scrutiny over whether it could have prevented the UK retailer’s looming insolvency
 
-## How AI might be deployed for better bank supervision
-The technology could help tackle some of the cultural issues that contributed to the collapse of SVB
+## Is this the first clear evidence of AI’s impact on the labour market?
+Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier
 
-## India flags global energy disruptions caused by sanctions and chokepoints
-Speaking in Atlanta, the External Affairs Minister highlighted the growing impact of energy market distortions on low-income countries and India
+## Britain’s charity shops are fighting for survival
+Consumers are selling their best items on Vinted, Depop and other websites rather than donating them
 
-## ISRO successfully injects third NavIC satellite NVS-03 in GTO
-NavIC series to replace navigation satellite system; new constellation to facilitate India’s own GPS
+## Today’s Gold Rate: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices down across other cities on October 31
 
-## Noel Tata seeks board vote on Tata Sons restructuring
-The fresh communication comes days after a meeting between Noel Tata and Tata Sons Chairman N Chandrasekaran failed to bridge differences between the two sides.
+## Today’s Gold Rate: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices down across metro cities on October 31
 
-## Reliance posts record profit, revenue in Q2 as O2C, Jio lead growth
-The results underscore resilience across Reliance’s integrated energy and digital services despite volatile markets
+## OpenAI’s Altman meets Samsung executives as chip crunch deepens
 
-## EKA’s $1 billion bus book, ₹1,000 crore capex fuel push into trucks, six-seaters
-Sudhir Mehta targets ₹2,800 crore in combined FY27 revenue as EKA Mobility expands manufacturing, electric freight and rural mobility operations
 
-## RIL diversifies crude sourcing, redirects exports amid Middle East disruptions
-Diversified crude supplies and a shift in export destinations helped the company navigate disruptions and capture stronger refining margins during the quarter
+## IBBI amends regulations to strengthen insolvency resolution of stressed real estate projects
+The amendments aim to boost the participation of homebuyers as well as strengthen oversight during the insolvency resolution process
 
-## Keralam needs a sustainable path
-Human development is good, but the State must move from an ecologically damaging extraction economy
+## IMD update: AP coast braces for a second cyclone, hot on heels of Arnab
+The well-marked ‘low’ may move west-northwest and concentrate into a depression by this evening. Conditions appear favourable for its rapid intensification into a cyclone as early as tomorrow.
 
-## Editorial. Capex turnaround
-Uptick in private investment, a happy augury
+## Q2 Results Today Live: NTPC, Muthoot Finance, Shyam Metalics & Energy, Sarda Energy and Minerals, Zen Technologies, National Securities Depository, Rainbow Childrens Medicare Share to announce Q2 results
+Q2 Results Today, 31st October 2026 Live Updates: businessline brings to you latest Q2 announcements, earnings updates and more.
+
+## OpenAI funding target cut by $10 billion as AI slumps
+The ChatGPT maker is now seeking about $20 billion at a $1.25 trillion valuation, down from $30 billion at a $1.4 trillion valuation last month
+
+## SEBI pushes for resilient capital markets, focuses on investor protection: Chairman
+SEBI Chief Tuhin Pandey in Kolkata unveiled moves to deepen India’s capital markets, boosting access, efficiency, investor protection, and SME funding
 
 ## NBFCs overtake housing as biggest driver of bank credit
 
@@ -84,29 +87,38 @@ Uptick in private investment, a happy augury
 ## Reliance Industries Q2 net rises 34% to Rs 29,550 crore
 
 
-## Opposition spreading rumours about shortages due to Iran war, says PM Modi
-He said the government was protecting farmers from higher fertiliser costs and highlighted support schemes and agricultural initiatives.
+## 10 diversions, 11 roads affected: Delhi Traffic Police issue advisory for commuters amid INDIA bloc's Ramlila Maidan rally
+Nearly 350 traffic personnel and more than 100 home guards will remain deployed on roads leading to the venue from central and New Delhi areas.
 
-## CBI backs moving Twisha Sharma trial out of Madhya Pradesh, cites ‘influence’
-A petition filed by Twisha Sharma’s father sought for the trial to be conducted in Delhi owing to the influence wielded by the accused in Madhya Pradesh.
+## Minor girl sexually assaulted at crime branch office in Goa; female aide, cop booked under POCSO
+A 16-year-old girl alleged she was sexually assaulted on multiple occasions at the Crime Branch office in Ribandar by Inspector Vikas Deykar.
 
-## Audits, SOPs after stormy 2025 season preceded chopper crash near Joshimath
-Six people died in a Joshimath helicopter crash, renewing concerns over pilgrimage flight safety despite new safeguards in Uttarakhand.
+## Lord Buddha’s sacred relics at Delhi museum to be displayed in Arunachal starting today
+The sacred remains, known as the Piprahwa relics, originate from a site in UP associated with ancient Kapilavastu and the Shakya tradition of Buddha.
 
-## November 1 rally will reflect public anger over Election Commission, says Rahul Gandhi
-The INDIA bloc postponed its symbolic impeachment of Chief Election Commissioner Gyanesh Kumar until Saturday because of heavy rain.
+## Delhi high court bar body writes to LG, chief justice; urges BS-IV ban exemption for advocates and judges
+In a letter addressed by DHCBA president N Hariharan, the association highlighted that a large number of lawyers commute daily across state borders
 
-## Isro successfully launches NVS-03 satellite to strengthen India's NavIC navigation system, improve civilian access
-Besides enabling navigation, the atomic clock also provides precise timekeeping.
+## Lufthansa crew among 2 foreign nationals dead in suspected electrocution at Bengaluru hotel pool
+The injured, who tried to rescue the victims, are out of danger. Police have registered a case and are investigating.
 
-## Isro's navigation satellite NVS-03 lifts off from Andhra Pradesh's Sriharikota
-The satellite, which was abroad a GSLV-F18 rocket, had lift off at 11:51pm IST on Friday from the second launch pad of the space centre in Sriharikota.
+## AAP banks on sitting MLAs in first list, names 40 candidates for 2027 Punjab polls; CM Mann to contest from Dhuri
+The announcement, made nearly four months before the polls, signals the AAP's decision to prioritise continuity and give its candidates an early start.
 
-## How AAIB conducts probe into air crashes
-The main objective of an AAIB investigation is to identify the circumstances and causes of an accident and recommend measures to prevent similar occurrences.
+## From Mangolpuri shoe factory to Uphaar cinema: The major fires that keep bringing Delhi under scrutiny
+Over the years, Delhi has witnessed several devastating fires in factories, hotels, hospitals, buildings and more, exposing serious violations of safety norms.
 
-## Construction, demolition activities halted in Delhi-NCR from Nov 5 to 20 to curb air pollution
-Delhi is bracing for worsening air pollution in the coming days as the city's air quality is expected to drop into ‘poor’ category from November 1.
+## 3 villages this Maharashtra district want to be excluded from drought-hit list
+Villagers from Arjuni Moregaon, Sadak Arjuni and Goregaon argue that the classification has restricted irrigation water supply.
+
+## Can battery swapping and energy storage power CATL’s next phase of growth?
+Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
+
+## As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals
+The co-founder of Chinese chip giant Cambricon Technologies urged the introduction of universal ethical requirements for leading Chinese and American artificial intelligence models on Friday to mitigate growing risks to society. Chen Yunji’s remarks at an event in Shanghai come as the rapid advance 
+
+## Scary deals? What makes Hong Kong shun death-linked homes while France embraces the risk
+Even as Hong Kong remains the world’s least affordable housing market, many buyers still shun heavily discounted homes linked to an “unnatural death”, such as murder or suicide, according to property agents. Prices for such properties could fall by as much as 50 per cent, while rents were typically 
 
 ## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
 Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
@@ -122,15 +134,6 @@ This week, China’s stock market slipped into a bear market, prompting the stat
 
 ## AI as a New Tribe: Professor Alan Macfarlane on what makes us human
 What might an anthropologist make of artificial intelligence if he approached it as an unfamiliar tribe? That question framed an SCMP Plus fireside chat with Professor Alan Macfarlane at The Center in Central, Hong Kong, on October 26. Speaking with SCMP senior AI technology reporter Vincent Chow, M
-
-## Evergrande liquidators sell controlling stake in property services unit for US$513 million
-Liquidators of China Evergrande Group have agreed to sell a controlling stake in its property management arm to investment firm PAG for HK$4.03 billion (US$513.6 million), as they seek to recover assets for creditors owed US$46 billion. The sale of a 51.016 per cent stake in Evergrande Property Serv
-
-## Hong Kong banks face growing pile of repossessed homes as sales slow
-Hong Kong banks are facing a growing backlog of repossessed homes as aggressive pricing by developers draws buyers towards new projects, leaving fewer buyers for second-hand properties being sold by mortgagees. The number of residential properties listed for sale by mortgagees rose 30 per cent in th
-
-## Binance pledges to cover losses after US$6 billion crypto hack
-Binance, the world’s largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet. At that scale, it would be the biggest crypto theft on record, surpassing the US$1.5 billion stolen from Dubai-based exchang
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -228,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pope Leo becomes first pontiff to vote in US general election
-Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections
+## Hakimi’s hat-trick guides PSG to stunning 5-1 win at Le Havre in Ligue 1
+European champions PSG registered their sixth league victory and sit two points clear at top of the Ligue 1 standings.
 
-## Fake polls expose vulnerabilities in US elections ahead of midterms
-Fabricated surveys are adding to tensions in the country's increasingly polarised political environment.
+## US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea
+The joint statement comes as US President Donald Trump seeks a new meeting with North Korean leader Kim Jong Un.
 
-## Dog walker threatened with gun during ICE arrest in North Hollywood
-Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.
+## US midterms: 3 days to go – What latest polls say as early voting surges
+More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.
 
-## Germany and France brace for protests on Halloween weekend
-A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
+## Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo
+Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.
 
-## Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
-The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
+## LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
+LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
 
-## Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon
-IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.
+## The selective solidarity at the heart of India’s voter protests
+The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
 
-## Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour
-Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.
+## What has it cost to keep Al Jazeera on air for 30 years?
+For 30 years, Al Jazeera went where others couldn’t. Or wouldn’t. AJLabs traces the price of staying on air.
 
-## Polish police deployed to top court after head judge suspended
-Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.
+## After the ‘martyr’s’ funeral: The families left behind by Yemen’s war
+Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.
+
+## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
+Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
 
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
@@ -272,9 +278,6 @@ Court holds three month GST audit period runs from the later of submission of re
 
 ## Parliamentary Committee on Finance to examine 46 economic issues, including crypto, AI, in FY'27
 Parliament's Standing Committee on Finance has identified 46 subjects for detailed examination this fiscal year. Topics include artificial intelligence in finance, virtual digital assets, and currency management among others.
-
-## Ind AS 118: India Inc gears up for big changes to financial reporting
-India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system a
 
 ## Sebi Revises REIT Norms: Key Changes Investors Should Know Going Forward
 Sebi tweaks unitholder voting rules, strengthens exit rights for dissenting investors
