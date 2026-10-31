@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Muji takes its China playbook global
+Localising products is key to minimalist Japanese retailer’s plan to expand in Europe and US
+
+## OpenAI slashes funding target by $10bn as tech anxieties mount
+ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions
+
+## Poland suspends top judges as battle over rule of law escalates
+President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court
+
+## US greenlights $2.1bn sale of Patriot interceptors to Ukraine
+Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as relations deteriorated between the countries
+
 ## US tech stocks tumble as concerns over AI spending intensify
 Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree
 
@@ -12,18 +24,6 @@ Chancellor will have to make hard choices on welfare and defence as he prepares 
 ## Anthropic may not secure investment-grade rating after IPO, Blackstone says
 Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance
 
-## How AI might be deployed for better bank supervision
-The technology could help tackle some of the cultural issues that contributed to the collapse of SVB
-
-## How to return big cities to pedestrians
-By closing part of Oxford Street to traffic, London is joining a wider trend
-
-## Stick or treat
-Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come
-
-## Apollo and Thrive capitalise on private equity’s generational shift
-By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order
-
 ## $6.3bn in 30 minutes: how the world’s biggest heist unfolded
 North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale
 
@@ -33,8 +33,11 @@ World’s largest crypto exchange says an engineer’s laptop was compromised in
 ## Directors’ Deals: Rentokil’s new chair buys in as group’s US fortunes turn
 Rising revenue growth and improved customer retention
 
-## Stockpickers: London Stock Exchange, Ultimate Products, Revolution Beauty
-Our experts discuss which companies to buy, sell or hold this week
+## How AI might be deployed for better bank supervision
+The technology could help tackle some of the cultural issues that contributed to the collapse of SVB
+
+## India flags global energy disruptions caused by sanctions and chokepoints
+Speaking in Atlanta, the External Affairs Minister highlighted the growing impact of energy market distortions on low-income countries and India
 
 ## ISRO successfully injects third NavIC satellite NVS-03 in GTO
 NavIC series to replace navigation satellite system; new constellation to facilitate India’s own GPS
@@ -51,16 +54,25 @@ Sudhir Mehta targets ₹2,800 crore in combined FY27 revenue as EKA Mobility exp
 ## RIL diversifies crude sourcing, redirects exports amid Middle East disruptions
 Diversified crude supplies and a shift in export destinations helped the company navigate disruptions and capture stronger refining margins during the quarter
 
+## Keralam needs a sustainable path
+Human development is good, but the State must move from an ecologically damaging extraction economy
+
 ## Editorial. Capex turnaround
 Uptick in private investment, a happy augury
 
-## Nifty reclaims 23,000 on Oct’s last trading day; IT, Pharma stocks lead
-Nifty 50 gained 0.51% to close at 23,053, reclaiming the 23,000 mark for the first time in eight sessions, while the Sensex rose 0.42% to 74,459.53
+## NBFCs overtake housing as biggest driver of bank credit
 
-## Jio Platforms Q2 profit rises 13% on subscriber growth, higher ARPU
-Revenue from operations grew 11.3% year-on-year, while EBITDA rose 16.6% to ₹21,879 crore, supported by robust revenue growth and a 250 basis-point expansion in operating margins
+
+## Sebi relaxes timeline for FPI KYC updates
+
+
+## Nasdaq bleeds: Faces $2 trillion wipeout in October
+
 
 ## Power, fertiliser fuel LNG import surge
+
+
+## 'Play only administrative role in NCLT appointment'
 
 
 ## Trai proposes draft framework for responsible use of AI in tele networks
@@ -72,20 +84,17 @@ Revenue from operations grew 11.3% year-on-year, while EBITDA rose 16.6% to ₹2
 ## Reliance Industries Q2 net rises 34% to Rs 29,550 crore
 
 
-## IOC profit surges 2.7x in Q2 on crude price decline
+## Opposition spreading rumours about shortages due to Iran war, says PM Modi
+He said the government was protecting farmers from higher fertiliser costs and highlighted support schemes and agricultural initiatives.
 
-
-## NHAI’s free-flow tolling push to cut land acquisition needs, cap toll plaza lanes at 8
-
-
-## Tata Motors takes control of Italian commercial vehicle maker Iveco in 3.43-bn euro deal
-
-
-## Big Tech's AI spending spree puts over $2 trillion in Nasdaq market value at risk
-As concerns rise over the Nasdaq 100, which faces risks surpassing $2 trillion this month, investors are questioning the viability of major AI investments. With firms like Meta and Alphabet boosting their spending projections, uncertainties around profitability loom large. However, positive results 
+## CBI backs moving Twisha Sharma trial out of Madhya Pradesh, cites ‘influence’
+A petition filed by Twisha Sharma’s father sought for the trial to be conducted in Delhi owing to the influence wielded by the accused in Madhya Pradesh.
 
 ## Audits, SOPs after stormy 2025 season preceded chopper crash near Joshimath
 Six people died in a Joshimath helicopter crash, renewing concerns over pilgrimage flight safety despite new safeguards in Uttarakhand.
+
+## November 1 rally will reflect public anger over Election Commission, says Rahul Gandhi
+The INDIA bloc postponed its symbolic impeachment of Chief Election Commissioner Gyanesh Kumar until Saturday because of heavy rain.
 
 ## Isro successfully launches NVS-03 satellite to strengthen India's NavIC navigation system, improve civilian access
 Besides enabling navigation, the atomic clock also provides precise timekeeping.
@@ -98,15 +107,6 @@ The main objective of an AAIB investigation is to identify the circumstances and
 
 ## Construction, demolition activities halted in Delhi-NCR from Nov 5 to 20 to curb air pollution
 Delhi is bracing for worsening air pollution in the coming days as the city's air quality is expected to drop into ‘poor’ category from November 1.
-
-## Air Marshal Inderpal Singh Walia named next IAF vice chief
-Air Marshal Inderpal Singh Walia is an alumnus of the National Defence Academy and was commissioned in the fighter stream of the IAF on June 11, 1988.
-
-## Char Dham trip ends in tragedy for five Bengaluru friends as helicopter crashes in Chamoli
-The five passengers killed in the crash were identified as Arun Salunke, H S Nataraj, Prathap Ningraju, Sudheer K and Shankar Gowda.
-
-## 'We should make our art, culture global’: Piyush Goyal recalls how Prada row helped Kolhapuri artisans
-Piyush Goyal also urged the young entrepreneurs to look beyond the domestic market and build globally competitive businesses.
 
 ## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
 Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
@@ -228,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence
-Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.
+## Pope Leo becomes first pontiff to vote in US general election
+Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections
 
-## US appeals court again rejects Trump bid to set aside California ballots
-The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.
+## Fake polls expose vulnerabilities in US elections ahead of midterms
+Fabricated surveys are adding to tensions in the country's increasingly polarised political environment.
 
-## G20 drops group photo as Europeans refuse to stand with Lavrov
-Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.
+## Dog walker threatened with gun during ICE arrest in North Hollywood
+Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.
 
-## Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions
-US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.
+## Germany and France brace for protests on Halloween weekend
+A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
 
-## Port Sudan families can barely afford water as shortages persist
-Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply
+## Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
+The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
 
-## EU and Canada seek deeper ties amid worsening global uncertainty
-Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere.
+## Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon
+IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.
 
-## How 20-year-old Kimi Antonelli is making F1 history
-Kimi Antonelli had an F1 licence before he could legally drive. Now he could become Formula One’s youngest champion.
+## Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour
+Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.
 
-## What to know about California’s midterm elections
-Redistricting in California, the most populous US state, could flip control of US House from Republican to Democrat.
+## Polish police deployed to top court after head judge suspended
+Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.
 
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
