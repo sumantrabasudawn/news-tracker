@@ -1,25 +1,40 @@
 # AION Intelligence
 
-## Junk debt rout sparks ‘bloodbath’ for credit investors
-Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off
+## Bulgarians projected to re-elect pro-Russian president
+Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls
+
+## Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed
+Unity between Democratic progressives and moderates in key Senate race collapses in war of words over Israel
+
+## Trump faces the voters
+US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief
+
+## Gulf braced for escalation of war between US-Israel alliance and Iran
+Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting
+
+## *SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November
+Fun times this way ↓↓↓
+
+## Britain to offer cheaper university fees to EU students at ‘reset’ summit
+Since Brexit, European students have paid international tuition rates at UK universities
 
 ## Trump makes final pitch to restive voters in midterms campaign
 Republican Party is defending its control of Congress against signs of a backlash to the president
 
-## Unions hit out after Healey signals delay to youth minimum wage pledge
-Chancellor warned against pursuing ‘trade-offs’ between jobs and wages after he declines to commit to 2024 vow
+## France and the UK require a new entente
+The Suez crisis offers valuable lessons on troubled relations since the birth of the European project
 
-## Britain’s welfare ratchet
-Political incentives, rising expectations of state support and deeper economic failures make the benefits system hard to rein in
+## Blue Lagoon owner plans to float as Icelandic tourism booms
+Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat
+
+## Serbia shuts down bank favoured by Russians
+Alta Bank is suspected of wiring large amounts of money out of the country after election loss of former president Aleksandar Vučić
+
+## Junk debt rout sparks ‘bloodbath’ for credit investors
+Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off
 
 ## Weil Gotshal: what happens now at the troubled Wall St law firm?
 The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent
-
-## Will US jobs growth remain subdued?
-Market Questions is the FT’s guide to the week ahead
-
-## America needs a real Congress
-Trump has faced little scrutiny. The midterm elections could change that
 
 ## US critical minerals push delivers a gold rush — for Washington lobbyists
 Billions in government backing have produced a flurry of deals but little increase in domestic production
@@ -30,62 +45,71 @@ Xantium to separate from company controlled by billionaire Paul Tudor Jones II n
 ## Does the Budget mark the end of Miliband-ism?
 New emphasis on cutting energy costs marks shelving of former energy secretary’s ‘mission’ to deliver clean power by 2030
 
-## Oil majors resist pressure to invest in new refineries as fuel prices keep rising
-Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up
+## US midterms: How Trump’s noncitizen voter lists could affect election results
+With Republicans fighting to retain control of Congress, the administration’s voter eligibility drive has raised questions over election challenges
 
-## Germany fails to meet winter gas storage target
-Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases
+## US midterms: Republican victory could hurt India on H-1B visas, tariffs
+The outcome could also shape Washington’s trade negotiations with New Delhi and influence President Trump’s freedom to take military decisions
 
-## Falklands tensions spur fishing ‘free-for-all’ in south Atlantic
-Stocks risk depletion as vessels from China and Spain among others step up activity near contested waters
+## NASA crew emerges after 378 days in simulated Mars mission
+The four-member team lived in a 3D-printed habitat, growing crops and managing communication delays to replicate conditions on Mars
 
-## Honda invests ₹2,420 crore to raise capacity, targets premium motorcycle and EV growth
-Honda Motorcycle & Scooter India President and CEO Tsutsumu Otani discusses festive demand, competition from Hero MotoCorp, electric scooters and the company’s premium motorcycle ambitions
+## Ashwini Vaishnaw reviews Bharat-made B28 bullet train manufacturing at BEML
+The minister examined specialised manufacturing infrastructure, quality assurance procedures and key components designed to meet high-speed rail operational standards
 
-## Corporate India opts for thoughtful gift hampers in a tight market
-Festive presents this year are practical, premium and personalised
+## Power Grid Q2 net profit rises 8% to ₹3,866 crore
+The transmission major also reported higher quarterly income, substantial capital expenditure and 99.81 per cent average transmission system availability
 
-## Missing the point
+## West Bengal GST revenue rises 17% to ₹6,055 crore in October
+The State also received ₹7,866 crore from the Centre as part of an advance instalment of tax devolution to States.
+
+## Cyclone Murasu: AP CM Naidu seeks support from Tamil Nadu, Karnataka
+With cyclone-related damage threatening electricity infrastructure, Andhra Pradesh is mobilising additional manpower and machinery to speed up restoration operations
+
+## Editorial. Missing the point
 FPI inflows not significantly correlated to LTCG
 
-## Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units
-Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales
-
-## INDIA Bloc’s Ramlila Maidan rally targets EC, warns Modi and Shah of legal action over vote theft
-Trinamool Congress MP Mahua Moitra jiving on stage to the blast of AR Rehman’s Jai Ho and CPI(M)’s student wing chanting satirical slogans were key highlights
-
-## AI challenges traditional productivity metrics for Indian IT
-According to UnearthInsight data, Revenue per FTE increased sequentially, with Tech Mahindra recording the sharpest growth at 7.1 per cent to $11,123, alongside a 0.3 per cent decline in headcount
-
-## Central Trade Unions demand Parliamentary scrutiny of IDBI Bank disinvestment process
-Extend full support to the hunger strike called by the United Forum of IDBI Officers & Employees on November 2nd and 3rd to demand cancellation of the Bank’s privatisation process
-
-## Banks holding off upping term deposit rates by relying on CD issuances for resource mobilisation
-Net incremental CD issuance of ₹19,905 crore in October as weighted average rate rises to 6.93%; term deposit rates stay unchanged
-
-## AI is changing the IT career ladder: How to move from routine tasks to higher-value roles
-As execution costs collapse toward zero, compensation and enterprise value are decoupling from traditional job titles and tenure. Instead, value is concentrating at the intersection of technical depth, domain context, and human judgment.
-
-## IGL sees 93% drop in profit amid supply disruptions linked to West Asia
+## GST mop-up rises record 23% in Octoer, hits Rs 2.3 lakh crore
 
 
-## Binance resumes Bitcoin withdrawals after $6.3bn hack, says 95% of assets replaced
-The FBI on Saturday attributed the attack to TraderTraitor, a cyber unit sponsored by the North Korean state. The agency said it had observed members of the group converting stolen assets into Ether and expected further attempts to launder the funds. North Korea has repeatedly denied using state-lin
+## Manufacturing divide: 10% factories account for 72% output
 
-## FPIs withdraw Rs 34,843 crore from Indian stocks; second straight month of selling spree
-Foreign portfolio investors withdrew Rs 34,843 crore from Indian equities in October, continuing a trend. Despite substantial outflows, foreign investors became net buyers towards the end of the month. Market experts suggest that recent foreign buying may indicate a shift in sentiment. Investors are
 
-## ‘Indian manufacturers should target 20% annual growth, exports must drive expansion’
-India's recent free trade agreements with the UK and EU will aid domestic manufacturers in expanding exports. Industry participation and awareness efforts are crucial for capitalizing on the benefits of these FTAs. Export diversification is a key strategy for companies amid global economic uncertain
+## UPI crosses record 25 billion transactions
 
-## GST collections rise 22.9% to Rs 2.31 lakh crore in October
-October witnessed a remarkable surge in India's Goods and Services Tax revenues, hitting Rs 2.31 lakh crore, reflecting a commendable 22.9% growth from last year. This rise was primarily fueled by a staggering 42.2% increase in imports and consistent domestic transactions. Furthermore, major states 
 
-## India's record oil imports hit 5.6 million bpd as Middle East, Russia supplies rise: Report
-India witnessed a notable rise in crude oil imports, reaching approximately 5.6 million barrels per day in October. A significant portion, around 2.3 million bpd, came from the Middle East, with Russian shipments also holding a firm position at nearly 2 million bpd. Yet, increasing freight costs mig
+## EV sales cross record 3.5 lakh units in October
 
-## Commercial LPG price hiked by Rs 10; ATF rates up for fourth straight month
-The prices of commercial LPG cylinders have jumped by Rs 10 to reach Rs 2,820, marking a consecutive increase after a rise of Rs 62.50 earlier this month. Additionally, the cost of aviation turbine fuel has escalated by Rs 1.37 per litre, further burdening airline costs. In contrast, domestic LPG pr
+
+## LICHF bets on diversification to drive growth
+
+
+## Costlier phones give refurbished devices a boost
+
+
+## Festive tailwinds drive car sales to record highs in October
+
+
+## Innovatiview to invest Rs 1,000 crore in exam centres
+
+
+## Over 22,000 litres of ‘adulterated’, expired ghee worth ₹1.6 crore seized in Rajasthan; 3 arrested
+Food safety authorities also recovered expired ghee, containers without labels, packaging material, stickers, a packing machine and other equipment.
+
+## ‘She is upstairs’: Panchkula school boy who attacked 6-year-old led her father to bloodied classroom
+The incident took place between 3 pm and 4 pm at the school in Sector 20 on October 28.
+
+## Ladakh liquor traders slam Sonam Wangchuk's dry UT demand, raise questions over licence to his wine brand
+Ladakh liquor traders questioned Sonam Wangchuk over targeting liquor for a ban while drug use, smoking and meat consumption remained unaddressed.
+
+## Andhra youth, who attacked schoolgirl with chainsaw, shot at while ‘trying to escape’ police custody
+The accused, Hemanth alias Dummu, was picked up by a special party of the police in Atmakur forest area of the district in the evening.
+
+## Tensions flare in Manipur's Kangpokpi after two missing Kuki men found dead, 3 injured in clashes
+The two were reportedly abducted by unidentified miscreants on October 28 while travelling between Hengbung and Taphou Kuki village in Kangpokpi district.
+
+## Panchkula school assault case: Two suspended, child rights panel seeks report
+The incident came to light after a six-year-old girl student was allegedly assaulted at a government school in Panchkula by a third-grade student.
 
 ## Senior IPS officer Susanta Kumar Nath removed as Odisha DG prisons after woman jailor alleges sexual harassment
 Susanta Kumar Nath, a 1993-batch IPS officer and one of the contenders for the state's director general of police post.
@@ -93,23 +117,8 @@ Susanta Kumar Nath, a 1993-batch IPS officer and one of the contenders for the s
 ## Nita Ambani announces 100-acre lifelong care home for orphans, seniors, disabled people
 Nita Ambani performed the Bhumi Pujan and laid the foundation stone for the proposed Nita Mukesh Ambani Anant Ashray in Karjat, near Mumbai.
 
-## '2 pilots mandatory': DGCA tightens Char Dham helicopter norms after Uttarakhand crash; operators threaten shutdown
-The DGCA also directed that crews obtain positive destination and enroute clearance from the control room at Sahastradhara before taking off for each sector.
-
-## Phone linked to Siddaramaiah sting video taken to Kumaraswamy’s Delhi residence: Police
-The phone is suspected to have been used to upload a video targeting former Karnataka chief minister Siddaramaiah.
-
-## HT Evening News Brief November 1: Heavy rain alert in Andhra as Cyclone brews; Priyanka Chopra channels King Kylie for Halloween
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
-
-## Mahadev betting app promoter brought back from Oman, months after arrest in ₹6000 crore money laundering case
-Sourabh Chandrakar set up the Mahadev betting empire along with co-founder Ravi Uppal.
-
-## Digi Yatra trials for international flyers begin at 7 airports; rollout set for 2027
-Digi Yatra trials for international passengers are being conducted at seven airports - Delhi, Bengaluru, Hyderabad, Cochin, Mumbai, Chennai and Amritsar.
-
-## Hardeep Puri’s wife wealthier than him, owns ₹34-crore Geneva apartment: RS bypoll affidavit
-Laxmi Puri, a retired Indian foreign service officer, has declared movable assets worth ₹10.66 crore.
+## Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack
+Binance customers pulled US$3.64 billion, or 2.1 per cent of ⁠its assets, as the world’s biggest cryptocurrency exchange went back online on Sunday after hackers the FBI links to North Korea stole billions from the platform last week. Binance said withdrawals were stabilising after an initial spike 
 
 ## Big Apple vs Pearl of the Orient? How higher taxes in New York may open door for Hong Kong
 On November 4 last year, Zohran Mamdani won the New York mayoral election on a promise to make the city more affordable, with expanded social programmes funded in part by raising taxes on the city’s wealthiest residents and most profitable corporations. Nearly a year since his upset victory, he has 
@@ -131,9 +140,6 @@ The co-founder of Chinese chip giant Cambricon Technologies urged the introducti
 
 ## Scary deals? What makes Hong Kong shun death-linked homes while France embraces the risk
 Even as Hong Kong remains the world’s least affordable housing market, many buyers still shun heavily discounted homes linked to an “unnatural death”, such as murder or suicide, according to property agents. Prices for such properties could fall by as much as 50 per cent, while rents were typically 
-
-## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
-Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Dramatic helicopter rescue saves climbers stranded on Italian cliff
-Dramatic helicopter rescue saves climbers stranded on Italian cliff
+## Video captures house collapsing due to Ecuador floods
+Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
 
-## JERUSALEM DAILY: Israel continues siege and arrests in Hebron
-Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
+## Arsenal go top after narrow win at Liverpool
+Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City
 
-## Serbia arrests police chief over abuse of office allegations
-Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.
+## How will the Iran war shape the outcome of the US midterm vote?
+The conflict has become a central issue ahead of Tuesday's polls.
 
-## Burnham ‘open’ to UK slavery apology, but not reparations: Why now?
-The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda.
+## France opens ‘attempted murder’ probe into petrol bomb attacks on police
+No arrests made after several security officers were reportedly injured during incidents at Saturday's protests.
 
-## Photos: Thousands join India’s opposition rally against election chief
-Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.
+## Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers
+US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
 
-## Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
-Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
+## Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit
+Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.
 
-## Israel election: When will government be formed, who will lead it?
-President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.
+## Israel’s first ambassador to Somaliland presents credentials in Hargeisa
+Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.
 
-## Israeli attacks on Gaza kill at least nine people
-Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.
+## Hebron siege continues for 10th day as Israel threatens wider offensive
+Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
