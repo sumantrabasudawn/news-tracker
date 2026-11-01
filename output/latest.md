@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## The new Bristol town that could give Burnham a blueprint for devolution
-Malaysian-owned development’s bid to transform a 450-acre former airfield will test whether local leaders can deliver
+## Junk debt rout sparks ‘bloodbath’ for credit investors
+Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off
+
+## Trump makes final pitch to restive voters in midterms campaign
+Republican Party is defending its control of Congress against signs of a backlash to the president
+
+## Unions hit out after Healey signals delay to youth minimum wage pledge
+Chancellor warned against pursuing ‘trade-offs’ between jobs and wages after he declines to commit to 2024 vow
+
+## Britain’s welfare ratchet
+Political incentives, rising expectations of state support and deeper economic failures make the benefits system hard to rein in
+
+## Weil Gotshal: what happens now at the troubled Wall St law firm?
+The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent
+
+## Will US jobs growth remain subdued?
+Market Questions is the FT’s guide to the week ahead
+
+## America needs a real Congress
+Trump has faced little scrutiny. The midterm elections could change that
+
+## US critical minerals push delivers a gold rush — for Washington lobbyists
+Billions in government backing have produced a flurry of deals but little increase in domestic production
 
 ## Quant hedge fund to spin out of Tudor in record $9bn launch
 Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year
-
-## The age of prepping is here
-And it could seriously frazzle how we get along at work
-
-## Bond investors sit out ‘most consequential’ US midterm elections in years
-Big fund managers are pressing ‘pause’ as vote and economic data releases loom
-
-## Germany fails to meet winter gas storage target
-Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases
-
-## Military briefing: what would another US-Iran conflict look like?
-US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation
-
-## Falklands tensions spur fishing ‘free-for-all’ in south Atlantic
-Stocks risk depletion as vessels from China and Spain among others step up activity near contested waters
-
-## New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant
-Fiji-born Qiulae Wong backs ‘land tax’ to fund universal basic income and push down housing prices
 
 ## Does the Budget mark the end of Miliband-ism?
 New emphasis on cutting energy costs marks shelving of former energy secretary’s ‘mission’ to deliver clean power by 2030
@@ -30,38 +33,50 @@ New emphasis on cutting energy costs marks shelving of former energy secretary�
 ## Oil majors resist pressure to invest in new refineries as fuel prices keep rising
 Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up
 
-## Europe’s independent hotels turn to global chains to attract wealthy visitors
-Family-run businesses are signing up with brands to tap into lucrative business travel market in sign of continent’s growing ‘chainification’
+## Germany fails to meet winter gas storage target
+Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases
 
-## Scrapping audits for UK start-ups is worth its weight in red tape
-The move will help convey the message that the country’s stifling attitude to bureaucracy is changing
+## Falklands tensions spur fishing ‘free-for-all’ in south Atlantic
+Stocks risk depletion as vessels from China and Spain among others step up activity near contested waters
 
-## No amount of money can make a war zone safe for seafarers
-The international community and shipping industry must act together to protect the people who keep world trade moving
+## Honda invests ₹2,420 crore to raise capacity, targets premium motorcycle and EV growth
+Honda Motorcycle & Scooter India President and CEO Tsutsumu Otani discusses festive demand, competition from Hero MotoCorp, electric scooters and the company’s premium motorcycle ambitions
 
-## Festive mode brings cheer to automakers with record sales in October
-Tata Motors, Hyundai Motor India and Mahindra & Mahindra see best-ever October sales
+## Corporate India opts for thoughtful gift hampers in a tight market
+Festive presents this year are practical, premium and personalised
 
-## GST collection surged to ₹2.32 lakh crore in October
-The data made public by GST portal showed that the collection from domestic source rose to around ₹1.59 lakh crore, recording an increase of around 16%
+## Missing the point
+FPI inflows not significantly correlated to LTCG
 
-## SEBI extends digital accessibility compliance deadline to January 31
-The direction was issued to protect investors' interests, promote the development and regulate the securities market.
+## Strong festive demand lifts October passenger vehicle wholesales by 13% to 5.30 lakh units
+Maruti Suzuki India, Tata Motors, Hyundai Motor India, Kia India, Mahindra & Mahindra see best-ever October sales
 
-## M&M vehicle sales grow 9% to record 13,1109 units in Oct
-Mahindra & Mahindra said domestic passenger vehicle sales rose 2% year-on-year to 73,338 units in October, and commercial vehicle sales rose 4% to 33,037 units
+## INDIA Bloc’s Ramlila Maidan rally targets EC, warns Modi and Shah of legal action over vote theft
+Trinamool Congress MP Mahua Moitra jiving on stage to the blast of AR Rehman’s Jai Ho and CPI(M)’s student wing chanting satirical slogans were key highlights
 
-## Hyundai Motor India sales rise 17.7% in Oct to 82,299 units
-The milestone was driven by record domestic sales of 62,799 units, a 16.7% rise, and exports grew 21.1% to 19,500 units, the automaker said
+## AI challenges traditional productivity metrics for Indian IT
+According to UnearthInsight data, Revenue per FTE increased sequentially, with Tech Mahindra recording the sharpest growth at 7.1 per cent to $11,123, alongside a 0.3 per cent decline in headcount
 
-## J&K builds startup support network through university incubators, seed funding
-The union territory had 1,414 startups registered on the Startup JK Portal as of October 15, according to an official data, compared with 69 in the 2020–21 financial year
+## Central Trade Unions demand Parliamentary scrutiny of IDBI Bank disinvestment process
+Extend full support to the hunger strike called by the United Forum of IDBI Officers & Employees on November 2nd and 3rd to demand cancellation of the Bank’s privatisation process
 
-## Oil PSUs clock ₹30,106 cr Q2 profit, near 39% of last year’s earnings
-The earnings boost was primarily because of high refining margins and inventory gains.
+## Banks holding off upping term deposit rates by relying on CD issuances for resource mobilisation
+Net incremental CD issuance of ₹19,905 crore in October as weighted average rate rises to 6.93%; term deposit rates stay unchanged
 
-## Delhi records lowest October average AQI in eight years at 166
-The monthly average AQI stood at 223 in October 2025, 234 in 2024, 219 in 2023, 210 in 2022, 173 in 2021, 265 in 2020, 234 in 2019 and 269 in 2018
+## AI is changing the IT career ladder: How to move from routine tasks to higher-value roles
+As execution costs collapse toward zero, compensation and enterprise value are decoupling from traditional job titles and tenure. Instead, value is concentrating at the intersection of technical depth, domain context, and human judgment.
+
+## IGL sees 93% drop in profit amid supply disruptions linked to West Asia
+
+
+## Binance resumes Bitcoin withdrawals after $6.3bn hack, says 95% of assets replaced
+The FBI on Saturday attributed the attack to TraderTraitor, a cyber unit sponsored by the North Korean state. The agency said it had observed members of the group converting stolen assets into Ether and expected further attempts to launder the funds. North Korea has repeatedly denied using state-lin
+
+## FPIs withdraw Rs 34,843 crore from Indian stocks; second straight month of selling spree
+Foreign portfolio investors withdrew Rs 34,843 crore from Indian equities in October, continuing a trend. Despite substantial outflows, foreign investors became net buyers towards the end of the month. Market experts suggest that recent foreign buying may indicate a shift in sentiment. Investors are
+
+## ‘Indian manufacturers should target 20% annual growth, exports must drive expansion’
+India's recent free trade agreements with the UK and EU will aid domestic manufacturers in expanding exports. Industry participation and awareness efforts are crucial for capitalizing on the benefits of these FTAs. Export diversification is a key strategy for companies amid global economic uncertain
 
 ## GST collections rise 22.9% to Rs 2.31 lakh crore in October
 October witnessed a remarkable surge in India's Goods and Services Tax revenues, hitting Rs 2.31 lakh crore, reflecting a commendable 22.9% growth from last year. This rise was primarily fueled by a staggering 42.2% increase in imports and consistent domestic transactions. Furthermore, major states 
@@ -72,44 +87,35 @@ India witnessed a notable rise in crude oil imports, reaching approximately 5.6 
 ## Commercial LPG price hiked by Rs 10; ATF rates up for fourth straight month
 The prices of commercial LPG cylinders have jumped by Rs 10 to reach Rs 2,820, marking a consecutive increase after a rise of Rs 62.50 earlier this month. Additionally, the cost of aviation turbine fuel has escalated by Rs 1.37 per litre, further burdening airline costs. In contrast, domestic LPG pr
 
-## Binance to resume withdrawals after recovering 95% of $6.3 billion crypto theft
-Binance has announced a phased resumption of cryptocurrency withdrawals following a significant heist of $6.3 billion. The exchange reported it has recovered 95% of the stolen digital assets, enabling this process. The remaining 5% consists of less liquid tokens, which may require additional time to
+## Senior IPS officer Susanta Kumar Nath removed as Odisha DG prisons after woman jailor alleges sexual harassment
+Susanta Kumar Nath, a 1993-batch IPS officer and one of the contenders for the state's director general of police post.
 
-## Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns
-Apple has reclaimed the position of the world's most valuable company, surpassing Nvidia amid rising concerns. Both companies have seen their stock prices decline, with Apple falling 1.2 percent and Nvidia 4.2 percent. Significant investments in artificial intelligence by major firms have raised que
+## Nita Ambani announces 100-acre lifelong care home for orphans, seniors, disabled people
+Nita Ambani performed the Bhumi Pujan and laid the foundation stone for the proposed Nita Mukesh Ambani Anant Ashray in Karjat, near Mumbai.
 
-## Windfall gains tax on diesel, ATF exports up; petrol cut to nil
+## '2 pilots mandatory': DGCA tightens Char Dham helicopter norms after Uttarakhand crash; operators threaten shutdown
+The DGCA also directed that crews obtain positive destination and enroute clearance from the control room at Sahastradhara before taking off for each sector.
 
+## Phone linked to Siddaramaiah sting video taken to Kumaraswamy’s Delhi residence: Police
+The phone is suspected to have been used to upload a video targeting former Karnataka chief minister Siddaramaiah.
 
-## AAIB for better coordination between civil, defence aviation authorities
+## HT Evening News Brief November 1: Heavy rain alert in Andhra as Cyclone brews; Priyanka Chopra channels King Kylie for Halloween
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
 
+## Mahadev betting app promoter brought back from Oman, months after arrest in ₹6000 crore money laundering case
+Sourabh Chandrakar set up the Mahadev betting empire along with co-founder Ravi Uppal.
 
-## Indigenous bullet train B28 undergoes 'squeeze test'
+## Digi Yatra trials for international flyers begin at 7 airports; rollout set for 2027
+Digi Yatra trials for international passengers are being conducted at seven airports - Delhi, Bengaluru, Hyderabad, Cochin, Mumbai, Chennai and Amritsar.
 
+## Hardeep Puri’s wife wealthier than him, owns ₹34-crore Geneva apartment: RS bypoll affidavit
+Laxmi Puri, a retired Indian foreign service officer, has declared movable assets worth ₹10.66 crore.
 
-## Royal Enfield bikes, tractors among prizes in MP govt's quiz outreach for students, farmers
-Quiz prizes included Royal Enfield motorbikes, tractors and e-scooters, and farmers and students were among participants.
+## Big Apple vs Pearl of the Orient? How higher taxes in New York may open door for Hong Kong
+On November 4 last year, Zohran Mamdani won the New York mayoral election on a promise to make the city more affordable, with expanded social programmes funded in part by raising taxes on the city’s wealthiest residents and most profitable corporations. Nearly a year since his upset victory, he has 
 
-## TN govt sanctions 26 new POCSO special courts to speed up justice
-TN govt sanctions 26 new POCSO special courts to speed up justice
-
-## Two pilots from Fiji, South Africa landed flydubai plane after attack on Indian Captain Smit Machchhar
-Pilots Henson Steven of Fiji and Rowan Tooth of South Africa took control of the plane after Smit Machchhar was attacked.
-
-## Local body polls underway in Andhra Pradesh, TDP-YSRCP workers clash in Pulivendula
-Voters turned up at polling stations to exercise their franchise as soon as the voting exercise began at 7 am, they added. Polling would go on till 5 pm.
-
-## SC paves way for IT assessments of two businessmen sons of former CJI YK Sabharwal
-SC paves way for IT assessments of two businessmen sons of former CJI YK Sabharwal
-
-## Op Sindoor drew non-negotiable red line on terrorism: Rajnath Singh
-Singh said India’s expertise in counterterrorism is not classroom knowledge but was honed over decades as the army confronted complex, cross-border security challenges on the ground
-
-## Manipur security forces recover bodies of two abducted Kuki men after five days
-Police said search operations will continue to find those responsible. Their disappearance had prompted a district-wide shutdown by a Kuki-Zo group.
-
-## Seafarers' security, grain exports: Jaishankar reveals India's three-point discussion on war with Russia, Ukraine and Europe
-Jaishankar said India has been calling on the parties to address the issues, which include discussions on protecting seafarers and restoring grain exports.
+## China’s banks, regulators to meet on measures to arrest stock slide
+China’s central bank and securities regulator are expected to meet with financial institutions on Monday to discuss measures to bolster the country’s stock market, following a sell-off in October that heightened concerns over market stability, according to mainland media reports. The People’s Bank o
 
 ## What would a December rate rise mean for Hong Kong family offices’ property portfolios?
 An expected 0.25 percentage point rate increase by the US Federal Reserve in December is unlikely to dampen Hong Kong family offices’ interest in European, US and Japanese property investments, according to industry insiders. Ken Peng, chief investment officer at Raffles Family Office, said there we
@@ -128,12 +134,6 @@ Even as Hong Kong remains the world’s least affordable housing market, many bu
 
 ## Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?
 Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in ext
-
-## Chinese flying cars more commercially viable than Tesla’s Roadster, says Xpeng executive
-Flying cars developed by Chinese companies are by design more feasible for commercial use than Tesla’s Roadster, according to an executive at Xpeng, after a recent demonstration by the US tech giant sparked discussion about tech leadership in mainland China. Wang Tan, co-founder of Aridge, the affil
-
-## How Malaysia-based Labuan IBFC provides the framework and fintech for global expansion
-The Asia-Pacific region stands out as the world’s most dynamic market for asset and wealth management, according to insights from PwC Australia, with assets under management (AUM) expected to hit the US$34.5 trillion mark by the end of the decade; in 2024 the figure stood at US$23.3 trillion. The pr
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -159,6 +159,9 @@ Test yourself on the week of Oct. 24: Brazil, Israel, and Serbia vote; China’s
 ## Why Trump’s Hail Mary on Fuel Prices Fell Short
 Appeasing Moscow and punting on Iran haven’t calmed oil markets or voters.
 
+## Japan’s Economic Diplomacy: A Compass in a Divided World
+Tokyo has the ability to chart a stable path forward.
+
 ## Fire Devastated a Mongolian Nature Reserve. Who’s to Blame?
 The fire in Numrug touches on cross-border capital compliance risks and geopolitical changes impacting Northeast Asia’s ecology.
 
@@ -179,9 +182,6 @@ Economic, technological, and societal ties between the two sides have never been
 
 ## What Tokayev’s Economic Agenda Means for Kazakhstan’s International Partnerships
 The Kazakh president’s insistence that public spending mobilize private capital, rather than substitute for it, gives the initiative an international dimension.
-
-## India’s China+1 Dilemma: It May Need China to Depend Less on China
-India wants to rely less on China. Interviews with executives and policymakers suggest that whether Chinese firms take part matters less than what India gets for letting them.
 
 ## What Israel’s Election Results Mean for the Middle East and Beyond
 Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran
-Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.
+## Dramatic helicopter rescue saves climbers stranded on Italian cliff
+Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
-## Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
-New York City mayor says US president 'has agreed to grant her visa immediately'.
+## JERUSALEM DAILY: Israel continues siege and arrests in Hebron
+Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
 
-## Iran security chief says US letter signals ‘positive’ shift
-US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.
+## Serbia arrests police chief over abuse of office allegations
+Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.
 
-## Bangladesh forms wage board as garment workers protest
-Demonstrations held in industrial cities as workers demand wage increase as cost of living rises.
+## Burnham ‘open’ to UK slavery apology, but not reparations: Why now?
+The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda.
 
-## No, France is not ‘burning’
-It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.
+## Photos: Thousands join India’s opposition rally against election chief
+Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.
 
-## Serbia’s canopy collapse, two years on in a changed country
-Two years after Novi Sad’s railway station canopy collapse, Serbia marks the second anniversary of the tragedy.
+## Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
+Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
 
-## Israel’s war on homes: From Hebron to Gaza and southern Lebanon
-From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families' hopes of return.
+## Israel election: When will government be formed, who will lead it?
+President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.
 
-## Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war
-Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.
+## Israeli attacks on Gaza kill at least nine people
+Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
@@ -279,6 +279,12 @@ Court holds three month GST audit period runs from the later of submission of re
 ## Parliamentary Committee on Finance to examine 46 economic issues, including crypto, AI, in FY'27
 Parliament's Standing Committee on Finance has identified 46 subjects for detailed examination this fiscal year. Topics include artificial intelligence in finance, virtual digital assets, and currency management among others.
 
+## Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31
+The Securities and Exchange Board of India (Sebi) has granted an extension until January 31 of the coming year for regulated entities to comply with digital accessibility standards. This decision, prompted by requests from market participants, aligns with the Rights of Persons with Disabilities Act,
+
+## SEBI working to delist companies with no economic activity to protect investors: Chairman
+SEBI is taking steps to remove companies that lack economic activity from the stock exchanges. These companies pose a risk to investors as they may be involved in market manipulation schemes. The regulator is also using AI techniques to track suspicious accounts and protect retail investors. Further
+
 ## Sebi Revises REIT Norms: Key Changes Investors Should Know Going Forward
 Sebi tweaks unitholder voting rules, strengthens exit rights for dissenting investors
 
@@ -296,10 +302,4 @@ Acknowledging that some compliance requirements in India remain more onerous tha
 
 ## India’s record bank cash surplus fades as RBI curbs rupee bets
 Indian banks have seen their excess funds drop significantly as the Reserve Bank of India maintains liquidity tightness. This monetary policy is aimed at curbing speculation against the rupee, which has reached critical levels. The central bank has provided limited liquidity support and capped assis
-
-## Textile PLI scheme likely to be extended by four years with easier norms for MSMEs
-The government plans to extend the PLI scheme for textiles for four years with easier criteria. This initiative aims to increase participation from micro, small and medium enterprises. The scheme, initially approved in September 2021, supports large-scale manufacturing of textiles in India. Lowering
-
-## GAMP Services Limited Files DRHP with SEBI for Proposed IPO
-New Delhi [India], GAMP Services Limited, an integrated validation, qualification, compliance consulting and engineering solutions company catering primarily to regulated life sciences, pharmaceutical and high-tech industries, has filed its Draft Red Herring Prospectus (DRHP) with the Securities and
 
