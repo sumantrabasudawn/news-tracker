@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## Bulgarians projected to re-elect pro-Russian president
-Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls
+## What’s the risk of political violence? | Martin Wolf on the US midterms
+Can American democracy emerge from the midterms stronger rather than more divided?
+
+## FirstFT: Gulf braced for renewed war between US and Iran
+Also in today’s newsletter: Binance users pull $3.6bn from crypto exchange and a junk debt rout sparks ‘bloodbath’ for credit investors
+
+## Trump makes final pitch to restive voters in midterms campaign
+Republican Party is defending its control of Congress against signs of a backlash to the president
 
 ## Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed
-Unity between Democratic progressives and moderates in key Senate race collapses in war of words over Israel
+Unity between Democratic progressives and moderates collapses in key Senate race after war of words over Israel
+
+## Bulgarians projected to re-elect pro-Russian president
+Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls
 
 ## Trump faces the voters
 US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief
@@ -14,15 +23,6 @@ Diplomats warn that renewed conflict would be even more damaging than previous r
 
 ## *SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November
 Fun times this way ↓↓↓
-
-## Britain to offer cheaper university fees to EU students at ‘reset’ summit
-Since Brexit, European students have paid international tuition rates at UK universities
-
-## Trump makes final pitch to restive voters in midterms campaign
-Republican Party is defending its control of Congress against signs of a backlash to the president
-
-## France and the UK require a new entente
-The Suez crisis offers valuable lessons on troubled relations since the birth of the European project
 
 ## Blue Lagoon owner plans to float as Icelandic tourism booms
 Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat
@@ -41,9 +41,6 @@ Billions in government backing have produced a flurry of deals but little increa
 
 ## Quant hedge fund to spin out of Tudor in record $9bn launch
 Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year
-
-## Does the Budget mark the end of Miliband-ism?
-New emphasis on cutting energy costs marks shelving of former energy secretary’s ‘mission’ to deliver clean power by 2030
 
 ## US midterms: How Trump’s noncitizen voter lists could affect election results
 With Republicans fighting to retain control of Congress, the administration’s voter eligibility drive has raised questions over election challenges
@@ -69,6 +66,12 @@ With cyclone-related damage threatening electricity infrastructure, Andhra Prade
 ## Editorial. Missing the point
 FPI inflows not significantly correlated to LTCG
 
+## Commercial LPG price up 10, ATF 1.4 per litre
+
+
+## Government testing DigiYatra for international flights
+
+
 ## GST mop-up rises record 23% in Octoer, hits Rs 2.3 lakh crore
 
 
@@ -85,12 +88,6 @@ FPI inflows not significantly correlated to LTCG
 
 
 ## Costlier phones give refurbished devices a boost
-
-
-## Festive tailwinds drive car sales to record highs in October
-
-
-## Innovatiview to invest Rs 1,000 crore in exam centres
 
 
 ## Over 22,000 litres of ‘adulterated’, expired ghee worth ₹1.6 crore seized in Rajasthan; 3 arrested
@@ -117,6 +114,12 @@ Susanta Kumar Nath, a 1993-batch IPS officer and one of the contenders for the s
 ## Nita Ambani announces 100-acre lifelong care home for orphans, seniors, disabled people
 Nita Ambani performed the Bhumi Pujan and laid the foundation stone for the proposed Nita Mukesh Ambani Anant Ashray in Karjat, near Mumbai.
 
+## Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility
+When hundreds of global finance leaders converge in Hong Kong this week, the question on their minds will be whether traditional investment strategies remain viable against escalating geopolitical friction and the rapid ascent of artificial intelligence. Investors have been keen for an answer – or a
+
+## How HSBC is investing in Hong Kong to build the future of finance — and why now
+[The content of this article has been produced by our advertising partner.] Hong Kong has been a home market for HSBC since the bank was founded 161 years ago. It is now also a base for the bank’s AI investment and delivery, with capabilities developed in the city intended for use across other marke
+
 ## Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack
 Binance customers pulled US$3.64 billion, or 2.1 per cent of ⁠its assets, as the world’s biggest cryptocurrency exchange went back online on Sunday after hackers the FBI links to North Korea stole billions from the platform last week. Binance said withdrawals were stabilising after an initial spike 
 
@@ -134,12 +137,6 @@ Argentina is the latest country seeking to lure investors with an investment-for
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
-
-## As AI cyber risks grow, Chinese chip expert urges shared ethics standards with US rivals
-The co-founder of Chinese chip giant Cambricon Technologies urged the introduction of universal ethical requirements for leading Chinese and American artificial intelligence models on Friday to mitigate growing risks to society. Chen Yunji’s remarks at an event in Shanghai come as the rapid advance 
-
-## Scary deals? What makes Hong Kong shun death-linked homes while France embraces the risk
-Even as Hong Kong remains the world’s least affordable housing market, many buyers still shun heavily discounted homes linked to an “unnatural death”, such as murder or suicide, according to property agents. Prices for such properties could fall by as much as 50 per cent, while rents were typically 
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Video captures house collapsing due to Ecuador floods
-Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
+## High-ranking US Democratic senator suffers stroke
+Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.
 
-## Arsenal go top after narrow win at Liverpool
-Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City
+## Kherson braces for return of war as localised Russia-Ukraine truce ends
+Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.
 
-## How will the Iran war shape the outcome of the US midterm vote?
-The conflict has become a central issue ahead of Tuesday's polls.
+## Democrat Haley Stevens heckled as she backs El-Sayed rival
+US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.
 
-## France opens ‘attempted murder’ probe into petrol bomb attacks on police
-No arrests made after several security officers were reportedly injured during incidents at Saturday's protests.
+## Thousands displaced from Hebron as Israel carries on siege
+Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.
 
-## Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers
-US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
+## Carney signals progress on Canada-US trade deal talks as midterms loom
+Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.
 
-## Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit
-Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.
+## Why did Democrat Haley Stevens just endorse a Republican for US Senate?
+Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.
 
-## Israel’s first ambassador to Somaliland presents credentials in Hargeisa
-Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.
+## Al Jazeera Director General hails 30 years of groundbreaking news
+Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.
 
-## Hebron siege continues for 10th day as Israel threatens wider offensive
-Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.
+## Bulgaria’s acting President Iotova leads in run-off exit polls
+Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
