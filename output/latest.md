@@ -1,73 +1,82 @@
 # AION Intelligence
 
-## Michigan feud threatens Democratic unity in key Senate race
-Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel
+## The new Bristol town that could give Burnham a blueprint for devolution
+Malaysian-owned development’s bid to transform a 450-acre former airfield will test whether local leaders can deliver
 
-## Tusk vows to press on with overhaul of Poland’s judiciary
-Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup
+## Quant hedge fund to spin out of Tudor in record $9bn launch
+Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year
 
-## Evacuees from Russian-occupied city arrive in Ukraine
-Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv
+## The age of prepping is here
+And it could seriously frazzle how we get along at work
 
-## Investors trim growth bets over fears of US economy’s AI exposure
-Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending
+## Bond investors sit out ‘most consequential’ US midterm elections in years
+Big fund managers are pressing ‘pause’ as vote and economic data releases loom
 
-## Iran warns it will retaliate without ‘geographical limitations’ if attacked
-Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign
+## Germany fails to meet winter gas storage target
+Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases
 
-## Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections
-Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in
+## Military briefing: what would another US-Iran conflict look like?
+US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation
 
-## Budget frees London to go on £10bn borrowing spree, says Sadiq Khan
-UK capital’s mayor hails chancellor’s financial plan that will boost key infrastructure projects
+## Falklands tensions spur fishing ‘free-for-all’ in south Atlantic
+Stocks risk depletion as vessels from China and Spain among others step up activity near contested waters
 
-## Poland suspends top judges as battle over rule of law escalates
-President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court
+## New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant
+Fiji-born Qiulae Wong backs ‘land tax’ to fund universal basic income and push down housing prices
 
-## Kane, Mbappé and the cost of star power
-Also in today’s newsletter: the courts loom for Kalshi and the WNBA’s season of chaos
+## Does the Budget mark the end of Miliband-ism?
+New emphasis on cutting energy costs marks shelving of former energy secretary’s ‘mission’ to deliver clean power by 2030
 
-## French protests show BNP Paribas what’s in a name
-Despite a strong third quarter, a bumpy journey lies ahead for investors
+## Oil majors resist pressure to invest in new refineries as fuel prices keep rising
+Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up
 
-## Equity loan scheme will struggle to deliver ‘the homes buyers want’
-Many first-time purchasers want three-bed houses but Your First Home price caps mean mostly flats will qualify in large parts of country
+## Europe’s independent hotels turn to global chains to attract wealthy visitors
+Family-run businesses are signing up with brands to tap into lucrative business travel market in sign of continent’s growing ‘chainification’
 
-## French banks’ rising profits fail to reverse sell-off as political fears bite
-BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty
+## Scrapping audits for UK start-ups is worth its weight in red tape
+The move will help convey the message that the country’s stifling attitude to bureaucracy is changing
 
-## Bank of England explores easing key limit on riskier mortgage lending
-Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership
+## No amount of money can make a war zone safe for seafarers
+The international community and shipping industry must act together to protect the people who keep world trade moving
 
-## Lula’s surprise election victory sends agri-commodities tumbling
-Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries
+## Festive mode brings cheer to automakers with record sales in October
+Tata Motors, Hyundai Motor India and Mahindra & Mahindra see best-ever October sales
 
-## How a £1 deal dragged Poundland’s owner into a political storm
-Gordon Brothers is under intense scrutiny over whether it could have prevented the UK retailer’s looming insolvency
+## GST collection surged to ₹2.32 lakh crore in October
+The data made public by GST portal showed that the collection from domestic source rose to around ₹1.59 lakh crore, recording an increase of around 16%
 
-## Trump loses lawsuit against Wall Street Journal over Epstein birthday letter story
-The ruling permanently ends the case, which challenged the newspaper’s reporting on an alleged letter included in Epstein’s 2003 birthday album
+## SEBI extends digital accessibility compliance deadline to January 31
+The direction was issued to protect investors' interests, promote the development and regulate the securities market.
 
-## At G20 meeting, Jaishankar pushes for transparent and diversified global supply chains
-The discussions covered global economic resilience, trade routes, critical minerals and the need to protect supply chains from geopolitical disruptions.
+## M&M vehicle sales grow 9% to record 13,1109 units in Oct
+Mahindra & Mahindra said domestic passenger vehicle sales rose 2% year-on-year to 73,338 units in October, and commercial vehicle sales rose 4% to 33,037 units
 
-## India and Turkey propose plans to move grain shipments through Black Sea, says Rubio
-The proposals come amid growing concerns over shipping disruptions, food security and maritime safety across key international waterways and strategic regions
+## Hyundai Motor India sales rise 17.7% in Oct to 82,299 units
+The milestone was driven by record domestic sales of 62,799 units, a 16.7% rise, and exports grew 21.1% to 19,500 units, the automaker said
 
-## North Korean hackers behind $6.3 billion Binance crypto theft, says FBI
-The FBI has urged cryptocurrency platforms to prevent stolen funds from moving through digital asset networks and services used to conceal their origins.
+## J&K builds startup support network through university incubators, seed funding
+The union territory had 1,414 startups registered on the Startup JK Portal as of October 15, according to an official data, compared with 69 in the 2020–21 financial year
 
-## Scientists identify how a gut bacterium may trigger colon cancer
-A study has uncovered a molecular mechanism through which a common gut bacterium’s toxin attacks colon cells, opening a possible path to protection
+## Oil PSUs clock ₹30,106 cr Q2 profit, near 39% of last year’s earnings
+The earnings boost was primarily because of high refining margins and inventory gains.
 
-## India must build oil reserves, reduce energy imports amid global trade shocks: C Rangarajan
-Geopolitical tensions and disruptions to international trade have underscored the need for stronger domestic capabilities and greater economic resilience
+## Delhi records lowest October average AQI in eight years at 166
+The monthly average AQI stood at 223 in October 2025, 234 in 2024, 219 in 2023, 210 in 2022, 173 in 2021, 265 in 2020, 234 in 2019 and 269 in 2018
 
-## Indian professionals vital to US economy; visa restrictions could hurt communities: Indiaspora
-The diaspora organisation has urged political leaders to recognise foreign professionals’ economic contributions and reconsider measures affecting skilled immigration
+## GST collections rise 22.9% to Rs 2.31 lakh crore in October
+October witnessed a remarkable surge in India's Goods and Services Tax revenues, hitting Rs 2.31 lakh crore, reflecting a commendable 22.9% growth from last year. This rise was primarily fueled by a staggering 42.2% increase in imports and consistent domestic transactions. Furthermore, major states 
 
-## Delhi to Agra in 59 minutes: PM Modi approves north corridor of bullet train project
-The proposed high-speed rail network will connect major cities across northern and eastern India, with substantial reductions in intercity travel times
+## India's record oil imports hit 5.6 million bpd as Middle East, Russia supplies rise: Report
+India witnessed a notable rise in crude oil imports, reaching approximately 5.6 million barrels per day in October. A significant portion, around 2.3 million bpd, came from the Middle East, with Russian shipments also holding a firm position at nearly 2 million bpd. Yet, increasing freight costs mig
+
+## Commercial LPG price hiked by Rs 10; ATF rates up for fourth straight month
+The prices of commercial LPG cylinders have jumped by Rs 10 to reach Rs 2,820, marking a consecutive increase after a rise of Rs 62.50 earlier this month. Additionally, the cost of aviation turbine fuel has escalated by Rs 1.37 per litre, further burdening airline costs. In contrast, domestic LPG pr
+
+## Binance to resume withdrawals after recovering 95% of $6.3 billion crypto theft
+Binance has announced a phased resumption of cryptocurrency withdrawals following a significant heist of $6.3 billion. The exchange reported it has recovered 95% of the stolen digital assets, enabling this process. The remaining 5% consists of less liquid tokens, which may require additional time to
+
+## Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns
+Apple has reclaimed the position of the world's most valuable company, surpassing Nvidia amid rising concerns. Both companies have seen their stock prices decline, with Apple falling 1.2 percent and Nvidia 4.2 percent. Significant investments in artificial intelligence by major firms have raised que
 
 ## Windfall gains tax on diesel, ATF exports up; petrol cut to nil
 
@@ -78,44 +87,35 @@ The proposed high-speed rail network will connect major cities across northern a
 ## Indigenous bullet train B28 undergoes 'squeeze test'
 
 
-## GST Rules To Ease: Council clears simpler registration and faster refunds; small online sellers gain
-Starting November 1, new Goods and Services Tax procedures will offer a streamlined experience for businesses. Small online sellers can enjoy simplified registration and access to e-commerce operators' warehouses. The GST portal's enhanced user-friendliness will minimize registration errors. Automat
+## Royal Enfield bikes, tractors among prizes in MP govt's quiz outreach for students, farmers
+Quiz prizes included Royal Enfield motorbikes, tractors and e-scooters, and farmers and students were among participants.
 
-## Tata Sons row: ‘Sebi monitoring all developments,’ says chairman Tuhin Kanta Pandey
-Currently, SEBI is taking charge of governance issues within Tata Sons, the umbrella organization for Tata Group. While Tata Sons is not publicly traded, its subsidiary companies are required to follow SEBI regulations. The regulatory authority has confirmed its vigilant oversight of governance-rela
+## TN govt sanctions 26 new POCSO special courts to speed up justice
+TN govt sanctions 26 new POCSO special courts to speed up justice
 
-## Swipe, shop, repeat: Online buyers splash out 7.5% more than offline shoppers
-Research indicates that households in India utilizing online shopping platforms incur a monthly expenditure that is 7.5 percent higher than those who do not shop online. Notably, the rise in spending for services and durable goods is strikingly high at 23.4 and 24.5 percent. Despite this, the majori
+## Two pilots from Fiji, South Africa landed flydubai plane after attack on Indian Captain Smit Machchhar
+Pilots Henson Steven of Fiji and Rowan Tooth of South Africa took control of the plane after Smit Machchhar was attacked.
 
-## ‘Binance will absorb impact, not users’: Crypto giant sets aside $6.34 bn to cover losses
-Binance has encountered a serious security breach, with $6.3 billion in digital assets being stolen. To safeguard its users, the exchange will utilize its Secure Asset Fund for Users to absorb the losses. Collaborating with law enforcement, approximately $3 billion in stolen cryptocurrency has been 
+## Local body polls underway in Andhra Pradesh, TDP-YSRCP workers clash in Pulivendula
+Voters turned up at polling stations to exercise their franchise as soon as the voting exercise began at 7 am, they added. Polling would go on till 5 pm.
 
-## Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5
-The Centre took significant steps on October 31 by eliminating the Rs 2.5 per litre duty on petrol exports. In contrast, the excise duties for high-speed diesel and aviation turbine fuel were ramped up; diesel duties increased from Rs 8.5 to Rs 11.5 per litre, and ATF duties from Rs 10.5 to Rs 11.
+## SC paves way for IT assessments of two businessmen sons of former CJI YK Sabharwal
+SC paves way for IT assessments of two businessmen sons of former CJI YK Sabharwal
 
-## Will reopen Chhoto Angaria, Nandigram cases: West Bengal CM
-At least five All India Trinamool Congress (AITC) supporters were killed, allegedly by CPI(M) cadres inside a house at Chhoto Angaria.
+## Op Sindoor drew non-negotiable red line on terrorism: Rajnath Singh
+Singh said India’s expertise in counterterrorism is not classroom knowledge but was honed over decades as the army confronted complex, cross-border security challenges on the ground
 
-## Unpacking the brawl that sparked the Naga-Kuki conflict in Manipur
-Personnel from the Central Reserve Police Force (CRPF) and the Border Security Force (BSF) were tasked with keeping the two communities apart.
+## Manipur security forces recover bodies of two abducted Kuki men after five days
+Police said search operations will continue to find those responsible. Their disappearance had prompted a district-wide shutdown by a Kuki-Zo group.
 
-## Nepal PM Balendra Shah likely to visit India in late November; foreign secretary Vikram Misri to prepare grounds
-The rapper-turned-politician has typically shied away from foreign trips since he became PM in March.
+## Seafarers' security, grain exports: Jaishankar reveals India's three-point discussion on war with Russia, Ukraine and Europe
+Jaishankar said India has been calling on the parties to address the issues, which include discussions on protecting seafarers and restoring grain exports.
 
-## ‘An obstructive side stalling development’: PM Modi slams Opposition
-At a Unity Day event honoring Sardar Vallabhbhai Patel, PM Modi accused the Oppn of obstructing development and conspiring to divide the country.
+## What would a December rate rise mean for Hong Kong family offices’ property portfolios?
+An expected 0.25 percentage point rate increase by the US Federal Reserve in December is unlikely to dampen Hong Kong family offices’ interest in European, US and Japanese property investments, according to industry insiders. Ken Peng, chief investment officer at Raffles Family Office, said there we
 
-## Supreme Court clears way for reopening of tax probe against ex-CJI’s sons over 2010 property deal
-The court said investigators had provided material warranting further examination of the transactions and the use of their proceeds.
-
-## 3 Kukis shot dead in Manipur gunfight
-Three Kuki men were killed in Manipur gunfire as Meitei and Naga groups rallied in Imphal to scrap the SoO pact with Kuki-Zo armed groups.
-
-## Opposition holds ‘impeachment’ of CEC Gyanesh Kumar; BJP terms it ‘drama’
-The 3.5-hour-long show, attended by more than 250 opposition lawmakers, was held at Congress president Mallikarjun Kharge’s residence at Rajaji Marg.
-
-## Jaishankar meets Russian FM Lavrov in Atlanta, discusses Ukraine, West Asia situation
-Jaishankar meets Lavrov in Atlanta to discuss Ukraine, Gulf tensions and global issues.
+## Will Argentina’s citizenship scheme lure property buyers from mainland China and Hong Kong?
+Argentina is the latest country seeking to lure investors with an investment-for-citizenship programme, providing another residency and diversification option for the wealthy, including those from mainland China and Hong Kong, according to analysts. Buenos Aires in October announced two principal in
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
@@ -134,12 +134,6 @@ Flying cars developed by Chinese companies are by design more feasible for comme
 
 ## How Malaysia-based Labuan IBFC provides the framework and fintech for global expansion
 The Asia-Pacific region stands out as the world’s most dynamic market for asset and wealth management, according to insights from PwC Australia, with assets under management (AUM) expected to hit the US$34.5 trillion mark by the end of the decade; in 2024 the figure stood at US$23.3 trillion. The pr
-
-## From ‘national team’ intervention to Yulan bonds: 5 figures investors are watching
-This week, China’s stock market slipped into a bear market, prompting the state-backed “national team” to pour about 170 billion yuan (US$25.52 billion) into exchange-traded funds (ETFs); Standard Chartered beat forecasts with a 46 per cent jump in third-quarter net profit; and the US Federal Reserv
-
-## AI as a New Tribe: Professor Alan Macfarlane on what makes us human
-What might an anthropologist make of artificial intelligence if he approached it as an unfamiliar tribe? That question framed an SCMP Plus fireside chat with Professor Alan Macfarlane at The Center in Central, Hong Kong, on October 26. Speaking with SCMP senior AI technology reporter Vincent Chow, M
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Talarico draws a packed campus rally, but can he win over young voters?
-Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&M.
+## Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran
+Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.
 
-## Polish president holds crisis talks in court standoff
-A dispute over the politicisation of Poland's constitutional court is deepening, with no side appearing to back down.
+## Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
+New York City mayor says US president 'has agreed to grant her visa immediately'.
 
-## Gen Z-led protests in Germany turn violent
-Protesters clashed with police as thousands took to the streets across 34 cities in Germany.
+## Iran security chief says US letter signals ‘positive’ shift
+US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.
 
-## Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz
-Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran's conditions.
+## Bangladesh forms wage board as garment workers protest
+Demonstrations held in industrial cities as workers demand wage increase as cost of living rises.
 
-## ICE agent’s violent shove propels woman through the air
-A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.
+## No, France is not ‘burning’
+It is merely witnessing another episode of unrest that – like many others in its history – has a violent element to it.
 
-## Dutch authorities rescue 38 people adrift in rubber boat
-Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.
+## Serbia’s canopy collapse, two years on in a changed country
+Two years after Novi Sad’s railway station canopy collapse, Serbia marks the second anniversary of the tragedy.
 
-## Trump loses legal battle over Epstein-linked Wall Street Journal case
-Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.
+## Israel’s war on homes: From Hebron to Gaza and southern Lebanon
+From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families' hopes of return.
 
-## Palestine Action supporters arrested outside US embassy in London
-Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.
+## Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war
+Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
