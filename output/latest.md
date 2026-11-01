@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Michigan feud threatens Democratic unity in key Senate race
+Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel
+
+## Tusk vows to press on with overhaul of Poland’s judiciary
+Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup
+
 ## Evacuees from Russian-occupied city arrive in Ukraine
 Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv
 
@@ -17,12 +23,6 @@ UK capital’s mayor hails chancellor’s financial plan that will boost key inf
 
 ## Poland suspends top judges as battle over rule of law escalates
 President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court
-
-## Serbia comes back into the fold
-Decisive vote against autocratic leader Aleksandar Vučić will enable restoration of democratic checks and balances
-
-## Chart of the Week: Bond investors may cheer gridlock
-Midterms will have higher stakes for the bond market
 
 ## Kane, Mbappé and the cost of star power
 Also in today’s newsletter: the courts loom for Kalshi and the WNBA’s season of chaos
@@ -45,29 +45,29 @@ Steep fall in Brazilian real has made the country’s exports more competitive, 
 ## How a £1 deal dragged Poundland’s owner into a political storm
 Gordon Brothers is under intense scrutiny over whether it could have prevented the UK retailer’s looming insolvency
 
-## SEBI bars EKI Energy Services MD Manish Dabkara for 12 months over financial misrepresentation
-The regulator found premature revenue recognition of ₹197.04 crore and fictitious expenses of ₹26.34 crore in the company’s financial statements
+## Trump loses lawsuit against Wall Street Journal over Epstein birthday letter story
+The ruling permanently ends the case, which challenged the newspaper’s reporting on an alleged letter included in Epstein’s 2003 birthday album
 
-## Anthropic’s IPO and the most defining months ahead in stock market history
-What unfolds in the months after the Claude creator’s listing could go down as one of the most defining episodes in the history of stock markets
+## At G20 meeting, Jaishankar pushes for transparent and diversified global supply chains
+The discussions covered global economic resilience, trade routes, critical minerals and the need to protect supply chains from geopolitical disruptions.
 
-## Centre releases ₹1.09 lakh crore in additional tax devolution to States
-The additional allocation comes ahead of the festival season, giving State governments more resources to meet development and expenditure requirements.
+## India and Turkey propose plans to move grain shipments through Black Sea, says Rubio
+The proposals come amid growing concerns over shipping disruptions, food security and maritime safety across key international waterways and strategic regions
 
-## Nifty 500 vs S&P 500: India or US, innovation is the only game in town for investors
-Corporate India has enjoyed among the best profitability across major markets, giving it ample muscle to drive technological changes
+## North Korean hackers behind $6.3 billion Binance crypto theft, says FBI
+The FBI has urged cryptocurrency platforms to prevent stolen funds from moving through digital asset networks and services used to conceal their origins.
 
-## El Niño, climate change and the new reality for Indian farmers
+## Scientists identify how a gut bacterium may trigger colon cancer
+A study has uncovered a molecular mechanism through which a common gut bacterium’s toxin attacks colon cells, opening a possible path to protection
 
+## India must build oil reserves, reduce energy imports amid global trade shocks: C Rangarajan
+Geopolitical tensions and disruptions to international trade have underscored the need for stronger domestic capabilities and greater economic resilience
 
-## Simply Put: Oversold market
-Friends Peter and Paul discuss if an ‘oversold’ stock market would result in market recovery
+## Indian professionals vital to US economy; visa restrictions could hurt communities: Indiaspora
+The diaspora organisation has urged political leaders to recognise foreign professionals’ economic contributions and reconsider measures affecting skilled immigration
 
-## Who Am I? November 1, 2026
-Are you an avid investor? How well do you know corporate India?
-
-## KEI Industries: Valuations rewired for risks and rewards
-Strong demand should offset price or competitive volatility
+## Delhi to Agra in 59 minutes: PM Modi approves north corridor of bullet train project
+The proposed high-speed rail network will connect major cities across northern and eastern India, with substantial reductions in intercity travel times
 
 ## Windfall gains tax on diesel, ATF exports up; petrol cut to nil
 
@@ -93,29 +93,29 @@ Binance has encountered a serious security breach, with $6.3 billion in digital 
 ## Centre scraps Rs 2.5/litre petrol export duty, hikes diesel levy to Rs 11.5
 The Centre took significant steps on October 31 by eliminating the Rs 2.5 per litre duty on petrol exports. In contrast, the excise duties for high-speed diesel and aviation turbine fuel were ramped up; diesel duties increased from Rs 8.5 to Rs 11.5 per litre, and ATF duties from Rs 10.5 to Rs 11.
 
+## Will reopen Chhoto Angaria, Nandigram cases: West Bengal CM
+At least five All India Trinamool Congress (AITC) supporters were killed, allegedly by CPI(M) cadres inside a house at Chhoto Angaria.
+
+## Unpacking the brawl that sparked the Naga-Kuki conflict in Manipur
+Personnel from the Central Reserve Police Force (CRPF) and the Border Security Force (BSF) were tasked with keeping the two communities apart.
+
+## Nepal PM Balendra Shah likely to visit India in late November; foreign secretary Vikram Misri to prepare grounds
+The rapper-turned-politician has typically shied away from foreign trips since he became PM in March.
+
+## ‘An obstructive side stalling development’: PM Modi slams Opposition
+At a Unity Day event honoring Sardar Vallabhbhai Patel, PM Modi accused the Oppn of obstructing development and conspiring to divide the country.
+
+## Supreme Court clears way for reopening of tax probe against ex-CJI’s sons over 2010 property deal
+The court said investigators had provided material warranting further examination of the transactions and the use of their proceeds.
+
 ## 3 Kukis shot dead in Manipur gunfight
 Three Kuki men were killed in Manipur gunfire as Meitei and Naga groups rallied in Imphal to scrap the SoO pact with Kuki-Zo armed groups.
 
+## Opposition holds ‘impeachment’ of CEC Gyanesh Kumar; BJP terms it ‘drama’
+The 3.5-hour-long show, attended by more than 250 opposition lawmakers, was held at Congress president Mallikarjun Kharge’s residence at Rajaji Marg.
+
 ## Jaishankar meets Russian FM Lavrov in Atlanta, discusses Ukraine, West Asia situation
 Jaishankar meets Lavrov in Atlanta to discuss Ukraine, Gulf tensions and global issues.
-
-## Andhra chainsaw attacker was teen victim’s uncle, harassed her in name of ‘love’: Police
-The 15-year-old girl was brutally attacked by Hemanth with a chainsaw at her school while she was attending a class with other students on Saturday morning.
-
-## Rajasthan IPS officer placed on APO amid villa purchase probe
-At the Ananta resort in Bujhda, Udaipur, Agarwal and Mathur allegedly purchased 10 villas each in March 2026 at ₹15 lakh apiece.
-
-## PM Modi slams Opposition for acting as 'obstructive force' at Unity Day event in Gujarat
-Modi said the nation needs to stand united against such forces and alleged that the Opposition wants to divide the people of the country.
-
-## Rahul Gandhi hints at big 'reveal' on CEC Gyanesh Kumar; BJP calls him 'mock PM'
-Rahul Gandhi alleged democratic institutions are shut to Opposition, forcing INDIA bloc leaders to discuss CEC's impeachment in a garden.
-
-## Delhi to Kanpur in 1 hour 45 minutes: PM Modi clears north corridor of bullet train project
-Providing details of the proposed travel times, Vaishnaw said passengers would be able to travel from Delhi to Kanpur in 1 hour and 45 minutes.
-
-## 'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events
-The order also expressed displeasure over widespread non-compliance to prior circulars aimed at maintaining dignity and professional culture at schools.
 
 ## Can battery swapping and energy storage power CATL’s next phase of growth?
 Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
@@ -237,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Talarico draws a packed campus rally, but can he win over young voters?
+Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&M.
+
+## Polish president holds crisis talks in court standoff
+A dispute over the politicisation of Poland's constitutional court is deepening, with no side appearing to back down.
+
+## Gen Z-led protests in Germany turn violent
+Protesters clashed with police as thousands took to the streets across 34 cities in Germany.
+
+## Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz
+Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran's conditions.
+
+## ICE agent’s violent shove propels woman through the air
+A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.
+
+## Dutch authorities rescue 38 people adrift in rubber boat
+Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.
+
+## Trump loses legal battle over Epstein-linked Wall Street Journal case
+Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.
+
 ## Palestine Action supporters arrested outside US embassy in London
 Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.
-
-## Legal filing questions Trump’s claims of non-citizen voting in California
-Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.
-
-## Fiery confrontations between protestors and police in Albania
-Fiery confrontations between protestors and police in Albania
-
-## Health authorities probe two suspected Ebola cases in northeast Nigeria
-The two individuals have been isolated while officials carry out contact tracing and laboratory testing.
-
-## District of Columbia and Virginia sue to block Trump’s triumphal arch plans
-The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.
-
-## Israel’s allegations of Qatari election interference rejected
-Israel’s allegations of Qatari election interference rejected
-
-## What is ranked-choice voting and how does it work in US elections?
-Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.
-
-## Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks
-Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
