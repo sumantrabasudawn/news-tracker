@@ -1,121 +1,133 @@
 # AION Intelligence
 
-## EU and Canada seek to be friends with association benefits
-Brussels and Ottawa have big ambitions for alignment but not much substance yet
+## Democrats close ranks after shock Michigan defection
+Haley Stevens’s support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash
 
-## Can El-Sayed win over Michigan’s Trump territory?
-An expedition to explore what conservative northern Michiganders see in a progressive Democrat
+## Marvell to buy data centre component maker Lumentum in $115bn AI bet
+Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’
 
-## Global AI sell-off eases after Nasdaq’s worst month in over a year
-US tech stocks set to start week higher helped by falling oil price
+## Oil tumbles on hopes for US-Iran talks
+Prices extend decline after Iran’s president says supreme leader has given officials certain authority over talks
 
-## EU still ‘traumatised’ by Brexit, says bloc’s chief diplomat
-Kaja Kallas warns scars left by Britain’s departure will cast shadow over future negotiations
+## Big majority of US voters disapprove of Trump’s handling of inflation: FT poll
+On the eve of the midterm elections, Americans say they want politicians who can better handle the economy
 
-## Can we build ourselves out of a loneliness epidemic?
-In Japan, 40 per cent of residents report feeling isolated. The country may be the epicentre of a global crisis, but it is also providing architectural solutions to restore community and connection
+## US moves to strip South Africa and Rwanda of duty-free trade access
+Washington cites trade barriers and national security concerns as relations with Pretoria and Kigali deteriorate
 
-## Russia’s war in Ukraine creeps into everyday life in Poland
-Poles in the country’s east are hearing warning sirens and getting text alerts about Russian air incursions
+## Key races that will decide the US midterm elections
+Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?
 
-## Netanyahu presses Trump for renewed strikes against Iran
-Israeli leader and US president talk on phone as mediation efforts led by Qatar seek to broker interim deal between Washington and Tehran
+## UK government waters down proposals for legal migration
+Home secretary Shabana Mahmood abandons plans to force many care workers to wait 15 years for permanent settlement
 
-## FirstFT: Donald Trump makes his final pitch to voters
-Also in today’s newsletter: Binance users pull $5bn from crypto exchange and junk bond prices plunge
+## Labour ends power-sharing deals with Greens over ‘Zionism is racism’ policy
+Party pulls plug on co-operation agreements in 11 councils where it was working with the smaller party, citing recent motion
 
-## Canada backs a rival to Starlink but a $2bn debt battle threatens its plans
-Telesat hopes to challenge Elon Musk’s satellite dominance but needs his rockets to get off the ground
+## For Alstom, one disruption begets the next
+The French rail group has missed analysts’ earnings forecasts every year since 2018
 
-## Serbia shuts down bank favoured by Russians
-Alta Bank is suspected of wiring large amounts of money out of the country after election loss of former president Aleksandar Vučić
+## Petrol prices set to hit record high under Trump on eve of US elections
+Average fuel costs during president’s second term pass Biden-era levels as affordability issues top Tuesday’s midterm polls
 
-## European supermarket freezers hit just weeks after French cyber attack
-Retailers in Sweden, Belgium and Ireland report units overheating to as high as 55°C in dozens of stores
-
-## Ryanair to freeze pay and cut hiring as €2bn jet fuel hit looms
-Budget airline is slashing costs and raising fares to mitigate impact of Iran war
-
-## Alstom shares tumble 28% after train maker cuts profit forecast
+## Alstom shares tumble 26% after train maker cuts profit forecast
 French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion
 
-## China’s soaring chemical exports threaten new trade war front
-Output has almost doubled in some key ingredients in five years, putting pressure on foreign rivals
+## Big Food faces a multibillion-dollar health check
+Makers of ultra-processed foods are under pressure as the US government steps up efforts to reduce the causes of preventable ill-health
 
-## Unpicking Microsoft’s free cash flow
-Plus: stock-bond correlations (again)
+## Anthropic reveals $900bn AI spending commitments ahead of IPO
+Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom
 
-## LPG consumption hits 8-month high in October
-LPG usage by the world’s second largest consumer rose by roughly 2.8% on a monthly basis
+## AI build-out forecasts are increasingly reliant on Elon Musk telling the truth
+Everything you always wanted to know about SpaceX (but were afraid to ask)
 
-## Indian R&D laggards underperform market as innovation-focused firms pull ahead
-The 130 companies that expanded R&D expenditure at a CAGR of over 20% between FY21 and FY26 delivered an average stock-price CAGR of 23.5% from April 2021 to September 2026
+## European supermarket freezers overheat in fresh cyber attack
+Freezer temperatures surge to as high as 55C in dozens of stores across Sweden, Belgium, Ireland and Estonia
 
-## El Niño likely to pose supply risks in mining and metals sector
-Copper output hit already; energy- and water-intensive mining operations are susceptible to extreme weather conditions, says analysts
+## Fire breaks out at HPCL facility in Vizag, no deaths reported
 
-## India tax filers shift toward investments and trading, says ClearTax data
-The data outcome also signals a broader move toward multi-source income and trading activity across the tax system
 
-## Adani Group major driver of India's infrastructure growth: Professor Jeffrey Sachs
-Sachs underlined the importance of businesses considering what they give back to the communities in which they operate
+## Chandra reappointment has sullied Tata Sons’ image: Darius Khambata; declines another term in office
+In a pointed letter declining another term himself, he pins the fallout on governance clashes, the trusts’ fiduciary duties, and splits over Tata Sons’ private status and possible share sales
 
-## Higher input, fixed costs weigh on GNFC’s Q2 FY27 profit growth; PAT rises 8% to ₹194 cr
-Revenue from operations rose 41 per cent to Rs ₹2,773 crore during the quarter
+## Surge in Reliance lifts Sensex by 1.6%; Nifty tops 23,400
+Falling crude prices, improving FII flows, too, aid in all-round rally
 
-## Maharashtra to launch new maritime development policy
-Maharashtra is competing with Andhra Pradesh, Gujarat and Tamil Nadu to build ports, attract shipyards and develop coastal shipping networks
+## RBI approves appointment of Sankaran G as ED of City Union Bank
+Sankaran G is currently an Executive President of the bank
 
-## Broker’s call: PB Fintech (Buy)
-Jefferies
+## Cipla tops drug overcharging dues with ₹3,576 crore; J&J, Ranbaxy among top five
+The government regulates the prices of certain medicines to prevent companies from charging patients more than the permitted amount
 
-## SEBI wants LTCG tax to be removed for foreign investors: Report
-The recommendations have been submitted ahead of the annual Union Budget scheduled for February. However, they are advisory in nature, and the final decision on whether to accept them rests with the government. The proposal comes as authorities look for ways to revive India's equity markets, which h
+## Tata dispute must be settled internally, should not spill into public: Finance Minister
+Says concerns over equity taxation will be considered as FPI flows show signs of recovery
 
-## India's manufacturing PMI eases to 54.7 in October as export orders hit six-month high
-India's manufacturing sector showed slower growth in October as output and new orders moderated. Despite this slowdown, there was an increase in new export orders, reflecting stronger overseas demand. Factory employment rose for the second consecutive month, although job creation eased slightly from
+## India’s rabi acreage down 46% as sowing of all crops gets delayed
+Coverage of mustard down 47%, under pulses 52% and gram by 59%, while the area under paddy and wheat is also lower
 
-## China to restrict exports of giant tunnel-digging machines; why India could be affected
-China is tightening export controls on construction equipment which could significantly affect India's ongoing infrastructure projects. The new restrictions will limit access to tunnel-boring machines and essential components. India plans to reduce its reliance on Chinese machinery by boosting domes
+## Mainboard IPO fund-raise up 30% to ₹84,400 crore in H1
+The concentration of activity underscores how quickly the issuance window opened after a subdued first quarter, according to Grant Thornton Bharat’s report, India IPO Market review
 
-## Rs 36.4 lakh fraud: Transferred Post Office staff issue fake NSCs; what Court ruled
-The fraud came to light later, when the depositors discovered that the documents they had received were forged and that no accounts had actually been opened in their names. Despite the losses suffered by the customers, the Department of Posts declined to return their money. The affected depositors, 
+## FM Nirmala Sitharaman weighs in on Tata row: 'Should be resolved amicably, internally'
 
-## Gold price prediction: What's the outlook for gold for November 2, 2026 week?
-Gold price prediction today: On the upside, Rs 140,500–141,000 is now the first important hurdle, followed by Rs 143,000–144,000. A sustained recovery above Rs 144,000 would be required to meaningfully improve the short-term structure and could open the way towards Rs 146,000–147,000.
 
-## India among world's best-markets in October as investors rotate away from AI stocks: Goldman Sachs
-During October, Indian stocks showcased impressive gains, outshining other Asia-Pacific markets and reflecting a shift in investment focus among traders. IT services made headway, while AI-focused companies lagged behind according to Goldman Sachs. This growth comes after a tough third quarter for t
+## Darius Khambata to leave Tata Trusts, says ‘independence comes at a cost’
 
-## 'We will navigate through challenges': IndiGo CEO on airline industry's tough phase
-IndiGo CEO Willie Walsh indicated significant growth opportunities for the airline despite rising fuel costs. The airline reported a net loss of Rs 1,879.1 crore due to elevated expenses and rupee depreciation. Walsh anticipates deliveries of wide-body Airbus A350 aircraft beginning in the second qu
 
-## Reliance shares surge 7%, eye best single-day gain in over 2 years: What's driving the rally?
-Reliance Industries has seen a notable surge in its share price following its impressive quarterly results for September. The consolidated net profit surged significantly, largely thanks to the performance of the oil-to-chemicals sector, which benefited from higher refining margins. Although retail 
+## Govt listening to voices of concern in equity mkts: FM Nirmala Sitharaman
 
-## 'Don't need Dia Mirza to teach us how to celebrate': Mumbai mayor on BMC's pollution-free Diwali video takedown
-Hitting out at Dia Mirza, Mumbai mayor Ritu Tawde said Hindus are well aware of how to celebrate Diwali and don't need the actor to “teach them”.
 
-## Constitution not just framework for governance, it is nation's soul: LS Speaker Om Birla
-Constitution not just framework for governance, it is nation's soul: LS Speaker Om Birla
+## Manufacturing growth eases in October: PMI survey
 
-## Thane, Hingoli, Pune and Beed courts receive bomb threat emails; nothing suspicious found
-Thane, Hingoli, Pune and Beed courts receive bomb threat emails; nothing suspicious found
 
-## Imran Khan gets interim relief, allowed to stay in India after ‘unconditional apology’
-The actor challenged the 'Leave India Notice' issued to him by Foreigners Regional Registration Office (FRRO).
+## Government assures Scotch importers of FTA benefits
 
-## TN govt shuts prison-run fuel outlets post jailbreaks; recaptured inmate's torture claim sparks row
-TN govt shuts prison-run fuel outlets post jailbreaks; recaptured inmate's torture claim sparks row
 
-## Pune ACB books retd Maharashtra agriculture official, wife in disproportionate assets case
-The ACB initiated an open inquiry against Jadhav following an order issued by its director general on December 2, 2025
+## OpenAI takes steps to widen ChatGPT's reach
 
-## 7 Odisha districts on watch as cyclone Murasu nears Andhra coast; schools shut in some areas
-The cyclone is expected to make landfall in adjoining Andhra Pradesh in the intervening night of Monday and Tuesday.
 
-## Prashant Kishor's Jan Suraaj petitions Bihar legislative council chief to disqualify Independent MLCs who 'joined' BJP
-Jan Suraaj petitions Bihar council chairman to disqualify Independent MLCs who 'joined' BJP
+## Powered by Reliance Industries' surge, sensex rallies 1.2k points
+
+
+## 'Cannot spill out in public': Sitharaman urges Tata Sons, Tata Trusts to settle dispute soon
+
+
+## Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert
+Andhra Pradesh had stepped up evacuation and disaster management measures ahead of the cyclone's arrival.
+
+## TRAI mandates AI-led complaint centres, 16-hour human support
+TRAI mandates 24/7 AI-enabled complaint centres, human support for 16 hours daily, faster appeals and penalties up to ₹20 lakh for mishandled cases.
+
+## Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation
+The operation was carried out 3,000 km from Mumbai in the Arabian Sea, the officials said.
+
+## Major fire breaks out at Hindustan Petroleum refinery in Visakhapatnam; no casualties reported
+According to an HPCL employee, the blaze is believed to have erupted within the refinery's premises. Firefighting operations are underway.
+
+## Rahul Gandhi dares PM Modi to open debate after Amit Shah's challenge to discuss SIR in Parliament
+The Opposition leader's open challenge came in response to PM Modi's claims of ‘certain forces trying to divide the country.’
+
+## Railway officer found dead in Agra DRM office; family alleges suicide due to 'toxic' work culture
+A 32-year-old railway officer was found dead in his office chamber in Agra. His wife alleged that he faced harassment and long working hours after a transfer.
+
+## Amit Shah challenges Rahul Gandhi to debate 'vote chori' in special Parliament session
+If a Parliament session is held, Prime Minister Narendra Modi will "shred Congress into pieces," Amit Shah says.
+
+## Tej Pratap Yadav seeks enhanced security post-reality show appearance, cites rising popularity and large fan crowds
+JJD chief Tej Pratap Yadav warned that the security guard could also be overwhelmed by crowds or face the risk of having his government-issued weapon snatched.
+
+## Why Relationships Still Matter in the Digital Age of Banking
+When Sachil Dagur took charge of Habib Bank Zurich in Hong Kong in 2018, he saw a bank with valuable strengths already in place: a niche in trade finance, deep ties to the trading community and a footprint across markets important to its clients. The opportunity, he believed, was not to reinvent tho
+
+## Cyberport Venture & Capital Forum 2026: unlocking growth and shaping the agentic economy
+[The content of this article has been produced by our advertising partner.] In 2026, venture capital is shifting rapidly as record funding flows into AI, frontier tech, robotics, and digital infrastructure. Coupled with Web3 and tokenised assets across Asia and the Middle East, the emerging ‘agentic
+
+## China’s EDA champion buys start-up to address weak link, support Huawei’s Tau Scaling Law
+Empyrean Technology, China’s top provider of electronic design automation (EDA) tools, plans to acquire a majority stake in a domestic start-up, reinforcing Beijing’s drive for tech self-sufficiency and bolstering support for Huawei Technologies’ semiconductor ambitions. The Beijing-based firm said 
+
+## Beijing city officials to boost hydrogen cars as China sets sights on future industry
+Beijing’s municipal government plans to have more than 12,000 hydrogen fuel cell vehicles on its roads and build more than 40 hydrogen refuelling stations by 2030, as part of China’s efforts to promote hydrogen as a strategic energy carrier to strengthen energy security under a national pilot progra
 
 ## HKEX extends overnight derivatives trading as Hong Kong chases global market flow
 Bourse operator Hong Kong Exchanges and Clearing (HKEX) is taking a further step towards round-the-clock trading by pushing back the closing bell for its after-hours derivatives market by 75 minutes from next year, according to a statement released on Monday. The derivatives After-Hours Trading (AHT
@@ -126,20 +138,20 @@ Hong Kong has touted rapid progress in the first year of its five-year fintech s
 ## Banking on innovation for a more connected future
 [The content of this article has been produced by our advertising partner.] Hang Seng Bank will bring AI-powered wealth management, digital banking, investment innovation and an interactive table tennis experience to Hong Kong FinTech Week 2026 as it makes its debut with a dedicated exhibition booth
 
-## Beijing launches US$15b asset swap to support China’s markets after sell-off
-China’s central bank announced on Monday it would start a fresh round of a swap facility that would channel about US$15 billion into the struggling onshore stock market, after its worst monthly sell-off in a decade dealt a heavy blow to investor confidence and threatened to add new risks to the coun
+## Beijing launches barrage of measures to stabilise stock market after sell-off
+Chinese authorities have launched a renewed effort to stabilise the country’s struggling stock market, with a string of measures announced on Monday to boost liquidity, cut rates for share buy-back loans and ease curbs on leveraged trading. The concerted action by the People’s Bank of China (PBOC), 
 
-## China’s battered stocks get little relief from latest support efforts
-Chinese stocks rose following a report that financial regulators were set to discuss support measures with industry participants following a record 12-week sell-off. The CSI 300 Index closed up 0.8 per cent, while Shanghai’s tech-heavy Star 50 rose 3.1 per cent, the most since mid-September. Securit
+## Reigniting War With Iran Would Be a ‘Huge Gamble’
+The U.S. military faces “profound” long-term readiness concerns, one expert said.
 
-## As BYD and Geely hit sales highs, pressure mounts on China’s smaller carmakers
-China’s two largest carmakers, BYD and Geely Auto, recorded their strongest monthly sales of the year in October, bucking a downward trend in the world’s largest automotive market as smaller rivals come under increasing pressure to turn a profit. Shenzhen-based electric vehicle (EV) giant BYD handed
+## Washington Is Debating the Wrong AI Risk
+Fixating on low-likelihood, high-impact scenarios misses the forest for the trees.
 
-## HSBC’s RedCoin stablecoin draws 50,000 users in first week as bank deepens local tech push
-HSBC said its RedCoin retail stablecoin has attracted 50,000 users since its official launch just over a week ago, as the city’s largest lender remains committed to exploring new technologies in the city. The figures were revealed by HSBC group CEO Georges Elhedery during a panel discussion on the f
+## A New USAID Can Be Smarter and Sharper
+The loss of the agency was a tragedy—but also an opportunity for change.
 
-## Chinese e-commerce going global
--
+## Lula’s Succession Race Starts Now
+Brazil’s 81-year-old president can’t lead the left forever.
 
 ## Don’t Read Too Much Into These Midterms
 Voters are angry about the Iran war, but that doesn’t mean they want to go back to the pre-Trump status quo.
@@ -153,38 +165,32 @@ Suspected North Korean hackers stole $6.36 billion in digital coins from Binance
 ## Russia the Disruptor
 How Moscow broke with the West—and unleashed a more chaotic world.
 
-## AI Isn’t a Revolution—Yet
-Just as British people did with steam power, the American public can shape how this technology spreads.
+## The 5th Plenum and the CCP’S Dark Warning to the Unfaithful
+14 years later, the Chinese Communist Party is still carrying out the relentless anti-corruption crusade that has become the signature program of Xi Jinping’s rule.
 
-## Fame, Fortune, and Murder in 1960s France
-What a scandal involving movie star Alain Delon can—and can’t—tell us about French society.
+## Who Should the Turkic States’ Organization Open Its Doors To?
+With member states insistent on cooperation with outsiders, will Russia become one of them?
 
-## Is Netflix’s ‘The New Stanford Prison Experiment’ for Real?
-The creators of “Is It Cake?” set out to answer the question of whether power corrupts.
+## In Memory of Fukuda Diplomacy: Peace, History, and Japan’s Foreign Policy
+After Fukuda Yasuo’s passing, a look back at his foreign policy as prime minister.
 
-## ‘I Welcome Their Hatred’
-Why politicians love FDR’s toughest speech.
+## China’s AI Data Centers Move West, But Their Tax Revenue Stays East
+If nothing changes, cities like Ulanqab will struggle to turn their computing boom into a real development advantage.
 
-## Myanmar Remains on FATF Blacklist Due to Money Laundering Concerns
-The Paris-based group's announcement came after a report which said that Japanese officials had lobbied for the country's removal from its list of "high-risk jurisdictions."
+## Will New Laws Finally End Human Rights Abuses in Asia’s Factories?
+It’s clear that voluntary measures aren’t enough for ethical sourcing and supply chains.
 
-## Japan’s Economic Diplomacy: A Compass in a Divided World
-Tokyo has the ability to chart a stable path forward.
+## $6B Binance Heist Exposes How North Korea Turned Hacking Into a State Revenue Stream
+The FBI blamed Pyongyang for the largest crypto theft on record. Its cash-out routes rely heavily on China.
 
-## Fire Devastated a Mongolian Nature Reserve. Who’s to Blame?
-The fire in Numrug touches on cross-border capital compliance risks and geopolitical changes impacting Northeast Asia’s ecology.
+## Rahul Gandhi and Neha Bora’s Politics of Resistance to Save India’s Democracy
+The political challenge for the opposition now is to turn the resistance visible on the streets into electoral change.
 
-## Cautious Hope For Mekong’s Irrawaddy Dolphins Amid a River in Crisis
-Despite illegal fishing and the construction of hydropower dams, attempts to conserve the sacred dolphin are beginning to bear fruit.
+## President Muizzu’s Pakistan Visit Tests the Maldives’ Fragile Thaw With India
+Three MoUs relating to Maldives-Pakistan security cooperation in defense, maritime security and cybersecurity could prompt unease in New Delhi.
 
-## Hong Kong’s Deadly 2025 Fire: Accountability on Lee’s Terms
-A ministerial resignation, official apologies, and promises of reform leave a fundamental question unanswered: What power do Hong Kong citizens have to demand accountability beyond what their government is willing to offer?
-
-## Will Islamic Finance Expand Financial Inclusion in Uzbekistan?
-Does removing a religious objection make financing accessible and affordable?
-
-## On a Remote Island, Japan Puts Its Deep-Sea Mining Ambitions on Display
-Experts argue that Japan’s rush to exploit rare-earth mud from the sea floor near Minamitorishima is driven less by resources than by the political value of being seen to use the island.
+## Corruption in the Crosshairs: The Debate Over Transparency and Saving Face
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
 
 ## The Pentagon-Silicon Complex and the Rise of the Neo-Primes
 What happens when the military depends on technologies it doesn’t own? Sharon Weinberger, the new editor-in-chief of the Bulletin of the Atomic Scientists, stops by the studio to discuss her book, Valley of Death: How Big Tech Is Fueling the Future of War. She delves into the Pentagon’s disputes wit
@@ -206,9 +212,6 @@ In 2018, Barak Mendelsohn wrote, “Bound to Fail: Transnational Jihadism and th
 
 ## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
 Date: Thursday, Nov. 12, 2026Time: 12:00 – 1:00 p.m. ESTThe third joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel.Overview:For this edition of The Atlantic Brief, the Royal United Services Institute and War on th
-
-## The Next Congress Needs to Reclaim Its Oversight of the Department of Defense
-Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government. Meanwhile, Congress has not adequately applied its oversight role to rein in the executive branch, particularly over the Department of Defense. We have wa
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Oman and China sign deals to boost trade and investment
-Oman and China sign deals to boost trade and investment
+## Student protests resume in France as pupils return to school
+Student protests resume in France as pupils return to school
 
-## Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis
-Recent military advances by Yemeni government forces highlight the geographic and strategic significance of Al-Jawf.
+## ‘Work to do’: Authorities give update on Florida private jet crash
+Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.
 
-## Freezers in Sweden, Belgium overheat following possible cyberattacks
-Temperature increases have been reported in dozens of store cooling systems, weeks after a similar attack in France.
+## Mamdani’s progressive allies vie for seats in Congress
+Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.
 
-## French school protests resume on small scale as students return from break
-Education ministry says 41 schools blockaded as students return after holiday break.
+## What’s the future of the Western Sahara conflict?
+The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.
 
-## Can Americans who disagree on politics still find common ground?
-As Michigan's Senate race exposes deep divisions, Al Jazeera speaks to four voters with opposing political views.
+## US to suspend South Africa and Rwanda from duty-free trade access
+South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.
 
-## Sudan files complaints against Ethiopia with UN over deadly drone spree
-One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.
+## UK bookshop helps meet demand for Sally Rooney novels
+Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom
 
-## Jailed PKK founder Ocalan moved to new section of Turkish island prison
-Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.
+## Mamdani-endorsed progressives fight to join Congress
+Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.
 
-## As aid situation worsens, displaced Sudanese worry about warnings of famine
-Sudan's displaced people now face a mounting food crisis, with warnings of famine.
+## HRW calls on Zambia to halt post-election crackdown
+Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.
 
 ## PVR INOX plans 150-175 new screens a year from FY28, most to come through asset-light model: CFO
 PVR INOX, India’s largest multiplex operator, plans to add 150 to 175 new screens every year from FY28, up from its planned 90 to 100 this year, with most of them coming through asset-light franchise and developer-funded models, CFO Gaurav Sharma said in an exclusive interview with ETCFO.
