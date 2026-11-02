@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Japanese groups stage $21bn deal spree to secure gas supplies
+World’s second-biggest buyer of LNG targets shale resources on US Gulf Coast amid market upheavals
+
+## Trump makes final pitch to restive voters in midterms campaign
+Republican Party is defending its control of Congress against signs of backlash against president
+
+## Gulf braced for escalation of war between US-Israel alliance and Iran
+Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting
+
+## Michigan Democrat endorses Republican as feud roils key Senate race
+Unity between Democratic progressives and moderates collapses in war of words over Israel
+
+## Nine killed as business jet crashes in Florida
+Aviation authorities to investigate after Learjet plunges into street eight miles from Donald Trump’s Mar-a-Lago resort
+
 ## What’s the risk of political violence? | Martin Wolf on the US midterms
 Can American democracy emerge from the midterms stronger rather than more divided?
 
 ## FirstFT: Gulf braced for renewed war between US and Iran
 Also in today’s newsletter: Binance users pull $3.6bn from crypto exchange and a junk debt rout sparks ‘bloodbath’ for credit investors
 
-## Trump makes final pitch to restive voters in midterms campaign
-Republican Party is defending its control of Congress against signs of a backlash to the president
-
-## Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed
-Unity between Democratic progressives and moderates collapses in key Senate race after war of words over Israel
-
 ## Bulgarians projected to re-elect pro-Russian president
 Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls
 
 ## Trump faces the voters
 US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief
-
-## Gulf braced for escalation of war between US-Israel alliance and Iran
-Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting
-
-## *SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November
-Fun times this way ↓↓↓
 
 ## Blue Lagoon owner plans to float as Icelandic tourism booms
 Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat
@@ -36,35 +39,44 @@ Aggressive tactics to shift assets beyond reach of creditors have added fuel to 
 ## Weil Gotshal: what happens now at the troubled Wall St law firm?
 The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent
 
-## US critical minerals push delivers a gold rush — for Washington lobbyists
-Billions in government backing have produced a flurry of deals but little increase in domestic production
+## Odisha CM announces special package for families affected by Cyclone Arnab
+Thousands of acres of crop and several houses have been damaged, while pointing out that assessment of damage was underway while the primary task was relief distribution and restoration
 
-## Quant hedge fund to spin out of Tudor in record $9bn launch
-Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year
+## Sensex today | Stock Market Live: Sensex jumps 879 points, Nifty tops 23,280 as Reliance, auto sales lift sentiment
+Sensex, Nifty, Share Prices Live: Indian equities rallied at the start of November, supported by strong corporate earnings, robust automobile sales and record-high GST collections, even as global risks and foreign investor outflows remained in focus.
 
-## US midterms: How Trump’s noncitizen voter lists could affect election results
-With Republicans fighting to retain control of Congress, the administration’s voter eligibility drive has raised questions over election challenges
+## Q2 Results Today Live: ITC, Marico, UPL, Petronet LNG, NLC, DOMS, Escorts Kubota, NALCO, MobiKwik, Wockhardt, Granules to announce Q2 results, Reliance Ind, Jio Platforms, NTPC, Quality Power, Zen Tech, Delhivery shares surge after Q2 results, Syrma declines
+Q2 Results Today, 02nd November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## US midterms: Republican victory could hurt India on H-1B visas, tariffs
-The outcome could also shape Washington’s trade negotiations with New Delhi and influence President Trump’s freedom to take military decisions
+## Markets open higher as AI selloff boosts anti-tech trade; Reliance, Tata Steel lead gains
+The rally was driven by a combination of easing crude oil prices, a decline in US bond yields, and a sharp selloff in technology stocks on Wall Street
 
-## NASA crew emerges after 378 days in simulated Mars mission
-The four-member team lived in a 3D-printed habitat, growing crops and managing communication delays to replicate conditions on Mars
+## Goldman hikes oil-price forecasts on ‘substantial’ supply risks
+Brent is now seen at $105 a barrel in December, up from a previous estimate of $90, and will average $88 next year, 10% more than seen before
 
-## Ashwini Vaishnaw reviews Bharat-made B28 bullet train manufacturing at BEML
-The minister examined specialised manufacturing infrastructure, quality assurance procedures and key components designed to meet high-speed rail operational standards
+## Binance sees outflows stabilising as exchange returns online after $6.3 billion heist
+After hitting ⁠a six-week low on Friday, bitcoin prices recovered slightly through the weekend to trade above $78,000 on Monday
 
-## Power Grid Q2 net profit rises 8% to ₹3,866 crore
-The transmission major also reported higher quarterly income, substantial capital expenditure and 99.81 per cent average transmission system availability
+## IDBI Bank sale: More skeletons may be waiting to tumble, says EAS Sarma
+“It is laughable the Centre should have no trust in itself or LIC in managing IDBI, but instead look to a foreign firm that repatriates profits earned here from public deposits and investment abroad”
 
-## West Bengal GST revenue rises 17% to ₹6,055 crore in October
-The State also received ₹7,866 crore from the Centre as part of an advance instalment of tax devolution to States.
+## Karnataka Industries Minister refutes claims of Honda exit
+Responding to Kumaraswamy’s allegations on Sunday, Patil said Honda had been allotted 135 acres of land in phases at Narasapura in Kolar district since 2011
 
-## Cyclone Murasu: AP CM Naidu seeks support from Tamil Nadu, Karnataka
-With cyclone-related damage threatening electricity infrastructure, Andhra Pradesh is mobilising additional manpower and machinery to speed up restoration operations
+## Stock market soars in early trade: Sensex jumps over 800 points, Nifty above 23,260
 
-## Editorial. Missing the point
-FPI inflows not significantly correlated to LTCG
+
+## Which are the top stocks to buy for November 2, 2026 week? Check list
+Stock market recommendations: BSE, and Symbiotec Pharmalab - these are the top stocks to buy this week (starting November 2, 2026), as recommended by Motilal Oswal Wealth Management Research Desk.
+
+## Centre likely to meet FY27 fiscal deficit target despite despite higher spending: Goldman Sachs
+The government is holding steady to its fiscal deficit target of 4.3% of GDP for FY27, even amidst initial financial strains. Increased corporate tax revenues have buffered recent revenue challenges effectively. To address rising costs, the government is implementing thoughtful changes in its spendi
+
+## $3.64 billion pulled from world's largest crypto exchange Binance after $6.3 billion heist
+Customers withdrew substantial amounts from Binance following a significant security breach that resulted in a major cryptocurrency theft. Despite initial panic, Binance reassured users and resumed withdrawal services for several cryptocurrencies. The exchange replaced nearly all stolen assets, util
+
+## Oil prices today: Crude falls over 1% as Iran-Qatar talks raise hopes of diplomacy
+Oil prices dropped over 1% following ongoing talks between Iranian and Qatari officials aimed at reducing conflict. Brent crude futures fell to $111.84, while US West Texas Intermediate crude fell to $102.56. The drop in prices followed a strong increase seen last week before the US midterm election
 
 ## Commercial LPG price up 10, ATF 1.4 per litre
 
@@ -75,44 +87,35 @@ FPI inflows not significantly correlated to LTCG
 ## GST mop-up rises record 23% in Octoer, hits Rs 2.3 lakh crore
 
 
-## Manufacturing divide: 10% factories account for 72% output
+## ED launches money laundering probe against Zee founder Subhash Chandra
+The probe stems from the Central Bureau of Investigation (CBI)’s August 31 First Information Report (FIR)
 
+## Cyclone Murasu LIVE: Chennai, Tiruvallur schools shut as system intensifies; heavy rain alert in Odisha, Andhra
+The India Meteorological Department said the storm is likely to maintain its northwestward trajectory and make landfall along the south Andhra Pradesh coast on November 3. At the time of crossing, wind speeds are expected to range between 100 and 110 kmph.
 
-## UPI crosses record 25 billion transactions
+## Crowd targets, hotels, rehearsals: How Congress mobilised supporters at Ramlila Maidan
+In some states, party office-bearers also handpicked artists to showcase their regional and tribal identities through performances at the rally.
 
+## Delhi's AQI crosses 300 for first time this season, more smog expected in coming days
+Delhi’s air quality deteriorated to the very poor category for the first time this season on Monday, with a thick haze enveloping the national capital.
 
-## EV sales cross record 3.5 lakh units in October
+## New aviation rules mandate upfront disclosure of cancellation charges, refund terms
+Under Rule 192 of the Bharatiya Vayuyan Niyam, 2026, airlines will have to show the total amount payable by a passenger on their booking websites and on the booked ticket
 
+## ‘1984 violence planned’: BJP marches against Congress in Delhi, says party should apologise
+The BJP protest was led by Union petroleum minister Hardeep Puri and attended by Delhi Chief Minister Rekha Gupta as well.
 
-## LICHF bets on diversification to drive growth
+## Akhilesh Yadav sounds UP poll bugle at INDIA bloc rally, calls it next battle against BJP
+They demanded CEC Gyanesh Kumar’s removal, while warning that the opposition would continue its fight to protect voting rights and democracy.
 
+## Delhi's anti-pollution drive collects ₹68.4 lakh in fines on Day 1, sends back 1,539 vehicles
+To curb air pollution, the Delhi government has imposed restrictions, including a ban on non-Delhi vehicles below BS-VI emission standards till 31, 2027.
 
-## Costlier phones give refurbished devices a boost
+## Chinese stocks rebound on optimism PBOC set to expand US$45 billion relending facility
+China’s stocks rebounded on Monday from a brutal sell-off in October as speculation gathered pace that Beijing would double down on efforts to stem a rout that sent its benchmark into a bear market. The CSI 300 Index rose 1.3 per cent to 4,035.72 at the trading break. The Star Market 50 Index, which
 
-
-## Over 22,000 litres of ‘adulterated’, expired ghee worth ₹1.6 crore seized in Rajasthan; 3 arrested
-Food safety authorities also recovered expired ghee, containers without labels, packaging material, stickers, a packing machine and other equipment.
-
-## ‘She is upstairs’: Panchkula school boy who attacked 6-year-old led her father to bloodied classroom
-The incident took place between 3 pm and 4 pm at the school in Sector 20 on October 28.
-
-## Ladakh liquor traders slam Sonam Wangchuk's dry UT demand, raise questions over licence to his wine brand
-Ladakh liquor traders questioned Sonam Wangchuk over targeting liquor for a ban while drug use, smoking and meat consumption remained unaddressed.
-
-## Andhra youth, who attacked schoolgirl with chainsaw, shot at while ‘trying to escape’ police custody
-The accused, Hemanth alias Dummu, was picked up by a special party of the police in Atmakur forest area of the district in the evening.
-
-## Tensions flare in Manipur's Kangpokpi after two missing Kuki men found dead, 3 injured in clashes
-The two were reportedly abducted by unidentified miscreants on October 28 while travelling between Hengbung and Taphou Kuki village in Kangpokpi district.
-
-## Panchkula school assault case: Two suspended, child rights panel seeks report
-The incident came to light after a six-year-old girl student was allegedly assaulted at a government school in Panchkula by a third-grade student.
-
-## Senior IPS officer Susanta Kumar Nath removed as Odisha DG prisons after woman jailor alleges sexual harassment
-Susanta Kumar Nath, a 1993-batch IPS officer and one of the contenders for the state's director general of police post.
-
-## Nita Ambani announces 100-acre lifelong care home for orphans, seniors, disabled people
-Nita Ambani performed the Bhumi Pujan and laid the foundation stone for the proposed Nita Mukesh Ambani Anant Ashray in Karjat, near Mumbai.
+## Has Hong Kong’s IPO boom hit a wall – or is a year-end rush still to come?
+Hong Kong’s initial public offering (IPO) momentum has cooled sharply in the fourth quarter amid market volatility and tighter regulatory scrutiny, but industry players say a year-end rush of listings could still help the city secure a top-three global ranking for 2026. The market has slowed signifi
 
 ## Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility
 When hundreds of global finance leaders converge in Hong Kong this week, the question on their minds will be whether traditional investment strategies remain viable against escalating geopolitical friction and the rapid ascent of artificial intelligence. Investors have been keen for an answer – or a
@@ -131,12 +134,6 @@ China’s central bank and securities regulator are expected to meet with financ
 
 ## What would a December rate rise mean for Hong Kong family offices’ property portfolios?
 An expected 0.25 percentage point rate increase by the US Federal Reserve in December is unlikely to dampen Hong Kong family offices’ interest in European, US and Japanese property investments, according to industry insiders. Ken Peng, chief investment officer at Raffles Family Office, said there we
-
-## Will Argentina’s citizenship scheme lure property buyers from mainland China and Hong Kong?
-Argentina is the latest country seeking to lure investors with an investment-for-citizenship programme, providing another residency and diversification option for the wealthy, including those from mainland China and Hong Kong, according to analysts. Buenos Aires in October announced two principal in
-
-## Can battery swapping and energy storage power CATL’s next phase of growth?
-Contemporary Amperex Technology Ltd (CATL) has doubled down on new businesses including battery swapping and energy storage as the world’s largest battery maker seeks new growth drivers amid intensifying price wars and mounting pressure on profitability. But the new path is far from straightforward.
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
@@ -234,29 +231,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## High-ranking US Democratic senator suffers stroke
-Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.
+## Muhammad Ali’s daughter and grandson endorse El-Sayed
+Daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate
 
-## Kherson braces for return of war as localised Russia-Ukraine truce ends
-Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.
+## El-Sayed dismisses Stevens’ backing of Republican Senate candidate
+El-Sayed dismisses Stevens’ backing of Republican Senate candidate
 
-## Democrat Haley Stevens heckled as she backs El-Sayed rival
-US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.
+## Ukraine blames Russia after air alert app sends out false warnings
+Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.
 
-## Thousands displaced from Hebron as Israel carries on siege
-Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.
+## Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city
+Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.
 
-## Carney signals progress on Canada-US trade deal talks as midterms loom
-Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.
+## Trump invites Michigan Democrat Stevens to join the Republican Party
+US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.
 
-## Why did Democrat Haley Stevens just endorse a Republican for US Senate?
-Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.
+## Nine die in ‘cataclysmic’ Florida business jet crash
+Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.
 
-## Al Jazeera Director General hails 30 years of groundbreaking news
-Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.
+## Israeli officials say results stand as Netanyahu claims election ‘stolen’
+Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.
 
-## Bulgaria’s acting President Iotova leads in run-off exit polls
-Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.
+## Bollywood star greets fans in bulletproof glass after bomb threat
+Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.
+
+## PVR INOX plans 150-175 new screens a year from FY28, most to come through asset-light model: CFO
+PVR INOX, India’s largest multiplex operator, plans to add 150 to 175 new screens every year from FY28, up from its planned 90 to 100 this year, with most of them coming through asset-light franchise and developer-funded models, CFO Gaurav Sharma said in an exclusive interview with ETCFO.
+
+## Gross GST collections rise 22.9% to Rs 2.31 Lakh Crore in October, net revenue up 25.6%
+India's gross Goods and Services Tax (GST) collections rose 22.9 per cent year-on-year to Rs 2.31 lakh crore in October 2026, compared with Rs 1.88 lakh crore in the corresponding month last year, according to provisional data released by the Finance Ministry.
+
+## Cyberattacks on banks, including AU Small Finance Bank, worry insurers as claim risks rise
+Cyberattacks targeting financial institutions have raised concerns about security vulnerabilities and potential losses. AU Small Finance Bank is investigating a possible data breach involving customer information stored on Salesforce. Insurers have recently reported an increase in cyber incidents af
+
+## TVS family succession dispute raises governance questions for listed companies, says InGovern
+A succession dispute concerning the Venu Srinivasan family has emerged, affecting both TVS Holdings and TVS Motor Company. The disagreement primarily revolves around the distribution of family assets and management arrangements, raising governance concerns for minority shareholders. Venu Srinivasan 
+
+## CII calls for GST-like reforms in land, labour & local approvals
+CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across diff
 
 ## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
 Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
@@ -266,21 +278,6 @@ It took Reliance Industries decades to build a business valued at around Rs 16 l
 
 ## SC questions MCA’s grip on NCLT, seeks plan to fix staffing and infrastructure gaps
 Supreme Court says NCLT president should have authority over staff appointments; directs NCLT and NCLAT to submit four week proposals on manpower and infrastructure requirements.
-
-## CBIC curbs GST officers’ discretion, bars extra documents; clarifies electricity bills, Udyam and business premises
-The Central Board of Indirect Taxes and Customs has issued new guidelines to streamline GST registration processes. These directives aim to eliminate unnecessary document requests and subjective assessments from GST officers. The Board clarifies the non-requirement of Udyam certificates during regis
-
-## GST registration explained: What businesses need to know about CBIC’s new framework
-New CBIC guidelines give businesses clearer registration timelines, from three working days for eligible applicants to seven days after successful Aadhaar authentication, while setting out documentation requirements, verification triggers and the process for responding to queries raised by tax offic
-
-## WRTL plans 9 GW solar EPC push in Middle East over next 18-24 months: CFO Manmohan Sharma
-Waaree Renewable Technologies Ltd is pursuing approximately 9 GW of international solar EPC opportunities, chiefly in the Middle East. The company is also monitoring growth in its domestic pipeline, currently at about 25 GW. As it consolidates its order book, WRTL anticipates revenue growth driven b
-
-## Gujarat HC sets GST audit timeline, directs tax officers to flag missing documents promptly
-Court holds three month GST audit period runs from the later of submission of required records or actual commencement of audit at taxpayer’s premises.
-
-## Parliamentary Committee on Finance to examine 46 economic issues, including crypto, AI, in FY'27
-Parliament's Standing Committee on Finance has identified 46 subjects for detailed examination this fiscal year. Topics include artificial intelligence in finance, virtual digital assets, and currency management among others.
 
 ## Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31
 The Securities and Exchange Board of India (Sebi) has granted an extension until January 31 of the coming year for regulated entities to comply with digital accessibility standards. This decision, prompted by requests from market participants, aligns with the Rights of Persons with Disabilities Act,
