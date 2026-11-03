@@ -1,28 +1,40 @@
 # AION Intelligence
 
-## Democrats close ranks after shock Michigan defection
-Haley Stevens’s support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash
+## Japan’s interest rates are rising. Will young people lose out?
+Better returns from savings will help asset-rich elderly but make life harder for young homebuyers
+
+## Reliance gets its mojo back
+Also, more affordable cancer drugs
+
+## US to hold first talks with Russia and Ukraine since February
+Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week
+
+## ‘Quiet quitting’ is real and may be hitting British productivity, analysis claims
+Employees have become more disengaged in the last ten years and less willing to put in extra effort
+
+## Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ
+Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate
+
+## US Supreme Court rejects Trump request to intervene in California vote count
+Justices issue latest blow to president’s attempts to use the power of federal government to influence elections
+
+## My tax rises made Britain’s economy stronger, says Reeves
+Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’
+
+## OpenAI hires former US Army secretary as military seeks to expand AI use
+Dan Driscoll to join the start-up as senior counsellor for national security modernisation
+
+## Rio Tinto creates ‘kill zone’ to halt cane toad invasion
+Mining group building ‘firebreak’ in Western Australia designed to stop invasive species reaching Pilbara
+
+## Apple warns ‘unprecedented’ memory chip costs will hit margins
+Hardware giant predicts robust sales in the holiday season but services outlook disappoints
+
+## FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll
+Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack
 
 ## Marvell to buy data centre component maker Lumentum in $115bn AI bet
 Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’
-
-## Oil tumbles on hopes for US-Iran talks
-Prices extend decline after Iran’s president says supreme leader has given officials certain authority over talks
-
-## Big majority of US voters disapprove of Trump’s handling of inflation: FT poll
-On the eve of the midterm elections, Americans say they want politicians who can better handle the economy
-
-## US moves to strip South Africa and Rwanda of duty-free trade access
-Washington cites trade barriers and national security concerns as relations with Pretoria and Kigali deteriorate
-
-## Key races that will decide the US midterm elections
-Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?
-
-## UK government waters down proposals for legal migration
-Home secretary Shabana Mahmood abandons plans to force many care workers to wait 15 years for permanent settlement
-
-## Labour ends power-sharing deals with Greens over ‘Zionism is racism’ policy
-Party pulls plug on co-operation agreements in 11 councils where it was working with the smaller party, citing recent motion
 
 ## For Alstom, one disruption begets the next
 The French rail group has missed analysts’ earnings forecasts every year since 2018
@@ -33,41 +45,32 @@ Average fuel costs during president’s second term pass Biden-era levels as aff
 ## Alstom shares tumble 26% after train maker cuts profit forecast
 French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion
 
-## Big Food faces a multibillion-dollar health check
-Makers of ultra-processed foods are under pressure as the US government steps up efforts to reduce the causes of preventable ill-health
+## SBI Q2 results: Net profit seen rising 45% on stake-sale gains and income growth
+Brokerage estimates put SBI’s September-quarter net profit between ₹23,539 crore and ₹25,250 crore, ahead of its results announcement
 
-## Anthropic reveals $900bn AI spending commitments ahead of IPO
-Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom
+## Sensex today | Stock Market Live: Gift Nifty points to gap-up opening; crude oil, US election in focus
+Sensex, Nifty, Share Prices Live: Indian equity markets are expected to open higher on Tuesday, with Gift Nifty signalling a gap-up of about 150 points. Investors will track the US midterm election, Q2 earnings, crude oil prices, Middle East developments and Nifty derivatives positioning.
 
-## AI build-out forecasts are increasingly reliant on Elon Musk telling the truth
-Everything you always wanted to know about SpaceX (but were afraid to ask)
+## Rupee to benefit from oil plunge while facing technical resistance, dollar strength
+The rupee is expected to ⁠open in the 94.75-94.78 range, per traders, having settled at 94.90 to the dollar on Monday
 
-## European supermarket freezers overheat in fresh cyber attack
-Freezer temperatures surge to as high as 55C in dozens of stores across Sweden, Belgium, Ireland and Estonia
+## Animal trials being curbed
+Other methods now being used to test drugs for humans
 
-## Fire breaks out at HPCL facility in Vizag, no deaths reported
+## Glenn Maxwell retires from international cricket after 14-year career
+The 38-year-old’s final appearance came against Oman at the 2026 T20 World Cup, where he took two wickets
 
+## Trump says Iran wants deal ‘more than ever’ as US weighs next move
+Qatari mediators are awaiting responses from Washington and Tehran to a draft agreement aimed at restarting direct negotiations between the countries.
 
-## Chandra reappointment has sullied Tata Sons’ image: Darius Khambata; declines another term in office
-In a pointed letter declining another term himself, he pins the fallout on governance clashes, the trusts’ fiduciary duties, and splits over Tata Sons’ private status and possible share sales
+## Government has fiscal headroom to absorb ₹50,000-crore revenue loss from scrapping LTCG tax: SBI Research
+The proposal includes raising the annual exemption limit, reducing tax rates for longer holding periods and increasing the Securities Transaction Tax
 
-## Surge in Reliance lifts Sensex by 1.6%; Nifty tops 23,400
-Falling crude prices, improving FII flows, too, aid in all-round rally
+## Tamil Nadu announces Deepavali bonus for 5,190 sugar mill workers
+The festival payout will cover 18 sugar mills, with eligible workers receiving between 10 and 20 per cent in bonus and ex-gratia.
 
-## RBI approves appointment of Sankaran G as ED of City Union Bank
-Sankaran G is currently an Executive President of the bank
-
-## Cipla tops drug overcharging dues with ₹3,576 crore; J&J, Ranbaxy among top five
-The government regulates the prices of certain medicines to prevent companies from charging patients more than the permitted amount
-
-## Tata dispute must be settled internally, should not spill into public: Finance Minister
-Says concerns over equity taxation will be considered as FPI flows show signs of recovery
-
-## India’s rabi acreage down 46% as sowing of all crops gets delayed
-Coverage of mustard down 47%, under pulses 52% and gram by 59%, while the area under paddy and wheat is also lower
-
-## Mainboard IPO fund-raise up 30% to ₹84,400 crore in H1
-The concentration of activity underscores how quickly the issuance window opened after a subdued first quarter, according to Grant Thornton Bharat’s report, India IPO Market review
+## Oil prices edge higher after reported US strike on Iran's Qeshm Island, reviving supply concerns
+In the wake of a US military strike on Qeshm Island, oil prices have seen a modest increase. This development raises alarms about potential conflict escalation, even as diplomatic dialogues persist. Both the US and Iran appear willing to engage in negotiations again, despite the failure of earlier t
 
 ## FM Nirmala Sitharaman weighs in on Tata row: 'Should be resolved amicably, internally'
 
@@ -90,32 +93,44 @@ The concentration of activity underscores how quickly the issuance window opened
 ## Powered by Reliance Industries' surge, sensex rallies 1.2k points
 
 
-## 'Cannot spill out in public': Sitharaman urges Tata Sons, Tata Trusts to settle dispute soon
+## MCG issues notices to seven illegal RMC plants in Gurugram, warns of demolition
+According to MCG officials, the seven newly identified plants are located in Daulatabad, Gadoli Kalan, Kherki Majra and Dhanwapur villages
 
+## Sabarmati-style Yamuna riverfront ‘could worsen flood risks’ in Delhi, environmentalists and others warn
+The letter argued that the Sabarmati model cannot be replicated along the Yamuna without accounting for the fundamental differences between the two rivers.
 
-## Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert
-Andhra Pradesh had stepped up evacuation and disaster management measures ahead of the cyclone's arrival.
+## ACP Manasvi Vashishta who led protest outside Delhi Police headquarters suspended
+The move comes after scores of Delhi Police officers gathered outside the police headquarters over the recent face-off with lawyers in east Delhi’s Shahdara.
 
-## TRAI mandates AI-led complaint centres, 16-hour human support
-TRAI mandates 24/7 AI-enabled complaint centres, human support for 16 hours daily, faster appeals and penalties up to ₹20 lakh for mishandled cases.
+## Marital dispute cannot become ground to seek abortion, says Supreme Court
+The woman's counsel told the court the husband had threatened not to continue the marriage if she went ahead with the termination.
 
-## Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation
-The operation was carried out 3,000 km from Mumbai in the Arabian Sea, the officials said.
+## DUTA calls one day strike over SOL teacher’s termination
+The development comes two days after the Centre for Distance and Online Education terminated a professor citing unsatisfactory performance
 
-## Major fire breaks out at Hindustan Petroleum refinery in Visakhapatnam; no casualties reported
-According to an HPCL employee, the blaze is believed to have erupted within the refinery's premises. Firefighting operations are underway.
+## DGCA suspends Char Dham chopper services for remaining season
+Operators opposed a new rule requiring co-pilots on every flight, citing costly aircraft modifications and limited time to implement them.
 
-## Rahul Gandhi dares PM Modi to open debate after Amit Shah's challenge to discuss SIR in Parliament
-The Opposition leader's open challenge came in response to PM Modi's claims of ‘certain forces trying to divide the country.’
+## Delhi AQI remains ‘very poor’ amid thick haze; Bawana, Narela, Punjabi Bagh among 8 areas in ‘severe’ category
+Delhi’s air quality index stood at 331 at 7:05 am on Tuesday. Data from 58 of the 59 monitoring stations showed that eight were in the severe category.
 
-## Railway officer found dead in Agra DRM office; family alleges suicide due to 'toxic' work culture
-A 32-year-old railway officer was found dead in his office chamber in Agra. His wife alleged that he faced harassment and long working hours after a transfer.
+## Andhra Pradesh election result LIVE: Counting of votes for municipal polls begins
+Andhra Pradesh election result LIVE: The counting of votes for municipal elections across 92 urban local bodies in Andhra Pradesh municipal elections began at 8 am on Tuesday, state election commission authorities said.
 
-## Amit Shah challenges Rahul Gandhi to debate 'vote chori' in special Parliament session
-If a Parliament session is held, Prime Minister Narendra Modi will "shred Congress into pieces," Amit Shah says.
+## HashKey Adopts Tokenised Deposit for Cross-Market Treasury and Liquidity Management on Standard Chartered's Blockchain Platform
+[The content of this article has been produced by our advertising partner.] Hong Kong, November 2, 2026 — HashKey Group (3887.HK), a leading Asian digital asset company, today announced that, its is among the first institutional clients to adopt Standard Chartered’s newly launched institutional toke
 
-## Tej Pratap Yadav seeks enhanced security post-reality show appearance, cites rising popularity and large fan crowds
-JJD chief Tej Pratap Yadav warned that the security guard could also be overwhelmed by crowds or face the risk of having his government-issued weapon snatched.
+## Indonesia’s severe drought threatens to disrupt China’s vast battery industry
+A severe drought in Indonesia is slowing output of a crucial material used to manufacture electric vehicle batteries, creating risks across China’s vast electric car supply chain. Indonesia is a vital link in the global electric car supply chain. The Southeast Asian nation is the world’s biggest pro
+
+## PBOC to raise banks’ forex reserve requirements to ease appreciation pressure on yuan
+The People’s Bank of China announced on Tuesday that it would raise the reserve requirement ratio on foreign exchange deposits by 2 percentage points. The ratio would be 6 per cent, effective November 15, the central bank said in a statement, calling it a move to strengthen the liquidity management 
+
+## As sales slow, carmakers in China turn to overt marketing tactics and face controversy
+Chinese carmakers’ marketing tactics are under the spotlight after a controversy surrounding a comment by an Xpeng employee drew harsh criticism from middle-aged consumers. The incident comes as regulators step up quality checks on the reliability of automotive companies, according to industry offic
+
+## Crypto industry confronts stark security challenges after US$6.4b Binance hack
+Industry leaders at Hong Kong’s Fintech Week are searching for solutions to crypto crime in the wake of Binance’s historic hack, with over US$3 billion in stolen assets still in the hands of alleged North Korean hackers. “You have to be able to treat every end point and every server as a possible pl
 
 ## Why Relationships Still Matter in the Digital Age of Banking
 When Sachil Dagur took charge of Habib Bank Zurich in Hong Kong in 2018, he saw a bank with valuable strengths already in place: a niche in trade finance, deep ties to the trading community and a footprint across markets important to its clients. The opportunity, he believed, was not to reinvent tho
@@ -126,20 +141,8 @@ When Sachil Dagur took charge of Habib Bank Zurich in Hong Kong in 2018, he saw 
 ## China’s EDA champion buys start-up to address weak link, support Huawei’s Tau Scaling Law
 Empyrean Technology, China’s top provider of electronic design automation (EDA) tools, plans to acquire a majority stake in a domestic start-up, reinforcing Beijing’s drive for tech self-sufficiency and bolstering support for Huawei Technologies’ semiconductor ambitions. The Beijing-based firm said 
 
-## Beijing city officials to boost hydrogen cars as China sets sights on future industry
-Beijing’s municipal government plans to have more than 12,000 hydrogen fuel cell vehicles on its roads and build more than 40 hydrogen refuelling stations by 2030, as part of China’s efforts to promote hydrogen as a strategic energy carrier to strengthen energy security under a national pilot progra
-
-## HKEX extends overnight derivatives trading as Hong Kong chases global market flow
-Bourse operator Hong Kong Exchanges and Clearing (HKEX) is taking a further step towards round-the-clock trading by pushing back the closing bell for its after-hours derivatives market by 75 minutes from next year, according to a statement released on Monday. The derivatives After-Hours Trading (AHT
-
-## How Hong Kong’s fintech strategy is progressing – and where growth still lags
-Hong Kong has touted rapid progress in the first year of its five-year fintech strategy, pledging to double down on artificial intelligence and tokenisation even as many initiatives face the challenge of achieving commercial scale. Tokenisation, for instance, had moved from the sandbox “into the rea
-
-## Banking on innovation for a more connected future
-[The content of this article has been produced by our advertising partner.] Hang Seng Bank will bring AI-powered wealth management, digital banking, investment innovation and an interactive table tennis experience to Hong Kong FinTech Week 2026 as it makes its debut with a dedicated exhibition booth
-
-## Beijing launches barrage of measures to stabilise stock market after sell-off
-Chinese authorities have launched a renewed effort to stabilise the country’s struggling stock market, with a string of measures announced on Monday to boost liquidity, cut rates for share buy-back loans and ease curbs on leveraged trading. The concerted action by the People’s Bank of China (PBOC), 
+## Trump’s Closing Midterm Message
+Polls predict Democratic wins, but the U.S. president is focused on his capital renovations.
 
 ## Reigniting War With Iran Would Be a ‘Huge Gamble’
 The U.S. military faces “profound” long-term readiness concerns, one expert said.
@@ -161,9 +164,6 @@ A crisis that brought the U.S. and the Soviets to the brink of nuclear war in 19
 
 ## The World’s Biggest Crypto Heist
 Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
-
-## Russia the Disruptor
-How Moscow broke with the West—and unleashed a more chaotic world.
 
 ## The 5th Plenum and the CCP’S Dark Warning to the Unfaithful
 14 years later, the Chinese Communist Party is still carrying out the relentless anti-corruption crusade that has become the signature program of Xi Jinping’s rule.
@@ -237,29 +237,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Student protests resume in France as pupils return to school
-Student protests resume in France as pupils return to school
+## US urges Venezuela to follow phased plan for democratic transition
+This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.
 
-## ‘Work to do’: Authorities give update on Florida private jet crash
-Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.
+## Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz
+Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.
 
-## Mamdani’s progressive allies vie for seats in Congress
-Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.
+## Thousands displaced as homes are bulldozed in India’s Assam state
+Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.
 
-## What’s the future of the Western Sahara conflict?
-The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.
+## US lawmakers ask Trump administration to stop deportation of Afghans
+At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.
 
-## US to suspend South Africa and Rwanda from duty-free trade access
-South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.
+## Multiple Russian strikes kill at least 26 at Ukraine aid centre
+At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.
 
-## UK bookshop helps meet demand for Sally Rooney novels
-Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom
+## Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
+US President Donald Trump urged supporters to turn out ahead of Election Day
 
-## Mamdani-endorsed progressives fight to join Congress
-Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.
+## Ebola outbreak kills more than 5,300 people in DR Congo
+The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
 
-## HRW calls on Zambia to halt post-election crackdown
-Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.
+## Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz
+US forces target Iranian positions in the Strait of Hormuz in "defensive" strikes following missile threats.
+
+## Festive demand delivers steady growth for retail players amid challenging macroeconomic conditions, CFOs say
+Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
 
 ## PVR INOX plans 150-175 new screens a year from FY28, most to come through asset-light model: CFO
 PVR INOX, India’s largest multiplex operator, plans to add 150 to 175 new screens every year from FY28, up from its planned 90 to 100 this year, with most of them coming through asset-light franchise and developer-funded models, CFO Gaurav Sharma said in an exclusive interview with ETCFO.
@@ -281,9 +284,6 @@ Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs
 
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
-
-## SC questions MCA’s grip on NCLT, seeks plan to fix staffing and infrastructure gaps
-Supreme Court says NCLT president should have authority over staff appointments; directs NCLT and NCLAT to submit four week proposals on manpower and infrastructure requirements.
 
 ## SEBI proposes scrapping LTCG tax for foreign investors, seeks relief for mutual fund investors: Report
 The Securities and Exchange Board of India (SEBI) has recommended removing long-term capital gains (LTCG) tax on foreign investors and proposed tax relief for domestic mutual fund investors, as the regulator seeks to improve the attractiveness of Indian equity markets and encourage investment, accor
