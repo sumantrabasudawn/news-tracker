@@ -1,145 +1,145 @@
 # AION Intelligence
 
-## Japan’s interest rates are rising. Will young people lose out?
-Better returns from savings will help asset-rich elderly but make life harder for young homebuyers
+## FirstFT: Officials discuss Trump, Putin and Xi meeting
+Also in today’s newsletter: America votes and how Lula’s electoral victory in Brazil has lifted the global left
 
-## Reliance gets its mojo back
-Also, more affordable cancer drugs
+## Wall Street braces as voters go to polls in high-stakes US midterm elections
+Vote will set the trajectory for everything from AI to public spending
 
-## US to hold first talks with Russia and Ukraine since February
-Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week
+## Oil prices steady at $106 after sharp declines
+Crude prices stabilise on Tuesday as traders await developments in the Middle East
 
-## ‘Quiet quitting’ is real and may be hitting British productivity, analysis claims
-Employees have become more disengaged in the last ten years and less willing to put in extra effort
+## Brussels sets tight deadline for ECB president nominations
+Eurozone leaders need to submit nominees to succeed Christine Lagarde by Friday as contest for top central banking job heats up
 
-## Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ
-Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate
+## US voters prepare to deliver verdict on Trump
+Congressional races across nation will determine whether president’s Republican Party will retain its majorities in Congress
 
-## US Supreme Court rejects Trump request to intervene in California vote count
-Justices issue latest blow to president’s attempts to use the power of federal government to influence elections
+## Cinven to buy menopause specialist Theramex in €2.6bn deal
+Carlyle and PAI Partners agree to sell women’s health business for more than double what they paid four years ago
 
-## My tax rises made Britain’s economy stronger, says Reeves
-Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’
+## German car parts giant Schaeffler axes 3,500 jobs
+Automotive supplier to close four sites in Germany as crisis engulfing country’s flagship industry deepens
 
-## OpenAI hires former US Army secretary as military seeks to expand AI use
-Dan Driscoll to join the start-up as senior counsellor for national security modernisation
+## Burnham takes immigration politics beyond fear of Farage
+Widely expected compromise on immigration crackdown signals shift towards a regime focused on labour market gaps and economic opportunity
 
-## Rio Tinto creates ‘kill zone’ to halt cane toad invasion
-Mining group building ‘firebreak’ in Western Australia designed to stop invasive species reaching Pilbara
+## Asda appoints ex-Morrisons boss as new CEO
+Leeds-based supermarket has struggled with falling sales, mounting losses and market share decline
 
-## Apple warns ‘unprecedented’ memory chip costs will hit margins
-Hardware giant predicts robust sales in the holiday season but services outlook disappoints
+## What Weil Gotshal has taught us about how law firms die
+When partners start leaving to earn more money elsewhere, collapse becomes inevitable
 
-## FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll
-Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack
+## Virgin Media O2 to cut thousands of jobs
+UK’s second-largest broadband provider to slash staff costs by 30% by 2029
 
-## Marvell to buy data centre component maker Lumentum in $115bn AI bet
-Silicon Valley companies say all-stock deal would create a ‘leader in AI connectivity’
+## Drax lands Brookfield backing for biomass-powered data centre
+Company’s wood-fired plant would supply one of the UK’s largest data centres under the full £20bn plan
 
-## For Alstom, one disruption begets the next
-The French rail group has missed analysts’ earnings forecasts every year since 2018
+## Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn
+Move part of Anglo-Dutch oil major’s strategy to shed mature assets
 
-## Petrol prices set to hit record high under Trump on eve of US elections
-Average fuel costs during president’s second term pass Biden-era levels as affordability issues top Tuesday’s midterm polls
+## Broker’s Call: Zen Technologies (Buy)
+Choice Institutional Equities
 
-## Alstom shares tumble 26% after train maker cuts profit forecast
-French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion
+## Neo raises ₹6,200 cr from second private credit fund
+The fund attracted participation from leading family offices and institutional investors
 
-## SBI Q2 results: Net profit seen rising 45% on stake-sale gains and income growth
-Brokerage estimates put SBI’s September-quarter net profit between ₹23,539 crore and ₹25,250 crore, ahead of its results announcement
+## India needs 3 national carriers to compete globally: Adani Airports CEO
+Arun Bansal stresses protecting domestic airlines and expanding infrastructure for fourfold passenger growth by 2040-45
 
-## Sensex today | Stock Market Live: Gift Nifty points to gap-up opening; crude oil, US election in focus
-Sensex, Nifty, Share Prices Live: Indian equity markets are expected to open higher on Tuesday, with Gift Nifty signalling a gap-up of about 150 points. Investors will track the US midterm election, Q2 earnings, crude oil prices, Middle East developments and Nifty derivatives positioning.
+## Nifty crosses 23,800 for first time since August on falling crude prices, earnings boost
+FMCG was the standout sector, gaining over 3 per cent, led by Marico, which jumped 10 per cent to ₹878.40 after reporting a 29.16 per cent year-on-year rise in Q2FY27 consolidated profit.
 
-## Rupee to benefit from oil plunge while facing technical resistance, dollar strength
-The rupee is expected to ⁠open in the 94.75-94.78 range, per traders, having settled at 94.90 to the dollar on Monday
+## Q2 Results Today Live: SBI Q2 PAT up 14%, Bajaj Finserv, Pfizer, Solar Ind, Rane (Madras), Yatharth, Emcure Pharma & Zydus Wellness Q2 profit rise, AIA Engineering profit declines, NSE, Fortis, Bajaj Holdings, Lloyds Metals, Lupin, MCX to announce Q2 results
+Q2 Results Today, 03rd November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## Animal trials being curbed
-Other methods now being used to test drugs for humans
+## India needs indigenous technologies to ensure energy security: Union Minister Reddy
+Minister highlights higher education growth, critical minerals mission and homegrown innovation at NIT Raipur convocation
 
-## Glenn Maxwell retires from international cricket after 14-year career
-The 38-year-old’s final appearance came against Oman at the 2026 T20 World Cup, where he took two wickets
+## Concord Control Systems posts near-doubling of revenue, PAT in H1 FY27
+Profit after tax for the six months ended September 30, 2026, rose 94.9 per cent to ₹31.23 crore from ₹16.02 crore
 
-## Trump says Iran wants deal ‘more than ever’ as US weighs next move
-Qatari mediators are awaiting responses from Washington and Tehran to a draft agreement aimed at restarting direct negotiations between the countries.
+## Happiest Minds Q2 profit rises 15% to ₹62 crore; revenue up 12% to ₹645 crore
+Sequentially, profit declined 8%, while revenue rose 2.7%
 
-## Government has fiscal headroom to absorb ₹50,000-crore revenue loss from scrapping LTCG tax: SBI Research
-The proposal includes raising the annual exemption limit, reducing tax rates for longer holding periods and increasing the Securities Transaction Tax
+## SBI Q2 results: Net profit rises 14% to Rs 23,038 crore
+State Bank of India reported a 14 percent increase in net profit for the July-September quarter. The bank's total income also rose significantly compared to the same period last year. Asset quality showed improvement, with gross non-performing assets declining notably. Provisions for bad loans decre
 
-## Tamil Nadu announces Deepavali bonus for 5,190 sugar mill workers
-The festival payout will cover 18 sugar mills, with eligible workers receiving between 10 and 20 per cent in bonus and ex-gratia.
-
-## Oil prices edge higher after reported US strike on Iran's Qeshm Island, reviving supply concerns
-In the wake of a US military strike on Qeshm Island, oil prices have seen a modest increase. This development raises alarms about potential conflict escalation, even as diplomatic dialogues persist. Both the US and Iran appear willing to engage in negotiations again, despite the failure of earlier t
-
-## FM Nirmala Sitharaman weighs in on Tata row: 'Should be resolved amicably, internally'
+## Sensex jumps 1,225 points to close at 76,917.85; Nifty surges 370 points
 
 
-## Darius Khambata to leave Tata Trusts, says ‘independence comes at a cost’
+## Gold, silver lose shine ahead of Dhanteras: Buy now, wait or invest in something else?
+As Dhanteras nears, Indian consumers are closely monitoring the recent drop in gold and silver prices, scrutinizing how this volatility might influence future values. Financial experts advise buyers to assess their personal needs and investment objectives before making any purchases. With more price
 
+## 'Punching below its weight': Air India CEO vows to turn around airline profitability
+Air India is set to bolster its international reach by expanding orders for wide-body aircraft. CEO Tewolde Gebremariam remains optimistic about returning to profitability soon, despite the challenges of losses and escalating costs. The airline has initiated fleet renewal and adopted cost-saving str
 
-## Govt listening to voices of concern in equity mkts: FM Nirmala Sitharaman
+## India's first bullet train: 280 kmph test speed, 557 passengers, 8 coaches; top 20 features to know
+Indian Railways is working towards starting trial runs of the B28 train on the 100-km Surat-Vapi stretch of the Ahmedabad-Mumbai High Speed Rail corridor by May-June 2027. Commercial services on this section are expected to commence in August 2027. What will be special about India’s first bullet tra
 
+## Stock market today: Why did BSE Sensex Nifty50 rally? Top 5 reasons
+Stock market rally today: BSE Sensex ended the day at 76,917.85, up 1,225 points or 1.62%. Nifty50 closed at 23,810.85, up 370 points or 1.58%. The rally added nearly Rs 4 lakh crore to the combined market capitalisation of companies listed on the BSE, taking the total to Rs 486 lakh crore.
 
-## Manufacturing growth eases in October: PMI survey
+## Gold price prediction: Where is gold headed on November 3, 2026?
+Gold price prediction today: Spot gold prices, following a steep decline of over 3% in the week ending October 30, rose sharply on November 2 as crude oil prices slumped nearly 7% on hopes for resumption of peace talks between Iran and the US. Overall, gold's upside is likely to remain constrained u
 
+## Rupee gains 12 paise against dollar, supported by FII inflows
+During the early trading hours, the Indian rupee saw an increase of 12 paise to reach 94.72 against the US dollar, driven by lower crude oil prices at $104.76 per barrel. Continuous investments from Foreign Institutional Investors provided additional backing for the currency. However, the stronger U
 
-## Government assures Scotch importers of FTA benefits
+## SC defers Beant Singh assassin Hawara’s plea for Punjab prison transfer based on IB note
+The Intelligence Bureau indicated that the move will have a “huge impact” on the Punjab assembly elections
 
+## SC seeks Rahul Gandhi, Mallikarjun Kharge’s replies on plea over Opposition march against CEC to top court
+On October 12, the Opposition held a protest march against Chief Election Commissioner Gyanesh Kumar.
 
-## OpenAI takes steps to widen ChatGPT's reach
+## TN unveils Battery Storage Policy to become country's premier green energy hub
+TN unveils Battery Storage Policy to become country's premier green energy hub
 
+## Rajnath Singh chairs defence modernisation meeting in Jaisalmer, targets ₹3 lakh crore production by 2029
+Rajnath Singh said the government, under PM Narendra Modi, was focusing on three key areas — budget, self-reliance in defence manufacturing, and technology.
 
-## Powered by Reliance Industries' surge, sensex rallies 1.2k points
+## Bengal BJP MLA who opposed extortion hospitalised after assault by party workers
+The legislator has named six people in a handwritten complaint to the Debra police station, a West Midnapore district police officer said.
 
+## Congress criticises reclamation of IAF sports complex
+The Congress said the Air Force Sports Complex has been an integral part of the IAF’s social infrastructure
 
-## MCG issues notices to seven illegal RMC plants in Gurugram, warns of demolition
-According to MCG officials, the seven newly identified plants are located in Daulatabad, Gadoli Kalan, Kherki Majra and Dhanwapur villages
+## ₹438 crore mephedrone seizure case: Gujarat ATS arrests international drug trafficker Salim Dola
+₹438 crore mephedrone seizure case: Gujarat ATS arrests international drug trafficker Salim Dola
 
-## Sabarmati-style Yamuna riverfront ‘could worsen flood risks’ in Delhi, environmentalists and others warn
-The letter argued that the Sabarmati model cannot be replicated along the Yamuna without accounting for the fundamental differences between the two rivers.
+## Air India to shift more West-bound capacity from Delhi to Mumbai amid Pakistan airspace closure
+The airline would operate flights to Europe and the US from Delhi, but move a larger capacity share to Mumbai
 
-## ACP Manasvi Vashishta who led protest outside Delhi Police headquarters suspended
-The move comes after scores of Delhi Police officers gathered outside the police headquarters over the recent face-off with lawyers in east Delhi’s Shahdara.
+## In their own words: top global finance chiefs on AI bets, market shifts and diversification
+With more than 280 global executives in Hong Kong attending the 2026 Global Financial Leaders’ Investment Summit, the market has been paying attention to what they have to say on today’s hot topics, including artificial intelligence investments, market corrections, asset diversification and the tran
 
-## Marital dispute cannot become ground to seek abortion, says Supreme Court
-The woman's counsel told the court the husband had threatened not to continue the marriage if she went ahead with the termination.
+## Amid global uncertainty, top bankers back Hong Kong’s role as mainland China’s gateway
+Global financial executives have voiced confidence in Hong Kong’s role as a bridge between mainland China and the rest of the world and as a safe haven helping businesses and investors navigate geopolitical tensions and shifting global capital flows. Speaking at the city’s annual Global Financial Le
 
-## DUTA calls one day strike over SOL teacher’s termination
-The development comes two days after the Centre for Distance and Online Education terminated a professor citing unsatisfactory performance
+## ‘At some point it’s going to be too much’: global financiers grapple with AI risks
+The artificial intelligence boom is creating an unprecedented demand for capital and infrastructure, raising questions about whether debt markets, power grids and corporate productivity can keep pace with the technology’s expansion, executives of global asset management firms warned at a Hong Kong s
 
-## DGCA suspends Char Dham chopper services for remaining season
-Operators opposed a new rule requiring co-pilots on every flight, citing costly aircraft modifications and limited time to implement them.
+## Vice-Premier He Lifeng vows support for Hong Kong as international financial centre
+Beijing says it will introduce extra measures, as needed, to bolster Hong Kong as an international financial centre, with Vice-Premier He Lifeng pledging continued support in a speech on Tuesday. Delivering a keynote speech at the opening of the 2026 Global Financial Leaders’ Investment Summit in Ho
 
-## Delhi AQI remains ‘very poor’ amid thick haze; Bawana, Narela, Punjabi Bagh among 8 areas in ‘severe’ category
-Delhi’s air quality index stood at 331 at 7:05 am on Tuesday. Data from 58 of the 59 monitoring stations showed that eight were in the severe category.
+## Hong Kong’s ‘superconnector’ role key as geopolitics reshapes capital flows, says banker
+Hong Kong is poised to play a bigger role in helping global investors diversify their portfolios as geopolitical uncertainties reshape capital flows and drive demand for alternative markets and asset classes, a senior executive from Bank of China said on Tuesday. The city’s position as an internatio
 
-## Andhra Pradesh election result LIVE: Counting of votes for municipal polls begins
-Andhra Pradesh election result LIVE: The counting of votes for municipal elections across 92 urban local bodies in Andhra Pradesh municipal elections began at 8 am on Tuesday, state election commission authorities said.
+## China moves to simplify forex settlements, ease cross-border business
+China plans to expand foreign exchange settlement services and streamline cross-border trade payments, in a move to lower transaction costs and facilitate international commerce. The State Administration of Foreign Exchange (Safe) on Monday released a draft notice for public consultation outlining n
 
-## HashKey Adopts Tokenised Deposit for Cross-Market Treasury and Liquidity Management on Standard Chartered's Blockchain Platform
-[The content of this article has been produced by our advertising partner.] Hong Kong, November 2, 2026 — HashKey Group (3887.HK), a leading Asian digital asset company, today announced that, its is among the first institutional clients to adopt Standard Chartered’s newly launched institutional toke
+## As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’
+The artificial intelligence (AI) boom could be a super-long cycle that would eventually drive productivity and bring down costs, according to the chairmen of Morgan Stanley and Goldman Sachs, who suggested the ongoing pullback in technology stocks could be a temporary speed bump. David Solomon, who 
 
-## Indonesia’s severe drought threatens to disrupt China’s vast battery industry
-A severe drought in Indonesia is slowing output of a crucial material used to manufacture electric vehicle batteries, creating risks across China’s vast electric car supply chain. Indonesia is a vital link in the global electric car supply chain. The Southeast Asian nation is the world’s biggest pro
+## China’s ‘Lipstick King’ hawks tokens as AI gets mass-market Singles’ Day push
+China’s “Lipstick King” has traded make-up swatches for artificial intelligence. Top live-streamer Li Jiaqi on Monday evening teamed up with an executive from Alibaba Group Holding to pitch AI subscriptions, selling nearly 100,000 monthly packages in just 30 minutes, according to data provided by th
 
-## PBOC to raise banks’ forex reserve requirements to ease appreciation pressure on yuan
-The People’s Bank of China announced on Tuesday that it would raise the reserve requirement ratio on foreign exchange deposits by 2 percentage points. The ratio would be 6 per cent, effective November 15, the central bank said in a statement, calling it a move to strengthen the liquidity management 
+## Iran Is Talking Peace but Preparing for War
+Tehran is hedging its bets to prepare for Trump’s post-midterms plans.
 
-## As sales slow, carmakers in China turn to overt marketing tactics and face controversy
-Chinese carmakers’ marketing tactics are under the spotlight after a controversy surrounding a comment by an Xpeng employee drew harsh criticism from middle-aged consumers. The incident comes as regulators step up quality checks on the reliability of automotive companies, according to industry offic
-
-## Crypto industry confronts stark security challenges after US$6.4b Binance hack
-Industry leaders at Hong Kong’s Fintech Week are searching for solutions to crypto crime in the wake of Binance’s historic hack, with over US$3 billion in stolen assets still in the hands of alleged North Korean hackers. “You have to be able to treat every end point and every server as a possible pl
-
-## Why Relationships Still Matter in the Digital Age of Banking
-When Sachil Dagur took charge of Habib Bank Zurich in Hong Kong in 2018, he saw a bank with valuable strengths already in place: a niche in trade finance, deep ties to the trading community and a footprint across markets important to its clients. The opportunity, he believed, was not to reinvent tho
-
-## Cyberport Venture & Capital Forum 2026: unlocking growth and shaping the agentic economy
-[The content of this article has been produced by our advertising partner.] In 2026, venture capital is shifting rapidly as record funding flows into AI, frontier tech, robotics, and digital infrastructure. Coupled with Web3 and tokenised assets across Asia and the Middle East, the emerging ‘agentic
-
-## China’s EDA champion buys start-up to address weak link, support Huawei’s Tau Scaling Law
-Empyrean Technology, China’s top provider of electronic design automation (EDA) tools, plans to acquire a majority stake in a domestic start-up, reinforcing Beijing’s drive for tech self-sufficiency and bolstering support for Huawei Technologies’ semiconductor ambitions. The Beijing-based firm said 
+## Vucic Is Leaving. His Economy Remains.
+Serbia’s opposition won at the ballot box, but changing its economy will be even harder.
 
 ## Trump’s Closing Midterm Message
 Polls predict Democratic wins, but the U.S. president is focused on his capital renovations.
@@ -159,11 +159,17 @@ Brazil’s 81-year-old president can’t lead the left forever.
 ## Don’t Read Too Much Into These Midterms
 Voters are angry about the Iran war, but that doesn’t mean they want to go back to the pre-Trump status quo.
 
-## The Biggest October Surprise of All
-A crisis that brought the U.S. and the Soviets to the brink of nuclear war in 1962 reshaped U.S. politics.
+## Is India Extending Its Control Over Islamic Practice In Kashmir?
+“In Kashmir, Islam and politics have always remained inseparable. We can smell the link this time too.”
 
-## The World’s Biggest Crypto Heist
-Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.
+## From New Delhi to Manila to Atlanta, the Quad Finds Its Rhythm in 2026
+Despite the stir over an impending Quad Leaders’ summit, the grouping has had a productive year with multiple outcome-oriented convenings
+
+## ‘The Indian Question’: The Rise of Anti-Indian Hate in America
+Akhilesh Pillalamarri, an attorney and columnist for The Diplomat, joins host Tushar Shetty to explore the cultural anxieties driving right-wing attacks on Indian Americans.
+
+## The Al Mayeda Strike Shows the Limits of Pakistan’s Hormuz Mediation
+Pakistan can broker agreements over the Strait of Hormuz, but it has no way to enforce compliance.
 
 ## The 5th Plenum and the CCP’S Dark Warning to the Unfaithful
 14 years later, the Chinese Communist Party is still carrying out the relentless anti-corruption crusade that has become the signature program of Xi Jinping’s rule.
@@ -177,17 +183,11 @@ After Fukuda Yasuo’s passing, a look back at his foreign policy as prime minis
 ## China’s AI Data Centers Move West, But Their Tax Revenue Stays East
 If nothing changes, cities like Ulanqab will struggle to turn their computing boom into a real development advantage.
 
-## Will New Laws Finally End Human Rights Abuses in Asia’s Factories?
-It’s clear that voluntary measures aren’t enough for ethical sourcing and supply chains.
+## Quantum’s Quietest Branch: A Case for Magnetometry
+After an F-15E went down in Operation Epic Fury, the weapons systems officer landed injured, behind enemy lines, and with a bounty on his head. CIA Director John Ratcliffe analogized locating him to finding a “grain of sand in the middle of a desert.” When commandos pulled him out 36 hours later, on
 
-## $6B Binance Heist Exposes How North Korea Turned Hacking Into a State Revenue Stream
-The FBI blamed Pyongyang for the largest crypto theft on record. Its cash-out routes rely heavily on China.
-
-## Rahul Gandhi and Neha Bora’s Politics of Resistance to Save India’s Democracy
-The political challenge for the opposition now is to turn the resistance visible on the streets into electoral change.
-
-## President Muizzu’s Pakistan Visit Tests the Maldives’ Fragile Thaw With India
-Three MoUs relating to Maldives-Pakistan security cooperation in defense, maritime security and cybersecurity could prompt unease in New Delhi.
+## Humanity’s Promethean Gap with AI
+Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security and defense, the stakes are particularly high. The industry’s new calls to pace the frontier also ri
 
 ## Corruption in the Crosshairs: The Debate Over Transparency and Saving Face
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -206,12 +206,6 @@ It’s a strange time for the defense technology sector. Despite the headlines o
 
 ## Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?
 Amid the rapid expansion of AI and data centers alongside growing climate commitments as the demand for clean energy rises, nuclear power is increasingly viewed as a reliable source to fill the gaps and complement the stochastic output of solar and hydropower. This renewed interest is also driven in
-
-## Jihadism’s Global Struggle, and Where It’s Gaining
-In 2018, Barak Mendelsohn wrote, “Bound to Fail: Transnational Jihadism and the Aggregation Problem,” where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counterterrorism forces to co
-
-## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
-Date: Thursday, Nov. 12, 2026Time: 12:00 – 1:00 p.m. ESTThe third joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel.Overview:For this edition of The Atlantic Brief, the Royal United Services Institute and War on th
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,31 +231,31 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US urges Venezuela to follow phased plan for democratic transition
-This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.
+## Alaska Senate candidates trade accusations ahead of election
+Alaska Senate candidates trade accusations ahead of election
 
-## Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz
-Several explosions heard in Qeshm Island and Bandar Lengeh, as US media say the US military carried out the strikes.
+## Who decides the US midterms?
+About half of all eligible voters in the US skip the midterms. AJLabs looks at who votes and who stays home.
 
-## Thousands displaced as homes are bulldozed in India’s Assam state
-Hundreds of homes have been bulldozed in the Dhubri district of Assam state in northeastern India.
+## US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest
+With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.
 
-## US lawmakers ask Trump administration to stop deportation of Afghans
-At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.
+## US conducts series of ‘defensive strikes’ against Iran
+The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.
 
-## Multiple Russian strikes kill at least 26 at Ukraine aid centre
-At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.
+## Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia
+Sudan demands UN accountability after devastating drone attacks expose a complex regional crisis.
 
-## Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
-US President Donald Trump urged supporters to turn out ahead of Election Day
+## Senate candidates in Iowa deliver final appeals for midterm elections
+Republican candidate Ashley Hinson and Democratic challenger Josh Turek make their final campaign push in Iowa.
 
-## Ebola outbreak kills more than 5,300 people in DR Congo
-The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
+## At least 73 injured as Russia bombs Ukrainian hospital and power plants
+Medical facility was struck by Russian ballistic missiles and aerial bombs overnight.
 
-## Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz
-US forces target Iranian positions in the Strait of Hormuz in "defensive" strikes following missile threats.
+## Lebanon cuts power to public bodies as electricity crisis deepens
+Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.
 
-## Festive demand delivers steady growth for retail players amid challenging macroeconomic conditions, CFOs say
+## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
 
 ## PVR INOX plans 150-175 new screens a year from FY28, most to come through asset-light model: CFO
@@ -285,6 +279,15 @@ Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
 
+## India, EU discuss FTA implementation ahead of December signing
+In an effort to advance their free trade agreement, India and the European Union held pivotal discussions led by Commerce Secretary Rajesh Agarwal, who visited Brussels for dialogues with prominent EU officials. Central to the talks were customs cooperation and trade facilitation, deemed critical fo
+
+## We will consider the call for review of LTCG tax: Finance Minister Nirmala Sitharaman
+"The circumstances have changed and, therefore, the voices of concern are louder,'' she said at a media event, in reference to reports that her administration has received suggestions to review levies on long-term capital gains (LTCG) for overseas investors. "I quite appreciate that. So, I'll consid
+
+## American companies brace for a pivot as US midterm elections get underway
+US midterms: Corporate America is anticipating a potential shifts in Washington's power dynamics. Analysts predict that a strong Democratic showing could benefit sectors such as clean energy, housing and healthcare. Conversely, AI and defence stocks may face increased scrutiny from lawmakers.
+
 ## SEBI proposes scrapping LTCG tax for foreign investors, seeks relief for mutual fund investors: Report
 The Securities and Exchange Board of India (SEBI) has recommended removing long-term capital gains (LTCG) tax on foreign investors and proposed tax relief for domestic mutual fund investors, as the regulator seeks to improve the attractiveness of Indian equity markets and encourage investment, accor
 
@@ -299,13 +302,4 @@ Sebi tweaks unitholder voting rules, strengthens exit rights for dissenting inve
 
 ## Abolish LTCG, rationalise STCG, STT rates on equities: PHDCCI to Finance Ministry
 The PHDCCI has urged the government to eliminate the Long Term Capital Gains tax, aiming to boost foreign investment. It also advocates extending the holding period for long-term investment classification from 12 months to between 18 to 24 months. The current tax structure leads to double taxation o
-
-## SEBI mulls 3rd-party monitoring of IPO fund use, shell firms pose market risk: Tuhin Kanta Pandey
-Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey outlined steps to strengthen oversight of listed entities and capital raising, adding that some listed companies with little or no economic activity function like shell companies and "add risk to the market."
-
-## RBI accepts 20 bps higher treasury bill cutoff yields than last auction
-The Reserve Bank of India has increased the cut-off yields for treasury bills after canceling a prior auction. Yields of the 91-day, 182-day, and 364-day bills experienced a significant rise. While system liquidity has dropped compared to last month, it still remains in a positive state. Traders are
-
-## Sebi to review FPI compliance norms, issue consultation paper to align with global standards
-Acknowledging that some compliance requirements in India remain more onerous than those in other major jurisdictions, Pandey said it is examining the existing norms to facilitate greater foreign investor participation in domestic markets.
 
