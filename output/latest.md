@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Wall Street braces as voters head to high-stakes polls
-Vote will set the trajectory for everything from AI to public spending
+## Renewable groups will have to invest in UK communities where they build projects
+A new energy independence bill for England, Scotland and Wales will herald a change from the existing system of voluntary support
 
-## Former Weil partners lawyer up over firm’s wind-down
-Ex-partners are attempting to learn if their equity in firm will be worth anything
+## First polls close in high-stakes vote for control of US Congress
+Republicans and Democrats in battle for Senate and House of Representatives
 
-## UK elections poll tracker
-Live-updating snapshot of party and leadership support in run-up to voting on May 7
-
-## US, Russia and China discuss meeting between Trump, Putin and Xi
-US president is travelling to Shenzhen in two weeks to attend Apec summit
-
-## Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life
-Deal could form part of broader restructuring of financier’s holding company TWG Global, according to people familiar with the matter
-
-## The hidden power of electricity
-The energy transition is not as impossible as we’ve been led to think
+## US has no immediate plan to strike Iran, Trump tells FT
+President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close
 
 ## Six European nations threaten to boycott Russia in ice hockey world championships
 Finland, Norway and Sweden among those refusing to play Russian team after court ruled it must be allowed to compete in next year’s tournament
 
-## Requiem for Gaza — a haunting, essential portrait in words and pictures
-Reporter Chris Hedges and cartoonist Joe Sacco document the lives of displaced Palestinian families in a hybrid work of text and comic-strip accounts
+## CVS Health moves to dismantle $117bn healthcare empire
+Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers
+
+## Will midterm results deliver victory for Democrats?
+The races, the money and the issues that will determine the final half of Trump’s second term
+
+## Tories turn to former PM David Cameron to boost party fundraising
+Ex-leader takes top billing at Conservative events just as his party secures poll lead over Reform UK for first time in almost two years
+
+## Investors watch US state races for signs of backlash against AI boom
+Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America
+
+## Serbia arrests owner of bank linked to Vučić regime
+Alta Bank owner Davor Macura is accused of emptying bank’s vault after election loss of Serbian strongman
+
+## Paraguay seizes digital bank with ties to President Peña
+Authorities begin process to wind down fast-growing Ueno Bank over solvency problems
+
+## Former Weil partners lawyer up over firm’s wind-down
+Ex-partners are attempting to learn if their equity in firm will be worth anything
 
 ## Call for entries: High-growth companies Asia-Pacific 2027
 Register now to be considered for our latest list of the region’s fastest-growing businesses
@@ -30,17 +39,8 @@ Register now to be considered for our latest list of the region’s fastest-grow
 ## Seven aircraft grounded in Europe after bomb threats
 Planes searched after series of warnings were received, with the incidents found to be hoaxes
 
-## Paraguay seizes digital bank with ties to President Peña
-Authorities begin process to wind down fast-growing Ueno Bank over solvency problems
-
-## UK pensioners to be offered annual income as default, ministers say
-Move aims to ensure older people do not run of money by spending private pension pots too quickly
-
-## MPs summon Poundland’s owner to select committee grilling
-Executives at Gordon Brothers will be asked to explain how discount retailer arrived at brink of collapse
-
-## Unilever to cut €1bn in costs after food spin-off
-FTSE 100 group seeks to convince investors it is primed for growth following sale of slower-growth division
+## Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life
+Deal could form part of broader restructuring of financier’s holding company TWG Global, according to people familiar with the matter
 
 ## One-time stake sale gain lifts SBI Q2 profit 14% to ₹23,038 crore
 Treasury losses hit other income; maintains 14-15% loan growth guidance for FY27
@@ -66,29 +66,35 @@ SBI maintains 14-15% credit and 10-11% deposit growth guidance amid data breach 
 ## Marico could reach ₹20,000 crore revenue by 2030: Saugata Gupta
 MD and CEO Saugata Gupta outlines digital-first growth, premiumisation and path to double-digit margins by FY27 end
 
-## Widow faces tax notice for Rs 60 lakh cash deposits; why ITAT treated it as gift from late husband
-The Income Tax Department discovered that a woman had deposited Rs 60,07,500 in cash into her bank account during the financial year 2015-16. However, she had not filed an income tax return (ITR) for the corresponding assessment year. The Assessing Officer (AO) subsequently issued a show-cause notic
-
-## Removing LTCG: Will it be the magical solution stock markets are looking for?
-Indian equity benchmarks, Nifty50 and BSE Sensex are in deep red this year, In fact, they are set for their worst annual stress in over a decade. However, in the last two years MSCI’s Emerging Markets Index has actually seen a jump of 40%. So clearly India is out of favour with foreign investors who
-
-## SBI Q2 results: Net profit rises 14% to Rs 23,038 crore
-State Bank of India reported a 14 percent increase in net profit for the July-September quarter. The bank's total income also rose significantly compared to the same period last year. Asset quality showed improvement, with gross non-performing assets declining notably. Provisions for bad loans decre
-
-## Sensex jumps 1,225 points to close at 76,917.85; Nifty surges 370 points
+## Gaana, Noise join hands for cobranded buds
 
 
-## Gold, silver lose shine ahead of Dhanteras: Buy now, wait or invest in something else?
-As Dhanteras nears, Indian consumers are closely monitoring the recent drop in gold and silver prices, scrutinizing how this volatility might influence future values. Financial experts advise buyers to assess their personal needs and investment objectives before making any purchases. With more price
+## LTCG tax abolition may cost Rs 40k-50k crore
 
-## 'Punching below its weight': Air India CEO vows to turn around airline profitability
-Air India is set to bolster its international reach by expanding orders for wide-body aircraft. CEO Tewolde Gebremariam remains optimistic about returning to profitability soon, despite the challenges of losses and escalating costs. The airline has initiated fleet renewal and adopted cost-saving str
 
-## India's first bullet train: 280 kmph test speed, 557 passengers, 8 coaches; top 20 features to know
-Indian Railways is working towards starting trial runs of the B28 train on the 100-km Surat-Vapi stretch of the Ahmedabad-Mumbai High Speed Rail corridor by May-June 2027. Commercial services on this section are expected to commence in August 2027. What will be special about India’s first bullet tra
+## TaMo looks at manufacturing Iveco in India
 
-## Stock market today: Why did BSE Sensex Nifty50 rally? Top 5 reasons
-Stock market rally today: BSE Sensex ended the day at 76,917.85, up 1,225 points or 1.62%. Nifty50 closed at 23,810.85, up 370 points or 1.58%. The rally added nearly Rs 4 lakh crore to the combined market capitalisation of companies listed on the BSE, taking the total to Rs 486 lakh crore.
+
+## SBI net rises 14% to 23k crore, shares slip 1.8%
+
+
+## Won't open up dairy sector or let in genetically modified products: Piyush Goyal
+
+
+## Industry bodies debate LTCG pitch ahead of pre-budget discussions
+
+
+## Cyber risks: Banks working on coordinated response
+
+
+## AI weighs ordering more wide body aircraft: Air India CEO
+
+
+## EC: Previously enrolled voters can submit form 6 for inclusion
+The Election Commission on Tuesday said previously enrolled voters can submit Form 6 for inclusion as electors if their names are missing from draft Special Intensive Revision (SIR) rolls.
+
+## Two government-backed startups release sovereign AI models that can run in airgapped environment
+India AI Mission-backed startups Soket AI and ZenteiQ unveiled sovereign, offline models for secure use in coding, maths, science and research.
 
 ## Haryana STF seizes 25000 cartridges from two cars being smuggled to UP and Bihar, five arrested
 A Haryana STF team recovered 25,000 cartridges from two cars near the Rohad toll plaza and arrested five Uttar Pradesh residents.
@@ -108,11 +114,32 @@ The animals may have been involved in a territorial fight, following which the l
 ## Arunachal gets new DGP as IPS officer Rajesh Kumar takes charge amid Siang dam protests
 Rajesh Kumar was appointed Arunachal Pradesh police chief amid protests over a proposed hydropower project on the Siang River.
 
-## Delhi sees massive traffic snarls as festive rush, vehicle breakdowns disrupt peak-hour movement
-Severe traffic congestion brought several parts of central, south, and north Delhi to a standstill on Tuesday.
+## A month on the run, a trail of complaints: How police caught caretaker accused of killing retired IAS officer
 
-## Two Surat teens stabbed to death over a horse-riding video on social media; 3 held: Cop
-According to police, the boys aged 16 and 17 were stabbed by the accused near Fatima Kabrastan in the Nanpura area late on Sunday
+
+## A love triangle, a deadly trap: How a teenager’s ‘revenge plot’ went horribly wrong
+
+
+## Global climate goals must respect national circumstances: India
+
+
+## On Government agenda: New Rs 2,800-crore capex scheme for critical minerals
+
+
+## Biometrics, voter IDs for beneficiary payments, not Aadhaar: Minister Rajiv Ranjan Singh
+
+
+## Israel Election Results 2026 LIVE Updates: Israel’s opposition leaders back Eisenkot to oust Netanyahu
+
+
+## Mishandling protests to planting drugs and death in custody: Punjab Police faces credibility test
+
+
+## Capt launched it, Channi ‘named’ it, Mann distributes cards: Punjab’s Lal Lakir scheme
+
+
+## ‘Wait-and-see’: Hong Kong’s private home sales drop as interest rates are tipped to rise
+Hong Kong’s primary and secondary private residential property sales fell in October compared to the previous month, as the expectation of an interest rate increase by year-end draws nearer, according to new market research. Conducted by Centaline Property, the research indicated that Hong Kong reco
 
 ## PBOC pledges support for stocks as China’s market slide defies rescue efforts
 China’s central bank governor has reaffirmed support for the country’s beleaguered stock market after a series of rescue measures failed to put a floor under plummeting share prices. Pan Gongsheng, governor of the People’s Bank of China (PBOC), pledged in a work report presented to the standing comm
@@ -135,8 +162,11 @@ Beijing says it will introduce extra measures, as needed, to bolster Hong Kong a
 ## Hong Kong’s ‘superconnector’ role key as geopolitics reshapes capital flows, says banker
 Hong Kong is poised to play a bigger role in helping global investors diversify their portfolios as geopolitical uncertainties reshape capital flows and drive demand for alternative markets and asset classes, a senior executive from Bank of China said on Tuesday. The city’s position as an internatio
 
-## China moves to simplify forex settlements, ease cross-border business
-China plans to expand foreign exchange settlement services and streamline cross-border trade payments, in a move to lower transaction costs and facilitate international commerce. The State Administration of Foreign Exchange (Safe) on Monday released a draft notice for public consultation outlining n
+## Iran Strikes and Israel Aid Cuts Shake Up Election Day
+Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.
+
+## Chinese AI Stocks Are Slumping, Too
+The correction is less painful for Chinese firms but reflects broader economic headwinds.
 
 ## China Won’t Bail Out Trump’s Lost War
 Beijing is walking careful lines on Iran.
@@ -156,35 +186,32 @@ Costly signaling to Beijing could hurt the U.S. economy.
 ## Iran Is Talking Peace but Preparing for War
 Tehran is hedging its bets to prepare for Trump’s post-midterms plans.
 
-## Vucic Is Leaving. His Economy Remains.
-Serbia’s opposition won at the ballot box, but changing its economy will be even harder.
+## The Danger of Being a Female Livestreamer in China
+When a fan thinks he owns you, online entitlement can morph into real-world violence.
 
-## Trump’s Closing Midterm Message
-Polls predict Democratic wins, but the U.S. president is focused on his capital renovations.
+## The China-Pakistan Information Corridor Is Made to Silence Journalists
+CPIC arrives in a country where the words "fake news" can already put a reporter in prison.
+
+## How China Is Building Influence in Central Asia, One Laboratory at a Time
+Scientific and educational cooperation may be less visible than a railway, but it may also have longer lasting and broader results.
+
+## Amid Stock Troubles, Is South Korea’s $880 Billion AI Infrastructure Buildout Under Threat?
+South Korea has emerged as one of the world leaders in the AI buildout. But now, as investor sell-offs continue to force the KOSPI lower, are its AI ambitions under threat?
+
+## Decouple Taiwan From China-Vatican Negotiations
+Archbishop Gallagher’s remarks about the “price” of setting up an office in Beijing have struck a nerve in Taiwan. But the two aren’t actually related.
+
+## Does Reliance on China Undermine Iran’s Grand Strategy?
+China’s interests in the Middle East increasingly conflict with Iran’s cooperation with regional proxies and use of coercive threats.
+
+## Indonesia’s Navy Is Growing. Is Its Combat Power Keeping Up?
+While fleet size is an important measure of operational capacity, a lot depends on how effectively new platforms are equipped, operated, and integrated.
 
 ## The Pitfalls of Thailand’s ‘Bamboo Diplomacy’
 "Its flexibility allows Thai policymakers to justify different, and sometimes contradictory, strategies under the same label."
 
-## Uzbekistan Wins the Biggest Olympiad in History. Now Sindarov Goes for the World Crown
-
-
-## Tesla, Samsung Express Opposition to New US Tariffs on Vietnam
-With a U.S. investigation into intellectual property violations set for conclusion at the end of the month, Hanoi could face fresh trade penalties.
-
-## Indonesia Urges Russia to Stop Recruiting Its Citizens Into Ukraine War
-In recent months, reports have surfaced of Indonesian nationals fighting on the frontlines in occupied Ukraine.
-
-## From Ankara To Ankara: 34 Years of Turkic Cooperation
-It would have been difficult for the leaders who attended the first Organization of Turkic States summit in 1992 to imagine the group's progress in the years since.
-
-## Is India Extending Its Control Over Islamic Practice In Kashmir?
-“In Kashmir, Islam and politics have always remained inseparable. We can smell the link this time too.”
-
-## From New Delhi to Manila to Atlanta, the Quad Finds Its Rhythm in 2026
-Despite the stir over an impending Quad Leaders’ summit, the grouping has had a productive year with multiple outcome-oriented convenings
-
-## ‘The Indian Question’: The Rise of Anti-Indian Hate in America
-Akhilesh Pillalamarri, an attorney and columnist for The Diplomat, joins host Tushar Shetty to explore the cultural anxieties driving right-wing attacks on Indian Americans.
+## The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them
+In 2025, Ari Heistein wrote, “Defeating the Houthis Will Require More Than Killing Their Chief.” A year later, we asked him to reflect on the Houthis’ Red Sea gains, the limits of killing leaders, and why another ceasefire would only buy them time to rearm.Image: Mehr News Agency via Wikimedia Commo
 
 ## Quantum’s Quietest Branch: A Case for Magnetometry
 After an F-15E went down in Operation Epic Fury, the weapons systems officer landed injured, behind enemy lines, and with a bounty on his head. CIA Director John Ratcliffe analogized locating him to finding a “grain of sand in the middle of a desert.” When commandos pulled him out 36 hours later, on
@@ -206,9 +233,6 @@ For decades, militaries have chased the next revolution in warfare. But what act
 
 ## A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech
 It’s a strange time for the defense technology sector. Despite the headlines of record capital, valuations, and defense budgets, there is a growing unease among investors and leadership teams. Production contracts remain as elusive as ever, and a generation of startups is struggling to extend their 
-
-## Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?
-Amid the rapid expansion of AI and data centers alongside growing climate commitments as the demand for clean energy rises, nuclear power is increasingly viewed as a reliable source to fill the gaps and complement the stochastic output of solar and hydropower. This renewed interest is also driven in
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Palestinian Americans turn to US flags to protect West Bank homes
-Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.
+## Where have there been technical issues so far during US midterm elections?
+Some polling stations have experienced vote-delaying issues that officials describe as being minor.
 
-## UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade
-Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.
+## First polls close in pivotal US midterm elections
+With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country.
 
-## Greenland parliament approves security deal with US, Denmark
-Lawmakers vote 16-0 for trilateral agreement signed in September, while seven abstained.
+## US midterm election results live: Polls start closing in some states
+Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
 
-## Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids
-Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.
+## Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
+Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
 
-## Russian strikes on Dnipro kill two, injure 20 others
-Russian strikes on Dnipro damaged residential areas and several medical facilities.
+## President Zelenskyy says US elections will impact war in Ukraine
+Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country
 
-## South Carolina shrimpers weigh costs, vote in crucial US midterms
-Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.
+## Texans vote in most expensive Senate race in US history
+Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns.
 
-## Darfur survivors vow to tell story of those killed after Sudan camp attacks
-Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.
+## Netanyahu’s eight-seat problem
+Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle
 
-## Barcelona vs Aston Villa LIVE: Champions League
-Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game.
+## Palestinian families return home after Israeli siege of Hebron
+Palestinian families return home after Israeli siege of Hebron
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
