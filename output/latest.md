@@ -1,73 +1,94 @@
 # AION Intelligence
 
-## Americans deliver stunning rebuke to Trump as blue wave sweeps country
-Democrats take Congress as Republicans routed from Texas to Georgia
+## Stocks surge after Democrats’ sweep
+Wall Street indices open higher as analysts say divided government reduces policymaking risks
 
-## Live US midterm elections results — in charts and maps
-The latest updates on the races that will shape the balance of power in Washington
+## Sequoia shuts London office as VC firm refocuses on Silicon Valley
+Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry
 
-## Live results: James Talarico wins in Texas as Democrat victory reaches deep-red states
-President’s party defeated in battleground races from Kansas to South Carolina
+## Blue wave sweeps markets back towards normality
+US midterm results may point to more restraints on the Trump administration
 
-## Europe seeks to stay the course and avoid backlash from wounded Trump
-Also in this newsletter: Billions for EU deep-tech groups
+## Mississippi and Alaska races go down to the wire as Trump blame game erupts
+US president admits voter anger over Iran war helped fuel Republican defeats
 
-## How demographics can distort economic narratives — redux
-Per capita perspectives
+## In Rome’s Long Shadow — enduring lessons for how we are governed
+Jamie Gianoutsos’s lively history shows how ancient arguments about virtue and tyranny still haunt modern politics, from revolutionaries to modern democracies
 
-## The Democrats’ moment of truth
-Democrats poised to win control of Congress
+## The midterms have already cost Musk more than $60bn — and counting
+🎻
 
-## James Talarico’s historic Texas Senate victory deals blow to Elon Musk
-Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent
+## China steps up defence of stock market in bid to revive AI boom
+ETFs commonly used by Beijing to support market see second-highest net inflows on record
+
+## Stevie Wonder’s undimmed brilliance shines again in London
+Three-hour concert celebrating the 50th anniversary of ‘Songs in the Key of Life’ proves he still represents the best of music — and America
+
+## Solvay strikes rare earths deal that will reduce global dependence on China
+Supply from Brazilian mine will bolster high-tech magnet production in Europe and US
+
+## CVS Health to break up $117bn healthcare empire
+Spin-off of roughly 9,000 pharmacies comes as political pressure mounts on pharmacy benefit managers and health insurers
+
+## ‘Population collapse’ makes AI productivity gains vital, says top Meta executive
+Alex Schultz tells FT’s Future of AI summit that falling birth rates mean AI will be needed to support dwindling numbers of people
+
+## Uber picks up pace in robotaxi race
+Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but will still trail rival Waymo
+
+## Anthropic is an opportunity to rethink IPO rules
+To protect retail investors, we should stop permitting the deferral of stock-based employee compensation costs
+
+## Gibson Dunn in talks to hire 120 lawyers from Weil as firm dissolves
+Move follows unravelling of near-century-old law firm following talent exodus
 
 ## FirstFT: Blue wave sweeps US
 Also in today’s newsletter: Iran war and Qatar’s US LNG purchases
 
-## London’s trading wunderkind faces a rout
-Swashbuckling trading style that fuelled Hamza Lemssouguer’s rise has ensnared his firm in brutal sell-off in riskiest reaches of corporate debt markets
+## Starling Bank chief to step down after just two years
+UK digital bank steps up succession planning after Raman Bhatia told board he no longer wanted to run fintech
 
-## The golden age of cheap European flights was good while it lasted
-The margin squeeze will be worse for budget airlines, which start out with less room to cut costs
+## CEOs commit $400 billion on India’s clean energy push: Pralhad Joshi
+Govt will examine investment proposals, says Minister
 
-## How audacious London debt trader Hamza Lemssouguer came unstuck
-Arini Capital Management went from start-up to Mayfair mainstay in four years. Now it is fighting to hold on to its bets
+## Mumbai airport plans to shift all flights on 14 international routes to Navi Mumbai
+MIAL’s proposal faces resistance from foreign airlines over connectivity, competition and unilateral capacity cuts
 
-## The economic risks of the AI boom
-The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends
+## Gold ETFs attract ₹3,300 crore in Oct as investors go on a buying spree ahead of Diwali
+Assets under management of gold ETFs increased steadily from ₹1.58 lakh crore in April to around ₹1.91 lakh crore in October, reflecting growing investor interest in the category
 
-## Smarter savers pose a challenge to the UK’s big banks
-British consumers are conserving more of their income and giving more thought to where they stick the extra cash
+## Recovery of stressed assets: CaaS it, ARCs tell lenders
+Collection-as-a-Service offers lenders recovery support and ARCs fee-based revenue opportunities.
 
-## AI cyber breach of a bank is a matter of when, not if
-Binance hack is a warning of potentially far worse things to come
+## Falling fertility rate makes two-child penalties outdated in India, says SC judgment
+‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’
 
-## Accenture accused of publishing AI paper littered with AI hallucinations
-Consultancy says it will correct report but blames ‘human error’ for problems
+## Exide Industries Q2 net jumps 75% to ₹386.45 crore
+Price increase, volume growth and cost optimisation enabled EBITDA margin expansion by 270 basis points y-o-y during the second quarter
 
-## US elections: Democrats score governor race victories in Texas, Georgia, Ohio, Iowa and Wisconsin
-Voters weighed affordability, President Donald Trump’s unpopularity and local concerns, while several closely watched contests remained undecided early Wednesday
+## MRPL’s Russian crude sourcing touches 32% in Q2FY27
+Russian barrels made up of about 32% of the crude mix during the second quarter of 2026-27 against approximately 28% in Q1FY27
 
-## RBI forms technical panel for financial markets headed by Rohit Jain
-The committee will ‌serve as a forum for discussions on money markets, government securities, ‌foreign exchange markets, related derivatives and ‌market ⁠infrastructure
+## Sundaram Finance Q2 PAT up 21% at ₹475 crore, Chairman S Viji steps down
+Disbursements in the second quarter up by 28% at ₹10,355 crore
 
-## Sensex today | Stock Market Live: Sensex pares gains, falls over 636 points from day's high; Nifty sheds 176 points
-Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks pared gains in noon trade as investors booked profits following the sharp rally, pulling the Sensex and Nifty lower from their respective intraday peaks.
+## Pistachios vanish from Diwali gift boxes this year as prices double, almonds rise 20%
+Retail prices of pistachios have almost doubled compared with a year ago, driven by supply disruptions associated with the West Asia conflict and a smaller US crop. Almond prices, meanwhile, have climbed around 20%, according to dry fruit processors and importers. At the premium end of the gifting m
 
-## HDFC Bank extends rally for second day, hits ₹741 intraday high
-Trading volumes nearly doubled, but sellers continued to dominate order flows, while Bank Nifty maintained a positive bias during Wednesday’s session
+## What Trump defeat could mean for Indian H-1B visa holders, Russian oil & trade deal
+Trump's Republican Party suffered major defeats in its strongholds, including Texas, Georgia and Iowa, losing the governors' offices to Democratic candidates. Trump’s policies are being blamed by many as the reason for the loss - with tariffs and inflation in focus. The results are expected to have 
 
-## Q2 Results Today Live: Gabriel India Q2 profit down sequentially, BSE, Cummins, Zydus Lifesciences, Apollo, Lenskart, Nykaa, Aurobindo Pharma, NHPC, Dabur, Torrent Power, Biocon, Sundaram Finance, Premier Energies, Physicswallah to announce Q2 results, Emcure, Awfis, Bajaj Finserv shares gain after Q2 results, MCX, Bata decline
-Q2 Results Today, 04th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
+## Why you could an income tax notice & how you should handle it
+The Income Tax Department now receives automatic, continuous data feeds directly from banks, stockbrokers, mutual fund registries, and property offices. When central algorithms spot even a minor formatting difference or missing line item between your filed return and these external feeds, a notice i
 
-## India’s crypto growth slow due to limited private market participation: Binance’s SB Seker
-Asia Pacific head calls for greater Budget focus on the industry and expects hybrid public-private model to emerge
+## Gold smuggling hits 50 tonnes in India as 15% import duty widens price gap
+According to a World Gold Council report, gold smuggling is estimated to have climbed to around 50 tonnes in the September quarter, compared with just three tonnes in the same period a year earlier. The surge highlights how higher import costs have had unintended consequences for the market.
 
-## El Nino may keep global rice prices elevated until Q1 2027
-Risk of the current weather even strengthening poses further risks to paddy in South and South-East Asia, say experts
+## Will Trump's midterm defeat push him to finalise India-US trade deal?
+The unfavourable midterm election outcome is unlikely to prompt President Donald Trump to change course on trade, according to an analysis by Global Trade Research Initiative (GTRI). Trump is now likely to use his executive authority to push India towards an early agreement that opens up the Indian 
 
-## Sri Lanka steps up tourism outreach in Keralam as Indian arrivals surge
-India remains largest source market with over 4.8 lakh visitors by October; SLTPB holds B2B meetings in three cities
+## What is the gold price prediction for the Diwali week? Check November 4, 2026 outlook
+Gold price prediction today: The midterm results have changed the mood this week. Democrats are projected to win both the House and the Senate, which markets read as lowering the odds of a deficit-expanding agenda. The 10-year Treasury yield fell six basis points to 4.90%, the dollar weakened as muc
 
 ## How does Trump's defeat in US midterms impact Indian stock market? Explained
 Indian equities are already contending with a range of domestic market pressures. Uncertainty surrounding Donald Trump's tariff decisions, higher crude oil prices and bond yields, along with sustained foreign institutional investor (FII) selling, has pushed the Sensex and Nifty down. In this environ
@@ -75,71 +96,65 @@ Indian equities are already contending with a range of domestic market pressures
 ## Sensex climbs 288 points, Nifty rises nearly 77 points in early trade
 
 
-## What are the top stocks to buy on November 4, 2026? Check list
-Stock market recommendations: Godrej Properties, Bajaj Auto, and Tata Power - Mehul Kothari, DVP of Technical Research at Anand Rathi Shares has picked these as the top stocks to buy today on November 3, 2026.
+## Assam police constable booked for attacking woman, family over dispute: Cop
+A video of the alleged incident later surfaced on social media. On Tuesday evening, Jorhat police shared screenshots of a social media post
 
-## IRDAI directs insurers to offer four-layer motor cover in compliance with SC order
-IRDAI has operationalized a new four-layer motor insurance framework that takes effect on December 15, 2026. This structure separates mandatory third-party liability and personal accident cover from optional components for vehicle owners. Insurers must provide a Customer Information Sheet and obtain
+## Bengal police seize ₹1.02 crore from party office in land grab case involving Abhishek Banerjee aide
+Police seized ₹1.02 crore from a political party’s office in Sarisha during a land grab probe involving Abhishek Banerjee’s aide Sumit Roy.
 
-## Gaana, Noise join hands for cobranded buds
+## CM Vijay presents gold necklace to Class 12 first rank holder in Tamil Nadu
+Vjay urged students to prioritise education, avoid corruption and drugs, and work towards achieving their ambitions.
 
+## Goa police inspector among two arrested in minor’s sexual assault case at Cyber Crime Police Station
+Inspector Vikas Deykar and Rajani Palekar were arrested after a minor alleged that she was asked to undress, touched inappropriately during visits to the police station
 
-## LTCG tax abolition may cost Rs 40k-50k crore
+## PM Modi speaks to Chandrababu Naidu as two cyclones cause ₹4,906 crore damage in Andhra Pradesh
+Prime Minister Narendra Modi on Wednesday spoke to Andhra Pradesh chief minister N Chandrababu Naidu to review the situation in cyclone-hit areas of the state
 
+## Ex-India hockey captain MM Somaya says 1980 Olympic Gold stolen in Bengaluru home burglary
+The gold medal, which MM Somaya won as part of the Indian team at the Moscow Olympics, was stolen along with three other international sporting medals.
 
-## TaMo looks at manufacturing Iveco in India
+## Three killed in gunfight between suspected NSCN-IM and ZUF-J cadres in Manipur’s Noney district
+Three people were killed in a gunfight between suspected NSCN-IM and ZUF-J cadres in Manipur’s Noney district, while a passenger vehicle came under fire in Ukhrul.
 
+## Mahadev betting app co-founder Ravi Uppal arrested in Dubai days after Sourabh Chandrakar’s extradition from Oman
+Officials said they are trying to gather more information through proper channels and accelerate the proceedings for his extradition.
 
-## SBI net rises 14% to 23k crore, shares slip 1.8%
+## How Democratic sweep could slow AI growth in US – and help China’s ambitions
+The Democratic Party’s sweeping midterm election victory and takeover of both houses of Congress could slow down the pace of artificial intelligence development in the US, with implications for both the global AI trade and the technology rivalry between Washington and Beijing, analysts said. The ass
 
+## Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
+The People’s Bank of China’s (PBOC) intervention to raise the foreign exchange reserve requirement ratio amid the yuan’s sustained rally has delivered a reprieve for China’s broader export sector, as the measure is expected to partly ease appreciation momentum driven by the country’s enormous trade 
 
-## PM Modi calls Sharad Pawar, advises rest as NCP (SP) chief discharged from hospital
-Pawar was admitted to Pune's Ruby Hall Clinic on Monday (November 2) following complaints of cough and pleuritic chest pain.
+## ‘The race is on’: Swiss bankers nod to Hong Kong’s prowess as wealth hub
+Swiss private banking executives have acknowledged Hong Kong’s growing prominence as a global cross-border wealth-management hub, as geopolitical tensions prompt wealthy clients to diversify not only their investments but also where their assets are held. “The race is on,” said Giorgio Pradelli, CEO
 
-## BJP had no role to play, says Ram Madhav as friction in NC intensifies
-Ram Madhav’s statement came after the Srinagar MP Aga Syed Ruhullah Mehdi announced his resignation from the Lok Sabha and the National Conference
+## US midterm blue tsunami jolts Asian markets as tighter AI, fiscal scrutiny looms
+Follow the SCMP’s live coverage here A comprehensive victory for the Democrats in the US midterms has jolted asset classes from stocks to bonds and commodities in Asia, as investors expect the US Congress to tighten scrutiny over the AI industry and government spending. Stocks in the region closed m
 
-## Derek O'Brien hits back at Amit Shah over SIR debate, recalls 2025 Rajya Sabha proceedings
-The TMC leader shared a video of opposition MPs demanding a discussion on electoral reforms in Parliament on December 1, 2025, alleging that BJP blocked it.
+## Wingtech rejects Nexperia restructuring, cites ‘discrimination’ towards Chinese investors
+Shanghai-listed Wingtech Technology has rejected a restructuring proposal under which it would lose control of Dutch chipmaker Nexperia’s assets outside China, condemning the plan as an “expropriation” driven by discrimination. The stand-off deepens a year-long dispute between Wingtech and Dutch aut
 
-## Bengal man arrested from temple with wife's severed head; neighbours allege marital discord
-The arrested man was identified as 46-year-old Rintu Sarkar, a former bus conductor for the state-owned North Bengal State Transport Corporation.
+## 2 cancer drugs from Li Ka-shing-backed Sequencio garner global attention
+Two cancer vaccines from Hong Kong-based Sequencio Therapeutics have been selected for presentation at a major US conference, as companies bet on therapies based on ribonucleic acid (RNA) to deliver breakthroughs in cancer treatment. Sequencio, a subsidiary of Li Ka-shing-backed CK Life Sciences, sa
 
-## Tamil Nadu sets two-hour window for bursting firecrackers on Diwali
-The state administration announced the window in an effort to curb severe air and noise pollution while encouraging safe, community-wide celebrations.
-
-## Suspected fake bail orders on Rajasthan high court website trigger inquiry
-Discrepancies in the registration numbers and other order details have raised suspicions about their authenticity, a senior court official confirmed.
-
-## Delhi ACP Manasvi Vashistha, suspended after cops' protest, is IIT graduate, former Dhankhar PSO
-Reacting to the suspension, Manasvi Vashistha said it had not affected his courage or confidence and expressed faith in the departmental inquiry.
-
-## Sagar hooch tragedy: IPS officer Anurag Sujania resigns days after removal as SP
-Sujania, a 2014 batch officer, submitted his resignation on November 2, days after the government transferred the district SP and collector Pratibha Pal on October 27
+## Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up
+Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built to power its enterprise software ecosystem. Released on Wednesday, the large language model (LLM) introduced
 
 ## Chinese firms’ third-quarter dividend growth lags global average amid market slump
 Chinese listed firms’ third-quarter dividend payments lag behind the global average, according to a report by Capital Group, throwing doubt over the effectiveness of Beijing’s ongoing stock market stabilisation plans. In China, dividends only rose 5.3 per cent on a core basis in the third-quarter, c
 
-## Chinese stock investors stay on the sidelines even as state intervention gathers pace
-Chinese investors refrained from bets on stocks this week, even after Beijing unveiled a litany of measures to shore up confidence in the world’s second-largest equity market. Leveraged traders trimmed their holdings to a one-year low this week, while new stock-account openings dropped by more than 
+## Where Democrats Can Thwart Trump’s Foreign Policy
+From the Iran war to boat strikes to Ukraine, Democrats now have powerful leverage.
 
-## Asia to drive growth for Julius Baer as investors diversify amid US AI risks: CEO
-Private banking giant Julius Baer expects Asia to play a major role in its growth in the near term as investors seek diversification amid rising AI risks in the US, according to its chief executive. “The AI bubble is building and lots of people are very nervous about how much AI risk they have,” Jul
+## U.S. Democracy Is Back—Sort Of
+Trump suffered a major rebuke, but it’s going to be a brutal two years.
 
-## Banks must be ‘responsible’ as industry races to deploy AI agents: State Street
-An executive at US bank State Street said he expects the uses of artificial intelligence in finance to “multiply” in the coming years, but stressed that “responsible deployment” is vital as the industry confronts daunting potential security risks. The call came on the first day of the Global Financi
+## Democrats Have a Historic Opportunity to Remodel Capitalism
+The model actually exists. Politics just needs to catch up.
 
-## Debt fears swirling around state giant shine a light on China’s post-property reality
-As concerns over the financial health of a state-owned conglomerate rattled China’s bond market over the past week, analysts said its challenges reflected the lasting toll of the country’s prolonged property crisis, with local governments struggling to find sustainable alternatives beyond real estat
-
-## ‘Wait-and-see’: Hong Kong’s private home sales drop as interest rates are tipped to rise
-Hong Kong’s primary and secondary private residential property sales fell in October compared to the previous month, as the expectation of an interest rate increase by year-end draws nearer, according to new market research. Conducted by Centaline Property, the research indicated that Hong Kong reco
-
-## PBOC pledges support for stocks as China’s market slide defies rescue efforts
-China’s central bank governor has reaffirmed support for the country’s beleaguered stock market after a series of rescue measures failed to put a floor under plummeting share prices. Pan Gongsheng, governor of the People’s Bank of China (PBOC), pledged in a work report presented to the standing comm
-
-## Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin
-US artificial intelligence giant Anthropic’s initial public offering prospectus has exposed a vast profitability gap between it and rivals Z.ai and MiniMax, highlighting the challenges facing China’s AI model developers in turning technological advances into sustainable businesses. The Claude develo
+## The Beginning of the End of Trumpism
+What the mass disapproval of U.S. voters means for the world.
 
 ## Why Are Indonesians Dying in Ukraine?
 Russian recruitment tactics on social media are similar to those used by scam center criminals.
@@ -152,18 +167,6 @@ The correction is less painful for Chinese firms but reflects broader economic h
 
 ## China Won’t Bail Out Trump’s Lost War
 Beijing is walking careful lines on Iran.
-
-## Soviet Nostalgia Is a Geopolitical Dead End
-So-called realists arguing for Ukraine’s surrender can’t let go of the past.
-
-## The Quiet Revolution in U.S.-Cypriot Relations
-As ties with Turkey frayed over the past decade, Washington has drawn closer to Nicosia.
-
-## Why Kushner and Witkoff Keep Failing
-It’s not just a failure of tactics. It’s an entirely mistaken worldview.
-
-## Can Washington Afford to Deter Chinese Cyber Activity?
-Costly signaling to Beijing could hurt the U.S. economy.
 
 ## With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists
 An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.
@@ -189,6 +192,9 @@ China’s interests in the Middle East increasingly conflict with Iran’s coope
 ## Indonesia’s Navy Is Growing. Is Its Combat Power Keeping Up?
 While fleet size is an important measure of operational capacity, a lot depends on how effectively new platforms are equipped, operated, and integrated.
 
+## The G.I. and the Paperback: A World War II Love Story
+On June 5, 1944, as soldiers lined British shores, preparing for their perilous journey to the beaches of Normandy, Special Services units handed out comfort items, from packs of cigarettes to candy. But one item was more sought after than any other: books. Crouched on the crowded decks awaiting Eis
+
 ## The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them
 In 2025, Ari Heistein wrote, “Defeating the Houthis Will Require More Than Killing Their Chief.” A year later, we asked him to reflect on the Houthis’ Red Sea gains, the limits of killing leaders, and why another ceasefire would only buy them time to rearm.Image: Mehr News Agency via Wikimedia Commo
 
@@ -209,9 +215,6 @@ Israeli elections on Oct. 27 produced a complex result, with neither Prime Minis
 
 ## What’s a Revolution in Military Affairs Good For?
 For decades, militaries have chased the next revolution in warfare. But what actually makes a revolution in military affairs revolutionary? Is there one happening now? Does it matter? Is it just about drones and AI or something more? Ryan digs into the promises, pitfalls, and persistent myths of mil
-
-## A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech
-It’s a strange time for the defense technology sector. Despite the headlines of record capital, valuations, and defense budgets, there is a growing unease among investors and leadership teams. Production contracts remain as elusive as ever, and a generation of startups is struggling to extend their 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -237,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## House Democratic leader Hakeem Jeffries hails midterm victory
-Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.
+## Trump loses control of Congress
+Democrats have made historic gains in the US midterms, dealing a major setback to President Donald Trump.
 
-## Lula’s victory is a stress test for the Global South
-Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?
+## Why is the western US still counting votes after election day?
+Why is the western US still counting votes after election day?
 
-## Photos: Champions League and Tenerife fans pay tribute to De Miguel
-CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
+## Yemeni government forces claim control of strategic al-Jawf mountain range
+The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.
 
-## Democrats dominate NYC races, Hochul re-elected New York governor
-Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.
+## How big is the Republican midterms loss, and is there a silver lining?
+The Republicans haven't been this weakened in Congress since 1990, but they did have some wins.
 
-## N Korea fires multiple missiles, denies US claims on Binance hack
-Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.
+## Spanish Transport Minister resigns over train crash disasters
+Spanish Transport Minister resigns over train crash disasters
 
-## Keisha Lance Bottoms becomes Georgia’s first black governor
-Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor
+## Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity
+Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.
 
-## Democrat Josh Turek flips Iowa Senate seat
-Turek beat Republican Ashley Hinson, a US House member.
+## Gaza volunteer Adam Hamawy wins historic US Congress seat
+Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.
 
-## Trump and Republicans trampled in the midterms
-Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.
+## Jerusalem Daily: Mass arrests across occupied West Bank
+Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
@@ -285,6 +288,9 @@ Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs
 ## Jio Lists India Story on Global Map
 It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
 
+## RBI sets up Technical Consultative Committee for Financial Markets
+The Reserve Bank has constituted a Technical Consultative Committee for Financial Markets (TCCFM), headed by RBI Deputy Governor Rohit Jain, against the backdrop of rapidly evolving financial markets and market infrastructure.
+
 ## SBI estimates Rs 19,500 crore ECL impact; RBI working group still fine tuning implementation: Setty
 State Bank of India expects a Rs 19,500 crore net-of-tax impact from ECL implementation and plans to use the four-year transition period. RBI is still open to feedback from banks on the nuances of the guidelines and implementation and is planning a CEO-level meeting to review industry preparedness, 
 
@@ -305,7 +311,4 @@ The Securities and Exchange Board of India (SEBI) has recommended removing long-
 
 ## Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31
 The Securities and Exchange Board of India (Sebi) has granted an extension until January 31 of the coming year for regulated entities to comply with digital accessibility standards. This decision, prompted by requests from market participants, aligns with the Rights of Persons with Disabilities Act,
-
-## SEBI working to delist companies with no economic activity to protect investors: Chairman
-SEBI is taking steps to remove companies that lack economic activity from the stock exchanges. These companies pose a risk to investors as they may be involved in market manipulation schemes. The regulator is also using AI techniques to track suspicious accounts and protect retail investors. Further
 
