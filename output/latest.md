@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## Renewable groups will have to invest in UK communities where they build projects
-A new energy independence bill for England, Scotland and Wales will herald a change from the existing system of voluntary support
+## Americans deliver stunning rebuke to Trump as blue wave sweeps country
+Democrats take Congress as Republicans routed from Texas to Georgia
 
-## First polls close in high-stakes vote for control of US Congress
-Republicans and Democrats in battle for Senate and House of Representatives
+## Live US midterm elections results — in charts and maps
+The latest updates on the races that will shape the balance of power in Washington
 
-## US has no immediate plan to strike Iran, Trump tells FT
-President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close
+## Live results: James Talarico wins in Texas as Democrat victory reaches deep-red states
+President’s party defeated in battleground races from Kansas to South Carolina
 
-## Six European nations threaten to boycott Russia in ice hockey world championships
-Finland, Norway and Sweden among those refusing to play Russian team after court ruled it must be allowed to compete in next year’s tournament
+## Europe seeks to stay the course and avoid backlash from wounded Trump
+Also in this newsletter: Billions for EU deep-tech groups
 
-## CVS Health moves to dismantle $117bn healthcare empire
-Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers
+## How demographics can distort economic narratives — redux
+Per capita perspectives
 
-## Will midterm results deliver victory for Democrats?
-The races, the money and the issues that will determine the final half of Trump’s second term
+## The Democrats’ moment of truth
+Democrats poised to win control of Congress
 
-## Tories turn to former PM David Cameron to boost party fundraising
-Ex-leader takes top billing at Conservative events just as his party secures poll lead over Reform UK for first time in almost two years
+## James Talarico’s historic Texas Senate victory deals blow to Elon Musk
+Billionaire had ploughed $47mn into bankrolling Republican Ken Paxton’s campaign while fuelling conspiracy theories about his opponent
 
-## Investors watch US state races for signs of backlash against AI boom
-Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America
+## FirstFT: Blue wave sweeps US
+Also in today’s newsletter: Iran war and Qatar’s US LNG purchases
 
-## Serbia arrests owner of bank linked to Vučić regime
-Alta Bank owner Davor Macura is accused of emptying bank’s vault after election loss of Serbian strongman
+## London’s trading wunderkind faces a rout
+Swashbuckling trading style that fuelled Hamza Lemssouguer’s rise has ensnared his firm in brutal sell-off in riskiest reaches of corporate debt markets
 
-## Paraguay seizes digital bank with ties to President Peña
-Authorities begin process to wind down fast-growing Ueno Bank over solvency problems
+## The golden age of cheap European flights was good while it lasted
+The margin squeeze will be worse for budget airlines, which start out with less room to cut costs
 
-## Former Weil partners lawyer up over firm’s wind-down
-Ex-partners are attempting to learn if their equity in firm will be worth anything
+## How audacious London debt trader Hamza Lemssouguer came unstuck
+Arini Capital Management went from start-up to Mayfair mainstay in four years. Now it is fighting to hold on to its bets
 
-## Call for entries: High-growth companies Asia-Pacific 2027
-Register now to be considered for our latest list of the region’s fastest-growing businesses
+## The economic risks of the AI boom
+The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends
 
-## Seven aircraft grounded in Europe after bomb threats
-Planes searched after series of warnings were received, with the incidents found to be hoaxes
+## Smarter savers pose a challenge to the UK’s big banks
+British consumers are conserving more of their income and giving more thought to where they stick the extra cash
 
-## Billionaire Mark Walter has explored sale of $71bn insurer Delaware Life
-Deal could form part of broader restructuring of financier’s holding company TWG Global, according to people familiar with the matter
+## AI cyber breach of a bank is a matter of when, not if
+Binance hack is a warning of potentially far worse things to come
 
-## One-time stake sale gain lifts SBI Q2 profit 14% to ₹23,038 crore
-Treasury losses hit other income; maintains 14-15% loan growth guidance for FY27
+## Accenture accused of publishing AI paper littered with AI hallucinations
+Consultancy says it will correct report but blames ‘human error’ for problems
 
-## Equitas Small Finance Bank names Balaji Nuthalapadi as Interim CEO
-This is consequent to the resignation of P. N. Vasudevan as the MD & CEO, and the new appointment shall take effect from the date of RBI approval
+## US elections: Democrats score governor race victories in Texas, Georgia, Ohio, Iowa and Wisconsin
+Voters weighed affordability, President Donald Trump’s unpopularity and local concerns, while several closely watched contests remained undecided early Wednesday
 
-## India’s steel market heads for a supply squeeze
-India’s steel sector is poised for a tightening supply-demand balance, with inventories expected to decline and prices to find support. Aditya Birla Money estimates steel consumption will rise to 229.2 million tonnes by FY30, outpacing production of 218.6 million tonnes. The resulting deficit could 
+## RBI forms technical panel for financial markets headed by Rohit Jain
+The committee will ‌serve as a forum for discussions on money markets, government securities, ‌foreign exchange markets, related derivatives and ‌market ⁠infrastructure
 
-## Cyber attacks trigger greater security investment than regulatory compliance among Indian organisations
-About 64% of Indian organisations bought cybersecurity after a security incident, vs 49% in Australia and 48% in MEA
+## Sensex today | Stock Market Live: Sensex pares gains, falls over 636 points from day's high; Nifty sheds 176 points
+Sensex, Nifty, Share Prices LIVE: Indian equity benchmarks pared gains in noon trade as investors booked profits following the sharp rally, pulling the Sensex and Nifty lower from their respective intraday peaks.
 
-## IndiGo eyes deeper airline partnerships for long-haul push
-Market access, rather than financial investment, to drive commercial tie-ups as airline prepares for A350 operations
+## HDFC Bank extends rally for second day, hits ₹741 intraday high
+Trading volumes nearly doubled, but sellers continued to dominate order flows, while Bank Nifty maintained a positive bias during Wednesday’s session
 
-## Air India targets international market share, plans more wide-body orders
-Long-haul business could lead group growth; airline strengthens overseas sales and rebalances hubs
+## Q2 Results Today Live: Gabriel India Q2 profit down sequentially, BSE, Cummins, Zydus Lifesciences, Apollo, Lenskart, Nykaa, Aurobindo Pharma, NHPC, Dabur, Torrent Power, Biocon, Sundaram Finance, Premier Energies, Physicswallah to announce Q2 results, Emcure, Awfis, Bajaj Finserv shares gain after Q2 results, MCX, Bata decline
+Q2 Results Today, 04th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## 50 bps repo hike may moderate consumption credit: CS Setty
-SBI maintains 14-15% credit and 10-11% deposit growth guidance amid data breach probes
+## India’s crypto growth slow due to limited private market participation: Binance’s SB Seker
+Asia Pacific head calls for greater Budget focus on the industry and expects hybrid public-private model to emerge
 
-## Marico could reach ₹20,000 crore revenue by 2030: Saugata Gupta
-MD and CEO Saugata Gupta outlines digital-first growth, premiumisation and path to double-digit margins by FY27 end
+## El Nino may keep global rice prices elevated until Q1 2027
+Risk of the current weather even strengthening poses further risks to paddy in South and South-East Asia, say experts
+
+## Sri Lanka steps up tourism outreach in Keralam as Indian arrivals surge
+India remains largest source market with over 4.8 lakh visitors by October; SLTPB holds B2B meetings in three cities
+
+## How does Trump's defeat in US midterms impact Indian stock market? Explained
+Indian equities are already contending with a range of domestic market pressures. Uncertainty surrounding Donald Trump's tariff decisions, higher crude oil prices and bond yields, along with sustained foreign institutional investor (FII) selling, has pushed the Sensex and Nifty down. In this environ
+
+## Sensex climbs 288 points, Nifty rises nearly 77 points in early trade
+
+
+## What are the top stocks to buy on November 4, 2026? Check list
+Stock market recommendations: Godrej Properties, Bajaj Auto, and Tata Power - Mehul Kothari, DVP of Technical Research at Anand Rathi Shares has picked these as the top stocks to buy today on November 3, 2026.
+
+## IRDAI directs insurers to offer four-layer motor cover in compliance with SC order
+IRDAI has operationalized a new four-layer motor insurance framework that takes effect on December 15, 2026. This structure separates mandatory third-party liability and personal accident cover from optional components for vehicle owners. Insurers must provide a Customer Information Sheet and obtain
 
 ## Gaana, Noise join hands for cobranded buds
 
@@ -78,65 +93,44 @@ MD and CEO Saugata Gupta outlines digital-first growth, premiumisation and path 
 ## SBI net rises 14% to 23k crore, shares slip 1.8%
 
 
-## Won't open up dairy sector or let in genetically modified products: Piyush Goyal
+## PM Modi calls Sharad Pawar, advises rest as NCP (SP) chief discharged from hospital
+Pawar was admitted to Pune's Ruby Hall Clinic on Monday (November 2) following complaints of cough and pleuritic chest pain.
 
+## BJP had no role to play, says Ram Madhav as friction in NC intensifies
+Ram Madhav’s statement came after the Srinagar MP Aga Syed Ruhullah Mehdi announced his resignation from the Lok Sabha and the National Conference
 
-## Industry bodies debate LTCG pitch ahead of pre-budget discussions
+## Derek O'Brien hits back at Amit Shah over SIR debate, recalls 2025 Rajya Sabha proceedings
+The TMC leader shared a video of opposition MPs demanding a discussion on electoral reforms in Parliament on December 1, 2025, alleging that BJP blocked it.
 
+## Bengal man arrested from temple with wife's severed head; neighbours allege marital discord
+The arrested man was identified as 46-year-old Rintu Sarkar, a former bus conductor for the state-owned North Bengal State Transport Corporation.
 
-## Cyber risks: Banks working on coordinated response
+## Tamil Nadu sets two-hour window for bursting firecrackers on Diwali
+The state administration announced the window in an effort to curb severe air and noise pollution while encouraging safe, community-wide celebrations.
 
+## Suspected fake bail orders on Rajasthan high court website trigger inquiry
+Discrepancies in the registration numbers and other order details have raised suspicions about their authenticity, a senior court official confirmed.
 
-## AI weighs ordering more wide body aircraft: Air India CEO
+## Delhi ACP Manasvi Vashistha, suspended after cops' protest, is IIT graduate, former Dhankhar PSO
+Reacting to the suspension, Manasvi Vashistha said it had not affected his courage or confidence and expressed faith in the departmental inquiry.
 
+## Sagar hooch tragedy: IPS officer Anurag Sujania resigns days after removal as SP
+Sujania, a 2014 batch officer, submitted his resignation on November 2, days after the government transferred the district SP and collector Pratibha Pal on October 27
 
-## EC: Previously enrolled voters can submit form 6 for inclusion
-The Election Commission on Tuesday said previously enrolled voters can submit Form 6 for inclusion as electors if their names are missing from draft Special Intensive Revision (SIR) rolls.
+## Chinese firms’ third-quarter dividend growth lags global average amid market slump
+Chinese listed firms’ third-quarter dividend payments lag behind the global average, according to a report by Capital Group, throwing doubt over the effectiveness of Beijing’s ongoing stock market stabilisation plans. In China, dividends only rose 5.3 per cent on a core basis in the third-quarter, c
 
-## Two government-backed startups release sovereign AI models that can run in airgapped environment
-India AI Mission-backed startups Soket AI and ZenteiQ unveiled sovereign, offline models for secure use in coding, maths, science and research.
+## Chinese stock investors stay on the sidelines even as state intervention gathers pace
+Chinese investors refrained from bets on stocks this week, even after Beijing unveiled a litany of measures to shore up confidence in the world’s second-largest equity market. Leveraged traders trimmed their holdings to a one-year low this week, while new stock-account openings dropped by more than 
 
-## Haryana STF seizes 25000 cartridges from two cars being smuggled to UP and Bihar, five arrested
-A Haryana STF team recovered 25,000 cartridges from two cars near the Rohad toll plaza and arrested five Uttar Pradesh residents.
+## Asia to drive growth for Julius Baer as investors diversify amid US AI risks: CEO
+Private banking giant Julius Baer expects Asia to play a major role in its growth in the near term as investors seek diversification amid rising AI risks in the US, according to its chief executive. “The AI bubble is building and lots of people are very nervous about how much AI risk they have,” Jul
 
-## ECI clarifies Form 6 usage: Previously enrolled voters can submit if names missing from draft SIR rolls
-The EC clarified that voters whose names do not figure in the draft SIR rolls can submit Form 6 to seek fresh inclusion in the final voters' list.
+## Banks must be ‘responsible’ as industry races to deploy AI agents: State Street
+An executive at US bank State Street said he expects the uses of artificial intelligence in finance to “multiply” in the coming years, but stressed that “responsible deployment” is vital as the industry confronts daunting potential security risks. The call came on the first day of the Global Financi
 
-## Gujarat ATS takes custody of drug lord Salim Dola in ₹438 crore mephedrone seizure case
-The ATS said it will question Dola to establish his precise role in the Sindhrot case, identify the source of raw materials and trace money flows.
-
-## Gurugram bans construction work for 16 days from November 5, caps office attendance at 50% amid rising pollution
-The ban covers construction and demolition work on roads, highways, flyovers, pipelines and other public infrastructure projects.
-
-## Lion drowns in sea during territorial clash with 2 other lions in Gujarat: Official
-The animals may have been involved in a territorial fight, following which the lion apparently jumped into the sea in an attempt to flee, an official said.
-
-## Arunachal gets new DGP as IPS officer Rajesh Kumar takes charge amid Siang dam protests
-Rajesh Kumar was appointed Arunachal Pradesh police chief amid protests over a proposed hydropower project on the Siang River.
-
-## A month on the run, a trail of complaints: How police caught caretaker accused of killing retired IAS officer
-
-
-## A love triangle, a deadly trap: How a teenager’s ‘revenge plot’ went horribly wrong
-
-
-## Global climate goals must respect national circumstances: India
-
-
-## On Government agenda: New Rs 2,800-crore capex scheme for critical minerals
-
-
-## Biometrics, voter IDs for beneficiary payments, not Aadhaar: Minister Rajiv Ranjan Singh
-
-
-## Israel Election Results 2026 LIVE Updates: Israel’s opposition leaders back Eisenkot to oust Netanyahu
-
-
-## Mishandling protests to planting drugs and death in custody: Punjab Police faces credibility test
-
-
-## Capt launched it, Channi ‘named’ it, Mann distributes cards: Punjab’s Lal Lakir scheme
-
+## Debt fears swirling around state giant shine a light on China’s post-property reality
+As concerns over the financial health of a state-owned conglomerate rattled China’s bond market over the past week, analysts said its challenges reflected the lasting toll of the country’s prolonged property crisis, with local governments struggling to find sustainable alternatives beyond real estat
 
 ## ‘Wait-and-see’: Hong Kong’s private home sales drop as interest rates are tipped to rise
 Hong Kong’s primary and secondary private residential property sales fell in October compared to the previous month, as the expectation of an interest rate increase by year-end draws nearer, according to new market research. Conducted by Centaline Property, the research indicated that Hong Kong reco
@@ -147,20 +141,8 @@ China’s central bank governor has reaffirmed support for the country’s belea
 ## Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin
 US artificial intelligence giant Anthropic’s initial public offering prospectus has exposed a vast profitability gap between it and rivals Z.ai and MiniMax, highlighting the challenges facing China’s AI model developers in turning technological advances into sustainable businesses. The Claude develo
 
-## In their own words: top global finance chiefs on AI bets, market shifts and diversification
-With more than 280 global executives in Hong Kong attending the 2026 Global Financial Leaders’ Investment Summit, the market has been paying attention to what they have to say on today’s hot topics, including artificial intelligence investments, market corrections, asset diversification and the tran
-
-## Amid global uncertainty, top bankers back Hong Kong’s role as mainland China’s gateway
-Global financial executives have voiced confidence in Hong Kong’s role as a bridge between mainland China and the rest of the world and as a safe haven helping businesses and investors navigate geopolitical tensions and shifting global capital flows. Speaking at the city’s annual Global Financial Le
-
-## ‘At some point it’s going to be too much’: global financiers grapple with AI risks
-The artificial intelligence boom is creating an unprecedented demand for capital and infrastructure, raising questions about whether debt markets, power grids and corporate productivity can keep pace with the technology’s expansion, executives of global asset management firms warned at a Hong Kong s
-
-## Vice-Premier He Lifeng vows support for Hong Kong as international financial centre
-Beijing says it will introduce extra measures, as needed, to bolster Hong Kong as an international financial centre, with Vice-Premier He Lifeng pledging continued support in a speech on Tuesday. Delivering a keynote speech at the opening of the 2026 Global Financial Leaders’ Investment Summit in Ho
-
-## Hong Kong’s ‘superconnector’ role key as geopolitics reshapes capital flows, says banker
-Hong Kong is poised to play a bigger role in helping global investors diversify their portfolios as geopolitical uncertainties reshape capital flows and drive demand for alternative markets and asset classes, a senior executive from Bank of China said on Tuesday. The city’s position as an internatio
+## Why Are Indonesians Dying in Ukraine?
+Russian recruitment tactics on social media are similar to those used by scam center criminals.
 
 ## Iran Strikes and Israel Aid Cuts Shake Up Election Day
 Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.
@@ -183,8 +165,8 @@ It’s not just a failure of tactics. It’s an entirely mistaken worldview.
 ## Can Washington Afford to Deter Chinese Cyber Activity?
 Costly signaling to Beijing could hurt the U.S. economy.
 
-## Iran Is Talking Peace but Preparing for War
-Tehran is hedging its bets to prepare for Trump’s post-midterms plans.
+## With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists
+An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.
 
 ## The Danger of Being a Female Livestreamer in China
 When a fan thinks he owns you, online entitlement can morph into real-world violence.
@@ -206,9 +188,6 @@ China’s interests in the Middle East increasingly conflict with Iran’s coope
 
 ## Indonesia’s Navy Is Growing. Is Its Combat Power Keeping Up?
 While fleet size is an important measure of operational capacity, a lot depends on how effectively new platforms are equipped, operated, and integrated.
-
-## The Pitfalls of Thailand’s ‘Bamboo Diplomacy’
-"Its flexibility allows Thai policymakers to justify different, and sometimes contradictory, strategies under the same label."
 
 ## The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them
 In 2025, Ari Heistein wrote, “Defeating the Houthis Will Require More Than Killing Their Chief.” A year later, we asked him to reflect on the Houthis’ Red Sea gains, the limits of killing leaders, and why another ceasefire would only buy them time to rearm.Image: Mehr News Agency via Wikimedia Commo
@@ -258,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Where have there been technical issues so far during US midterm elections?
-Some polling stations have experienced vote-delaying issues that officials describe as being minor.
+## House Democratic leader Hakeem Jeffries hails midterm victory
+Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.
 
-## First polls close in pivotal US midterm elections
-With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country.
+## Lula’s victory is a stress test for the Global South
+Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?
 
-## US midterm election results live: Polls start closing in some states
-Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
+## Photos: Champions League and Tenerife fans pay tribute to De Miguel
+CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
 
-## Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
-Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
+## Democrats dominate NYC races, Hochul re-elected New York governor
+Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.
 
-## President Zelenskyy says US elections will impact war in Ukraine
-Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country
+## N Korea fires multiple missiles, denies US claims on Binance hack
+Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.
 
-## Texans vote in most expensive Senate race in US history
-Pivotal Texas race for US Senate breaks spending records, with $573.2m poured into Paxton and Talarico campaigns.
+## Keisha Lance Bottoms becomes Georgia’s first black governor
+Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor
 
-## Netanyahu’s eight-seat problem
-Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle
+## Democrat Josh Turek flips Iowa Senate seat
+Turek beat Republican Ashley Hinson, a US House member.
 
-## Palestinian families return home after Israeli siege of Hebron
-Palestinian families return home after Israeli siege of Hebron
+## Trump and Republicans trampled in the midterms
+Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
