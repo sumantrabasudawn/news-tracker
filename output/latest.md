@@ -1,34 +1,40 @@
 # AION Intelligence
 
-## Stocks surge after Democrats’ sweep
-Wall Street indices open higher as analysts say divided government reduces policymaking risks
+## Vance blames Iran war for crushing Republican midterms defeat
+Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict
+
+## Oil tumbles below $100 on post-election peace hopes
+US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war
+
+## How Democrats pulled off the blue wave in maps and charts
+Party on track for largest swing in their favour in House elections in more than 75 years
+
+## Impeachments, Iran and the presidency: what’s next after the midterms?
+A sweeping victory for Democrats has started a jostle for presidential hopefuls
+
+## Trump diesel deal with Russia falters as US fuel supplies hit 20-year low
+Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support
+
+## Five takeaways from the midterm results
+Democrats record broad gains from almost all demographic groups
+
+## ‘Cartwheels’ in Canada after Trump punished in US midterm elections
+Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war
+
+## Republicans turn on each other after disastrous midterms
+Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations
+
+## Gates says Trump inaction leaves world exposed to AI bioweapons
+Billionaire Microsoft co-founder tells FT’s Future of AI Summit that AI could lead to pandemic ‘significantly worse than Covid’
+
+## CVS Health to break up $102bn healthcare empire
+Spin-off of roughly 9,000 drugstores comes as political pressure mounts on pharmacy benefit managers and health insurers
 
 ## Sequoia shuts London office as VC firm refocuses on Silicon Valley
 Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry
 
-## Blue wave sweeps markets back towards normality
-US midterm results may point to more restraints on the Trump administration
-
-## Mississippi and Alaska races go down to the wire as Trump blame game erupts
-US president admits voter anger over Iran war helped fuel Republican defeats
-
-## In Rome’s Long Shadow — enduring lessons for how we are governed
-Jamie Gianoutsos’s lively history shows how ancient arguments about virtue and tyranny still haunt modern politics, from revolutionaries to modern democracies
-
-## The midterms have already cost Musk more than $60bn — and counting
-🎻
-
-## China steps up defence of stock market in bid to revive AI boom
-ETFs commonly used by Beijing to support market see second-highest net inflows on record
-
-## Stevie Wonder’s undimmed brilliance shines again in London
-Three-hour concert celebrating the 50th anniversary of ‘Songs in the Key of Life’ proves he still represents the best of music — and America
-
 ## Solvay strikes rare earths deal that will reduce global dependence on China
 Supply from Brazilian mine will bolster high-tech magnet production in Europe and US
-
-## CVS Health to break up $117bn healthcare empire
-Spin-off of roughly 9,000 pharmacies comes as political pressure mounts on pharmacy benefit managers and health insurers
 
 ## ‘Population collapse’ makes AI productivity gains vital, says top Meta executive
 Alex Schultz tells FT’s Future of AI summit that falling birth rates mean AI will be needed to support dwindling numbers of people
@@ -39,38 +45,29 @@ Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but 
 ## Anthropic is an opportunity to rethink IPO rules
 To protect retail investors, we should stop permitting the deferral of stock-based employee compensation costs
 
-## Gibson Dunn in talks to hire 120 lawyers from Weil as firm dissolves
-Move follows unravelling of near-century-old law firm following talent exodus
+## US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say
+Democrats seized ⁠control of both the Senate and House of Representatives, scoring sweeping victories in Republican strongholds for the first time in generations
 
-## FirstFT: Blue wave sweeps US
-Also in today’s newsletter: Iran war and Qatar’s US LNG purchases
+## Central cyber security agency warns banks, fintech firms of AI-powered frauds
+Attackers delete records and attempt to conceal their activities
 
-## Starling Bank chief to step down after just two years
-UK digital bank steps up succession planning after Raman Bhatia told board he no longer wanted to run fintech
+## New entrants eat into SIP inflows of listed Mutual funds
+The monthly SIP inflows of ICICI Prudential AMC peaked to ₹5,104 crore in March quarter and dipped to ₹4,872 crore in June quarter and further to ₹4,672 crore in September quarter
 
-## CEOs commit $400 billion on India’s clean energy push: Pralhad Joshi
-Govt will examine investment proposals, says Minister
+## US optimism fuels Nifty’s strongest 5-day rally in seven months
+Benchmark closes above 200-DMA for first time since August; broader markets outperform amid strong FII inflows
 
-## Mumbai airport plans to shift all flights on 14 international routes to Navi Mumbai
-MIAL’s proposal faces resistance from foreign airlines over connectivity, competition and unilateral capacity cuts
+## El Nino may keep global rice prices elevated until Q1 2027
+Risk of the current weather even strengthening poses further risks to paddy in South and South-East Asia, say experts
 
-## Gold ETFs attract ₹3,300 crore in Oct as investors go on a buying spree ahead of Diwali
-Assets under management of gold ETFs increased steadily from ₹1.58 lakh crore in April to around ₹1.91 lakh crore in October, reflecting growing investor interest in the category
+## Trade body sees India’s 2026-27 cotton output shrink 14% on dip in area, drought
+Consumption seen flat at 365 lakh bales, while exports and imports are projected to decline over last year
 
-## Recovery of stressed assets: CaaS it, ARCs tell lenders
-Collection-as-a-Service offers lenders recovery support and ARCs fee-based revenue opportunities.
+## NPPA exempts Biodeal’s indigenously developed midazolam nasal spray from price control for five years
+Midazolam 1.25 per cent w/v nasal spray is a prescription rescue medicine used primarily for the emergency treatment of acute repetitive seizures
 
-## Falling fertility rate makes two-child penalties outdated in India, says SC judgment
-‘The foundation of such laws, that is, the fear of overpopulation, has crumbled due to demographic changes in the past few decades’
-
-## Exide Industries Q2 net jumps 75% to ₹386.45 crore
-Price increase, volume growth and cost optimisation enabled EBITDA margin expansion by 270 basis points y-o-y during the second quarter
-
-## MRPL’s Russian crude sourcing touches 32% in Q2FY27
-Russian barrels made up of about 32% of the crude mix during the second quarter of 2026-27 against approximately 28% in Q1FY27
-
-## Sundaram Finance Q2 PAT up 21% at ₹475 crore, Chairman S Viji steps down
-Disbursements in the second quarter up by 28% at ₹10,355 crore
+## SEBI forms working group to review Innovators Growth Platform framework
+The working group will review listing eligibility, investor participation, pricing and disclosure norms to improve capital market access for deep-tech and other innovation-led firms
 
 ## Pistachios vanish from Diwali gift boxes this year as prices double, almonds rise 20%
 Retail prices of pistachios have almost doubled compared with a year ago, driven by supply disruptions associated with the West Asia conflict and a smaller US crop. Almond prices, meanwhile, have climbed around 20%, according to dry fruit processors and importers. At the premium end of the gifting m
@@ -96,29 +93,59 @@ Indian equities are already contending with a range of domestic market pressures
 ## Sensex climbs 288 points, Nifty rises nearly 77 points in early trade
 
 
+## Bengal govt to include Syama Prasad Mookerjee in school curriculum, drop Singur chapter
+The revised syllabus will place greater emphasis on the history of the state and its prominent personalities, Barman told reporters.
+
+## Prem Singh Chandumajra quits SAD (Punar Surjit), likely to return to Badal-led party
+Before Chandumajra, several other leaders had earlier parted ways with the SAD (Punar Surjit), which is the breakaway faction of the Badal-led SAD.
+
+## 11 SDRF, fire services personnel missing after rescue boats capsize in Telangana floodwaters
+Three fire personnel went to rescue fishermen, but their boat developed a technical snag, leaving them stranded.
+
+## Delhi Police to reimburse full tuition fee of children of personnel killed in line of duty
+The scholarship amount for students pursuing higher education has also been increased from ₹15,000 to ₹20,000.
+
+## MP high court rejects bail plea of ex-judge Giribala Singh in Twisha Sharma case
+A single bench of justice Ajay Kumar Nirankari heard arguments on October 26 and reserved the order. The order was issued on Wednesday
+
+## Sharad Pawar hospitalised in Mumbai hours after discharge in Pune
+Sharad Pawar was discharged from the Ruby Hall Clinic after two days under medical observation following complaints of pleuritic pain, in Pune on Wednesday.
+
 ## Assam police constable booked for attacking woman, family over dispute: Cop
 A video of the alleged incident later surfaced on social media. On Tuesday evening, Jorhat police shared screenshots of a social media post
 
 ## Bengal police seize ₹1.02 crore from party office in land grab case involving Abhishek Banerjee aide
 Police seized ₹1.02 crore from a political party’s office in Sarisha during a land grab probe involving Abhishek Banerjee’s aide Sumit Roy.
 
-## CM Vijay presents gold necklace to Class 12 first rank holder in Tamil Nadu
-Vjay urged students to prioritise education, avoid corruption and drugs, and work towards achieving their ambitions.
+## Pendency at Delhi Forensic Science Laboratory down 79% in a year
 
-## Goa police inspector among two arrested in minor’s sexual assault case at Cyber Crime Police Station
-Inspector Vikas Deykar and Rajani Palekar were arrested after a minor alleged that she was asked to undress, touched inappropriately during visits to the police station
 
-## PM Modi speaks to Chandrababu Naidu as two cyclones cause ₹4,906 crore damage in Andhra Pradesh
-Prime Minister Narendra Modi on Wednesday spoke to Andhra Pradesh chief minister N Chandrababu Naidu to review the situation in cyclone-hit areas of the state
+## 50% WFH cap kicks in today, Gurugram firms expand hybrid work
 
-## Ex-India hockey captain MM Somaya says 1980 Olympic Gold stolen in Bengaluru home burglary
-The gold medal, which MM Somaya won as part of the Indian team at the Moscow Olympics, was stolen along with three other international sporting medals.
 
-## Three killed in gunfight between suspected NSCN-IM and ZUF-J cadres in Manipur’s Noney district
-Three people were killed in a gunfight between suspected NSCN-IM and ZUF-J cadres in Manipur’s Noney district, while a passenger vehicle came under fire in Ukhrul.
+## At Sangrur rally, Pargat Singh pitches for 2027 comeback, Channi draws loud cheers
 
-## Mahadev betting app co-founder Ravi Uppal arrested in Dubai days after Sourabh Chandrakar’s extradition from Oman
-Officials said they are trying to gather more information through proper channels and accelerate the proceedings for his extradition.
+
+## Consider admitting students who graduated under 4-yr UG course in PG 2nd year: HC to Delhi University
+
+
+## Rampant India crush South Korea 8-1, set up title clash against Japan
+
+
+## At Sangrur rally, Rahul Gandhi sounds poll bugle, slams Bhagwant Mann, BJP over drugs
+
+
+## Netanyahu vs Eisenkot: Who will be Israel’s next PM? What’s happening?
+
+
+## Indian ships exempt from Hormuz curbs: What Iran wants in return
+
+
+## Latest award confirms EuroEyes International as market leader
+[The content of this article has been produced by our advertising partner.] By recently winning the prestigious Zeiss Award for the 10th consecutive year, EuroEyes International has once again been recognised for its pioneering work and, in particular, for performing the highest number of trifocal l
+
+## Democrats’ midterm triumph sends US stocks soaring, but Tesla, SpaceX fall
+US stocks rose after markets opened on Wednesday following the Democrats’ crushing victory in the US midterm elections, as the convincing result lifted some of the political uncertainty hanging over Wall Street. The S&P 500 opened 1.1 per cent higher at 9.30am local time, while the Dow Jones Industr
 
 ## How Democratic sweep could slow AI growth in US – and help China’s ambitions
 The Democratic Party’s sweeping midterm election victory and takeover of both houses of Congress could slow down the pace of artificial intelligence development in the US, with implications for both the global AI trade and the technology rivalry between Washington and Beijing, analysts said. The ass
@@ -138,35 +165,29 @@ Shanghai-listed Wingtech Technology has rejected a restructuring proposal under 
 ## 2 cancer drugs from Li Ka-shing-backed Sequencio garner global attention
 Two cancer vaccines from Hong Kong-based Sequencio Therapeutics have been selected for presentation at a major US conference, as companies bet on therapies based on ribonucleic acid (RNA) to deliver breakthroughs in cancer treatment. Sequencio, a subsidiary of Li Ka-shing-backed CK Life Sciences, sa
 
-## Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up
-Chinese tech giant Tencent Holdings has rolled out its latest flagship artificial intelligence model, Hy4, seeking to challenge top open-weight rivals with enhanced agentic capabilities built to power its enterprise software ecosystem. Released on Wednesday, the large language model (LLM) introduced
+## U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?
+Where the disputed territory stands as the 35-year-old U.N. mission comes to an end.
 
-## Chinese firms’ third-quarter dividend growth lags global average amid market slump
-Chinese listed firms’ third-quarter dividend payments lag behind the global average, according to a report by Capital Group, throwing doubt over the effectiveness of Beijing’s ongoing stock market stabilisation plans. In China, dividends only rose 5.3 per cent on a core basis in the third-quarter, c
+## Democrats Won Big in the U.S. Midterms. What’s Next?
+Ending the Iran war, reducing grocery costs, and investigating alleged corruption are all on the left’s to-do list.
+
+## Vance Blames Iran War for GOP Midterms Wipeout
+In a stunning statement, the U.S. vice president veered sharply from Trump’s defense of the war.
+
+## For Ukrainians, U.S. Midterm Results Bring Some Hope
+But as winter approaches, their focus is on meeting basic needs.
+
+## Trump’s Next Trade War Could Be With Congress
+Trump’s tariffs are unpopular, and lawmakers want to claw back their authority.
 
 ## Where Democrats Can Thwart Trump’s Foreign Policy
 From the Iran war to boat strikes to Ukraine, Democrats now have powerful leverage.
 
-## U.S. Democracy Is Back—Sort Of
+## U.S. Democracy Is Back—Sort of
 Trump suffered a major rebuke, but it’s going to be a brutal two years.
 
-## Democrats Have a Historic Opportunity to Remodel Capitalism
+## Democrats Have a Historic Opportunity to Rethink Capitalism
 The model actually exists. Politics just needs to catch up.
-
-## The Beginning of the End of Trumpism
-What the mass disapproval of U.S. voters means for the world.
-
-## Why Are Indonesians Dying in Ukraine?
-Russian recruitment tactics on social media are similar to those used by scam center criminals.
-
-## Iran Strikes and Israel Aid Cuts Shake Up Election Day
-Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.
-
-## Chinese AI Stocks Are Slumping, Too
-The correction is less painful for Chinese firms but reflects broader economic headwinds.
-
-## China Won’t Bail Out Trump’s Lost War
-Beijing is walking careful lines on Iran.
 
 ## With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists
 An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.
@@ -192,6 +213,12 @@ China’s interests in the Middle East increasingly conflict with Iran’s coope
 ## Indonesia’s Navy Is Growing. Is Its Combat Power Keeping Up?
 While fleet size is an important measure of operational capacity, a lot depends on how effectively new platforms are equipped, operated, and integrated.
 
+## Why Are Wars Increasingly Difficult to End?
+The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senio
+
+## The Army’s Command-and-Control Reboot
+How the Army makes decisions, communicates orders, coordinates forces, and keeps operations moving toward a common goal is undergoing a revolution. It’s called Next Generation Command and Control. Two of its architects — Lt. Gen. Matthew W. McFarlane, commanding general of I Corps, and Maj. Gen. Pat
+
 ## The G.I. and the Paperback: A World War II Love Story
 On June 5, 1944, as soldiers lined British shores, preparing for their perilous journey to the beaches of Normandy, Special Services units handed out comfort items, from packs of cigarettes to candy. But one item was more sought after than any other: books. Crouched on the crowded decks awaiting Eis
 
@@ -209,12 +236,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## The Pentagon-Silicon Complex and the Rise of the Neo-Primes
 What happens when the military depends on technologies it doesn’t own? Sharon Weinberger, the new editor-in-chief of the Bulletin of the Atomic Scientists, stops by the studio to discuss her book, Valley of Death: How Big Tech Is Fueling the Future of War. She delves into the Pentagon’s disputes wit
-
-## What Israel’s Election Results Mean for the Middle East and Beyond
-Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu’s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government with Net
-
-## What’s a Revolution in Military Affairs Good For?
-For decades, militaries have chased the next revolution in warfare. But what actually makes a revolution in military affairs revolutionary? Is there one happening now? Does it matter? Is it just about drones and AI or something more? Ryan digs into the promises, pitfalls, and persistent myths of mil
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -240,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump loses control of Congress
-Democrats have made historic gains in the US midterms, dealing a major setback to President Donald Trump.
+## US midterm election results live: Trump blames Iran war after losses
+A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
 
-## Why is the western US still counting votes after election day?
-Why is the western US still counting votes after election day?
+## Democrat leaders hail midterm election success
+The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.
 
-## Yemeni government forces claim control of strategic al-Jawf mountain range
-The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.
+## Ukraine raises death toll from Russian strike on Zaporizhia to 40 people
+Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.
 
-## How big is the Republican midterms loss, and is there a silver lining?
-The Republicans haven't been this weakened in Congress since 1990, but they did have some wins.
+## Will the US resume its attacks on Iran?
+Tehran says it's ready with a maximum deterrence plan.
 
-## Spanish Transport Minister resigns over train crash disasters
-Spanish Transport Minister resigns over train crash disasters
+## Iranians celebrate Democrat victory in US midterms
+US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.
 
-## Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity
-Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.
+## Democratic progressive wing notches win in California Central Valley
+Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.
 
-## Gaza volunteer Adam Hamawy wins historic US Congress seat
-Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.
+## Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win
+Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.
 
-## Jerusalem Daily: Mass arrests across occupied West Bank
-Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.
+## WHO approves trials for two new Ebola vaccines
+Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
