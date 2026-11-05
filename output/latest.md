@@ -1,70 +1,82 @@
 # AION Intelligence
 
-## ‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat
-Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats
-
-## FirstFT: Republican infighting erupts after landslide midterms defeat
-Also in today’s newsletter: wiretapping scandal rocks Indonesia and Oracle cancels $7bn Tencent AI deal under Trump pressure
-
-## Vance blames Iran war for crushing Republican midterms defeat
-Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict
-
-## US stocks post best day since August after Democrats sweep midterms
-Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom
-
-## ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump
-Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat
+## Rheinmetall cuts sales forecast after delays to armoured vehicle megadeal
+Boxer order delay is fresh setback for German defence group
 
 ## Oil tumbles below $100 on post-election peace hopes
 US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war
 
-## How Democrats pulled off the blue wave in maps and charts
-Party on track for largest swing in their favour in House elections in more than 75 years
+## China’s ‘swarm’ strategy for the space race
+Beijing has fostered a new national champion in LandSpace
 
-## Impeachments, Iran and the presidency: what’s next after the midterms?
-A sweeping victory for Democrats has started a jostle for presidential hopefuls
+## Markets surf the blue wave
+Clarity is good
 
-## Copper is booming but not everyone is striking gold
-As selling prices soar, the red metal frenzy favours miners over smelters
+## Toyota shares soar 17% on strong US hybrid demand
+World’s largest carmaker raises annual outlook after posting its first profit increase in six quarters
 
-## China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn
-Committee chair Liam Byrne says failure to diversify supplies continues to pose significant risks to Britain’s future security
+## Hong Kong sentences democracy activist Joshua Wong to 10 years
+Second security law penalty pushes expected release date to 2036
 
-## Trump diesel deal with Russia falters as US fuel supplies hit 20-year low
-Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support
+## France urges EU to adopt higher fast fashion levy
+Also in this newsletter: Belgium pushes ahead with vote on controversial migration powers
 
-## Gates says Trump inaction leaves world exposed to AI bioweapons
-Billionaire Microsoft co-founder tells FT’s Future of AI Summit that AI could lead to pandemic ‘significantly worse than Covid’
+## FirstFT: Democrats look to reshape America
+Also in today’s newsletter: Russia-Iran ties and UK inflation
 
-## CVS Health to break up $102bn healthcare empire
-Spin-off of roughly 9,000 drugstores comes as political pressure mounts on pharmacy benefit managers and health insurers
+## Taiwan’s chipmakers shine brightest in living memory
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## Sequoia shuts London office as VC firm refocuses on Silicon Valley
-Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry
+## FTAV’s further reading
+The afterlife of pi; cybersecurity hell; bank supervision; bagel queen; dragon sex
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Usha Martin (₹486) – BUY
-Sensex, Nifty, Share Prices Live: Usha Martin share price can rise to ₹550
+## Asian tech stocks slide on post-midterm AI fears
+Concerns mount that Democratic control of Congress will slow data centre build-out
 
-## CERT-In flags high-severity security vulnerabilities in Tata Motors’ iRA connected vehicle apps
-The cybersecurity agency has identified four security flaws and advised customers using affected versions to upgrade their applications immediately
+## Wall Street after the anti-Trump tsunami
+Here’s what the US midterm elections mean for the AI supply chain and dealmaking
 
-## Visa policies remain uncertain for Indian IT firms
-Greater regulatory scrutiny of AI investments and more oversight of visa policies likely
+## Nifty crosses 24,500, Sensex gains 2,070 points as crude extends slide; Bajaj finance leads rally
+A total of 117 stocks hit 52-week highs against 60 touching 52-week lows, while 213 stocks were locked in upper circuits and 152 in lower circuits, indicating strong but not entirely uniform breadth.
 
-## US sanctions India-based couple, companies accused of helping Iran’s shadow fleet
-Washington said the network provided false maritime identities and certifications to vessels transporting Iranian petroleum, helping them circumvent international restrictions
+## Zoho Analytics eyes 20% customer growth; targets enterprise segment
+The business intelligence platform is expanding beyond dashboards and data visualisation to AI-powered workflows, while targeting larger enterprise customers.
 
-## India proposes immediate suspension of drug manufacturing licences over quality failures
-The proposed changes seek to prevent substandard medicines from remaining in circulation while manufacturers address quality failures and regulatory concerns
+## Delhi-NCR work-from-home order has little impact as traffic snarls persist
+Nineteen Delhi monitoring stations recorded air quality levels of 400 or above, while neighbouring cities reported varied pollution readings on Thursday
 
-## Trump admits Iran war hurt Republicans in midterm polls but says he would ‘do it again’
-The US President defended his military campaign against Tehran, maintaining that preventing Iran from acquiring nuclear weapons justified the costs
+## Q2 Results Today Live: M&M, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Bharti Airtel, LIC, Titan, ONGC, Samvardhana, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results
+Q2 Results Today, 05th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say
-Democrats seized ⁠control of both the Senate and House of Representatives, scoring sweeping victories in Republican strongholds for the first time in generations
+## Sensex today | Stock Market Live: Sensex leaps 2,100 pts, Nifty tops 24,550; Bajaj Finance leads gainers
+Sensex, Nifty, Share Prices Live: Markets surged to their strongest session in months by early afternoon on Thursday, with the Sensex climbing 2,070 points, or 2.68 per cent, to 79,371.40 and the Nifty 50 rising 596.20 points, or 2.49 per cent, to 24,556.80 as of 2 pm, as crude oil prices extended t
 
-## Central cyber security agency warns banks, fintech firms of AI-powered frauds
-Attackers delete records and attempt to conceal their activities
+## Mahindra & Mahindra Q2 FY27 net profit rises 25% to ₹4,588 crore
+Consolidated revenue reaches ₹57,553 crore in the September quarter, driven by strong SUV sales and a 55% rise in automotive segment profit.
+
+## SPIC Q2 consolidated net profit falls 23% to ₹47 crore despite 22% revenue growth
+Rising input costs put pressure on margins and profitability, the company said.
+
+## Today’s Gold Rate in India November 5: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices up across other cities on November 5
+
+## Rs 35 lakh cash, other agents' names on policies: Insurance agent gets tax notice
+The insurance agent in the case deposited Rs 35 lakh in cash into his bank account. The department classified the amount as “unexplained money” and sought details of its source. The man maintained that the cash was not his personal money but represented insurance premiums collected from customers wh
+
+## Sensex jumps 2,000 points, investors gain Rs 8 lakh crore: Top reasons for rally
+Dalal Street witnessed a major surge as Sensex soared over 1,600 points and Nifty50 gained 2%. This rise in the market was supported by a decline in crude oil prices and returning foreign investor interest. The US midterm election results also contributed positively to market sentiment globally. Bro
+
+## Fireworks on Dalal Street: BSE Sensex soars 1,700 points, NSE Nifty50 gains 2%
+
+
+## What is the gold price prediction for Dhanteras week? Check outlook on November 5, 2026
+Gold and silver price prediction today: MCX Gold has rebounded from its recent lows following the market's reaction to the US Midterm Election results. Prices have managed to sustain above the long-term support zone formed by previous swing lows, which has been sustained since January 2026. Gold is 
+
+## Gold, silver lose shine ahead of Dhanteras: Buy now, wait or invest in something else?
+As Dhanteras nears, Indian consumers are closely monitoring the recent drop in gold and silver prices, scrutinizing how this volatility might influence future values. Financial experts advise buyers to assess their personal needs and investment objectives before making any purchases. With more price
+
+## Crude crashes below $100: Brent, WTI hit over two-month lows after midterm elections
+Oil prices experienced a notable downturn, with Brent crude slipping below $95 and WTI declining beneath $90. This trend follows substantial losses from earlier sessions, influenced by the political shifts stemming from the US midterm elections. The election results could reshape President Donald Tr
 
 ## Ficci seeks exemption from LTCG for listed shares
 
@@ -72,95 +84,53 @@ Attackers delete records and attempt to conceal their activities
 ## Oil's slide lifts rupee, gold up 3%
 
 
-## Sensex on a bull run: Rises 4k pts in 5 days
+## Cyclone Murasu impact subsides across Andhra
+Cyclone Murasu impact subsides across Andhra
 
+## JD(U) welcomes two-year extension for Agniveers, calls it 'wonderful Diwali gift'
+JD(U) welcomes two-year extension for Agniveers, calls it 'wonderful Diwali gift'
 
-## Immigration debate tone may change
+## ‘Parliament is supreme forum’: Amit Shah counters Rahul Gandhi’s public debate call, accuses Congress of disrupting proceedings
+Amit Shah asserted that Parliament is the supreme forum for democratic debate and criticised Rahul Gandhi for taking political confrontations to the streets.
 
+## Bengal BJP government appoints neonatologist Arun Kumar Singh as advisor
+Neonatologist Arun Kumar Singh, known for his work in newborn care during Covid-19, has been appointed advisor to the BJP-led Bengal government for two years.
 
-## Cabinet nod for Rs 2,814 cr plan to support critical mineral processing
+## Two women arrested with 10 kilograms of marijuana from Gaya airport
+A joint team of customs and Central Industrial Security Force (CISF) personnel arrested them when they arrived from Thailand at the Gaya Airport on Wednesday
 
+## Must give JNU prof 7 days’ notice before arrest in sexual harassment case: Court
+The case stems from complaints by 16 students in May this year, who alleged that the professor made inappropriate remarks with sexual connotations during viva exams
 
-## Pistachios vanish from Diwali gift boxes this year as prices double, almonds rise 20%
-Retail prices of pistachios have almost doubled compared with a year ago, driven by supply disruptions associated with the West Asia conflict and a smaller US crop. Almond prices, meanwhile, have climbed around 20%, according to dry fruit processors and importers. At the premium end of the gifting m
+## Centre proposing parity in mineral taxation, states’ rights to remain intact: Union Mines Secretary
+Centre proposing parity in mineral taxation, states’ rights to remain intact: Union Mines Secretary
 
-## What Trump defeat could mean for Indian H-1B visa holders, Russian oil & trade deal
-Trump's Republican Party suffered major defeats in its strongholds, including Texas, Georgia and Iowa, losing the governors' offices to Democratic candidates. Trump’s policies are being blamed by many as the reason for the loss - with tariffs and inflation in focus. The results are expected to have 
+## CBI seeks Chandrakar’s custody to identify Chhattisgarh officials who received money
+The CBI alleged that Chandrakar and associates secured the protection of police and administrative officials
 
-## Why you could an income tax notice & how you should handle it
-The Income Tax Department now receives automatic, continuous data feeds directly from banks, stockbrokers, mutual fund registries, and property offices. When central algorithms spot even a minor formatting difference or missing line item between your filed return and these external feeds, a notice i
+## China’s appliance queen on her firm’s quest for greener cooling, and going global
+Dong Mingzhu chairs Gree Electric Appliances, a home-appliance giant based in southern China’s Guangdong province. Having worked her way up from a frontline sales job, she is one of China’s best-known figures in manufacturing. As a deputy to the National People’s Congress, she has long advocated for
 
-## Digital traffic simulation model, road safety audit for 2,205km of Delhi roads
-Traffic congestion in Delhi has been increasing, with even stretches that earlier experienced smooth traffic movement now witnessing frequent bottlenecks
+## US asset manager Federated Hermes opens Hong Kong office to tap China’s tech rise
+US asset manager Federated Hermes has opened its office in Hong Kong, after two years of preparation, joining a wave of international financial giants competing for growth in the Asia-Pacific region. The company, which managed US$884 billion worth of assets as of September, considered a Hong Kong of
 
-## RSS to be expanded into 88 regional units: Dattatreya Hosabale
-General secretary Dattatreya Hosabale says the organisation has expanded to 103,397 locations nationwide, with a 150% rise in shakhas in West Bengal.
+## CSRC requests further tax records from Hong Kong IPO applicants amid tighter oversight
+China’s securities regulator has ordered three Hong Kong initial public offering (IPO) applicants to submit additional documentation amid an intensifying crackdown on tax compliance. The China Securities Regulatory Commission (CSRC) said it has asked Fujian Senda Electric, a Fuzhou, Fujian province-
 
-## 'Policies need to be in tune with reality': Supreme Court calls for fresh look at 2-child norms amid decline in fertility rate
-The court cited India's declining fertility rate, which fell to 1.9 in 2024, and warned of the long-term consequences of an ageing population.
+## China stocks extend rebound on state support, US midterm results
+Chinese stocks extended their rebound for a second day on Thursday, as state support gained momentum and a Democratic landslide victory in the US congressional election removed an overhang capping risk appetite. The CSI 300 Index rose 0.3 per cent to 4,113.41 at the close, extending a 2.3 per cent g
 
-## Armed forces need a balance of youth, experience: Chief of Defence Staff
-The shift from releasing 75% of Agniveers after four years to retaining all of them for full-term service marks a sharp departure from the original plan.
+## Physiotherapist’s clinical mindset shapes approach to managing business and wealth across borders
+For Dinesh Verma, managing risk begins long before a problem becomes visible. It is a principle that has guided his work as a physiotherapist, his decision-making as an entrepreneur and, increasingly, his approach to managing his wealth. Originally from India, Verma moved to Singapore in 1989 to wor
 
-## Election Commission of India to launch major voter enrolment drive in UP on Nov 12
-ASHA workers, anganwadi staff and educational institutions will help identify eligible women and young people missing from the electoral rolls.
+## Redefining Investment Advisory in the Age of AI
+[The content of this article has been produced by our advertising partner.] A generation ago, a Hong Kong retail investor might have checked the closing prices in the morning paper and phoned a broker to place a trade. Today, 95 per cent of the city’s stock investors trade online, and nearly two-thi
 
-## Bengal govt to include Syama Prasad Mookerjee in school curriculum, drop Singur chapter
-The revised syllabus will place greater emphasis on the history of the state and its prominent personalities, Barman told reporters.
+## Chinese banks explore local e-CNY wallets for foreign firms via upgraded platform
+Beijing is expanding its central bank-backed digital currency network to offshore institutions, including Hong Kong branches, while banks are also exploring local e-CNY wallets for foreign firms to deepen cross-border integration. “We currently have 30 domestic banks as e-CNY operators. Right now we
 
-## Prem Singh Chandumajra quits SAD (Punar Surjit), likely to return to Badal-led party
-Before Chandumajra, several other leaders had earlier parted ways with the SAD (Punar Surjit), which is the breakaway faction of the Badal-led SAD.
-
-## 11 SDRF, fire services personnel missing after rescue boats capsize in Telangana floodwaters
-Three fire personnel went to rescue fishermen, but their boat developed a technical snag, leaving them stranded.
-
-## Israel Election Results 2026 LIVE Updates: Israel vote results confirmed as election commission rejects fraud claims
-
-
-## 40 years ago November 5, 1986: Grilling in Parliament
-
-
-## Tax cuts are a temporary fix for capital flows
-
-
-## How the US midterm results reflect the Constitution’s distrust of majorities
-
-
-## Three steps COP should take for tangible outcomes
-
-
-## The better angels of democracy have asserted themselves in America
-
-
-## US course corrects and signals Peak Trump is over
-
-
-## Mogging’s the word but the cat need not worry
-
-
-## Why Hong Kong wealth managers want broader access to mainland China’s Nasdaq-style markets
-Most asset managers in Hong Kong expect broader access to mainland China’s two Nasdaq-style stock markets to strengthen the city’s private wealth business, an industry survey shows, as hard-tech firms continue to attract investors despite a recent pullback. The report, released by the Private Wealth
-
-## Could Shanghai project smooth indebted New World’s path to cash?
-New World Development’s recent announcement that its Shanghai K11 Elysea office project has reached an occupancy rate of about 80 per cent may pave the way for the indebted group’s next securitisation exercise, analysts say, adding that it could generate 100 million yuan (US$15 million) in annual ne
-
-## Latest award confirms EuroEyes International as market leader
-[The content of this article has been produced by our advertising partner.] By recently winning the prestigious Zeiss Award for the 10th consecutive year, EuroEyes International has once again been recognised for its pioneering work and, in particular, for performing the highest number of trifocal l
-
-## Democrats’ midterm triumph sends US stocks soaring, but Tesla, SpaceX fall
-US stocks rose after markets opened on Wednesday following the Democrats’ crushing victory in the US midterm elections, as the convincing result lifted some of the political uncertainty hanging over Wall Street. The S&P 500 opened 1.1 per cent higher at 9.30am local time, while the Dow Jones Industr
-
-## How Democratic sweep could slow AI growth in US – and help China’s ambitions
-The Democratic Party’s sweeping midterm election victory and takeover of both houses of Congress could slow down the pace of artificial intelligence development in the US, with implications for both the global AI trade and the technology rivalry between Washington and Beijing, analysts said. The ass
-
-## Chinese exporters see respite as Beijing curbs yuan rise amid looming record surplus
-The People’s Bank of China’s (PBOC) intervention to raise the foreign exchange reserve requirement ratio amid the yuan’s sustained rally has delivered a reprieve for China’s broader export sector, as the measure is expected to partly ease appreciation momentum driven by the country’s enormous trade 
-
-## ‘The race is on’: Swiss bankers nod to Hong Kong’s prowess as wealth hub
-Swiss private banking executives have acknowledged Hong Kong’s growing prominence as a global cross-border wealth-management hub, as geopolitical tensions prompt wealthy clients to diversify not only their investments but also where their assets are held. “The race is on,” said Giorgio Pradelli, CEO
-
-## US midterm blue tsunami jolts Asian markets as tighter AI, fiscal scrutiny looms
-Follow the SCMP’s live coverage here A comprehensive victory for the Democrats in the US midterms has jolted asset classes from stocks to bonds and commodities in Asia, as investors expect the US Congress to tighten scrutiny over the AI industry and government spending. Stocks in the region closed m
+## Diversification and flexibility key to investment in challenging times
+[The content of this article has been produced by our advertising partner.] Many indicators have highlighted Hong Kong’s growing pre-eminence as an international financial centre, including the “World Ultra Wealth Report 2026”1 – published in June by the New York-based wealth intelligence firm Altra
 
 ## Americans Care About Foreign Policy. Now Democrats Must Listen to Them.
 Here’s what Congress can actually do in the next two years.
@@ -210,6 +180,9 @@ Pakistan announced that Taiwanese airlines would not be allowed to fly over the 
 ## Opium Is Back in Afghanistan
 The resurgence of opium in Afghanistan is more than a statistical reversal.
 
+## Who Repairs the Internet in Wartime?
+In spring 2026, Britain, Norway, and the United States tracked and disrupted a covert Arctic exercise off the coast of Norway involving Russian deep-sea submersibles simulating the deployment of a weapon designed to disable the two 1,400-kilometer submarine cables linking the islands of Svalbard to 
+
 ## Why Are Wars Increasingly Difficult to End?
 The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senio
 
@@ -230,9 +203,6 @@ Frontier AI systems are beginning to test the limits of human oversight, while t
 
 ## Corruption in the Crosshairs: The Debate Over Transparency and Saving Face
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
-
-## The Pentagon-Silicon Complex and the Rise of the Neo-Primes
-What happens when the military depends on technologies it doesn’t own? Sharon Weinberger, the new editor-in-chief of the Bulletin of the Atomic Scientists, stops by the studio to discuss her book, Valley of Death: How Big Tech Is Fueling the Future of War. She delves into the Pentagon’s disputes wit
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +228,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Africa’s richest man launches mega oil tank farm in Namibia
-Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.
+## Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail
+Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.
 
-## Ohio’s voters tell Republicans: don’t take us for granted
-Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.
+## South Korea plans to expand anti-piracy operations closer to Hormuz Strait
+Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.
 
-## Democrats won Congress. But can they deliver on their promises?
-Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.
+## Ten years of the Paris Agreement: Has the world kept its climate promises?
+Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.
 
-## Historic firsts redraw US political map in 2026 midterm elections
-The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.
+## Germany’s Merz expects Trump to keep ignoring Congress
+German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.
 
-## Iran war live: Trump says war caused election wipeout but he ‘had to do it’
-President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'.
+## Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens
+Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.
 
-## Who gets to vote in the US?
-Tati Abu King lost his voting rights after felony convictions.
+## Guinness World Record broken as 53 red cards shown in Brazil under-20 match
+Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.
 
-## Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say
-Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.
+## New Zealand braces for knife-edge election: What you need to know
+Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.
 
-## Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally
-A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran
+## Has India’s democracy failed its Muslims? Jailed scholar triggers debate
+Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.
+
+## SEBI revisits startup listing rules after IGP fails to gain traction
+18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
+
+## Big FMCG companies outgrow market as smaller rivals get squeezed by costs and slowing rural demand
+India's fast-moving consumer goods sector has experienced a slowdown in volume growth amid rising costs. Rural demand has weakened, impacting smaller regional manufacturers while larger companies thrive. Hindustan Unilever, Marico, and other major firms reported robust growth figures. Smaller player
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
@@ -300,11 +276,11 @@ A succession dispute concerning the Venu Srinivasan family has emerged, affectin
 ## CII calls for GST-like reforms in land, labour & local approvals
 CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across diff
 
-## Noel Tata seeks board scrutiny of SP Group's Rs 25,000 crore exit plan, Tata Sons restructuring
-Noel Tata has asked the Tata Sons board to examine Shapoorji Pallonji Group's Rs 25,000-crore funding proposal through a capital reduction and separately evaluate Tata Trusts' restructuring plan to preserve the holding company's unlisted status. Both proposals are slated for discussion at the Novemb
+## Sebi eases KYC norms for NRIs, OCIs; allows digital onboarding
+Sebi has introduced new KYC relaxations for individuals living abroad, allowing them to complete onboarding digitally if they are from FATF-compliant nations. This updated regulation, effective December 3, aims to simplify compliance for non-resident clients. Additionally, the new framework includes
 
-## Jio Lists India Story on Global Map
-It took Reliance Industries decades to build a business valued at around Rs 16 lakh crore. Jio Platforms, meanwhile, reached a market capitalisation of more than Rs 13 lakh crore in barely a decade. Following its stock market debut on October 28, Jio became India’s second most valuable listed compan
+## Trump's midterm setback may put India under pressure for quick trade deal on US terms: GTRI
+Amid electoral challenges, US President Donald Trump is likely to ramp up pressure on India to seal a trade deal. This potential agreement would require India to decrease import tariffs on US goods while the US keeps its tariffs intact. Analysts caution that such an arrangement may breach WTO MFN pr
 
 ## RBI sets up Technical Consultative Committee for Financial Markets
 The Reserve Bank has constituted a Technical Consultative Committee for Financial Markets (TCCFM), headed by RBI Deputy Governor Rohit Jain, against the backdrop of rapidly evolving financial markets and market infrastructure.
@@ -323,10 +299,4 @@ In an effort to advance their free trade agreement, India and the European Union
 
 ## American companies brace for a pivot as US midterm elections get underway
 US midterms: Corporate America is anticipating a potential shifts in Washington's power dynamics. Analysts predict that a strong Democratic showing could benefit sectors such as clean energy, housing and healthcare. Conversely, AI and defence stocks may face increased scrutiny from lawmakers.
-
-## SEBI proposes scrapping LTCG tax for foreign investors, seeks relief for mutual fund investors: Report
-The Securities and Exchange Board of India (SEBI) has recommended removing long-term capital gains (LTCG) tax on foreign investors and proposed tax relief for domestic mutual fund investors, as the regulator seeks to improve the attractiveness of Indian equity markets and encourage investment, accor
-
-## Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31
-The Securities and Exchange Board of India (Sebi) has granted an extension until January 31 of the coming year for regulated entities to comply with digital accessibility standards. This decision, prompted by requests from market participants, aligns with the Rights of Persons with Disabilities Act,
 
