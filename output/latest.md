@@ -1,46 +1,61 @@
 # AION Intelligence
 
-## Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears
-Investors fear newly elected politicians up and down the US will seek to slow data centre development in blow to tech stocks
+## Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout
+Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading
 
-## La Bola Negra — love, loss and Lorca coalesce in an Oscar-tipped Spanish civil war epic
-One of the playwright’s unfinished works drives a multi-stranded film spanning tragedy, buried gay history and a Penélope Cruz cabaret
+## Job adverts will have to publish salaries, ministers say
+Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’
 
-## Manchester developer ordered to pay £46.5mn cost of post-Grenfell repairs
-Property tribunal rules that Urban Splash should pay bulk of bill to fix safety defects at seven of its blocks in the city
+## Nearly 600,000 join latest protests in France
+Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September
 
-## Blue Origin delays launches until 2027
-Jeff Bezos’s rocket company slips further behind Elon Musk’s SpaceX following devastating explosion
+## Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’
+Unpredictable electorates can lead to overcorrecting after presidential elections
 
-## The midterms have already cost Musk almost $120bn
-🎻
+## FirstFT: Wall Street sheds $3.2tn as Democratic midterm landslide upends AI bet
+Also in today’s newsletter: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division and Blue Origin delays launches until 2027
 
-## Germany appoints soldier with close ties to Ukraine as armed forces chief
-Christian Freuding will take charge of Bundeswehr as it undergoes vast transformation
+## Los Angeles elects democratic socialist Nithya Raman as mayor
+Win follows Zohran Mamdani’s rise in New York and resounding victories by other progressives in Washington and Providence
 
-## European stocks overtake Wall Street following Democratic sweep
-Stoxx 600 index ahead of S&P 500 for this year as US stocks tumble and investors bet White House policymaking will be constrained
+## Will Democrats stall the AI boom?
+Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets
 
-## Rheinmetall shares fall 17% as it cuts sales forecast after deal delay
-Boxer armoured vehicle order delay is fresh setback for German defence group
+## Wall Street mega-donors clobbered by Democratic sweep
+Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect
 
-## German government close to buying half of tank maker KNDS
-The agreement likely to be finalised this week does not preclude a future flotation of Franco-German group
+## Hedge fund Walleye hands back capital as it slims down equity business
+Multi-strategy fund with $17bn in assets tells clients move comes after it endured worst month since coronavirus crisis
 
-## Top private equity dealmaker to quit UK for Greece
-BC Partners’ Nikos Stathopoulos to relocate as Athens targets wealthy investors
+## Tech leaders need an urgent rethink of their political strategy
+America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth
 
-## Renewable energy groups boosted by ‘clarity’ of US election results
-Ørsted among the main gainers from the shift in political backdrop after two years of hostility from the Trump administration
+## Goldman Sachs elevates record number of engineers to coveted partner ranks
+Wall Street bank expands elite cohort as trading and dealmaking boom fuels profits
 
-## AI backlash threatens trillion-dollar data centre boom, say tech leaders
-Executives at FT’s Future of AI summit admit tech industry has fuelled hostility towards its own expansion
+## Bank rate rise ‘puts tracker mortgage trend at risk’
+Most fixed-rate borrowers are cushioned from the impact of this week’s decision but those coming off a five-year deal face a payment shock
 
-## Prices drop at FCI’s wheat sales in major growing States as Indian govt doubles quantity
-Barring Maharashtra, prices declined by Rs 59-344 a quintal this week, when 1.99 lakh tonnes were offered
+## Monzo explores fundraising at £7.5bn valuation as private equity talks stall
+Lender had shifted focus to talks with buyout groups after failing to clinch a £10bn takeover by Brazilian fintech Nubank
+
+## ONGC Q2 profit rises 57% to ₹15,489 crore on higher crude oil realisations
+Higher crude oil realisations boosted earnings, while the state-owned energy major outlined investments to strengthen production and expand future hydrocarbon potential
+
+## Paraguay President Santiago Peña resigns amid ueno bank collapse
+The political crisis intensified after lawmakers raised allegations of financial misconduct and the central bank intervened in the troubled lender
+
+## SEBI forms working group to review Innovators Growth Platform framework
+The working group will review listing eligibility, investor participation, pricing and disclosure norms to improve capital market access for deep-tech and other innovation-led firms
 
 ## Bullish momentum to sustain for Indian stocks on global rally
 Market to cheer FPI returns; focus will be on US and corporate results
+
+## Nifty posts best single-day gain since April, crosses 24,500 for first time in three months
+Bank Nifty outperformed both, surging 1,860.05 points or 3.33 per cent to close at 57,773.65
+
+## Prices drop at FCI’s wheat sales in major growing States as Indian govt doubles quantity
+Barring Maharashtra, prices declined by Rs 59-344 a quintal this week, when 1.99 lakh tonnes were offered
 
 ## Editorial. Green gridlock
 Opposition to pumped storage plants lacks basis
@@ -48,17 +63,11 @@ Opposition to pumped storage plants lacks basis
 ## TN govt joins hands with IIT Madras to create AI Data Centre for the state
 ELCOT and the IITM Pravartak Technologies Foundation have signed a Memorandum of Understanding for the same
 
-## Q2 Results Today Highlights: M&M, NBCC, IPCA Lab, Bharat Forge, LG Electronics, Uno Minda & Amagi Media Q2 profit up, Samvardhana Motherson profit down q-o-q, Bharti Airtel, LIC, Titan, ONGC, Britannia, Prestige Estates, Fortis Healthcare, Abbott to announce Q2 results
-Q2 Results Today, 05th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
+## Mistry questions Noel's eligibility for Bai Hirabai trust
 
-## Festive pours and wedding toasts: Indian liquor makers eye a busy season
-Prowess Advisors says India’s drinks market grows 3–5% by volume, while revenues rise 8–10%, signaling premiumisation
 
-## NPCI says MDR charge imposed to save UPI ecosystem from turning ouroboric
-MDR on P2M transactions above ₹2,000 would apply to only about 4 per cent of merchant activity while keeping P2P and low-value P2M payments free
+## Sensex cheers US polls, jumps 2k to eight-month high
 
-## From militancy to midnight football: South Kashmir’s Anantnag witnesses changing times
-A total of 35 leading football teams participated in the Titans Gold Cup Night Football tournament, making it a major sporting attraction for the area
 
 ## Sensex, Nifty rise over 8% in just 6 sessions as FIIs pour in money; but is the rally sustainable?
 The latest rally has extended the market's winning streak to six consecutive sessions. During this period, the Sensex has gained 6,063.98 points, or 8.27%, while the Nifty has advanced 1,837.75 points, which is an increase of 8%. Despite the recent recovery, the Nifty50 and Sensex remain down 6.1% a
@@ -78,11 +87,8 @@ Michael Mai and his sister, Mai Huixia, reached billionaire status following the
 ## Tata Sons chair Chandrasekaran meets Italy PM Meloni after Iveco takeover
 N Chandrasekaran, the chairman of Tata Sons, recently engaged in discussions with Prime Minister Giorgia Meloni in Rome. Their talks revolved around Tata Motors' strategic acquisition of a controlling interest in Iveco Group. This move aims to enhance Tata Motors' global footprint and refine their m
 
-## Smartphones could get 30% costlier! How AI is driving up prices of your next upgrade
-Rising demand for memory components due to the AI boom could increase the prices of budget smartphones. Jefferies reports that low-end devices may see price hikes of about 30 percent within the next few years. This price increase could lead consumers to postpone upgrades or buy second-hand phones in
-
-## Rs 35 lakh cash, other agents' names on policies: Insurance agent gets tax notice
-The insurance agent in the case deposited Rs 35 lakh in cash into his bank account. The department classified the amount as “unexplained money” and sought details of its source. The man maintained that the cash was not his personal money but represented insurance premiums collected from customers wh
+## Former Supreme Court Justice Rajesh Bindal appointed NCLAT chairperson
+Bindal retired from the Supreme Court on April 15 this year after serving at the top court for over three years.
 
 ## India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch
 Pralay, developed by the DRDO, is a short-range surface-to-surface missile with a payload capacity of 500-1,000 kg.
@@ -105,8 +111,8 @@ In a post on X, Tharoor described Raman as “a daughter of Thiruvananthapuram�
 ## Umar Khalid, Sharjeel Imam move Supreme Court for bail in 2020 Delhi riots case
 Umar Khalid and Sharjeel Imam have approached the Supreme Court for bail, saying protected witnesses are unlikely to be examined before January 5, 2027.
 
-## Two more trekkers’ bodies found, Uttarakhand avalanche toll rises to 6
-Two more bodies were recovered from the Kedartal trek route in Uttarkashi on Thursday, taking the death toll in the October 29 avalanche to six.
+## The AI sell-off is a taste of things to come
+There are good reasons for investors to be bullish about artificial intelligence (AI). The earnings of technology firms in the S&P 500 are expected to increase 54 per cent this year. For the index as a whole, profits will rise 33 per cent, turbocharged by the tech and energy sectors, data from FactS
 
 ## After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?
 Elon Musk bet nearly half a billion dollars that political spending could keep Washington friendly to his sprawling business empire. On Tuesday, that bet came up short. As Democrats recaptured control of the US Congress in the midterm elections, the world’s richest man found himself facing an abrupt
@@ -129,8 +135,17 @@ Oil is headed for its biggest weekly decline since the Covid-19 pandemic after a
 ## China’s appliance queen on her firm’s quest for greener cooling, and going global
 Dong Mingzhu chairs Gree Electric Appliances, a home-appliance giant based in southern China’s Guangdong province. Having worked her way up from a frontline sales job, she is one of China’s best-known figures in manufacturing. As a deputy to the National People’s Congress, she has long advocated for
 
-## US asset manager Federated Hermes opens Hong Kong office to tap China’s tech rise
-US asset manager Federated Hermes has opened its office in Hong Kong, after two years of preparation, joining a wave of international financial giants competing for growth in the Asia-Pacific region. The company, which managed US$884 billion worth of assets as of September, considered a Hong Kong of
+## Hoax Bomb Threats Disrupt Air Traffic Across Europe
+No group has taken responsibility yet. But recent hybrid warfare attacks have the continent concerned.
+
+## The Post-Midterms AI Reckoning
+Tech billionaires spent big, and data centers became a lightning rod.
+
+## What Does Morocco’s First Woman Leader Actually Mean for the Country?
+Fatima Ezzahra Mansouri will have limited power—but her new role is more than just symbolically important.
+
+## Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It
+Calling the Israeli election a deadlock is a misnomer.
 
 ## Americans Care About Foreign Policy. Now Democrats Must Listen to Them.
 Here’s what Congress can actually do in the next two years.
@@ -144,41 +159,29 @@ Where the disputed territory stands as the 35-year-old U.N. mission comes to an 
 ## Democrats Won Big in the U.S. Midterms. What’s Next?
 Ending the Iran war, reducing grocery costs, and investigating alleged corruption are all on the left’s to-do list.
 
-## Vance Blames Iran War for GOP Midterms Wipeout
-In a stunning statement, the U.S. vice president veered sharply from Trump’s defense of the war.
+## Asia’s Debt Handoff: Who Finances the Post-BRI Era?
+As Belt and Road repayments come due and multilateral lenders step in, Asian borrowers must decide whether the new creditor landscape becomes a source of leverage or simply a new form of dependence.
 
-## For Ukrainians, U.S. Midterm Results Bring Some Hope
-But as winter approaches, their focus is on meeting basic needs.
+## The Politics of Pandemic Preparedness: Why South and Southeast Asia Need a Stronger Voice
+The Pathogen Access and Benefit-Sharing annex, currently under negotiation, has profound implications for dependency and health sovereignty in South and Southeast Asia.
 
-## Trump’s Next Trade War Could Be With Congress
-Trump’s tariffs are unpopular, and lawmakers want to claw back their authority.
+## The Naf River Exposes a Gap in Bangladesh’s Maritime Strategy
+The incidents around the Naf River pose an unforeseen threat to Bangladeshi security, one that can't be solved by introducing more warships.
 
-## Where Democrats Can Thwart Trump’s Foreign Policy
-From the Iran war to boat strikes to Ukraine, Democrats now have powerful leverage.
+## Japan Plans New Defense Industrial Strategy to Prepare for Prolonged Conflicts
+Tokyo seeks to boost production capacity for military emergencies and expand defense exports amid growing regional threats.
 
-## North Korea’s State of Play in the Russia-Ukraine War
-Where does North Korea’s involvement in the war stand today – and where might it be headed?
+## The Trump Administration Is Sending Mixed Messages to North Korea
+While President Trump angles for a meeting, the FBI and State Department signal business as usual.
 
-## Kazakhstan Eyes Ambitious 2035 Goal for 2 Nuclear Power Plants
-A deal with China hasn’t been settled yet but still, Astana hopes to complete both its first and second nuclear power plants within a decade.
+## How a Diplomatic Row Ended a Korean Startup’s AI War Test in Ukraine
+Seoul is trying to maintain its support for Ukraine while dealing with a diplomatic dispute with Kyiv. But Newtype Industries, a defense startup in Seoul, says the same dispute has cost the company all of its Ukrainian partners.
 
-## The China-Israel-US Triangle, Then and Now
-Insights from Eyal Propper.
+## The US Midterm Elections: Views From China
+Most Chinese analysts don’t expect a sea change in U.S. foreign policy, but there are some implications for China to consider.
 
-## China Is Defanging the Dollar, Not Dethroning It
-Countries like Russia and Iran can settle transactions using the yuan – but those proceeds remain trapped in China by Beijing's design.
-
-## The Next Phase of Japan-Vietnam Relations
-The question now is whether the two countries can turn their increasingly ambitious partnership into tangible economic and strategic results.
-
-## The Squad and the Quad: 2 Tracks of Security Cooperation in the Indo-Pacific
-The Squad should be understood not as a replacement for the Quad but as an expression of the Indo-Pacific’s increasingly layered security architecture.
-
-## How Some Media Shape Regional Australia’s Hostility to Renewable Energy
-Research traces how partisan outlets link climate-delay narratives, fossil-fuel interests, and audiences, reshaping regional energy debates and public trust.
-
-## Pakistan’s Abrupt (and Aborted) Revocation of Taiwan’s Overflight Privileges
-Pakistan announced that Taiwanese airlines would not be allowed to fly over the country, before abruptly rescinding the change. Is this a new strategy from Beijing?
+## Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President
+Emomali is chair of Tajikistan’s National Assembly, the appointed mayor of Dushanbe, and, oh yes, son of President Emomali Rahmon.
 
 ## The Golden Dome Proposal is Destabilizing and Dangerous
 Editor’s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, “Golden Dome Is Technologically and Financially Infeasible.”Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and spac
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bishara: US election deals a blow to warmongers
-Al Jazeera's senior political analyst Marwan Bishara says the US election is a setback for warmongers.
+## Generation Z and diversity redefine US politics in groundbreaking election
+Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.
 
-## Gaza holds final of tournament honouring more than 1,000 slain athletes
-The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.
+## South Africa’s ANC on track for new lows in local polls
+The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.
 
-## Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision
-Mourners gather in Navahermosa to honour Tenerife player, whose death has united Spain’s football community in grief.
+## Spanish footballer Jesus de Miguel mourned by family and friends
+The 30-year-old striker suffered cardiac arrest following an on-field collision.
 
-## Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing
-A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.
+## Israeli demolitions displace more than 100 Palestinians in Biddu
+Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.
 
-## Photos: Thousands rally in France over rising costs and economic struggles
-Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.
+## Hoax bomb threats force emergency landings, evacuations across Europe
+Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.
 
-## Top Japan FA official to stand against Infantino for FIFA presidency
-Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.
+## Saudi coalition intercepts missile fired towards Medina
+Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.
 
-## Why has Cristiano Ronaldo retired from international football?
-Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.
+## Why are wealthy countries failing developing nations?
+UN report warns climate adaptation funding is falling far short of needs.
 
-## Jerusalem Daily: Settler pogroms in Hebron
-Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.
+## Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire
+US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.
 
 ## SEBI revisits startup listing rules after IGP fails to gain traction
 18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
