@@ -1,7 +1,19 @@
 # AION Intelligence
 
+## ‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat
+Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats
+
+## FirstFT: Republican infighting erupts after landslide midterms defeat
+Also in today’s newsletter: wiretapping scandal rocks Indonesia and Oracle cancels $7bn Tencent AI deal under Trump pressure
+
 ## Vance blames Iran war for crushing Republican midterms defeat
 Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict
+
+## US stocks post best day since August after Democrats sweep midterms
+Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom
+
+## ‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump
+Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat
 
 ## Oil tumbles below $100 on post-election peace hopes
 US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war
@@ -12,17 +24,14 @@ Party on track for largest swing in their favour in House elections in more than
 ## Impeachments, Iran and the presidency: what’s next after the midterms?
 A sweeping victory for Democrats has started a jostle for presidential hopefuls
 
+## Copper is booming but not everyone is striking gold
+As selling prices soar, the red metal frenzy favours miners over smelters
+
+## China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn
+Committee chair Liam Byrne says failure to diversify supplies continues to pose significant risks to Britain’s future security
+
 ## Trump diesel deal with Russia falters as US fuel supplies hit 20-year low
 Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support
-
-## Five takeaways from the midterm results
-Democrats record broad gains from almost all demographic groups
-
-## ‘Cartwheels’ in Canada after Trump punished in US midterm elections
-Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war
-
-## Republicans turn on each other after disastrous midterms
-Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations
 
 ## Gates says Trump inaction leaves world exposed to AI bioweapons
 Billionaire Microsoft co-founder tells FT’s Future of AI Summit that AI could lead to pandemic ‘significantly worse than Covid’
@@ -33,17 +42,23 @@ Spin-off of roughly 9,000 drugstores comes as political pressure mounts on pharm
 ## Sequoia shuts London office as VC firm refocuses on Silicon Valley
 Retreat of high-profile tech investor is setback to UK’s hopes of positioning itself as leading player in the AI industry
 
-## Solvay strikes rare earths deal that will reduce global dependence on China
-Supply from Brazilian mine will bolster high-tech magnet production in Europe and US
+## Sensex today | Stock Market Live Updates: Stock to buy today: Usha Martin (₹486) – BUY
+Sensex, Nifty, Share Prices Live: Usha Martin share price can rise to ₹550
 
-## ‘Population collapse’ makes AI productivity gains vital, says top Meta executive
-Alex Schultz tells FT’s Future of AI summit that falling birth rates mean AI will be needed to support dwindling numbers of people
+## CERT-In flags high-severity security vulnerabilities in Tata Motors’ iRA connected vehicle apps
+The cybersecurity agency has identified four security flaws and advised customers using affected versions to upgrade their applications immediately
 
-## Uber picks up pace in robotaxi race
-Ride-hailing group aims to have 2,000 robotaxis on road by end of next year but will still trail rival Waymo
+## Visa policies remain uncertain for Indian IT firms
+Greater regulatory scrutiny of AI investments and more oversight of visa policies likely
 
-## Anthropic is an opportunity to rethink IPO rules
-To protect retail investors, we should stop permitting the deferral of stock-based employee compensation costs
+## US sanctions India-based couple, companies accused of helping Iran’s shadow fleet
+Washington said the network provided false maritime identities and certifications to vessels transporting Iranian petroleum, helping them circumvent international restrictions
+
+## India proposes immediate suspension of drug manufacturing licences over quality failures
+The proposed changes seek to prevent substandard medicines from remaining in circulation while manufacturers address quality failures and regulatory concerns
+
+## Trump admits Iran war hurt Republicans in midterm polls but says he would ‘do it again’
+The US President defended his military campaign against Tehran, maintaining that preventing Iran from acquiring nuclear weapons justified the costs
 
 ## US Democratic win unlikely to ease firms' cost, tariff woes in near term, executives say
 Democrats seized ⁠control of both the Senate and House of Representatives, scoring sweeping victories in Republican strongholds for the first time in generations
@@ -51,23 +66,20 @@ Democrats seized ⁠control of both the Senate and House of Representatives, sco
 ## Central cyber security agency warns banks, fintech firms of AI-powered frauds
 Attackers delete records and attempt to conceal their activities
 
-## New entrants eat into SIP inflows of listed Mutual funds
-The monthly SIP inflows of ICICI Prudential AMC peaked to ₹5,104 crore in March quarter and dipped to ₹4,872 crore in June quarter and further to ₹4,672 crore in September quarter
+## Ficci seeks exemption from LTCG for listed shares
 
-## US optimism fuels Nifty’s strongest 5-day rally in seven months
-Benchmark closes above 200-DMA for first time since August; broader markets outperform amid strong FII inflows
 
-## El Nino may keep global rice prices elevated until Q1 2027
-Risk of the current weather even strengthening poses further risks to paddy in South and South-East Asia, say experts
+## Oil's slide lifts rupee, gold up 3%
 
-## Trade body sees India’s 2026-27 cotton output shrink 14% on dip in area, drought
-Consumption seen flat at 365 lakh bales, while exports and imports are projected to decline over last year
 
-## NPPA exempts Biodeal’s indigenously developed midazolam nasal spray from price control for five years
-Midazolam 1.25 per cent w/v nasal spray is a prescription rescue medicine used primarily for the emergency treatment of acute repetitive seizures
+## Sensex on a bull run: Rises 4k pts in 5 days
 
-## SEBI forms working group to review Innovators Growth Platform framework
-The working group will review listing eligibility, investor participation, pricing and disclosure norms to improve capital market access for deep-tech and other innovation-led firms
+
+## Immigration debate tone may change
+
+
+## Cabinet nod for Rs 2,814 cr plan to support critical mineral processing
+
 
 ## Pistachios vanish from Diwali gift boxes this year as prices double, almonds rise 20%
 Retail prices of pistachios have almost doubled compared with a year ago, driven by supply disruptions associated with the West Asia conflict and a smaller US crop. Almond prices, meanwhile, have climbed around 20%, according to dry fruit processors and importers. At the premium end of the gifting m
@@ -78,20 +90,20 @@ Trump's Republican Party suffered major defeats in its strongholds, including Te
 ## Why you could an income tax notice & how you should handle it
 The Income Tax Department now receives automatic, continuous data feeds directly from banks, stockbrokers, mutual fund registries, and property offices. When central algorithms spot even a minor formatting difference or missing line item between your filed return and these external feeds, a notice i
 
-## Gold smuggling hits 50 tonnes in India as 15% import duty widens price gap
-According to a World Gold Council report, gold smuggling is estimated to have climbed to around 50 tonnes in the September quarter, compared with just three tonnes in the same period a year earlier. The surge highlights how higher import costs have had unintended consequences for the market.
+## Digital traffic simulation model, road safety audit for 2,205km of Delhi roads
+Traffic congestion in Delhi has been increasing, with even stretches that earlier experienced smooth traffic movement now witnessing frequent bottlenecks
 
-## Will Trump's midterm defeat push him to finalise India-US trade deal?
-The unfavourable midterm election outcome is unlikely to prompt President Donald Trump to change course on trade, according to an analysis by Global Trade Research Initiative (GTRI). Trump is now likely to use his executive authority to push India towards an early agreement that opens up the Indian 
+## RSS to be expanded into 88 regional units: Dattatreya Hosabale
+General secretary Dattatreya Hosabale says the organisation has expanded to 103,397 locations nationwide, with a 150% rise in shakhas in West Bengal.
 
-## What is the gold price prediction for the Diwali week? Check November 4, 2026 outlook
-Gold price prediction today: The midterm results have changed the mood this week. Democrats are projected to win both the House and the Senate, which markets read as lowering the odds of a deficit-expanding agenda. The 10-year Treasury yield fell six basis points to 4.90%, the dollar weakened as muc
+## 'Policies need to be in tune with reality': Supreme Court calls for fresh look at 2-child norms amid decline in fertility rate
+The court cited India's declining fertility rate, which fell to 1.9 in 2024, and warned of the long-term consequences of an ageing population.
 
-## How does Trump's defeat in US midterms impact Indian stock market? Explained
-Indian equities are already contending with a range of domestic market pressures. Uncertainty surrounding Donald Trump's tariff decisions, higher crude oil prices and bond yields, along with sustained foreign institutional investor (FII) selling, has pushed the Sensex and Nifty down. In this environ
+## Armed forces need a balance of youth, experience: Chief of Defence Staff
+The shift from releasing 75% of Agniveers after four years to retaining all of them for full-term service marks a sharp departure from the original plan.
 
-## Sensex climbs 288 points, Nifty rises nearly 77 points in early trade
-
+## Election Commission of India to launch major voter enrolment drive in UP on Nov 12
+ASHA workers, anganwadi staff and educational institutions will help identify eligible women and young people missing from the electoral rolls.
 
 ## Bengal govt to include Syama Prasad Mookerjee in school curriculum, drop Singur chapter
 The revised syllabus will place greater emphasis on the history of the state and its prominent personalities, Barman told reporters.
@@ -102,44 +114,35 @@ Before Chandumajra, several other leaders had earlier parted ways with the SAD (
 ## 11 SDRF, fire services personnel missing after rescue boats capsize in Telangana floodwaters
 Three fire personnel went to rescue fishermen, but their boat developed a technical snag, leaving them stranded.
 
-## Delhi Police to reimburse full tuition fee of children of personnel killed in line of duty
-The scholarship amount for students pursuing higher education has also been increased from ₹15,000 to ₹20,000.
-
-## MP high court rejects bail plea of ex-judge Giribala Singh in Twisha Sharma case
-A single bench of justice Ajay Kumar Nirankari heard arguments on October 26 and reserved the order. The order was issued on Wednesday
-
-## Sharad Pawar hospitalised in Mumbai hours after discharge in Pune
-Sharad Pawar was discharged from the Ruby Hall Clinic after two days under medical observation following complaints of pleuritic pain, in Pune on Wednesday.
-
-## Assam police constable booked for attacking woman, family over dispute: Cop
-A video of the alleged incident later surfaced on social media. On Tuesday evening, Jorhat police shared screenshots of a social media post
-
-## Bengal police seize ₹1.02 crore from party office in land grab case involving Abhishek Banerjee aide
-Police seized ₹1.02 crore from a political party’s office in Sarisha during a land grab probe involving Abhishek Banerjee’s aide Sumit Roy.
-
-## Pendency at Delhi Forensic Science Laboratory down 79% in a year
+## Israel Election Results 2026 LIVE Updates: Israel vote results confirmed as election commission rejects fraud claims
 
 
-## 50% WFH cap kicks in today, Gurugram firms expand hybrid work
+## 40 years ago November 5, 1986: Grilling in Parliament
 
 
-## At Sangrur rally, Pargat Singh pitches for 2027 comeback, Channi draws loud cheers
+## Tax cuts are a temporary fix for capital flows
 
 
-## Consider admitting students who graduated under 4-yr UG course in PG 2nd year: HC to Delhi University
+## How the US midterm results reflect the Constitution’s distrust of majorities
 
 
-## Rampant India crush South Korea 8-1, set up title clash against Japan
+## Three steps COP should take for tangible outcomes
 
 
-## At Sangrur rally, Rahul Gandhi sounds poll bugle, slams Bhagwant Mann, BJP over drugs
+## The better angels of democracy have asserted themselves in America
 
 
-## Netanyahu vs Eisenkot: Who will be Israel’s next PM? What’s happening?
+## US course corrects and signals Peak Trump is over
 
 
-## Indian ships exempt from Hormuz curbs: What Iran wants in return
+## Mogging’s the word but the cat need not worry
 
+
+## Why Hong Kong wealth managers want broader access to mainland China’s Nasdaq-style markets
+Most asset managers in Hong Kong expect broader access to mainland China’s two Nasdaq-style stock markets to strengthen the city’s private wealth business, an industry survey shows, as hard-tech firms continue to attract investors despite a recent pullback. The report, released by the Private Wealth
+
+## Could Shanghai project smooth indebted New World’s path to cash?
+New World Development’s recent announcement that its Shanghai K11 Elysea office project has reached an occupancy rate of about 80 per cent may pave the way for the indebted group’s next securitisation exercise, analysts say, adding that it could generate 100 million yuan (US$15 million) in annual ne
 
 ## Latest award confirms EuroEyes International as market leader
 [The content of this article has been produced by our advertising partner.] By recently winning the prestigious Zeiss Award for the 10th consecutive year, EuroEyes International has once again been recognised for its pioneering work and, in particular, for performing the highest number of trifocal l
@@ -159,11 +162,11 @@ Swiss private banking executives have acknowledged Hong Kong’s growing promine
 ## US midterm blue tsunami jolts Asian markets as tighter AI, fiscal scrutiny looms
 Follow the SCMP’s live coverage here A comprehensive victory for the Democrats in the US midterms has jolted asset classes from stocks to bonds and commodities in Asia, as investors expect the US Congress to tighten scrutiny over the AI industry and government spending. Stocks in the region closed m
 
-## Wingtech rejects Nexperia restructuring, cites ‘discrimination’ towards Chinese investors
-Shanghai-listed Wingtech Technology has rejected a restructuring proposal under which it would lose control of Dutch chipmaker Nexperia’s assets outside China, condemning the plan as an “expropriation” driven by discrimination. The stand-off deepens a year-long dispute between Wingtech and Dutch aut
+## Americans Care About Foreign Policy. Now Democrats Must Listen to Them.
+Here’s what Congress can actually do in the next two years.
 
-## 2 cancer drugs from Li Ka-shing-backed Sequencio garner global attention
-Two cancer vaccines from Hong Kong-based Sequencio Therapeutics have been selected for presentation at a major US conference, as companies bet on therapies based on ribonucleic acid (RNA) to deliver breakthroughs in cancer treatment. Sequencio, a subsidiary of Li Ka-shing-backed CK Life Sciences, sa
+## Trump Has Shifted the U.S.-Pakistan Relationship
+But close bilateral ties might not survive his lame-duck period and a Democratic Congress.
 
 ## U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?
 Where the disputed territory stands as the 35-year-old U.N. mission comes to an end.
@@ -183,35 +186,29 @@ Trump’s tariffs are unpopular, and lawmakers want to claw back their authority
 ## Where Democrats Can Thwart Trump’s Foreign Policy
 From the Iran war to boat strikes to Ukraine, Democrats now have powerful leverage.
 
-## U.S. Democracy Is Back—Sort of
-Trump suffered a major rebuke, but it’s going to be a brutal two years.
+## Kazakhstan Eyes Ambitious 2035 Goal for 2 Nuclear Power Plants
+A deal with China hasn’t been settled yet but still, Astana hopes to complete both its first and second nuclear power plants within a decade.
 
-## Democrats Have a Historic Opportunity to Rethink Capitalism
-The model actually exists. Politics just needs to catch up.
+## The China-Israel-US Triangle, Then and Now
+Insights from Eyal Propper.
 
-## With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists
-An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.
+## China Is Defanging the Dollar, Not Dethroning It
+Countries like Russia and Iran can settle transactions using the yuan – but those proceeds remain trapped in China by Beijing's design.
 
-## The Danger of Being a Female Livestreamer in China
-When a fan thinks he owns you, online entitlement can morph into real-world violence.
+## The Next Phase of Japan-Vietnam Relations
+The question now is whether the two countries can turn their increasingly ambitious partnership into tangible economic and strategic results.
 
-## The China-Pakistan Information Corridor Is Made to Silence Journalists
-CPIC arrives in a country where the words "fake news" can already put a reporter in prison.
+## The Squad and the Quad: 2 Tracks of Security Cooperation in the Indo-Pacific
+The Squad should be understood not as a replacement for the Quad but as an expression of the Indo-Pacific’s increasingly layered security architecture.
 
-## How China Is Building Influence in Central Asia, One Laboratory at a Time
-Scientific and educational cooperation may be less visible than a railway, but it may also have longer lasting and broader results.
+## How Some Media Shape Regional Australia’s Hostility to Renewable Energy
+Research traces how partisan outlets link climate-delay narratives, fossil-fuel interests, and audiences, reshaping regional energy debates and public trust.
 
-## Amid Stock Troubles, Is South Korea’s $880 Billion AI Infrastructure Buildout Under Threat?
-South Korea has emerged as one of the world leaders in the AI buildout. But now, as investor sell-offs continue to force the KOSPI lower, are its AI ambitions under threat?
+## Pakistan’s Abrupt (and Aborted) Revocation of Taiwan’s Overflight Privileges
+Pakistan announced that Taiwanese airlines would not be allowed to fly over the country, before abruptly rescinding the change. Is this a new strategy from Beijing?
 
-## Decouple Taiwan From China-Vatican Negotiations
-Archbishop Gallagher’s remarks about the “price” of setting up an office in Beijing have struck a nerve in Taiwan. But the two aren’t actually related.
-
-## Does Reliance on China Undermine Iran’s Grand Strategy?
-China’s interests in the Middle East increasingly conflict with Iran’s cooperation with regional proxies and use of coercive threats.
-
-## Indonesia’s Navy Is Growing. Is Its Combat Power Keeping Up?
-While fleet size is an important measure of operational capacity, a lot depends on how effectively new platforms are equipped, operated, and integrated.
+## Opium Is Back in Afghanistan
+The resurgence of opium in Afghanistan is more than a statistical reversal.
 
 ## Why Are Wars Increasingly Difficult to End?
 The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senio
@@ -261,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US midterm election results live: Trump blames Iran war after losses
-A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
+## Africa’s richest man launches mega oil tank farm in Namibia
+Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa's supply.
 
-## Democrat leaders hail midterm election success
-The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.
+## Ohio’s voters tell Republicans: don’t take us for granted
+Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.
 
-## Ukraine raises death toll from Russian strike on Zaporizhia to 40 people
-Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.
+## Democrats won Congress. But can they deliver on their promises?
+Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.
 
-## Will the US resume its attacks on Iran?
-Tehran says it's ready with a maximum deterrence plan.
+## Historic firsts redraw US political map in 2026 midterm elections
+The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.
 
-## Iranians celebrate Democrat victory in US midterms
-US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.
+## Iran war live: Trump says war caused election wipeout but he ‘had to do it’
+President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'.
 
-## Democratic progressive wing notches win in California Central Valley
-Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.
+## Who gets to vote in the US?
+Tati Abu King lost his voting rights after felony convictions.
 
-## Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win
-Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.
+## Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say
+Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.
 
-## WHO approves trials for two new Ebola vaccines
-Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.
+## Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally
+A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran
 
 ## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
 Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
