@@ -1,40 +1,52 @@
 # AION Intelligence
 
-## Live reader Q&A — How will the midterm results change US politics?
-Take part in a live Q&A with the FT’s senior US columnists Edward Luce and Rana Foroohar now
-
-## Musk wants to give stock to kids. What’s the problem?
-The act is generous but there are reasons to wish it could be done in a different way
-
-## US stocks rebound after tech rout
-Tech-heavy Nasdaq 100 up more than 1 per cent in afternoon trading following day of turmoil
-
-## EU probes ‘fraud’ on Spain’s lethal high-speed rail line
-Accidents have claimed the lives of 115 people on Madrid-Seville route this year
-
-## Tesla’s Cybertruck is a masterclass in failing upwards
-Musk wasn’t so hot when it came to selling a pick-up truck, but he still knows how to sell himself
-
-## James Talarico: the Democrats’ rising star who turned Texas blue
-The 37-year-old senator-elect combined Christian faith and anti-corruption messaging to give the left its first statewide win in decades
-
 ## US warns China it must ‘immediately’ meet terms of Busan trade deal
 Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products
 
-## Anthropic lines up UK retail offer as AI stocks wobble
-Analysts warn demand may be dented by the SpaceX slide
+## US stocks recover after tech rout
+Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil
 
-## ‘De-extinction’ start-up Colossal accuses ex-staffer of stealing secrets
-Lawsuit alleges scientist who worked on reviving dodo bird has taken confidential research to rival biotech ventures
+## US economy outstrips forecasts to add 165,000 jobs in October
+Hiring rebound reinforces expectations Federal Reserve will raise interest rates
 
-## Is the AI stock bubble finally bursting?
-Any reasonable person can see the hallmarks of an unsustainable party in markets
+## Trump taps immigration hardliner Stephen Miller as chief of staff
+Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat
 
-## Renewable energy groups boosted by ‘clarity’ of US election results
-Ørsted among the main gainers from the shift in political backdrop after two years of hostility from the Trump administration
+## US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears
+Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs
 
-## Arini’s credit troubles suggest roach-hunting season is back
-The London-based fund ploughed billions into the riskiest parts of the junk bond market — and these have now soured
+## Voters take their pick in New Zealand’s ‘supermarket election’
+Christopher Luxon tries to hang on as cost of living crisis and high energy prices weigh on consumers
+
+## Anthropic to press ahead with IPO targeting $1.5tn valuation
+Claude maker intends to list before Thanksgiving despite brutal tech rout
+
+## Ex-OpenAI employee accused of spying pleads not guilty
+Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office
+
+## Bomb threats target media and flights as email warns ‘this is only the beginning’
+Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin
+
+## A new phase in the tech market correction
+Investors are no longer pricing in accelerating AI growth
+
+## West End reports spending boost after Oxford Street bans cars and buses
+Transactions on Barclays debit and credit cards increased 13% between October 26 and October 31, compared with same period last year
+
+## Stockpickers: Focusrite, RS Group, Associated British Foods
+Our experts discuss which companies to buy, sell or hold this week
+
+## Directors’ Deals: Rathbones chair adds to stake amid FCA scrutiny
+Fund group’s shares are down by 9 per cent on the year
+
+## Microsoft to wind down Oracle AI computing arrangement amid cloud partnership review
+The move reflects changing computing requirements at Microsoft, while Oracle shares declined amid the reported decision during Friday’s trading session.
+
+## TCS Nashik case: AIMIM leader Imtiyaz Jaleel named accused in supplementary chargesheet
+The latest development follows an SIT investigation into allegations of workplace harassment, religious coercion and the alleged sheltering of a key accused.
+
+## CBSE board exams 2027 to begin on February 16; Class 10, 12 date sheets released
+The board has released the examination timetable well ahead of schedule, factoring in major entrance tests and gaps between commonly paired subjects.
 
 ## ED searches CoinDCX premises
 Officials from Enforcement Directorate visited Neblio’s Bengaluru office as a part of a ‘routine enquiry’, the company says
@@ -51,14 +63,17 @@ Tests detect ethanol levels up to 31.2 per cent, raising mileage concerns
 ## Retail inflation may breach 6% in October amid rising food prices
 Statistics Ministry will formally release the retail inflation data on November 12
 
-## IT firms prioritise margins amid sluggish revenue growth
-Four Tier I companies saw revenue growth under 3% in Q2 FY27, yet kept the industry’s highest operating margins, per UnearthInsight
+## Crude cost for Indian companies at 2-month low
 
-## Ethanol blending: OMCs raise questions on Karnataka’s testing methodology
-IOCL, BPCL and HPCL acknowledged Karnataka’s government press release alleging petrol at some outlets contains 26–31% ethanol
 
-## Nifty reclaims 25,000, Sensex crosses 81,000 as India shrugs off global tech rout
-The Sensex surged 1,718 points or 2.17% to close at 81,028, while the Nifty gained 493.75 points or 2.01% to settle at 25,030, reclaiming the 25,000 mark for the first time in over eight months
+## Decline in gold price pushes jewellery sales on Dhanteras
+
+
+## Karnataka's '30% ethanol' claim stirs row as OMCs junk 'test'
+IOC, BP & HP Question Cong Govt's Sampling & Testing Methodology
+
+## Sensex up 10.6% in 7-session pre-Diwali rally, best in 35 yrs
+
 
 ## Rs 29.57 lakh cr added to investor wealth! Why Sensex, Nifty had best week in over 5 years
 As Diwali approaches, Indian stock exchanges celebrated a remarkable boost, seeing both Sensex and Nifty climb significantly. This positive shift was driven by a hefty influx from foreign institutional investors, who recorded their highest single-day purchases in the last six years. Additionally, lo
@@ -71,18 +86,6 @@ Fundamentally, what needs to be understood is that investors should first assess
 
 ## Pakistan's external debt nearly doubles to $135 bn in 10 years, China biggest lender
 Pakistan's external borrowing is projected to reach $135.1 billion by 2025, with much of the debt owed to China. The country's external debt increased from $68.673 billion in 2015 to the current level, reflecting a significant upward trend. Public and publicly-guaranteed borrowing comprises the majo
-
-## 'It was last to apply, meet security norms': Govt hits back on Starlink row
-
-
-## Stock market today: Why did Sensex, Nifty50 rally today? Top reasons
-Stock market today: BSE Sensex ended the session at 81,028.02, up 1,718 points or 2.17%. Nifty50 closed at 25,030.35, up 494 points or 2.01%. Global equities suffered a sharp sell-off amid fading enthusiasm for artificial intelligence (AI) stocks following US President Donald Trump’s defeat in the m
-
-## Dhanteras shopping spree may cross Rs 1 lakh crore: What are buyers purchasing this festive season
-This year's Dhanteras shopping spree is anticipated to surpass Rs 1 lakh crore across the country. Gold and silver purchases alone may reach over Rs 60,000 crore, with consumers favoring lightweight jewellery and silver coins. Additionally, there's a noticeable surge in demand for traditional auspic
-
-## Gold price today on Dhanteras: Check city-wise rates in Delhi, Mumbai, Pune & more
-Gold prices have fallen sharply in futures trade due to weak spot demand across major Indian cities. In futures contracts, the price declined by Rs 2,178 for December delivery on the Multi Commodity Exchange. Major cities like Bengaluru, Mumbai, and Delhi recorded decreases in the rates of 24K, 22K,
 
 ## 'He said we were going on a trip': Boy narrates events after Bengaluru cab driver killed family
 Indusekar, who also runs a Kannada-English monthly tabloid, allegedly confessed during interrogation, Bengaluru police commissioner Seemant Kumar Singh said.
@@ -132,53 +135,53 @@ Dutch asset management firm Robeco is planning to expand its presence in Hong Ko
 ## From finance summit to AI-driven stock rout: 5 figures investors are watching in China
 China’s state intervention in the struggling market accelerated this week, even before the US midterm results gave global markets a jolt. Meanwhile, global executives gathered in Hong Kong to discuss issues ranging from the AI trade to asset diversification and wealth management, amid the city’s bet
 
-## How America Was Swept by an Anti-Trump Wave
-Susan Glasser joins this week’s FP Live podcast.
+## Global AI Stocks React to U.S. Midterm Results
+Incoming Democrats have pledged to rein in AI and data centers.
 
-## How a World War I Crackdown Predicted ICE
-A new graphic novel makes the case that we’ve been here before.
+## The U.S. Senate Just Got a Lot Younger
+The midterms put a huge dent in America’s gerontocracy.
 
-## Who Will Succeed Xi Jinping?
-Provincial reshuffles may offer some clues.
+## A German Movie Previews Its Far-Right Future
+The country’s cinema has recently taken a very dark turn.
 
-## The International Power Broker Trying to Normalize Hamas
-Mohammed Dahlan is aiming to unite Palestine by reaching out to Gaza’s ostracized leaders.
+## ‘Call of Duty’ Has a Message for Hegseth
+The video game’s latest installment seems disillusioned with the kind of militarism it did so much to promote.
 
-## How Will the Blue Tsunami Affect Latin America?
-Democrats vow to use their new oversight powers to check Trump’s actions in the region.
+## ‘Wild Horse Nine’ Looks Away From Chile’s History
+The film indulges in conspiracy rather than reckoning with the coup in front of it.
 
-## How Foreign Policy Shaped These 3 Critical Midterm Races
-It wasn’t just Iran. Israel, tariffs, and immigration also loomed large in voters’ minds.
+## Two New Stand-Out Novels From Ireland and South Africa
+The legacy of the Catholic Church is impossible to ignore in Louise Kennedy’s love story—much like the shadow of apartheid in Keletso Mopai’s ambitious debut.
 
-## U.S. Foes React to the GOP’s Midterm Wipeout
-Iran gloated. China shrugged. Russia expressed optimism.
+## What in the World?
+Test yourself on the week of Oct. 31: Russia and Ukraine hack each other, Americans vote in midterm elections, and Indonesia deploys troops to its capital.
 
-## Hoax Bomb Threats Disrupt Air Traffic Across Europe
-No group has taken responsibility yet. But recent hybrid warfare attacks have the continent concerned.
+## Do the Democrats Have a Cohesive Economic Plan?
+U.S. voters spoke loudly on AI, trade, and affordability.
 
-## US Government Announces Fresh Sanctions Against Cambodia-based Scam Network
-The U.S. Treasury Department says that actors linked to Prince Group targeted victims across with world via "sophisticated cyber-enabled fraud schemes."
+## Can Europe Regulate China’s E-Commerce Giants Without Closing Its Market?
+The challenge is not simply how to regulate Chinese platforms, but how to preserve an open and fair market as cross-border commercial networks become increasingly integrated.
 
-## Leaner, Meaner, More Networked: The Royal Thai Air Force’s Modernization Drive
-Driven by lessons from the 2025 border clashes, the RTAF is organizing, training, and equipping a more capable and flexible force.
+## The Taipei Mayor Election Is Not About China
+As usual, Taiwan’s local elections are about local politics – not independence or unification.
 
-## Vietnam Is Rising, but Will It Leave the Rainbow Behind?
-The country's economy is growing rapidly, but its “take it slow” approach to LGBTQ+ rights risks creating a prosperous but intolerant society.
+## Beijing Has Little Reason to Welcome America’s Midterm Results
+China has grown comfortable with Trump’s transactional diplomacy. A Democratic Congress could complicate Beijing’s calculations – and remind the world of U.S. democracy’s strength.
 
-## Following Wiretapping Arrests, Indonesia Deploys Thousands of Troops for Former President’s Trial
-On Tuesday, authorities announced the arrest of three senior police officers for illegally wiretapping the phones of President Prabowo Subianto and other politicians.
+## How China’s Naval-Air Reach Is Offsetting the Malacca Dilemma
+China remains exposed to maritime disruption, but its expanding regional reach is increasing the military and political costs of exploiting that vulnerability.
 
-## For More Than 20 Years, Bangladesh’s One Constant Has Been Political Violence
-Violent clashes between rival parties, within their own ranks, and around elections have persisted through successive governments.
+## Does China Have a Plan for Dealing With a Democratic Congress?
+Should Beijing treat Trump as a “lame duck,” or should Xi Jinping continue to invest in cultivating him?
 
-## Asia’s Debt Handoff: Who Finances the Post-BRI Era?
-As Belt and Road repayments come due and multilateral lenders step in, Asian borrowers must decide whether the new creditor landscape becomes a source of leverage or simply a new form of dependence.
+## Green Hydrogen: India’s Big Ambitions, Costly Realities
+India’s green hydrogen ambitions are running up against high production costs, infrastructure gaps, and uncertain domestic demand, even as the government seeks to position the country as a global export hub.
 
-## The Politics of Pandemic Preparedness: Why South and Southeast Asia Need a Stronger Voice
-The Pathogen Access and Benefit-Sharing annex, currently under negotiation, has profound implications for dependency and health sovereignty in South and Southeast Asia.
+## India’s Rediscovery of Poland: The Drivers and Limits of a Growing Partnership
+Despite the growing momentum in relations between Poland and India, policy differences exist over Russia.
 
-## The Naf River Exposes a Gap in Bangladesh’s Maritime Strategy
-The incidents around the Naf River pose an unforeseen threat to Bangladeshi security, one that can't be solved by introducing more warships.
+## After the Midterms: What Xi and Trump Should Discuss in Shenzhen
+The midterm results don’t change the topics that should lead the agenda for the Trump-Xi summit in Shenzhen.
 
 ## Talks, Attacks, and a Heist
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranNow that the U.S. midterms are over, the looming question is how and when one side or the other will seek to
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Valencia vs Real Madrid: La Liga – preview, team news, predictions
-A win at struggling Valencia would provisionally take Madrid level on points with league leaders Barcelona.
+## US urges China to honour Busan trade deal commitments
+Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.
 
-## How Paraguay’s Ueno collapse is only its latest banking crisis
-President Santiago Pena is under fire over links to parent company of collapsed bank.
+## Palestinian couples tie the knot in mass wedding in Gaza
+The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
 
-## US city votes to divest from Israel
-Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.
+## Who is Stephen Miller, Trump’s new White House chief of staff?
+Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.
 
-## US prosecutor who led Trump-backed election probe exits Justice Department
-Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.
+## Protesters break into Microsoft data centre site in Amsterdam
+Data centres face protests across Europe due to the massive amounts of computing power and water they use.
 
-## Paraguay resumes Pena impeachment proceedings as financial crisis deepens
-Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.
+## Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
+President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
 
-## Taiwan to close representative office in Papua New Guinea, blames China
-Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.
+## Meghan Markle’s father arrested in US over alleged child sex abuse photos
+US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.
 
-## Jerusalem Daily: Arab parties back Eisenkot against Netanyahu
-Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm
+## Migrants arrive in Spain’s Canary Islands after being rescued at sea
+More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.
 
-## What did the Republicans lose in the US midterms?
-Democrats took the Senate and the House of Representatives from the Republicans. AJLabs maps the wave in US midterms.
+## Pope Leo arrives in Uruguay starting 12-day Latin America tour
+The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
