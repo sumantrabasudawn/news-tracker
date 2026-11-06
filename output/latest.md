@@ -1,142 +1,136 @@
 # AION Intelligence
 
-## China’s tech megacity cleans up seedy underbelly for Apec summit
-Shenzhen clears out illicit markets for smuggled chips and stolen iPhones as it prepares to host gathering of international leaders
+## Wall Street set to steady after tech rout
+Donald Trump blames voters for AI sell-off as futures point to small gains at the opening bell
 
-## US lawmakers summon Jensen Huang over Chinese spying concerns
-Top Republicans ask Nvidia boss to brief congressional committees after reports he was targeted by China
+## FirstFT: Global stocks tumble as Democratic sweep sparks AI rout
+Also in today’s newsletter: US tech barons face reckoning and Singapore Airlines’ new double-bed cabins
 
-## Merge police into 10 larger forces, says Met chief
-Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units
+## Donald Trump has taught the world that tariffs are useless
+The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism
 
-## Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges
-Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading
+## DraftKings slashes earnings guidance as it bets on new prediction market business
+Sports-betting company spends big while trying to catch up with Kalshi and Polymarket
 
-## Job adverts will have to publish salaries, ministers say
-Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’
+## Qatar’s emir holds call with Trump as mediators push for deal to end Iran war
+Leaders speak days after voters rebuke US president over Iran war and high fuel prices
 
-## Nearly 600,000 join latest protests in France
-Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September
+## Troubled housebuilder Vistry tests limits of Labour’s appetite for nationalisation
+For now at least, there is little sign the state will take control of the group
 
-## Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’
-Unpredictable electorates can lead to overcorrecting after presidential elections
+## Tesla to axe Cybertruck as Musk shifts focus to robotics and AI
+Carmaker will wind down production of futuristic pick-up truck at its gigafactory in Texas
 
-## FirstFT: Wall Street sheds $3.2tn as Democratic midterm landslide upends AI bet
-Also in today’s newsletter: China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division and Blue Origin delays launches until 2027
+## George Orwell, Jura and me
+Alice Lascelles traces the writer’s years on the Scottish island – and her own first steps into the world of whisky
 
-## Asian tech stocks sink
-‘Complete carnage’ as Nikkei 225 falls below 60,000 points for first time since May with Seoul’s Kospi under 5,000 points
+## British Airways owner warns of higher fares next year as fuel costs rise
+IAG says airline group will be less protected in 2027 by fuel hedging compared with 2026
 
-## Blackstone doubles lock-up periods for some Asian investors
-BXPE to impose penalty on clients in Singapore and Hong Kong for withdrawals within first four years
+## Japanese stocks post biggest one-day fall since ‘liberation day’ chaos
+‘Complete carnage’ as Nikkei 225 and Topix indices drop nearly 6% in flight from AI trade
 
-## China’s block on SoftBank deal fires the starting gun on the robot wars
-Beijing’s interventionism reflects the rising global rivalry on all things AI
+## Monzo explores fundraising at £7.5bn valuation as private equity talks stall
+Lender had shifted focus to talks with buyout groups after failing to clinch a £10bn takeover by Brazilian fintech Nubank
 
-## Will Democrats stall the AI boom?
-Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets
+## Is the AI stock bubble finally bursting?
+Any reasonable person can see the hallmarks of an unsustainable party in markets
 
-## Wall Street mega-donors clobbered by Democratic sweep
-Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect
+## Gujarat Pipavav Port pushes liquid jetty commissioning to March-April 2027, cites construction delays
+The company has raised its container traffic growth outlook to 8-10% for FY27 following a surge in trans-shipment cargo linked to the conflict in West Asia
 
-## Hedge fund Walleye hands back capital as it slims down equity business
-Multi-strategy fund with $17bn in assets tells clients move comes after it endured worst month since coronavirus crisis
+## MakeMyTrip expands ground transport play with Quick Ride acquisition
+The acquisition covers the Quick Ride brand and its ride-pooling business
 
-## Sensex today | Stock Market Live Updates: Nifty may lose around 170 points at open
-Sensex, Nifty, Share Prices Live: Gift Nifty at 24,415, signals a gap down opening of about 170 points.
+## Thermax shares fall 20% to 52-week low on weak Q2, JM Financial maintains sell
+The company reported a net profit of ₹114.54 crore in Q2FY27, down from ₹119.66 crore in Q2FY26.
 
-## Nifty may lose around 170 points at open after sharp rally
-Infosys ADR ends higher despite selloff in Nasdaq
+## Rupee surges 52 points to close at 93.89 against US dollar
+The domestic unit closed the session at 93.89 (provisional), registering a gain of 52 paise over its previous close
 
-## Stocks to watch, Nov 6: Adani Ports, Rajesh Power, Hexaware Tech, Blue Cloud, HCC, STL Networks, Knowledge Marine, Ashoka Buildcon, Lokesh Machines, Anondita
-Here are details about stocks that are in focus today
+## Nexus Select Trust eyes Tier II cities, eastern India for expansion
+Strong consumption, higher leasing spreads and sustained occupancy underpin the REIT’s performance amid contrasting rural and urban spending trends.
 
-## Trump expects Russia-Ukraine peace deal soon, says agreement could involve all of Europe
-Diplomatic contacts, humanitarian initiatives and mounting battlefield casualties are adding urgency to efforts to resolve the conflict that began in 2022
+## KPI Green Energy energises 49.7 MW solar capacity in Gujarat
+KPI Green Energy has energised an extra 49.7 MWp of its 250/350 MWp solar project and 121.8 MWp of its 370/677 MWp hybrid project at Bharuch
 
-## Worst US stock rout since 2020 leaves virtually nowhere to hide as Nasdaq plunges 6.4%, Dow sheds 1,833 points
-Investors rushed to safer assets as mounting concerns over artificial intelligence valuations and potential policy changes triggered widespread selling across equities
+## Elgi Equipments Q2 Results: Net profit grows 6% to ₹128 crore
+The company’s consolidated revenue grew 17% to ₹1,134 crore in Q2FY27, supported by growth in Indian and American markets.
 
-## Marco Rubio weighs quitting Trump administration after Republicans' midterm election defeat
-The US Secretary of State is evaluating his political options amid questions over the administration’s future and the Republican Party’s leadership succession
+## Jewellers expect fall in gold prices to boost Dhanteras sales
+Coins and bars are expected to lead sales, driven by investment sentiment and gifting traditions, say stakeholders
 
-## Wall Street fear gauge soars as retail traders bolt amid market rout
-Investors rushed to protect portfolios against further losses as volatility surged, systematic funds prepared large sales and confidence in technology stocks weakened
+## Gold buying on Dhanteras: What can you buy if not gold?
+Fundamentally, what needs to be understood is that investors should first assess whether they require gold in their portfolio before investing in it. Although gold has outperformed equities recently, it has also corrected by around 22% from its January 2026 highs. What are the factors to consider wh
 
-## ONGC Q2 profit rises 57% to ₹15,489 crore on higher crude oil realisations
-Higher crude oil realisations boosted earnings, while the state-owned energy major outlined investments to strengthen production and expand future hydrocarbon potential
+## Pakistan's external debt nearly doubles to $135 bn in 10 years, China biggest lender
+Pakistan's external borrowing is projected to reach $135.1 billion by 2025, with much of the debt owed to China. The country's external debt increased from $68.673 billion in 2015 to the current level, reflecting a significant upward trend. Public and publicly-guaranteed borrowing comprises the majo
 
-## Oil prices bounce back: Brent nears $100 after hitting a more than two-month low
-Crude oil prices are on the upswing following major declines fueled by geopolitical tensions. Brent crude approaches the $100 per barrel threshold, while WTI records similar gains. Ongoing conflicts in the Middle East have disrupted refinery operations, leading to a notable drop in global refining a
-
-## Which are the top stocks to buy on November 6, 2026? Check list
-Stock market recommendations: APL Apollo Tubes, Lenskart, and Anthem Biosciences Limited - Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has identified these as the top stocks to buy today on November 6, 2026.
-
-## Gold loan defaults see almost 2x rise in 5 months
+## 'It was last to apply, meet security norms': Govt hits back on Starlink row
 
 
-## Wall Street bloodbath: $2.5 trillion wiped out as Nasdaq suffers worst crash in 18 months
-Wall Street faced a dramatic selloff with technology stocks plummeting due to growing concerns about artificial intelligence spending. Investors reevaluated popular AI-related trades after midterm election results suggested potential tougher scrutiny in the industry. The Nasdaq dropped more than 5%,
+## Stock market today: Why did Sensex, Nifty50 rally today? Top reasons
+Stock market today: BSE Sensex ended the session at 81,028.02, up 1,718 points or 2.17%. Nifty50 closed at 25,030.35, up 494 points or 2.01%. Global equities suffered a sharp sell-off amid fading enthusiasm for artificial intelligence (AI) stocks following US President Donald Trump’s defeat in the m
 
-## SUVs drive up M&M Q2 net profit by 25%
+## Dhanteras shopping spree may cross Rs 1 lakh crore: What are buyers purchasing this festive season
+This year's Dhanteras shopping spree is anticipated to surpass Rs 1 lakh crore across the country. Gold and silver purchases alone may reach over Rs 60,000 crore, with consumers favoring lightweight jewellery and silver coins. Additionally, there's a noticeable surge in demand for traditional auspic
 
+## Gold price today on Dhanteras: Check city-wise rates in Delhi, Mumbai, Pune & more
+Gold prices have fallen sharply in futures trade due to weak spot demand across major Indian cities. In futures contracts, the price declined by Rs 2,178 for December delivery on the Multi Commodity Exchange. Major cities like Bengaluru, Mumbai, and Delhi recorded decreases in the rates of 24K, 22K,
 
-## Rupee gains 16 paise
+## Gold buying on Dhanteras: What's the outlook for Samvat 2083?
+Buying gold on Dhanteras is considered auspicious in many traditions. But the festive season comes at a time when gold prices have seen sharp corrections in recent months. Does that mean that gold has lost its glitter as an investment bet? Or are the current dips the right entry point?
 
+## Stock market holidays for Diwali: When are NSE, BSE open? Check Muhurat trading timings
+Diwali celebrations bring about a shift in trading hours on Dalal Street and MCX. On Dhanteras, the stock market will operate, while it will observe its usual Saturday closure. A special Muhurat Trading session is scheduled for Sunday, allowing limited customary Diwali trades. After this session, tr
 
-## At 12k cr, LIC profit rises 20% in Q2
+## Rajasthan: Kuno forest team tracking cheetah KGP-3 attacked by villagers after it kills buffalo calf
+A Kuno National Park forester alleged that villagers assaulted and tried to strangle him while his team tracked cheetah KGP-3 in Rajasthan’s Karauli district.
 
+## Karnataka reports ethanol concentration in petrol up to 31.2%, seeks federal intervention
+The state government has asked the Union government to explain the ethanol concentrations found in the samples.
 
-## Bharti Airtel profit up 24% to 10,710cr
+## ‘This organisation is united’: Farooq Abdullah dismisses reports of rift in National Conference after meeting MLAs
+Farooq Abdullah said the party remained united, termed reports suggesting a split within the National Conference baseless
 
+## Reservation-category Indian faculty match general category peers in teaching, research despite fewer PhDs: Study
+The study found that students taught by reservation-category faculty performed marginally better in their immediate course examinations.
 
-## Traffic curbs in place between Nov 5-15 around Anand Vihar ISBT amid festival rush
-The arrangements have been made in view of the rush expected during Dhanteras, Diwali, Bhai Dooj and Chhath Puja
+## SC rejects bail plea of doctor accused of prescribing cough syrup linked to 26 child deaths
+The SC refused bail to paediatrician Praveen Soni, accused of continuing to prescribe Coldrif cough syrup linked to 26 children’s deaths in Madhya Pradesh.
 
-## From rank-based admissions to lower fees: Decoding NMC's proposed NEET-PG reforms
-The proposed changes also include greater digitisation of counselling, lower fees for non-clinical courses, and a review of residents’ stipends, among others.
+## ‘Mummy, I won’: US midterm winner Saba Haider’s call brings joy to her mother in Ghaziabad
+Saba's mother, Shahnaz Haider, expressed happiness over her daughter's achievement, saying the victory made years of hard work and dedication worthwhile.
 
-## In age of flux, India must not shy away from risks, bold reforms
-The geopolitical flux is undoubtedly challenging, but countries with an ability to take risks and carry out bold reforms can find crucial opportunities even in this scenario. India must not fight shy of doing it.
+## Telecom regulator recommends new licence to let satellite firms rent out networks to telcos
+If DoT accepts the recommendations, global satellite firms such as Starlink and Eutelsat OneWeb could enter India purely as network providers.
 
-## SC: Not inclined to transfer Tirupati ghee trial out of AP
-The Supreme Court on Thursday refused to transfer the trial in the Tirupati “laddu” adulteration case outside Andhra Pradesh observing that the courts are immune from political statements made in the case.
+## Rohini, RK Puram, Vivek Vihar among 10 most polluted areas in Delhi-NCR
+An analysis of the data by HT Pollution Dashboard showed that 31 monitoring stations recorded 'severe' air quality, while 28 were in the 'very poor' category.
 
-## 3 contractors arrested after Chawri Bazar building collapse kills two
-Chief minister Rekha Gupta ordered the immediate suspension of the junior engineer and assistant engineer concerned.
+## China’s AI chipmakers report first profits, but will the trend continue?
+China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring memory costs cloud their long-term growth prospects. Domestic graphics processing unit (GPU) developers including M
 
-## EC announces SSR in 4 states and 2 UTs; draft rolls on Nov 30
-The Election Commission of India (ECI) has ordered a Special Summary Revision (SSR) of electoral rolls in Arunachal Pradesh, Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Mizoram, Odisha and Sikkim, even as its contentious Special Intensive Revision (SIR) continues to be under scrutiny
+## AI bubble bursts, fifth plenum resolution, Singles’ Day
+China’s stocks pared weekly gains and the benchmark 10-year bond hit a record low as the global artificial intelligence (AI) stock bubble burst following the US Democrats’ landslide win in midterm elections. The CSI 300 equity index fell 1.4 per cent, weighed down by AI-related shares. Hong Kong’s H
 
-## ‘Win-win solution’: Defence secretary hails Agniveer extension, explains why 75% recruits get 2 more years
-The extension allows 75 per cent of each batch, who were earlier required to leave after four years, to serve for another two years.
+## Dutch asset manager Robeco planning to expand presence in Hong Kong
+Dutch asset management firm Robeco is planning to expand its presence in Hong Kong to ride the robust wave of wealth creation in the Asia-Pacific region, CEO Karin van Baardwijk said this week. The Rotterdam-headquartered firm, which had client assets totalling US$464 billion in June, would move int
 
-## Over 150 locations across Delhi to get quicker fire response ahead of Diwali
-The department has deployed 50 QRVs at identified fire hotspots across the city, in addition to 20 motorcycles
+## From finance summit to AI-driven stock rout: 5 figures investors are watching in China
+China’s state intervention in the struggling market accelerated this week, even before the US midterm results gave global markets a jolt. Meanwhile, global executives gathered in Hong Kong to discuss issues ranging from the AI trade to asset diversification and wealth management, amid the city’s bet
+
+## Hong Kong property investors buck Asia-Pacific buying shift, survey shows
+Hong Kong’s property market is bucking a wider shift towards selling across Asia-Pacific, with three-quarters of market professionals reporting stronger buying intentions among their clients, even as rising borrowing costs are making investors across the region more cautious. About 75 per cent of re
+
+## Hong Kong’s Exchange Fund earnings tumble 74% as HKMA warns of more market turbulence
+Hong Kong’s Exchange Fund, the war chest used to defend the local currency, reported a 74 per cent tumble in third-quarter earnings amid pervasive market uncertainty, the Hong Kong Monetary Authority (HKMA) said on Friday. Earnings totalled HK$18.6 billion (US$2.4 billion) in the quarter, plunging f
+
+## HKEX posts first quarterly profit decline in over 2 years as Hong Kong market cools
+Hong Kong Exchanges and Clearing (HKEX), the operator of Asia’s third-largest stock market, has reported its first year-on-year decline in quarterly profit in over two years amid a slowdown in market turnover, with profits falling 10 per cent compared with the previous quarter. Net profit for the th
 
 ## Tech stocks lead declines in Hong Kong, mainland China on US$2.3 trillion carnage in US
-Stocks in Hong Kong and mainland China dropped on Friday, tracking a meltdown in US technology companies that erased more than US$2 trillion in market value on concerns that a Democrat-controlled Congress could upend AI infrastructure buildouts. The Hang Seng Index fell 1.5 per cent to 24,458.68 by 
-
-## ‘Mindful’ of AI exposure: wealth managers at Hong Kong summit urge balance in portfolios
-Before tech stocks plummeted in the US overnight, executives at a private wealth conference in Hong Kong have highlighted AI infrastructure as a versatile “defence plus growth” investment opportunity, while cautioning investors against portfolios that are overreliant on artificial intelligence. “Inf
-
-## ‘Bullish on China’: US brand Levi’s bucks retail headwinds with localisation strategies
-US apparel retailer Levi Strauss & Co says it is bullish on China and plans further investment and new store openings in the market, riding robust growth driven by young shoppers. While the consumer market in China remains challenging for many multinationals, with a host of foreign brands shuttering
-
-## Hong Kong developer Hysan’s Lee Garden Eight draws law firm out of Central: sources
-Hong Kong law firm Woo Kwan Lee & Lo is reportedly relocating to Causeway Bay after more than five decades in Central’s Jardine House, reserving about 39,000 square feet in Hysan Development’s Lee Garden Eight in a major lease for the new commercial complex. Market sources identified the firm as the
-
-## The AI sell-off is a taste of things to come
-There are good reasons for investors to be bullish about artificial intelligence (AI). The earnings of technology firms in the S&P 500 are expected to increase 54 per cent this year. For the index as a whole, profits will rise 33 per cent, turbocharged by the tech and energy sectors, data from FactS
-
-## After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?
-Elon Musk bet nearly half a billion dollars that political spending could keep Washington friendly to his sprawling business empire. On Tuesday, that bet came up short. As Democrats recaptured control of the US Congress in the midterm elections, the world’s richest man found himself facing an abrupt
-
-## No Intel, no Qualcomm: Huawei unveils desktop built entirely with China-made components
-Huawei Technologies has launched its first desktop computer powered by its proprietary operating system, HarmonyOS, touting the device as “100 per cent domestically made” in its latest push for technological self-reliance. The Shenzhen-based company on Thursday unveiled its Qinyun HM650 series deskt
-
-## US borrowing outlook steadies after midterms, but Treasury yields face new tests: analysts
-After the Democrats swept the US midterm elections, a divided government may help restrain future Treasury borrowing and prevent fresh deficit blowouts, though it will not necessarily bring down elevated bond yields, analysts say. The US Treasury Department unveiled its quarterly refunding statement
+Stocks in Hong Kong and mainland China dropped on Friday, tracking a meltdown in US technology companies that erased more than US$2 trillion in market value on concerns that a Democrat-controlled Congress could upend the breakneck expansion of the AI industry. The Hang Seng Index fell 1.3 per cent t
 
 ## How Foreign Policy Shaped These 3 Critical Midterm Races
 It wasn’t just Iran. Israel, tariffs, and immigration also loomed large in voters’ minds.
@@ -162,6 +156,9 @@ Here’s what Congress can actually do in the next two years.
 ## Trump Has Shifted the U.S.-Pakistan Relationship
 But close bilateral ties might not survive his lame-duck period and a Democratic Congress.
 
+## For More Than 20 Years, Bangladesh’s One Constant Has Been Political Violence
+Violent clashes between rival parties, within their own ranks, and around elections have persisted through successive governments.
+
 ## Asia’s Debt Handoff: Who Finances the Post-BRI Era?
 As Belt and Road repayments come due and multilateral lenders step in, Asian borrowers must decide whether the new creditor landscape becomes a source of leverage or simply a new form of dependence.
 
@@ -180,11 +177,8 @@ While President Trump angles for a meeting, the FBI and State Department signal 
 ## How a Diplomatic Row Ended a Korean Startup’s AI War Test in Ukraine
 Seoul is trying to maintain its support for Ukraine while dealing with a diplomatic dispute with Kyiv. But Newtype Industries, a defense startup in Seoul, says the same dispute has cost the company all of its Ukrainian partners.
 
-## The US Midterm Elections: Views From China
-Most Chinese analysts don’t expect a sea change in U.S. foreign policy, but there are some implications for China to consider.
-
-## Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President
-Emomali is chair of Tajikistan’s National Assembly, the appointed mayor of Dushanbe, and, oh yes, son of President Emomali Rahmon.
+## Can Washington and China Build Confidence Around AI and Stability?
+In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the White House to discuss, among other topics, AI, U.S. Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng at JPMorgan Chase’s New York City offices. At the meeting, U.S. officials proposed establishing a
 
 ## The Golden Dome Proposal is Destabilizing and Dangerous
 Editor’s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, “Golden Dome Is Technologically and Financially Infeasible.”Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and spac
@@ -206,9 +200,6 @@ In 2025, Ari Heistein wrote, “Defeating the Houthis Will Require More Than Kil
 
 ## Quantum’s Quietest Branch: A Case for Magnetometry
 After an F-15E went down in Operation Epic Fury, the weapons systems officer landed injured, behind enemy lines, and with a bounty on his head. CIA Director John Ratcliffe analogized locating him to finding a “grain of sand in the middle of a desert.” When commandos pulled him out 36 hours later, on
-
-## Humanity’s Promethean Gap with AI
-Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security and defense, the stakes are particularly high. The industry’s new calls to pace the frontier also ri
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza turns discarded cooking pots into seawalls
-As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.
+## Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon
+Court had approved his transfer after the former prime minister's party paid $12m fine via crowdfunding.
 
-## California governor commutes sentences of more than 500 people on death row
-Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.
+## Tech stock rout, driven by US AI fears, continues in Asian trading
+Global markets are being roiled due to concerns over US data centre expansion and AI regulation.
 
-## Israeli settlers set fire to Palestinian olive grove near Ramallah
-Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.
+## UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’
+Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers.
 
-## Turkiye’s parliament ratifies Mecca defence agreement
-Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.
+## Abdul El-Sayed did not have to become less Muslim to win
+His historic victory in Michigan shows that Muslim Americans need not abandon their identity to succeed in politics.
 
-## Trump met Russian envoy after he appeared with Melania Trump and Ukrainians
-Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.
+## Can America ever return to pre-Trump politics?
+The US midterms were a rejection of Trump's politics of division, but his legacy may be impossible to undo.
 
-## Iran war live: Trump warns US may have to ‘destroy’ rest of Iran
-Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.
+## US judge halts construction of Trump’s triumphal arch in Washington, DC
+A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.
 
-## Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor
-DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.
+## Lebanese pack bags and stock up amid fears of new Israeli escalation
+Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.
 
-## Generation Z and young voters help redefine US politics after midterms
-Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.
+## How Israel is tightening its grip on Palestinian schools in East Jerusalem
+Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.
+
+## Diwali: A Festive Demand Barometer For The Economy
+Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
 
 ## SEBI revisits startup listing rules after IGP fails to gain traction
 18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
@@ -278,9 +272,6 @@ Cyberattacks targeting financial institutions have raised concerns about securit
 
 ## TVS family succession dispute raises governance questions for listed companies, says InGovern
 A succession dispute concerning the Venu Srinivasan family has emerged, affecting both TVS Holdings and TVS Motor Company. The disagreement primarily revolves around the distribution of family assets and management arrangements, raising governance concerns for minority shareholders. Venu Srinivasan 
-
-## CII calls for GST-like reforms in land, labour & local approvals
-CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across diff
 
 ## Sebi eases KYC norms for NRIs, OCIs; allows digital onboarding
 Sebi has introduced new KYC relaxations for individuals living abroad, allowing them to complete onboarding digitally if they are from FATF-compliant nations. This updated regulation, effective December 3, aims to simplify compliance for non-resident clients. Additionally, the new framework includes
