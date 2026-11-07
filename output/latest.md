@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Berkshire Hathaway ploughs $9.6bn into share buybacks
+Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year
+
+## New Zealand’s National Party set to cling on to power
+Rightwing bloc projected to win enough seats to form a government
+
+## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’
+Transport secretary’s $42.5bn project to squeeze decades of much-needed upgrades into three years could be risky, experts argue
+
+## What will a Democratic Congress mean for Ukraine?
+With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv
+
+## Data centres rebuked
+Capex, meet the electorate
+
 ## UK will not slow down on AI despite backlash in US, says growth minister
 Dan Tomlinson asserts that pace of investment is ‘too low for what we need to stay at the forefront as AI technology develops’
 
@@ -9,23 +24,14 @@ Delay deepens doubts within Labour whether PM’s vision for UK will be as trans
 ## The UK has few easy options for rejoining a ‘traumatised’ EU
 Accession is really not a negotiation. It is a process and candidates must tick all the relevant boxes
 
-## Trump’s defeat heralds a US retreat
-American retrenchment could change Middle East balance of power and signify opportunities for China
+## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
+Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
 
 ## European security agencies probe whether bomb hoaxes started in Russia
 A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups
 
-## The mother of all American course corrections
-US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated
-
-## Zelenskyy to be honoured with UK state visit in 2027
-The grand occasion will mark five years since Russia’s full-scale invasion of Ukraine
-
-## How Wall Street’s all-in bet on AI blew up
-US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets
-
-## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
-Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
+## No, ‘mogging’ does not signal the decline of the English language
+The popularity of manosphere vocabulary takes the sting out of a harmful ideology
 
 ## UK officials warned that changing mackerel definition could mislead shoppers
 Internal emails show concern at moves to allow Chilean species to be sold as ‘jack mackerel’, even though it is from a different family from traditional product
@@ -36,38 +42,44 @@ Voter hostility to Big Tech helped shape the US midterms, and similar fears are 
 ## ‘I don’t do business plans’ — serial entrepreneur Marcia Kilgore
 Beauty Pie and FitFlop founder Marcia Kilgore on dropping out of university, resisting venture capital for decades and her frugal approach to spending
 
-## Renault readies for ‘golden moment’ for EVs in UK despite Chinese onslaught
-French carmaker has topped the British electric vehicle sales charts with its R5 hatch
+## Bank of Baroda’s Guyana subsidiary opens new Head Office, Georgetown branch
+Bank of Baroda is the only Indian bank with a presence in Guyana
 
-## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
-American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group
+## Can Samvat 2083 sustain the rebound?
+History offers hope of recovery, but global risks and weak market breadth call for caution
 
-## ‘It’s almost like a nightclub’: Hyrox takes off in China amid fitness frenzy
-Group behind gruelling competitive races faces challenges from Chinese rivals
+## TN government scraps Kurian Joseph committee on Centre-State relations
+The decision, effective immediately, follows a government order reconstituting the Law Commission on August 7
 
-## Indian Railways to quadruple 7 major corridors, add over 1,000 trains
-Heavy freight movement, particularly coal transportation, and rising passenger volumes have put existing railway lines under pressure, prompting a major capacity expansion
+## Govt consults exporters on relief for inland freight costs, container crunch
+Officials seek industry inputs on eligibility and rollout of support measures as West Asia crisis disrupts shipping and strains margins
 
-## Mammootty returns to Tamil cinema after 7 years with Dhanush, Sai Pallavi in ‘OM’
-Directed by Rajkumar Periasamy, the film centres on illegal red sandalwood trade and a crisis involving rural labourers
+## A new height in aviation: IAF’s IL-76MD lands at Nyoma, highest airbase
+The Russian transporter aircraft created a milestone that reinforces India’s strategic airlift capability
 
-## Force Motors to launch EV on Traveller platform in Q4 FY27
-The company plans to introduce multiple Traveller EV variants, followed by an electric version of its Urbania people carrier
+## Gujarat Energy to foray into compressed bio-gas space with ₹100 crore investment; seeks JV partners
+The Gujarat government-owned PSU has issued an expression of interest inviting JV partners to set up and run CBG plants, with an estimated investment of about ₹100 crore
 
-## US midterms could accelerate stock market rotation; Goldman Sachs sees healthcare as ‘next leg of AI trade’
-Investors are reassessing portfolio positions amid market uncertainty, with valuations, earnings prospects and upcoming US economic and policy developments shaping sentiment
+## Russian fintech firm A7 launches new cross-border payment options for India
+Volume of payments A7 processed to India from January to August this year was 60% higher than the whole of last year, company data shows
 
-## Jefferies warns AI investment cycle may have peaked; raises India allocation to 14%
-Rising borrowing costs and questions over investment returns are prompting investors to reassess technology spending and explore opportunities beyond the AI supply chain
+## SBI’s US subsidiary opens branch in North Dallas
+SBIC’s branch network in the United States increases to eight
 
-## Tamil Nadu to roll out ₹2,000-crore Vetri laptop scheme for college students
-The scheme will cover first- and second-year undergraduate and diploma students studying in government and government-aided colleges during the 2026-27 academic year
+## ‘Loads more ahead’: British High Commission in India hails trade deal amid Diwali celebrations
 
-## Indian businesses move from AI pilots to full-scale deployment, says Oracle India head
-Companies are increasingly seeking measurable returns from artificial intelligence, while workforce training, infrastructure development and governance remain central to wider adoption
 
-## NSE EGR trading hits record 2.27 lakh units on Dhanteras
-The record trading milestone highlights growing investor interest in exchange-traded gold and efforts to bring domestic physical and recycled supplies into the formal financial system
+## As AI stocks correct, Goldman Sachs sees opportunity in healthcare & non-AI equities
+US midterm elections could shift market dynamics, prompting investors to adopt more defensive positions in their portfolios. Healthcare is anticipated to benefit from advancements in AI as it sees potential growth. Many traditional defensive sectors, however, appear less attractive due to elevated v
+
+## Coca-Cola's Indian bottling business files for IPO; 99.75 crore shares up for sale
+Hindustan Coca-Cola Holdings Ltd has filed its draft IPO papers with the Securities and Exchange Board of India. The planned IPO will involve the sale of up to 99.75 crore equity shares by the promoter. Coca-Cola aims to list HCCH by 2027 amid a global asset-light strategy for its bottling assets. T
+
+## Elon Musk's dream vehicle to cease production - What went wrong with Tesla Cybertruck
+Tesla is set to cease Cybertruck production by mid-2027 as it pivots towards the Cybercab robotaxi initiative. The Cybertruck's sales have disappointed, falling short of Elon Musk's ambitious expectations. Its avant-garde design polarized opinions within the automotive sphere, while Musk's contentio
+
+## Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy
+Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Samvat 2083. This trading session reflects auspiciousness associated with the Diwali festival and investor optimism. Major indices have seen strong rallies leading up to this event, driven by foreign investments and stable 
 
 ## Stuck at work on Diwali? Firms offer employees longer breaks, better gifts and more
 Companies are implementing various initiatives to support employees working during Diwali by providing festive perks. These include extended weekends, work-from-home options, and personalized gifts for staff. Some firms are organizing celebrations for employees who remain on duty, ensuring they do n
@@ -78,44 +90,29 @@ Voltas is set for a notable leadership change as Sunil Alaric D'Souza steps in a
 ## Why new LNG projects may not prevent a global gas crunch this winter
 Global liquefied natural gas supplies are facing unprecedented challenges due to ongoing disruptions in the Strait of Hormuz. The International Energy Agency reports that LNG loadings from Qatar and the UAE have decreased significantly. As a result, global LNG output is projected to fall between 10 
 
-## India's forex reserves dip by $2.69 billion: What's behind the decline?
-India's foreign exchange reserves decreased by $2.691 billion, primarily due to lower foreign currency assets and gold holdings. Foreign currency assets fell by $2.088 billion, while gold reserves decreased by $559 million during the reporting week. Despite this decline, overall reserves remain high
+## Ayodhya lights up with over 30 lakh diyas on Diwali eve, CM Yogi attends 10th edition of Deepotsav
+Ayodhya lit up with thousands of earthen lamps on Saturday as the city celebrated the 10th edition of Deepotsav.
 
-## Republicans spent more, Democrats won more: Inside the costliest US midterm battle
-In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High turnout from Latino constituents significantly
+## Sonia Gandhi recalls pleading with Rajiv not to become PM after Indira’s assassination: ‘They will kill you’
+Sonia said she was overwhelmed by anger and anguish at the prospect of Rajiv taking over as prime minister, fearing that he too could become a target.
 
-## US stocks: Wall street bounces back after hitting 18-month low as chipmakers rally
-Wall Street showed signs of recovery on Friday, driven primarily by semiconductor stocks, following earlier losses. The semiconductor sector, particularly companies like Nvidia and AMD, experienced significant rebounds in share prices. Concerns regarding potential regulatory changes in the AI indust
+## Ghaziabad outpost blast: Agencies conduct checks; social media account claims responsibility
+The explosion that happened on Friday around 9pm at the rear wall of the Vasundhara police outpost cracked walls and shattered windowpanes
 
-## Semicon 2.0 aims to attract 8 major suppliers to India
+## Biswajit Basu becomes fourth former Calcutta HC judge to quit Bengal SIR tribunal
+The SIR tribunals were formed amid a controversy over the deletion of a few million names from Bengal’s electoral rolls
 
+## HT Evening News Brief Nov 7: PM Modi’s Diwali message, IAF's historic landing in Ladakh and more
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
 
-## Seize, sell Tata Power's shares in arms: Court
+## 22-year-old kills father in Ghaziabad after he scolds him over quarrel with sister: Police
+Officers said the incident stemmed from a domestic dispute on Friday evening.
 
+## Dispute over parking, dog ended in ex-Tech Mahindra executive's murder in Faridabad; neighbour arrested
+The victim had arrived in India from Singapore on November 5 to celebrate Diwali with his family and was also scheduled to attend his nephew's wedding.
 
-## Pithoragarh man held for killing live-in partner over character suspicion: Cop
-The incident came to light on Friday morning when police received information that a woman’s body was found near the Khotila bridge
-
-## IAF's IL-76MD completes landing in highest-altitude ever touchdown by the plane
-The IAF's IL-76 MD transport aircraft of Russian origin successfully landed at the Nyoma air base in Ladakh, located at a height of 13,700 feet.
-
-## 'Run bulldozers over our bodies': Mamata slams BJP over clashes outside nephew Abhishek's home
-Mamata's remarks came after eight people were allegedly injured in two consecutive clashes between two groups outside the residence of Abhishek Banerjee.
-
-## Two deer killed by suspected poachers in Rajasthan's Barmer; villagers stage protest
-According to villagers, the suspected poachers killed two deer and allegedly tied the legs of one carcass before hanging it upside down from a tree.
-
-## Kolkata's Presidency University expels two students over defacement of Swami Vivekananda poster
-The two students have been barred from participating in further academic activities at the university.
-
-## Akhilesh Yadav to visit Ayodhya Ram Temple with family for first time since consecration
-The visit comes months before the Uttar Pradesh Legislative Assembly election, scheduled to be held in February or March next year.
-
-## Four Siang dam protesters released in Arunachal after nearly month in detention
-Four Siang dam protesters released in Arunachal after nearly month in detention
-
-## Bulandshahr man lures 8-yr-old girl with treat, rapes and kills her; flees: Police
-Police teams have been deployed to trace the accused, while further investigation is underway to establish the sequence of events
+## High fares, longer journeys, delays make special trains less attractive to passengers: Officials
+High fares, longer journeys, delays make special trains less attractive to passengers: Officials
 
 ## China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback
 International brands have become unlikely beneficiaries of Beijing’s clampdown on so-called rapidly developed vehicles as they step up efforts to convince Chinese consumers of their cars’ quality and reliability. About 10 foreign carmakers from Tesla to General Motors (GM) were not only displaying t
@@ -237,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China’s e-bikes boom as fuel prices rise
-E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
+## Iran’s IRGC says building underground sites for weapons production, storage
+IRGC says underground military complexes allow missile production to continue even under heavy bombardment.
 
-## US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
-The first Muslim senator's new committee will let him raise money for other candidates.
+## Trump’s new chief of staff Stephen Miller says he ‘saved America’
+Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.
 
-## Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
-The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
+## At least five people killed in shooting in Poland’s Krakow
+Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.
 
-## Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return
-LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.
+## The Lions by the River Tigris: Restoring Mosul’s artefacts
+When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.
 
-## Houston mayor curbs cooperation of US city’s police with ICE
-People stopped for minor traffic violations will no longer be referred to US Immigration and Customs Enforcement.
+## Iraq’s FM says external parties using Iraqi soil to attack neighbours
+Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.
 
-## Qatari PM says US willing to seek solution to war with Iran
-Qatari PM says US willing to seek solution to war with Iran
+## New Zealand’s prime minister says election is ‘too close to call’
+New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
 
-## WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva
-Pegula's conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream.
+## Who is Hakeem Jeffries, the Democrat poised to become House speaker?
+Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
 
-## Trump confirms US strikes in Iran, insists ‘it’s not a war’
-US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.
+## ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
+The hard-left leader has transformed into a real contender in next year presidential elections.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
