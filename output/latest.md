@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Trump says he asked UFC boss Dana White to be new press secretary
-President sacked previous White House spokesperson after five days
-
 ## Gunman kills six in Kraków shooting
 Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident
+
+## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
+American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group
+
+## Israel’s president gives Gadi Eisenkot first chance at forming a government
+Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition
+
+## Trump asks UFC boss Dana White to be new press secretary
+US president signals combative approach in wake of midterms drubbing of his party
 
 ## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society
 Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum
@@ -17,12 +23,6 @@ Rightwing bloc projected to win enough seats to form a government
 
 ## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’
 Transport secretary’s $42.5bn project to squeeze decades of much-needed upgrades into three years could be risky, experts argue
-
-## What will a Democratic Congress mean for Ukraine?
-With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv
-
-## Data centres rebuked
-Capex, meet the electorate
 
 ## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
 Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
@@ -38,9 +38,6 @@ Internal emails show concern at moves to allow Chilean species to be sold as ‘
 
 ## Gillian Tett: Why does America hate AI?
 Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic
-
-## ‘I don’t do business plans’ — serial entrepreneur Marcia Kilgore
-Beauty Pie and FitFlop founder Marcia Kilgore on dropping out of university, resisting venture capital for decades and her frugal approach to spending
 
 ## Insurance Query: Inclusivity is key
 Every individual can access insurance, has the right to understand the coverage and receive support when a claim arises.
@@ -165,8 +162,8 @@ U.S. voters spoke loudly on AI, trade, and affordability.
 ## Can Europe Regulate China’s E-Commerce Giants Without Closing Its Market?
 The challenge is not simply how to regulate Chinese platforms, but how to preserve an open and fair market as cross-border commercial networks become increasingly integrated.
 
-## The Taipei Mayor Election Is Not About China
-As usual, Taiwan’s local elections are about local politics – not independence or unification.
+## Taipei’s Voters Aren’t Choosing Independence or Unification
+Whatever the result of the election, don't take it as a reflection of Taiwanese preferences for China policy.
 
 ## Beijing Has Little Reason to Welcome America’s Midterm Results
 China has grown comfortable with Trump’s transactional diplomacy. A Democratic Congress could complicate Beijing’s calculations – and remind the world of U.S. democracy’s strength.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona
+Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.
+
+## Police clash with protesters as anti-government rallies sweep France
+Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.
+
+## Mélenchon promises action against Israeli annexation if elected President
+Mélenchon promises action against Israeli annexation if elected President
+
+## Who is behind Europe’s suspected hybrid attacks?
+Bomb hoaxes and supermarket cyberattacks are heightening security fears.
+
+## Abdul El-Sayed slams Trump’s tariff war with Canada
+Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.
+
+## Israel’s president picks Eisenkot over Netanyahu to form next government
+Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.
+
+## More than 140,000 rally as new protests against rising costs sweep France
+Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.
+
 ## Ukraine’s Zaporizhzhia faces threat as Russian drones close in
 Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.
-
-## Paraguay’s ousted president appears before prosecutors after impeachment
-Former Paraguayan President Santiago Pena has appeared before prosecutors.
-
-## Masked protesters set off firecrackers and block roads in Albania
-Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.
-
-## Trump orders DOJ to investigate Democrats for ‘threatening’ people
-Trump lashed out at Democrats on Truth Social days after the party won control of Congress.
-
-## How did AIPAC-backed candidates fare in the US midterm elections?
-Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.
-
-## Malaysian king warns against defying house arrest order for ex-PM Najib
-Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.
-
-## Latvian farmers protest over ‘blood grain’ trade with Russia
-Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.
-
-## Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa
-Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
