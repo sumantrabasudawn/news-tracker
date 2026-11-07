@@ -1,67 +1,91 @@
 # AION Intelligence
 
-## US warns China it must ‘immediately’ meet terms of Busan trade deal
-Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products
+## UK will not slow down on AI despite backlash in US, says growth minister
+Dan Tomlinson asserts that pace of investment is ‘too low for what we need to stay at the forefront as AI technology develops’
 
-## US stocks recover after tech rout
-Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil
+## Burnham’s 10-year plan morphs into ‘high-level’ blueprint
+Delay deepens doubts within Labour whether PM’s vision for UK will be as transformational as billed
 
-## US economy outstrips forecasts to add 165,000 jobs in October
-Hiring rebound reinforces expectations Federal Reserve will raise interest rates
+## The UK has few easy options for rejoining a ‘traumatised’ EU
+Accession is really not a negotiation. It is a process and candidates must tick all the relevant boxes
 
-## Trump taps immigration hardliner Stephen Miller as chief of staff
-Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat
+## Trump’s defeat heralds a US retreat
+American retrenchment could change Middle East balance of power and signify opportunities for China
 
-## US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears
-Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs
+## European security agencies probe whether bomb hoaxes started in Russia
+A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups
 
-## Voters take their pick in New Zealand’s ‘supermarket election’
-Christopher Luxon tries to hang on as cost of living crisis and high energy prices weigh on consumers
+## The mother of all American course corrections
+US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated
 
-## Anthropic to press ahead with IPO targeting $1.5tn valuation
-Claude maker intends to list before Thanksgiving despite brutal tech rout
+## Zelenskyy to be honoured with UK state visit in 2027
+The grand occasion will mark five years since Russia’s full-scale invasion of Ukraine
 
-## Ex-OpenAI employee accused of spying pleads not guilty
-Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office
+## How Wall Street’s all-in bet on AI blew up
+US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets
+
+## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
+Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
+
+## UK officials warned that changing mackerel definition could mislead shoppers
+Internal emails show concern at moves to allow Chilean species to be sold as ‘jack mackerel’, even though it is from a different family from traditional product
+
+## Why does America hate AI?
+Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic
+
+## ‘I don’t do business plans’ — serial entrepreneur Marcia Kilgore
+Beauty Pie and FitFlop founder Marcia Kilgore on dropping out of university, resisting venture capital for decades and her frugal approach to spending
+
+## Renault readies for ‘golden moment’ for EVs in UK despite Chinese onslaught
+French carmaker has topped the British electric vehicle sales charts with its R5 hatch
+
+## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
+American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group
 
 ## ‘It’s almost like a nightclub’: Hyrox takes off in China amid fitness frenzy
 Group behind gruelling competitive races faces challenges from Chinese rivals
 
-## Bomb threats target media and flights as email warns ‘this is only the beginning’
-Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin
+## Indian Railways to quadruple 7 major corridors, add over 1,000 trains
+Heavy freight movement, particularly coal transportation, and rising passenger volumes have put existing railway lines under pressure, prompting a major capacity expansion
 
-## A new phase in the tech market correction
-Investors are no longer pricing in accelerating AI growth
+## Mammootty returns to Tamil cinema after 7 years with Dhanush, Sai Pallavi in ‘OM’
+Directed by Rajkumar Periasamy, the film centres on illegal red sandalwood trade and a crisis involving rural labourers
 
-## West End reports spending boost after Oxford Street bans cars and buses
-Transactions on Barclays debit and credit cards increased 13% between October 26 and October 31, compared with same period last year
+## Force Motors to launch EV on Traveller platform in Q4 FY27
+The company plans to introduce multiple Traveller EV variants, followed by an electric version of its Urbania people carrier
 
-## Stockpickers: Focusrite, RS Group, Associated British Foods
-Our experts discuss which companies to buy, sell or hold this week
+## US midterms could accelerate stock market rotation; Goldman Sachs sees healthcare as ‘next leg of AI trade’
+Investors are reassessing portfolio positions amid market uncertainty, with valuations, earnings prospects and upcoming US economic and policy developments shaping sentiment
 
-## NSE urges investors to buy gold-backed EGRs this Dhanteras, sees $5–6 billion import savings
-The exchange is seeking to bring domestically recycled gold and household holdings into the formal financial system through electronic receipts
+## Jefferies warns AI investment cycle may have peaked; raises India allocation to 14%
+Rising borrowing costs and questions over investment returns are prompting investors to reassess technology spending and explore opportunities beyond the AI supply chain
 
-## DVAC books Durai Murugan in alleged ₹1,427-crore Tamil Nadu sand mining scam
-The investigation follows complaints alleging tender violations, excess quarrying and fabricated transport permits across 28 river sand quarries in Tamil Nadu.
+## Tamil Nadu to roll out ₹2,000-crore Vetri laptop scheme for college students
+The scheme will cover first- and second-year undergraduate and diploma students studying in government and government-aided colleges during the 2026-27 academic year
 
-## Amazon lets US customers shop through text messages using AI-powered Alexa
-The move expands Amazon’s AI-powered shopping services as competition intensifies over access to online marketplaces and automated purchasing tools
+## Indian businesses move from AI pilots to full-scale deployment, says Oracle India head
+Companies are increasingly seeking measurable returns from artificial intelligence, while workforce training, infrastructure development and governance remain central to wider adoption
 
-## Canada plans to grant permanent residency to 2,00,000 temporary residents by 2027
-The one-time initiative will cover workers and humanitarian cases as Ottawa adjusts immigration policies amid concerns over population growth and housing
+## NSE EGR trading hits record 2.27 lakh units on Dhanteras
+The record trading milestone highlights growing investor interest in exchange-traded gold and efforts to bring domestic physical and recycled supplies into the formal financial system
 
-## Noel Tata appointed Voltas Chairman Emeritus; Sunil D’Souza to take over as Chairman
-The Tata Group company has outlined a phased leadership transition, with changes involving its board and senior management taking effect over coming months
+## Stuck at work on Diwali? Firms offer employees longer breaks, better gifts and more
+Companies are implementing various initiatives to support employees working during Diwali by providing festive perks. These include extended weekends, work-from-home options, and personalized gifts for staff. Some firms are organizing celebrations for employees who remain on duty, ensuring they do n
 
-## Trump participates in Diwali celebrations at the White House
-The White House has hosted Diwali celebrations under successive presidents, with ceremonies held in different rooms over the years
+## Noel Tata to step down as Voltas chairman from November 12; Sunil D'Souza named successor
+Voltas is set for a notable leadership change as Sunil Alaric D'Souza steps in as Chairman following Noel N Tata's retirement. Tata, who has been with the company since 2003, will take on the role of Chairman Emeritus. Meanwhile, Mukundan Menon C.P. will also retire as Managing Director on May 24, 2
 
-## Microsoft to wind down Oracle AI computing arrangement amid cloud partnership review
-The move reflects changing computing requirements at Microsoft, while Oracle shares declined amid the reported decision during Friday’s trading session.
+## Why new LNG projects may not prevent a global gas crunch this winter
+Global liquefied natural gas supplies are facing unprecedented challenges due to ongoing disruptions in the Strait of Hormuz. The International Energy Agency reports that LNG loadings from Qatar and the UAE have decreased significantly. As a result, global LNG output is projected to fall between 10 
 
-## TCS Nashik case: AIMIM leader Imtiyaz Jaleel named accused in supplementary chargesheet
-The latest development follows an SIT investigation into allegations of workplace harassment, religious coercion and the alleged sheltering of a key accused.
+## India's forex reserves dip by $2.69 billion: What's behind the decline?
+India's foreign exchange reserves decreased by $2.691 billion, primarily due to lower foreign currency assets and gold holdings. Foreign currency assets fell by $2.088 billion, while gold reserves decreased by $559 million during the reporting week. Despite this decline, overall reserves remain high
+
+## Republicans spent more, Democrats won more: Inside the costliest US midterm battle
+In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High turnout from Latino constituents significantly
+
+## US stocks: Wall street bounces back after hitting 18-month low as chipmakers rally
+Wall Street showed signs of recovery on Friday, driven primarily by semiconductor stocks, following earlier losses. The semiconductor sector, particularly companies like Nvidia and AMD, experienced significant rebounds in share prices. Concerns regarding potential regulatory changes in the AI indust
 
 ## Semicon 2.0 aims to attract 8 major suppliers to India
 
@@ -69,47 +93,38 @@ The latest development follows an SIT investigation into allegations of workplac
 ## Seize, sell Tata Power's shares in arms: Court
 
 
-## Rules tightened for classifying gold-backed farm loans as PSL
+## Pithoragarh man held for killing live-in partner over character suspicion: Cop
+The incident came to light on Friday morning when police received information that a woman’s body was found near the Khotila bridge
 
+## IAF's IL-76MD completes landing in highest-altitude ever touchdown by the plane
+The IAF's IL-76 MD transport aircraft of Russian origin successfully landed at the Nyoma air base in Ladakh, located at a height of 13,700 feet.
 
-## OVL looks to operate 2 Venezuelan oil projects
+## 'Run bulldozers over our bodies': Mamata slams BJP over clashes outside nephew Abhishek's home
+Mamata's remarks came after eight people were allegedly injured in two consecutive clashes between two groups outside the residence of Abhishek Banerjee.
 
+## Two deer killed by suspected poachers in Rajasthan's Barmer; villagers stage protest
+According to villagers, the suspected poachers killed two deer and allegedly tied the legs of one carcass before hanging it upside down from a tree.
 
-## Social media platforms urged to act on digital arrest scams
+## Kolkata's Presidency University expels two students over defacement of Swami Vivekananda poster
+The two students have been barred from participating in further academic activities at the university.
 
+## Akhilesh Yadav to visit Ayodhya Ram Temple with family for first time since consecration
+The visit comes months before the Uttar Pradesh Legislative Assembly election, scheduled to be held in February or March next year.
 
-## Rupee rises 57 paise to close at 6-month high of 93.91
+## Four Siang dam protesters released in Arunachal after nearly month in detention
+Four Siang dam protesters released in Arunachal after nearly month in detention
 
+## Bulandshahr man lures 8-yr-old girl with treat, rapes and kills her; flees: Police
+Police teams have been deployed to trace the accused, while further investigation is underway to establish the sequence of events
 
-## Pollution drives sales of air purifiers
+## China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback
+International brands have become unlikely beneficiaries of Beijing’s clampdown on so-called rapidly developed vehicles as they step up efforts to convince Chinese consumers of their cars’ quality and reliability. About 10 foreign carmakers from Tesla to General Motors (GM) were not only displaying t
 
+## Financial leaders tiptoe around Beijing’s asset scrutiny, hail Hong Kong’s wealth boom
+Global financial leaders who gathered in Hong Kong this week largely sidestepped Beijing’s offshore trust tax crackdown, a lingering near-term hurdle for the city’s otherwise expanding wealth management industry. Beijing’s move earlier this year to step up scrutiny of wealthy families’ overseas asse
 
-## Bosch Q2 revenue rises 28%, net up 19%
-
-
-## Ex-CJI Gavai to head panel vetting forest rights claims in Tamil Nadu
-The Supreme Court on Friday appointed former Chief Justice of India (CJI) Bhushan R Gavai to head a special committee that will scrutinise orders passed by authorities in Tamil Nadu under the Forest Rights Act, 2006 (FRA), even as it came down hard on the state government for its prolonged failure t
-
-## BJP plans special event on Advani’s 99th birthday
-The Bharatiya Janata Party (BJP) has planned a special celebration for party patriarch Lal Krishna Advani’s 99th birthday on Sunday, people aware of the details said
-
-## SC rejects bail plea of doctor accused of prescribing cough syrup linked to 26 child deaths
-New Delhi: The Supreme Court on Friday refused to grant bail to paediatrician Praveen Soni, who was arrested in October 2025 for allegedly continuing to prescribe Coldrif cough syrup linked to the deaths of 26 children in Madhya Pradesh, observing that the case was too serious to warrant his release
-
-## India, EU conclude negotiations over key scientific cooperation programme
-India and the European Union (EU) have concluded negotiations on New Delhi’s association with Horizon Europe, the EU’s €93
-
-## Our fight is to restore democracy, not just form govt, says KC Venugopal
-The Centre is turning every democratic institution into a tool for anti-democratic actions, Congress general secretary (organisation) KC Venugopal told HT in an interview
-
-## Maharashtra plans cochlear implant facility for patients with hearing impairment in all municipal hospitals
-At present, the Thane Municipal Corporation provides the facility, and the Maharashtra government is planning to expand it across other municipal corporations.
-
-## CJP protest LIVE: Cockroach Party's ‘Jantar Mantar at Kochi’ protest against SIR today; Dipke, Prakash Raj to attend
-CJP protest LIVE: Abhijeet Dipke and actor-activist Prakash Raj are among those scheduled to attend CJP's protest march in Kerala's Kochi today, demanding the withdrawal of the Special Intensive Revision (SIR) of electoral rolls.
-
-## Weather Bee: El Niño boosts eastern Pacific cyclone activity to record levels
-El Niño has driven accumulated cyclone energy in the eastern Pacific to its highest level since 1950, with 2026 already breaking previous records.
+## Former Evergrande economist faces WeChat gag order after ‘buy the dip’ call
+Amid a bear market in China’s stock exchanges, Ren Zeping, the high-profile independent economist famed for his prescient call on China’s A-share bull market, is once again in the spotlight for a “gag order” on his social media, though industry insiders say that the move by the platform was not unex
 
 ## Tiger Brokers targets Hong Kong growth as Beijing curbs overseas stock trading
 Tiger Brokers is seeking to offset the effects of Beijing’s regulatory crackdown by tapping business opportunities in Hong Kong, according to its CFO. “User growth is currently mainly driven by local Hong Kong clients, and overall client growth remains very strong,” said John Zeng, Group CFO and CEO
@@ -125,15 +140,6 @@ Ahead of a new round of bilateral trade talks, the US has extended the suspensio
 
 ## Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand
 Solana, one of the world’s largest blockchain networks, plans to expand in Hong Kong to tap the city’s growing demand for tokenisation, according to a senior executive. “I believe that the biggest opportunity for Solana is actually in [the Asia-Pacific region],” Solana Company chairman and CEO Josep
-
-## China’s AI chipmakers report first profits, but will the trend continue?
-China’s pure-play artificial intelligence chipmakers crossed an important milestone in the third quarter as several firms swung into profit, but severe supply chain hurdles and soaring memory costs cloud their long-term growth prospects. Domestic graphics processing unit (GPU) developers including M
-
-## AI bubble bursts, fifth plenum resolution, Singles’ Day
-China’s stocks pared weekly gains and the benchmark 10-year bond hit a record low as the global artificial intelligence (AI) stock bubble burst following the US Democrats’ landslide win in midterm elections. The CSI 300 equity index fell 1.4 per cent, weighed down by AI-related shares. Hong Kong’s H
-
-## Dutch asset manager Robeco planning to expand presence in Hong Kong
-Dutch asset management firm Robeco is planning to expand its presence in Hong Kong to ride the robust wave of wealth creation in the Asia-Pacific region, CEO Karin van Baardwijk said this week. The Rotterdam-headquartered firm, which had client assets totalling US$464 billion in June, would move int
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## CDC reports more than 5,000 measles cases, highest number in 35 years
-Children and teenagers make up almost 60 percent of confirmed cases.
+## China’s e-bikes boom as fuel prices rise
+E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
 
-## EU prosecutor office investigates fatal train crash in Spain
-The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.
+## US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
+The first Muslim senator's new committee will let him raise money for other candidates.
 
-## Pope Leo XIV arrives for South American tour after cancer surgery
-Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.
+## Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
+The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
 
-## Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
-The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.
+## Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return
+LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.
 
-## MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
-Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.
+## Houston mayor curbs cooperation of US city’s police with ICE
+People stopped for minor traffic violations will no longer be referred to US Immigration and Customs Enforcement.
 
-## Iran war live: Qatar says US, Iran should not wait to reach a peace deal
-Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.
+## Qatari PM says US willing to seek solution to war with Iran
+Qatari PM says US willing to seek solution to war with Iran
 
-## New Zealanders head to polls on final day of voting
-More than half of New Zealand’s voters cast early ballots in the tightly contested race.
+## WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva
+Pegula's conversation with her coach on a practice court at Indian Wells was broadcast on a WTA YouTube livestream.
 
-## EU tells TikTok to fix ‘harmful’ For You feed, threatens fines
-TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.
+## Trump confirms US strikes in Iran, insists ‘it’s not a war’
+US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
