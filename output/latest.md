@@ -1,6 +1,15 @@
 # AION Intelligence
 
-## Berkshire Hathaway ploughs $9.6bn into share buybacks
+## Trump says he asked UFC boss Dana White to be new press secretary
+President sacked previous White House spokesperson after five days
+
+## Gunman kills six in Kraków shooting
+Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident
+
+## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society
+Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum
+
+## Berkshire Hathaway steps up share buybacks with $9.6bn of purchases
 Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year
 
 ## New Zealand’s National Party set to cling on to power
@@ -15,15 +24,6 @@ With Donald Trump retaining control of foreign policy, lawmakers will use legisl
 ## Data centres rebuked
 Capex, meet the electorate
 
-## UK will not slow down on AI despite backlash in US, says growth minister
-Dan Tomlinson asserts that pace of investment is ‘too low for what we need to stay at the forefront as AI technology develops’
-
-## Burnham’s 10-year plan morphs into ‘high-level’ blueprint
-Delay deepens doubts within Labour whether PM’s vision for UK will be as transformational as billed
-
-## The UK has few easy options for rejoining a ‘traumatised’ EU
-Accession is really not a negotiation. It is a process and candidates must tick all the relevant boxes
-
 ## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
 Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
 
@@ -33,38 +33,38 @@ A working hypothesis is that the co-ordinated threats were produced by pro-Kreml
 ## No, ‘mogging’ does not signal the decline of the English language
 The popularity of manosphere vocabulary takes the sting out of a harmful ideology
 
-## UK officials warned that changing mackerel definition could mislead shoppers
+## Changing mackerel definition could mislead shoppers, officials warned
 Internal emails show concern at moves to allow Chilean species to be sold as ‘jack mackerel’, even though it is from a different family from traditional product
 
-## Why does America hate AI?
+## Gillian Tett: Why does America hate AI?
 Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic
 
 ## ‘I don’t do business plans’ — serial entrepreneur Marcia Kilgore
 Beauty Pie and FitFlop founder Marcia Kilgore on dropping out of university, resisting venture capital for decades and her frugal approach to spending
 
-## Bank of Baroda’s Guyana subsidiary opens new Head Office, Georgetown branch
-Bank of Baroda is the only Indian bank with a presence in Guyana
+## Insurance Query: Inclusivity is key
+Every individual can access insurance, has the right to understand the coverage and receive support when a claim arises.
+
+## Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction
+The crash on November 5, 2026, is notable given the intensity of the correction amid rising friction to the AI theme
+
+## Revised prices on anti-cancer medicines effective from Monday, estimated annual savings of over ₹3500 crore
+About 1000 brands show reduction in prices; 203 remain unchanged
+
+## Mastering Derivatives: Closing short positions before expiry
+It pays to keep your short call position open till expiry to realise maximum gains from the short position.
+
+## Tech Query: Alkem Laboratories, Intellect Design Arena, Trent, SRF — What is the outlook? Where are these stocks headed?
+We look at the prospects of Alkem Laboratories, Intellect Design Arena, Trent, SRF
+
+## US Market Outlook: Support to give a relief
+The US benchmark indices can bounce back after some more fall from
+
+## F&O Strategy: Buy Wipro call option
+
 
 ## Can Samvat 2083 sustain the rebound?
 History offers hope of recovery, but global risks and weak market breadth call for caution
-
-## TN government scraps Kurian Joseph committee on Centre-State relations
-The decision, effective immediately, follows a government order reconstituting the Law Commission on August 7
-
-## Govt consults exporters on relief for inland freight costs, container crunch
-Officials seek industry inputs on eligibility and rollout of support measures as West Asia crisis disrupts shipping and strains margins
-
-## A new height in aviation: IAF’s IL-76MD lands at Nyoma, highest airbase
-The Russian transporter aircraft created a milestone that reinforces India’s strategic airlift capability
-
-## Gujarat Energy to foray into compressed bio-gas space with ₹100 crore investment; seeks JV partners
-The Gujarat government-owned PSU has issued an expression of interest inviting JV partners to set up and run CBG plants, with an estimated investment of about ₹100 crore
-
-## Russian fintech firm A7 launches new cross-border payment options for India
-Volume of payments A7 processed to India from January to August this year was 60% higher than the whole of last year, company data shows
-
-## SBI’s US subsidiary opens branch in North Dallas
-SBIC’s branch network in the United States increases to eight
 
 ## ‘Loads more ahead’: British High Commission in India hails trade deal amid Diwali celebrations
 
@@ -90,6 +90,21 @@ Voltas is set for a notable leadership change as Sunil Alaric D'Souza steps in a
 ## Why new LNG projects may not prevent a global gas crunch this winter
 Global liquefied natural gas supplies are facing unprecedented challenges due to ongoing disruptions in the Strait of Hormuz. The International Energy Agency reports that LNG loadings from Qatar and the UAE have decreased significantly. As a result, global LNG output is projected to fall between 10 
 
+## Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight
+A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.
+
+## ‘Apologise to Ram Bhakts first’: Yogi Adityanath ahead of Akhilesh Yadav's visit to Ayodhya
+UP chief minister Yogi Adityanath said the same forces that had opposed the Ram temple movement were now trying to take political mileage from it.
+
+## Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim
+Singh asked the armed forces to strengthen cyber resilience, information integrity and domain awareness to boost combat readiness and tackle emerging threats.
+
+## TDP-led alliance sweeps Andhra Pradesh MPTC, ZPTC elections, secures landslide victory; YSRCP lags behind
+The TDP emerged as the dominant party, winning 229 ZPTC seats and 4,823 MPTC seats, including those declared unopposed.
+
+## CJP’s Abhijeet Dipke predicts ‘Modi govt’s defeat in 2029’ at anti-SIR rally in Kochi: ‘He will definitely go’
+Dipke alleged that the government was waging a war against the country's youth to protect Gyanesh Kumar and questioned why he was so important to the PM.
+
 ## Ayodhya lights up with over 30 lakh diyas on Diwali eve, CM Yogi attends 10th edition of Deepotsav
 Ayodhya lit up with thousands of earthen lamps on Saturday as the city celebrated the 10th edition of Deepotsav.
 
@@ -98,21 +113,6 @@ Sonia said she was overwhelmed by anger and anguish at the prospect of Rajiv tak
 
 ## Ghaziabad outpost blast: Agencies conduct checks; social media account claims responsibility
 The explosion that happened on Friday around 9pm at the rear wall of the Vasundhara police outpost cracked walls and shattered windowpanes
-
-## Biswajit Basu becomes fourth former Calcutta HC judge to quit Bengal SIR tribunal
-The SIR tribunals were formed amid a controversy over the deletion of a few million names from Bengal’s electoral rolls
-
-## HT Evening News Brief Nov 7: PM Modi’s Diwali message, IAF's historic landing in Ladakh and more
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
-
-## 22-year-old kills father in Ghaziabad after he scolds him over quarrel with sister: Police
-Officers said the incident stemmed from a domestic dispute on Friday evening.
-
-## Dispute over parking, dog ended in ex-Tech Mahindra executive's murder in Faridabad; neighbour arrested
-The victim had arrived in India from Singapore on November 5 to celebrate Diwali with his family and was also scheduled to attend his nephew's wedding.
-
-## High fares, longer journeys, delays make special trains less attractive to passengers: Officials
-High fares, longer journeys, delays make special trains less attractive to passengers: Officials
 
 ## China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback
 International brands have become unlikely beneficiaries of Beijing’s clampdown on so-called rapidly developed vehicles as they step up efforts to convince Chinese consumers of their cars’ quality and reliability. About 10 foreign carmakers from Tesla to General Motors (GM) were not only displaying t
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran’s IRGC says building underground sites for weapons production, storage
-IRGC says underground military complexes allow missile production to continue even under heavy bombardment.
+## Ukraine’s Zaporizhzhia faces threat as Russian drones close in
+Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.
 
-## Trump’s new chief of staff Stephen Miller says he ‘saved America’
-Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.
+## Paraguay’s ousted president appears before prosecutors after impeachment
+Former Paraguayan President Santiago Pena has appeared before prosecutors.
 
-## At least five people killed in shooting in Poland’s Krakow
-Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.
+## Masked protesters set off firecrackers and block roads in Albania
+Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.
 
-## The Lions by the River Tigris: Restoring Mosul’s artefacts
-When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to revive its beauty.
+## Trump orders DOJ to investigate Democrats for ‘threatening’ people
+Trump lashed out at Democrats on Truth Social days after the party won control of Congress.
 
-## Iraq’s FM says external parties using Iraqi soil to attack neighbours
-Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.
+## How did AIPAC-backed candidates fare in the US midterm elections?
+Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.
 
-## New Zealand’s prime minister says election is ‘too close to call’
-New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
+## Malaysian king warns against defying house arrest order for ex-PM Najib
+Attorney general postponed Najib Razak’s transfer from jail after court cleared him for house arrest on Friday.
 
-## Who is Hakeem Jeffries, the Democrat poised to become House speaker?
-Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
+## Latvian farmers protest over ‘blood grain’ trade with Russia
+Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.
 
-## ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
-The hard-left leader has transformed into a real contender in next year presidential elections.
+## Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa
+Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
