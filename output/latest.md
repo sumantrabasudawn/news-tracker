@@ -24,6 +24,9 @@ Claude maker intends to list before Thanksgiving despite brutal tech rout
 ## Ex-OpenAI employee accused of spying pleads not guilty
 Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office
 
+## ‘It’s almost like a nightclub’: Hyrox takes off in China amid fitness frenzy
+Group behind gruelling competitive races faces challenges from Chinese rivals
+
 ## Bomb threats target media and flights as email warns ‘this is only the beginning’
 Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin
 
@@ -36,8 +39,23 @@ Transactions on Barclays debit and credit cards increased 13% between October 26
 ## Stockpickers: Focusrite, RS Group, Associated British Foods
 Our experts discuss which companies to buy, sell or hold this week
 
-## Directors’ Deals: Rathbones chair adds to stake amid FCA scrutiny
-Fund group’s shares are down by 9 per cent on the year
+## NSE urges investors to buy gold-backed EGRs this Dhanteras, sees $5–6 billion import savings
+The exchange is seeking to bring domestically recycled gold and household holdings into the formal financial system through electronic receipts
+
+## DVAC books Durai Murugan in alleged ₹1,427-crore Tamil Nadu sand mining scam
+The investigation follows complaints alleging tender violations, excess quarrying and fabricated transport permits across 28 river sand quarries in Tamil Nadu.
+
+## Amazon lets US customers shop through text messages using AI-powered Alexa
+The move expands Amazon’s AI-powered shopping services as competition intensifies over access to online marketplaces and automated purchasing tools
+
+## Canada plans to grant permanent residency to 2,00,000 temporary residents by 2027
+The one-time initiative will cover workers and humanitarian cases as Ottawa adjusts immigration policies amid concerns over population growth and housing
+
+## Noel Tata appointed Voltas Chairman Emeritus; Sunil D’Souza to take over as Chairman
+The Tata Group company has outlined a phased leadership transition, with changes involving its board and senior management taking effect over coming months
+
+## Trump participates in Diwali celebrations at the White House
+The White House has hosted Diwali celebrations under successive presidents, with ceremonies held in different rooms over the years
 
 ## Microsoft to wind down Oracle AI computing arrangement amid cloud partnership review
 The move reflects changing computing requirements at Microsoft, while Oracle shares declined amid the reported decision during Friday’s trading session.
@@ -45,71 +63,56 @@ The move reflects changing computing requirements at Microsoft, while Oracle sha
 ## TCS Nashik case: AIMIM leader Imtiyaz Jaleel named accused in supplementary chargesheet
 The latest development follows an SIT investigation into allegations of workplace harassment, religious coercion and the alleged sheltering of a key accused.
 
-## CBSE board exams 2027 to begin on February 16; Class 10, 12 date sheets released
-The board has released the examination timetable well ahead of schedule, factoring in major entrance tests and gaps between commonly paired subjects.
-
-## ED searches CoinDCX premises
-Officials from Enforcement Directorate visited Neblio’s Bengaluru office as a part of a ‘routine enquiry’, the company says
-
-## Robust FPI flows sustain stock market’s winning streak in Nov
-FPIs pump $4.11 billion into Indian equities, making India emerging markets’ top destination
-
-## Rupee strengthens to close at a six-and-a-half-month high
-The Indian currency closed at 93.90 per USD, up 57 paise against the previous close of 94.47
-
-## Karnataka flags ethanol levels crossing the permissible 20% limit in petrol samples
-Tests detect ethanol levels up to 31.2 per cent, raising mileage concerns
-
-## Retail inflation may breach 6% in October amid rising food prices
-Statistics Ministry will formally release the retail inflation data on November 12
-
-## Crude cost for Indian companies at 2-month low
+## Semicon 2.0 aims to attract 8 major suppliers to India
 
 
-## Decline in gold price pushes jewellery sales on Dhanteras
+## Seize, sell Tata Power's shares in arms: Court
 
 
-## Karnataka's '30% ethanol' claim stirs row as OMCs junk 'test'
-IOC, BP & HP Question Cong Govt's Sampling & Testing Methodology
-
-## Sensex up 10.6% in 7-session pre-Diwali rally, best in 35 yrs
+## Rules tightened for classifying gold-backed farm loans as PSL
 
 
-## Rs 29.57 lakh cr added to investor wealth! Why Sensex, Nifty had best week in over 5 years
-As Diwali approaches, Indian stock exchanges celebrated a remarkable boost, seeing both Sensex and Nifty climb significantly. This positive shift was driven by a hefty influx from foreign institutional investors, who recorded their highest single-day purchases in the last six years. Additionally, lo
-
-## Petrol being sold with over 30% ethanol, way above limit: Karnataka governent
+## OVL looks to operate 2 Venezuelan oil projects
 
 
-## Gold buying on Dhanteras: What can you buy if not gold?
-Fundamentally, what needs to be understood is that investors should first assess whether they require gold in their portfolio before investing in it. Although gold has outperformed equities recently, it has also corrected by around 22% from its January 2026 highs. What are the factors to consider wh
+## Social media platforms urged to act on digital arrest scams
 
-## Pakistan's external debt nearly doubles to $135 bn in 10 years, China biggest lender
-Pakistan's external borrowing is projected to reach $135.1 billion by 2025, with much of the debt owed to China. The country's external debt increased from $68.673 billion in 2015 to the current level, reflecting a significant upward trend. Public and publicly-guaranteed borrowing comprises the majo
 
-## 'He said we were going on a trip': Boy narrates events after Bengaluru cab driver killed family
-Indusekar, who also runs a Kannada-English monthly tabloid, allegedly confessed during interrogation, Bengaluru police commissioner Seemant Kumar Singh said.
+## Rupee rises 57 paise to close at 6-month high of 93.91
 
-## Agnipath scheme threatened national security, was introduced in haste: Congress’s Rohit Chaudhary
-Congress demanded the scrapping of the Agnipath scheme, alleging that it weakens national security and disrupts military training and cadre management.
 
-## Manipur’s CoTU pauses shutdown over 2 Kuki youths’ killing, gives government 7 days to act
-Manipur’s Kuki-Zo body CoTU has suspended the Kangpokpi shutdown for seven days, giving the state government time to meet demands over the killing of two Kuki youths.
+## Pollution drives sales of air purifiers
 
-## Pakistan says willing to issue visa to Punjab CM Bhagwant Mann for visit
-Pakistan Foreign Office said it would consider a visa for Bhagwant Mann if he wishes to visit, adding whether India allows him to travel is a separate matter.
 
-## Nithya Raman, first South Asian to lead Los Angeles, was born in Keralam’s Thrissur
-Nithya Raman, whose family has roots in Kerala’s capital Thiruvananthapuram, moved to the US with her parents when she was six.
+## Bosch Q2 revenue rises 28%, net up 19%
 
-## Rahul Gandhi tells Amit Shah to convince PM Modi for open debate on SIR: ‘Don't be afraid’
-The exchange comes amid a growing political face-off between the BJP and Congress over the SIR exercise and Rahul's demand for a public debate with PM Modi.
 
-## Supreme Court appoints ex-CJI Gavai to head panel scrutinising forest rights claims in Tamil Nadu
-The Supreme Court has tasked a panel led by ex-CJI Bhushan Gavai with scrutinising forest rights claims under the FRA in Tamil Nadu.
+## Ex-CJI Gavai to head panel vetting forest rights claims in Tamil Nadu
+The Supreme Court on Friday appointed former Chief Justice of India (CJI) Bhushan R Gavai to head a special committee that will scrutinise orders passed by authorities in Tamil Nadu under the Forest Rights Act, 2006 (FRA), even as it came down hard on the state government for its prolonged failure t
 
-## CAQM directs MCG to prosecute official for failing to implement dust mitigation measures
-The examination found heaps of loose soil and construction and demolition dust lying unattended alongside road stretches.
+## BJP plans special event on Advani’s 99th birthday
+The Bharatiya Janata Party (BJP) has planned a special celebration for party patriarch Lal Krishna Advani’s 99th birthday on Sunday, people aware of the details said
+
+## SC rejects bail plea of doctor accused of prescribing cough syrup linked to 26 child deaths
+New Delhi: The Supreme Court on Friday refused to grant bail to paediatrician Praveen Soni, who was arrested in October 2025 for allegedly continuing to prescribe Coldrif cough syrup linked to the deaths of 26 children in Madhya Pradesh, observing that the case was too serious to warrant his release
+
+## India, EU conclude negotiations over key scientific cooperation programme
+India and the European Union (EU) have concluded negotiations on New Delhi’s association with Horizon Europe, the EU’s €93
+
+## Our fight is to restore democracy, not just form govt, says KC Venugopal
+The Centre is turning every democratic institution into a tool for anti-democratic actions, Congress general secretary (organisation) KC Venugopal told HT in an interview
+
+## Maharashtra plans cochlear implant facility for patients with hearing impairment in all municipal hospitals
+At present, the Thane Municipal Corporation provides the facility, and the Maharashtra government is planning to expand it across other municipal corporations.
+
+## CJP protest LIVE: Cockroach Party's ‘Jantar Mantar at Kochi’ protest against SIR today; Dipke, Prakash Raj to attend
+CJP protest LIVE: Abhijeet Dipke and actor-activist Prakash Raj are among those scheduled to attend CJP's protest march in Kerala's Kochi today, demanding the withdrawal of the Special Intensive Revision (SIR) of electoral rolls.
+
+## Weather Bee: El Niño boosts eastern Pacific cyclone activity to record levels
+El Niño has driven accumulated cyclone energy in the eastern Pacific to its highest level since 1950, with 2026 already breaking previous records.
+
+## Tiger Brokers targets Hong Kong growth as Beijing curbs overseas stock trading
+Tiger Brokers is seeking to offset the effects of Beijing’s regulatory crackdown by tapping business opportunities in Hong Kong, according to its CFO. “User growth is currently mainly driven by local Hong Kong clients, and overall client growth remains very strong,” said John Zeng, Group CFO and CEO
 
 ## Beijing calls for more efforts to stabilise stock market after renewed sell-off
 China’s State Council has pledged improved policy mechanisms to stabilise the country’s struggling stock market, after stocks slid again on Friday following a meltdown on the US markets. “We will enhance the inherent stability of the stock market and foster the steady and healthy development of the 
@@ -131,9 +134,6 @@ China’s stocks pared weekly gains and the benchmark 10-year bond hit a record 
 
 ## Dutch asset manager Robeco planning to expand presence in Hong Kong
 Dutch asset management firm Robeco is planning to expand its presence in Hong Kong to ride the robust wave of wealth creation in the Asia-Pacific region, CEO Karin van Baardwijk said this week. The Rotterdam-headquartered firm, which had client assets totalling US$464 billion in June, would move int
-
-## From finance summit to AI-driven stock rout: 5 figures investors are watching in China
-China’s state intervention in the struggling market accelerated this week, even before the US midterm results gave global markets a jolt. Meanwhile, global executives gathered in Hong Kong to discuss issues ranging from the AI trade to asset diversification and wealth management, amid the city’s bet
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US urges China to honour Busan trade deal commitments
-Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.
+## CDC reports more than 5,000 measles cases, highest number in 35 years
+Children and teenagers make up almost 60 percent of confirmed cases.
 
-## Palestinian couples tie the knot in mass wedding in Gaza
-The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
+## EU prosecutor office investigates fatal train crash in Spain
+The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.
 
-## Who is Stephen Miller, Trump’s new White House chief of staff?
-Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.
+## Pope Leo XIV arrives for South American tour after cancer surgery
+Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.
 
-## Protesters break into Microsoft data centre site in Amsterdam
-Data centres face protests across Europe due to the massive amounts of computing power and water they use.
+## Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
+The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.
 
-## Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
-President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
+## MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
+Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.
 
-## Meghan Markle’s father arrested in US over alleged child sex abuse photos
-US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.
+## Iran war live: Qatar says US, Iran should not wait to reach a peace deal
+Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.
 
-## Migrants arrive in Spain’s Canary Islands after being rescued at sea
-More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.
+## New Zealanders head to polls on final day of voting
+More than half of New Zealand’s voters cast early ballots in the tightly contested race.
 
-## Pope Leo arrives in Uruguay starting 12-day Latin America tour
-The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.
+## EU tells TikTok to fix ‘harmful’ For You feed, threatens fines
+TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
