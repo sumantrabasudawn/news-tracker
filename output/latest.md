@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Gunman kills six in Kraków shooting
-Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident
+## Democrats vow to impeach Trump officials and investigate Republican donors
+Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers
 
-## Crypto industry braces for reckoning over Trump ties
-Democrats have vowed to start investigation into president’s family after sweeping victory in midterms
+## Will US inflation data ease affordability concerns?
+Market Questions is the FT’s guide to the week ahead
 
-## America is craving a return to community
-The midterms are only the latest sign of hope
+## A new economic agenda for America
+Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living
 
-## UK must ‘catch up’ with Europe in opposing Russian threat, says military chief
-Sir Richard Knighton promises further action to counter Moscow’s submarines in the north Atlantic
+## Israel’s president gives Gadi Eisenkot first chance at forming government
+Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition
 
-## ‘Radical left’ get the headlines but centrists dominate new US Congress
-Most of the Democrats who swept to power in the midterms blue wave are moderates
+## How each country’s emissions compare
+A searchable dashboard of 197 countries’ historical emissions and future climate targets
 
-## Is Europe getting serious about ending tech dependence?
-Brussels is moving in the right direction but could push national governments further
+## Sequoia’s new chiefs sweep away last remnants of Botha era
+Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm
 
-## Apple saves $2.7bn in taxes by booking profits in Singapore
-City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures
+## Dublin launches ‘blueprint’ for united Ireland
+Coalition party’s scenario planning puts first-year cost of reunification at €3bn to €25bn while prime minister announces government unit to inform debate
 
-## Groundscrapers: a low-rise innovation with high-rise prospects
-Buildings that are longer than they are tall have started popping up in the busiest cities
+## Republican infighting mounts over corruption claims after midterms wipeout
+Former health official’s allegations of corporate influence over Trump administration policy spark war of words
+
+## Private equity firm seeks to take control of LIV Golf from Saudi wealth fund
+BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets
+
+## Hacks expose the flaws of the connected world
+Binance and supermarket freezers reveal the costs of digitisation
+
+## Anthropic strikes $3.4bn deal to generate gas-fired power for data centres
+AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges
 
 ## AI is coming for managers’ headcount
 Their pay grade could be next
@@ -30,38 +39,41 @@ Their pay grade could be next
 ## Hotel groups gain $50bn amid ‘unbelievably resilient’ demand
 Industry surprised by growth in bookings as tourists shrug off higher costs and geopolitical turmoil
 
-## Meet the people saving England’s peatlands
-The country’s ancient wetlands are so damaged that stored carbon is being released into the atmosphere, but conservation groups are working to restore them to health
+## Is Europe getting serious about ending tech dependence?
+Brussels is moving in the right direction but could push national governments further
 
-## ‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom
-Producers cash in on demand for hides, bones, skin, cartilage and tendons to satisfy collagen craze
+## Apple saves $2.7bn in taxes by booking profits in Singapore
+City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures
 
-## Argentina’s Milei dreams of data centres on the Patagonian steppe
-Libertarian seeks to turn vast land and energy resources into the foundation of his ‘unregulated’ AI hub
+## Democrats eye Musk, Miller probes after midterm rout
+Investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's ‌hardline immigration crackdown
 
-## Stock markets end marginally lower in special Muhurat trading, snapping 7-day rally
-The barometer dipped 28.62 points, or 0.04%, to settle at 80,999.40, with 16 of its constituents ending higher and 14 lower
+## Russia says hit power substations in Ukraine and three ships in Black Sea
+Russian forces ‌strike a container ship delivering weapons ‌and ⁠military equipment to the Black ⁠Sea port of Odesa, Chornomorsk; hit two power substations in Ukraine's Dnipropetrovsk, Zhytomyr regions
 
-## Saudi Arabia intercepts missiles as Aramco building in Riyadh damaged, other Mideast news
-There is no immediate claim of responsibility for the attack by Yemen's Iran-backed Houthi rebels, who have claimed such attacks in the past
+## Mekedatu project: Shivakumar seeks TN's cooperation, says it will benefit state more than K'taka
+Shivakumar says Karnataka did not require Tamil Nadu's permission but only its cooperation to implement the project
 
-## Aramco Tower in Riyadh’s financial hub damaged after attack
-There were no injuries or deaths caused by the incident.
+## Wall Street races for megadeals as countdown begins on Trump era
+The rout by the Democrats in the midterms is creating a sudden sense of urgency in boardrooms, with executives wondering if they might have one last chance to pull off a transformational transaction
 
-## Armed Maoists gone, but 'dimagi Naxals' instigating people against Constitution: Modi
-Celebrating Diwali with security personnel in Bastar, Modi said the fight against Maoist ideology must continue despite the government’s announcement that India was free of Naxalism.
+## Delhi AQI hits 371 at 7pm, netizens report smelling smoke as Diwali celebrations gather pace
+Several social media users report smelling smog and firecracker smoke in the air as celebrations gathered pace across the capital, with the city's air quality remaining close to the 'severe' threshold
 
-## Bangladesh law minister calls Hasina 'convicted criminal', says extradition request sent to India
-Law Minister Md Asaduzzaman said Dhaka has formally requested Hasina’s repatriation under the India-Bangladesh extradition treaty and will follow due legal process.
+## Iran suggests blasts are not US attacks as both sides report ships hit
+Both sides have continued strikes on vessels in the Strait of Hormuz, however, restricting exports of energy and other commodities vital to the world economy
 
-## Today’s Gold Rate in India November 8: Gold prices steady in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
-22, 24 carat Gold prices remain steady across metro cities on November 8
+## What to Watch at COP31 as Midterms, Brazil Deliver Climate Boost
+As thousands of delegates prepare for two weeks of debate from Monday at the UN’s COP31, recent electoral surprises in the US and Brazil are offering rare optimism
 
-## Today’s Gold Rate in India November 8: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
-22, 24 carat Gold prices remain steady across other cities on November 8
+## Anthropic strikes $3.4 billion deal for data centre generators
+The AI startup ‌bought commitments ‌for ⁠1.7 gigawatts of heavy-duty ⁠generators for $3.4 billion in late September from OnePWR ​Solutions, ‌a San Antonio, Texas-based equipment supplier
 
-## Medical tourism to India could spike if global insurance firms cover treatments: Sangita Reddy
-Urges the government to engage with international insurance companies, saying coverage for overseas treatment could attract more patients from Western countries.
+## Samvat 2083: What's the outlook for Sensex, Nifty & what should investors do?
+Samvat 2083 outlook: The volatile Muhurat trading session comes after a record seven-day rally by the indices which saw BSE Sensex and Nifty50 rise over 10%. The gains over the preceding seven consecutive sessions had lifted the Sensex by 7,781.99 points, or 10.62%, and the Nifty by 2,331.5 points, 
+
+## Muhurat trading: Stock markets end marginally lower in special Diwali session
+
 
 ## Samsung set to become South Korea's first company with 200 trillion won in cash
 Samsung Electronics is on the cusp of exceeding 200 trillion won in cash assets, driven by the soaring AI semiconductor market. Over the past year, the company has dramatically bolstered its cash reserves, nearly doubling their value. With a commitment to semiconductor infrastructure and a strong sh
@@ -81,11 +93,23 @@ By the year 2030, India stands to save substantially on its coal and natural gas
 ## Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy
 Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Samvat 2083. This trading session reflects auspiciousness associated with the Diwali festival and investor optimism. Major indices have seen strong rallies leading up to this event, driven by foreign investments and stable 
 
-## FIIs return to Dalal Street, pump Rs 38,971 crore into Indian equities amid AI sell-off
-In a remarkable week, foreign portfolio investors flocked to Indian equities, pouring over Rs 38,000 crore into the market. This influx was largely driven by a global downturn in technology stocks fueled by AI concerns. While domestic institutional investors took a step back, foreign buyers eagerly 
+## SSB jawan found dead while on duty at India-Nepal border outpost in UP: Police
+Nautanwa circle officer Basant Singh said police received information about the death and immediately dispatched a team to the border outpost
 
-## Berkshire Hathaway's profit falls 28% as Geico struggles: Warren Buffett's insurance giant under focus
-Berkshire Hathaway reported a more than 28% decline in third-quarter profit due to its insurance businesses. The conglomerate's insurance underwriting profit fell, primarily affecting Geico's performance significantly. Additionally, Berkshire's operating earnings decreased nearly 6%, missing analyst
+## Delhi’s air quality ‘very poor’ on Diwali, expected to worsen
+Of the 59 monitoring stations that recorded data on Sunday, air quality was in the 'severe' category at 12 and in the 'very poor' category at 22.
+
+## Probe everyone's involvement on irregularities in Milma ghee supply to Sabarimala: HC to SIT
+Probe everyone's involvement on irregularities in Milma ghee supply to Sabarimala: HC to SIT
+
+## Wanted in over 30 heinous criminal cases, carried ₹5 lakh reward: Punjab gangster Gurwinder alias Afridi brought back to India
+He is accused of directing targeted killings, extortion-related firing incidents and organised criminal networks in Punjab while operating from abroad.
+
+## One child dead, 269 people treated for firecracker-related burn injuries across Tamil Nadu during Diwali
+As per the official bulletin, the state 108 emergency ambulance network received 16,079 calls between 7 am on November 7 and 7 am on November 8.
+
+## Assam Chief Secy chairs monthly review meeting, stresses time-bound reforms
+Assam Chief Secy chairs monthly review meeting, stresses time-bound reforms
 
 ## Fresh sexual harassment complaint against granite baron Veeramani
 Fresh sexual harassment complaint against granite baron Veeramani
@@ -93,23 +117,11 @@ Fresh sexual harassment complaint against granite baron Veeramani
 ## Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
 Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
 
-## Woman held for joining son, friends in assaulting 17-year-old boy over Instagram messages in Kochi
-The assault took place on Saturday at the woman's rented house on Changampuzha Road in Edappally North, leaving the boy injured, they said.
+## While AI speeds up SMEs, delivery remains hard to automate
+[The content of this article has been produced by our advertising partner.] SMEs across Asia and Latin America are increasingly using AI in their daily operations, but getting goods to customers remains difficult to automate, according to a survey by on-demand delivery platform Lalamove, which opera
 
-## 25-year-old stabbed to death in Bengal flat, live-in partner, her mother arrested: Cop
-According to the police, Sarthak Sarkar’s father and sister, who live in Barasat in North 24 Parganas district, said his phone was unreachable for several hours
-
-## Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead
-Jhota's murder in Mansa had triggered protests and a political row, with his family demanding justice and action against drug trafficking in Punjab.
-
-## Three family members, including 20-day-old baby, killed as house roof collapses in Kanpur
-The incident took place in Panki Padav area when the roof, made of bamboo, wooden beams and mud, suddenly gave way.
-
-## Armed Maoists eliminated, but ‘dimagi Naxals’ remain a threat: PM Modi
-He described the elimination of armed Maoists as a victory for the government’s policies and strong political will
-
-## TN scraps Kurian panel on Centre-State relations, citing overlapping role
-TN scraps Kurian panel on Centre-State relations, citing overlapping role
+## China to enter Brazil’s cement market as Huaxin agrees to buy CSN Cimentos
+Chinese building materials giant Huaxin Building Materials Group plans to acquire a 99.99 per cent stake in Brazil’s second-largest cement producer, CSN Cimentos, in a landmark deal that will mark China’s first entry into the Brazilian cement market, according to a company statement. The company fro
 
 ## HSBC bets HK$4 million a month on flagship branch to keep physical outlets relevant
 HSBC is turning to coffee, macarons and essential-oil massages to draw customers into its branches, as traditional lenders rethink their physical networks amid growing use of digital banking. The bank is spending HK$4 million (US$510,200) a month on its five-storey Causeway Bay flagship, which opene
@@ -128,12 +140,6 @@ Global financial leaders who gathered in Hong Kong this week largely sidestepped
 
 ## Former Evergrande economist faces WeChat gag order after ‘buy the dip’ call
 Amid a bear market in China’s stock exchanges, Ren Zeping, the high-profile independent economist famed for his prescient call on China’s A-share bull market, is once again in the spotlight for a “gag order” on his social media, though industry insiders say that the move by the platform was not unex
-
-## Tiger Brokers targets Hong Kong growth as Beijing curbs overseas stock trading
-Tiger Brokers is seeking to offset the effects of Beijing’s regulatory crackdown by tapping business opportunities in Hong Kong, according to its CFO. “User growth is currently mainly driven by local Hong Kong clients, and overall client growth remains very strong,” said John Zeng, Group CFO and CEO
-
-## Beijing calls for more efforts to stabilise stock market after renewed sell-off
-China’s State Council has pledged improved policy mechanisms to stabilise the country’s struggling stock market, after stocks slid again on Friday following a meltdown on the US markets. “We will enhance the inherent stability of the stock market and foster the steady and healthy development of the 
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -231,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Messi becomes first player to win back-to-back MLS Golden Boot awards
-The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.
+## Photos: Diwali celebrations light up India and its global diaspora
+Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.
 
-## After rebel offensive, efforts to push them back appear to have stalled
-Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle
+## Atletico Madrid vs Barcelona: La Liga live
+Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.
 
-## Tennis world number one Rybakina withdraws from WTA Finals due to virus
-Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.
+## India’s ‘cockroach’ movement seeks to restore culture of accountability
+India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.
 
-## Democrats’ congressional win could strengthen Ukraine’s hand against Russia
-Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
+## Fan hospitalised after falling through stand at Norwegian football match
+A stand at the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.
 
-## Floods in Gaza leave tens of thousands without shelter
-Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.
+## Israeli opposition leader warns of ‘point of no return’ for democracy
+Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.
 
-## Former Palestinian detainees at mercy of Israel amid perpetual detention
-Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.
+## Train crash kills seven, injures dozens near Egypt’s Cairo city
+The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.
 
-## Rent-a-grandchild: Businesses offering companions to elderly grow in India
-A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.
+## Four killed, 88 injured in train collision in Egypt
+Four killed, 88 injured in train collision in Egypt
 
-## Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal
-Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.
+## Israeli forces release Palestinian journalist Abou Shhadeh
+Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
