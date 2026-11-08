@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Indonesian president’s adviser says MSCI downgrade threat ‘went too far’
+Tycoon and brother of President Prabowo Subianto says expulsion from global indices would have ‘serious consequences’
+
+## Trump asks UFC boss Dana White to be new press secretary
+US president signals combative approach in wake of midterms drubbing of his party
+
 ## Gunman kills six in Kraków shooting
 Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident
 
@@ -9,16 +15,13 @@ American intelligence warned the tech boss was involved with executive recruited
 ## Israel’s president gives Gadi Eisenkot first chance at forming a government
 Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition
 
-## Trump asks UFC boss Dana White to be new press secretary
-US president signals combative approach in wake of midterms drubbing of his party
-
 ## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society
 Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum
 
 ## Berkshire Hathaway steps up share buybacks with $9.6bn of purchases
 Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year
 
-## New Zealand’s National Party set to cling on to power
+## New Zealand’s National Party takes narrow lead in tight poll
 Rightwing bloc projected to win enough seats to form a government
 
 ## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’
@@ -39,29 +42,35 @@ Internal emails show concern at moves to allow Chilean species to be sold as ‘
 ## Gillian Tett: Why does America hate AI?
 Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic
 
-## Insurance Query: Inclusivity is key
-Every individual can access insurance, has the right to understand the coverage and receive support when a claim arises.
+## ADB releases first tranche of $108 million loan for Mizoram healthcare scheme
+ADB released $21.6 million to the Union Ministry of Finance on October 29 after Mizoram achieved two Disbursement Linked Indicators (DLIs) under the programme
 
-## Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction
-The crash on November 5, 2026, is notable given the intensity of the correction amid rising friction to the AI theme
+## Nepal releases details of 2,294 nationals, 171 foreigners missing after Aug 26 floods
+Move comes a month after the government ended the 40-day search and rescue operation for victims of the Bhotekoshi-Trishuli floods, which killed at least 1,455 people and left 5,285 missing
 
-## Revised prices on anti-cancer medicines effective from Monday, estimated annual savings of over ₹3500 crore
-About 1000 brands show reduction in prices; 203 remain unchanged
+## A stress-tested Rabi: What the biochemistry of biologicals actually delivers
+The industry must provide evidence-based, stage-matched recommendations, and farmers should prioritise products that target specific stress pathways with proven data
 
-## Mastering Derivatives: Closing short positions before expiry
-It pays to keep your short call position open till expiry to realise maximum gains from the short position.
+## US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade
+Saturday's disclosure comes in the wake of at least two instances in which US Central Command did not announce military strikes it has taken in the region
 
-## Tech Query: Alkem Laboratories, Intellect Design Arena, Trent, SRF — What is the outlook? Where are these stocks headed?
-We look at the prospects of Alkem Laboratories, Intellect Design Arena, Trent, SRF
+## Delhi's air quality slips into 'severe' category with overall AQI at 483
+Bawana records AQI of 446, followed by Punjabi Bagh at 449, RK Puram at 448, IIT Delhi and Rohini at 445 each, Chandni Chowk at 420, Patparganj at 421 and Alipur at 413
 
-## US Market Outlook: Support to give a relief
-The US benchmark indices can bounce back after some more fall from
+## Strong earthquake shakes central Japan, shattering store windows, injuring at least 22
+Japan's Meteorological Agency put the quake's magnitude at 5.7, while the US Geological Survey reported it at magnitude 5.5.
 
-## F&O Strategy: Buy Wipro call option
+## Tata Chemicals posts loss at ₹50 cr in Q2 on lower realisations, higher energy and logistics costs
+Revenue from operations, however, grew by 8% during the quarter to ₹4,177 crore
 
+## FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive
+FSSAI says it has stepped up vigilance in view of festivals
 
-## Can Samvat 2083 sustain the rebound?
-History offers hope of recovery, but global risks and weak market breadth call for caution
+## Airlines bet on premium travel as rising fuel costs squeeze profits
+Airlines are enhancing premium services amid rising demand for more comfortable travel experiences. The introduction of new premium seating options aims to attract a larger share of passengers. Airlines like American Airlines and Delta Air Lines have reported significant increases in premium revenue
+
+## Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on
+As the festive season of Diwali draws near, investors are keenly eyeing the future of Dalal Street for the forthcoming Samvat 2083. According to Kotak Mahindra Mutual Fund, attention should be given to high-quality stocks while keeping a diversified portfolio. Despite global uncertainties, the domes
 
 ## ‘Loads more ahead’: British High Commission in India hails trade deal amid Diwali celebrations
 
@@ -81,35 +90,32 @@ Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Sam
 ## Stuck at work on Diwali? Firms offer employees longer breaks, better gifts and more
 Companies are implementing various initiatives to support employees working during Diwali by providing festive perks. These include extended weekends, work-from-home options, and personalized gifts for staff. Some firms are organizing celebrations for employees who remain on duty, ensuring they do n
 
-## Noel Tata to step down as Voltas chairman from November 12; Sunil D'Souza named successor
-Voltas is set for a notable leadership change as Sunil Alaric D'Souza steps in as Chairman following Noel N Tata's retirement. Tata, who has been with the company since 2003, will take on the role of Chairman Emeritus. Meanwhile, Mukundan Menon C.P. will also retire as Managing Director on May 24, 2
+## HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more
+Here are today's top headlines from politics, national and global events, sports, and entertainment.
 
-## Why new LNG projects may not prevent a global gas crunch this winter
-Global liquefied natural gas supplies are facing unprecedented challenges due to ongoing disruptions in the Strait of Hormuz. The International Energy Agency reports that LNG loadings from Qatar and the UAE have decreased significantly. As a result, global LNG output is projected to fall between 10 
+## Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia
+Gurwinder aka Afridi, against whom the Punjab government had announced a reward of ₹5 lakh, landed at Delhi’s Indira Gandhi International (IGI) Airport
+
+## HC restrains unauthorised use of Amitabh’s name, likeness
+The Delhi high court has permanently protected the personality rights of veteran Bollywood actor Amitabh Bachchan, restraining entities from using his name, image, voice or other aspects of his persona without his consent
+
+## Acquitted, but disarmed: SC orders cops to return bodyguard’s revolver
+For a private bodyguard, a revolver is more than a weapon — it can be the key to a job
+
+## Ex-Tech Mahindra executive shot 15 times by neighbour in Faridabad, had come home for Diwali
+Police say the suspect fired multiple rounds and was arrested the next day. Relatives say the families had argued over a dog and parking-related issues.
+
+## PM Modi extends Diwali wishes, to celebrate festival with jawans today
+PM Modi extended Diwali greetings to people across the country on Sunday. He will be celebrating the festival with the jawans.
+
+## Delhi breathes worst air on Diwali eve in 10 years
+Weak winds are forecast to trap pollution, with forecasts suggesting air quality could reach the severe category by Monday.
 
 ## Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight
 A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.
 
-## ‘Apologise to Ram Bhakts first’: Yogi Adityanath ahead of Akhilesh Yadav's visit to Ayodhya
-UP chief minister Yogi Adityanath said the same forces that had opposed the Ram temple movement were now trying to take political mileage from it.
-
-## Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim
-Singh asked the armed forces to strengthen cyber resilience, information integrity and domain awareness to boost combat readiness and tackle emerging threats.
-
-## TDP-led alliance sweeps Andhra Pradesh MPTC, ZPTC elections, secures landslide victory; YSRCP lags behind
-The TDP emerged as the dominant party, winning 229 ZPTC seats and 4,823 MPTC seats, including those declared unopposed.
-
-## CJP’s Abhijeet Dipke predicts ‘Modi govt’s defeat in 2029’ at anti-SIR rally in Kochi: ‘He will definitely go’
-Dipke alleged that the government was waging a war against the country's youth to protect Gyanesh Kumar and questioned why he was so important to the PM.
-
-## Ayodhya lights up with over 30 lakh diyas on Diwali eve, CM Yogi attends 10th edition of Deepotsav
-Ayodhya lit up with thousands of earthen lamps on Saturday as the city celebrated the 10th edition of Deepotsav.
-
-## Sonia Gandhi recalls pleading with Rajiv not to become PM after Indira’s assassination: ‘They will kill you’
-Sonia said she was overwhelmed by anger and anguish at the prospect of Rajiv taking over as prime minister, fearing that he too could become a target.
-
-## Ghaziabad outpost blast: Agencies conduct checks; social media account claims responsibility
-The explosion that happened on Friday around 9pm at the rear wall of the Vasundhara police outpost cracked walls and shattered windowpanes
+## Beijing’s latest property stimulus falls short in lower-tier-cities
+Beijing’s latest property stimulus package has failed to stop a downward spiral in home transactions and prices in mainland China’s lower-tier cities, which could prompt top regulators to roll out stronger incentives to reinvigorate the weak market. According to data compiled by the China Real Estat
 
 ## China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback
 International brands have become unlikely beneficiaries of Beijing’s clampdown on so-called rapidly developed vehicles as they step up efforts to convince Chinese consumers of their cars’ quality and reliability. About 10 foreign carmakers from Tesla to General Motors (GM) were not only displaying t
@@ -131,9 +137,6 @@ Chinese artificial intelligence models led by Moonshot AI’s Kimi family accoun
 
 ## Ahead of Shenzhen trade talks, US holds off blacklist rule that angered Beijing
 Ahead of a new round of bilateral trade talks, the US has extended the suspension of an expanded trade blacklist that helped inflame tensions with China last year and could subject overseas subsidiaries of Chinese companies to greater scrutiny. The US Bureau of Industry and Security (BIS) issued a f
-
-## Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand
-Solana, one of the world’s largest blockchain networks, plans to expand in Hong Kong to tap the city’s growing demand for tokenisation, according to a senior executive. “I believe that the biggest opportunity for Solana is actually in [the Asia-Pacific region],” Solana Company chairman and CEO Josep
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump asks UFC chief Dana White to be White House press secretary
+Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.
+
+## Egypt sacks winning football coach after wives’ scandal
+The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.
+
+## US launches task force to disrupt Iran’s land-based supply routes
+The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.
+
+## Canary Islands’ El Hierro declares emergency amid migrant, refugee influx
+El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.
+
+## Polish PM calls deadly Krakow shooting an act of ‘terrorism’
+Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.
+
+## Iran war live: US moves to block land supply routes; UAE rescues 22 sailors
+Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.
+
+## Eisenkot chosen over Netanyahu to form Israel’s next government
+Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.
+
 ## Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona
 Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.
-
-## Police clash with protesters as anti-government rallies sweep France
-Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.
-
-## Mélenchon promises action against Israeli annexation if elected President
-Mélenchon promises action against Israeli annexation if elected President
-
-## Who is behind Europe’s suspected hybrid attacks?
-Bomb hoaxes and supermarket cyberattacks are heightening security fears.
-
-## Abdul El-Sayed slams Trump’s tariff war with Canada
-Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.
-
-## Israel’s president picks Eisenkot over Netanyahu to form next government
-Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.
-
-## More than 140,000 rally as new protests against rising costs sweep France
-Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.
-
-## Ukraine’s Zaporizhzhia faces threat as Russian drones close in
-Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
