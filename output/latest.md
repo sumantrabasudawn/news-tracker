@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy
+Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees
+
+## Companies House faces scrutiny over ‘pervasive and systemic’ errors
+Almost four in 10 businesses identify inconsistencies with their own records, calling official UK corporate register’s reliability into question
+
+## Attempts to find resolution for Israel’s new government and Ukraine’s war
+Trilateral peace talks in Abu Dhabi, new Knesset in Jerusalem, COP31 opens in Turkey
+
 ## Democrats vow to impeach Trump officials and investigate Republican donors
 Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers
 
@@ -15,17 +24,11 @@ Isaac Herzog’s decision means opposition politician has 28 days to attempt to 
 ## How each country’s emissions compare
 A searchable dashboard of 197 countries’ historical emissions and future climate targets
 
-## Sequoia’s new chiefs sweep away last remnants of Botha era
-Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm
-
-## Dublin launches ‘blueprint’ for united Ireland
-Coalition party’s scenario planning puts first-year cost of reunification at €3bn to €25bn while prime minister announces government unit to inform debate
-
-## Republican infighting mounts over corruption claims after midterms wipeout
-Former health official’s allegations of corporate influence over Trump administration policy spark war of words
-
 ## Private equity firm seeks to take control of LIV Golf from Saudi wealth fund
 BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets
+
+## Sequoia’s new chiefs sweep away last remnants of Botha era
+Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm
 
 ## Hacks expose the flaws of the connected world
 Binance and supermarket freezers reveal the costs of digitisation
@@ -35,15 +38,6 @@ AI lab bypasses traditional suppliers to secure scarce equipment as demand for e
 
 ## AI is coming for managers’ headcount
 Their pay grade could be next
-
-## Hotel groups gain $50bn amid ‘unbelievably resilient’ demand
-Industry surprised by growth in bookings as tourists shrug off higher costs and geopolitical turmoil
-
-## Is Europe getting serious about ending tech dependence?
-Brussels is moving in the right direction but could push national governments further
-
-## Apple saves $2.7bn in taxes by booking profits in Singapore
-City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures
 
 ## Democrats eye Musk, Miller probes after midterm rout
 Investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's ‌hardline immigration crackdown
@@ -237,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Photos: Diwali celebrations light up India and its global diaspora
-Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.
+## Deadly sand cliff collapses on displaced families in Gaza
+Deadly sand cliff collapses on displaced families in Gaza
 
-## Atletico Madrid vs Barcelona: La Liga live
-Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.
+## Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online
+‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.
 
-## India’s ‘cockroach’ movement seeks to restore culture of accountability
-India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.
+## Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
+Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
 
-## Fan hospitalised after falling through stand at Norwegian football match
-A stand at the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.
+## Pope Leo XIV delivers homily to thousands in Uruguay
+Pope Leo XIV delivers homily to thousands in Uruguay
 
-## Israeli opposition leader warns of ‘point of no return’ for democracy
-Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.
+## Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
+Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.
 
-## Train crash kills seven, injures dozens near Egypt’s Cairo city
-The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.
+## Iran threatens to ‘rain down hell’ if US escalates war
+President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.
 
-## Four killed, 88 injured in train collision in Egypt
-Four killed, 88 injured in train collision in Egypt
+## Al Jazeera tries Baseball5 at Youth Olympics
+Al Jazeera tries Baseball5 at Youth Olympics
 
-## Israeli forces release Palestinian journalist Abou Shhadeh
-Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.
+## Man United earn 4-4 draw against Aston Villa but remain in relegation zone
+Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
