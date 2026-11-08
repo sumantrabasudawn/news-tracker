@@ -1,118 +1,121 @@
 # AION Intelligence
 
-## Indonesian president’s adviser says MSCI downgrade threat ‘went too far’
-Tycoon and brother of President Prabowo Subianto says expulsion from global indices would have ‘serious consequences’
-
-## Trump asks UFC boss Dana White to be new press secretary
-US president signals combative approach in wake of midterms drubbing of his party
-
 ## Gunman kills six in Kraków shooting
 Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident
 
-## US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy
-American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group
+## Crypto industry braces for reckoning over Trump ties
+Democrats have vowed to start investigation into president’s family after sweeping victory in midterms
 
-## Israel’s president gives Gadi Eisenkot first chance at forming a government
-Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition
+## America is craving a return to community
+The midterms are only the latest sign of hope
 
-## French far-left presidential hopeful pledges ‘revolutionary’ remaking of society
-Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum
+## UK must ‘catch up’ with Europe in opposing Russian threat, says military chief
+Sir Richard Knighton promises further action to counter Moscow’s submarines in the north Atlantic
 
-## Berkshire Hathaway steps up share buybacks with $9.6bn of purchases
-Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year
+## ‘Radical left’ get the headlines but centrists dominate new US Congress
+Most of the Democrats who swept to power in the midterms blue wave are moderates
 
-## New Zealand’s National Party takes narrow lead in tight poll
-Rightwing bloc projected to win enough seats to form a government
+## Is Europe getting serious about ending tech dependence?
+Brussels is moving in the right direction but could push national governments further
 
-## US plan to overhaul air traffic control system like ‘changing a tyre at 70mph’
-Transport secretary’s $42.5bn project to squeeze decades of much-needed upgrades into three years could be risky, experts argue
+## Apple saves $2.7bn in taxes by booking profits in Singapore
+City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures
 
-## Scottish government explores seizing assets of Sanjeev Gupta’s business empire
-Holyrood wants to ensure any claims it has against GFG Alliance are prioritised over those of other creditors
+## Groundscrapers: a low-rise innovation with high-rise prospects
+Buildings that are longer than they are tall have started popping up in the busiest cities
 
-## European security agencies probe whether bomb hoaxes started in Russia
-A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups
+## AI is coming for managers’ headcount
+Their pay grade could be next
 
-## No, ‘mogging’ does not signal the decline of the English language
-The popularity of manosphere vocabulary takes the sting out of a harmful ideology
+## Hotel groups gain $50bn amid ‘unbelievably resilient’ demand
+Industry surprised by growth in bookings as tourists shrug off higher costs and geopolitical turmoil
 
-## Changing mackerel definition could mislead shoppers, officials warned
-Internal emails show concern at moves to allow Chilean species to be sold as ‘jack mackerel’, even though it is from a different family from traditional product
+## Meet the people saving England’s peatlands
+The country’s ancient wetlands are so damaged that stored carbon is being released into the atmosphere, but conservation groups are working to restore them to health
 
-## Gillian Tett: Why does America hate AI?
-Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic
+## ‘Cowmaxxing’: Meat companies use every bit of the animal to fuel wellness boom
+Producers cash in on demand for hides, bones, skin, cartilage and tendons to satisfy collagen craze
 
-## ADB releases first tranche of $108 million loan for Mizoram healthcare scheme
-ADB released $21.6 million to the Union Ministry of Finance on October 29 after Mizoram achieved two Disbursement Linked Indicators (DLIs) under the programme
+## Argentina’s Milei dreams of data centres on the Patagonian steppe
+Libertarian seeks to turn vast land and energy resources into the foundation of his ‘unregulated’ AI hub
 
-## Nepal releases details of 2,294 nationals, 171 foreigners missing after Aug 26 floods
-Move comes a month after the government ended the 40-day search and rescue operation for victims of the Bhotekoshi-Trishuli floods, which killed at least 1,455 people and left 5,285 missing
+## Stock markets end marginally lower in special Muhurat trading, snapping 7-day rally
+The barometer dipped 28.62 points, or 0.04%, to settle at 80,999.40, with 16 of its constituents ending higher and 14 lower
 
-## A stress-tested Rabi: What the biochemistry of biologicals actually delivers
-The industry must provide evidence-based, stage-matched recommendations, and farmers should prioritise products that target specific stress pathways with proven data
+## Saudi Arabia intercepts missiles as Aramco building in Riyadh damaged, other Mideast news
+There is no immediate claim of responsibility for the attack by Yemen's Iran-backed Houthi rebels, who have claimed such attacks in the past
 
-## US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade
-Saturday's disclosure comes in the wake of at least two instances in which US Central Command did not announce military strikes it has taken in the region
+## Aramco Tower in Riyadh’s financial hub damaged after attack
+There were no injuries or deaths caused by the incident.
 
-## Delhi's air quality slips into 'severe' category with overall AQI at 483
-Bawana records AQI of 446, followed by Punjabi Bagh at 449, RK Puram at 448, IIT Delhi and Rohini at 445 each, Chandni Chowk at 420, Patparganj at 421 and Alipur at 413
+## Armed Maoists gone, but 'dimagi Naxals' instigating people against Constitution: Modi
+Celebrating Diwali with security personnel in Bastar, Modi said the fight against Maoist ideology must continue despite the government’s announcement that India was free of Naxalism.
 
-## Strong earthquake shakes central Japan, shattering store windows, injuring at least 22
-Japan's Meteorological Agency put the quake's magnitude at 5.7, while the US Geological Survey reported it at magnitude 5.5.
+## Bangladesh law minister calls Hasina 'convicted criminal', says extradition request sent to India
+Law Minister Md Asaduzzaman said Dhaka has formally requested Hasina’s repatriation under the India-Bangladesh extradition treaty and will follow due legal process.
 
-## Tata Chemicals posts loss at ₹50 cr in Q2 on lower realisations, higher energy and logistics costs
-Revenue from operations, however, grew by 8% during the quarter to ₹4,177 crore
+## Today’s Gold Rate in India November 8: Gold prices steady in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices remain steady across metro cities on November 8
 
-## FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive
-FSSAI says it has stepped up vigilance in view of festivals
+## Today’s Gold Rate in India November 8: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices remain steady across other cities on November 8
 
-## Airlines bet on premium travel as rising fuel costs squeeze profits
-Airlines are enhancing premium services amid rising demand for more comfortable travel experiences. The introduction of new premium seating options aims to attract a larger share of passengers. Airlines like American Airlines and Delta Air Lines have reported significant increases in premium revenue
+## Medical tourism to India could spike if global insurance firms cover treatments: Sangita Reddy
+Urges the government to engage with international insurance companies, saying coverage for overseas treatment could attract more patients from Western countries.
 
-## Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on
-As the festive season of Diwali draws near, investors are keenly eyeing the future of Dalal Street for the forthcoming Samvat 2083. According to Kotak Mahindra Mutual Fund, attention should be given to high-quality stocks while keeping a diversified portfolio. Despite global uncertainties, the domes
+## Samsung set to become South Korea's first company with 200 trillion won in cash
+Samsung Electronics is on the cusp of exceeding 200 trillion won in cash assets, driven by the soaring AI semiconductor market. Over the past year, the company has dramatically bolstered its cash reserves, nearly doubling their value. With a commitment to semiconductor infrastructure and a strong sh
 
-## ‘Loads more ahead’: British High Commission in India hails trade deal amid Diwali celebrations
+## Indian Oil plans to buy its own oil, LPG ships as freight costs surge 4 times
+To bolster its shipping logistics, Indian Oil Corporation is planning to acquire its own carriers and is looking into shipbuilding ventures within India as part of the Make in India initiative. The rise in geopolitical tensions has led to higher shipping costs, necessitating these strategic changes.
 
+## Gold, Muhurat trading & big business: The economics of Diwali and how they've changed
+Diwali presents a vital chance for Indian families to reassess their financial strategies and explore new investment avenues. While traditional customs like gold purchases prevail, there is also a surge in modern investment tools such as mutual funds and stocks. Additionally, this festival signals a
 
-## As AI stocks correct, Goldman Sachs sees opportunity in healthcare & non-AI equities
-US midterm elections could shift market dynamics, prompting investors to adopt more defensive positions in their portfolios. Healthcare is anticipated to benefit from advancements in AI as it sees potential growth. Many traditional defensive sectors, however, appear less attractive due to elevated v
+## Gold, silver price outlook: US-Iran tensions, inflation data to set the tone next week
+Gold and silver prices saw a rise this week in both domestic and international markets after experiencing significant volatility. Investors are now keenly awaiting inflation figures from key global economies to gauge interest rate trends. Furthermore, the ongoing US-Iran tensions may also sway bulli
 
-## Coca-Cola's Indian bottling business files for IPO; 99.75 crore shares up for sale
-Hindustan Coca-Cola Holdings Ltd has filed its draft IPO papers with the Securities and Exchange Board of India. The planned IPO will involve the sale of up to 99.75 crore equity shares by the promoter. Coca-Cola aims to list HCCH by 2027 amid a global asset-light strategy for its bottling assets. T
-
-## Elon Musk's dream vehicle to cease production - What went wrong with Tesla Cybertruck
-Tesla is set to cease Cybertruck production by mid-2027 as it pivots towards the Cybercab robotaxi initiative. The Cybertruck's sales have disappointed, falling short of Elon Musk's ambitious expectations. Its avant-garde design polarized opinions within the automotive sphere, while Musk's contentio
+## India's clean energy push may cut fuel import bill by $240 billion: IEA
+By the year 2030, India stands to save substantially on its coal and natural gas imports, with predictions from the International Energy Agency estimating cumulative savings of nearly $240 billion. A shift towards solar and wind energy will be essential for this transition, highlighting the importan
 
 ## Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy
 Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Samvat 2083. This trading session reflects auspiciousness associated with the Diwali festival and investor optimism. Major indices have seen strong rallies leading up to this event, driven by foreign investments and stable 
 
-## Stuck at work on Diwali? Firms offer employees longer breaks, better gifts and more
-Companies are implementing various initiatives to support employees working during Diwali by providing festive perks. These include extended weekends, work-from-home options, and personalized gifts for staff. Some firms are organizing celebrations for employees who remain on duty, ensuring they do n
+## FIIs return to Dalal Street, pump Rs 38,971 crore into Indian equities amid AI sell-off
+In a remarkable week, foreign portfolio investors flocked to Indian equities, pouring over Rs 38,000 crore into the market. This influx was largely driven by a global downturn in technology stocks fueled by AI concerns. While domestic institutional investors took a step back, foreign buyers eagerly 
 
-## HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more
-Here are today's top headlines from politics, national and global events, sports, and entertainment.
+## Berkshire Hathaway's profit falls 28% as Geico struggles: Warren Buffett's insurance giant under focus
+Berkshire Hathaway reported a more than 28% decline in third-quarter profit due to its insurance businesses. The conglomerate's insurance underwriting profit fell, primarily affecting Geico's performance significantly. Additionally, Berkshire's operating earnings decreased nearly 6%, missing analyst
 
-## Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia
-Gurwinder aka Afridi, against whom the Punjab government had announced a reward of ₹5 lakh, landed at Delhi’s Indira Gandhi International (IGI) Airport
+## Fresh sexual harassment complaint against granite baron Veeramani
+Fresh sexual harassment complaint against granite baron Veeramani
 
-## HC restrains unauthorised use of Amitabh’s name, likeness
-The Delhi high court has permanently protected the personality rights of veteran Bollywood actor Amitabh Bachchan, restraining entities from using his name, image, voice or other aspects of his persona without his consent
+## Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
+Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
 
-## Acquitted, but disarmed: SC orders cops to return bodyguard’s revolver
-For a private bodyguard, a revolver is more than a weapon — it can be the key to a job
+## Woman held for joining son, friends in assaulting 17-year-old boy over Instagram messages in Kochi
+The assault took place on Saturday at the woman's rented house on Changampuzha Road in Edappally North, leaving the boy injured, they said.
 
-## Ex-Tech Mahindra executive shot 15 times by neighbour in Faridabad, had come home for Diwali
-Police say the suspect fired multiple rounds and was arrested the next day. Relatives say the families had argued over a dog and parking-related issues.
+## 25-year-old stabbed to death in Bengal flat, live-in partner, her mother arrested: Cop
+According to the police, Sarthak Sarkar’s father and sister, who live in Barasat in North 24 Parganas district, said his phone was unreachable for several hours
 
-## PM Modi extends Diwali wishes, to celebrate festival with jawans today
-PM Modi extended Diwali greetings to people across the country on Sunday. He will be celebrating the festival with the jawans.
+## Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead
+Jhota's murder in Mansa had triggered protests and a political row, with his family demanding justice and action against drug trafficking in Punjab.
 
-## Delhi breathes worst air on Diwali eve in 10 years
-Weak winds are forecast to trap pollution, with forecasts suggesting air quality could reach the severe category by Monday.
+## Three family members, including 20-day-old baby, killed as house roof collapses in Kanpur
+The incident took place in Panki Padav area when the roof, made of bamboo, wooden beams and mud, suddenly gave way.
 
-## Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight
-A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.
+## Armed Maoists eliminated, but ‘dimagi Naxals’ remain a threat: PM Modi
+He described the elimination of armed Maoists as a victory for the government’s policies and strong political will
+
+## TN scraps Kurian panel on Centre-State relations, citing overlapping role
+TN scraps Kurian panel on Centre-State relations, citing overlapping role
+
+## HSBC bets HK$4 million a month on flagship branch to keep physical outlets relevant
+HSBC is turning to coffee, macarons and essential-oil massages to draw customers into its branches, as traditional lenders rethink their physical networks amid growing use of digital banking. The bank is spending HK$4 million (US$510,200) a month on its five-storey Causeway Bay flagship, which opene
+
+## Hong Kong investors look to Swiss Alps as they diversify property holdings
+Some wealthy Hong Kong investors are looking beyond Asia for property, as they seek to diversify their holdings across currencies and jurisdictions as part of a broader approach to wealth preservation. The Swiss Alpine resort village of Andermatt offers one example of the appeal. Prime residential p
 
 ## Beijing’s latest property stimulus falls short in lower-tier-cities
 Beijing’s latest property stimulus package has failed to stop a downward spiral in home transactions and prices in mainland China’s lower-tier cities, which could prompt top regulators to roll out stronger incentives to reinvigorate the weak market. According to data compiled by the China Real Estat
@@ -131,12 +134,6 @@ Tiger Brokers is seeking to offset the effects of Beijing’s regulatory crackdo
 
 ## Beijing calls for more efforts to stabilise stock market after renewed sell-off
 China’s State Council has pledged improved policy mechanisms to stabilise the country’s struggling stock market, after stocks slid again on Friday following a meltdown on the US markets. “We will enhance the inherent stability of the stock market and foster the steady and healthy development of the 
-
-## China’s AI models, led by Kimi, dominate open-source enterprise spending
-Chinese artificial intelligence models led by Moonshot AI’s Kimi family accounted for nearly nine-tenths of estimated global enterprise spending on open-source systems, according to a new study, even though proprietary US rivals continue to capture the vast majority of overall revenue. The report, r
-
-## Ahead of Shenzhen trade talks, US holds off blacklist rule that angered Beijing
-Ahead of a new round of bilateral trade talks, the US has extended the suspension of an expanded trade blacklist that helped inflame tensions with China last year and could subject overseas subsidiaries of Chinese companies to greater scrutiny. The US Bureau of Industry and Security (BIS) issued a f
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump asks UFC chief Dana White to be White House press secretary
-Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.
+## Messi becomes first player to win back-to-back MLS Golden Boot awards
+The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.
 
-## Egypt sacks winning football coach after wives’ scandal
-The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.
+## After rebel offensive, efforts to push them back appear to have stalled
+Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle
 
-## US launches task force to disrupt Iran’s land-based supply routes
-The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.
+## Tennis world number one Rybakina withdraws from WTA Finals due to virus
+Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.
 
-## Canary Islands’ El Hierro declares emergency amid migrant, refugee influx
-El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.
+## Democrats’ congressional win could strengthen Ukraine’s hand against Russia
+Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
 
-## Polish PM calls deadly Krakow shooting an act of ‘terrorism’
-Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.
+## Floods in Gaza leave tens of thousands without shelter
+Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.
 
-## Iran war live: US moves to block land supply routes; UAE rescues 22 sailors
-Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.
+## Former Palestinian detainees at mercy of Israel amid perpetual detention
+Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.
 
-## Eisenkot chosen over Netanyahu to form Israel’s next government
-Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.
+## Rent-a-grandchild: Businesses offering companions to elderly grow in India
+A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.
 
-## Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona
-Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.
+## Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal
+Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
