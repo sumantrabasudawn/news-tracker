@@ -1,64 +1,76 @@
 # AION Intelligence
 
-## Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy
-Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison
+## France accuses Iran of cyber attacks on supermarket refrigerators
+Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires
 
-## Asian stocks rebound after AI rout
-Declines last week had pushed many indices into bear market territory
+## Saudi Arabia’s vital East-West pipeline struck in attack
+Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports
 
-## Mark Blyth: ‘I call it the barbell from hell’
-The political economist on AI
+## Russian strikes aim to cut Ukraine in half, Zelenskyy warns
+Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country
 
-## Europeans join Abu Dhabi talks in bid to thwart Russian security demands
-Also in this newsletter: EIB and investors to channel over €10bn to help grow tech companies into global champions
+## How the world became too reliant on Jensen Huang
+The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company
 
-## FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy
-Also in today’s newsletter: China’s AI opening and aviation green fees warning
+## US regulator orders makers of weight-loss drugs to carry blindness risk warning
+Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s
 
-## China’s producer prices hit four-year high
-Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs
+## Can Jensen Huang survive as Nvidia’s CEO after spy scandal?
+Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company
 
-## Managing Climate Change
-‘Terrible backdrop’ looms over UN climate talks in Antalya. Plus: Turkey’s plan to tackle waste clashes with reality; interviews with former Australian PM Julia Gillard and COP31 president Murat Kurum; Europe lowers its ambitions; and will China bid to host?
+## Russia rations petrol after new Ukrainian strikes on refineries
+State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways
 
-## Democrat triumph offers China ‘window to catch up’ on AI
-Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction
+## Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’
+Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat
 
-## Crédit Agricole pitches merger of Italian business with Banco BPM
-French lender seeks to create Italy’s third-largest bank
+## Jensen Huang and Nvidia’s ‘key man’ risk
+Some of the leading AI companies are dangerously reliant on single executives
 
-## UniCredit set to seal Commerzbank takeover this month
-Italian lender plans to launch restructuring of German target in first quarter of 2027
+## Botswana to double De Beers holding to 30%
+President Duma Boko says Namibia and Angola taking stakes alongside Gareth Penny consortium
 
-## BA parent says onerous green charges will ‘kill’ Europe’s aviation industry
-Luis Gallego says planned environmental charges that are more onerous for UK carriers will lead to higher fares and damage the industry
+## Tier-2 districts lead in crypto deal value; fin/tech hubs top in tax payers
+Tax take from VDA income in FY25 crossed ₹585 crore as authorities keep an eye on dormant bank accounts and PAN use to curb shady moves
 
-## Tech’s teetering towers
-The AI race is defined by vertical integration. Will it withstand a storm?
+## Simplify Alpha opens AI centre, plans to raise headcount to 1,000
+The company plans to build specialised engineering teams combining AI expertise with knowledge of the US health insurance sector
 
-## Sensex today | Stock Market Live Updates: Sensex down about 289 pts to 80,710.10; Nifty down 80 pts; SBI, Trent, HDFC top gainers
-Sensex, Nifty, Share Prices Live: Markets open on a cautious note Monday morning, with the benchmark Nifty 50 declining 30.40 points, or 0.12 per cent, to trade at 24,956 as of 9.29 am, after closing at 24,986.40 on Sunday’s Muhurat trading session.
+## Diwali air pollution: Delhi-NCR remains a hotspot, Chennai records sharp deterioration
+City-wise data by CPCB as of 4PM, 9th November, suggest that the problem remains concentrated in Northern and Western India, but pollution is no longer confined to traditional hotspots
 
-## Today’s Gold Rate: Latest Gold prices in Coimbatore, Nagpur, Jaipur & Other Cities
-22, 24 carat Gold prices up across other cities on November 9
+## Navi Mumbai emerges top destination for new hotel development
+The pipeline includes major projects from Adani Group and others, such as a JW Marriott, Radisson Collection, and Hyatt Regency.
 
-## Delhi chokes on Diwali smog as data blip masks crisis
-Monitoring gaps across 44 of the city’s 59 official stations may have obscured the full extent of the pollution spike, with readings crossing 60 times the WHO’s recommended limit.
+## Promoter holding in Nifty 50 firms falls to 40%
+Private Indian promoter share hits 29-quarter low, while ownership across broader listed market rises to seven-quarter high
 
-## Adani Ports, MEIL and Vishwa Samudra in race for ₹11,733-crore VOC Port outer harbour project
-The three companies are competing for the Outer Harbour infrastructure contract at Thoothukudi port, which will be executed under the Hybrid Annuity Model.
+## Uttar Pradesh, Maharashtra, Gujarat shine as residential rooftop solar nears 20 GW
+Under the PMSG: MBY, the pan-India installed residential rooftop capacity stood at 19,189 megawatts (MW), covering 65,26,461 households last month.
 
-## Today’s Gold Rate, November 9: Check gold rates in Delhi, Mumbai, Chennai
-22, 24 carat Gold prices up across metro cities on November 9
+## Rupee’s 5-day winning streak ends with the currency closing at ₹93.93
+The Indian currency closed at 93.93 per US dollar (USD) against last Friday’s close of 93.91 and in intraday trade, it tested a high/ low of 93.69/94.11
 
-## Nifty slips to 24,882 at midday; IT, Steel, Cement drag as Rupee hits 2026 high
-The Sensex declined 362.13 points, or 0.45 per cent, to 80,637.27 from its previous close of 80,999.40, as selling pressure broadened across IT, metals and cement sectors, overwhelming early gains in banking and pharma stocks.
+## FMCG ad spending accelerates as macro pressures ease
+Companies like Marico and Colgate-Palmolive reported advertising expenditure growth of 44% and 40%, respectively, while others remain selective amid input-cost pressures.
 
-## This year set to be one of four hottest on record, UN report says
-Between January and September this year, the global average temperature was 1.47°C above pre-industrial levels and could rise further due to a major El Niño
+## Nvidia crisis: Will probe into Jensen Huang benefit Indian stock market?
+The development has plunged the US chipmaker, a key player in the global artificial intelligence industry, into an unprecedented crisis. The company also lacks a clearly identified successor to its chief executive. The more serious concern is the allegation that Huang “has been the target of a forei
 
-## What we know about Nvidia's probe into CEO Jensen Huang
-Board investigation into whether Huang was targeted by a foreign intelligence effort centres on ties to a Singapore-based figure linked to Beijing, amid broader US-China AI chip tensions.
+## Jensen Huang's affair with 'Chinese spy': Nvidia stock price plunges 8% amid nvestigation
+Nvidia said an independent committee of its directors would supervise the investigation, with assistance from external independent legal counsel. It was reported last month that Alice Huang, a Chinese citizen, had developed a close relationship with the Nvidia chief and allegedly passed information 
+
+## Your meal cost is set to rise: Eggs and chicken prices may rise 25-30% by December
+Wholesale egg prices, currently hovering at Rs 6-7 per egg, are projected to climb to Rs 7-8 by December. The wholesale rate of dressed chicken without skin is also expected to rise from the current Rs 225-250 per kg to Rs 260-275 per kg over the same period, according to senior industry executives.
+
+## Woman finds locker surrendered despite rent payments; bank told to pay Rs 47 lakh
+The commission found that the bank had failed to produce records establishing that the locker had been properly surrendered or that its contents had been returned. It rejected the bank’s claim that the locker had been surrendered several years ago, noting that locker rent continued to be debited eve
+
+## Nvidia shares drop: CEO admits affair with suspected spy; how can it impact the tech major?
+It was reported last month that Jensen Huang had been involved in a relationship with Alice Huang, a former executive at Singapore-based company Megaspeed who is not related to him. US authorities investigated Alice Huang and concluded that she was an asset of Chinese intelligence.
+
+## Global food prices fall in October: Why wheat, dairy and meat are getting cheaper
+In October, global food prices saw a decline, largely influenced by falling prices in the dairy, cereal, and meat categories. The FAO Cereal Price Index noted a substantial drop, attributed to positive production forecasts and weaker demand. Conversely, sugar prices escalated due to adverse weather 
 
 ## What's the outlook for gold prices on November 9, 2026? Check weekly prediction
 Gold price prediction today: Gold has rebounded above $4,100/oz, recovering from the previous week’s correction as investors weighed stronger US employment data against softer Treasury yields, a weaker dollar and expectations of easing geopolitical tensions. Spot gold advanced around 0.8% towards $4
@@ -66,47 +78,38 @@ Gold price prediction today: Gold has rebounded above $4,100/oz, recovering from
 ## Nifty50 to hit 28,000 in 2027? 3 factors that could drive Dalal street's next run
 Dalal Street is experiencing a remarkable surge, leading to a revised Nifty 50 target of 28,000 points by 2027. This positive shift is driven by optimistic earnings projections and lower crude oil prices. Additionally, recent inflows from foreign portfolio investors have strengthened market confiden
 
-## Bank holiday on Diwali: Where banks are closed on November 9; check state-wise list
-Banks will observe several holidays throughout November for Diwali and various regional festivals across India. Closure dates vary by state, impacting customers' banking activities and access to physical branches. While ATMs and online banking services remain operational, branch-dependent transactio
+## India-EU review FTA progress ahead of PM Modi's Brussels visit, push investment and trade ties
+India and the EU reviewed engagements aimed at boosting trade and investment cooperation, including the timely signing, implementation of the India-EU FTA.
 
-## Rupee extends winning streak, breaks below 94 against dollar: What's next
-The rupee has gained strength for the second consecutive session, dipping below the 94-per-dollar mark. This positive movement can be attributed to declining crude oil prices and an uptick in foreign fund inflows. Additionally, prospects for better diplomatic ties in the Middle East have bolstered o
+## Bihar govt bans firecrackers near ghats, private boat operations during Chhath Puja
+The Bihar Disaster Management Department has directed all districts to enforce strict safety measures during Chhath Puja from November 13 to 16.
 
-## Stock market today: Sensex plunges over 400 points, Nifty50 slips below 25,000 levels
+## India gets quota of 1.75 lakh pilgrims under Saudi Arabia's Haj 2027 agreement
+Saudi Arabia sets annual Haj quotas for countries to regulate the number of pilgrims visiting Mecca, as space and facilities at the holy sites are limited.
 
+## Chhattisgarh man kills 4-year-old relative, removes organs to sell online
+The accused told police that he was dissatisfied with his earnings from daily-wage work and wanted to make quick money.
 
-## Which are the top stocks to buy for November 9, 2026 week? Check list
-Stock market recommendations: Uno Minda, and Gabriel India are the top stocks that have been identified for buying this week (starting November 9, 2026) by Motilal Oswal Wealth Management Research.
+## Post-Diwali air pollution adds to respiratory distress, Noida doctors report rise in hospital visits
+Doctors advised residents to regularly monitor AQI, wear properly fitted N95 masks when stepping outdoors, and avoid jogging during periods of poor air quality.
 
-## Brent crude falls over $1 as Trump signals fresh US strikes on Iran are unlikely
-On Monday, oil prices experienced a downturn following Donald Trump's remarks about military options regarding Iran. He suggested that if negotiations were successful, further military action would likely be avoided. Despite this, concerns linger about potential shipping disruptions in the Strait of
+## Karnataka govt stands by report of over 20% ethanol in petrol, questions oil firms' data on blending
+Karnataka minister Rizwan Arshad said state stands by its findings that petrol samples contained more than prescribed 20% ethanol, with some showing up to 31.2%
 
-## India's crypto tax could hurt blockchain innovation: Buterin
+## ‘This is New Delhi’: Chinese vloggers misrepresent Dhaka streets in online streams
+The vloggers streamed videos of Dhaka streets while claiming they were filmed in New Delhi. The videos are accompanied by derogatory remarks.
 
+## Delhi’s missing Diwali night data released; PM2.5 at over 60 times national standard
+HT had reported earlier that PM2.5 readings at many of Delhi’s stations went blank as the air worsened on the night of November 8.
 
-## Sheikh Hasina seeks new passport and ID card ahead of planned return to Bangladesh
-Sheikh Hasina confirmed to HT that her London-based lawyers had written to the Bangladesh high commission to seek a new passport and national identity card
+## Building world-class software from Asia: Omnichat’s CEO on his US$10M raise and global ambitions
+[The content of this article has been produced by our advertising partner.] Hong Kong AI customer-experience platform Omnichat has raised US$10 million in Series A funding led by Openspace Capital, with participation from Darwin Ventures and Acorn Pacific Ventures. Founder and CEO Alan Chan plans to
 
-## 3-year-old girl allegedly sexually assaulted in Goa; manhunt launched to trace culprit
-Police have registered a case after a three-year-old girl was allegedly sexually assaulted in a dilapidated Mapusa building. CCTV footage is being examined.
+## Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say
+As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also the future of the chip giant’s delicate semiconductor trade with China, according to lawyers and analysts. The world’s leading m
 
-## Suspect in Bengal minor’s gangrape, murder killed in police encounter
-This is the fourth death of a suspected rapist in a police encounter in five months since the formation of Bengal’s first Bharatiya Janata Party government
-
-## ASDD voters get way back to electoral rolls without Form 6, but not in all states
-The Supreme Court questioned the ECI on why deleted voters were being made to fill Form 6 to return to the rolls
-
-## ‘Delhi AQI crossed 3,000’: AAP's Saurabh Bharadwaj alleges ‘AQI data fraud’ by government
-His allegations follow reports that many monitoring stations stopped reporting on Diwali night, while functioning stations recorded severe air quality.
-
-## From Sharad Pawar's 1999 party formation to 2026 reunion buzz: A look at NCP's journey
-The merger speculation has intensified following a series of meetings between senior leaders of the two factions.
-
-## Delhi’s air pollution fight needs year-round action across Indo-Gangetic Plain: Expert
-The expert said tackling air pollution requires sustained, year-round action across the Indo-Gangetic Plain (IGP)
-
-## On Diwali night, Delhi's PM2.5 readings climbed towards 1,000, then went blank
-HT's analysis of CPCB's records shows fine-dust readings at many stations stopped just short of 1,000 µg/m³ while their gas monitors kept reporting.
+## Factory owner proposes 928 flats at Sha Tin site as industrial demand drops
+After 17 years of intermittent government-led initiatives to turn the Siu Lek Yuen industrial area into residential housing, a company recently applied to convert two industrial buildings on the site into 928 residential flats. The move would offer a more viable and profitable path forward for devel
 
 ## UBS’ Sergio Ermotti on the crises that shaped the bank and navigating regulatory webs
 In late March 2023, Sergio Ermotti’s telephone rang. Then, he was serving as chairman of Swiss Re and set to renew his term, comfortably ensconced in what appeared to be a dignified, settled chapter of an illustrious banking career. On the other end of the line was UBS chairman Colm Kelleher. A day 
@@ -123,17 +126,11 @@ A pledge by China’s central bank to investigate Solana’s recent campaigns in
 ## Hong Kong’s finance sector has billions in disposable income. Why is investing a struggle?
 Employees in Hong Kong’s more tightly regulated financial institutions are generating about HK$35.8 billion (US$4.66 billion) in investible income each year, but are having difficulty investing due to personal account dealing (PAD) restrictions, according to a report. The restrictions can apply to b
 
-## French investment giant Ardian looks to tap China’s ‘more reasonable’ valuations
-French private equity giant Ardian sees prime opportunities to snap up quality assets in China amid a liquidity slowdown in the world’s second-largest economy, as it looks to meet European investors’ strong demand for diversification, according to company executives. Ardian, which managed over US$20
-
-## What comes next? Hong Kong seeks to unlock next phase of growth as global financial hub
-In November 2022, as Hong Kong prepared to host its inaugural Global Financial Leaders’ Investment Summit, Typhoon Nalgae was bearing down on the city, bringing much of it to a standstill. However, at the Four Seasons Hotel in Central, one of the city’s most prestigious addresses, some of the year’s
-
-## Nvidia CEO Jensen Huang admits to affair; board orders investigation
-The board of US AI chip giant Nvidia has announced an independent investigation as chief executive Jensen Huang said in a memo to employees that he had been unfaithful to his wife. Huang admitted to an extramarital affair and apologised to his family and colleagues in the memo, which the company pub
+## The Experts Are Taking Their Revenge Again
+The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences.
 
 ## Is Hegseth the New Rumsfeld?
-When the face of an unpopular war faces a wrathful Congress “stuff happens.”
+When the face of an unpopular war faces a wrathful Congress, “stuff happens.”
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -152,9 +149,6 @@ The film indulges in conspiracy rather than reckoning with the coup in front of 
 
 ## Two New Stand-Out Novels From Ireland and South Africa
 The legacy of the Catholic Church is impossible to ignore in Louise Kennedy’s love story—much like the shadow of apartheid in Keletso Mopai’s ambitious debut.
-
-## What in the World?
-Test yourself on the week of Oct. 31: Russia and Ukraine hack each other, Americans vote in midterm elections, and Indonesia deploys troops to its capital.
 
 ## The Next Step for APEC in Shenzhen
 Turning risk diversification into value creation under the U.S.-China rivalry.
@@ -180,6 +174,12 @@ India’s green hydrogen ambitions are running up against high production costs,
 ## India’s Rediscovery of Poland: The Drivers and Limits of a Growing Partnership
 Despite the growing momentum in relations between Poland and India, policy differences exist over Russia.
 
+## The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp
+The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary and chief investment officer of the Strategic Capital Initiat
+
+## Rethinking Strategic Stability with China: From Coercion to Constructivism
+Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China. Spanning containment and normalization to opening and reform, U.S. policymakers have long hoped that China would fulfill its place in the international order and transform itself into a
+
 ## Talks, Attacks, and a Heist
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranNow that the U.S. midterms are over, the looming question is how and when one side or the other will seek to
 
@@ -197,12 +197,6 @@ The number of armed conflicts has increased in recent years, and researchers hav
 
 ## The Army’s Command-and-Control Reboot
 How the Army makes decisions, communicates orders, coordinates forces, and keeps operations moving toward a common goal is undergoing a revolution. It’s called Next Generation Command and Control. Two of its architects — Lt. Gen. Matthew W. McFarlane, commanding general of I Corps, and Maj. Gen. Pat
-
-## The G.I. and the Paperback: A World War II Love Story
-On June 5, 1944, as soldiers lined British shores, preparing for their perilous journey to the beaches of Normandy, Special Services units handed out comfort items, from packs of cigarettes to candy. But one item was more sought after than any other: books. Crouched on the crowded decks awaiting Eis
-
-## The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them
-In 2025, Ari Heistein wrote, “Defeating the Houthis Will Require More Than Killing Their Chief.” A year later, we asked him to reflect on the Houthis’ Red Sea gains, the limits of killing leaders, and why another ceasefire would only buy them time to rearm.Image: Mehr News Agency via Wikimedia Commo
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Which countries and industries emit the most greenhouse gases?
-The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.
+## Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown
+The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.
 
-## Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
-Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.
+## Krakow shooting suspect dies as Poland mourns six victims
+A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
 
-## Who are the seafarers caught in the US-Israeli war on Iran?
-International Maritime Organization records at least 25 deaths since the conflict started on February 28.
+## Meta rolls out automated age checks for teens globally
+AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
 
-## Poland mass shooting assailant dies in hospital, police say
-The assailant was shot by police officers and arrested minutes ‌after he ​opened fire at people in central Krakow.
+## Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues
+Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.
 
-## Why we disrupted Annalena Baerbock’s award speech
-The former German foreign minister is no proponent of peace and justice. No award can wipe out her disastrous record.
+## France accelerates minimum wage hike in bid to quell protest
+Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.
 
-## What is next for Israel?
-The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.
+## Israeli tourists spark outrage over video pushing tour guide into sea
+A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.
 
-## How Israel’s separation wall compares with the Berlin Wall
-How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.
+## Al Jazeera tries skateboarding at Youth Olympics
+Al Jazeera tries skateboarding at Youth Olympics
 
-## Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title
-Norris wins from pole position on a rainy Sao Paulo track as Mercedes win team title for the first time since 2021.
+## France accuses Iran of cyberattack on supermarket fridges
+Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.
 
 ## Kalpataru confident of achieving ₹6,500 crore pre-sales target in FY27, says CFO
 With a pre-sales target of ₹6,500 crore for this fiscal year, Kalpataru is navigating through the current market landscape. Although sales bookings remained stable at around ₹2,600 crore in the initial half, the housing demand shows resilience against global uncertainties. The CFO is confident about
