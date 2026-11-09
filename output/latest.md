@@ -3,6 +3,9 @@
 ## Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy
 Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees
 
+## Pope Leo and Javier Milei offer duelling visions for Argentina
+Pontiff’s speech included what many interpreted as veiled criticism of the president’s austerity measures
+
 ## Companies House faces scrutiny over ‘pervasive and systemic’ errors
 Almost four in 10 businesses identify inconsistencies with their own records, calling official UK corporate register’s reliability into question
 
@@ -21,9 +24,6 @@ Pro-growth policies on their own won’t address the concerns of voters worried 
 ## Israel’s president gives Gadi Eisenkot first chance at forming government
 Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition
 
-## How each country’s emissions compare
-A searchable dashboard of 197 countries’ historical emissions and future climate targets
-
 ## Private equity firm seeks to take control of LIV Golf from Saudi wealth fund
 BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets
 
@@ -39,6 +39,18 @@ AI lab bypasses traditional suppliers to secure scarce equipment as demand for e
 ## AI is coming for managers’ headcount
 Their pay grade could be next
 
+## Trump says Task Force Iron Gate is in full force against Iran
+The initiative expands Washington’s efforts to restrict Iranian trade routes, military supplies and revenue streams through coordinated land and maritime enforcement
+
+## How a digital bank’s collapse toppled Paraguay’s president
+The collapse has raised questions about regulatory oversight, political connections and the stability of Paraguay’s financial system
+
+## Nvidia Board launches probe into alleged spy plot after CEO admits affair
+The investigation comes amid heightened scrutiny of Nvidia’s China connections, national security concerns and questions about the company’s leadership succession
+
+## US presses Iraq to close nearly all commercial border crossings with Iran
+The developments come amid mounting regional tensions, disruptions to critical energy routes and stalled diplomatic efforts to end the conflict
+
 ## Democrats eye Musk, Miller probes after midterm rout
 Investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's ‌hardline immigration crackdown
 
@@ -50,18 +62,6 @@ Shivakumar says Karnataka did not require Tamil Nadu's permission but only its c
 
 ## Wall Street races for megadeals as countdown begins on Trump era
 The rout by the Democrats in the midterms is creating a sudden sense of urgency in boardrooms, with executives wondering if they might have one last chance to pull off a transformational transaction
-
-## Delhi AQI hits 371 at 7pm, netizens report smelling smoke as Diwali celebrations gather pace
-Several social media users report smelling smog and firecracker smoke in the air as celebrations gathered pace across the capital, with the city's air quality remaining close to the 'severe' threshold
-
-## Iran suggests blasts are not US attacks as both sides report ships hit
-Both sides have continued strikes on vessels in the Strait of Hormuz, however, restricting exports of energy and other commodities vital to the world economy
-
-## What to Watch at COP31 as Midterms, Brazil Deliver Climate Boost
-As thousands of delegates prepare for two weeks of debate from Monday at the UN’s COP31, recent electoral surprises in the US and Brazil are offering rare optimism
-
-## Anthropic strikes $3.4 billion deal for data centre generators
-The AI startup ‌bought commitments ‌for ⁠1.7 gigawatts of heavy-duty ⁠generators for $3.4 billion in late September from OnePWR ​Solutions, ‌a San Antonio, Texas-based equipment supplier
 
 ## Samvat 2083: What's the outlook for Sensex, Nifty & what should investors do?
 Samvat 2083 outlook: The volatile Muhurat trading session comes after a record seven-day rally by the indices which saw BSE Sensex and Nifty50 rise over 10%. The gains over the preceding seven consecutive sessions had lifted the Sensex by 7,781.99 points, or 10.62%, and the Nifty by 2,331.5 points, 
@@ -87,6 +87,9 @@ By the year 2030, India stands to save substantially on its coal and natural gas
 ## Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy
 Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Samvat 2083. This trading session reflects auspiciousness associated with the Diwali festival and investor optimism. Major indices have seen strong rallies leading up to this event, driven by foreign investments and stable 
 
+## Delhi air quality ‘very poor’ morning after Diwali, capital chokes with AQI at 366
+The Air Quality Index (AQI) on Monday morning stood at 366 under ‘very poor’ category as of 6:15 am, as per the Sameer app and HT Pollution Dashboard
+
 ## SSB jawan found dead while on duty at India-Nepal border outpost in UP: Police
 Nautanwa circle officer Basant Singh said police received information about the death and immediately dispatched a team to the border outpost
 
@@ -108,8 +111,11 @@ Assam Chief Secy chairs monthly review meeting, stresses time-bound reforms
 ## Fresh sexual harassment complaint against granite baron Veeramani
 Fresh sexual harassment complaint against granite baron Veeramani
 
-## Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
-Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC
+## Standard Chartered profits from geopolitical fragmentation as earnings soar: CEO
+Standard Chartered expects to sustain its strong earnings growth by capitalising on rising wealth in Asia and the Middle East, growing demand for cross-border financial services and the digitisation of money, as rising geopolitical tensions reshape global finance, group chief executive Bill Winters 
+
+## How Dong Mingzhu, China’s manufacturing ‘iron lady’, is maintaining her cool in the AI era
+Dong Mingzhu chairs Gree Electric Appliances, a home-appliance giant based in southern China’s Guangdong province. Having worked her way up from a frontline sales job, she is one of China’s best-known figures in manufacturing. As a deputy to the National People’s Congress, she has long advocated for
 
 ## While AI speeds up SMEs, delivery remains hard to automate
 [The content of this article has been produced by our advertising partner.] SMEs across Asia and Latin America are increasingly using AI in their daily operations, but getting goods to customers remains difficult to automate, according to a survey by on-demand delivery platform Lalamove, which opera
@@ -128,12 +134,6 @@ Beijing’s latest property stimulus package has failed to stop a downward spira
 
 ## China’s EV safety push gives foreign brands from Tesla to GM an opening for a comeback
 International brands have become unlikely beneficiaries of Beijing’s clampdown on so-called rapidly developed vehicles as they step up efforts to convince Chinese consumers of their cars’ quality and reliability. About 10 foreign carmakers from Tesla to General Motors (GM) were not only displaying t
-
-## Financial leaders tiptoe around Beijing’s asset scrutiny, hail Hong Kong’s wealth boom
-Global financial leaders who gathered in Hong Kong this week largely sidestepped Beijing’s offshore trust tax crackdown, a lingering near-term hurdle for the city’s otherwise expanding wealth management industry. Beijing’s move earlier this year to step up scrutiny of wealthy families’ overseas asse
-
-## Former Evergrande economist faces WeChat gag order after ‘buy the dip’ call
-Amid a bear market in China’s stock exchanges, Ren Zeping, the high-profile independent economist famed for his prescient call on China’s A-share bull market, is once again in the spotlight for a “gag order” on his social media, though industry insiders say that the move by the platform was not unex
 
 ## Global AI Stocks React to U.S. Midterm Results
 Incoming Democrats have pledged to rein in AI and data centers.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Deadly sand cliff collapses on displaced families in Gaza
-Deadly sand cliff collapses on displaced families in Gaza
+## India’s night lights up for Diwali
+India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.
 
-## Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online
-‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.
+## Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
+Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.
 
-## Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
-Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
+## Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield
+More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility.
 
-## Pope Leo XIV delivers homily to thousands in Uruguay
-Pope Leo XIV delivers homily to thousands in Uruguay
+## Nvidia CEO’s affair sparks Chinese espionage probe
+Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.
 
-## Rangoli makers adapt to rising costs to preserve colourful Diwali tradition
-Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.
+## Mexican mayor found alive after hours-long abduction
+Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.
 
-## Iran threatens to ‘rain down hell’ if US escalates war
-President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.
+## Chancellor Merz to nominate Aigner as Germany’s first woman president
+Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.
 
-## Al Jazeera tries Baseball5 at Youth Olympics
-Al Jazeera tries Baseball5 at Youth Olympics
+## Lopez double fires Barcelona to win at Atletico Madrid
+Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.
 
-## Man United earn 4-4 draw against Aston Villa but remain in relegation zone
-Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.
+## President Milei welcomes Pope Leo during historic visit to Argentina
+Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.
 
 ## Diwali: A Festive Demand Barometer For The Economy
 Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
