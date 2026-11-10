@@ -1,52 +1,37 @@
 # AION Intelligence
 
-## Defiant Hegseth defends Iran war as he faces impeachment vote
-US defence secretary battles to save his job following Republicans’ defeat in midterm elections
+## Senior US soldier arrested in UK on suspicion of spying for Russia
+British Counter Terrorism Policing’s investigation involves the FBI and American military
 
-## Higher-than-expected October inflation sparks Treasury sell-off
-Monthly figure of 0.4% prompts traders to increase bets on Federal Reserve rate before year end
+## Republicans choose Jim Jordan as House minority leader
+Pugnacious lawmaker signals uncompromising stance despite party’s poor US midterms performance
 
 ## Oil falls below $90 as Trump pulls back from threat to strike Iran
 Falling crude prices have supported recovery in global stocks from last week’s sell-off
 
-## Moderna chasing ‘holy grail’ of cancer prevention
-Chief executive Stéphane Bancel says cancer vaccine could be bigger than best-selling oncology drug
+## US commerce department delays Megaspeed’s inclusion on trade blacklist
+Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’
 
-## Alice Huang’s tangled web of connections
-Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators
+## US regulator postpones Wall Street push to trade AI computing futures
+The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class
 
-## Top Fed official considers largest rate rise since 2022
-Governor Christopher Waller says policymakers should weigh a 50bp move if US inflation fails to slow
+## Weil partners approve plan to shut down law firm
+Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis
 
-## US, Russia and Ukraine resume talks on ending war
-Expectations of a breakthrough are low because Vladimir Putin shows no sign of wanting to halt the conflict
+## Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe
+Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy
 
-## BoE policymaker refuses to rule out back-to-back rate rises
-Clare Lombardelli says high energy prices and resilience of UK growth mean there is a case for a further increase ‘in the near term’
+## Ministers reject plans to build Britain’s largest solar farm
+UK government says proposed Botley West project would cause ‘substantial harm’ to the greenbelt and Blenheim Palace in Oxfordshire
 
-## David Walliams accused of sexual misconduct
-Lawyers had argued that bestselling author’s anonymity should be protected because of risk of suicide
+## Nvidia shares down as Huang affair scandal deepens
+What happens when a tech giant becomes a security concern?
 
-## Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030
-Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade
+## UK fraudster who invented ‘too good to be true’ takeover bid given suspended sentence
+Christopher Woolcott created a cast of characters in a bid to profit from a rise in Touchstone Exploration’s shares
 
-## Anthropic targets valuation of up to $1.4tn in IPO
-The Claude maker plans to raise as much as $64bn in highly anticipated listing
-
-## Africa’s richest man Aliko Dangote pulls London listing
-Nigerian billionaire had planned to list $18.4bn group Dangote Cement in UK this year
-
-## Italian banks hit out at Giorgia Meloni over latest tax raid
-Rome plans to raise €7bn from financial institutions during the next three years through measures including a higher corporation tax rate
-
-## Countries speed up on renewables as China’s blistering pace slows
-Ten takeaways from the IEA’s latest report on the fossil fuel transition
-
-## SoftBank slumps to $7bn loss on US data centre writedown
-AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects
-
-## FirstFT: Oil price falls below $90 a barrel
-Also in today’s newsletter: FBI investigates Jensen Huang and China’s trade surplus surpasses $1tn
+## The Nvidia investor’s guide to (maybe) losing your CEO
+Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power
 
 ## Bharat Mobility 3.0 to see 50 countries, 1,750+ exhibitors on February 4-9, 2027
 Industry sources said countries such aslike the US, China, Japan, Mexico, Sri Lanka, Germany, Italy, Spain, and Taiwan, are also among the over 50 nations taking part in the mega show
@@ -72,6 +57,9 @@ The Army has channelled over ₹97 crore in business to domestic industries thro
 ## FII favourites: Top large-, mid-, small- and micro-cap stocks that saw rising ownership for two straight quarters
 For the past two years, foreign Institutional investors have remained net sellers of Indian equities, weighed down by rich valuations, relatively slower earnings growth, tariff and geopolitical uncertainties, a weakening rupee and the lure of AI-led opportunities in overseas markets. However, the ti
 
+## Builder withheld Rs 88 lakh after redevelopment deal; landowners win over Rs 1.22 crore
+The dispute originated in 2010, when two landowners, along with their late mother, transferred their development rights to a builder for redevelopment. They held a one-third undivided share in a property in Mumbai, and executed an Agreement to Assign for the redevelopment. Subsequently, they also en
+
 ## How much Venezuela oil can India realistically buy as Russia remains biggest supplier?
 India’s attraction for the US lies in its sophisticated refining capacity. However, replacing Russian supplies on a significant scale is not straightforward: refinery compatibility, prices, shipping costs and commercial viability will influence whether Indian refiners buy more Venezuelan oil. How mu
 
@@ -93,8 +81,8 @@ Anthropic, an artificial intelligence company, has announced plans for an initia
 ## China hits $1 trillion trade surplus milestone for second year in a row
 China's trade surplus surpassed $1 trillion in the first ten months, driven primarily by high-tech product demand. Exports increased significantly due to the global AI investment boom, although imports also grew faster than expected. Domestic consumption remains weak, which has pressured manufacture
 
-## Russia-US diesel deal delivers results? Lavrov claims prices have already fallen
-Russian foreign minister Sergei Lavrov stated that an agreement allows Russia to resume diesel exports to the US. The arrangement aims to stabilize energy markets and improve energy security amid rising fuel prices. Ukrainian attacks on Russian energy infrastructure continue, impacting fuel shortage
+## AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year
+The concert was originally scheduled for next week on November 21, and was to take place at 7 pm at Backyard Sports Club in Gurugram.
 
 ## Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown
 Traffic personnel will be transferred through an automated system, zonal officers and traffic inspectors will be held accountable for staff's corrupt practices.
@@ -108,7 +96,7 @@ The SEM at Mandir Marg police station allowed the exemption on Tuesday after Abh
 ## Delhi SIR: Form 6 applications cross 3L-mark after draft roll excludes 47.5 lakh voters
 A total of 3,00,431 Form 6 applications, used by voters to seek inclusion in the electoral roll, were received between August 31 and November 9, data showed.
 
-## India objects to Chinese influencers showing Bangladesh as Delhi, calls it ‘peddling false narratives’
+## India objects to Chinese influencers showing Bangladesh as Delhi: ‘peddling false narratives’
 People familiar with the matter said on condition of anonymity that there has been a surge in anti-India content on China-based platforms
 
 ## Oxford University transfers custodianship of 39 Naga ancestral remains to Naga people
@@ -116,9 +104,6 @@ Following the handover, the ancestral remains were moved out from the University
 
 ## Uniform Civil Code an attempt to impose 'Hindu Civil Code' on non-Hindus: Owaisi
 AIMIM president Asaduddin Owaisi said his party will oppose the Uniform Civil Code in the legislature.
-
-## India exchanges ideas on ‘food corridors’ with Russia, Ukraine
-Modi and Zelensky shared perspectives on the ongoing conflict during their phone conversation, and discussed its humanitarian aspects
 
 ## Alibaba chip unit T-Head files Hong Kong IPO plan amid China’s AI self-sufficiency drive
 Alibaba Group Holding’s chip design unit T-Head has filed for an initial public offering (IPO) on a confidential basis in Hong Kong, the company said in a stock-exchange filing on Tuesday evening, setting up a high-profile listing in the city amid rising competition between the US and China as the l
@@ -144,6 +129,15 @@ American delivery giant FedEx is expanding its trans-Pacific services between Ch
 ## People and partnerships power Hang Seng’s fintech innovation
 [The content of this article has been produced by our advertising partner.] From AI-powered investment tools to a table tennis challenge against a robot, Hang Seng Bank brought technology to life at Hong Kong FinTech Week 2026. The bank marked its debut at the annual gathering of financial and techn
 
+## What Progressives Could Do on Israel
+Democrats feel they have a mandate to put conditions on U.S. support for Israel.
+
+## U.S.-Mediated Russia-Ukraine Talks Make Little Headway
+Old sticking points continue to bog down negotiations.
+
+## There’s Never a New Middle East
+Washington’s fantasies of transformation keep failing to pan out.
+
 ## ‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment
 Hegseth decried the effort as a “farce” and a “stunt.”
 
@@ -159,38 +153,32 @@ As U.S. Democrats sweep into power, European progressives are wondering how to m
 ## The Global Economy Braces for Yet Another Blow
 El Niño is already unleashing economic and agricultural pain worldwide. It may get even worse.
 
-## Where Is U.S. Security Assistance to Jordan Going?
-Security agencies prioritize shielding the monarchy from political dissent.
+## China Wants India’s Market. Does It Want India’s Industrial Rise?
+China’s export controls, though developed largely for great power competition, have growing significance for India’s industrial future.
 
-## The Walls Close In on Hegseth
-The Pentagon chief could get pushed out soon, one way or another.
+## South Korea’s Conservatives Are Moving Toward a Proxy Battle Over Their Future
+The two early front-runners for the PPP’s presidential nod will seek to cement their control over the party in the 2027 chair race – but neither man can run himself.
 
-## What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal
-Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security.
+## The Afghan Women Who Wrote Their Own Rights
+26 years ago Afghan women gathered in Dushanbe to declare their rights. It is a list of everything the Taliban regime has again taken from them.
 
-## Whatever the ICJ Rules, the Arakan Army Is Beyond Its Reach
-The armed group’s treatment of the Rohingya amounts to crimes against humanity – but because it is driving them into Bangladesh, the ICC has the power to act.
+## After Trump’s Crushing Midterm Defeat: What Now for Australia?
+The central question for Canberra is whether the electoral outcome creates greater certainty or simply replaces presidential unpredictability with political gridlock.
 
-## The Thailand-Bhutan Bond, and Why It Endures
-Royal connections and religious commonalities have laid the foundation of a warm relationship between the two kingdoms.
+## Canada’s Indo-Pacific Partners Deserve Clarity on China Policy
+If Canada is to further cultivate its relationships in the Indo-Pacific, it needs a clearer articulation of its regional ambitions and its political limits.
 
-## Takaichi Sanae’s Policy Speeches and China
+## China Is Nibbling at India’s Domination of Bhutan’s Economy
+China and Bhutan have no official diplomatic or economic relations. Yet trade is growing, as Bhutan’s hunger for Chinese goods grows.
 
+## Is China Arming the Houthis – or Just Failing to Enforce Export Controls?
+It is entirely plausible that Chinese-made components could have found their way into Houthi missiles. That does not mean that Beijing greenlit the sales.
 
-## Why Did Mongolia’s President Visit Finland?
-Although geographically distant, the two countries have more in common than it might seem at first glance.
+## How China’s Transnational Repression has Silently Taken Root in Japan’s Society
+From direct intimidation to institutional pressure, repression from Chinese individuals and institutions is experienced by critics in Japan.
 
-## Xi Jinping’s Paradox of Political Control
-There is an unresolved tension between Xi’s growing ability to punish dissent and continued problems of political unreliability.
-
-## Can Cash Transfers Empower Indian Women?
-Cash transfers might offer immediate support, but lasting economic empowerment depends on women’s access to jobs, assets and productive resources.
-
-## After the Midterms, Seoul and Washington Need a North Korea Policy That Outlasts Elections
-A bipartisan line toward Pyongyang matters more than matching parties in Seoul and Washington.
-
-## India’s Theater Commands: A Never-ending Debate?
-The way forward lies in a phased approach that combines the interests of all three services and that requires a strong political will.
+## Analyzing the Ethiopian-Somaliland Deal, Two Years On
+In 2024, James Barnett wrote, “A Port Deal Puts the Horn of Africa on the Brink,” where he argued that tensions in countries like Ethiopia and Somalia threaten to escalate into a broader regional conflict if not contained. Two years later, with U.S. attention largely diverted to other areas of conce
 
 ## To Implement Acquisition Transformation, Empower Military Mavericks
 “I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mavericks who make institutions uncomfortable; otherwise you wash out innovation.”— James Mattis & Bing
@@ -212,9 +200,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## Can Washington and China Build Confidence Around AI and Stability?
 In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the White House to discuss, among other topics, AI, U.S. Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng at JPMorgan Chase’s New York City offices. At the meeting, U.S. officials proposed establishing a
-
-## The Golden Dome Proposal is Destabilizing and Dangerous
-Editor’s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, “Golden Dome Is Technologically and Financially Infeasible.”Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and spac
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -240,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Security forces seized top court, Somalia’s ex-chief justice says
-Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.
+## UNIFIL patrol comes under fire in southern Lebanon
+UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.
 
-## Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy
-Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.
+## US poll shows death penalty lost majority support for first time since 1971
+Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.
 
-## Did Fox News’ fixation on Hasan Piker backfire?
-Did Fox News' fixation on Hasan Piker backfire?
+## IBM’s biggest division ends most US foreign worker sponsorships
+Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.
 
-## At least 12 people killed in Bulgaria motorway pile-up
-At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway
+## 2026 Midterms: Blue wave or anti-establishment backlash?
+Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.
 
-## Father, child among six Palestinians killed in Israeli attacks on Gaza
-Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.
+## White House announces funds for law enforcement programme in several cities
+Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.
 
-## Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik
-Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.
+## US soldier arrested in UK on suspicion of spying for Russia
+London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.
 
-## Deadly Egypt train crash prompts calls for political accountability
-A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.
+## Netanyahu and Eisenkot push for new government after election deadlock
+Netanyahu and Eisenkot push for new government after election deadlock
 
-## Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts
-Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts
+## Iraq blocks Iranian football team’s plane from landing over US sanctions
+Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.
 
 ## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
 India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
