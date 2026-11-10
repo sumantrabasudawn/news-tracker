@@ -1,142 +1,133 @@
 # AION Intelligence
 
-## Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang
-US company has been rocked by allegations its chief executive had an affair with a Chinese spy
+## Top Federal Reserve official considers largest rate rise since 2022
+Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow
 
-## ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’
-US oil major says it has signed a memorandum of understanding with Caracas
+## SoftBank posts unexpected $7bn loss on data centre writedown
+AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects
 
-## Russian strikes aim to cut Ukraine in half, Zelenskyy warns
-Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country
+## US removes planes from second UK military base after Iran threat
+Move follows September security incident at RAF Fairford
 
-## Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza
-The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory
+## Too big to fire
+Should Jensen Huang stay or go?
 
-## Supreme Court lets Trump build border wall through Texas national park
-Top judges rule that government’s interest outweighs any aesthetic and environmental harm alleged by respondents
+## Latest Godzilla release sets box office records for Japanese film
+Monster franchise’s newest instalment is country’s first production to top takings in both North America and Japan on opening weekend
 
-## Trump hails ‘positive momentum’ towards ending Iran war
-Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister
+## EU on track to add Montenegro in 2028 despite national vetoes, says Ireland
+Also in this newsletter: Are European companies able to feed their AI models enough data?
 
-## Republican lawmaker moves to impeach US defence secretary Pete Hegseth
-Trump critic Thomas Massie cites abuse of power and flouting of the US constitution
+## Britain throws weight behind idea for new subsea data link to Norway
+Feasibility study into proposed UK-Norway digital corridor comes at a time of increasing foreign threats to infrastructure
 
-## Nvidia shares fall as it probes alleged Chinese spy scandal
-Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair
+## FirstFT: FBI is ‘looking into’ Nvidia’s Huang, Trump says
+Also in today’s newsletter: UK-Russia ties and Iran war talks
 
-## US regulator orders blindness risk warning on obesity drugs
-Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s
+## Vodafone raises guidance after job cuts despite €5bn Germany impairment
+Adjusted earnings grow while bottom line takes a hit from German yields rising
 
-## France accuses Iran of cyber attacks on supermarket refrigerators
-Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires
+## AI’s affair to remember
+Nvidia’s boardroom crisis raises questions about the future of the company that has become the bank of AI
 
-## Saudi Arabia’s vital East-West pipeline struck in attack
-Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports
+## BT cools on Starlink satellite tie-up after Musk Ukraine controversy
+Launch will not proceed until ‘noise has died down’ over battlefield service disruptions, says CEO Allison Kirkby
 
-## Jensen Huang and Nvidia’s ‘key man’ risk
-Some of the leading AI companies are dangerously reliant on single executives
+## FII selling eases in October as technology and telecom attract foreign investors: Motilal Oswal
+Domestic institutional investors inject $6.3 billion during the month, extending their buying streak to 39 consecutive months
 
-## How the world became too reliant on Jensen Huang
-The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company
+## JLR identifies India as key growth market, to launch first EV in 2027: MD
+The luxury automaker plans to import the electric models to test their market response initially.
 
-## Can Jensen Huang survive as Nvidia’s CEO after spy scandal?
-Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company
+## Aluminium futures: Outlook remains bearish
+Participants can hold on to the shorts
 
-## ‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry
-From celebrity-like fan following to billionaires seeking his chips, Huang’s influence extends well beyond Nvidia’s position as a semiconductor supplier
+## Mutual funds' Nifty 50 allocation falls to 21-year low
+Exposure slips below 50% for first time in over two decades as funds broaden portfolios beyond benchmark stocks
 
-## Paras Semiconductors partners with US firm BroadPak to develop advanced packaging facility in India
-The proposed facility will bring together specialised technology, manufacturing know-how and engineering expertise to address next-generation semiconductor packaging requirements
+## India, US vow to jointly act against emerging drug threats
+NCB hosted 2nd India-United States of America Drug Policy Executive Working Group Meeting on November 2-3
 
-## Piyush Goyal holds talks with Skoda Volkswagen to boost EV manufacturing in India
-The discussions also explored innovation opportunities and ways to strengthen India’s integration into global automotive value chains
+## Authorities to investigate death of three contract workers at Tata Electronics’ Hosur plant
+The incident will be thoroughly investigated, says TN Industries Minister S Keerthana
 
-## RBI extends supersession of Abhyudaya Co-operative Bank board by another year
-The central bank’s decision follows concerns over governance standards that prompted it to take control of the Mumbai-based lender in November 2023
+## Q2 Results Today Live: MRF Q2 PAT down 28% y-o-y, Kalyan Jewellers, Cochin Shipyard, Avanti Feeds, Titagarh Rail Systems, MMTC to announce Q2 results
+Q2 Results Today, 10th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## Jensen Huang affair: Trump backs Nvidia chief amid alleged Chinese espionage investigation
-The allegations have raised national security concerns over access to advanced AI chips and the technology company’s business interests in China
+## MRF posts lower quarterly profit as higher costs bite
+Q2 profit drops to ₹369 crore in the quarter ended ‌September 30, from ₹512 crore a year earlier
 
-## Rep Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth
-The resolution puts pressure on Republicans following their midterm election losses, while Hegseth prepares to defend his military decisions.
+## Man sold properties for Rs 47.54 lakh in cash & paid capital gains tax, but faced penalty; what ITAT ruled
+The case concerned a man in Odisha who, according to the submissions before the tribunal, sold two properties for a combined consideration of around Rs 47.54 lakh. However, for this sale he received the entire amount in cash. The person in question disclosed the property transactions in his income t
 
-## Trump says Iran war is ‘effectively over’, signals shift away from renewed strikes
-Speaking after meeting Qatar’s prime minister, Trump indicated that Washington was moving towards a negotiated outcome while retaining military options
+## Asian stocks rally as Wall Street rebounds, oil prices ease
+Asian stock markets rallied on Tuesday as US stocks experienced a significant rebound on the previous day. Notably, Japan's Nikkei 225 saw a 2.6% rise while South Korea's Kospi climbed 4%. Technology stocks led the gains with SoftBank Group shares jumping ahead of its earnings announcement. Concurre
 
-## 2026 Booker Prize: M John Harrison wins for dystopian satire ‘The End of Everything’
-The 198-page novel stood out among six shortlisted works, with judges praising its unexpected optimism despite its dystopian subject matter.
+## $69.3 billion IPO? Anthropic shares price details with banks, then retracts
+Anthropic, an artificial intelligence company, has announced plans for an initial public offering expected soon. The IPO could raise nearly $70 billion, although pricing details have been retracted. In addition to public offerings, Anthropic lined up private placements with major tech firms like Goo
 
-## Nvidia crisis: Will probe into Jensen Huang benefit Indian stock market?
-The development has plunged the US chipmaker, a key player in the global artificial intelligence industry, into an unprecedented crisis. The company also lacks a clearly identified successor to its chief executive. The more serious concern is the allegation that Huang “has been the target of a forei
+## China hits $1 trillion trade surplus milestone for second year in a row
+China's trade surplus surpassed $1 trillion in the first ten months, driven primarily by high-tech product demand. Exports increased significantly due to the global AI investment boom, although imports also grew faster than expected. Domestic consumption remains weak, which has pressured manufacture
 
-## Jensen Huang's affair with 'Chinese spy': Nvidia stock price plunges 8% amid nvestigation
-Nvidia said an independent committee of its directors would supervise the investigation, with assistance from external independent legal counsel. It was reported last month that Alice Huang, a Chinese citizen, had developed a close relationship with the Nvidia chief and allegedly passed information 
+## Russia-US diesel deal delivers results? Lavrov claims prices have already fallen
+Russian foreign minister Sergei Lavrov stated that an agreement allows Russia to resume diesel exports to the US. The arrangement aims to stabilize energy markets and improve energy security amid rising fuel prices. Ukrainian attacks on Russian energy infrastructure continue, impacting fuel shortage
 
-## Your meal cost is set to rise: Eggs and chicken prices may rise 25-30% by December
-Wholesale egg prices, currently hovering at Rs 6-7 per egg, are projected to climb to Rs 7-8 by December. The wholesale rate of dressed chicken without skin is also expected to rise from the current Rs 225-250 per kg to Rs 260-275 per kg over the same period, according to senior industry executives.
+## Nvidia CEO Jensen Huang loses $7.4bn in 30 minutes, drops 2 spots in Forbes rich list
+Nvidia's CEO Jensen Huang faced a notable drop in net worth, tumbling from $162.2 billion to $154.7 billion, following revelations of an ongoing investigation into his supposed involvement with a Chinese spy. The resulting unrest caused Nvidia's shares to plunge by more than 7%, raising alarms about
 
-## Woman finds locker surrendered despite rent payments; bank told to pay Rs 47 lakh
-The commission found that the bank had failed to produce records establishing that the locker had been properly surrendered or that its contents had been returned. It rejected the bank’s claim that the locker had been surrendered several years ago, noting that locker rent continued to be debited eve
+## Stock market today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada?
+With the festive season bringing changes to the regular trading calendar, investors may be wondering whether the stock market will remain open or closed today, Tuesday, November 10. Following a special Muhurat trading session on Sunday and a regular session on Monday, both the BSE and NSE will remai
 
-## Nvidia shares drop: CEO admits affair with suspected spy; how can it impact the tech major?
-It was reported last month that Jensen Huang had been involved in a relationship with Alice Huang, a former executive at Singapore-based company Megaspeed who is not related to him. US authorities investigated Alice Huang and concluded that she was an asset of Chinese intelligence.
+## Oil prices edge lower as Trump signals pause in military action against Iran
+Oil prices decreased following US President Donald Trump's comments regarding military action against Iran. Although Trump postponed military strikes, he stated that the naval blockade in the Strait of Hormuz would continue. Oil production by Opec rose in October due to increased output from Saudi A
 
-## Global food prices fall in October: Why wheat, dairy and meat are getting cheaper
-In October, global food prices saw a decline, largely influenced by falling prices in the dairy, cereal, and meat categories. The FAO Cereal Price Index noted a substantial drop, attributed to positive production forecasts and weaker demand. Conversely, sugar prices escalated due to adverse weather 
+## Oxford University returns remains of 39 Naga people after more than a century
+Oxford University returns remains of 39 Naga people after more than a century
 
-## What's the outlook for gold prices on November 9, 2026? Check weekly prediction
-Gold price prediction today: Gold has rebounded above $4,100/oz, recovering from the previous week’s correction as investors weighed stronger US employment data against softer Treasury yields, a weaker dollar and expectations of easing geopolitical tensions. Spot gold advanced around 0.8% towards $4
+## Society tag can’t shield govt-controlled bodies from constitutional scrutiny: Supreme Court
+The court clarified that merely receiving government grants or performing public functions would not automatically make an organisation an arm of the State.
 
-## Nifty50 to hit 28,000 in 2027? 3 factors that could drive Dalal street's next run
-Dalal Street is experiencing a remarkable surge, leading to a revised Nifty 50 target of 28,000 points by 2027. This positive shift is driven by optimistic earnings projections and lower crude oil prices. Additionally, recent inflows from foreign portfolio investors have strengthened market confiden
+## NIA court grants default bail to 2 of 12 accused in Vijayawada terror links case
+On March 24, the Andhra Pradesh police’s counter-intelligence cell arrested 12 people belonging to Al Malik Islamic Youth
 
-## Red Fort blast a year on: Families still waiting for justice and closure
-The NIA has since filed three charge sheets against 13 people, attributing the attack to a conspiracy allegedly codenamed “Operation Heavenly Hind”.
+## Met online, moved to Ghaziabad: Man kills married woman after row over staying together
+The 27-year-old allegedly attacked the woman with a brick at his Loni home on Diwali night; his friend was also arrested for destroying evidence.
 
-## 12 killed in separate overnight Madhya Pradesh fires
-Police said an earthen lamp may have triggered the Katni fire, while the Seoni blaze is under investigation.
+## Sanjit ‘Bunker’ Roy who redefined fight against poverty dies at 81
+Social activist Sanjit “Bunker” Roy was decorated with India’s fourth-highest civilian award, Padma Shri, in 1986
 
-## Little real contact with Modi, but there is some common ground: Sonia Gandhi in memoir Belonging
-Sonia Gandhi blames PM Modi's sharp comments on Jawaharlal Nehru on his “conditioning” by the Rashtriya Swayamsevak Sangh (RSS).
+## PMK urges railway minister for fast-tracking of 19 pending railway projects in TN
+PMK urges railway minister for fast-tracking of 19 pending railway projects in TN
 
-## Delhi pollution monitors went dark as AQI surged on Diwali
-DPCC data showed a peak of 3,744 and a worst-hour average of 1,480, suggesting the official AQI understated the pollution.
+## Clinton’s ‘roving eye’, Sarkozy’s arrogance, Diana’s warmth: Sonia Gandhi retells encounters with world leaders
+She writes about noticing Bill Clinton’s roving eye at Delhi’s Maurya Sheraton, she talks about Nikolas Sarkozy’s “arrogant manner” during his India visit.
 
-## Odisha cabinet approves proposal for ₹4,708-crore pumped storage project
-Odisha cabinet approves proposal for ₹4,708-crore pumped storage project
+## Delegation of political parties, civil society meets Delhi CEO; lists demands on SIR
+A senior Delhi CEO official told HT that the meeting went well and the CEO’s office will work to streamline the suggestion.
 
-## India-EU review FTA progress ahead of PM Modi's Brussels visit, push investment and trade ties
-India and the EU reviewed engagements aimed at boosting trade and investment cooperation, including the timely signing, implementation of the India-EU FTA.
+## Richard Li’s FWD sets world record with sale of US$318m life insurance policy
+FWD Private (Bermuda), a unit of Hong Kong-listed FWD Group founded by billionaire Richard Li Tzar-kai, has set a new Guinness World Record by selling a US$318 million life insurance policy, the companies said in separate announcements on Tuesday. The record-breaking sale surpasses the previous reco
 
-## Bihar govt bans firecrackers near ghats, private boat operations during Chhath Puja
-The Bihar Disaster Management Department has directed all districts to enforce strict safety measures during Chhath Puja from November 13 to 16.
+## China’s EV exports surge 145% as Iran war drives up overseas demand
+China’s electric vehicle (EV) exports hit an all-time high for a second straight month in October, as the country’s carmakers rode a surge in overseas demand driven by the Middle East energy shock. Chinese brands sold a total of 582,000 pure electric and plug-in hybrid vehicles outside mainland Chin
 
-## India gets quota of 1.75 lakh pilgrims under Saudi Arabia's Haj 2027 agreement
-Saudi Arabia sets annual Haj quotas for countries to regulate the number of pilgrims visiting Mecca, as space and facilities at the holy sites are limited.
+## Explaining the shift from reactive care to preventive solutions for employee well-being
+Cigna Healthcare’s “International Health Study 2026” shines a light on the value of workforce health in the business world. Michael Khan, CEO of Cigna Healthcare Hong Kong, cites some of the local findings from the study, which surveyed more than 11,000 people in 13 markets around the globe. “Almost
 
-## Chinese space-AI tech hopeful Adaspace faces wary investors in Hong Kong IPO
-Hong Kong is set to welcome its second aerospace-related listing this year, but persistent weakness in the initial public offering market has dampened investor appetite despite the relative rarity of space-tech offerings in the city. Major brokerages reported that Adaspace Technology, which aims to 
+## FedEx adds new US-China cargo flights ahead of Xi-Trump meeting
+American delivery giant FedEx is expanding its trans-Pacific services between China and the United States, adding four weekly flights by cargo aircraft just days ahead of an expected meeting between President Xi Jinping and US President Donald Trump in Shenzhen. The Memphis-based courier said on Mon
 
-## ‘We were always here’: UBS CEO ups Hong Kong commitment despite US expansion
-UBS, Switzerland’s largest bank, will keep investing in Hong Kong and mainland China, viewing the city as a gateway to tap the growing number of wealthy clients across the border, according to a senior executive. CEO Sergio Ermotti said the lender took a long-term view of its regional business rathe
+## People and partnerships power Hang Seng’s fintech innovation
+[The content of this article has been produced by our advertising partner.] From AI-powered investment tools to a table tennis challenge against a robot, Hang Seng Bank brought technology to life at Hong Kong FinTech Week 2026. The bank marked its debut at the annual gathering of financial and techn
 
-## Can Hong Kong hold its ground as Nasdaq brings Wall Street into Asian hours?
-Nasdaq is preparing to extend trading in US equities on its exchange to nearly 23 hours a day from next month, a landmark shift that will bring Wall Street into real-time competition with Asian markets. The expansion, slated for launch on December 6, introduces an overnight window running from 9pm t
+## As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week
+Two mainland Chinese chip suppliers made sharply divergent trading debuts in Hong Kong on Tuesday after raising a combined HK$2.2 billion (US$280 million), underscoring investors’ selective appetite for semiconductor stocks despite a pickup in new listings. Suzhou Denglin Technology, the week’s larg
 
-## Building world-class software from Asia: Omnichat’s CEO on his US$10M raise and global ambitions
-[The content of this article has been produced by our advertising partner.] Hong Kong AI customer-experience platform Omnichat has raised US$10 million in Series A funding led by Openspace Capital, with participation from Darwin Ventures and Acorn Pacific Ventures. Founder and CEO Alan Chan plans to
+## Chinese biotech giant WuXi AppTec’s shares gain after Pentagon blacklist reversal
+WuXi AppTec’s shares jumped on Tuesday after the Pentagon removed the company from a list of entities allegedly linked to the Chinese military, marking a win for the biotech service giant and raising hopes among other mainland firms challenging US blacklists. The US deputy secretary of defence decid
 
-## Nvidia fallout: chipmaker faces extensive risks after CEO affair, analysts and lawyers say
-As Nvidia launched an investigation into CEO Jensen Huang after he admitted to an extramarital affair, the repercussions threaten not only his three-decade tenure but also the future of the chip giant’s delicate semiconductor trade with China, according to lawyers and analysts. The world’s leading m
-
-## Factory owner proposes 928 flats at Sha Tin site as industrial demand drops
-After 17 years of intermittent government-led initiatives to turn the Siu Lek Yuen industrial area into residential housing, a company recently applied to convert two industrial buildings on the site into 928 residential flats. The move would offer a more viable and profitable path forward for devel
-
-## UBS’ Sergio Ermotti on the crises that shaped the bank and navigating regulatory webs
-In late March 2023, Sergio Ermotti’s telephone rang. Then, he was serving as chairman of Swiss Re and set to renew his term, comfortably ensconced in what appeared to be a dignified, settled chapter of an illustrious banking career. On the other end of the line was UBS chairman Colm Kelleher. A day 
-
-## Hong Kong retail investors turn to ETFs for long-term wealth building, survey finds
-Hong Kong retail investors are increasingly turning to exchange-traded funds (ETFs) to build long-term wealth, with nearly half planning to start investing in the products or increase their exposure over the coming year, according to a survey by BlackRock’s iShares. The study of 2,007 Hong Kong adul
+## UK talent connect with Hong Kong and mainland China employers at London career showcase
+Developing Hong Kong into an international hub for high-calibre talent is one of the priorities of Chief Executive John Lee Ka-chiu’s first five-year plan for the city, which he unveiled in September. The blueprint connects talent development with education, technology and industry and aligns the at
 
 ## Where Is U.S. Security Assistance to Jordan Going?
 Security agencies prioritize shielding the monarchy from political dissent.
@@ -162,6 +153,9 @@ Eisenkot has four paths to power, and none of them are easy.
 ## The Experts Are Taking Their Revenge Again
 The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences.
 
+## Takaichi Sanae’s Policy Speeches and China
+
+
 ## Why Did Mongolia’s President Visit Finland?
 Although geographically distant, the two countries have more in common than it might seem at first glance.
 
@@ -183,8 +177,11 @@ Rahmon’s visit to Astana produced 14 agreements, including a fuel supply frame
 ## Homeward Bound: Rohingya Refugees Trek Back From Bangladesh to Myanmar’s Rakhine State
 Families are fleeing overcrowding and intimidation at refugee camps in Bangladesh.
 
-## Why Aung San Suu Kyi Is Still the ‘Perfect Hostage’
-Aung San Suu Kyi’s fate is inextricably linked to the legitimacy of Min Aung Hlaing’s new government.
+## To Implement Acquisition Reform, Empower Military Mavericks
+“I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mavericks who make institutions uncomfortable; otherwise you wash out innovation.”— James Mattis & Bing
+
+## Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War
+In late 2023, Ukraine’s military leadership faced an institutional choice: establish a dedicated branch of the armed forces for unmanned systems or integrate drones into existing branches. Most senior officers I knew opposed the separate force, and their strongest argument was sound within classical
 
 ## Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -203,12 +200,6 @@ In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the W
 
 ## The Golden Dome Proposal is Destabilizing and Dangerous
 Editor’s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, “Golden Dome Is Technologically and Financially Infeasible.”Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and spac
-
-## Who Repairs the Internet in Wartime?
-In spring 2026, Britain, Norway, and the United States tracked and disrupted a covert Arctic exercise off the coast of Norway involving Russian deep-sea submersibles simulating the deployment of a weapon designed to disable the two 1,400-kilometer submarine cables linking the islands of Svalbard to 
-
-## Why Are Wars Increasingly Difficult to End?
-The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senio
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## France blames Iran for October supermarket cyberattack
-French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
+## Are your supplements fake?
+That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.
 
-## Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
-Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
+## UFC CEO Dana White takes the White House podium during Washington visit
+During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.
 
-## Verdict delayed in Honduras sex-trafficking case linked to disappearance
-Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
+## California voters reject billionaire tax
+The proposed measure would have imposed a one-time 5 percent tax on Californian billionaires to fund healthcare.
 
-## Trump says FBI probing Nvidia CEO’s affair with alleged spy
-US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.
+## What powers does Netanyahu have as Israel’s interim PM?
+As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.
 
-## Iran war live: Iran demands US ‘surrender’ to its conditions
-US President Donald Trump said the war was "effectively over" after meeting Qatar's prime minister in Washington, DC.
+## US moves aircraft from second UK base over ‘threat from Iran’
+Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.
 
-## US congressman files resolution to impeach Defence Secretary Pete Hegseth
-Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.
+## Australia tightens AI oversight rules after OpenAI government breach
+The decision comes after ​an OpenAI agent breached ​an Australian government website in June.
 
-## Trump, Rubio defend Hegseth as impeachment bid nears
-President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.
+## Why adults are buying toys
+How nostalgia is making adults buy toys
 
-## US Supreme Court allows border wall in Big Bend National Park to proceed
-Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.
+## Palestine Weekly: West Bank on fire – and Gaza’s tents under water
+More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.
+
+## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
+India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
 
 ## Kalpataru confident of achieving ₹6,500 crore pre-sales target in FY27, says CFO
 With a pre-sales target of ₹6,500 crore for this fiscal year, Kalpataru is navigating through the current market landscape. Although sales bookings remained stable at around ₹2,600 crore in the initial half, the housing demand shows resilience against global uncertainties. The CFO is confident about
@@ -279,8 +273,11 @@ Economists, financial analysts and policymakers will be watching this Diwali clo
 ## Big FMCG companies outgrow market as smaller rivals get squeezed by costs and slowing rural demand
 India's fast-moving consumer goods sector has experienced a slowdown in volume growth amid rising costs. Rural demand has weakened, impacting smaller regional manufacturers while larger companies thrive. Hindustan Unilever, Marico, and other major firms reported robust growth figures. Smaller player
 
-## Festive season delivers steady growth for retailers amid challenging macros, CFOs say
-Chief financial officers in India report stable festive sales during major festivals such as Dussehra and Durga Puja. Factors like high inflation and weather challenges are influencing sales growth below earlier estimates. Rural consumption remains resilient but may face pressure from untimely rains
+## RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report
+The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee
+
+## US lawmakers introduce bill to make Diwali a federal holiday, 19 representatives back proposal
+US lawmakers have reintroduced the Diwali Day Act in the House of Representatives, seeking to designate the festival as a federal holiday. Spearheaded by Congresswoman Grace Meng, the bill has secured the backing of 19 lawmakers, including five Indian-origin representatives. Its passage would make D
 
 ## Sebi eases KYC norms for NRIs, OCIs; allows digital onboarding
 Sebi has introduced new KYC relaxations for individuals living abroad, allowing them to complete onboarding digitally if they are from FATF-compliant nations. This updated regulation, effective December 3, aims to simplify compliance for non-resident clients. Additionally, the new framework includes
@@ -299,10 +296,4 @@ EKI Energy Services is set to challenge the order issued by the Securities and E
 
 ## India, EU discuss FTA implementation ahead of December signing
 In an effort to advance their free trade agreement, India and the European Union held pivotal discussions led by Commerce Secretary Rajesh Agarwal, who visited Brussels for dialogues with prominent EU officials. Central to the talks were customs cooperation and trade facilitation, deemed critical fo
-
-## We will consider the call for review of LTCG tax: Finance Minister Nirmala Sitharaman
-"The circumstances have changed and, therefore, the voices of concern are louder,'' she said at a media event, in reference to reports that her administration has received suggestions to review levies on long-term capital gains (LTCG) for overseas investors. "I quite appreciate that. So, I'll consid
-
-## American companies brace for a pivot as US midterm elections get underway
-US midterms: Corporate America is anticipating a potential shifts in Washington's power dynamics. Analysts predict that a strong Democratic showing could benefit sectors such as clean energy, housing and healthcare. Conversely, AI and defence stocks may face increased scrutiny from lawmakers.
 
