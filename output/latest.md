@@ -1,58 +1,70 @@
 # AION Intelligence
 
+## Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang
+US company has been rocked by allegations its chief executive had an affair with a Chinese spy
+
+## ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’
+US oil major says it has signed a memorandum of understanding with Caracas
+
+## Russian strikes aim to cut Ukraine in half, Zelenskyy warns
+Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country
+
+## Trump’s Board of Peace warns of ‘immediate humanitarian emergency’ in Gaza
+The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory
+
+## Supreme Court lets Trump build border wall through Texas national park
+Top judges rule that government’s interest outweighs any aesthetic and environmental harm alleged by respondents
+
+## Trump hails ‘positive momentum’ towards ending Iran war
+Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister
+
+## Republican lawmaker moves to impeach US defence secretary Pete Hegseth
+Trump critic Thomas Massie cites abuse of power and flouting of the US constitution
+
+## Nvidia shares fall as it probes alleged Chinese spy scandal
+Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair
+
+## US regulator orders blindness risk warning on obesity drugs
+Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s
+
 ## France accuses Iran of cyber attacks on supermarket refrigerators
 Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires
 
 ## Saudi Arabia’s vital East-West pipeline struck in attack
 Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports
 
-## Russian strikes aim to cut Ukraine in half, Zelenskyy warns
-Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country
+## Jensen Huang and Nvidia’s ‘key man’ risk
+Some of the leading AI companies are dangerously reliant on single executives
 
 ## How the world became too reliant on Jensen Huang
 The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company
 
-## US regulator orders makers of weight-loss drugs to carry blindness risk warning
-Food and Drug Administration cites increased risk of rare eye condition that can cause permanent vision loss in users of GLP-1s
-
 ## Can Jensen Huang survive as Nvidia’s CEO after spy scandal?
 Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company
 
-## Russia rations petrol after new Ukrainian strikes on refineries
-State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways
+## ‘No ordinary CEO’: Why Nvidia’s Jensen Huang is indispensable to the AI industry
+From celebrity-like fan following to billionaires seeking his chips, Huang’s influence extends well beyond Nvidia’s position as a semiconductor supplier
 
-## Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’
-Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat
+## Paras Semiconductors partners with US firm BroadPak to develop advanced packaging facility in India
+The proposed facility will bring together specialised technology, manufacturing know-how and engineering expertise to address next-generation semiconductor packaging requirements
 
-## Jensen Huang and Nvidia’s ‘key man’ risk
-Some of the leading AI companies are dangerously reliant on single executives
+## Piyush Goyal holds talks with Skoda Volkswagen to boost EV manufacturing in India
+The discussions also explored innovation opportunities and ways to strengthen India’s integration into global automotive value chains
 
-## Botswana to double De Beers holding to 30%
-President Duma Boko says Namibia and Angola taking stakes alongside Gareth Penny consortium
+## RBI extends supersession of Abhyudaya Co-operative Bank board by another year
+The central bank’s decision follows concerns over governance standards that prompted it to take control of the Mumbai-based lender in November 2023
 
-## Tier-2 districts lead in crypto deal value; fin/tech hubs top in tax payers
-Tax take from VDA income in FY25 crossed ₹585 crore as authorities keep an eye on dormant bank accounts and PAN use to curb shady moves
+## Jensen Huang affair: Trump backs Nvidia chief amid alleged Chinese espionage investigation
+The allegations have raised national security concerns over access to advanced AI chips and the technology company’s business interests in China
 
-## Simplify Alpha opens AI centre, plans to raise headcount to 1,000
-The company plans to build specialised engineering teams combining AI expertise with knowledge of the US health insurance sector
+## Rep Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth
+The resolution puts pressure on Republicans following their midterm election losses, while Hegseth prepares to defend his military decisions.
 
-## Diwali air pollution: Delhi-NCR remains a hotspot, Chennai records sharp deterioration
-City-wise data by CPCB as of 4PM, 9th November, suggest that the problem remains concentrated in Northern and Western India, but pollution is no longer confined to traditional hotspots
+## Trump says Iran war is ‘effectively over’, signals shift away from renewed strikes
+Speaking after meeting Qatar’s prime minister, Trump indicated that Washington was moving towards a negotiated outcome while retaining military options
 
-## Navi Mumbai emerges top destination for new hotel development
-The pipeline includes major projects from Adani Group and others, such as a JW Marriott, Radisson Collection, and Hyatt Regency.
-
-## Promoter holding in Nifty 50 firms falls to 40%
-Private Indian promoter share hits 29-quarter low, while ownership across broader listed market rises to seven-quarter high
-
-## Uttar Pradesh, Maharashtra, Gujarat shine as residential rooftop solar nears 20 GW
-Under the PMSG: MBY, the pan-India installed residential rooftop capacity stood at 19,189 megawatts (MW), covering 65,26,461 households last month.
-
-## Rupee’s 5-day winning streak ends with the currency closing at ₹93.93
-The Indian currency closed at 93.93 per US dollar (USD) against last Friday’s close of 93.91 and in intraday trade, it tested a high/ low of 93.69/94.11
-
-## FMCG ad spending accelerates as macro pressures ease
-Companies like Marico and Colgate-Palmolive reported advertising expenditure growth of 44% and 40%, respectively, while others remain selective amid input-cost pressures.
+## 2026 Booker Prize: M John Harrison wins for dystopian satire ‘The End of Everything’
+The 198-page novel stood out among six shortlisted works, with judges praising its unexpected optimism despite its dystopian subject matter.
 
 ## Nvidia crisis: Will probe into Jensen Huang benefit Indian stock market?
 The development has plunged the US chipmaker, a key player in the global artificial intelligence industry, into an unprecedented crisis. The company also lacks a clearly identified successor to its chief executive. The more serious concern is the allegation that Huang “has been the target of a forei
@@ -78,6 +90,21 @@ Gold price prediction today: Gold has rebounded above $4,100/oz, recovering from
 ## Nifty50 to hit 28,000 in 2027? 3 factors that could drive Dalal street's next run
 Dalal Street is experiencing a remarkable surge, leading to a revised Nifty 50 target of 28,000 points by 2027. This positive shift is driven by optimistic earnings projections and lower crude oil prices. Additionally, recent inflows from foreign portfolio investors have strengthened market confiden
 
+## Red Fort blast a year on: Families still waiting for justice and closure
+The NIA has since filed three charge sheets against 13 people, attributing the attack to a conspiracy allegedly codenamed “Operation Heavenly Hind”.
+
+## 12 killed in separate overnight Madhya Pradesh fires
+Police said an earthen lamp may have triggered the Katni fire, while the Seoni blaze is under investigation.
+
+## Little real contact with Modi, but there is some common ground: Sonia Gandhi in memoir Belonging
+Sonia Gandhi blames PM Modi's sharp comments on Jawaharlal Nehru on his “conditioning” by the Rashtriya Swayamsevak Sangh (RSS).
+
+## Delhi pollution monitors went dark as AQI surged on Diwali
+DPCC data showed a peak of 3,744 and a worst-hour average of 1,480, suggesting the official AQI understated the pollution.
+
+## Odisha cabinet approves proposal for ₹4,708-crore pumped storage project
+Odisha cabinet approves proposal for ₹4,708-crore pumped storage project
+
 ## India-EU review FTA progress ahead of PM Modi's Brussels visit, push investment and trade ties
 India and the EU reviewed engagements aimed at boosting trade and investment cooperation, including the timely signing, implementation of the India-EU FTA.
 
@@ -87,20 +114,14 @@ The Bihar Disaster Management Department has directed all districts to enforce s
 ## India gets quota of 1.75 lakh pilgrims under Saudi Arabia's Haj 2027 agreement
 Saudi Arabia sets annual Haj quotas for countries to regulate the number of pilgrims visiting Mecca, as space and facilities at the holy sites are limited.
 
-## Chhattisgarh man kills 4-year-old relative, removes organs to sell online
-The accused told police that he was dissatisfied with his earnings from daily-wage work and wanted to make quick money.
+## Chinese space-AI tech hopeful Adaspace faces wary investors in Hong Kong IPO
+Hong Kong is set to welcome its second aerospace-related listing this year, but persistent weakness in the initial public offering market has dampened investor appetite despite the relative rarity of space-tech offerings in the city. Major brokerages reported that Adaspace Technology, which aims to 
 
-## Post-Diwali air pollution adds to respiratory distress, Noida doctors report rise in hospital visits
-Doctors advised residents to regularly monitor AQI, wear properly fitted N95 masks when stepping outdoors, and avoid jogging during periods of poor air quality.
+## ‘We were always here’: UBS CEO ups Hong Kong commitment despite US expansion
+UBS, Switzerland’s largest bank, will keep investing in Hong Kong and mainland China, viewing the city as a gateway to tap the growing number of wealthy clients across the border, according to a senior executive. CEO Sergio Ermotti said the lender took a long-term view of its regional business rathe
 
-## Karnataka govt stands by report of over 20% ethanol in petrol, questions oil firms' data on blending
-Karnataka minister Rizwan Arshad said state stands by its findings that petrol samples contained more than prescribed 20% ethanol, with some showing up to 31.2%
-
-## ‘This is New Delhi’: Chinese vloggers misrepresent Dhaka streets in online streams
-The vloggers streamed videos of Dhaka streets while claiming they were filmed in New Delhi. The videos are accompanied by derogatory remarks.
-
-## Delhi’s missing Diwali night data released; PM2.5 at over 60 times national standard
-HT had reported earlier that PM2.5 readings at many of Delhi’s stations went blank as the air worsened on the night of November 8.
+## Can Hong Kong hold its ground as Nasdaq brings Wall Street into Asian hours?
+Nasdaq is preparing to extend trading in US equities on its exchange to nearly 23 hours a day from next month, a landmark shift that will bring Wall Street into real-time competition with Asian markets. The expansion, slated for launch on December 6, introduces an overnight window running from 9pm t
 
 ## Building world-class software from Asia: Omnichat’s CEO on his US$10M raise and global ambitions
 [The content of this article has been produced by our advertising partner.] Hong Kong AI customer-experience platform Omnichat has raised US$10 million in Series A funding led by Openspace Capital, with participation from Darwin Ventures and Acorn Pacific Ventures. Founder and CEO Alan Chan plans to
@@ -117,62 +138,56 @@ In late March 2023, Sergio Ermotti’s telephone rang. Then, he was serving as c
 ## Hong Kong retail investors turn to ETFs for long-term wealth building, survey finds
 Hong Kong retail investors are increasingly turning to exchange-traded funds (ETFs) to build long-term wealth, with nearly half planning to start investing in the products or increase their exposure over the coming year, according to a survey by BlackRock’s iShares. The study of 2,007 Hong Kong adul
 
-## Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?
-DeepSeek’s Harness artificial intelligence agent framework has reached 1.54 million daily active users less than three months after launch, the Chinese AI champion said on Sunday, marking rapid growth in a new battleground between leading Chinese and American AI giants. Users of Harness through the 
+## Where Is U.S. Security Assistance to Jordan Going?
+Security agencies prioritize shielding the monarchy from political dissent.
 
-## Chinese central bank’s pledge to probe Solana snuffs out hopes crypto crackdown is easing
-A pledge by China’s central bank to investigate Solana’s recent campaigns in mainland China has extinguished hopes that a crackdown on cryptocurrencies will be eased and underscored Beijing’s unyielding hostility towards foreign public blockchains. The People’s Bank of China (PBOC) had halted recent
+## The Walls Close In on Hegseth
+The Pentagon chief could get pushed out soon, one way or another.
 
-## Hong Kong’s finance sector has billions in disposable income. Why is investing a struggle?
-Employees in Hong Kong’s more tightly regulated financial institutions are generating about HK$35.8 billion (US$4.66 billion) in investible income each year, but are having difficulty investing due to personal account dealing (PAD) restrictions, according to a report. The restrictions can apply to b
+## What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal
+Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security.
+
+## Trump Hosts Key Qatari Mediator to Discuss End to Iran War
+But senior officials doubt that a breakthrough is in sight.
+
+## Hegseth’s Leadership Has Damaged the Pentagon
+The defense secretary’s impeachment charges come after he cost his department years of experience and poisoned relationships with Congress.
+
+## It’s Possible to Fix the United Nations
+How to break the deadlock on U.N. Security Council reform.
+
+## The Vexing Arithmetic of Israeli Coalition-Building
+Eisenkot has four paths to power, and none of them are easy.
 
 ## The Experts Are Taking Their Revenge Again
 The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences.
 
-## Is Hegseth the New Rumsfeld?
-When the face of an unpopular war faces a wrathful Congress, “stuff happens.”
+## Why Did Mongolia’s President Visit Finland?
+Although geographically distant, the two countries have more in common than it might seem at first glance.
 
-## Global AI Stocks React to U.S. Midterm Results
-Incoming Democrats have pledged to rein in AI and data centers.
+## Xi Jinping’s Paradox of Political Control
+There is an unresolved tension between Xi’s growing ability to punish dissent and continued problems of political unreliability.
 
-## The U.S. Senate Just Got a Lot Younger
-The midterms put a huge dent in America’s gerontocracy.
+## Can Cash Transfers Empower Indian Women?
+Cash transfers might offer immediate support, but lasting economic empowerment depends on women’s access to jobs, assets and productive resources.
 
-## A German Movie Previews Its Far-Right Future
-The country’s cinema has recently taken a very dark turn.
+## After the Midterms, Seoul and Washington Need a North Korea Policy That Outlasts Elections
+A bipartisan line toward Pyongyang matters more than matching parties in Seoul and Washington.
 
-## ‘Call of Duty’ Has a Message for Hegseth
-The video game’s latest installment seems disillusioned with the kind of militarism it did so much to promote.
+## India’s Theater Commands: A Never-ending Debate?
+The way forward lies in a phased approach that combines the interests of all three services and that requires a strong political will.
 
-## ‘Wild Horse Nine’ Looks Away From Chile’s History
-The film indulges in conspiracy rather than reckoning with the coup in front of it.
+## Kazakhstan Offers Tajikistan Cooperation, Not a Substitute for Russia
+Rahmon’s visit to Astana produced 14 agreements, including a fuel supply framework, but Kazakhstan’s deliveries this year show the limits of what it can provide.
 
-## Two New Stand-Out Novels From Ireland and South Africa
-The legacy of the Catholic Church is impossible to ignore in Louise Kennedy’s love story—much like the shadow of apartheid in Keletso Mopai’s ambitious debut.
+## Homeward Bound: Rohingya Refugees Trek Back From Bangladesh to Myanmar’s Rakhine State
+Families are fleeing overcrowding and intimidation at refugee camps in Bangladesh.
 
-## The Next Step for APEC in Shenzhen
-Turning risk diversification into value creation under the U.S.-China rivalry.
+## Why Aung San Suu Kyi Is Still the ‘Perfect Hostage’
+Aung San Suu Kyi’s fate is inextricably linked to the legitimacy of Min Aung Hlaing’s new government.
 
-## Can Europe Regulate China’s E-Commerce Giants Without Closing Its Market?
-The challenge is not simply how to regulate Chinese platforms, but how to preserve an open and fair market as cross-border commercial networks become increasingly integrated.
-
-## Taipei’s Voters Aren’t Choosing Independence or Unification
-Whatever the result of the election, don't take it as a reflection of Taiwanese preferences for China policy.
-
-## Beijing Has Little Reason to Welcome America’s Midterm Results
-China has grown comfortable with Trump’s transactional diplomacy. A Democratic Congress could complicate Beijing’s calculations – and remind the world of U.S. democracy’s strength.
-
-## How China’s Naval-Air Reach Is Offsetting the Malacca Dilemma
-China remains exposed to maritime disruption, but its expanding regional reach is increasing the military and political costs of exploiting that vulnerability.
-
-## Does China Have a Plan for Dealing With a Democratic Congress?
-Should Beijing treat Trump as a “lame duck,” or should Xi Jinping continue to invest in cultivating him?
-
-## Green Hydrogen: India’s Big Ambitions, Costly Realities
-India’s green hydrogen ambitions are running up against high production costs, infrastructure gaps, and uncertain domestic demand, even as the government seeks to position the country as a global export hub.
-
-## India’s Rediscovery of Poland: The Drivers and Limits of a Growing Partnership
-Despite the growing momentum in relations between Poland and India, policy differences exist over Russia.
+## Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
 
 ## The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp
 The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary and chief investment officer of the Strategic Capital Initiat
@@ -194,9 +209,6 @@ In spring 2026, Britain, Norway, and the United States tracked and disrupted a c
 
 ## Why Are Wars Increasingly Difficult to End?
 The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senio
-
-## The Army’s Command-and-Control Reboot
-How the Army makes decisions, communicates orders, coordinates forces, and keeps operations moving toward a common goal is undergoing a revolution. It’s called Next Generation Command and Control. Two of its architects — Lt. Gen. Matthew W. McFarlane, commanding general of I Corps, and Maj. Gen. Pat
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -222,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown
-The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.
+## France blames Iran for October supermarket cyberattack
+French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
 
-## Krakow shooting suspect dies as Poland mourns six victims
-A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
+## Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
+Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
 
-## Meta rolls out automated age checks for teens globally
-AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
+## Verdict delayed in Honduras sex-trafficking case linked to disappearance
+Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
 
-## Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues
-Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.
+## Trump says FBI probing Nvidia CEO’s affair with alleged spy
+US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.
 
-## France accelerates minimum wage hike in bid to quell protest
-Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.
+## Iran war live: Iran demands US ‘surrender’ to its conditions
+US President Donald Trump said the war was "effectively over" after meeting Qatar's prime minister in Washington, DC.
 
-## Israeli tourists spark outrage over video pushing tour guide into sea
-A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.
+## US congressman files resolution to impeach Defence Secretary Pete Hegseth
+Outgoing Republican lawmaker Thomas Massie calls on Congress to oust Hegseth over accusations of unlawful orders.
 
-## Al Jazeera tries skateboarding at Youth Olympics
-Al Jazeera tries skateboarding at Youth Olympics
+## Trump, Rubio defend Hegseth as impeachment bid nears
+President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.
 
-## France accuses Iran of cyberattack on supermarket fridges
-Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.
+## US Supreme Court allows border wall in Big Bend National Park to proceed
+Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.
 
 ## Kalpataru confident of achieving ₹6,500 crore pre-sales target in FY27, says CFO
 With a pre-sales target of ₹6,500 crore for this fiscal year, Kalpataru is navigating through the current market landscape. Although sales bookings remained stable at around ₹2,600 crore in the initial half, the housing demand shows resilience against global uncertainties. The CFO is confident about
