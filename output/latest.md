@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Anthropic bankers prepare to increase IPO valuation to $1.5tn or more
+Claude maker’s listing price expected to rise after strong demand from investors
+
+## House blocks impeachment of US defence secretary Pete Hegseth
+Congressional effort to unseat incumbent over conduct of Iran war fails at first hurdle
+
+## Embrace paper exams to combat AI cheating, warns UK universities regulator
+Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation
+
 ## Senior US soldier arrested in UK on suspicion of spying for Russia
 British Counter Terrorism Policing’s investigation involves the FBI and American military
 
@@ -15,23 +24,35 @@ Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen
 ## US regulator postpones Wall Street push to trade AI computing futures
 The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class
 
-## Weil partners approve plan to shut down law firm
-Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis
+## CoreWeave plans multibillion-dollar chip-backed debt deal
+AI infrastructure group turns to asset-backed debt and customer pre-payments for financing
 
-## Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe
-Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy
+## David Walliams accused of sexual misconduct
+Lawyers had argued that bestselling author’s anonymity should be protected because of risk of suicide
 
-## Ministers reject plans to build Britain’s largest solar farm
-UK government says proposed Botley West project would cause ‘substantial harm’ to the greenbelt and Blenheim Palace in Oxfordshire
+## FirstFT: Anthropic raises valuation target to $1.4tn
+Also in today’s newsletter: US commerce department delays efforts to blacklist company linked to alleged Chinese spy and SoftBank slumps to $7bn loss
 
 ## Nvidia shares down as Huang affair scandal deepens
 What happens when a tech giant becomes a security concern?
 
-## UK fraudster who invented ‘too good to be true’ takeover bid given suspended sentence
-Christopher Woolcott created a cast of characters in a bid to profit from a rise in Touchstone Exploration’s shares
+## Weil partners approve plan to shut down law firm
+Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis
 
-## The Nvidia investor’s guide to (maybe) losing your CEO
-Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power
+## US House Republicans block effort to impeach Defence Secretary Pete Hegseth
+The vote effectively halted the impeachment push sponsored by Kentucky Republican Representative Thomas Massie, with just one Republican opposing the motion
+
+## IBM to stop US visa, green card sponsorship for majority of Consulting jobs
+The decision comes as Washington tightens scrutiny of foreign worker hiring, with several major technology companies and outsourcing firms facing restrictions
+
+## Global cotton output to decline as US, India crops shrink, says USDA
+Lower production estimates for India, the US and Turkey have offset higher output projections for China and Australia in the latest USDA assessment
+
+## India and France deepen space cooperation, launch critical technologies dialogue
+The discussions seek to expand strategic and industrial partnerships between the two countries amid growing focus on emerging technologies and supply chain resilience
+
+## Iran’s economic pain to intensify in coming months, says Marco Rubio
+Washington signals a tougher economic campaign against Tehran, while Iranian leaders reiterate their readiness to counter any military threat
 
 ## Bharat Mobility 3.0 to see 50 countries, 1,750+ exhibitors on February 4-9, 2027
 Industry sources said countries such aslike the US, China, Japan, Mexico, Sri Lanka, Germany, Italy, Spain, and Taiwan, are also among the over 50 nations taking part in the mega show
@@ -41,21 +62,6 @@ The project aims to contribute to the standardisation and evaluation of blockcha
 
 ## Mutual funds' Nifty 50 allocation falls to 21-year low in Q2
 Exposure slips below 50% as funds widen portfolios beyond benchmark stocks amid strong mid-cap interest
-
-## How HNIs are investing in 2026
-In a global survey of 9,993 affluent investors in 10 markets including India, China, the US and the UK, it was seen that investors are fairly confident about their investments helping them achieve financial goals. The younger investors prefer diversification while the older ones choose capital prese
-
-## India on track to achieve $1 trillion export target this fiscal, says Piyush Goyal
-The Commerce Minister also pointed to expanding trade access, foreign investment interest and manufacturing opportunities in India’s automobile sector.
-
-## Karnataka reforms boost premium liquor sales in Q2; Tamil Nadu opens up
-Earnings calls of major liquor makers highlight how changing regulations, taxation and market access are reshaping growth prospects across Indian States
-
-## Army turns to MSMEs and start-ups for critical combat spares as defence PSUs fall short
-The Army has channelled over ₹97 crore in business to domestic industries through 2,340 supply orders over the past few years, reducing costs to the exchequer, said officials
-
-## FII favourites: Top large-, mid-, small- and micro-cap stocks that saw rising ownership for two straight quarters
-For the past two years, foreign Institutional investors have remained net sellers of Indian equities, weighed down by rich valuations, relatively slower earnings growth, tariff and geopolitical uncertainties, a weakening rupee and the lure of AI-led opportunities in overseas markets. However, the ti
 
 ## Builder withheld Rs 88 lakh after redevelopment deal; landowners win over Rs 1.22 crore
 The dispute originated in 2010, when two landowners, along with their late mother, transferred their development rights to a builder for redevelopment. They held a one-third undivided share in a property in Mumbai, and executed an Agreement to Assign for the redevelopment. Subsequently, they also en
@@ -81,29 +87,35 @@ Anthropic, an artificial intelligence company, has announced plans for an initia
 ## China hits $1 trillion trade surplus milestone for second year in a row
 China's trade surplus surpassed $1 trillion in the first ten months, driven primarily by high-tech product demand. Exports increased significantly due to the global AI investment boom, although imports also grew faster than expected. Domestic consumption remains weak, which has pressured manufacture
 
-## AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year
-The concert was originally scheduled for next week on November 21, and was to take place at 7 pm at Backyard Sports Club in Gurugram.
+## Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawars
+He also defended drafting a state Uniform Civil Code, citing the Constitution, and addressed recent firing incidents and the Disha Salian investigation.
 
-## Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown
-Traffic personnel will be transferred through an automated system, zonal officers and traffic inspectors will be held accountable for staff's corrupt practices.
+## Sonia Gandhi’s memoir sparks BJP-Congress war of words over historical
+The BJP accused the book of shielding the Nehru-Gandhi family from criticism, while Congress leaders alleged that the ruling party was politicising past events.
 
-## India, US discuss customs and trade facilitation as both sides push for early bilateral deal
-Indian officials are positive about the proposed mutually beneficial deal, and ruled out any interruption in talks.
+## Awaiting report on Waris Punjab de’s separatist link claims: Election Commission of India
+The poll panel told the Delhi high court that it had sought a detailed background inquiry in July 2026 and sent reminders to the Punjab CEO.
 
-## Dipke gets exemption from in-person appearance before magistrate on medical grounds
-The SEM at Mandir Marg police station allowed the exemption on Tuesday after Abhijeet Dipke’s counsel cited medical grounds for his absence.
+## CM Hemant Soren orders CBI probe into Jharkhand tribal activist’s death; SHO suspended
+The NCST also directed state officials to investigate and submit a report within seven days, while police have filed an FIR against two people.
 
-## Delhi SIR: Form 6 applications cross 3L-mark after draft roll excludes 47.5 lakh voters
-A total of 3,00,431 Form 6 applications, used by voters to seek inclusion in the electoral roll, were received between August 31 and November 9, data showed.
+## New estimates show farm fires may be vastly undercounted in Punjab, Haryana
+An empirical estimate puts the total near 34,000 by November 9. Winds carrying smoke toward Delhi are forecast to return Wednesday and Thursday.
 
-## India objects to Chinese influencers showing Bangladesh as Delhi: ‘peddling false narratives’
-People familiar with the matter said on condition of anonymity that there has been a surge in anti-India content on China-based platforms
+## Government: Our strong relationship has bipartisan support in US
+Randhir Jaiswal also defended India's use of US lobbying firms and dismissed USCIRF criticism of religious freedoms as politically motivated.
 
-## Oxford University transfers custodianship of 39 Naga ancestral remains to Naga people
-Following the handover, the ancestral remains were moved out from the University of Oxford to begin their journey home
+## MCC also applies to retired govt servants engaged by states: ECI
+They cannot campaign or summon election officials for official discussions during the code period, and violations will be viewed seriously.
 
-## Uniform Civil Code an attempt to impose 'Hindu Civil Code' on non-Hindus: Owaisi
-AIMIM president Asaduddin Owaisi said his party will oppose the Uniform Civil Code in the legislature.
+## Grandson can’t claim birthright in property after partition: Supreme Court
+The ruling dismisses a 29-year-old partition suit, holding that property inherited by father under the Hindu Succession Act becomes his individual property.
+
+## ‘Confidence problem’: why Hongkongers feel less investment knowledgeable than Singaporeans
+Despite showing the highest rates of investment participation, Hongkongers feel less knowledgeable about their investment decisions than international peers, with the younger generation in particular facing a “confidence problem”, a recent study finds. Some 88 per cent of Hong Kong respondents said 
+
+## New Huanggang Port opening sparks push for Hong Kong homebuyers in Greater Bay Area
+New residential projects in the Greater Bay Area, including Wellspring by Hong Kong’s New World Development, are offering special promotions exclusively for Hong Kong homebuyers following the opening of the new Huanggang Port, according to agents. “The number of property viewers from Hong Kong has r
 
 ## Alibaba chip unit T-Head files Hong Kong IPO plan amid China’s AI self-sufficiency drive
 Alibaba Group Holding’s chip design unit T-Head has filed for an initial public offering (IPO) on a confidential basis in Hong Kong, the company said in a stock-exchange filing on Tuesday evening, setting up a high-profile listing in the city amid rising competition between the US and China as the l
@@ -123,11 +135,8 @@ China’s electric vehicle (EV) exports hit an all-time high for a second straig
 ## Explaining the shift from reactive care to preventive solutions for employee well-being
 Cigna Healthcare’s “International Health Study 2026” shines a light on the value of workforce health in the business world. Michael Khan, CEO of Cigna Healthcare Hong Kong, cites some of the local findings from the study, which surveyed more than 11,000 people in 13 markets around the globe. “Almost
 
-## FedEx adds new US-China cargo flights ahead of Xi-Trump meeting
-American delivery giant FedEx is expanding its trans-Pacific services between China and the United States, adding four weekly flights by cargo aircraft just days ahead of an expected meeting between President Xi Jinping and US President Donald Trump in Shenzhen. The Memphis-based courier said on Mon
-
-## People and partnerships power Hang Seng’s fintech innovation
-[The content of this article has been produced by our advertising partner.] From AI-powered investment tools to a table tennis challenge against a robot, Hang Seng Bank brought technology to life at Hong Kong FinTech Week 2026. The bank marked its debut at the annual gathering of financial and techn
+## Did China Play Jensen Huang?
+Unanswered questions loom over the Nvidia chief’s affair.
 
 ## What Progressives Could Do on Israel
 Democrats feel they have a mandate to put conditions on U.S. support for Israel.
@@ -149,9 +158,6 @@ The party should start with investigations and subpoenas, then prepare for more 
 
 ## And What About Europe’s Center-Left?
 As U.S. Democrats sweep into power, European progressives are wondering how to move forward.
-
-## The Global Economy Braces for Yet Another Blow
-El Niño is already unleashing economic and agricultural pain worldwide. It may get even worse.
 
 ## China Wants India’s Market. Does It Want India’s Industrial Rise?
 China’s export controls, though developed largely for great power competition, have growing significance for India’s industrial future.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UNIFIL patrol comes under fire in southern Lebanon
-UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.
+## US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base
+The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.
 
-## US poll shows death penalty lost majority support for first time since 1971
-Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.
+## Republicans block Hegseth impeachment motion
+Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.
 
-## IBM’s biggest division ends most US foreign worker sponsorships
-Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.
+## Tigray displaced families fear renewed war as hopes of returning home fade
+Displaced families face renewed uncertainty as fighting returns to Tigray.
 
-## 2026 Midterms: Blue wave or anti-establishment backlash?
-Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.
+## Spain holds state funeral for 69 victims of deadly train crash
+Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.
 
-## White House announces funds for law enforcement programme in several cities
-Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.
+## ‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks
+Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.
 
-## US soldier arrested in UK on suspicion of spying for Russia
-London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.
+## Iran war live: Hegseth survives impeachment bid; Iran denies US talks
+Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.
 
-## Netanyahu and Eisenkot push for new government after election deadlock
-Netanyahu and Eisenkot push for new government after election deadlock
+## Fire contained on platform in Iran’s South Pars gas field
+Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.
 
-## Iraq blocks Iranian football team’s plane from landing over US sanctions
-Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.
+## Massive fire as Israeli settlers burn down business near Nablus
+Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.
 
 ## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
 India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
