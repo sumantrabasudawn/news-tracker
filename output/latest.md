@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## Scott Colom wins historic Senate race in Mississippi
-Democrat becomes the first Black man to represent the state since Reconstruction era
+## UK economy expanded by 0.7% in third quarter
+Figure underscores resilience despite surging energy prices and rising borrowing costs.
 
-## Nvidia board set to meet after revelations Huang had affair with top company executive
-Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy
+## How resilient is the US consumer?
+A dialogue with Adam Josephson of Sakonnet Research
 
-## ExxonMobil launches legal challenge to EU carbon capture rules
-US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements
+## Europe dithers over who and how to talk to Putin amid US and Ukraine pressure
+Also in this letter: Milan property corruption case collapses, but stains remain
 
-## Ukraine peace talks end with prisoner swap but no breakthrough
-Discussions involving Kyiv as well as Russia and the US focus on postwar security guarantees
+## The AI megatrade’s mounting portfolio concentration risk problem
+There aren’t enough baskets to safely cope with this many massive eggs
 
-## US tech stocks rally as AI trade revives
-Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment
+## FirstFT: Nvidia board weighs Huang’s future as scandal deepens
+Also in today’s newsletter: Jamie Raskin interview and race for ECB president
 
-## Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump
-Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’
+## Can anything derail Anthropic’s IPO?
+The start-up is forging ahead with its listing in the face of adversity for the broader AI trade
 
-## CoreWeave wants to sit with the credit-market grown-ups
-The cloud computing group has benefited from a hitherto forgiving junk bond market
+## Russian diesel exports double after Trump lifts sanctions, but US gets none
+Boost in shipments expected to be shortlived after Ukraine resumes attacks on refineries
 
-## Healey says Treasury discussing ‘worst-case’ energy support for UK households
-Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy
+## France signals support for Spain’s ECB presidential candidate
+Pablo Hernández de Cos’s bid gains momentum as Paris and Berlin eye package deal on central bank leadership
 
-## Poundland staves off immediate collapse as US owner talks with buyers
-Gordon Brothers supports extension of moratorium on creditor claims after intense criticism from politicians
+## Simpson Thacher joins ranks of law firms withholding financial data
+Latest withdrawal from influential industry rankings follows similar moves by Kirkland & Ellis and Paul Weiss
 
-## The warnings from Paraguay’s banking scandal
-Investors should beware market-friendly reforms built on fragile institutions
+## EU and UK set to delay 10% tariff on electric cars
+European carmakers had warned the levy would make them more vulnerable to Chinese competition
 
-## Humanoid robot start-up backed by Eric Trump in talks with Israel’s military
-Foundation Future Industries in discussions with IDF to deploy its machines in Gaza’s tunnels and potentially engage in combat
+## Power sector executives receive a welcome at UN climate summit
+Electricity providers are leading the business presence at COP31
 
-## Single-stock perps look like pointiest horn of a bull market
-Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey
+## NPST posts 50% revenue jump in Q2, stock in red
+Stock falls 3.7% despite net profit up 34% y-o-y
 
-## Adani to finance Chile copper project to secure long-term supply for Mundra smelter
-The agreement marks a step in Adani’s overseas sourcing plans as India seeks to strengthen copper supplies through investments abroad
+## Sensex today | Stock Market Live Updates: Sensex, Nifty hold steady in morning session; HDFC Life, Shriram Finance top gainers on Nifty50
+Sensex, Nifty, Share Prices Live: The benchmark indices held steady in the green in morning trade on Thursday. At 11:51 am, Sensex was at 82,025.78, up 146.38 points or 0.18% higher. The Nifty50 was at 25,285.40, up 30.55 points or 0.12 per cent firmer. The top gainers on the Nifty50 were HDFC Life 
 
-## India cuts visa categories from 13 to 9, reduces application form fields by up to 70%
-The revised framework also introduces streamlined provisions for tourists, medical patients, students and business visitors, with implementation expected by year-end
+## Q2 Results Today Live: Astra Microwave Q2 profit rises, HAL, Vi, Hitachi, Alkem Lab, NMDC, BDL, Page Ind, IRCTC, Manappuram Finance, Ola Electric to announce Q2 results
+Q2 Results Today, 12th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
 
-## Nvidia board prepares to discuss ousting CEO Jensen Huang, WSJ reports
-Reports of two extramarital affairs have put the chief executive’s position under scrutiny as the company’s board prepares to meet
+## Bank of Baroda raises rates on 555-day deposit scheme by 10 bps to 7.50%
+General customers, including NRO and NRE account holders, will earn 6.85% per annum on callable deposits and 6.90% on non-callable deposits
 
-## Banks can offer cash pay-in and pay-out services under revised domestic money transfer norms
-The revised directions prescribe transaction limits, customer verification and authentication requirements while mandating safeguards to monitor unusual fund transfers
+## AU Small Finance Bank puts its name on Mumbai Metro 3’s Bandra Colony station
+Three-year deal through TIML renames the station “AU Bank Bandra Colony” and carries the bank’s branding at key commuter touchpoints
 
-## India approves ₹62,370-crore rabi fertiliser subsidy, 64% above budget estimate
-Doubles subsidy on nitrogen, 25 per cent up in phosphorus, 3-times more for sulphur
+## Committee approves ₹69,000-cr, India’s biggest 1150 kV transmission project
+The proposed transmission corridor will connect renewable energy hubs in Gujarat and Rajasthan with emerging green hydrogen centres in the Eastern region, creating the country’s highest-voltage transmission network.
 
-## Nifty closes 0.84% higher, cooling off from intraday highs
-The Nifty 50 surged to an intraday high of 25,424 and cloing at 25,255.05, up 210.40 points or 0.84%; Sensex settled at 81,879.40, gaining 772.75 points or 0.95%
+## What is ASEAN and why does the bloc matter?
+ASEAN grapples with Myanmar turmoil, regional rivalries, and shared challenges as nations prepare for Manila’s summit and a possible US-ASEAN outreach amid China tensions
 
-## Finmin defines ‘Abnormally Low Bid’ for government contracts
-Bids more than 30% below estimated cost will require detailed rationale; unsatisfactory response may lead to rejection without automatic disqualification
+## Spotify launches audiobooks in India with over 3.5 lakh titles
+The audiobook is a subscription service called Audiobooks+, priced at ₹199 per month, which gives listeners 15 hours of listening time
 
-## Tata Power says it has a ‘good case’ in Kleros dispute, sees no immediate balance sheet impact
-The company’s appeal against an adverse Singapore court order is scheduled to be heard by the Singapore Court of Appeal on January 19, 2027
+## Noel Tata passes baton to Bahram Vakil at TICL
+Tata Investment Corporation has appointed Bahram Vakil as chairman after Noel Tata's retirement on November 11. This decision is part of a broader reshuffle at Tata companies due to retirement guidelines. Vakil's prior role allowed him to transition smoothly into the chairman position, succeeding No
+
+## Son faced notices over Rs 33.23 lakh property & cash; ITAT accepts mother's gold-sale gift evidence
+The Assessing Officer (AO) treated both the property investment of Rs 20,23,778 and the cash deposits of Rs 13,04,900 as unexplained. This resulted in additions of Rs 33,28,678, or approximately Rs 33.29 lakh, to the man’s income. The person contested the assessment before the Commissioner of Income
+
+## Which are the top stocks to buy on November 12, 2026?
+Top stock market recommendations: IDFC First Bank, Bajaj Holdings And Investment, and TCS are the top stocks to buy as per Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth’s recommendation for November 12, 2026.
+
+## Elon Musk offers to hire Jensen Huang? Tesla CEO reacts to social media appeal
+
+
+## Oil prices fall over 1% as hopes of Iran, Russia-Ukraine peace talks weigh on market
+Oil prices dropped more than 1% as hopes for progress in Russia-Ukraine and Iran negotiations emerged. Brent crude futures declined to $91.62, while US West Texas Intermediate crude fell to $85.49 a barrel. Increased production by OPEC+ and rising US crude stocks contributed to this price drop as we
+
+## Nvidia shares fall 8% after hours as board reportedly weighs Jensen Huang's 'exit'
+Nvidia shares plummeted by 8% in after-hours trading following revelations about CEO Jensen Huang's alleged extramarital affairs, including a controversial link to a businesswoman associated with Chinese intelligence. The company's board is set to convene to deliberate on Huang's fate in light of th
 
 ## Amid market volatility, SIP flows resilient at over 32k cr in Oct
 Despite recent fluctuations in the market, retail investors have remained steadfast in their commitment to mutual funds. October saw considerable net inflows into equity funds, though they dipped slightly from the previous month. The overall assets in the mutual fund sector edged up during this time
@@ -66,71 +81,53 @@ Despite recent fluctuations in the market, retail investors have remained steadf
 ## Sensex has rallied nearly 12%: Is it time to relook at your investment strategy?
 There has been a sudden turnaround in sentiment since late October and Indian equities have seen a series of upgrades in the last few days from global brokerages as well. What’s brought this about? And importantly, what should your strategy be as an investor? Which sectors will be in focus going for
 
-## Cement trader deposited Rs 14.74 lakh during demonetisation; gets tax notice but wins ITAT relief
-The Income Tax Assessing Officer (AO) in Balasore questioned the deposit and estimated the cement trader’s sales by comparing his business activity before and after demonetisation in 2016. Following this exercise, the assessing officer classified as much as Rs 5.72 lakh as unexplained cash and subse
+## Four, including three children, killed as fire guts 25 houses in Arunachal’s Kurung Kumey
+Police sources said the fire was suspected to have originated in a kitchen, although its exact cause remains under investigation.
 
-## Air India loss share declines but fuel bites Singapore Airlines group as H1 profit falls 44% to Rs 767 crore
+## NIA to probe online radicalisation of youths by Pak-based gangster
+NIA to probe online radicalisation of youths by Pak-based gangster
 
+## Delhi HC questions eligibility interpretations, slams rejection of nursing post application
+The court said the Staff Selection Commission adopted a legally unsustainable and unnecessarily myopic view
 
-## Russia's oil game runs dry as Ukrainian drones knock out 30% of refining capacity
-Ukrainian drone strikes have hit nine major Russian oil refineries, cutting their processing capacity by about 30%. These refineries usually handle around 300,000 metric tonnes of crude oil every day. As a result, Russia is struggling with fuel shortages at home while trying to keep up with diesel e
+## Why rising ammonia in Yamuna threatens Delhi’s drinking water supply
+High ammonia concentrations indicate pollutants and make the water more difficult to treat for drinking.
 
-## Rs 30 lakh insurance claim rejected over ‘alcohol consumption’; family wins payout with interest
-The family contested the insurer's decision before the District Consumer Commission, Vellore. The insurer was also ordered to pay annual interest at 9% from September 1, 2023, until the date of the District Commission's order. In addition, the family was awarded Rs 50,000 as compensation for deficie
+## PAN, voter IDs need supporting records: Gauhati HC while rejecting a woman's citizenship claim
+A bench observed that the documents she relied on, including father's PAN card, voter ID and her own voter card, were insufficient to establish her citizenship.
 
-## Moody’s raises India’s FY27 growth forecast to 7% on strong economic momentum
-Moody's Ratings has revised its growth forecast for India to 7% for the current financial year. The rating agency noted India's resilience to energy supply shocks and broad-based economic momentum. It also highlighted risks such as inflation and potential impacts from a deficient southwest monsoon. 
+## Malankara Orthodox Church welcomes Antioch Patriarch's reconciliation call, seeks action
+Malankara Orthodox Church welcomes Antioch Patriarch's reconciliation call, seeks action
 
-## Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices
-As of November 12, milk prices in the Delhi-NCR region are set to rise as Mother Dairy and Amul implement increases ranging from Rs 2 to Rs 6 across their milk variants. This adjustment is necessary due to a combination of dwindling milk supplies and soaring production costs driven by inflation.
+## ‘Diwali Mubarak’, abuses, bullets: CCTV footage shows chilling details of Singapore-based executive’s murder in Faridabad
+A prolonged dispute over the accused’s dog and parking arrangement turned deadly on November 6, when he allegedly shot dead his neighbour Paramjith Dhankhar.
 
-## Two Special Police Officers go missing in J-K's Kishtwar, search operation underway
-The Army, Central Reserve Police Force (CRPF) and Jammu and Kashmir Police have launched a joint search operation to trace the missing personnel.
+## PMK demands white paper on alleged fake book procurement scam in TN libraries
+PMK demands white paper on alleged fake book procurement scam in TN libraries
 
-## RBI issues domestic transfer norms; walk-in customers can send up to ₹50k
-The framework for Domestic Money Transfer (DMT) was introduced in order to facilitate small-value fund transfers through formal banking channels.
+## Chinese regulators back investor lawsuits in push to shore up stock market confidence
+Chinese regulators are stepping up efforts to protect individual investors by backing legal action against listed companies accused of misconduct while fast-tracking compensation for losses. The moves come as authorities seek to restore confidence in a stock market that has tentatively stabilised wi
 
-## Noida Metro extension to landmark museum project and more: A look at key cabinet decisions
-The Cabinet approved a hike in fertiliser subsidies, a ₹2,390-crore Noida Metro extension amid other key decisions
+## Li Ka-shing family’s British pub chain names first female CEO in 227 years
+Greene King, the British brewer and pub operator owned by Hong Kong billionaire Li Ka-shing’s family, has appointed its first female chief executive in its 227-year history, seven years after the family acquired the business as part of its overseas expansion. Clair Preston-Beer, currently Greene Kin
 
-## India cuts visa categories from 13 to 9, application form fields reduced by up to 70%
-The home ministry said this rationalisation was being undertaken to boost foreign tourist arrivals, enhance medical value travel and foreign student arrivals.
+## As Beijing pushes for cash return, Chinese firms can unlock 15% valuation boost: report
+Chinese companies could unlock a further 15 per cent in equity valuation upside by stepping up share buy-backs and dividend payouts, as Beijing seeks to encourage listed firms to return more cash to investors, according to Goldman Sachs. The US investment bank said in a report on Wednesday that an i
 
-## BJD questions SIR credibility over alleged dual voter IDs in villages bordering Odisha, Andhra Pradesh
-The BJD alleges residents of Kotia and Jumdang villages hold voter ID cards issued by both Odisha and Andhra Pradesh despite the completion of the SIR exercise.
+## Houthi rebels’ fresh demands put Chinese firms in a dilemma, analyst warns
+The escalating conflicts between Saudi Arabia and Houthi rebels in Yemen have put many listed Hong Kong and mainland Chinese companies in a dilemma, especially as the Houthis order foreign businesses to register with a local body to avoid becoming targets of military strikes. The situation requires 
 
-## Suspected IED blast on NH-2 in Nagaland; no casualties reported
-Director general of police (DGP) Nagaland, Rupin Sharma told HT that explosives were speculated to have been planted behind a retaining wall along the highway
+## Losing steam? Hong Kong hit by run of lacklustre IPOs amid tepid investor demand
+Hong Kong’s initial public offering (IPO) market has endured a tough few days, with all six listings launched this week priced at or near the bottom of their marketed ranges amid tepid institutional interest. Chinese memory product maker Hosin Electronics and Xiaomi-backed chipmaker Zhuhai Amicro Te
 
-## India to supply 100 more ambulances to Sri Lanka under $5.28 million grant
-The grant was signed and a Memorandum of Understanding was exchanged in the presence of Union health minister J P Nadda.
+## Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan
+Co-organised by the South China Morning Post and the Hong Kong Investment Corporation (HKIC), the closed-door SCMP C-Suite roundtable welcomed Financial Secretary Paul Chan Mo-po as guest of honour, alongside HKIC CEO Clara Chan as guest speaker. Held under the theme “From APEC Consensus to Action: 
 
-## Gurugram bans coal, wood-fired tandoors at hotels and eateries under revised GRAP norms to curb pollution
-Under the revised provisions of the GRAP issued by the CAQM, only equipment powered by electricity, gas, or other approved clean fuels may now be used.
+## Hong Kong set for more diverse IPOs as global funds seek Chinese world-beaters: Citigroup
+The Hong Kong stock market’s initial public offering (IPO) pipeline is set to become more diverse in 2027 as global investors will show a greater appetite for solid Chinese companies in fields including biotechnology, advanced manufacturing and renewable energy, according to Citigroup. As demand for
 
 ## How one of Beijing’s most luxurious hotels is becoming a premium retirement home
 Legendale Hotel Beijing, a luxury hotel in the heart of the Chinese capital, has closed to guests and is set to be converted into an ultra-premium nursing home. Admission requires an insurance premium of more than 18.88 million yuan (US$2.8 million), a source said. Beijing’s Dongcheng district housi
-
-## A Chinese Maserati? Huawei-backed EV firm nears pact with Italian marque, sources say
-Chinese luxury electric vehicle (EV) brand Maextro is moving closer to a tie-up with Italian marque Maserati, which would result in co-developed models intended to challenge the likes of BMW and Mercedes-Benz globally, according to industry sources. Maextro, backed by technology giant Huawei Technol
-
-## China’s Huawei to roll out new smartphone brand Osta, 6 years after giving up Honor
-Huawei Technologies is preparing to launch a new smartphone brand, doubling down on its hard-won domestic comeback six years after spinning off budget marque Honor under the weight of US sanctions. Richard Yu Chengdong, chairman of Huawei’s Consumer Business Group, confirmed in a social media post o
-
-## BYD apologises for wheel-rim error as China cracks down on car quality issues
-BYD has apologised for an assembly error that caused some of its electric cars in China to be fitted with incorrect wheel rims, as Beijing ramps up scrutiny of quality issues in the country’s car industry. The world’s largest electric vehicle (EV) maker confirmed in a statement on Wednesday that a s
-
-## Swire Properties and Thai partner bank on Upper House brand in Bangkok
-Hong Kong-based Swire Properties and its Thai partner City Realty are making an aggressive sales push with wealthy Hongkongers as they promote Upper House-branded residences in Bangkok. With more than 100 flats worth 10 billion baht (US$298 million) sold since the launch in May, the two towers – cal
-
-## Next-gen ultrasound cancer treatment advances: does the evidence match commercial hype?
-Hong Kong is expanding clinical trials of histotripsy, a non-invasive treatment that uses focused ultrasound to destroy tumours, as the city seeks to establish a role in developing the technology for kidney cancer. The CUHK Medical Centre, Gleneagles Hospital Hong Kong and Hong Kong Sanatorium & Hos
-
-## Alibaba readies T-Head chip IPO as Hong Kong frenzy cools
-Alibaba has applied to list chip-design unit T-Head in Hong Kong, as the Chinese tech giant braves a cooling initial public offering (IPO) market to raise funds for artificial intelligence (AI) ambitions. The Hong Kong stock exchange has approved the proposed separation and a confidential listing ap
-
-## How Hong Kong can double asset holdings: target world’s ‘patient’ capital, FSDC advises
-Assets under management in Hong Kong would double with the addition of just a small portion of the money global insurance and pension funds have to invest, according to a member of the Financial Services Development Council (FSDC). Hong Kong should do more to attract this so-called patient capital –
 
 ## How Democrats Will Wield Power on Foreign Policy
 Congressman Jason Crow on breaking not only with Trump, but Biden as well.
@@ -228,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Democrat Scott Colom wins closely watched US Senate race in Mississippi
-The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.
+## Netanyahu’s legacy: Personality politics reshapes Israeli democracy
+Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.
 
-## Israeli strikes hit medical complex as nine killed across Gaza
-Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.
+## Indonesia vice president resigns amid dispute over eligibility
+Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.
 
-## Iran designates Argentinian navy, air force as ‘terrorist organisations’
-The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.
+## Sheikh Hasina must return to Bangladesh to face her sentence
+Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.
 
-## Judge rules Trump’s $10bn BBC defamation suit can proceed
-The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.
+## It is time for a change of leadership in the Democratic Party in the US
+The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.
 
-## Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
-Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.
+## From Pong to GTA VI: Play your way through 50 years of video games
+Video games are now a $200bn business. Play through the six games that tell the story of how they got there.
 
-## Thousands march to mark Poland’s Independence Day
-Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march
+## French guard collapses as Macron rushes to help
+A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.
 
-## Hoax bomb threats target schools across Italy, UK and Ireland
-Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.
+## More than 300 migrants rescued off Spain’s Canary Islands
+More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.
 
-## Oil production nears pre-Iran war levels, OPEC says
-Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.
+## Fighting intensifies in Yemen as Houthis deny targeting Mecca
+World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.
+
+## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
+Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
 
 ## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
 India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
@@ -272,9 +272,6 @@ Economists, financial analysts and policymakers will be watching this Diwali clo
 
 ## SEBI revisits startup listing rules after IGP fails to gain traction
 18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
-
-## Big FMCG companies outgrow market as smaller rivals get squeezed by costs and slowing rural demand
-India's fast-moving consumer goods sector has experienced a slowdown in volume growth amid rising costs. Rural demand has weakened, impacting smaller regional manufacturers while larger companies thrive. Hindustan Unilever, Marico, and other major firms reported robust growth figures. Smaller player
 
 ## RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report
 The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee
