@@ -1,109 +1,130 @@
 # AION Intelligence
 
-## UK economy expanded by 0.7% in third quarter
-Figure underscores resilience despite surging energy prices and rising borrowing costs.
+## We need to get older people back into work too
+The Milburn review shows the government is taking the Neet crisis seriously. Underemployed over-fifties deserve the same attention
 
-## How resilient is the US consumer?
-A dialogue with Adam Josephson of Sakonnet Research
+## European leaders reject Russian push to overhaul continent’s security
+‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks
 
-## Europe dithers over who and how to talk to Putin amid US and Ukraine pressure
-Also in this letter: Milan property corruption case collapses, but stains remain
+## Singapore barred Alice Huang for giving police ‘inaccurate information’
+Chinese woman accused of affair with Nvidia’s former chief executive and spying for China was investigated by city-state over chip shipments by her company
 
-## The AI megatrade’s mounting portfolio concentration risk problem
-There aren’t enough baskets to safely cope with this many massive eggs
+## Ukraine says Starlink restrictions are back as US envoys land in Moscow
+Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin
 
-## FirstFT: Nvidia board weighs Huang’s future as scandal deepens
-Also in today’s newsletter: Jamie Raskin interview and race for ECB president
+## Jensen Huang is gone. Will the AI industry pay the price?
+Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom
 
-## Can anything derail Anthropic’s IPO?
-The start-up is forging ahead with its listing in the face of adversity for the broader AI trade
+## China warns US not to use Nvidia scandal as pretext for tech curbs
+Beijing accuses US of fabricating ‘espionage narratives’ that ultimately forced resignation of co-founder Jensen Huang
 
-## Russian diesel exports double after Trump lifts sanctions, but US gets none
-Boost in shipments expected to be shortlived after Ukraine resumes attacks on refineries
+## Trump threatens to double tariffs on Mexico over illegal immigration
+US president says levies will increase if trade partner does nothing to stop illegal crossings
 
-## France signals support for Spain’s ECB presidential candidate
-Pablo Hernández de Cos’s bid gains momentum as Paris and Berlin eye package deal on central bank leadership
+## Top Democrat to launch sweeping probe of Trump and his allies
+Also in today’s newsletter, Jensen Huang resigns as Nvidia chief executive
 
-## Simpson Thacher joins ranks of law firms withholding financial data
-Latest withdrawal from influential industry rankings follows similar moves by Kirkland & Ellis and Paul Weiss
+## Nvidia shares slide as Huang resigns
+Stock down 8% at Wall Street open
 
-## EU and UK set to delay 10% tariff on electric cars
-European carmakers had warned the levy would make them more vulnerable to Chinese competition
+## Burnham cannot rescue Poundland
+The UK discounter suffers from rising competition and changes in shopping habits, not predatory capitalism
 
-## Power sector executives receive a welcome at UN climate summit
-Electricity providers are leading the business presence at COP31
+## Jensen Huang resigns as Nvidia chief executive
+Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head
 
-## NPST posts 50% revenue jump in Q2, stock in red
-Stock falls 3.7% despite net profit up 34% y-o-y
+## A chicken in every pot and three robotaxis in every garage
+Analysis on autopilot
 
-## Sensex today | Stock Market Live Updates: Sensex, Nifty hold steady in morning session; HDFC Life, Shriram Finance top gainers on Nifty50
-Sensex, Nifty, Share Prices Live: The benchmark indices held steady in the green in morning trade on Thursday. At 11:51 am, Sensex was at 82,025.78, up 146.38 points or 0.18% higher. The Nifty50 was at 25,285.40, up 30.55 points or 0.12 per cent firmer. The top gainers on the Nifty50 were HDFC Life 
+## Metro Bank puts itself up for sale
+Move comes after lender launched third redundancy round in three years in January
 
-## Q2 Results Today Live: Astra Microwave Q2 profit rises, HAL, Vi, Hitachi, Alkem Lab, NMDC, BDL, Page Ind, IRCTC, Manappuram Finance, Ola Electric to announce Q2 results
-Q2 Results Today, 12th November 2026 Live Updates: businessline brings you the latest quarterly earnings, outlook and more.
+## Muthoot FinCorp diversifies funding to trim borrowing cost
+IPO-bound Muthoot FinCorp has reduced its average cost of borrowing by 121 basis points to 9.11 per cent in FY26 from 10.32 per cent in FY25
 
-## Bank of Baroda raises rates on 555-day deposit scheme by 10 bps to 7.50%
-General customers, including NRO and NRE account holders, will earn 6.85% per annum on callable deposits and 6.90% on non-callable deposits
+## Hike in subsidy poised to boost sales of DAP, complex fertilizers
+Apart from availability issues in DAP and higher price of complex, demand was low due to drop in coverage of rabi crops
 
-## AU Small Finance Bank puts its name on Mumbai Metro 3’s Bandra Colony station
-Three-year deal through TIML renames the station “AU Bank Bandra Colony” and carries the bank’s branding at key commuter touchpoints
+## R K Swamy Q2 PAT up 2x at ₹1 crore
+Consolidated revenue from operations grew 15% to ₹84 crore (₹73 crore)
 
-## Committee approves ₹69,000-cr, India’s biggest 1150 kV transmission project
-The proposed transmission corridor will connect renewable energy hubs in Gujarat and Rajasthan with emerging green hydrogen centres in the Eastern region, creating the country’s highest-voltage transmission network.
+## Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh
+The new investment will take total investment in the State to $5 billion
 
-## What is ASEAN and why does the bloc matter?
-ASEAN grapples with Myanmar turmoil, regional rivalries, and shared challenges as nations prepare for Manila’s summit and a possible US-ASEAN outreach amid China tensions
+## ITC strengthens presence in copier paper category, launches Carte Lumina Copier
+Carte Lumina Copier is initially being launched in Hyderabad and Vijayawada
 
-## Spotify launches audiobooks in India with over 3.5 lakh titles
-The audiobook is a subscription service called Audiobooks+, priced at ₹199 per month, which gives listeners 15 hours of listening time
+## CMRL awards contract for property development buildings at Thirumangalam
+Contract to Capacite Infraprojects Ltd features a train running through the building, CMRL says
 
-## Noel Tata passes baton to Bahram Vakil at TICL
-Tata Investment Corporation has appointed Bahram Vakil as chairman after Noel Tata's retirement on November 11. This decision is part of a broader reshuffle at Tata companies due to retirement guidelines. Vakil's prior role allowed him to transition smoothly into the chairman position, succeeding No
-
-## Son faced notices over Rs 33.23 lakh property & cash; ITAT accepts mother's gold-sale gift evidence
-The Assessing Officer (AO) treated both the property investment of Rs 20,23,778 and the cash deposits of Rs 13,04,900 as unexplained. This resulted in additions of Rs 33,28,678, or approximately Rs 33.29 lakh, to the man’s income. The person contested the assessment before the Commissioner of Income
-
-## Which are the top stocks to buy on November 12, 2026?
-Top stock market recommendations: IDFC First Bank, Bajaj Holdings And Investment, and TCS are the top stocks to buy as per Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth’s recommendation for November 12, 2026.
-
-## Elon Musk offers to hire Jensen Huang? Tesla CEO reacts to social media appeal
+## Letters to the Editor dated November 12, 2026
 
 
-## Oil prices fall over 1% as hopes of Iran, Russia-Ukraine peace talks weigh on market
-Oil prices dropped more than 1% as hopes for progress in Russia-Ukraine and Iran negotiations emerged. Brent crude futures declined to $91.62, while US West Texas Intermediate crude fell to $85.49 a barrel. Increased production by OPEC+ and rising US crude stocks contributed to this price drop as we
+## Editorial. Advantage India
+Trump’s poll debacle could help India in trade talks
 
-## Nvidia shares fall 8% after hours as board reportedly weighs Jensen Huang's 'exit'
-Nvidia shares plummeted by 8% in after-hours trading following revelations about CEO Jensen Huang's alleged extramarital affairs, including a controversial link to a businesswoman associated with Chinese intelligence. The company's board is set to convene to deliberate on Huang's fate in light of th
+## Norwest to hike investments in Indian mfg, healthcare, tech after $4bn global fund raise
 
-## Amid market volatility, SIP flows resilient at over 32k cr in Oct
-Despite recent fluctuations in the market, retail investors have remained steadfast in their commitment to mutual funds. October saw considerable net inflows into equity funds, though they dipped slightly from the previous month. The overall assets in the mutual fund sector edged up during this time
 
-## Sensex has rallied nearly 12%: Is it time to relook at your investment strategy?
-There has been a sudden turnaround in sentiment since late October and Indian equities have seen a series of upgrades in the last few days from global brokerages as well. What’s brought this about? And importantly, what should your strategy be as an investor? Which sectors will be in focus going for
+## 'Legend replaces a Legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang
+In light of Jensen Huang's sudden resignation from Nvidia, alleged personal conduct issues have arisen. Donald Trump has proposed Tim Cook as a fitting successor. The Nvidia board swiftly acknowledged Huang's significant contributions while confirming his departure. Consequently, Nvidia experienced 
 
-## Four, including three children, killed as fire guts 25 houses in Arunachal’s Kurung Kumey
-Police sources said the fire was suspected to have originated in a kitchen, although its exact cause remains under investigation.
+## Chinese 'spy' Alice Huang's firms invested in DeepSeek, promised Nvidia's Blackwell chips
+Alice Huang, associated with Nvidia CEO Jensen Huang, has drawn scrutiny over her data centre ventures. Companies linked to her invested in DeepSeek to secure Nvidia's Blackwell chips, which are crucial for AI operations. In Singapore, she is under investigation for allegedly misleading authorities 
 
-## NIA to probe online radicalisation of youths by Pak-based gangster
-NIA to probe online radicalisation of youths by Pak-based gangster
+## Nvidia tumbles over 12% in pre-market trading after Huang's exit
+Nvidia shares plummeted nearly 11% following CEO Jensen Huang's departure amidst growing controversy and investor unease. This shake-up pushed other AI-driven firms like Oracle and Micron Technology to also suffer losses. The dollar surged to a 19-month peak, with the US 10-year Treasury yield hitti
 
-## Delhi HC questions eligibility interpretations, slams rejection of nursing post application
-The court said the Staff Selection Commission adopted a legally unsustainable and unnecessarily myopic view
+## Paytm nears listing price for the first time since 2021; shares climb 7.31% to Rs 1,925
+Paytm share price today: The share price of One 97 Communications, the parent company of Paytm hit a multi-year peak of Rs 1,925 at closing and is now Rs 25 shy of its listing price of Rs 1,950 on the National Stock Exchange. It is now up over 49% year-to-date.
 
-## Why rising ammonia in Yamuna threatens Delhi’s drinking water supply
-High ammonia concentrations indicate pollutants and make the water more difficult to treat for drinking.
+## Google, Microsoft & more: Valuation of firms led by Indian CEOs hits $15 trillion
+A wave of Indian-origin business leaders is reshaping the global corporate landscape, amassing an impressive collective valuation of $15 trillion. The rise of artificial intelligence has been instrumental in this growth, with 103 out of the 200 companies listed in the HSBC Hurun Global Indians List 
 
-## PAN, voter IDs need supporting records: Gauhati HC while rejecting a woman's citizenship claim
-A bench observed that the documents she relied on, including father's PAN card, voter ID and her own voter card, were insufficient to establish her citizenship.
+## Everyone wanted a Labubu. What happened?
+Once a coveted collectible, Pop Mart's Labubu dolls are now witnessing a steep decline in desirability, particularly in the United States. Recent sales data reveals a dramatic fall in global revenue, resulting in collectors becoming increasingly discerning. As enthusiasts pivot towards new toy brand
 
-## Malankara Orthodox Church welcomes Antioch Patriarch's reconciliation call, seeks action
-Malankara Orthodox Church welcomes Antioch Patriarch's reconciliation call, seeks action
+## Is AI putting Indian IT jobs at risk? What Moody’s says about the future of work
+The rise of AI is stirring concerns in India's IT and BPO industries about productivity and job security. Moody's Ratings highlights the uncertainty regarding AI's potential employment impact, as concrete evidence remains elusive. India struggles with its digital infrastructure and skilled labor nee
 
-## ‘Diwali Mubarak’, abuses, bullets: CCTV footage shows chilling details of Singapore-based executive’s murder in Faridabad
-A prolonged dispute over the accused’s dog and parking arrangement turned deadly on November 6, when he allegedly shot dead his neighbour Paramjith Dhankhar.
+## US set to host Quad Leaders Summit in Manila next week
+India, the US, Japan and Australia are expected to announce new initiatives on economic security and strategic infrastructure at the Quad summit in Manila.
 
-## PMK demands white paper on alleged fake book procurement scam in TN libraries
-PMK demands white paper on alleged fake book procurement scam in TN libraries
+## Keeping up with UP| In the Lord’s name: A religious row with a political twist
+Dhirendra Krishna Shastri’s remarks contrasting Lord Ram and Lord Krishna have triggered a row, exposing tensions among religious leaders and political parties.
+
+## PM Modi to visit Philippines for Asean-India Summit, East Asia Summit
+Prime Minister Narendra Modi will visit the Philippines on November 16 for the Asean-India Summit and East Asia Summit, with trade, maritime security and regional stability on the agenda.
+
+## IIT Kharagpur becomes first IIT to offer MD programmes approved by national medical body
+IIT Kharagpur become the first IIT to offer postgraduate medical courses recognised by NMC, introducing 12 MD seats across six specialisations.
+
+## Crude oil tanker carrying 19 Indian seafarers hit off UAE coast, all crew evacuated
+In a post on X, Sonowal said the UAE Coast Guard evacuated all crew members following the incident. None of the Indian seafarers sustained injuries.
+
+## After Sam Pitroda calls Modi 'Gujarati friend', PM sends Diwali wishes to Congress leader, wife
+Emphasising that political disagreements did not prevent them from sharing a cordial personal equation.
+
+## Army jawan, 2 others arrested for Nainital woman’s murder in revenge attack: Police
+Three men, including an Army soldier, were arrested for allegedly murdering a woman in Uttarakhand in revenge for his father’s 2023 killing.
+
+## Surprise, technology key to India’s future military preparedness, says Rajnath Singh
+The defence minister said technological superiority, surprise and jointness will be critical to military readiness as armed forces prepare for emerging security threats.
+
+## If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?
+Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from a niche graphics-chip designer into a US$4 trillion powerhouse through a series of high-stakes bets. Now, allegations of extramarital af
+
+## Li Ka-shing’s CK Hutchison denies suspending AS Watson listing plan
+CK Hutchison Holdings, the major business vehicle of the family of billionaire Li Ka-shing, denied the reported suspension of a listing plan for its retail business amid cooling enthusiasm for initial public offerings (IPOs) in Hong Kong. “Strategic explorations and evaluations and related preparati
+
+## Former ByteDance AI scientist touts drug-discovery model that tops world leaders
+A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded competition in AI-driven drug discovery. Geodesic Intelligence’s NovaAtom-Lite, an AI model design
+
+## Singapore opens gold vault to foreign central banks in race to become Asia’s gold hub
+Singapore has opened its national gold vault to foreign central banks, a move analysts say will sharpen its head-to-head rivalry with Hong Kong for the title of Asia’s leading bullion hub. The Monetary Authority of Singapore (MAS) has announced that it would store gold for overseas central banks, in
+
+## China’s Huafa abandons domestic AAA rating amid Fitch downgrade, bond market jitters
+Zhuhai Huafa Group, a heavily indebted state-owned enterprise whose recent troubles rattled China’s bond market, has voluntarily ended its engagement with a major domestic credit assessor, leading to the withdrawal of its AAA rating after an international ratings agency downgraded the firm. Huafa – 
 
 ## Chinese regulators back investor lawsuits in push to shore up stock market confidence
 Chinese regulators are stepping up efforts to protect individual investors by backing legal action against listed companies accused of misconduct while fast-tracking compensation for losses. The moves come as authorities seek to restore confidence in a stock market that has tentatively stabilised wi
@@ -114,20 +135,8 @@ Greene King, the British brewer and pub operator owned by Hong Kong billionaire 
 ## As Beijing pushes for cash return, Chinese firms can unlock 15% valuation boost: report
 Chinese companies could unlock a further 15 per cent in equity valuation upside by stepping up share buy-backs and dividend payouts, as Beijing seeks to encourage listed firms to return more cash to investors, according to Goldman Sachs. The US investment bank said in a report on Wednesday that an i
 
-## Houthi rebels’ fresh demands put Chinese firms in a dilemma, analyst warns
-The escalating conflicts between Saudi Arabia and Houthi rebels in Yemen have put many listed Hong Kong and mainland Chinese companies in a dilemma, especially as the Houthis order foreign businesses to register with a local body to avoid becoming targets of military strikes. The situation requires 
-
-## Losing steam? Hong Kong hit by run of lacklustre IPOs amid tepid investor demand
-Hong Kong’s initial public offering (IPO) market has endured a tough few days, with all six listings launched this week priced at or near the bottom of their marketed ranges amid tepid institutional interest. Chinese memory product maker Hosin Electronics and Xiaomi-backed chipmaker Zhuhai Amicro Te
-
-## Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan
-Co-organised by the South China Morning Post and the Hong Kong Investment Corporation (HKIC), the closed-door SCMP C-Suite roundtable welcomed Financial Secretary Paul Chan Mo-po as guest of honour, alongside HKIC CEO Clara Chan as guest speaker. Held under the theme “From APEC Consensus to Action: 
-
-## Hong Kong set for more diverse IPOs as global funds seek Chinese world-beaters: Citigroup
-The Hong Kong stock market’s initial public offering (IPO) pipeline is set to become more diverse in 2027 as global investors will show a greater appetite for solid Chinese companies in fields including biotechnology, advanced manufacturing and renewable energy, according to Citigroup. As demand for
-
-## How one of Beijing’s most luxurious hotels is becoming a premium retirement home
-Legendale Hotel Beijing, a luxury hotel in the heart of the Chinese capital, has closed to guests and is set to be converted into an ultra-premium nursing home. Admission requires an insurance premium of more than 18.88 million yuan (US$2.8 million), a source said. Beijing’s Dongcheng district housi
+## The Coming Era of Undersea Anarchy
+Turkey’s challenge to a humble cable hints at a broader breakdown of oceanic order.
 
 ## How Democrats Will Wield Power on Foreign Policy
 Congressman Jason Crow on breaking not only with Trump, but Biden as well.
@@ -150,8 +159,14 @@ Voters gave U.S. lawmakers a mandate to do more than just cut aid.
 ## What a Hormuz Endgame Could Actually Look Like
 There is no wayback machine, so a jointly managed strait will be key to final talks.
 
-## Brazil Shows the Danger of Digital Chokepoints
-Lula’s campaign had to break the monopoly of Big Tech.
+## ‘Squad’ Nations to Establish Coordination Hub in the Philippines, Defense Chiefs Say
+The announcement came after defense ministers from the U.S., Japan, Australia, and the Philippines met in Cebu on October 28.
+
+## Indonesian Vice President Submits Resignation Amid School Credentials Controversy
+The controversy is connected to the widening rift between President Prabowo Subianto and his predecessor Joko "Jokowi" Widodo.
+
+## US Mediation in Oleshky Exposes the Limits of China’s Ukraine Diplomacy
+Why hasn't Beijing used its diplomatic influence to undertake similar humanitarian operations in Russian-occupied areas of Ukraine?
 
 ## For China, Two’s Company and Three’s a Risk
 Putin has put China in a risky position: it is difficult for Xi to decline a trilateral meeting and hard for him to embrace the agenda Russia and the U.S. have proposed
@@ -168,14 +183,8 @@ China’s cut-throat price competition can shift financing costs onto smaller su
 ## Beyond a Taiwan Blockade: The Strategic Implications Behind the PLA’s ‘Silent Military Exercise’
 The PLA is practicing is how to disperse its naval forces, evade surveillance and reconnaissance by the U.S. and neighboring countries, and break through into the Western Pacific.
 
-## What the Fa’az Missile Means for Pakistan’s Air Force
-Pakistan's first homegrown air-to-air beyond visual range missile ensures a more robust response in future aerial clashes with India.
-
-## Stablecoin Interlinkages Between Asia and Latin America
-Insights from Maggie Wu.
-
-## There and Back Again: A Solomon Islands Tale
-Over 15 years, Honiara has transformed into a staging ground for geopolitical competition, with more foreign money than ever. Yet many of the problems facing ordinary Solomon Islanders remain remarkably unchanged.
+## The Promise of Biomanufacturing at the Edge
+As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply line
 
 ## Japan’s Most Dangerous Military Constraint Is Time
 During a 2022 wargame I ran, bilateral planners reached a familiar barrier. U.S. forces needed to disperse from concentrated bases before the adversary’s first missile salvo. Participants believed Japan could grant emergency access to private land only after an attack, which would be too late — the 
@@ -197,9 +206,6 @@ The Pentagon is sending a record demand signal for munitions, but turning it int
 
 ## Rethinking Strategic Stability with China: From Coercion to Constructivism
 Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China. Spanning containment and normalization to opening and reform, U.S. policymakers have long hoped that China would fulfill its place in the international order and transform itself into a
-
-## Talks, Attacks, and a Heist
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranNow that the U.S. midterms are over, the looming question is how and when one side or the other will seek to
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Netanyahu’s legacy: Personality politics reshapes Israeli democracy
-Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.
+## BDS claims win as energy giants quit Israeli gas project off Gaza
+The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.
 
-## Indonesia vice president resigns amid dispute over eligibility
-Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.
+## Four people shot in Washington DC
+A major police operation is underway in Washington DC where four people have reportedly been shot
 
-## Sheikh Hasina must return to Bangladesh to face her sentence
-Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.
+## Manchester United sacked manager Michael Carrick
+Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.
 
-## It is time for a change of leadership in the Democratic Party in the US
-The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.
+## UK court finds two Iranian men guilty of spying for Iran
+The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.
 
-## From Pong to GTA VI: Play your way through 50 years of video games
-Video games are now a $200bn business. Play through the six games that tell the story of how they got there.
+## Spain approves housing reforms after nationwide strike over costs
+Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.
 
-## French guard collapses as Macron rushes to help
-A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.
+## Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
+Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.
 
-## More than 300 migrants rescued off Spain’s Canary Islands
-More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.
+## LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns
+Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.
 
-## Fighting intensifies in Yemen as Houthis deny targeting Mecca
-World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.
+## Nvidia CEO Jensen Huang resigns
+Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.
 
 ## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
 Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
@@ -273,6 +279,12 @@ Economists, financial analysts and policymakers will be watching this Diwali clo
 ## SEBI revisits startup listing rules after IGP fails to gain traction
 18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
 
+## RBI plans to ban private equity firms from holding controlling stakes in multiple NBFCs: What will change?
+The Reserve Bank of India is contemplating a ban on private equity firms holding majority stakes in multiple non-banking financial companies. The planned regulations aim to distinguish between controlling stakes and smaller investments, with the latter facing less scrutiny. Growing foreign investmen
+
+## RBI issues consolidated domestic money transfer rules; retains Rs 50,000 cash NEFT cap
+The Reserve Bank of India (RBI) has issued a consolidated set of directions on domestic money transfers, retaining existing transaction limits and tightening safeguards for cash-based remittances.
+
 ## RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report
 The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee
 
@@ -290,10 +302,4 @@ The Reserve Bank has constituted a Technical Consultative Committee for Financia
 
 ## SBI estimates Rs 19,500 crore ECL impact; RBI working group still fine tuning implementation: Setty
 State Bank of India expects a Rs 19,500 crore net-of-tax impact from ECL implementation and plans to use the four-year transition period. RBI is still open to feedback from banks on the nuances of the guidelines and implementation and is planning a CEO-level meeting to review industry preparedness, 
-
-## EKI Energy to challenge Sebi's ban, says regulator recorded no quantifiable investor loss
-EKI Energy Services is set to challenge the order issued by the Securities and Exchange Board of India, which bars both the company and its Managing Director from engaging in the securities market. The company contends that their alleged misconduct did not result in significant financial losses and 
-
-## India, EU discuss FTA implementation ahead of December signing
-In an effort to advance their free trade agreement, India and the European Union held pivotal discussions led by Commerce Secretary Rajesh Agarwal, who visited Brussels for dialogues with prominent EU officials. Central to the talks were customs cooperation and trade facilitation, deemed critical fo
 
