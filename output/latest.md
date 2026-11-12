@@ -1,43 +1,49 @@
 # AION Intelligence
 
-## Nato should take the ‘offensive’ against Russia, says Lord Sedwill
-Former UK national security adviser makes reference to all domains, including land, sea, air, cyber and space
+## Scott Colom wins historic Senate race in Mississippi
+Democrat becomes the first Black man to represent the state since Reconstruction era
 
-## Reform UK’s vetting chief replaced after series of scandals
-Tom Waterhouse steps down amid anger among the party leadership about his handling of several members accused of sexual assault and racism
+## Nvidia board set to meet after revelations Huang had affair with top company executive
+Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy
 
-## What’s really going on in the UK labour market?
-Getting clear about how much slack there is will tell us how tight monetary policy should be
+## ExxonMobil launches legal challenge to EU carbon capture rules
+US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements
 
-## Humanoid robot start-up backed by Eric Trump in talks to supply IDF
-Foundation Future Industries in discussions with Israeli military to deploy its machines in Gaza’s tunnels and potentially engage in combat
+## Ukraine peace talks end with prisoner swap but no breakthrough
+Discussions involving Kyiv as well as Russia and the US focus on postwar security guarantees
+
+## US tech stocks rally as AI trade revives
+Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment
+
+## Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump
+Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’
+
+## CoreWeave wants to sit with the credit-market grown-ups
+The cloud computing group has benefited from a hitherto forgiving junk bond market
+
+## Healey says Treasury discussing ‘worst-case’ energy support for UK households
+Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy
+
+## Poundland staves off immediate collapse as US owner talks with buyers
+Gordon Brothers supports extension of moratorium on creditor claims after intense criticism from politicians
+
+## The warnings from Paraguay’s banking scandal
+Investors should beware market-friendly reforms built on fragile institutions
+
+## Humanoid robot start-up backed by Eric Trump in talks with Israel’s military
+Foundation Future Industries in discussions with IDF to deploy its machines in Gaza’s tunnels and potentially engage in combat
 
 ## Single-stock perps look like pointiest horn of a bull market
 Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey
 
-## Inside Ken Griffin's Miami
-The FT's Jill Shah visits Miami to see what happens when a billionaire uses his fortune to shape a city
+## Adani to finance Chile copper project to secure long-term supply for Mundra smelter
+The agreement marks a step in Adani’s overseas sourcing plans as India seeks to strengthen copper supplies through investments abroad
 
-## US tech stocks surge as AI trade revives
-Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment
+## India cuts visa categories from 13 to 9, reduces application form fields by up to 70%
+The revised framework also introduces streamlined provisions for tourists, medical patients, students and business visitors, with implementation expected by year-end
 
-## Thousands of schools in Italy, Scotland and Ireland receive bomb threats
-Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe
-
-## Poundland to stave off collapse as US owner continues talks with buyers
-Gordon Brothers supports extension of moratorium on creditor claims after intense criticism from politicians
-
-## Britain should ‘exploit’ NHS data to power AI, says minister
-Chris McDonald says country has ‘strategic competitive advantage’ in uniting its life sciences and AI industries
-
-## Meet the Willy Wonka of failed US microcaps
-Billionaire investor Brad Jacobs once again is using a small unloved company as his acquisition vehicle
-
-## Saudi oil production rebounds close to prewar levels
-Output higher than average before Iran conflict as kingdom keeps exports flowing despite attacks on shipping and energy infrastructure
-
-## UK chip start-up Fractile hits $7bn valuation
-London-headquartered company is one of a clutch of start-ups developing custom semiconductors for AI
+## Nvidia board prepares to discuss ousting CEO Jensen Huang, WSJ reports
+Reports of two extramarital affairs have put the chief executive’s position under scrutiny as the company’s board prepares to meet
 
 ## Banks can offer cash pay-in and pay-out services under revised domestic money transfer norms
 The revised directions prescribe transaction limits, customer verification and authentication requirements while mandating safeguards to monitor unusual fund transfers
@@ -54,14 +60,8 @@ Bids more than 30% below estimated cost will require detailed rationale; unsatis
 ## Tata Power says it has a ‘good case’ in Kleros dispute, sees no immediate balance sheet impact
 The company’s appeal against an adverse Singapore court order is scheduled to be heard by the Singapore Court of Appeal on January 19, 2027
 
-## PSBs edge private sector banks in Q2FY27 profit growth: SBI Research
-Public sector banks reported a 20% y-o-y rise in profit to ₹59,366 crore, marginally ahead of major private banks, which posted 19.8% growth to ₹53,629 crore.
-
-## STT collections jump 50% during April-November
-Overall tax mop-up rises 12%; refunds record an increase of around 26%
-
-## Lalithaa Jewellery Q2 net profit climbs 4.5% to ₹253 crore
-Revenue rises 7.5% year-on-year to ₹7,020 crore
+## Amid market volatility, SIP flows resilient at over 32k cr in Oct
+Despite recent fluctuations in the market, retail investors have remained steadfast in their commitment to mutual funds. October saw considerable net inflows into equity funds, though they dipped slightly from the previous month. The overall assets in the mutual fund sector edged up during this time
 
 ## Sensex has rallied nearly 12%: Is it time to relook at your investment strategy?
 There has been a sudden turnaround in sentiment since late October and Indian equities have seen a series of upgrades in the last few days from global brokerages as well. What’s brought this about? And importantly, what should your strategy be as an investor? Which sectors will be in focus going for
@@ -84,8 +84,11 @@ Moody's Ratings has revised its growth forecast for India to 7% for the current 
 ## Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices
 As of November 12, milk prices in the Delhi-NCR region are set to rise as Mother Dairy and Amul implement increases ranging from Rs 2 to Rs 6 across their milk variants. This adjustment is necessary due to a combination of dwindling milk supplies and soaring production costs driven by inflation.
 
-## Anthropic's $1.4 tn IPO: Price band, listing, investors & more; all you need to know
+## Two Special Police Officers go missing in J-K's Kishtwar, search operation underway
+The Army, Central Reserve Police Force (CRPF) and Jammu and Kashmir Police have launched a joint search operation to trace the missing personnel.
 
+## RBI issues domestic transfer norms; walk-in customers can send up to ₹50k
+The framework for Domestic Money Transfer (DMT) was introduced in order to facilitate small-value fund transfers through formal banking channels.
 
 ## Noida Metro extension to landmark museum project and more: A look at key cabinet decisions
 The Cabinet approved a hike in fertiliser subsidies, a ₹2,390-crore Noida Metro extension amid other key decisions
@@ -105,11 +108,11 @@ The grant was signed and a Memorandum of Understanding was exchanged in the pres
 ## Gurugram bans coal, wood-fired tandoors at hotels and eateries under revised GRAP norms to curb pollution
 Under the revised provisions of the GRAP issued by the CAQM, only equipment powered by electricity, gas, or other approved clean fuels may now be used.
 
-## Indian diaspora’s role to grow as India moves towards Viksit Bharat by 2047: Jaishankar
-External affairs minister S Jaishankar says the Indian diaspora’s expertise, technology and global networks will play an increasingly important role in achieving Viksit Bharat by 2047.
+## How one of Beijing’s most luxurious hotels is becoming a premium retirement home
+Legendale Hotel Beijing, a luxury hotel in the heart of the Chinese capital, has closed to guests and is set to be converted into an ultra-premium nursing home. Admission requires an insurance premium of more than 18.88 million yuan (US$2.8 million), a source said. Beijing’s Dongcheng district housi
 
-## Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police
-Goa police arrested a Bihar welder accused of raping a four-year-old in Canacona and a Karnataka man accused in a separate three-year-old’s rape case in Mapusa.
+## A Chinese Maserati? Huawei-backed EV firm nears pact with Italian marque, sources say
+Chinese luxury electric vehicle (EV) brand Maextro is moving closer to a tie-up with Italian marque Maserati, which would result in co-developed models intended to challenge the likes of BMW and Mercedes-Benz globally, according to industry sources. Maextro, backed by technology giant Huawei Technol
 
 ## China’s Huawei to roll out new smartphone brand Osta, 6 years after giving up Honor
 Huawei Technologies is preparing to launch a new smartphone brand, doubling down on its hard-won domestic comeback six years after spinning off budget marque Honor under the weight of US sanctions. Richard Yu Chengdong, chairman of Huawei’s Consumer Business Group, confirmed in a social media post o
@@ -129,35 +132,38 @@ Alibaba has applied to list chip-design unit T-Head in Hong Kong, as the Chinese
 ## How Hong Kong can double asset holdings: target world’s ‘patient’ capital, FSDC advises
 Assets under management in Hong Kong would double with the addition of just a small portion of the money global insurance and pension funds have to invest, according to a member of the Financial Services Development Council (FSDC). Hong Kong should do more to attract this so-called patient capital –
 
-## URA receives 3 tenders for last plot in Hong Kong redevelopment scheme, missed expectation
-Tender submission for the Urban Renewal Authority’s (URA) To Kwa Wan Road/Wing Kwong Street development scheme closed after 12pm on Wednesday, with the authority announcing that 3 submissions had been received. Consortia that submitted tenders for the development project included CK Asset and China 
+## How Democrats Will Wield Power on Foreign Policy
+Congressman Jason Crow on breaking not only with Trump, but Biden as well.
 
-## What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race
-Taiwan Semiconductor Manufacturing Company’s (TSMC) move to take equity stakes in both OpenAI and Anthropic will give the world’s largest contract chipmaker direct financial ties to the frontier AI labs driving demand for its business. Its board on Tuesday authorised up to US$500 million to buy Anth
+## Hoax Bomb Threats Target Hundreds of European Schools
+Classrooms join the growing list of targets of suspected hybrid warfare.
+
+## India Ups Its Ukraine War Diplomacy
+New Delhi is a logical mediator, given its relations with both Moscow and Kyiv.
+
+## The Tragedy of Tanzania
+One year on from a rigged election, the country’s president has intensified her crackdown on dissent.
+
+## Serbia’s Student Movement Faces Its Next Test
+The Student List made history, but can it govern?
+
+## Congress Must Stop Arming Israel
+Voters gave U.S. lawmakers a mandate to do more than just cut aid.
+
+## What a Hormuz Endgame Could Actually Look Like
+There is no wayback machine, so a jointly managed strait will be key to final talks.
 
 ## Brazil Shows the Danger of Digital Chokepoints
 Lula’s campaign had to break the monopoly of Big Tech.
 
-## How New Delhi Sees the Blue Tsunami
-A Democratic Congress could help get U.S.-India ties back on track, but Indian officials are likely cautious.
+## For China, Two’s Company and Three’s a Risk
+Putin has put China in a risky position: it is difficult for Xi to decline a trilateral meeting and hard for him to embrace the agenda Russia and the U.S. have proposed
 
-## How Netanyahu Lost His Bet on Trump
-The Republican midterm disaster leaves Israel dangerously exposed.
+## Can Critical Minerals Reshape Pakistan’s Economic Trajectory?
+Converting investor interest into multi-decade capital deployment requires political stability and deep institutional predictability.
 
-## Memory Chips Are Completely Distorting South Korea’s Economy
-A booming tech industry is setting the country up for a potentially dramatic fall.
-
-## Indonesia’s Wiretap Scandal Heralds a Political Showdown
-A former chief of police has been arrested for spying on the president.
-
-## Did China Play Jensen Huang?
-Unanswered questions loom over the Nvidia chief’s affair.
-
-## What Progressives Could Do on Israel
-Democrats feel they have a mandate to put conditions on U.S. support for Israel.
-
-## U.S.-Mediated Russia-Ukraine Talks Make Little Headway
-Old sticking points continue to bog down negotiations.
+## How India’s Courts Became So Entangled With Religion
+Judgments and laws that violate the spirit of religious freedom often lead to bitter resentment, especially when core religious beliefs are defined by judges.
 
 ## Who Pays for China’s Manufacturing Price Wars?
 China’s cut-throat price competition can shift financing costs onto smaller suppliers through delayed payments, weakening supply chains.
@@ -173,15 +179,6 @@ Insights from Maggie Wu.
 
 ## There and Back Again: A Solomon Islands Tale
 Over 15 years, Honiara has transformed into a staging ground for geopolitical competition, with more foreign money than ever. Yet many of the problems facing ordinary Solomon Islanders remain remarkably unchanged.
-
-## China Wants India’s Market. Does It Want India’s Industrial Rise?
-China’s export controls, though developed largely for great power competition, have growing significance for India’s industrial future.
-
-## South Korea’s Conservatives Are Moving Toward a Proxy Battle Over Their Future
-The two early front-runners for the PPP’s presidential nod will seek to cement their control over the party in the 2027 chair race – but neither man can run himself.
-
-## The Afghan Women Who Wrote Their Own Rights
-26 years ago Afghan women gathered in Dushanbe to declare their rights. It is a list of everything the Taliban regime has again taken from them.
 
 ## Japan’s Most Dangerous Military Constraint Is Time
 During a 2022 wargame I ran, bilateral planners reached a familiar barrier. U.S. forces needed to disperse from concentrated bases before the adversary’s first missile salvo. Participants believed Japan could grant emergency access to private land only after an attack, which would be too late — the 
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tens of thousands join Poland’s nationalist Independence Day march
-Polish PM Donald Tusk calls for restraint, urging unity after deadly Krakow attack linked to far-right ideology.
+## Democrat Scott Colom wins closely watched US Senate race in Mississippi
+The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.
 
-## John Thune re-elected as US Senate Republican leader after midterm losses
-The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party's stinging midterm losses to Democ
+## Israeli strikes hit medical complex as nine killed across Gaza
+Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.
 
-## Russia-Ukraine talks in UAE secure major prisoner exchange deal
-Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi
+## Iran designates Argentinian navy, air force as ‘terrorist organisations’
+The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.
 
-## Palestinian American activist refused UK entry for Gaza fundraiser
-A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.
+## Judge rules Trump’s $10bn BBC defamation suit can proceed
+The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.
 
-## Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza
-Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.
+## Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
+Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.
 
-## ‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike
-Mass walkout across several cities marks first general strike in 14 years.
+## Thousands march to mark Poland’s Independence Day
+Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march
 
-## Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop
-Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.
+## Hoax bomb threats target schools across Italy, UK and Ireland
+Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.
 
-## Russia bans two French lawmakers, two journalists in tit-for-tat move
-Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.
+## Oil production nears pre-Iran war levels, OPEC says
+Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.
 
 ## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
 India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
@@ -279,27 +276,27 @@ Economists, financial analysts and policymakers will be watching this Diwali clo
 ## Big FMCG companies outgrow market as smaller rivals get squeezed by costs and slowing rural demand
 India's fast-moving consumer goods sector has experienced a slowdown in volume growth amid rising costs. Rural demand has weakened, impacting smaller regional manufacturers while larger companies thrive. Hindustan Unilever, Marico, and other major firms reported robust growth figures. Smaller player
 
+## RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report
+The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee
+
 ## US lawmakers introduce bill to make Diwali a federal holiday, 19 representatives back proposal
 US lawmakers have reintroduced the Diwali Day Act in the House of Representatives, seeking to designate the festival as a federal holiday. Spearheaded by Congresswoman Grace Meng, the bill has secured the backing of 19 lawmakers, including five Indian-origin representatives. Its passage would make D
 
+## Sebi eases KYC norms for NRIs, OCIs; allows digital onboarding
+Sebi has introduced new KYC relaxations for individuals living abroad, allowing them to complete onboarding digitally if they are from FATF-compliant nations. This updated regulation, effective December 3, aims to simplify compliance for non-resident clients. Additionally, the new framework includes
+
 ## Trump's midterm setback may put India under pressure for quick trade deal on US terms: GTRI
 Amid electoral challenges, US President Donald Trump is likely to ramp up pressure on India to seal a trade deal. This potential agreement would require India to decrease import tariffs on US goods while the US keeps its tariffs intact. Analysts caution that such an arrangement may breach WTO MFN pr
+
+## RBI sets up Technical Consultative Committee for Financial Markets
+The Reserve Bank has constituted a Technical Consultative Committee for Financial Markets (TCCFM), headed by RBI Deputy Governor Rohit Jain, against the backdrop of rapidly evolving financial markets and market infrastructure.
+
+## SBI estimates Rs 19,500 crore ECL impact; RBI working group still fine tuning implementation: Setty
+State Bank of India expects a Rs 19,500 crore net-of-tax impact from ECL implementation and plans to use the four-year transition period. RBI is still open to feedback from banks on the nuances of the guidelines and implementation and is planning a CEO-level meeting to review industry preparedness, 
 
 ## EKI Energy to challenge Sebi's ban, says regulator recorded no quantifiable investor loss
 EKI Energy Services is set to challenge the order issued by the Securities and Exchange Board of India, which bars both the company and its Managing Director from engaging in the securities market. The company contends that their alleged misconduct did not result in significant financial losses and 
 
 ## India, EU discuss FTA implementation ahead of December signing
 In an effort to advance their free trade agreement, India and the European Union held pivotal discussions led by Commerce Secretary Rajesh Agarwal, who visited Brussels for dialogues with prominent EU officials. Central to the talks were customs cooperation and trade facilitation, deemed critical fo
-
-## American companies brace for a pivot as US midterm elections get underway
-US midterms: Corporate America is anticipating a potential shifts in Washington's power dynamics. Analysts predict that a strong Democratic showing could benefit sectors such as clean energy, housing and healthcare. Conversely, AI and defence stocks may face increased scrutiny from lawmakers.
-
-## SEBI proposes scrapping LTCG tax for foreign investors, seeks relief for mutual fund investors: Report
-The Securities and Exchange Board of India (SEBI) has recommended removing long-term capital gains (LTCG) tax on foreign investors and proposed tax relief for domestic mutual fund investors, as the regulator seeks to improve the attractiveness of Indian equity markets and encourage investment, accor
-
-## Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31
-The Securities and Exchange Board of India (Sebi) has granted an extension until January 31 of the coming year for regulated entities to comply with digital accessibility standards. This decision, prompted by requests from market participants, aligns with the Rights of Persons with Disabilities Act,
-
-## SEBI working to delist companies with no economic activity to protect investors: Chairman
-SEBI is taking steps to remove companies that lack economic activity from the stock exchanges. These companies pose a risk to investors as they may be involved in market manipulation schemes. The regulator is also using AI techniques to track suspicious accounts and protect retail investors. Further
 
