@@ -1,67 +1,61 @@
 # AION Intelligence
 
-## We need to get older people back into work too
-The Milburn review shows the government is taking the Neet crisis seriously. Underemployed over-fifties deserve the same attention
+## Cravath employee charged with trading on firm’s corporate deals
+Word-processing specialist allegedly used confidential client information to profit from takeover announcements
+
+## Burnham targets deal with EU that will deliver ‘real benefits’ for UK
+British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears
+
+## Mercedes-Benz to halt ‘all future investments’ in Germany
+Carmaker has also warned that plant closures are an option in escalating stand-off with unions over bid to reduce labour costs
+
+## Trump signals end to vice-president’s Iran peace deal push
+President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns
 
 ## European leaders reject Russian push to overhaul continent’s security
 ‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks
 
-## Singapore barred Alice Huang for giving police ‘inaccurate information’
-Chinese woman accused of affair with Nvidia’s former chief executive and spying for China was investigated by city-state over chip shipments by her company
+## Italian banks may cut sovereign debt holdings in tax battle, warns Intesa chief
+Head of country’s largest bank steps up fight against fresh levies on the sector
 
-## Ukraine says Starlink restrictions are back as US envoys land in Moscow
-Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin
+## Electrification is only part of the climate battle
+A COP31 pledge to expand electric power ought to have a green target attached
 
-## Jensen Huang is gone. Will the AI industry pay the price?
-Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom
+## Nvidia sends a painful message on how to value a CEO
+More clarity about why founders matter — and how much — should help everyone
 
-## China warns US not to use Nvidia scandal as pretext for tech curbs
-Beijing accuses US of fabricating ‘espionage narratives’ that ultimately forced resignation of co-founder Jensen Huang
+## US home sales fall to lowest level since 2010 as mortgage rates soar
+Higher borrowing costs deepen housing market slump as interest rates weigh on transactions
 
-## Trump threatens to double tariffs on Mexico over illegal immigration
-US president says levies will increase if trade partner does nothing to stop illegal crossings
-
-## Top Democrat to launch sweeping probe of Trump and his allies
-Also in today’s newsletter, Jensen Huang resigns as Nvidia chief executive
+## Quantum Systems drones grounded by German military after cyber attack
+Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted
 
 ## Nvidia shares slide as Huang resigns
-Stock down 8% at Wall Street open
+Stock falls as much as 14% before recovering to trade 5% down on Thursday
 
-## Burnham cannot rescue Poundland
-The UK discounter suffers from rising competition and changes in shopping habits, not predatory capitalism
+## AI shouldn’t lead to educational inequality
+Whether AI improves students’ ability to understand, reason and apply knowledge rests largely on bridging the digital divide
 
-## Jensen Huang resigns as Nvidia chief executive
-Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head
+## India’s coal production likely to hit record 1,090 million tonnes in 2026: World Bank
+World Bank October 2026 outlook: China’s coal production may reach 1,350 mt in the current year
 
-## A chicken in every pot and three robotaxis in every garage
-Analysis on autopilot
+## Outbound direct investment growth slows to 9.4% in H1
+Higher base, along with a weaker currency and uncertainty in the global economy, makes Indian companies circumspect about overseas deals
 
-## Metro Bank puts itself up for sale
-Move comes after lender launched third redundancy round in three years in January
+## India’s ECB fundraising more than doubles to $37.45 billion in H1FY27 as PSUs step up borrowing
+Public sector borrowers accounted for a sizeable share of overseas fundraising, while private companies also tapped foreign lenders for large sums
 
-## Muthoot FinCorp diversifies funding to trim borrowing cost
-IPO-bound Muthoot FinCorp has reduced its average cost of borrowing by 121 basis points to 9.11 per cent in FY26 from 10.32 per cent in FY25
+## Tractor sales rise 3.1% in October; Mahindra leads with 23% market share
+Sources say there is also a strong demand for tractors from non-agricultural industries like road construction and mining
 
-## Hike in subsidy poised to boost sales of DAP, complex fertilizers
-Apart from availability issues in DAP and higher price of complex, demand was low due to drop in coverage of rabi crops
+## India ETFs draw ₹35,120 crore in Q3 as large-cap, precious metals lead inflows
+Technology and long-duration debt ETFs see redemptions even as the broader Asia-Pacific market returns to net inflows after two quarters of outflows
 
-## R K Swamy Q2 PAT up 2x at ₹1 crore
-Consolidated revenue from operations grew 15% to ₹84 crore (₹73 crore)
+## India overtakes Taiwan to become world’s fifth-largest stock market after $640-billion rebound
+Foreign investor buying, stronger corporate earnings and falling crude prices have helped reverse months of pressure on Indian equities
 
-## Kia India to invest $2 billion in second manufacturing plant in Andhra Pradesh
-The new investment will take total investment in the State to $5 billion
-
-## ITC strengthens presence in copier paper category, launches Carte Lumina Copier
-Carte Lumina Copier is initially being launched in Hyderabad and Vijayawada
-
-## CMRL awards contract for property development buildings at Thirumangalam
-Contract to Capacite Infraprojects Ltd features a train running through the building, CMRL says
-
-## Letters to the Editor dated November 12, 2026
-
-
-## Editorial. Advantage India
-Trump’s poll debacle could help India in trade talks
+## Modi urges farmers to diversify crops, adopt natural farming and reduce chemical use
+Addressing an agriculture conference, the Prime Minister highlighted farm exports, fertiliser subsidies and agricultural growth while making a pitch for sustainable practices
 
 ## Norwest to hike investments in Indian mfg, healthcare, tech after $4bn global fund raise
 
@@ -87,6 +81,12 @@ Once a coveted collectible, Pop Mart's Labubu dolls are now witnessing a steep d
 ## Is AI putting Indian IT jobs at risk? What Moody’s says about the future of work
 The rise of AI is stirring concerns in India's IT and BPO industries about productivity and job security. Moody's Ratings highlights the uncertainty regarding AI's potential employment impact, as concrete evidence remains elusive. India struggles with its digital infrastructure and skilled labor nee
 
+## Supriya Sule rules out NCP merger talks, says ‘no one has approached me’
+Her remarks came shortly after Maharashtra NCP president Sunil Tatkare said he saw no substance in the speculation surrounding merger talks.
+
+## Global TB Report 2026: Nearly 10.6 million fell ill with TB worldwide; India accounts for 25% of cases
+The WHO’s Global Tuberculosis Report 2026 estimates 10.6 million people fell ill with TB worldwide in 2025, with India accounting for nearly a quarter of cases.
+
 ## US set to host Quad Leaders Summit in Manila next week
 India, the US, Japan and Australia are expected to announce new initiatives on economic security and strategic infrastructure at the Quad summit in Manila.
 
@@ -105,11 +105,8 @@ In a post on X, Sonowal said the UAE Coast Guard evacuated all crew members foll
 ## After Sam Pitroda calls Modi 'Gujarati friend', PM sends Diwali wishes to Congress leader, wife
 Emphasising that political disagreements did not prevent them from sharing a cordial personal equation.
 
-## Army jawan, 2 others arrested for Nainital woman’s murder in revenge attack: Police
-Three men, including an Army soldier, were arrested for allegedly murdering a woman in Uttarakhand in revenge for his father’s 2023 killing.
-
-## Surprise, technology key to India’s future military preparedness, says Rajnath Singh
-The defence minister said technological superiority, surprise and jointness will be critical to military readiness as armed forces prepare for emerging security threats.
+## The Man Behind the Magic
+Tim Sypko has spent much of his working life making sure that other people’s memories are magical. It is a responsibility he takes seriously. After 36 years with The Walt Disney Company – nearly 30 of them in Orlando, Florida, before joining Hong Kong Disneyland in January 2020 – he became managing 
 
 ## If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?
 Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from a niche graphics-chip designer into a US$4 trillion powerhouse through a series of high-stakes bets. Now, allegations of extramarital af
@@ -132,8 +129,14 @@ Chinese regulators are stepping up efforts to protect individual investors by ba
 ## Li Ka-shing family’s British pub chain names first female CEO in 227 years
 Greene King, the British brewer and pub operator owned by Hong Kong billionaire Li Ka-shing’s family, has appointed its first female chief executive in its 227-year history, seven years after the family acquired the business as part of its overseas expansion. Clair Preston-Beer, currently Greene Kin
 
-## As Beijing pushes for cash return, Chinese firms can unlock 15% valuation boost: report
-Chinese companies could unlock a further 15 per cent in equity valuation upside by stepping up share buy-backs and dividend payouts, as Beijing seeks to encourage listed firms to return more cash to investors, according to Goldman Sachs. The US investment bank said in a report on Wednesday that an i
+## Huang Out at Nvidia
+The U.S. chipmaker’s CEO has resigned over an affair with an alleged Chinese spy.
+
+## Russia’s Cheapest Weapon in Its Hybrid War Is Fear
+As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.
+
+## U.S.-China Investments Can Still Work for Americans
+Reshaping a globally competitive auto industry needs a hard rethink on deals.
 
 ## The Coming Era of Undersea Anarchy
 Turkey’s challenge to a humble cable hints at a broader breakdown of oceanic order.
@@ -150,14 +153,23 @@ New Delhi is a logical mediator, given its relations with both Moscow and Kyiv.
 ## The Tragedy of Tanzania
 One year on from a rigged election, the country’s president has intensified her crackdown on dissent.
 
-## Serbia’s Student Movement Faces Its Next Test
-The Student List made history, but can it govern?
+## Between Russia and Ukraine: India’s Foray as a Peacemaker
+New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is concerned, India enjoys little leverage over Russia’s decisions.
 
-## Congress Must Stop Arming Israel
-Voters gave U.S. lawmakers a mandate to do more than just cut aid.
+## Pakistan’s Elites Enjoy Global Travel While Ordinary Citizens Face Restrictions
+The Pakistani passport is one of the weakest in the world. No wonder, then, that Pakistan’s elites are changing rules to expand their access to official passports.
 
-## What a Hormuz Endgame Could Actually Look Like
-There is no wayback machine, so a jointly managed strait will be key to final talks.
+## Online and in the Real World, China’s Queer Communities Face Mounting Restrictions
+As spaces for queer life in China become more fragile, organizers and creators are having to adapt to the new reality.
+
+## Can Japan’s Leaders Get Along With US Democrats?
+Japan's LDP tends to prefer Republican partners in Washington – even now.
+
+## Japan’s ‘Denial Defense Capabilities’ and the Debate Over Port Calls by Nuclear-Armed US Ships
+Tokyo wants adversaries to conclude that an attack on Japan would fail. Would allowing a nuclear-armed U.S. ship to make a temporary port call in an emergency make the U.S. nuclear guarantee more credible?
+
+## Myanmar Needs a China-Critical Policy, Not an Anti-China Policy
+As Min Aung Hlaing's regime attempts to court the West, resistance forces urgently need to clarify their position toward Beijing.
 
 ## ‘Squad’ Nations to Establish Coordination Hub in the Philippines, Defense Chiefs Say
 The announcement came after defense ministers from the U.S., Japan, Australia, and the Philippines met in Cebu on October 28.
@@ -165,23 +177,8 @@ The announcement came after defense ministers from the U.S., Japan, Australia, a
 ## Indonesian Vice President Submits Resignation Amid School Credentials Controversy
 The controversy is connected to the widening rift between President Prabowo Subianto and his predecessor Joko "Jokowi" Widodo.
 
-## US Mediation in Oleshky Exposes the Limits of China’s Ukraine Diplomacy
-Why hasn't Beijing used its diplomatic influence to undertake similar humanitarian operations in Russian-occupied areas of Ukraine?
-
-## For China, Two’s Company and Three’s a Risk
-Putin has put China in a risky position: it is difficult for Xi to decline a trilateral meeting and hard for him to embrace the agenda Russia and the U.S. have proposed
-
-## Can Critical Minerals Reshape Pakistan’s Economic Trajectory?
-Converting investor interest into multi-decade capital deployment requires political stability and deep institutional predictability.
-
-## How India’s Courts Became So Entangled With Religion
-Judgments and laws that violate the spirit of religious freedom often lead to bitter resentment, especially when core religious beliefs are defined by judges.
-
-## Who Pays for China’s Manufacturing Price Wars?
-China’s cut-throat price competition can shift financing costs onto smaller suppliers through delayed payments, weakening supply chains.
-
-## Beyond a Taiwan Blockade: The Strategic Implications Behind the PLA’s ‘Silent Military Exercise’
-The PLA is practicing is how to disperse its naval forces, evade surveillance and reconnaissance by the U.S. and neighboring countries, and break through into the Western Pacific.
+## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
+Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
 
 ## The Promise of Biomanufacturing at the Edge
 As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply line
@@ -203,9 +200,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp
 The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary and chief investment officer of the Strategic Capital Initiat
-
-## Rethinking Strategic Stability with China: From Coercion to Constructivism
-Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China. Spanning containment and normalization to opening and reform, U.S. policymakers have long hoped that China would fulfill its place in the international order and transform itself into a
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## BDS claims win as energy giants quit Israeli gas project off Gaza
-The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.
+## Italy fight back to beat France 3-1 and move top of Nations League group
+Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secures win for Italy.
 
-## Four people shot in Washington DC
-A major police operation is underway in Washington DC where four people have reportedly been shot
+## Deadly shooting in Washington DC
+Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed
 
-## Manchester United sacked manager Michael Carrick
-Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.
+## Microsoft outage hits tens of thousands of users
+Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.
 
-## UK court finds two Iranian men guilty of spying for Iran
-The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.
+## Pope Leo calls for Church to make ‘amends’ to sex abuse victims
+Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.
 
-## Spain approves housing reforms after nationwide strike over costs
-Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.
+## US releases report on $12bn from Venezuelan oil, mineral resources
+The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.
 
-## Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
-Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.
+## What’s at stake in the renewed tensions over the Falkland Islands?
+Argentina and the UK are in a legal battle over an offshore oil-drilling project.
 
-## LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns
-Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.
+## Qatar Under-17 World Cup is on despite US pull out
+The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw
 
-## Nvidia CEO Jensen Huang resigns
-Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive.
+## Regional security dominates European talks in Dublin amid hybrid attacks
+European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.
 
 ## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
 Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
