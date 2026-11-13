@@ -1,61 +1,61 @@
 # AION Intelligence
 
+## US cannot reach a deal to end Ukraine war without Europe, says Kushner
+American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security
+
+## The Silicon Valley veterans now steering Nvidia
+New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure
+
+## Blackstone buys into India’s IIFL
+Plus, Venugopal Dhoot’s insolvency
+
+## Nvidia chief Jensen Huang toppled by revelations of extramarital affairs
+Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom
+
+## US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens
+Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy
+
+## AI boom will lift Nvidia even after Huang’s exit, investors say
+Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO
+
+## Huang’s fall is an indictment of founder mode at Big Tech
+The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear
+
+## Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep
+Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket
+
+## Jensen Huang resigns as Nvidia chief executive
+Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head
+
 ## Cravath employee charged with trading on firm’s corporate deals
 Word-processing specialist allegedly used confidential client information to profit from takeover announcements
 
-## Burnham targets deal with EU that will deliver ‘real benefits’ for UK
-British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears
+## Indian shares likely to open flat as oil surge counters strong foreign inflows
+Nifty gains 1.1% so far this week with $8 billion November inflows; retail inflation hits 6.09% as Brent crude rises to $95.23 per barrel
 
-## Mercedes-Benz to halt ‘all future investments’ in Germany
-Carmaker has also warned that plant closures are an option in escalating stand-off with unions over bid to reduce labour costs
+## Sensex today | Stock Market Live Updates: Markets likely to open flat as oil surge counters strong foreign inflows
+Sensex, Nifty, Share Prices Live: Indian equity benchmarks are expected to remain in consolidation mode on Friday following recent gains, as sustained foreign institutional ​inflows offer support while rising Brent crude prices and elevated domestic inflation weigh ‌on sentiment
 
-## Trump signals end to vice-president’s Iran peace deal push
-President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns
+## Buzzing stocks: Meesho, Clean Max, Lupin, IOC, NBCC, NCL Ind, Zee, Edelweiss, Jujhar Logistics, Ola
+SoftBank eyes Meesho stake sale, Clean Max commits ₹50,000 crore in Andhra Pradesh
 
-## European leaders reject Russian push to overhaul continent’s security
-‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks
+## Why Jensen Huang resigned as Nvidia CEO: Affairs, China spy allegations and what happens next
+Reports of two alleged relationships, national security concerns and questions over corporate leadership have placed the chipmaker under intense scrutiny
 
-## Italian banks may cut sovereign debt holdings in tax battle, warns Intesa chief
-Head of country’s largest bank steps up fight against fresh levies on the sector
+## ‘Huang-gate’ deepens: Former Nvidia CEO reportedly had relationship with another employee
+The latest report adds to questions surrounding the former chief’s conduct, as attention grows over workplace relationships and corporate governance
 
-## Electrification is only part of the climate battle
-A COP31 pledge to expand electric power ought to have a green target attached
+## Former Nvidia CEO Jensen Huang agrees to testify in US probe over alleged China intelligence links
+The congressional investigation is widening, with lawmakers seeking answers on sensitive technology access, company security practices and semiconductor exports to China
 
-## Nvidia sends a painful message on how to value a CEO
-More clarity about why founders matter — and how much — should help everyone
+## US deports record 4,83,200 people under Trump as immigration crackdown faces backlash
+The latest figures highlight the scale of the administration’s immigration crackdown, while raising questions about deportation data and its political consequences
 
-## US home sales fall to lowest level since 2010 as mortgage rates soar
-Higher borrowing costs deepen housing market slump as interest rates weigh on transactions
+## Anthropic IPO draws sixfold demand, targets $1.4 trillion valuation
+The strong investor response comes as the artificial intelligence company prepares a potentially record-breaking listing alongside a substantial private placement
 
-## Quantum Systems drones grounded by German military after cyber attack
-Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted
-
-## Nvidia shares slide as Huang resigns
-Stock falls as much as 14% before recovering to trade 5% down on Thursday
-
-## AI shouldn’t lead to educational inequality
-Whether AI improves students’ ability to understand, reason and apply knowledge rests largely on bridging the digital divide
-
-## India’s coal production likely to hit record 1,090 million tonnes in 2026: World Bank
-World Bank October 2026 outlook: China’s coal production may reach 1,350 mt in the current year
-
-## Outbound direct investment growth slows to 9.4% in H1
-Higher base, along with a weaker currency and uncertainty in the global economy, makes Indian companies circumspect about overseas deals
-
-## India’s ECB fundraising more than doubles to $37.45 billion in H1FY27 as PSUs step up borrowing
-Public sector borrowers accounted for a sizeable share of overseas fundraising, while private companies also tapped foreign lenders for large sums
-
-## Tractor sales rise 3.1% in October; Mahindra leads with 23% market share
-Sources say there is also a strong demand for tractors from non-agricultural industries like road construction and mining
-
-## India ETFs draw ₹35,120 crore in Q3 as large-cap, precious metals lead inflows
-Technology and long-duration debt ETFs see redemptions even as the broader Asia-Pacific market returns to net inflows after two quarters of outflows
-
-## India overtakes Taiwan to become world’s fifth-largest stock market after $640-billion rebound
-Foreign investor buying, stronger corporate earnings and falling crude prices have helped reverse months of pressure on Indian equities
-
-## Modi urges farmers to diversify crops, adopt natural farming and reduce chemical use
-Addressing an agriculture conference, the Prime Minister highlighted farm exports, fertiliser subsidies and agricultural growth while making a pitch for sustainable practices
+## Nvidia sheds $1 trillion in a month; Huang slips to 13th on Forbes rich list
+Nvidia faced a sharp decline in stock value following CEO Jensen Huang's surprising resignation, igniting fears about its leadership stability. In just one week, the company's market value plummeted by nearly $500 billion, with shares now down around 30% from October's peak. Consequently, AI ecosyst
 
 ## Norwest to hike investments in Indian mfg, healthcare, tech after $4bn global fund raise
 
@@ -78,32 +78,41 @@ A wave of Indian-origin business leaders is reshaping the global corporate lands
 ## Everyone wanted a Labubu. What happened?
 Once a coveted collectible, Pop Mart's Labubu dolls are now witnessing a steep decline in desirability, particularly in the United States. Recent sales data reveals a dramatic fall in global revenue, resulting in collectors becoming increasingly discerning. As enthusiasts pivot towards new toy brand
 
-## Is AI putting Indian IT jobs at risk? What Moody’s says about the future of work
-The rise of AI is stirring concerns in India's IT and BPO industries about productivity and job security. Moody's Ratings highlights the uncertainty regarding AI's potential employment impact, as concrete evidence remains elusive. India struggles with its digital infrastructure and skilled labor nee
+## National Tribal Literary Festival begins in Delhi; focus on preserving oral traditions
+Union tribal affairs minister Jual Oram stressed the need for systematic documentation of tribal literature, folk songs, folktales and oral traditions
 
-## Supriya Sule rules out NCP merger talks, says ‘no one has approached me’
-Her remarks came shortly after Maharashtra NCP president Sunil Tatkare said he saw no substance in the speculation surrounding merger talks.
+## Delhi education department asks task force to submit recommendations on fixing dropouts, low attendance by November 15
+The education department constituted a 26-member panel on August 17 to examine the challenges related to dropout rates, learning outcomes, and more.
 
-## Global TB Report 2026: Nearly 10.6 million fell ill with TB worldwide; India accounts for 25% of cases
-The WHO’s Global Tuberculosis Report 2026 estimates 10.6 million people fell ill with TB worldwide in 2025, with India accounting for nearly a quarter of cases.
+## Child rights body nears final draft of social media safety guidelines for children
+New Delhi: The National Commission for Protection of Child Rights (NCPCR) is in the final stretch of drafting guidelines for social media and online gaming platforms to improve child safety, holding its “final stakeholder meeting” with companies on Thursday, the commission said in a statement
 
-## US set to host Quad Leaders Summit in Manila next week
-India, the US, Japan and Australia are expected to announce new initiatives on economic security and strategic infrastructure at the Quad summit in Manila.
+## Passing out parade of over 2,700 Agniveers at INS Chilka today
+Navy chief Admiral Krishna Swaminathan will be the chief guest and reviewing officer of the passing out parade in Chilka
 
-## Keeping up with UP| In the Lord’s name: A religious row with a political twist
-Dhirendra Krishna Shastri’s remarks contrasting Lord Ram and Lord Krishna have triggered a row, exposing tensions among religious leaders and political parties.
+## Your roots may be in villages, but your flight has no limits: President Droupadi Murmu
+President Droupadi Murmu on Thursday urged students from Eklavya Model Residential Schools (EMRS) to dream big and pursue their ambitions with dedication, discipline and self-confidence, saying their rural backgrounds should never limit their aspirations
 
-## PM Modi to visit Philippines for Asean-India Summit, East Asia Summit
-Prime Minister Narendra Modi will visit the Philippines on November 16 for the Asean-India Summit and East Asia Summit, with trade, maritime security and regional stability on the agenda.
+## High risk, low pay: J&K’s SPOs living on the edge
+A court has sought data from the home department, while roughly 2,300 affected personnel say their pay has been stalled during the proceedings.
 
-## IIT Kharagpur becomes first IIT to offer MD programmes approved by national medical body
-IIT Kharagpur become the first IIT to offer postgraduate medical courses recognised by NMC, introducing 12 MD seats across six specialisations.
+## 57th IFFI to be held in Goa from Nov 20, adopts ‘Stories Without Borders’ theme
+The theme emphasises cinema’s role in bridging cultural and geographical differences through diverse stories and shared human experiences
 
-## Crude oil tanker carrying 19 Indian seafarers hit off UAE coast, all crew evacuated
-In a post on X, Sonowal said the UAE Coast Guard evacuated all crew members following the incident. None of the Indian seafarers sustained injuries.
+## Let Abhishek Banerjee submit a list of judges who belong to the BJP: Calcutta high court
+This comes days after the Diamond Harbour MP attacked the judiciary for dilly-dallying over a case related to his security downgrade
 
-## After Sam Pitroda calls Modi 'Gujarati friend', PM sends Diwali wishes to Congress leader, wife
-Emphasising that political disagreements did not prevent them from sharing a cordial personal equation.
+## Hong Kong’s New World Development suspends trading as financial rescue speculation mounts
+Hong Kong property developer New World Development suspended trading of its shares and a series of bonds on Friday morning, pending an announcement. Trading in the developer’s shares and 14 bond issues, issued by its wholly owned subsidiaries and guaranteed by the company, was halted at 9am, accordi
+
+## Eli Lilly beats Novo Nordisk to China approval for first oral GLP-1 weight-loss drug
+China has approved US pharmaceutical giant Eli Lilly’s weight-loss pill orforglipron, making it the country’s first available oral GLP-1 treatment for obesity as global drug makers seek to tap the country’s massive weight-management market. China’s National Medical Products Administration announced 
+
+## Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says
+Beijing’s newly enforced tax rules put off mainland visitors from buying insurance policies in Hong Kong in the third quarter of the year, according to Insurance Authority CEO Clement Cheung Wan-ching. “We have seen some mainlanders taking a wait-and-see approach to buying insurance policies in Hong
+
+## Hong Kong retail rents to recover – unevenly – in 2027, led by luxury locations
+Hong Kong retail landlords are expected to see rental income improve in 2027 as stronger tenant sales feed into lease renewals, but the recovery will be concentrated in prime shopping destinations, while community malls continue to face falling rents. Higher turnover rents and improved lease-renewal
 
 ## The Man Behind the Magic
 Tim Sypko has spent much of his working life making sure that other people’s memories are magical. It is a responsibility he takes seriously. After 36 years with The Walt Disney Company – nearly 30 of them in Orlando, Florida, before joining Hong Kong Disneyland in January 2020 – he became managing 
@@ -117,17 +126,8 @@ CK Hutchison Holdings, the major business vehicle of the family of billionaire L
 ## Former ByteDance AI scientist touts drug-discovery model that tops world leaders
 A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded competition in AI-driven drug discovery. Geodesic Intelligence’s NovaAtom-Lite, an AI model design
 
-## Singapore opens gold vault to foreign central banks in race to become Asia’s gold hub
-Singapore has opened its national gold vault to foreign central banks, a move analysts say will sharpen its head-to-head rivalry with Hong Kong for the title of Asia’s leading bullion hub. The Monetary Authority of Singapore (MAS) has announced that it would store gold for overseas central banks, in
-
-## China’s Huafa abandons domestic AAA rating amid Fitch downgrade, bond market jitters
-Zhuhai Huafa Group, a heavily indebted state-owned enterprise whose recent troubles rattled China’s bond market, has voluntarily ended its engagement with a major domestic credit assessor, leading to the withdrawal of its AAA rating after an international ratings agency downgraded the firm. Huafa – 
-
-## Chinese regulators back investor lawsuits in push to shore up stock market confidence
-Chinese regulators are stepping up efforts to protect individual investors by backing legal action against listed companies accused of misconduct while fast-tracking compensation for losses. The moves come as authorities seek to restore confidence in a stock market that has tentatively stabilised wi
-
-## Li Ka-shing family’s British pub chain names first female CEO in 227 years
-Greene King, the British brewer and pub operator owned by Hong Kong billionaire Li Ka-shing’s family, has appointed its first female chief executive in its 227-year history, seven years after the family acquired the business as part of its overseas expansion. Clair Preston-Beer, currently Greene Kin
+## Hegseth’s Troubles Are Far From Over
+The Pentagon chief dodged impeachment, but his future remains uncertain.
 
 ## Huang Out at Nvidia
 The U.S. chipmaker’s CEO has resigned over an affair with an alleged Chinese spy.
@@ -149,9 +149,6 @@ Classrooms join the growing list of targets of suspected hybrid warfare.
 
 ## India Ups Its Ukraine War Diplomacy
 New Delhi is a logical mediator, given its relations with both Moscow and Kyiv.
-
-## The Tragedy of Tanzania
-One year on from a rigged election, the country’s president has intensified her crackdown on dissent.
 
 ## Between Russia and Ukraine: India’s Foray as a Peacemaker
 New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is concerned, India enjoys little leverage over Russia’s decisions.
@@ -225,29 +222,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Italy fight back to beat France 3-1 and move top of Nations League group
-Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secures win for Italy.
+## Spanish court suspends far-right group over alleged hate crimes
+Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.
 
-## Deadly shooting in Washington DC
-Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed
+## Chris Van Hollen to run for US Senate majority leader
+Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.
 
-## Microsoft outage hits tens of thousands of users
-Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.
+## Finland detects strike on Russian warship as Zelenskyy meets US envoys
+Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.
 
-## Pope Leo calls for Church to make ‘amends’ to sex abuse victims
-Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.
+## Trump moots toppling Cuba authorities before leaving office
+Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.
 
-## US releases report on $12bn from Venezuelan oil, mineral resources
-The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.
+## After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects
+Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.
 
-## What’s at stake in the renewed tensions over the Falkland Islands?
-Argentina and the UK are in a legal battle over an offshore oil-drilling project.
+## Albania’s PM says 2027 NATO summit will not be held in Tirana
+Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.
 
-## Qatar Under-17 World Cup is on despite US pull out
-The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw
+## Iran war live: Trump says Gulf allies urged pause in Iran strikes
+Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.
 
-## Regional security dominates European talks in Dublin amid hybrid attacks
-European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.
+## Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
+Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
 
 ## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
 Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
