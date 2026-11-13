@@ -1,61 +1,67 @@
 # AION Intelligence
 
-## FirstFT: Microsoft races to restore software services
-Also in today’s newsletter: the downfall of Jensen Huang and how Israel lost the US
+## Microsoft says services experiencing ‘broad recovery’ after global outage
+German government says it ‘anticipates a very big impact’ on economy
 
-## Microsoft races to restore services after global outage
-Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says
+## Reform UK pays for Nigel Farage’s security despite £5mn gift
+Party leader had claimed that undeclared donation from crypto billionaire was needed to ensure his protection
 
-## Milburn’s welfare overhaul brings flashbacks to universal credit rollout
-Labour’s benefits-reform plans must not become subordinate to party’s other objectives
+## Moscow tells Europe to pick an envoy if it wants a seat at the table
+EU top diplomat Kaja Kallas says Vladimir Putin does not want to talk to her because she is ‘strong’
 
-## Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions
-Ousted chief executive Jensen Huang had supported keeping sales open to China
+## Arm boss Rene Haas approached in Nvidia CEO search
+Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs
 
 ## Global oil markets swing to surplus as Gulf shipments rebound
-IEA analysts warn it will take months to rebuild stockpiles depleted by conflict
+IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war
 
-## Onitsuka Tiger owner Asics shares slide as sales growth slows
-Analysts fear athleisure’s standout performer may miss annual targets
+## US Treasuries set for worst week since Trump’s ‘liberation day’
+Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over
 
-## Value Nvidia, not Huang
-Plus, sclerotic labour markets
+## Scott Colom: the Democrat who conquered the reddest of red states
+High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881
 
-## Ukraine talks call for European speaker despite lack of continental consensus
-Also in this newsletter: Retail investment reform gets killed
+## Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed
+Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal
 
-## How fat are AI trading bots’ fingers?
-Sizing up the risks
+## Stockpickers: Fuller, Smith & Turner, Dialight, Vodafone
+Our experts discuss which companies to buy, sell or hold this week
 
-## Jewellery demand helps Richemont buck luxury downturn
-Group behind Cartier and Van Cleef & Arpels reports 39% rise in first-half net profit
+## Tiny London quant fund emerges as one of the UK’s biggest corporate taxpayers
+Quadrature Capital made a £4mn donation to the Labour Party ahead of the last general election and backs anti-poverty and climate change initiatives
 
-## AI agents shouldn’t have to pretend to be us
-Service providers from banks to online platforms need to offer a standard channel of access on fair terms
+## Three tremors have shaken AI
+Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions
 
-## Mumbai property registrations hit four-year Diwali high despite marginal transaction growth
-Revenue collections rise 13 per cent, signalling higher-value transactions amid steady housing demand
+## German coalition disagreements hold up ECB jobs deal
+Chancellor and his finance minister have yet to agree on a candidate for one of three central bank executive board vacancies
 
-## Staffing third-party logistics
-Technology adoption drives third-party logistics growth, but shortage of skilled manpower remains a challenge
+## Yes Bank moves Supreme Court to review ruling on ₹8,415-crore AT-1 bond write-off
+The lender’s latest move follows a contempt petition by bondholders seeking a concrete roadmap to restore the written-off bonds
 
-## Tata Sons rejects Noel’s request for audio-video recording of Sept 17 board-meet
-The company said it has no practice of sharing audio-video recordings of in-person board meetings, intensifying differences between Tata Trusts and Tata Sons over the leadership decision.
+## How India Inc navigated the Friday the 13th Microsoft outage
+Corporate India turned to Teams and WhatsApp as Outlook went dark; MSMEs reported hiccups while workers enjoyed an inbox-free day and welcomed weekend early.
 
-## Sensex today | Stock Market Highlights: Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150
-Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended lower on Friday, snapping a three-day rally amid anticipation of a policy rate hike by the RBI next month after retail inflation surged to 6.09 per cent in October.
+## Jewellery companies rush to market for growth capital as demand booms
+Some of these companies waiting to tap the market are B2B manufacturers who supply to big brands and they need huge working capital requirements
 
-## Rupee falls 8 paise to close at 94.20 against US dollar
-At the interbank foreign exchange market, the rupee opened at 94.07 against the dollar. During intra-day trade, it witnessed a high of 94.05 and a low of 94.28
+## Sensex, Nifty edge down on profit taking, inflation worries
+Despite today’s loss, Indian stocks close the week on strong note, as FPIs remain buying spree
 
-## Gillette India Q2 profit jumps 11% to ₹159 crore as cost savings cushion commodity pressures
-Revenue from operations rises 4.4% to ₹846 crore from ₹811 crore a ​year earlier
+## Tata Motors PV posts ₹5,451-crore Q2 consolidated loss on JLR restructuring charges
+The management expects the company to end FY27 with double-digit growth of around 12-13 per cent
 
-## Gem, jewellery exports up 34% on growing demand, rise in gold prices
-Strong gold jewellery shipments and a recovery in polished diamond exports drive growth ahead of the crucial year-end holiday season.
+## India’s exports hit record $90 billion in October, but merchandise trade deficit widens
+Higher festival-season demand and oil prices pushed up imports, even as market diversification and new trade deals supported export growth.
 
-## Q2 Results Today Live: Grasim Ind, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Rail Vikas Nigam, Godrej Industries, Gillette to announce Q2 results
-Q2 Results 12th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
+## Microsoft races to restore systems as outage disrupts work globally
+Company rules out cyberattack, businesses turn to alternative channels to cope
+
+## Passenger vehicle dispatches record highest-ever for any October this year: SIAM
+Two-wheeler and three-wheeler sales also report positive growths in October 2026 on y-o-y basis
+
+## 27.1% to 2.6%: India sees one of world’s fastest poverty declines, but there’s a catch
+The World Bank currently defines the international extreme poverty line at $3.00 per person per day in 2021 purchasing power parity (PPP) terms. According to the World Poverty Clock, extreme poverty may be considered eliminated when the poverty headcount ratio falls below 3%. With the World Bank est
 
 ## 'Will be resolved very soon': India on Scotch imports from UK amid bulk shipments held at ports
 
@@ -78,32 +84,35 @@ In October, Russia significantly increased its diesel exports following an agree
 ## OMCs continue to face petrol, diesel losses despite easing crude prices: Jefferies
 Oil marketing companies are currently facing losses on petrol and diesel sales, although these losses have recently decreased. Marketing losses on petrol have fallen to Rs 12 per litre and Rs 27 per litre for diesel. A decline in the Indian crude basket price has contributed to this improvement. Glo
 
-## Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation
-Anthropic is receiving high interest for its initial public offering, potentially raising around $90.4 billion. The company plans to sell 825 million shares at a price range between $70 and $78 each. Nvidia has committed to purchasing shares as part of the private placement while several tech giants
+## ‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam
+The truck's dashcam footage, which has emerged following the accident, has captured the final moments before the collision.
 
-## Modi inaugurates new section of Bengaluru Metro, takes operational length over 100 km
-Modi said better transport connections help businesses expand, create jobs and extend the benefits of development
+## President, PM condole Assam accident; Modi announces ₹2 lakh ex-gratia for each deceased
+At least 26 people died, including women and minors, and 20 others were injured in the accident near Kaziranga National Park in Assam on Friday.
 
-## HTLS 2026 LIVE: World Bank's Neelkanth Mishra to speak at Hindustan Times Leadership Summit
-HTLS 2026 LIVE: The 24th edition of the event brings together influential voices to examine shifting realities across economies, geopolitics, technology, business, and society as the world enters an era defined by rapid disruption and unprecedented change.
+## Navy chief urges Agniveers to aim for full-term service
+Navy chief Admiral Krishna Swaminathan urged the latest batch of Agniveers to work towards a permanent career under the revamped Agnipath scheme.
 
-## Former Madras HC judge CS Karnan, first sitting judge jailed for contempt, dies at 71
-Justice Karnan, who had been recently admitted to hospital, died after failing to respond to treatment, the hospital authorities said.
+## Faridabad: Cop's son fires gunshots in road rage; two injured
+One person received a gunshot wound in the neck, and the other in his chest. Both are under treatment at a hospital in Sector-21 A.
 
-## UP man murders ‘online game partner’ in Bengal after argument escalates, arrested in Delhi
-Twenty-six-year-old Anjali Sau was found dead at her relative's place on Tuesday in Bengal's North 24 Parganas.
+## Two Tamil Nadu traders arrested over alleged diversion of 11,000 litres of Sabarimala ghee
+Two traders from Tamil Nadu were arrested for allegedly buying 11,000 litres of ghee diverted from official Milma consignments meant for Sabarimala.
 
-## BrahMos supplied to Philippines, agreement with Vietnam; other SE Asian nations keen, says CEO Joshi
-BrahMos supplied to Philippines, agreement with Vietnam; other SE Asian nations keen, says CEO Joshi
+## Kerala seafarer stranded in Iran for a year gets emergency travel document to return home
+The Kerala seafarer has been stranded in Iran since 2025 after his passport and Continuous Discharge Certificate went missing from his vessel.
 
-## Mumbai woman loses over ₹90 lakh after online scammers coerce her with morphed photos
-Police said the scammers targeted multiple women in a similar manner by luring them into jobs and then coercing them to pay with morphed photopgraphs.
+## Centre unlikely to clear Punjab CM Bhagwant Mann’s Lahore conference trip
+The Centre is unlikely to clear Punjab CM Bhagwant Mann’s proposed Pakistan visit for the International Punjabi Conference in Lahore from November 27 to 29.
 
-## Manipur 2023 violence probe panel gets another extension; asked to submit report by May 20
-Manipur 2023 violence probe panel gets another extension; asked to submit report by May 20
+## Mahadev online betting case: ED arrests co-promoter Saurabh Chandrakar, gets 7-day custody
+The ED arrested Mahadev betting app co-promoter Saurabh Chandrakar in a money laundering case and secured seven days of custody to question him.
 
-## Shivakumar seeks revision of Union government’s funding formula for Metro rail projects
-In a memorandum to Prime Minister Narendra Modi, Shivakumar said Karnataka bears over 80% of the cost
+## China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts
+China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though they expect broader US-China trade talks to remain on track ahead of a planned meeting between the two countries’ leaders next week. F
+
+## Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts
+China’s finance ministry on Friday clarified the enforcement details of its offshore trust tax, officially excluding Hong Kong pension fund accounts held by mainland Chinese and providing detailed calculation methods for publicly traded Hong Kong stocks and stakes in non-listed firms. The move comes
 
 ## Asia’s private credit market has ample room for expansion, Ares executive says
 Asian private credit has ample room to expand, with investor demand holding up and the region’s lending market lagging far behind its private equity industry, according to E.G. Morse, head of Asia credit at Ares Management. The region’s private equity assets under management stood above US$1 trillio
@@ -123,11 +132,14 @@ Investor sentiment has weakened again, with a gauge of mainland Chinese stock ma
 ## Hong Kong businesses have scope to put cash flow to work to propel growth, expert says
 Hong Kong’s economy is showing resilience, with real gross domestic product (GDP) growing 5.1 per cent year on year in the first half of 2026. For businesses, that momentum brings opportunities alongside the need to navigate a landscape of uneven growth. “We see the growth concentrated in a few sect
 
-## Microsoft Outlook outage puts Hong Kong’s financial sector on hold
-A multihour outage of Microsoft’s office software Outlook, beginning on Friday morning, severely disrupted work in Hong Kong’s financial sector, according to staff members at several of the city’s investment banks. Some bankers from Goldman Sachs and Nomura said their work had been interrupted, the 
+## What in the World?
+Test yourself on the week of Nov. 7: COP31 kicks off in Turkey, Pope Leo visits South America, and Jensen Huang resigns.
 
-## Hong Kong looks to attract broader pool of investors to growing ETF market
-Hong Kong’s exchange-traded fund (ETF) market is looking to attract a broader pool of investors, from local retail investors to mainland Chinese institutions, as rising demand for diversified investment products and expanded cross-border access drive growth. The city’s connectivity with the mainland
+## Congress Can Do More to Defend U.S. Alliances
+It should start by expanding defense industrial cooperation and checking Trump’s attempts at coercion.
+
+## Pope Leo’s South America Tour
+The pontiff’s trip is as much about politics as religion.
 
 ## Lame-Duck Trump Heads to Asia
 The U.S. president will visit the Philippines and China fresh off his party’s midterm defeat.
@@ -144,14 +156,14 @@ As Moscow escalates, Europeans must learn to deter attacks that they cannot alwa
 ## U.S.-China Investments Can Still Work for Americans
 Reshaping a globally competitive auto industry needs a hard rethink on deals.
 
-## The Coming Era of Undersea Anarchy
-Turkey’s challenge to a humble cable hints at a broader breakdown of oceanic order.
+## What the ‘Blue Tsunami’ Means for Southeast Asia’s Economies
+Will the final two years of U.S. President Donald Trump's term see a milder and more constrained foreign policy – or more of the same?
 
-## How Democrats Will Wield Power on Foreign Policy
-Congressman Jason Crow on breaking not only with Trump, but Biden as well.
+## Indonesia, Thailand, Philippines to Establish Joint Emergency Fuel Stockpiles
+The Japan-backed scheme will create a ticket system for emergency fuel reserves similar to that used in the European Union.
 
-## Hoax Bomb Threats Target Hundreds of European Schools
-Classrooms join the growing list of targets of suspected hybrid warfare.
+## Under Two Years, One Record-Breaking Olympiad: The Rise of Yamoratti Advertising
+Founded in 2025, Yamoratti Advertising now runs campaigns from London to Paris to Central Asia — and took the story of the biggest Chess Olympiad ever held to a global audience. Inside one of London’s fast-growing agencies, and the founder setting the pace.
 
 ## China’s Drone Carrier Swarms Ahead
 Beijing is at the forefront of developing drone carriers as combat platforms, especially compared to the United States. But will that translate into a combat advantage?
@@ -167,15 +179,6 @@ New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is
 
 ## Pakistan’s Elites Enjoy Global Travel While Ordinary Citizens Face Restrictions
 The Pakistani passport is one of the weakest in the world. No wonder, then, that Pakistan’s elites are changing rules to expand their access to official passports.
-
-## Online and in the Real World, China’s Queer Communities Face Mounting Restrictions
-As spaces for queer life in China become more fragile, organizers and creators are having to adapt to the new reality.
-
-## Can Japan’s Leaders Get Along With US Democrats?
-Japan's LDP tends to prefer Republican partners in Washington – even now.
-
-## Japan’s ‘Denial Defense Capabilities’ and the Debate Over Port Calls by Nuclear-Armed US Ships
-Tokyo wants adversaries to conclude that an attack on Japan would fail. Would allowing a nuclear-armed U.S. ship to make a temporary port call in an emergency make the U.S. nuclear guarantee more credible?
 
 ## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
 Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
@@ -225,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Live: Microsoft struggles to restore services as outage hits global users
-As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.
+## Iran honours fallen soldiers in Iran-Iraq war with missile display
+Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.
 
-## El Salvador deploys armed robots to fight gangs in Haiti
-El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.
+## Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis
+Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.
 
-## Iran threatens unlimited response over Strait of Hormuz after US attack
-Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.
+## No emails, no problem? Workers joke about Microsoft outage
+Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.
 
-## Henry and Young shine as New Zealand thrash India by 244 runs
-New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.
+## The fight over Canadian steelworker jobs
+Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.
 
-## Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?
-The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.
+## Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser
+Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.
 
-## Russia and Ukraine report overnight attacks amid US diplomatic push
-Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.
+## Jerusalem Daily: Baby dies from cold in Gaza
+A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.
 
-## With every rainfall, Gaza risks losing access to power and healthcare
-Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.
+## Sixth victim confirmed in DC condo-related shooting in US, police say
+Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.
 
-## Microsoft hit by global outages: What happened and why?
-Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.
+## US Treasury warns against rate hikes during US-Iran war energy ‘shock’
+Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.
 
 ## The Rising Cost of Cyberattacks
 The rapid expansion of partnerships between banks, NBFCs and fintech companies has widened this exposure. Lenders increasingly depend on outside technology providers for customer acquisition, loan processing, payments and disbursements. These arrangements have made financial services more convenient
