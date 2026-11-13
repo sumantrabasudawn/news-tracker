@@ -1,130 +1,136 @@
 # AION Intelligence
 
-## US cannot reach a deal to end Ukraine war without Europe, says Kushner
-American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security
+## FirstFT: Microsoft races to restore software services
+Also in today’s newsletter: the downfall of Jensen Huang and how Israel lost the US
 
-## The Silicon Valley veterans now steering Nvidia
-New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure
+## Microsoft races to restore services after global outage
+Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says
 
-## Blackstone buys into India’s IIFL
-Plus, Venugopal Dhoot’s insolvency
+## Milburn’s welfare overhaul brings flashbacks to universal credit rollout
+Labour’s benefits-reform plans must not become subordinate to party’s other objectives
 
-## Nvidia chief Jensen Huang toppled by revelations of extramarital affairs
-Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom
+## Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions
+Ousted chief executive Jensen Huang had supported keeping sales open to China
 
-## US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens
-Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy
+## Global oil markets swing to surplus as Gulf shipments rebound
+IEA analysts warn it will take months to rebuild stockpiles depleted by conflict
 
-## AI boom will lift Nvidia even after Huang’s exit, investors say
-Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO
+## Onitsuka Tiger owner Asics shares slide as sales growth slows
+Analysts fear athleisure’s standout performer may miss annual targets
 
-## Huang’s fall is an indictment of founder mode at Big Tech
-The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear
+## Value Nvidia, not Huang
+Plus, sclerotic labour markets
 
-## Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep
-Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket
+## Ukraine talks call for European speaker despite lack of continental consensus
+Also in this newsletter: Retail investment reform gets killed
 
-## Jensen Huang resigns as Nvidia chief executive
-Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head
+## How fat are AI trading bots’ fingers?
+Sizing up the risks
 
-## Cravath employee charged with trading on firm’s corporate deals
-Word-processing specialist allegedly used confidential client information to profit from takeover announcements
+## Jewellery demand helps Richemont buck luxury downturn
+Group behind Cartier and Van Cleef & Arpels reports 39% rise in first-half net profit
 
-## Indian shares likely to open flat as oil surge counters strong foreign inflows
-Nifty gains 1.1% so far this week with $8 billion November inflows; retail inflation hits 6.09% as Brent crude rises to $95.23 per barrel
+## AI agents shouldn’t have to pretend to be us
+Service providers from banks to online platforms need to offer a standard channel of access on fair terms
 
-## Sensex today | Stock Market Live Updates: Markets likely to open flat as oil surge counters strong foreign inflows
-Sensex, Nifty, Share Prices Live: Indian equity benchmarks are expected to remain in consolidation mode on Friday following recent gains, as sustained foreign institutional ​inflows offer support while rising Brent crude prices and elevated domestic inflation weigh ‌on sentiment
+## Mumbai property registrations hit four-year Diwali high despite marginal transaction growth
+Revenue collections rise 13 per cent, signalling higher-value transactions amid steady housing demand
 
-## Buzzing stocks: Meesho, Clean Max, Lupin, IOC, NBCC, NCL Ind, Zee, Edelweiss, Jujhar Logistics, Ola
-SoftBank eyes Meesho stake sale, Clean Max commits ₹50,000 crore in Andhra Pradesh
+## Staffing third-party logistics
+Technology adoption drives third-party logistics growth, but shortage of skilled manpower remains a challenge
 
-## Why Jensen Huang resigned as Nvidia CEO: Affairs, China spy allegations and what happens next
-Reports of two alleged relationships, national security concerns and questions over corporate leadership have placed the chipmaker under intense scrutiny
+## Tata Sons rejects Noel’s request for audio-video recording of Sept 17 board-meet
+The company said it has no practice of sharing audio-video recordings of in-person board meetings, intensifying differences between Tata Trusts and Tata Sons over the leadership decision.
 
-## ‘Huang-gate’ deepens: Former Nvidia CEO reportedly had relationship with another employee
-The latest report adds to questions surrounding the former chief’s conduct, as attention grows over workplace relationships and corporate governance
+## Sensex today | Stock Market Highlights: Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150
+Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended lower on Friday, snapping a three-day rally amid anticipation of a policy rate hike by the RBI next month after retail inflation surged to 6.09 per cent in October.
 
-## Former Nvidia CEO Jensen Huang agrees to testify in US probe over alleged China intelligence links
-The congressional investigation is widening, with lawmakers seeking answers on sensitive technology access, company security practices and semiconductor exports to China
+## Rupee falls 8 paise to close at 94.20 against US dollar
+At the interbank foreign exchange market, the rupee opened at 94.07 against the dollar. During intra-day trade, it witnessed a high of 94.05 and a low of 94.28
 
-## US deports record 4,83,200 people under Trump as immigration crackdown faces backlash
-The latest figures highlight the scale of the administration’s immigration crackdown, while raising questions about deportation data and its political consequences
+## Gillette India Q2 profit jumps 11% to ₹159 crore as cost savings cushion commodity pressures
+Revenue from operations rises 4.4% to ₹846 crore from ₹811 crore a ​year earlier
 
-## Anthropic IPO draws sixfold demand, targets $1.4 trillion valuation
-The strong investor response comes as the artificial intelligence company prepares a potentially record-breaking listing alongside a substantial private placement
+## Gem, jewellery exports up 34% on growing demand, rise in gold prices
+Strong gold jewellery shipments and a recovery in polished diamond exports drive growth ahead of the crucial year-end holiday season.
 
-## Nvidia sheds $1 trillion in a month; Huang slips to 13th on Forbes rich list
-Nvidia faced a sharp decline in stock value following CEO Jensen Huang's surprising resignation, igniting fears about its leadership stability. In just one week, the company's market value plummeted by nearly $500 billion, with shares now down around 30% from October's peak. Consequently, AI ecosyst
+## Q2 Results Today Live: Grasim Ind, Eicher Motors, ABB India, Tata Motors PV, Manipal Health, Rail Vikas Nigam, Godrej Industries, Gillette to announce Q2 results
+Q2 Results 12th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
 
-## Norwest to hike investments in Indian mfg, healthcare, tech after $4bn global fund raise
+## 'Will be resolved very soon': India on Scotch imports from UK amid bulk shipments held at ports
 
 
-## 'Legend replaces a Legend': Trump wants Tim Cook to replace Nvidia CEO Jensen Huang
-In light of Jensen Huang's sudden resignation from Nvidia, alleged personal conduct issues have arisen. Donald Trump has proposed Tim Cook as a fitting successor. The Nvidia board swiftly acknowledged Huang's significant contributions while confirming his departure. Consequently, Nvidia experienced 
+## Bengaluru-Goa Vande Bharat Express launched: Check schedule, stoppages & other details
+The new Yesvantpur-Madgaon Vande Bharat Express has been introduced to improve rail connectivity between Bengaluru, coastal Karnataka and Goa. The service will provide direct access to several key stations, including Hassan, Sakleshpur, Subrahmanya Road, Mangaluru, Udupi, Kundapura, Murdeshwar, Goka
 
-## Chinese 'spy' Alice Huang's firms invested in DeepSeek, promised Nvidia's Blackwell chips
-Alice Huang, associated with Nvidia CEO Jensen Huang, has drawn scrutiny over her data centre ventures. Companies linked to her invested in DeepSeek to secure Nvidia's Blackwell chips, which are crucial for AI operations. In Singapore, she is under investigation for allegedly misleading authorities 
+## Paytm gets RBI prelim nod to operate wallets; shares surge to 52-week high
+Paytm's payment segment has secured initial approval from the Reserve Bank of India for its prepaid payment instruments. This milestone has propelled One 97 Communications' stock to soar past the Rs 1,900 mark, reflecting strong market performance. Analysts predict robust revenue growth stemming fro
 
-## Nvidia tumbles over 12% in pre-market trading after Huang's exit
-Nvidia shares plummeted nearly 11% following CEO Jensen Huang's departure amidst growing controversy and investor unease. This shake-up pushed other AI-driven firms like Oracle and Micron Technology to also suffer losses. The dollar surged to a 19-month peak, with the US 10-year Treasury yield hitti
+## India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows
+India's export growth shot up by almost 30 percent year-on-year, reaching close to $90 billion in October 2026. Merchandise exports accounted for a significant $49.47 billion, marking a record high for monthly goods. Though imports also climbed, resulting in a trade deficit of $39.88 billion, the se
 
-## Paytm nears listing price for the first time since 2021; shares climb 7.31% to Rs 1,925
-Paytm share price today: The share price of One 97 Communications, the parent company of Paytm hit a multi-year peak of Rs 1,925 at closing and is now Rs 25 shy of its listing price of Rs 1,950 on the National Stock Exchange. It is now up over 49% year-to-date.
+## Taxpayer faces Rs 1.41 lakh demand over tax regime error; why ITAT ruled for old
+The case concerns a man’s income tax return for assessment year 2025-26. The taxpayer had opted for the new income tax regime in the preceding assessment year, 2024-25. On August 31, 2025, when he filed Form 10-IEA he opted out of the new regime and was taxed under the old income regime.
 
-## Google, Microsoft & more: Valuation of firms led by Indian CEOs hits $15 trillion
-A wave of Indian-origin business leaders is reshaping the global corporate landscape, amassing an impressive collective valuation of $15 trillion. The rise of artificial intelligence has been instrumental in this growth, with 103 out of the 200 companies listed in the HSBC Hurun Global Indians List 
+## Russia's diesel exports jump 100% after Trump lifts sanctions; US gets no shipments
+In October, Russia significantly increased its diesel exports following an agreement between Trump and Putin aimed at boosting global supplies. However, U.S. markets have not seen any additional shipments due to concerns over sanctions and buyer reluctance. Most of the diesel was redirected to Brazi
 
-## Everyone wanted a Labubu. What happened?
-Once a coveted collectible, Pop Mart's Labubu dolls are now witnessing a steep decline in desirability, particularly in the United States. Recent sales data reveals a dramatic fall in global revenue, resulting in collectors becoming increasingly discerning. As enthusiasts pivot towards new toy brand
+## OMCs continue to face petrol, diesel losses despite easing crude prices: Jefferies
+Oil marketing companies are currently facing losses on petrol and diesel sales, although these losses have recently decreased. Marketing losses on petrol have fallen to Rs 12 per litre and Rs 27 per litre for diesel. A decline in the Indian crude basket price has contributed to this improvement. Glo
 
-## National Tribal Literary Festival begins in Delhi; focus on preserving oral traditions
-Union tribal affairs minister Jual Oram stressed the need for systematic documentation of tribal literature, folk songs, folktales and oral traditions
+## Anthropic IPO six times oversubscribed as AI firm targets record $1.4 trillion valuation
+Anthropic is receiving high interest for its initial public offering, potentially raising around $90.4 billion. The company plans to sell 825 million shares at a price range between $70 and $78 each. Nvidia has committed to purchasing shares as part of the private placement while several tech giants
 
-## Delhi education department asks task force to submit recommendations on fixing dropouts, low attendance by November 15
-The education department constituted a 26-member panel on August 17 to examine the challenges related to dropout rates, learning outcomes, and more.
+## Modi inaugurates new section of Bengaluru Metro, takes operational length over 100 km
+Modi said better transport connections help businesses expand, create jobs and extend the benefits of development
 
-## Child rights body nears final draft of social media safety guidelines for children
-New Delhi: The National Commission for Protection of Child Rights (NCPCR) is in the final stretch of drafting guidelines for social media and online gaming platforms to improve child safety, holding its “final stakeholder meeting” with companies on Thursday, the commission said in a statement
+## HTLS 2026 LIVE: World Bank's Neelkanth Mishra to speak at Hindustan Times Leadership Summit
+HTLS 2026 LIVE: The 24th edition of the event brings together influential voices to examine shifting realities across economies, geopolitics, technology, business, and society as the world enters an era defined by rapid disruption and unprecedented change.
 
-## Passing out parade of over 2,700 Agniveers at INS Chilka today
-Navy chief Admiral Krishna Swaminathan will be the chief guest and reviewing officer of the passing out parade in Chilka
+## Former Madras HC judge CS Karnan, first sitting judge jailed for contempt, dies at 71
+Justice Karnan, who had been recently admitted to hospital, died after failing to respond to treatment, the hospital authorities said.
 
-## Your roots may be in villages, but your flight has no limits: President Droupadi Murmu
-President Droupadi Murmu on Thursday urged students from Eklavya Model Residential Schools (EMRS) to dream big and pursue their ambitions with dedication, discipline and self-confidence, saying their rural backgrounds should never limit their aspirations
+## UP man murders ‘online game partner’ in Bengal after argument escalates, arrested in Delhi
+Twenty-six-year-old Anjali Sau was found dead at her relative's place on Tuesday in Bengal's North 24 Parganas.
 
-## High risk, low pay: J&K’s SPOs living on the edge
-A court has sought data from the home department, while roughly 2,300 affected personnel say their pay has been stalled during the proceedings.
+## BrahMos supplied to Philippines, agreement with Vietnam; other SE Asian nations keen, says CEO Joshi
+BrahMos supplied to Philippines, agreement with Vietnam; other SE Asian nations keen, says CEO Joshi
 
-## 57th IFFI to be held in Goa from Nov 20, adopts ‘Stories Without Borders’ theme
-The theme emphasises cinema’s role in bridging cultural and geographical differences through diverse stories and shared human experiences
+## Mumbai woman loses over ₹90 lakh after online scammers coerce her with morphed photos
+Police said the scammers targeted multiple women in a similar manner by luring them into jobs and then coercing them to pay with morphed photopgraphs.
 
-## Let Abhishek Banerjee submit a list of judges who belong to the BJP: Calcutta high court
-This comes days after the Diamond Harbour MP attacked the judiciary for dilly-dallying over a case related to his security downgrade
+## Manipur 2023 violence probe panel gets another extension; asked to submit report by May 20
+Manipur 2023 violence probe panel gets another extension; asked to submit report by May 20
 
-## Hong Kong’s New World Development suspends trading as financial rescue speculation mounts
-Hong Kong property developer New World Development suspended trading of its shares and a series of bonds on Friday morning, pending an announcement. Trading in the developer’s shares and 14 bond issues, issued by its wholly owned subsidiaries and guaranteed by the company, was halted at 9am, accordi
+## Shivakumar seeks revision of Union government’s funding formula for Metro rail projects
+In a memorandum to Prime Minister Narendra Modi, Shivakumar said Karnataka bears over 80% of the cost
 
-## Eli Lilly beats Novo Nordisk to China approval for first oral GLP-1 weight-loss drug
-China has approved US pharmaceutical giant Eli Lilly’s weight-loss pill orforglipron, making it the country’s first available oral GLP-1 treatment for obesity as global drug makers seek to tap the country’s massive weight-management market. China’s National Medical Products Administration announced 
+## Asia’s private credit market has ample room for expansion, Ares executive says
+Asian private credit has ample room to expand, with investor demand holding up and the region’s lending market lagging far behind its private equity industry, according to E.G. Morse, head of Asia credit at Ares Management. The region’s private equity assets under management stood above US$1 trillio
 
-## Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says
-Beijing’s newly enforced tax rules put off mainland visitors from buying insurance policies in Hong Kong in the third quarter of the year, according to Insurance Authority CEO Clement Cheung Wan-ching. “We have seen some mainlanders taking a wait-and-see approach to buying insurance policies in Hong
+## Destroy raided documents, Dutch court tells Jaguar Land Rover in IP fight with BYD
+A Dutch court has rendered a ruling in favour of BYD in the Chinese electric vehicle (EV) giant’s dispute with Jaguar Land Rover (JLR) over the British luxury carmaker’s intellectual property (IP) claims. JLR was ordered to destroy documents obtained in a raid of BYD’s Netherlands offices, according
 
-## Hong Kong retail rents to recover – unevenly – in 2027, led by luxury locations
-Hong Kong retail landlords are expected to see rental income improve in 2027 as stronger tenant sales feed into lease renewals, but the recovery will be concentrated in prime shopping destinations, while community malls continue to face falling rents. Higher turnover rents and improved lease-renewal
+## From Nvidia’s plunge to a life policy record: 5 figures investors are watching
+After US and Asian stocks across the artificial intelligence supply chain tumbled in the wake of last week’s US midterm elections, this week’s headlines zoomed in on US chip giant Nvidia and the eventual resignation of its CEO, Jensen Huang, amid media reports of his alleged extramarital affairs. Be
 
-## The Man Behind the Magic
-Tim Sypko has spent much of his working life making sure that other people’s memories are magical. It is a responsibility he takes seriously. After 36 years with The Walt Disney Company – nearly 30 of them in Orlando, Florida, before joining Hong Kong Disneyland in January 2020 – he became managing 
+## China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs
+China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next two years. The bullish forecast comes as scrutiny over former Nvidia CEO Jensen Huang threatens to int
 
-## If Jensen Huang exits Nvidia, who could take the US$4 trillion chipmaker’s reins?
-Few tech leaders are as synonymous with their companies as Jensen Huang. The Nvidia co-founder has been credited with transforming the firm over three decades from a niche graphics-chip designer into a US$4 trillion powerhouse through a series of high-stakes bets. Now, allegations of extramarital af
+## Mainland China stock sentiment turns bearish again, Morgan Stanley indicator shows
+Investor sentiment has weakened again, with a gauge of mainland Chinese stock market sentiment tracked by Morgan Stanley falling back into bearish territory, prompting the investment bank to maintain a cautious outlook on the broader market. The weighted Morgan Stanley A-Share Sentiment Indicator fe
 
-## Li Ka-shing’s CK Hutchison denies suspending AS Watson listing plan
-CK Hutchison Holdings, the major business vehicle of the family of billionaire Li Ka-shing, denied the reported suspension of a listing plan for its retail business amid cooling enthusiasm for initial public offerings (IPOs) in Hong Kong. “Strategic explorations and evaluations and related preparati
+## Hong Kong businesses have scope to put cash flow to work to propel growth, expert says
+Hong Kong’s economy is showing resilience, with real gross domestic product (GDP) growing 5.1 per cent year on year in the first half of 2026. For businesses, that momentum brings opportunities alongside the need to navigate a landscape of uneven growth. “We see the growth concentrated in a few sect
 
-## Former ByteDance AI scientist touts drug-discovery model that tops world leaders
-A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded competition in AI-driven drug discovery. Geodesic Intelligence’s NovaAtom-Lite, an AI model design
+## Microsoft Outlook outage puts Hong Kong’s financial sector on hold
+A multihour outage of Microsoft’s office software Outlook, beginning on Friday morning, severely disrupted work in Hong Kong’s financial sector, according to staff members at several of the city’s investment banks. Some bankers from Goldman Sachs and Nomura said their work had been interrupted, the 
+
+## Hong Kong looks to attract broader pool of investors to growing ETF market
+Hong Kong’s exchange-traded fund (ETF) market is looking to attract a broader pool of investors, from local retail investors to mainland Chinese institutions, as rising demand for diversified investment products and expanded cross-border access drive growth. The city’s connectivity with the mainland
+
+## Lame-Duck Trump Heads to Asia
+The U.S. president will visit the Philippines and China fresh off his party’s midterm defeat.
 
 ## Hegseth’s Troubles Are Far From Over
 The Pentagon chief dodged impeachment, but his future remains uncertain.
@@ -147,8 +153,14 @@ Congressman Jason Crow on breaking not only with Trump, but Biden as well.
 ## Hoax Bomb Threats Target Hundreds of European Schools
 Classrooms join the growing list of targets of suspected hybrid warfare.
 
-## India Ups Its Ukraine War Diplomacy
-New Delhi is a logical mediator, given its relations with both Moscow and Kyiv.
+## China’s Drone Carrier Swarms Ahead
+Beijing is at the forefront of developing drone carriers as combat platforms, especially compared to the United States. But will that translate into a combat advantage?
+
+## The “Black Kasumigaseki” Saga
+Attitudes to working conditions have changed in Japan. The government is finally catching up.
+
+## Chips, Cheats, and China: The Nvidia Espionage Scandal
+A deep dive into the implications of Jensen Huang's affair, Alice Huang’s business dealings, and the fallout for both the China-U.S. trade war and the AI race.
 
 ## Between Russia and Ukraine: India’s Foray as a Peacemaker
 New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is concerned, India enjoys little leverage over Russia’s decisions.
@@ -164,15 +176,6 @@ Japan's LDP tends to prefer Republican partners in Washington – even now.
 
 ## Japan’s ‘Denial Defense Capabilities’ and the Debate Over Port Calls by Nuclear-Armed US Ships
 Tokyo wants adversaries to conclude that an attack on Japan would fail. Would allowing a nuclear-armed U.S. ship to make a temporary port call in an emergency make the U.S. nuclear guarantee more credible?
-
-## Myanmar Needs a China-Critical Policy, Not an Anti-China Policy
-As Min Aung Hlaing's regime attempts to court the West, resistance forces urgently need to clarify their position toward Beijing.
-
-## ‘Squad’ Nations to Establish Coordination Hub in the Philippines, Defense Chiefs Say
-The announcement came after defense ministers from the U.S., Japan, Australia, and the Philippines met in Cebu on October 28.
-
-## Indonesian Vice President Submits Resignation Amid School Credentials Controversy
-The controversy is connected to the widening rift between President Prabowo Subianto and his predecessor Joko "Jokowi" Widodo.
 
 ## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
 Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
@@ -222,29 +225,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spanish court suspends far-right group over alleged hate crimes
-Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.
+## Live: Microsoft struggles to restore services as outage hits global users
+As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.
 
-## Chris Van Hollen to run for US Senate majority leader
-Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.
+## El Salvador deploys armed robots to fight gangs in Haiti
+El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.
 
-## Finland detects strike on Russian warship as Zelenskyy meets US envoys
-Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.
+## Iran threatens unlimited response over Strait of Hormuz after US attack
+Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.
 
-## Trump moots toppling Cuba authorities before leaving office
-Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.
+## Henry and Young shine as New Zealand thrash India by 244 runs
+New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.
 
-## After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects
-Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.
+## Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?
+The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.
 
-## Albania’s PM says 2027 NATO summit will not be held in Tirana
-Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.
+## Russia and Ukraine report overnight attacks amid US diplomatic push
+Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.
 
-## Iran war live: Trump says Gulf allies urged pause in Iran strikes
-Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.
+## With every rainfall, Gaza risks losing access to power and healthcare
+Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.
 
-## Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
-Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
+## Microsoft hit by global outages: What happened and why?
+Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.
+
+## The Rising Cost of Cyberattacks
+The rapid expansion of partnerships between banks, NBFCs and fintech companies has widened this exposure. Lenders increasingly depend on outside technology providers for customer acquisition, loan processing, payments and disbursements. These arrangements have made financial services more convenient
+
+## Nvidia names CFO Colette Kress interim CEO after Jensen Huang quits amid national security concerns
+Nvidia's CEO Jensen Huang resigned following an extramarital affair that caused national security concerns. The company appointed Colette Kress as the interim CEO while the board addressed the scandal. Huang's relationship with a suspected Chinese government agent intensified scrutiny, and shares of
 
 ## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
 Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
@@ -263,12 +272,6 @@ Countries are likely to debate the financial obligations developing nations clai
 
 ## Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan
 India's economy is expected to grow at a faster pace in the coming year, supported by strong macroeconomic fundamentals and a renewed interest from foreign investors in domestic markets, said Ashishkumar Chauhan, Managing Director and CEO of the National Stock Exchange (NSE).
-
-## Diwali: A Festive Demand Barometer For The Economy
-Economists, financial analysts and policymakers will be watching this Diwali closely. The absence of last year's additional GST stimulus makes the season an interesting test of underlying consumption demand.
-
-## SEBI revisits startup listing rules after IGP fails to gain traction
-18-member panel to examine eligibility, fundraising and investor norms for pre-revenue, deep-tech and intellectual property-led enterprises.
 
 ## RBI plans to ban private equity firms from holding controlling stakes in multiple NBFCs: What will change?
 The Reserve Bank of India is contemplating a ban on private equity firms holding majority stakes in multiple non-banking financial companies. The planned regulations aim to distinguish between controlling stakes and smaller investments, with the latter facing less scrutiny. Growing foreign investmen
