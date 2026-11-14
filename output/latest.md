@@ -1,61 +1,73 @@
 # AION Intelligence
 
-## US aviation regulator grounds all departing flights
-Airports across the country ordered by Federal Aviation Administration to halt all take-offs
+## Milburn review to call for tens of thousands of further education places
+Plan to be targeted at under-25-year-olds who are not in education, employment or training and could cost more than £1bn a year
 
-## Reform UK pays for Nigel Farage’s security despite £5mn gift
-Party leader had claimed that undeclared donation from crypto billionaire was needed to ensure his protection
+## BoE chief economist says further rate rises needed to combat inflation
+Huw Pill calls last week’s quarter-point increase to 4% a ‘significant step’ but that there was ‘further to go’ with borrowing costs
 
-## US military responds to ‘suspicious drone activity’ at UK air base
-RAF Lakenheath incident is fourth recent security alert related to a UK air base being used by the American military
+## Italy rebuffs German bid to enter joint fighter jet project
+Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme
 
-## US Treasuries record worst week since Trump’s ‘liberation day’
-Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over
+## A Vinted ban would sell young entrepreneurs short
+Selling online is a great opportunity for teens to learn, earn and spend their money
 
-## Amazon revives deal with troubled data centre venture backed by Rick Perry
-Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south
+## Does your child have a side hustle?
+Enterprising young people are coming up with smart moneymaking ideas. FT Money wants to hear about them
 
-## Microsoft says services experiencing ‘broad recovery’ after global outage
-German government says it ‘anticipates a very big impact’ on economy
+## China’s beaten-down tech stocks could offer AI with a little less drama
+Opportunities in China lie as much in the picks and shovels of the AI supply chain
 
-## US securities watchdog plans to loosen rules for executive pay disclosure
-Only CEOs and CFOs would be required to disclose pay packages under Securities and Exchange Commission’s proposal
+## Nvidia’s cult of personality was bound to end badly
+It is worth paying attention to the warning signs of corporate hubris — they often mean something bad is about to happen
 
-## Global oil markets swing to surplus as Gulf shipments rebound
-IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war
+## Where jazz goes to church
+For a decade, an east London church has hosted some of the world’s most adventurous jazz musicians. Now Church of Sound is taking its worship to the Barbican for this week’s London Jazz Festival
 
-## Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO
-AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing
+## Hedge fund woes expose the dangers of hot money once again
+Recent stumbles have come about as a result of the pursuit of heady growth without the risk management capability and structures to deal with it
 
-## Microsoft outage exposes global reliance on core tech providers
-Impact of global incident affects users ranging from banks and governments to county sheriffs and pharmacies
+## The Nvidia board’s artificial independence
+Bored of governance
 
-## Stockpickers: Fuller, Smith & Turner, Dialight, Vodafone
-Our experts discuss which companies to buy, sell or hold this week
+## UK housing wealth owned by over-65s tops £2.25tn
+Research shows how ‘boomer’ property owners have benefited from an exceptional stretch of house price growth — underlining the UK’s generational divide
 
-## US grounds all flights nationwide after air traffic control communication outage
-Airlines faced widespread disruption as authorities investigated a telecommunications failure affecting air traffic control centres across the United States.
+## Old air traffic control equipment regularly disrupts US flights
+The FAA grounded all U.S. departures after an ATC communications outage. Airlines canceled over 1,000 flights and delayed nearly 10,000, FlightAware says
 
-## Yes Bank moves Supreme Court to review ruling on ₹8,415-crore AT-1 bond write-off
-The lender’s latest move follows a contempt petition by bondholders seeking a concrete roadmap to restore the written-off bonds
+## Q2 Results Today Live: Ashok Leyland, PTC Industries, Kaynes Tech, Brainbees Solutions, Hero Motors Share to announce Q2 results
+Q2 Results 14th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
 
-## How India Inc navigated the Friday the 13th Microsoft outage
-Corporate India turned to Teams and WhatsApp as Outlook went dark; MSMEs reported hiccups while workers enjoyed an inbox-free day and welcomed weekend early.
+## Microsoft says consumer products services recovered; still monitoring enterprise services
+“Due to ‌the severity of impact this incident caused, we’re monitoring for an extended period to ‌ensure no additional mitigative actions ​are required,” Microsoft said
 
-## Jewellery companies rush to market for growth capital as demand booms
-Some of these companies waiting to tap the market are B2B manufacturers who supply to big brands and they need huge working capital requirements
+## Tesla starts taking cybercab orders from select customers
+Cybercab will be available via limited release in supported service areas, the company announced Friday on X
 
-## Sensex, Nifty edge down on profit taking, inflation worries
-Despite today’s loss, Indian stocks close the week on strong note, as FPIs remain buying spree
+## Pricol promoters to sell entire stake in demerged connected vehicle business to Warburg Pincus
+The proposed transaction follows the planned demerger of Pricol’s driver information and connected vehicle solutions business into a separate listed entity
 
-## Tata Motors PV posts ₹5,451-crore Q2 consolidated loss on JLR restructuring charges
-The management expects the company to end FY27 with double-digit growth of around 12-13 per cent
+## Softbank further trims India exposure, offloads Meesho shares worth ₹1,885 cr
+SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Meesho, according to the block deal data on the National Stock Exchange (NSE)
 
-## India’s exports hit record $90 billion in October, but merchandise trade deficit widens
-Higher festival-season demand and oil prices pushed up imports, even as market diversification and new trade deals supported export growth.
+## What we know after Jensen Huang resigns as Nvidia CEO
+Colette Kress — who has been Nvidia's chief financial officer and executive vice president since 2013 — will step into the role of interim CEO
 
-## Microsoft races to restore systems as outage disrupts work globally
-Company rules out cyberattack, businesses turn to alternative channels to cope
+## Delhi's AQI settles at 348 in very poor category, likely to worsen
+AQI at 9 am was 348 (very poor), vs 24-hour average of 373 at 4 pm on Friday, per CPCB
+
+## Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?
+Jensen Huang is expected to lose $108 million in unvested stock awards following his exit from Nvidia. His net worth, primarily composed of Nvidia shares, is around $144.5 billion. Huang's holdings include approximately 812 million shares, valued at about $135 billion. Despite this wealth, he has so
+
+## Office boy faces Rs 1.46 crore tax demand, alleges KYC misuse; why ITAT ruled in his favour
+The Income Tax Department initiated reassessment proceedings against a man after receiving information about transactions associated with a pharma company, described in the information available to the tax authorities as the man’s proprietary concern. The bank account records showed debit entries of
+
+## Nvidia spy scandal: What Jensen Huang told top officials about relationship with Alice
+Former Nvidia CEO Jensen Huang has come under fire for misleading his top executives about an affair with Alice Huang. He characterized their ties as ordinary business dealings, not an intimate relationship. As accusations of Alice spying for China surfaced, Nvidia's board has initiated an investiga
+
+## US flight disruption: Air India flags possible delays to US-bound services
+Travelers on Air India flights faced significant delays due to a nationwide communication failure that affected the FAA, leading to a temporary ground halt of all flight departures across the U.S. Although the ground stop has since been lifted, passengers should brace for ongoing disruptions as the 
 
 ## 27.1% to 2.6%: India sees one of world’s fastest poverty declines, but there’s a catch
 The World Bank currently defines the international extreme poverty line at $3.00 per person per day in 2021 purchasing power parity (PPP) terms. According to the World Poverty Clock, extreme poverty may be considered eliminated when the poverty headcount ratio falls below 3%. With the World Bank est
@@ -69,41 +81,29 @@ The new Yesvantpur-Madgaon Vande Bharat Express has been introduced to improve r
 ## Paytm gets RBI prelim nod to operate wallets; shares surge to 52-week high
 Paytm's payment segment has secured initial approval from the Reserve Bank of India for its prepaid payment instruments. This milestone has propelled One 97 Communications' stock to soar past the Rs 1,900 mark, reflecting strong market performance. Analysts predict robust revenue growth stemming fro
 
-## India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows
-India's export growth shot up by almost 30 percent year-on-year, reaching close to $90 billion in October 2026. Merchandise exports accounted for a significant $49.47 billion, marking a record high for monthly goods. Though imports also climbed, resulting in a trade deficit of $39.88 billion, the se
+## Woman beaten to death in Delhi's Burari after she objected to being touched
+According to the police, the incident took place on the night of November 7, and the woman's body was found near a vacant plot on November 8 in the Burari area.
 
-## Taxpayer faces Rs 1.41 lakh demand over tax regime error; why ITAT ruled for old
-The case concerns a man’s income tax return for assessment year 2025-26. The taxpayer had opted for the new income tax regime in the preceding assessment year, 2024-25. On August 31, 2025, when he filed Form 10-IEA he opted out of the new regime and was taxed under the old income regime.
+## Second phase of Census 2027 to commence on January 25 in Tripura
+Second phase of Census 2027 to commence on January 25 in Tripura
 
-## Russia's diesel exports jump 100% after Trump lifts sanctions; US gets no shipments
-In October, Russia significantly increased its diesel exports following an agreement between Trump and Putin aimed at boosting global supplies. However, U.S. markets have not seen any additional shipments due to concerns over sanctions and buyer reluctance. Most of the diesel was redirected to Brazi
+## Over 70,000 books from two publishers to be removed from TN public libraries
+Over 70,000 books from two publishers to be removed from TN public libraries
 
-## OMCs continue to face petrol, diesel losses despite easing crude prices: Jefferies
-Oil marketing companies are currently facing losses on petrol and diesel sales, although these losses have recently decreased. Marketing losses on petrol have fallen to Rs 12 per litre and Rs 27 per litre for diesel. A decline in the Indian crude basket price has contributed to this improvement. Glo
+## AI bubble will break; India should be worried: Economist Joseph E Stiglitz at HT Leadership Summit
+Nobel laureate and economist Joseph E Stiglitz said at HT Leadership Summit on Saturday that the AI investment bubble will break.
 
-## NHRC notice to education ministry over complaint related to 'Veer Baal Diwas' events in schools
-NHRC notice to education ministry over complaint related to 'Veer Baal Diwas' events in schools
+## India can keep growing at 7% if it curbs inequality, boosts demand: Stiglitz at HTLS 2026
+Stiglitz called for heavy public investment in infrastructure and education, and warned that climate change and AI would test the country hard.
 
-## ‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam
-The truck's dashcam footage, which has emerged following the accident, has captured the final moments before the collision.
+## Maharashtra FDA suspends licenses of 2 iconic eateries in Pune over food safety violations
+According to FDA officials, the action was taken under the ‘Safe Food, Safe Maharashtra’ campaign initiated by FDA commissioner Tukaram Mundhe.
 
-## President, PM condole Assam accident; Modi announces ₹2 lakh ex-gratia for each deceased
-At least 26 people died, including women and minors, and 20 others were injured in the accident near Kaziranga National Park in Assam on Friday.
+## Chips, AI, and factories: Jaishankar’s blueprint to navigate unpredictable world
+Jaishankar said domestic economic initiatives such as Atmanirbhar Bharat, were not merely economic policies, but "the building blocks of a foreign policy.”
 
-## Navy chief urges Agniveers to aim for full-term service
-Navy chief Admiral Krishna Swaminathan urged the latest batch of Agniveers to work towards a permanent career under the revamped Agnipath scheme.
-
-## Faridabad: Cop's son fires gunshots in road rage; two injured
-One person received a gunshot wound in the neck, and the other in his chest. Both are under treatment at a hospital in Sector-21 A.
-
-## Two Tamil Nadu traders arrested over alleged diversion of 11,000 litres of Sabarimala ghee
-Two traders from Tamil Nadu were arrested for allegedly buying 11,000 litres of ghee diverted from official Milma consignments meant for Sabarimala.
-
-## Kerala seafarer stranded in Iran for a year gets emergency travel document to return home
-The Kerala seafarer has been stranded in Iran since 2025 after his passport and Continuous Discharge Certificate went missing from his vessel.
-
-## Centre unlikely to clear Punjab CM Bhagwant Mann’s Lahore conference trip
-The Centre is unlikely to clear Punjab CM Bhagwant Mann’s proposed Pakistan visit for the International Punjabi Conference in Lahore from November 27 to 29.
+## HT Leadership Summit: Economist Joseph E Stiglitz questions value of trade deals with Trump’s US
+Nobel laureate economist Joseph E Stiglitz said Trump “just doesn’t understand what to do”, citing coffee taxation
 
 ## Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet
 Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted at the event last year. The Chinese toymaker’s global ascent has stalled badly a
@@ -225,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FAA grounds all fights across the US over ‘telecommunication outage’
-The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.
+## Siege fuels disease fears in Yemen’s Taiz
+Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.
 
-## Rescue efforts under way after tanker strikes river cruise boat in US
-American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.
+## Could one daily pill narrow the diabetes treatment gap in the Global South?
+Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.
 
-## LIVE: FAA issues nationwide ground stop after communications outage in US
-US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
+## Goalkeeper Owono handed 12-match ban after De Miguel death
+Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.
 
-## FAA grounds US flights nationwide after ‘communication issue’
-US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.
+## Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign
+People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?
 
-## Pope Leo cheered on return to Peru city where he served as bishop
-An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
+## FAA ground stop disrupts NBA, NHL and college football weekend travel
+More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.
 
-## Qatar and Turkiye send message of deterrence with new defence pact
-Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.
+## Trump, Xi and Putin to hold first three-way summit in China
+White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.
 
-## Australia captain Cummins denies involvement in ‘Sandpapergate’
-Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering
+## Lagos Art Week confronts history, identity and belonging
+ART X Lagos celebrates Africa's heritage and contemporary creativity.
 
-## Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo
-The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.
+## German spies granted sweeping new powers
+Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.
+
+## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
+Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
 
 ## The Rising Cost of Cyberattacks
 The rapid expansion of partnerships between banks, NBFCs and fintech companies has widened this exposure. Lenders increasingly depend on outside technology providers for customer acquisition, loan processing, payments and disbursements. These arrangements have made financial services more convenient
@@ -269,9 +272,6 @@ As enterprises increasingly utilize autonomous AI, they face legal and regulator
 
 ## Climate finance, trade likely to be on COP31 table
 Countries are likely to debate the financial obligations developing nations claim from developed nations for climate adaptation. The African Group wants to include finance assessments in the agenda to support the Green Climate Fund.
-
-## Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan
-India's economy is expected to grow at a faster pace in the coming year, supported by strong macroeconomic fundamentals and a renewed interest from foreign investors in domestic markets, said Ashishkumar Chauhan, Managing Director and CEO of the National Stock Exchange (NSE).
 
 ## RBI plans to ban private equity firms from holding controlling stakes in multiple NBFCs: What will change?
 The Reserve Bank of India is contemplating a ban on private equity firms holding majority stakes in multiple non-banking financial companies. The planned regulations aim to distinguish between controlling stakes and smaller investments, with the latter facing less scrutiny. Growing foreign investmen
