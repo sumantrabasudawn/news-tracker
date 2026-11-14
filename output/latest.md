@@ -1,40 +1,40 @@
 # AION Intelligence
 
-## Microsoft says services experiencing ‘broad recovery’ after global outage
-German government says it ‘anticipates a very big impact’ on economy
+## US aviation regulator grounds all departing flights
+Airports across the country ordered by Federal Aviation Administration to halt all take-offs
 
 ## Reform UK pays for Nigel Farage’s security despite £5mn gift
 Party leader had claimed that undeclared donation from crypto billionaire was needed to ensure his protection
 
-## Moscow tells Europe to pick an envoy if it wants a seat at the table
-EU top diplomat Kaja Kallas says Vladimir Putin does not want to talk to her because she is ‘strong’
+## US military responds to ‘suspicious drone activity’ at UK air base
+RAF Lakenheath incident is fourth recent security alert related to a UK air base being used by the American military
 
-## Arm boss Rene Haas approached in Nvidia CEO search
-Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs
+## US Treasuries record worst week since Trump’s ‘liberation day’
+Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over
+
+## Amazon revives deal with troubled data centre venture backed by Rick Perry
+Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south
+
+## Microsoft says services experiencing ‘broad recovery’ after global outage
+German government says it ‘anticipates a very big impact’ on economy
+
+## US securities watchdog plans to loosen rules for executive pay disclosure
+Only CEOs and CFOs would be required to disclose pay packages under Securities and Exchange Commission’s proposal
 
 ## Global oil markets swing to surplus as Gulf shipments rebound
 IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war
 
-## US Treasuries set for worst week since Trump’s ‘liberation day’
-Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over
+## Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO
+AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing
 
-## Scott Colom: the Democrat who conquered the reddest of red states
-High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881
-
-## Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed
-Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal
+## Microsoft outage exposes global reliance on core tech providers
+Impact of global incident affects users ranging from banks and governments to county sheriffs and pharmacies
 
 ## Stockpickers: Fuller, Smith & Turner, Dialight, Vodafone
 Our experts discuss which companies to buy, sell or hold this week
 
-## Tiny London quant fund emerges as one of the UK’s biggest corporate taxpayers
-Quadrature Capital made a £4mn donation to the Labour Party ahead of the last general election and backs anti-poverty and climate change initiatives
-
-## Three tremors have shaken AI
-Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions
-
-## German coalition disagreements hold up ECB jobs deal
-Chancellor and his finance minister have yet to agree on a candidate for one of three central bank executive board vacancies
+## US grounds all flights nationwide after air traffic control communication outage
+Airlines faced widespread disruption as authorities investigated a telecommunications failure affecting air traffic control centres across the United States.
 
 ## Yes Bank moves Supreme Court to review ruling on ₹8,415-crore AT-1 bond write-off
 The lender’s latest move follows a contempt petition by bondholders seeking a concrete roadmap to restore the written-off bonds
@@ -56,9 +56,6 @@ Higher festival-season demand and oil prices pushed up imports, even as market d
 
 ## Microsoft races to restore systems as outage disrupts work globally
 Company rules out cyberattack, businesses turn to alternative channels to cope
-
-## Passenger vehicle dispatches record highest-ever for any October this year: SIAM
-Two-wheeler and three-wheeler sales also report positive growths in October 2026 on y-o-y basis
 
 ## 27.1% to 2.6%: India sees one of world’s fastest poverty declines, but there’s a catch
 The World Bank currently defines the international extreme poverty line at $3.00 per person per day in 2021 purchasing power parity (PPP) terms. According to the World Poverty Clock, extreme poverty may be considered eliminated when the poverty headcount ratio falls below 3%. With the World Bank est
@@ -84,6 +81,9 @@ In October, Russia significantly increased its diesel exports following an agree
 ## OMCs continue to face petrol, diesel losses despite easing crude prices: Jefferies
 Oil marketing companies are currently facing losses on petrol and diesel sales, although these losses have recently decreased. Marketing losses on petrol have fallen to Rs 12 per litre and Rs 27 per litre for diesel. A decline in the Indian crude basket price has contributed to this improvement. Glo
 
+## NHRC notice to education ministry over complaint related to 'Veer Baal Diwas' events in schools
+NHRC notice to education ministry over complaint related to 'Veer Baal Diwas' events in schools
+
 ## ‘Vehicle overloaded, running at 100 km/h, crossed into wrong lane’: Survivors of deadly bus-truck collision in Assam
 The truck's dashcam footage, which has emerged following the accident, has captured the final moments before the collision.
 
@@ -105,8 +105,8 @@ The Kerala seafarer has been stranded in Iran since 2025 after his passport and 
 ## Centre unlikely to clear Punjab CM Bhagwant Mann’s Lahore conference trip
 The Centre is unlikely to clear Punjab CM Bhagwant Mann’s proposed Pakistan visit for the International Punjabi Conference in Lahore from November 27 to 29.
 
-## Mahadev online betting case: ED arrests co-promoter Saurabh Chandrakar, gets 7-day custody
-The ED arrested Mahadev betting app co-promoter Saurabh Chandrakar in a money laundering case and secured seven days of custody to question him.
+## Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet
+Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted at the event last year. The Chinese toymaker’s global ascent has stalled badly a
 
 ## China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts
 China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though they expect broader US-China trade talks to remain on track ahead of a planned meeting between the two countries’ leaders next week. F
@@ -129,56 +129,53 @@ China’s Semiconductor Manufacturing International Corporation (SMIC) is bettin
 ## Mainland China stock sentiment turns bearish again, Morgan Stanley indicator shows
 Investor sentiment has weakened again, with a gauge of mainland Chinese stock market sentiment tracked by Morgan Stanley falling back into bearish territory, prompting the investment bank to maintain a cautious outlook on the broader market. The weighted Morgan Stanley A-Share Sentiment Indicator fe
 
-## Hong Kong businesses have scope to put cash flow to work to propel growth, expert says
-Hong Kong’s economy is showing resilience, with real gross domestic product (GDP) growing 5.1 per cent year on year in the first half of 2026. For businesses, that momentum brings opportunities alongside the need to navigate a landscape of uneven growth. “We see the growth concentrated in a few sect
+## The EU’s First AI Summit
+Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
+
+## Realism Was Forged in Trauma
+A new biography explores the intimate origins of Hans Morgenthau’s hard-boiled worldview.
+
+## The Journalists Who Left Russia—But Can’t Escape It
+An intimate documentary follows a group of exiles determined to tell their country the truth.
+
+## What Jensen Huang’s Fall Means for U.S.-China Relations
+The Nvidia scandal could upend a fragile consensus in Washington.
+
+## How Lebanon Became the Middle East’s Battleground
+A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.
+
+## Nvidia, Spies, and the Art of Economic Espionage
+Why the tech elite seems to be particularly susceptible.
+
+## Will German Rearmament Save Europe?
+The promise and pitfalls of a newly militarized Germany.
 
 ## What in the World?
 Test yourself on the week of Nov. 7: COP31 kicks off in Turkey, Pope Leo visits South America, and Jensen Huang resigns.
 
-## Congress Can Do More to Defend U.S. Alliances
-It should start by expanding defense industrial cooperation and checking Trump’s attempts at coercion.
+## Trump and Xi Can Reopen Trade. But for Whom?
+The narrative of easing trade tensions doesn’t tell us who reaps the benefits of these developments at the company level.
 
-## Pope Leo’s South America Tour
-The pontiff’s trip is as much about politics as religion.
+## Will AI Change North Korea’s Nuclear Calculus?
+Nuclear stability requires mutual vulnerability. Artificial general intelligence could upset asymmetric deterrence equilibria, especially vis-à-vis Pyongyang.
 
-## Lame-Duck Trump Heads to Asia
-The U.S. president will visit the Philippines and China fresh off his party’s midterm defeat.
+## North Korea’s Last Defectors
+Fewer people are making it out of North Korea. That allows Kim Jong Un to exert more control over his country’s image abroad.
 
-## Hegseth’s Troubles Are Far From Over
-The Pentagon chief dodged impeachment, but his future remains uncertain.
+## South Korea’s Options in a Fragmented World
+Seoul would be an attractive addition to several different international groupings – but joining one could mean locking South Korea out of others.
 
-## Huang Out at Nvidia
-The U.S. chipmaker’s CEO has resigned over an affair with an alleged Chinese spy.
+## Japan Needs Muslim Workers. Is It Ready for Muslim Communities?
+Tensions will flare up when cherished social institutions need to change to accommodate nonnegotiable religious needs. But they must start, even if it is only with a hijab or a burial.
 
-## Russia’s Cheapest Weapon in Its Hybrid War Is Fear
-As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.
+## NATO Is Not the Right Forum to Discuss China
+No matter how strange and exaggerated NATO finds the Chinese perspective on the alliance, the organization should consider addressing Beijing’s concerns.
 
-## U.S.-China Investments Can Still Work for Americans
-Reshaping a globally competitive auto industry needs a hard rethink on deals.
+## Japan’s AZEC and POWERR Asia Are Failing Southeast Asia
+Tokyo has every right to defend its own trade networks. But it has no right to dress up its domestic fossil fuel strategy as a regional partnership for decarbonization and energy security.
 
-## What the ‘Blue Tsunami’ Means for Southeast Asia’s Economies
-Will the final two years of U.S. President Donald Trump's term see a milder and more constrained foreign policy – or more of the same?
-
-## Indonesia, Thailand, Philippines to Establish Joint Emergency Fuel Stockpiles
-The Japan-backed scheme will create a ticket system for emergency fuel reserves similar to that used in the European Union.
-
-## Under Two Years, One Record-Breaking Olympiad: The Rise of Yamoratti Advertising
-Founded in 2025, Yamoratti Advertising now runs campaigns from London to Paris to Central Asia — and took the story of the biggest Chess Olympiad ever held to a global audience. Inside one of London’s fast-growing agencies, and the founder setting the pace.
-
-## China’s Drone Carrier Swarms Ahead
-Beijing is at the forefront of developing drone carriers as combat platforms, especially compared to the United States. But will that translate into a combat advantage?
-
-## The “Black Kasumigaseki” Saga
-Attitudes to working conditions have changed in Japan. The government is finally catching up.
-
-## Chips, Cheats, and China: The Nvidia Espionage Scandal
-A deep dive into the implications of Jensen Huang's affair, Alice Huang’s business dealings, and the fallout for both the China-U.S. trade war and the AI race.
-
-## Between Russia and Ukraine: India’s Foray as a Peacemaker
-New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is concerned, India enjoys little leverage over Russia’s decisions.
-
-## Pakistan’s Elites Enjoy Global Travel While Ordinary Citizens Face Restrictions
-The Pakistani passport is one of the weakest in the world. No wonder, then, that Pakistan’s elites are changing rules to expand their access to official passports.
+## Japan and the US Need an Allied Technology Market, Not New Tariffs
+Tokyo and Washington have strong economic and strategic incentives to build an allied market for advanced robotics and industrial automation.
 
 ## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
 Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
@@ -228,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran honours fallen soldiers in Iran-Iraq war with missile display
-Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.
+## FAA grounds all fights across the US over ‘telecommunication outage’
+The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.
 
-## Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis
-Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.
+## Rescue efforts under way after tanker strikes river cruise boat in US
+American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.
 
-## No emails, no problem? Workers joke about Microsoft outage
-Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.
+## LIVE: FAA issues nationwide ground stop after communications outage in US
+US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
 
-## The fight over Canadian steelworker jobs
-Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.
+## FAA grounds US flights nationwide after ‘communication issue’
+US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’.
 
-## Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser
-Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.
+## Pope Leo cheered on return to Peru city where he served as bishop
+An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
 
-## Jerusalem Daily: Baby dies from cold in Gaza
-A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.
+## Qatar and Turkiye send message of deterrence with new defence pact
+Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.
 
-## Sixth victim confirmed in DC condo-related shooting in US, police say
-Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.
+## Australia captain Cummins denies involvement in ‘Sandpapergate’
+Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering
 
-## US Treasury warns against rate hikes during US-Iran war energy ‘shock’
-Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.
+## Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo
+The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.
 
 ## The Rising Cost of Cyberattacks
 The rapid expansion of partnerships between banks, NBFCs and fintech companies has widened this exposure. Lenders increasingly depend on outside technology providers for customer acquisition, loan processing, payments and disbursements. These arrangements have made financial services more convenient
