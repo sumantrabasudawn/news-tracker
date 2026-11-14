@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## SpaceX catches returning Starship rocket in breakthrough for Musk
+Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars
+
 ## How Trump’s midterm gerrymandering flopped
 Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes
 
@@ -21,9 +24,6 @@ Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-genera
 ## Chart of the Week: The great market rotation
 Defensive sectors are the new winners
 
-## Hawkward timing
-Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data
-
 ## Passengers face widespread disruption after US air traffic control outage
 Thousands of flights delayed or cancelled as political blame game mounts
 
@@ -38,9 +38,6 @@ Recent stumbles have come about as a result of the pursuit of heady growth witho
 
 ## A Vinted ban would sell young entrepreneurs short
 Selling online is a great opportunity for teens to learn, earn and spend their money
-
-## The Nvidia board’s artificial independence
-Bored of governance
 
 ## UltraTech Cement: Volume expansion to continue
 Margin improvement likely from decreased input price volatility and higher demand
@@ -66,6 +63,12 @@ Huang’s sudden exit from Nvidia highlights the risks of companies becoming ove
 ## Bandu’s Blockbusters for November 15, 2026
 Guess the stock that will give the best return by next Friday
 
+## Strong economy drives NH toll to record Rs 6,640 crore in October
+
+
+## Listing will change Tata way, put profit above philanthropy: Noel
+Noel Tata has expressed strong opposition to the potential listing of Tata Sons on public markets. He believes such a move may compromise the group's long-standing commitment to philanthropy over profit. Some trustees argue that listing could enhance governance and transparency while supporting char
+
 ## Indians ditch gold for gemstones as sales jump 40%; stones cost Rs 5 lakh
 The growing preference for premium coloured gemstones as against gold is also translating into higher prices. Paraiba tourmalines, among the rarest gemstones, sell for around Rs 5 lakh per carat in India. Demand for these stones is particularly strong among high-net-worth buyers in Mumbai, followed 
 
@@ -83,12 +86,6 @@ The Income Tax Assessing Officer (AO) in Berhampur received information from the
 
 ## Binance restores withdrawals across 87 networks after record $6.3 billion crypto theft
 After a security breach that resulted in the theft of $6.3 billion, Binance is diligently working to restore withdrawal services across its remaining networks and assets. This week, withdrawals for 87 networks were successfully reopened, with full restoration expected by the end of next week. The co
-
-## Wall Street's next bet: S&P 500 set to climb 14% despite slowing earnings growth - report
-With a positive outlook for Wall Street's revival, Goldman Sachs anticipates the S&P 500 climbing to 8,700 points over the next year, which reflects a potential increase of more than 14% from its current level of 7,592.40. The firm posits that lower stock valuations might lead to favorable returns, 
-
-## US assures India of tariff advantage over rival economies under proposed trade pact
-
 
 ## Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai
 He was subsequently taken into custody by the Keralam police in connection with a case registered in the Thrissur district.
@@ -234,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US blames outdated technology for nationwide flight disruption
-US blames outdated technology for nationwide flight disruption
+## Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League
+Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.
 
-## US blames system upgrade for longest nationwide FAA ground stop since 9/11
-Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.
+## US flights resume after ageing technology blamed for outage
+US flights resume after ageing technology blamed for outage
 
-## Rising costs and arrests fuel protests in Central African Republic
-Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.
+## US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine
+Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.
 
-## US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
-Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.
+## India’s Assam state demolishes homes of 132 Muslim families
+Authorities in India’s Assam have demolished the homes of 132 Muslim families.
 
-## Portugal vs Denmark LIVE: UEFA Nations League
-Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.
+## Can being ‘non-Western’ cost you your home in Denmark?
+Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
 
-## Italy fines Meta $880m over photo privacy
-Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.
+## Deadly car bomb blast kills two near Syria’s capital
+At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.
 
-## Myanmar airstrike kills 12 at displacement camp in Rakhine state
-A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.
+## More than 100,000 rally across France in new Yellow Vest protests
+Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.
 
-## EU calls for immediate humanitarian access to Gaza
-The EU said that “Israel must enable the work of the UN and its agencies" after the group was blocked access into Gaza.
+## Tens of thousands march in latest Portugal housing protests
+These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
