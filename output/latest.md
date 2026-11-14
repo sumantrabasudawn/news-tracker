@@ -1,109 +1,127 @@
 # AION Intelligence
 
-## Milburn review to call for tens of thousands of further education places
-Plan to be targeted at under-25-year-olds who are not in education, employment or training and could cost more than £1bn a year
+## How Trump’s midterm gerrymandering flopped
+Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes
 
-## BoE chief economist says further rate rises needed to combat inflation
-Huw Pill calls last week’s quarter-point increase to 4% a ‘significant step’ but that there was ‘further to go’ with borrowing costs
+## US floats Nato membership for Donbas withdrawal deal, Zelenskyy says
+President says he will take proposal to Ukrainian people as Washington explores terms for ending war
 
-## Italy rebuffs German bid to enter joint fighter jet project
-Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme
+## Argentina’s Milei clashes with his government’s most popular leader
+Tensions between the libertarian president and his senate chief test rightwing unity ahead of 2027 elections
 
-## A Vinted ban would sell young entrepreneurs short
-Selling online is a great opportunity for teens to learn, earn and spend their money
+## Europe Express: opening a security can of worms
+Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage
 
-## Does your child have a side hustle?
-Enterprising young people are coming up with smart moneymaking ideas. FT Money wants to hear about them
+## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall
+Chip group lacks full insurance coverage for damages stemming from the conduct of executives
 
-## China’s beaten-down tech stocks could offer AI with a little less drama
-Opportunities in China lie as much in the picks and shovels of the AI supply chain
+## Germany suffers setback in joining fighter jet project
+Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner
 
-## Nvidia’s cult of personality was bound to end badly
-It is worth paying attention to the warning signs of corporate hubris — they often mean something bad is about to happen
+## Chart of the Week: The great market rotation
+Defensive sectors are the new winners
 
-## Where jazz goes to church
-For a decade, an east London church has hosted some of the world’s most adventurous jazz musicians. Now Church of Sound is taking its worship to the Barbican for this week’s London Jazz Festival
+## Hawkward timing
+Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data
+
+## Passengers face widespread disruption after US air traffic control outage
+Thousands of flights set to be delayed or cancelled over the weekend
+
+## Makers of obesity drugs hit back at claims of negative side effects
+Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition
+
+## Manchester United: a fate worse than debt
+Also in today’s newsletter: a big shake-up in US college sport angers fans
 
 ## Hedge fund woes expose the dangers of hot money once again
 Recent stumbles have come about as a result of the pursuit of heady growth without the risk management capability and structures to deal with it
 
+## A Vinted ban would sell young entrepreneurs short
+Selling online is a great opportunity for teens to learn, earn and spend their money
+
 ## The Nvidia board’s artificial independence
 Bored of governance
 
-## UK housing wealth owned by over-65s tops £2.25tn
-Research shows how ‘boomer’ property owners have benefited from an exceptional stretch of house price growth — underlining the UK’s generational divide
+## Saudi Water Authority cancels Va Tech Wabag’s 300 MLD desalination project in Yanbu
+Wabag said it is in the process of approaching the customer to understand the reason in better detail and the next course of action
 
-## Old air traffic control equipment regularly disrupts US flights
-The FAA grounded all U.S. departures after an ATC communications outage. Airlines canceled over 1,000 flights and delayed nearly 10,000, FlightAware says
+## Asia Pacific airlines seek govt support to mitigate cost pressures
+Costs remain elevated on a year-on-year basis even as crude oil price dropped below the $90 per barrel mark briefly earlier this week
 
-## Q2 Results Today Live: Ashok Leyland, PTC Industries, Kaynes Tech, Brainbees Solutions, Hero Motors Share to announce Q2 results
+## Sun PhuQuoc Airways to launch India operations with direct Ahmedabad flight to Vietnam’s largest island
+Sun PhuQuoc Airways to deploy brand-new Airbus A321neo aircraft, with a capacity of around 230 passengers, on the route
+
+## Rahul Gandhi launches Telangana gig workers’ welfare scheme
+Companies deposit 1% of transaction value to fund ₹5 lakh in accident and ₹10 lakh in health insurance
+
+## India’s renewable energy sector attracts $5.3 billion in July-September
+India is moving toward a $500 billion clean-energy push by 2030 and cements its status as a global renewables hub amid record-low generation costs
+
+## Q2 Results Today Live: Ashok Leyland, PTC Industries, Kaynes Tech, Brainbees Solutions, Hero Motors to announce Q2 results
 Q2 Results 14th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
 
-## Microsoft says consumer products services recovered; still monitoring enterprise services
-“Due to ‌the severity of impact this incident caused, we’re monitoring for an extended period to ‌ensure no additional mitigative actions ​are required,” Microsoft said
+## Sammaan Capital logs 24% increase in Q2FY27 standalone net profit at ₹342 cr
+Recorda net interest loss of ₹92 crore in Q2FY27 against a net interest income of ₹155 crore in Q2FY26
 
-## Tesla starts taking cybercab orders from select customers
-Cybercab will be available via limited release in supported service areas, the company announced Friday on X
+## Bulk of issues resolved, India-US trade pact approaching 'finishing line': Jaishankar
+India and the US have been engaged in talks since early 2025 on the proposed trade pact
 
-## Pricol promoters to sell entire stake in demerged connected vehicle business to Warburg Pincus
-The proposed transaction follows the planned demerger of Pricol’s driver information and connected vehicle solutions business into a separate listed entity
-
-## Softbank further trims India exposure, offloads Meesho shares worth ₹1,885 cr
-SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Meesho, according to the block deal data on the National Stock Exchange (NSE)
-
-## What we know after Jensen Huang resigns as Nvidia CEO
-Colette Kress — who has been Nvidia's chief financial officer and executive vice president since 2013 — will step into the role of interim CEO
-
-## Delhi's AQI settles at 348 in very poor category, likely to worsen
-AQI at 9 am was 348 (very poor), vs 24-hour average of 373 at 4 pm on Friday, per CPCB
-
-## Jensen Huang's Nvidia exit costs him Rs 900 crore: How much wealth does he have left?
-Jensen Huang is expected to lose $108 million in unvested stock awards following his exit from Nvidia. His net worth, primarily composed of Nvidia shares, is around $144.5 billion. Huang's holdings include approximately 812 million shares, valued at about $135 billion. Despite this wealth, he has so
-
-## Office boy faces Rs 1.46 crore tax demand, alleges KYC misuse; why ITAT ruled in his favour
-The Income Tax Department initiated reassessment proceedings against a man after receiving information about transactions associated with a pharma company, described in the information available to the tax authorities as the man’s proprietary concern. The bank account records showed debit entries of
-
-## Nvidia spy scandal: What Jensen Huang told top officials about relationship with Alice
-Former Nvidia CEO Jensen Huang has come under fire for misleading his top executives about an affair with Alice Huang. He characterized their ties as ordinary business dealings, not an intimate relationship. As accusations of Alice spying for China surfaced, Nvidia's board has initiated an investiga
-
-## US flight disruption: Air India flags possible delays to US-bound services
-Travelers on Air India flights faced significant delays due to a nationwide communication failure that affected the FAA, leading to a temporary ground halt of all flight departures across the U.S. Although the ground stop has since been lifted, passengers should brace for ongoing disruptions as the 
-
-## 27.1% to 2.6%: India sees one of world’s fastest poverty declines, but there’s a catch
-The World Bank currently defines the international extreme poverty line at $3.00 per person per day in 2021 purchasing power parity (PPP) terms. According to the World Poverty Clock, extreme poverty may be considered eliminated when the poverty headcount ratio falls below 3%. With the World Bank est
-
-## 'Will be resolved very soon': India on Scotch imports from UK amid bulk shipments held at ports
+## 'Will change the Tata way': Noel warns Tata Sons listing could put profits ahead of philanthropy
 
 
-## Bengaluru-Goa Vande Bharat Express launched: Check schedule, stoppages & other details
-The new Yesvantpur-Madgaon Vande Bharat Express has been introduced to improve rail connectivity between Bengaluru, coastal Karnataka and Goa. The service will provide direct access to several key stations, including Hassan, Sakleshpur, Subrahmanya Road, Mangaluru, Udupi, Kundapura, Murdeshwar, Goka
+## Anthropic IPO draws six times demand, but valuation remains under scrutiny
 
-## Paytm gets RBI prelim nod to operate wallets; shares surge to 52-week high
-Paytm's payment segment has secured initial approval from the Reserve Bank of India for its prepaid payment instruments. This milestone has propelled One 97 Communications' stock to soar past the Rs 1,900 mark, reflecting strong market performance. Analysts predict robust revenue growth stemming fro
 
-## Woman beaten to death in Delhi's Burari after she objected to being touched
-According to the police, the incident took place on the night of November 7, and the woman's body was found near a vacant plot on November 8 in the Burari area.
+## Binance restores withdrawals across 87 networks after record $6.3 billion crypto theft
+After a security breach that resulted in the theft of $6.3 billion, Binance is diligently working to restore withdrawal services across its remaining networks and assets. This week, withdrawals for 87 networks were successfully reopened, with full restoration expected by the end of next week. The co
 
-## Second phase of Census 2027 to commence on January 25 in Tripura
-Second phase of Census 2027 to commence on January 25 in Tripura
+## Wall Street's next bet: S&P 500 set to climb 14% despite slowing earnings growth - report
+With a positive outlook for Wall Street's revival, Goldman Sachs anticipates the S&P 500 climbing to 8,700 points over the next year, which reflects a potential increase of more than 14% from its current level of 7,592.40. The firm posits that lower stock valuations might lead to favorable returns, 
 
-## Over 70,000 books from two publishers to be removed from TN public libraries
-Over 70,000 books from two publishers to be removed from TN public libraries
+## US assures India of tariff advantage over rival economies under proposed trade pact
 
-## AI bubble will break; India should be worried: Economist Joseph E Stiglitz at HT Leadership Summit
-Nobel laureate and economist Joseph E Stiglitz said at HT Leadership Summit on Saturday that the AI investment bubble will break.
 
-## India can keep growing at 7% if it curbs inequality, boosts demand: Stiglitz at HTLS 2026
-Stiglitz called for heavy public investment in infrastructure and education, and warned that climate change and AI would test the country hard.
+## Spam calls: TRAI bars 1.24 lakh telecom resources, disconnects repeat offenders
+TRAI has barred over 1.24 lakh telecom resources from outgoing services due to unsolicited commercial communication violations. During the July-September quarter, it received 15.29 lakh spam complaints, with 7.23 lakh being actionable. The regulator blacklisted 374 senders and blocked 3,725 SMS head
 
-## Maharashtra FDA suspends licenses of 2 iconic eateries in Pune over food safety violations
-According to FDA officials, the action was taken under the ‘Safe Food, Safe Maharashtra’ campaign initiated by FDA commissioner Tukaram Mundhe.
+## Dollar nears 19-month high as inflation fuels bets on bigger Fed rate hike next month
+The US dollar is experiencing its largest weekly gain in two months as expectations for interest rate hikes increase. Strong US inflation data and comments from Federal Reserve officials drive these predictions, which also raise treasury yields. The Japanese yen remains weak and close to its lowest 
 
-## Chips, AI, and factories: Jaishankar’s blueprint to navigate unpredictable world
-Jaishankar said domestic economic initiatives such as Atmanirbhar Bharat, were not merely economic policies, but "the building blocks of a foreign policy.”
+## Why Indian Railways may scrap RAC; two passengers share one berth but pay full fare
+RAC is a train ticket under which two passengers share a single berth even though each is charged the full fare and receives only half the sleeping space. RAC originated at a time when railway reservations were largely processed manually and there was no electronic mechanism to track cancellations a
 
-## HT Leadership Summit: Economist Joseph E Stiglitz questions value of trade deals with Trump’s US
-Nobel laureate economist Joseph E Stiglitz said Trump “just doesn’t understand what to do”, citing coffee taxation
+## Medicine is AI’s real test, and India has a historic opportunity: Siddhartha Mukherjee
+The oncologist said AI will have failed if it does not make medicines faster, cheaper and better
+
+## At least four dead, 30 injured after two buses carrying pilgrims collide in Punjab’s Tarn Taran
+One of the deceased was the driver of a bus, while two pilgrims and a woman riding a motorcycle were also killed in the collision.
+
+## HT Evening News Brief Nov 14: Akhilesh Yadav on Congress’s 181-seat demand ahead of UP polls; Vaibhav Sooryavanshi becomes youngest T20 captain
+Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+
+## Abhishek Banerjee questioned for 4 hours over May 2 ‘Gujarati gang’ remarks against BJP
+Multiple FIRs have been lodged against Banerjee since the BJP came to power in May after sweeping the assembly polls
+
+## HT Exclusive: Noel Tata opposes listing, says profit may take precedence over philanthropy
+Noel Tata said that becoming chairman, after years as a trustee, had been humbling.
+
+## Amid Vidarbha drought, Gadkari pitches for MOIL and WCL mine water use for agricultural purposes
+Amid Vidarbha drought, Gadkari pitches for MOIL and WCL mine water use for agricultural purposes
+
+## Pakistan minister likely to visit India between Nov 20-22 for SCO dialogue
+If Musadik Masood Malik visits India, this could be a Pakistani minister’s first visit to the neighouring country in more than three years.
+
+## US went easy on Pakistan’s military for years, says Blinken at HT Leadership Summit
+Blinken drew a sharp line between the two relationships. India, he said, was a global force, while the relationship with Pakistan “has been regional”.
+
+## Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom
+Many Chinese working professionals are turning to postgraduate degrees jointly offered by local and overseas universities, seeking internationally recognised qualifications and technical skills that can boost their prospects with employers pursuing expansion abroad. More than 200,000 applications we
+
+## China should share its renewable energy expertise
+China is updating a law that has underpinned one of the most remarkable industrial transformations of our time. After two decades of rapid renewable-energy development, China is preparing to rewrite the rules that have guided, supported and guarded its energy revolution. The draft revision to China’
+
+## China’s battery giant CATL faces tough choices after epic US$130b sell-off
+Robin Zeng Yuqun, chairman of the Chinese battery giant Contemporary Amperex Technology Ltd (CATL), has maintained an upbeat image in recent weeks, telling a conference last month that battery storage was becoming “an indispensable new infrastructure for the power system”. But analysts are less opti
 
 ## Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet
 Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted at the event last year. The Chinese toymaker’s global ascent has stalled badly a
@@ -119,15 +137,6 @@ Asian private credit has ample room to expand, with investor demand holding up a
 
 ## Destroy raided documents, Dutch court tells Jaguar Land Rover in IP fight with BYD
 A Dutch court has rendered a ruling in favour of BYD in the Chinese electric vehicle (EV) giant’s dispute with Jaguar Land Rover (JLR) over the British luxury carmaker’s intellectual property (IP) claims. JLR was ordered to destroy documents obtained in a raid of BYD’s Netherlands offices, according
-
-## From Nvidia’s plunge to a life policy record: 5 figures investors are watching
-After US and Asian stocks across the artificial intelligence supply chain tumbled in the wake of last week’s US midterm elections, this week’s headlines zoomed in on US chip giant Nvidia and the eventual resignation of its CEO, Jensen Huang, amid media reports of his alleged extramarital affairs. Be
-
-## China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs
-China’s Semiconductor Manufacturing International Corporation (SMIC) is betting that a relentless data centre buildout will keep artificial intelligence computing power in short supply for the next two years. The bullish forecast comes as scrutiny over former Nvidia CEO Jensen Huang threatens to int
-
-## Mainland China stock sentiment turns bearish again, Morgan Stanley indicator shows
-Investor sentiment has weakened again, with a gauge of mainland Chinese stock market sentiment tracked by Morgan Stanley falling back into bearish territory, prompting the investment bank to maintain a cautious outlook on the broader market. The weighted Morgan Stanley A-Share Sentiment Indicator fe
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -225,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Siege fuels disease fears in Yemen’s Taiz
-Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.
+## How does Iran view shift in US approach after JD Vance ordered away?
+Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working
 
-## Could one daily pill narrow the diabetes treatment gap in the Global South?
-Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.
+## Spain vs England: UEFA Nations League – predictions, how to watch, teams
+Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.
 
-## Goalkeeper Owono handed 12-match ban after De Miguel death
-Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.
+## Russian casualties ‘reach 450,000’: What that means for the Ukraine war
+Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.
 
-## Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign
-People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?
+## Green turtles move from ‘endangered’ to ‘least concern’ status
+Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.
 
-## FAA ground stop disrupts NBA, NHL and college football weekend travel
-More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.
+## How SAF successes in Sudan’s Kordofan could turn tide against the RSF
+The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.
 
-## Trump, Xi and Putin to hold first three-way summit in China
-White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.
+## Ethiopia blames Egypt, Eritrea for Tigray attacks
+Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.
 
-## Lagos Art Week confronts history, identity and belonging
-ART X Lagos celebrates Africa's heritage and contemporary creativity.
+## Trump-Xi-Putin trilateral meeting at APEC: What to expect
+A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.
 
-## German spies granted sweeping new powers
-Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.
+## Three killed in Russia as Ukraine claims US floated NATO membership option
+Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
