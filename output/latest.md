@@ -25,7 +25,7 @@ Defensive sectors are the new winners
 Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data
 
 ## Passengers face widespread disruption after US air traffic control outage
-Thousands of flights set to be delayed or cancelled over the weekend
+Thousands of flights delayed or cancelled as political blame game mounts
 
 ## Makers of obesity drugs hit back at claims of negative side effects
 Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition
@@ -42,29 +42,38 @@ Selling online is a great opportunity for teens to learn, earn and spend their m
 ## The Nvidia board’s artificial independence
 Bored of governance
 
-## Saudi Water Authority cancels Va Tech Wabag’s 300 MLD desalination project in Yanbu
-Wabag said it is in the process of approaching the customer to understand the reason in better detail and the next course of action
+## UltraTech Cement: Volume expansion to continue
+Margin improvement likely from decreased input price volatility and higher demand
 
-## Asia Pacific airlines seek govt support to mitigate cost pressures
-Costs remain elevated on a year-on-year basis even as crude oil price dropped below the $90 per barrel mark briefly earlier this week
+## Kotak Equity Savings Fund: Consistency pays off
+A balanced mix of equity, arbitrage and debt offers moderate risk with attractive return potential
 
-## Sun PhuQuoc Airways to launch India operations with direct Ahmedabad flight to Vietnam’s largest island
-Sun PhuQuoc Airways to deploy brand-new Airbus A321neo aircraft, with a capacity of around 230 passengers, on the route
+## ICICI Life Insurance stock: Is it a good investment now?
+Improving profitability, a widening valuation discount and stronger business fundamentals make current levels attractive for patient investors
 
-## Rahul Gandhi launches Telangana gig workers’ welfare scheme
-Companies deposit 1% of transaction value to fund ₹5 lakh in accident and ₹10 lakh in health insurance
+## Who Am I? November 15, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## India’s renewable energy sector attracts $5.3 billion in July-September
-India is moving toward a $500 billion clean-energy push by 2030 and cements its status as a global renewables hub amid record-low generation costs
+## What they say on their India plans
+Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
 
-## Q2 Results Today Live: Ashok Leyland, PTC Industries, Kaynes Tech, Brainbees Solutions, Hero Motors to announce Q2 results
-Q2 Results 14th November 2026 Highlights: businessline brings you the latest quarterly earnings, outlook and more.
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of JBM Auto, NESCO and Siemens Energy India
 
-## Sammaan Capital logs 24% increase in Q2FY27 standalone net profit at ₹342 cr
-Recorda net interest loss of ₹92 crore in Q2FY27 against a net interest income of ₹155 crore in Q2FY26
+## What Jensen Huang’s Nvidia exit teaches investors
+Huang’s sudden exit from Nvidia highlights the risks of companies becoming overly dependent on individual leaders
 
-## Bulk of issues resolved, India-US trade pact approaching 'finishing line': Jaishankar
-India and the US have been engaged in talks since early 2025 on the proposed trade pact
+## Bandu’s Blockbusters for November 15, 2026
+Guess the stock that will give the best return by next Friday
+
+## Indians ditch gold for gemstones as sales jump 40%; stones cost Rs 5 lakh
+The growing preference for premium coloured gemstones as against gold is also translating into higher prices. Paraiba tourmalines, among the rarest gemstones, sell for around Rs 5 lakh per carat in India. Demand for these stones is particularly strong among high-net-worth buyers in Mumbai, followed 
+
+## Sold commercial units & bought 2 flats, taxman denies Rs 2.5 crore relief on one - what ITAT said
+A man sold six commercial units in Mumbai and the sales generated long-term capital gains of around Rs 5 crore. He claimed a deduction of the same amount under Section 54F after investing in residential property. For this purpose, he purchased two flats in Wing A of a building but on separate floors
+
+## Property seller takes Rs 5.22 lakh cash, faces tax penalty; why ITAT gave relief
+The Income Tax Assessing Officer (AO) in Berhampur received information from the property registrar's office in Jharsuguda that the man had sold a property and collected Rs 5.22 lakh in cash as part of the payment. The registered sale deed also mentioned the cash component. Following this informatio
 
 ## 'Will change the Tata way': Noel warns Tata Sons listing could put profits ahead of philanthropy
 
@@ -81,38 +90,29 @@ With a positive outlook for Wall Street's revival, Goldman Sachs anticipates the
 ## US assures India of tariff advantage over rival economies under proposed trade pact
 
 
-## Spam calls: TRAI bars 1.24 lakh telecom resources, disconnects repeat offenders
-TRAI has barred over 1.24 lakh telecom resources from outgoing services due to unsolicited commercial communication violations. During the July-September quarter, it received 15.29 lakh spam complaints, with 7.23 lakh being actionable. The regulator blacklisted 374 senders and blocked 3,725 SMS head
+## Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai
+He was subsequently taken into custody by the Keralam police in connection with a case registered in the Thrissur district.
 
-## Dollar nears 19-month high as inflation fuels bets on bigger Fed rate hike next month
-The US dollar is experiencing its largest weekly gain in two months as expectations for interest rate hikes increase. Strong US inflation data and comments from Federal Reserve officials drive these predictions, which also raise treasury yields. The Japanese yen remains weak and close to its lowest 
+## Assam CM orders probe into crash that killed 26, vows stricter traffic rules
+Himanta Biswa Sarma visited the accident site on Saturday afternoon and ordered a detailed investigation
 
-## Why Indian Railways may scrap RAC; two passengers share one berth but pay full fare
-RAC is a train ticket under which two passengers share a single berth even though each is charged the full fare and receives only half the sleeping space. RAC originated at a time when railway reservations were largely processed manually and there was no electronic mechanism to track cancellations a
+## Manipur CM chairs security review meeting after killings in Kangpokpi, Ukhrul
+The meeting also discussed measures to further strengthen security arrangements in vulnerable areas of the state
 
-## Medicine is AI’s real test, and India has a historic opportunity: Siddhartha Mukherjee
-The oncologist said AI will have failed if it does not make medicines faster, cheaper and better
+## Darbhanga police find three missing girls hours after forming SIT
+Police had also announced a reward of ₹25,000 for anyone providing credible information leading to their recovery
 
-## At least four dead, 30 injured after two buses carrying pilgrims collide in Punjab’s Tarn Taran
-One of the deceased was the driver of a bus, while two pilgrims and a woman riding a motorcycle were also killed in the collision.
+## ‘Travesty to term it state-inflicted death’: India votes against UN death penalty moratorium
+India objected to linking judicially mandated capital punishment with unlawful executions while speaking on the resolution concerning extrajudicial executions.
 
-## HT Evening News Brief Nov 14: Akhilesh Yadav on Congress’s 181-seat demand ahead of UP polls; Vaibhav Sooryavanshi becomes youngest T20 captain
-Here's a quick recap of the day's top headlines from India, the world and the field of sports and entertainment.
+## Families of slain Special Police Officers seek CBI probe, accountability for security lapses in J&K's Kishtwar
+SPOs Babi Chand and Rashpal Kumar, both residents of Kiyar village, were found dead in the Dachhan forest early Thursday, a day after they went missing.
 
-## Abhishek Banerjee questioned for 4 hours over May 2 ‘Gujarati gang’ remarks against BJP
-Multiple FIRs have been lodged against Banerjee since the BJP came to power in May after sweeping the assembly polls
+## Andhra Pradesh: Chainsaw attack accused shifted to Kurnool hospital after health worsens
+A police official said doctors at the Anantapur Government Hospital conducted several tests on Hemanth after he fell from his bed on the night of November 9
 
-## HT Exclusive: Noel Tata opposes listing, says profit may take precedence over philanthropy
-Noel Tata said that becoming chairman, after years as a trustee, had been humbling.
-
-## Amid Vidarbha drought, Gadkari pitches for MOIL and WCL mine water use for agricultural purposes
-Amid Vidarbha drought, Gadkari pitches for MOIL and WCL mine water use for agricultural purposes
-
-## Pakistan minister likely to visit India between Nov 20-22 for SCO dialogue
-If Musadik Masood Malik visits India, this could be a Pakistani minister’s first visit to the neighouring country in more than three years.
-
-## US went easy on Pakistan’s military for years, says Blinken at HT Leadership Summit
-Blinken drew a sharp line between the two relationships. India, he said, was a global force, while the relationship with Pakistan “has been regional”.
+## Influencer among two arrested in multi-crore heist at jewellery showroom in Madurai, say police
+The theft came to light on November 12 when employees arrived at the showroom and found that gold and diamond ornaments had gone missing from display counters.
 
 ## Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom
 Many Chinese working professionals are turning to postgraduate degrees jointly offered by local and overseas universities, seeking internationally recognised qualifications and technical skills that can boost their prospects with employers pursuing expansion abroad. More than 200,000 applications we
@@ -234,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How does Iran view shift in US approach after JD Vance ordered away?
-Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working
+## US blames outdated technology for nationwide flight disruption
+US blames outdated technology for nationwide flight disruption
 
-## Spain vs England: UEFA Nations League – predictions, how to watch, teams
-Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.
+## US blames system upgrade for longest nationwide FAA ground stop since 9/11
+Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.
 
-## Russian casualties ‘reach 450,000’: What that means for the Ukraine war
-Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.
+## Rising costs and arrests fuel protests in Central African Republic
+Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.
 
-## Green turtles move from ‘endangered’ to ‘least concern’ status
-Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.
+## US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
+Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.
 
-## How SAF successes in Sudan’s Kordofan could turn tide against the RSF
-The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.
+## Portugal vs Denmark LIVE: UEFA Nations League
+Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.
 
-## Ethiopia blames Egypt, Eritrea for Tigray attacks
-Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.
+## Italy fines Meta $880m over photo privacy
+Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.
 
-## Trump-Xi-Putin trilateral meeting at APEC: What to expect
-A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.
+## Myanmar airstrike kills 12 at displacement camp in Rakhine state
+A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.
 
-## Three killed in Russia as Ukraine claims US floated NATO membership option
-Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.
+## EU calls for immediate humanitarian access to Gaza
+The EU said that “Israel must enable the work of the UN and its agencies" after the group was blocked access into Gaza.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
