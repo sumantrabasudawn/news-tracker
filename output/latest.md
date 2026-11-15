@@ -1,7 +1,34 @@
 # AION Intelligence
 
-## Sadiq Khan backs keeping City of London police independent from the Met
-London mayor opposes merger backed by Met commissioner Sir Mark Rowley
+## Jensen Huang discusses comeback as Nvidia CEO with allies
+Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy
+
+## Young Britons out of work or training for a year to be guaranteed jobs
+Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support
+
+## Viktor Orbán’s party reels from $20mn hidden cash discovery
+Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally
+
+## Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin
+Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war
+
+## Anthropic IPO to further fuel the AI news cycle
+New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale
+
+## US and allies sign accord to protect AI supply chains from China
+Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen
+
+## Decision to move Shakespeare Institute out of Stratford sparks outcry
+Study centre’s director quits after University of Birmingham says it will relocate to Edgbaston
+
+## Neighbours of China’s London ‘mega’ embassy struggle to sell flats
+Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems
+
+## Bessent says Nvidia needs ‘shake-up’ with external CEO
+US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China
+
+## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector
+Summit’s Ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US
 
 ## Hong Kong developer New World unveils $3.2bn rights issue
 Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts
@@ -12,32 +39,8 @@ High gold prices have driven a wave of fresh mining, and Conakry is cracking dow
 ## UK businesses facing big rise in electricity bills by end of decade
 Estimated increase of about 13% is largely driven by the cost of investment in electricity networks
 
-## Young Britons out of work or training for a year to be guaranteed jobs
-Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support
-
-## Republicans blame everyone but Trump for midterm drubbing
-The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem
-
-## Europe needs to talk to Russia
-The cold war teaches us that deterrence requires more than just stronger armed forces
-
-## Saudi-backed Yemeni forces retreat from Red Sea in win for Houthis
-Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants
-
-## Anthropic’s IPO is the next big test for AI
-Even the most powerful frontier labs must bend to the power of public equity
-
-## Congress moves to pass tighter AI chip export rules following Nvidia scandal
-Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China
-
-## Pension funds raise alarm on systemic risk from climate events
-Asset managers, insurers and central bankers gather at COP31 to discuss financial stability concerns as temperatures rise
-
-## What will Nvidia’s post-Huang era look like?
-The chip company has only itself to blame for a long list of adversaries
-
-## EU banking watchdog veers away from single deposit insurance scheme
-Chair of European Banking Authority working on alternative ways to free up more cross-border lending
+## Karnataka Bank appoints Biji SS as interim MD and CEO
+The appointment follows regulatory approval from the Reserve Bank of India, with the bank set to begin its search for regular leadership
 
 ## Editorial. COP out
 Developed world must pick up the tab on climate finance
@@ -60,8 +63,11 @@ Companies including United Breweries, Allied Blenders and Distillers, Radico Kha
 ## Air India restores non-stop flights on all four New York routes
 Easing of airspace restrictions cuts travel time by up to five hours on services that required refuelling stops in Rome
 
-## Tat Tvam Asi: Delhi's historic monuments to turn into open-air galleries for India Biennale
-Purana Qila at the heart of 108-Day cultural extravaganza starting December 4
+## Husband remits Rs 80L to seller for wife's property, she gets notice; what ITAT said
+According to the I-T department’s ‘Insight Portal’, the woman purchased an immovable property worth Rs 1.4 crore during the financial year that ended on March 31, 2016. The portal monitors high-value financial transactions to help detect instances of tax non-payment. The case was about Section 69 of
+
+## Semiconductor boom may add 1 lakh jobs; senior engineers earn 6x IT salar
+Industry experts estimate over 1 lakh jobs in the next three years through the country’s efforts to build a semiconductor ecosystem of its own. Professionals with specialised skills, including process engineering, chip fabrication, chip design, systems engineering and product architecture, can earn 
 
 ## India, Egypt to explore possible trade pact with focus on farmers, fishermen
 
@@ -81,11 +87,14 @@ Tata Steel plans to finalize the merger of Neelachal Ispat Nigam Ltd (NINL) this
 ## Sebi plans AI guardrails for capital markets, stresses human oversight in critical decisions
 Sebi plans to issue guidelines focusing on the responsible use of artificial intelligence in capital markets. The guidelines will emphasize investor protection, accountability, and the necessity of human oversight in AI decision-making. Currently, Sebi is enhancing its cybersecurity framework to add
 
-## Bank holiday for Chhath Puja on Monday? Check state-wise list of closures for November
-Chhath Puja celebrations will continue until November 16, resulting in temporary bank closures in areas like Patna and Ranchi. Throughout November, multiple regional holidays will be enforced across India, so it's advisable for customers to check their local bank holiday schedules before visiting br
+## Depression over Bay of Bengal likely to intensify into severe cyclonic storm by Nov 17, move towards Andhra Pradesh coast: IMD
+The weather system is likely to become a Severe Cyclonic Storm over the westcentral Bay of Bengal by the evening of November 17, the IMD said.
 
-## India-Egypt trade has 'sky's the limit' potential, says Goyal; eyes bigger investments
-India and Egypt are looking to significantly boost their trade partnership through enhanced cooperation and investment. Commerce Minister Piyush Goyal highlighted the need for greater movement of goods and services. He mentioned that bilateral trade currently does not represent the potential of both
+## PM Modi, Trump to join ASEAN Summit in Manila; global conflicts, maritime, economic ties on agenda
+Modi will travel to Manila on November 16 to participate in the ASEAN-India Summit and the East Asia Summit the following day.
+
+## Uttarakhand MLA loses temper, vandalises stage after he was denied chance to speak at event; booked
+The chief minister lashed out at the Congress, saying it has lost its ground which is causing its members to “lose their mental balance”.
 
 ## ‘Magnifying smaller identities’: Mohan Bhagwat says efforts on to divide India using British-era tactics
 RSS chief Mohan Bhagwat said that while India is moving in the right direction today, certain global forces do not want the nation to become great.
@@ -93,23 +102,14 @@ RSS chief Mohan Bhagwat said that while India is moving in the right direction t
 ## Punjab woman, accomplice held in Rajasthan train track blast; police suspect ISI's 'romance' strategy to recruit women
 Police said the woman is a resident of Gurdaspur and is separated from her husband who is lodged in jail in Punjab in a drug trafficking case.
 
-## 61-year-old Canadian woman travels to Rajasthan to marry dating app match; he backs out
-The woman had arrived in India to marry Nitin, a 31-year-old man from Panipat in Haryana, with whom she had been in contact for around a year.
+## Rajasthan teacher arrested after refusing to marry 61-year-old Canadian woman he met on dating app
+Two days after the woman's arrival, the teacher told her he would not go ahead with the marriage because of their age difference
 
 ## Assam to restrict construction in flood-prone areas under proposed zoning law: CM
 The state government has prepared the Assam Flood Plain Zoning Bill, 2026, which will be tabled during the winter session of the state assembly next month
 
 ## CJP announces zonal appointments, coordination committees in 10 states and regions
 Kshitij Pagar has been appointed West Zone in-charge and Dr Vivek Sangwan North Zone in-charge.
-
-## Punjab Congress forms panel to oversee induction of leaders from other parties
-The induction process shall be carried forward only after taking their views into consideration, ensuring proper coordination with the local leadership.
-
-## Bengal police shoots dead ‘criminal’ who allegedly opened fire at cop two days ago; fifth encounter in 6 months
-Criminal Ratan Sheikh was charged 36 criminal cases in Bengal's Birbhum district and had opene dfire at a police constable two days ago.
-
-## Missing for 15 days, Odisha teacher found alive in ravine after goat herder hears cries
-After he went missing, his family approached Raikia police station, where a missing-person complaint was lodged on November 5
 
 ## Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board
 Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified online petition calling on the board to reinstate the company’s founder. Organisers of the “Stand with Jensen” campaign, who describe the
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thousands rally in Czech Republic against state media funding changes
-Critics say proposed funding changes will give the government more control of state media.
+## Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
+The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.
 
-## British tourist smashes Jesus statue outside Vilnius church
-A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.
+## Palestinians reclaim Gaza’s shores with a swim for hope
+For the first time in more than three years, Gaza’s swimming federation has held a competition.
 
-## 70 bodies recovered from Gaza rubble, thousands still missing
-70 bodies recovered from Gaza rubble, thousands still missing
+## Who can force Israel to implement Gaza ceasefire deal?
+Storms batter Palestinian territory as Israel restricts entry of aid.
 
-## Will Iraq’s oil smuggling crackdown disarm militias without a conflict?
-Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife
+## Estonia to close border crossings with Russia after alleged arson attack
+Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.
 
-## 20 years of Al Jazeera English: Our story is still being written
-As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.
+## Jordan sentences three men to death over deadly church attack in Karak
+Jordan sentences three men to death over deadly church attack in Karak
 
-## Record number of migrants arrive in Spain’s Canary Islands
-New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.
+## Africa CDC says Ebola outbreak in DR Congo ‘still not under control’
+'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.
 
-## Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power
-A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.
+## Israeli drone filmed flying low outside homes in southern Lebanon
+Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.
 
-## Flames engulf Syrian refugee camp in eastern Lebanon
-A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.
+## Prince Harry in Ukraine meeting Invictus 2027 hopefuls
+British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
