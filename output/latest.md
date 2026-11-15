@@ -1,118 +1,127 @@
 # AION Intelligence
 
-## ‘Red caviar’ slips off Japan’s sushi menus as roe prices soar
-Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply
+## What will Nvidia’s post-Huang era look like?
+The chip company has only itself to blame for a long list of adversaries
 
-## New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race
-Democratic congresswoman has been touted as a possible candidate but not said if she will run
+## EU banking watchdog veers away from single deposit insurance scheme
+Chair of European Banking Authority working on alternative ways to free up more cross-border lending
 
-## US air travel chaos exposes system held together by ‘string and duct tape’
-Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts
+## Sadiq Khan backs keeping City of London police independent from the Met
+London mayor opposes merger backed by Met commissioner Sir Mark Rowley
 
-## SpaceX catches returning Starship rocket in breakthrough for Musk
-Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars
+## Martin Wolf on the US midterms: Trump loses. European populism lives on
+The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford
 
-## How Trump’s midterm gerrymandering flopped
-Republicans’ unprecedented redistricting drive failed to overcome the tidal wave of Democratic votes
+## ‘Low fire, low hire’ job market hurts US and UK productivity
+Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists
 
-## US floats Nato membership for Donbas withdrawal deal, Zelenskyy says
-President says he will take proposal to Ukrainian people as Washington explores terms for ending war
+## France’s once best hope of stopping Marine Le Pen is losing ground
+Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée
 
-## Argentina’s Milei clashes with his government’s most popular leader
-Tensions between the libertarian president and his senate chief test rightwing unity ahead of 2027 elections
+## The long and winding road to Dubai’s supermarket shelves
+The United Arab Emirates’ shipping woes stemming from Iran war stoke dreams of farming in the desert
 
-## Europe Express: opening a security can of worms
-Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage
+## Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa
+Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought
 
-## Passengers face widespread disruption after US air traffic control outage
-Thousands of flights delayed or cancelled as political blame game mounts
+## Samsung conquered AI chips. Now it wants to build data centres
+South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses
 
-## Makers of obesity drugs hit back at claims of negative side effects
-Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition
+## HSBC’s bet on bots could reshape the wealth wars
+The UK bank ventures into a high-stakes experiment
 
-## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall
-Chip group lacks full insurance coverage for damages stemming from the conduct of executives
+## European energy groups hire security experts after wave of sabotage
+Rise of so-called hybrid warfare brings greater focus to grid and refinery protection
 
-## Germany suffers setback in joining fighter jet project
-Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner
+## Data centre construction stocks lose $4.2tn as boom in AI trade unravels
+Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off
 
-## Manchester United: a fate worse than debt
-Also in today’s newsletter: a big shake-up in US college sport angers fans
+## WPI inflation, crude oil prices and FII activity to steer stock markets this week
+Last week, the 30-share BSE Sensex climbed 564.43 points, or 0.69 per cent, and the 50-share NSE Nifty was up 113.95 points or 0.45 per cent.
 
-## Single L3Harris router may have triggered US aviation system shutdown
-The incident has renewed scrutiny of the Federal Aviation Administration’s ageing infrastructure and its efforts to modernise critical air traffic communications
+## Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson
+Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, she said
 
-## Pollution-related health insurance claims rise 4.3 times in three years: Report
-Working professionals and senior citizens account for the bulk of claims, while Delhi leads cities with the highest reported numbers.
+## LICO Materials targets ₹450-500 cr revenue in current fiscal: CEO
+The company recorded revenue of approximately ₹350 crore in 2025–26
 
-## Mahadev betting app still operational, proceeds of crime exceed ₹92,000 crore: ED
-The agency told a special PMLA court that the betting syndicate continued operating through multiple platforms, including networks allegedly run from Dubai
+## Southeast Asian leaders open annual summit with major conflicts and their impact topping agenda
+Trump is expected to land in Manila with US Secretary of State Marco Rubio on Tuesday afternoon
 
-## SpaceX’s Starship makes historic return, caught by giant mechanical arms
-The successful spacecraft recovery marked a major milestone for Elon Musk’s ambitions to make space travel reusable and accelerate missions to the Moon and Mars
+## Hindalco's Novelis to sell two China units for $265 million
+The transaction is expected to close within ‌12 months
 
-## UltraTech Cement: Volume expansion to continue
-Margin improvement likely from decreased input price volatility and higher demand
+## DSM Fresh Foods H1 net profit flat at ₹7.30 cr
+The company had posted a net profit (after minority interest) of ₹7.31 crore in the preceding six-month period ended March 31, 2026
 
-## Kotak Equity Savings Fund: Consistency pays off
-A balanced mix of equity, arbitrage and debt offers moderate risk with attractive return potential
+## Cyclone forming over Bay of Bengal to bring heavy rain to some Bengal districts: IMD
+The weather system, which lay over the southeast and southwest Bay of Bengal as a depression on Sunday morning, is very likely to move north-northwestward
 
-## ICICI Life Insurance stock: Is it a good investment now?
-Improving profitability, a widening valuation discount and stronger business fundamentals make current levels attractive for patient investors
+## NABARD Chairman calls for value addition in farm produce to boost exports
+He said such a shift would create employment opportunities, enhance farmers’ incomes and ensure that more of the value generated remains within the State
 
-## Who Am I? November 15, 2026
-Are you an avid investor? How well do you know corporate India?
+## Bank holiday for Chhath Puja on Monday? Check state-wise list of closures for November
+Chhath Puja celebrations will continue until November 16, resulting in temporary bank closures in areas like Patna and Ranchi. Throughout November, multiple regional holidays will be enforced across India, so it's advisable for customers to check their local bank holiday schedules before visiting br
 
-## Strong economy drives NH toll to record Rs 6,640 crore in October
+## India-Egypt trade has 'sky's the limit' potential, says Goyal; eyes bigger investments
+India and Egypt are looking to significantly boost their trade partnership through enhanced cooperation and investment. Commerce Minister Piyush Goyal highlighted the need for greater movement of goods and services. He mentioned that bilateral trade currently does not represent the potential of both
 
+## Bad air, bigger bills: Air pollution drives health insurance claims up fourfold in 3 years
+In India, the demand for health insurance claims related to pollution has skyrocketed, witnessing a remarkable fourfold increase in just three years. Notably, working professionals between the ages of 31 and 55 constitute a significant 59% of these claims. Delhi tops the list for the highest claims,
 
-## Listing will change Tata way, put profit above philanthropy: Noel
-Noel Tata has expressed strong opposition to the potential listing of Tata Sons on public markets. He believes such a move may compromise the group's long-standing commitment to philanthropy over profit. Some trustees argue that listing could enhance governance and transparency while supporting char
+## ‘Solid but unremarkable’: Goldman Sachs sees global GDP growth at 2.8% in 2027
+Global economic growth is projected at 2.8% in 2027, driven by declining energy prices and increased AI investments. Major economies like the United States and Japan are expected to surpass growth estimates. China's growth is forecasted at 4.5%, but domestic consumption issues may hinder progress. R
 
-## Indians ditch gold for gemstones as sales jump 40%; stones cost Rs 5 lakh
-The growing preference for premium coloured gemstones as against gold is also translating into higher prices. Paraiba tourmalines, among the rarest gemstones, sell for around Rs 5 lakh per carat in India. Demand for these stones is particularly strong among high-net-worth buyers in Mumbai, followed 
+## AI losing its shine? Why global investors could turn to India for their next big bet
+Investors are questioning the sustainability of returns from heavy AI investments by US companies. This scrutiny may prompt fund managers to consider Indian equities as an attractive investment alternative. Recent data shows significant foreign investment inflows into Indian stocks after a selling p
 
-## Sold commercial units & bought 2 flats, taxman denies Rs 2.5 crore relief on one - what ITAT said
-A man sold six commercial units in Mumbai and the sales generated long-term capital gains of around Rs 5 crore. He claimed a deduction of the same amount under Section 54F after investing in residential property. For this purpose, he purchased two flats in Wing A of a building but on separate floors
+## India's life insurance sector set for 13-18% annual growth in premiums through FY29
+India's life insurance sector is expected to maintain healthy growth supported by increasing demand for protection products. Private life insurers are anticipated to see an annualised premium equivalent compound annual growth rate ranging from 13-18%. While APE growth and gross premium growth have b
 
-## Property seller takes Rs 5.22 lakh cash, faces tax penalty; why ITAT gave relief
-The Income Tax Assessing Officer (AO) in Berhampur received information from the property registrar's office in Jharsuguda that the man had sold a property and collected Rs 5.22 lakh in cash as part of the payment. The registered sale deed also mentioned the cash component. Following this informatio
+## 'Handshake' deals could fall: Musk flags risks for Nvidia after Jensen Huang's exit
+Elon Musk has voiced his apprehensions regarding Nvidia's supply chain deals in the wake of Jensen Huang's recent resignation. He pointed out that numerous agreements stemmed from personal connections instead of solid contracts. Moreover, Musk highlighted a petition advocating for Huang's return as 
 
-## 'Will change the Tata way': Noel warns Tata Sons listing could put profits ahead of philanthropy
+## US diesel prices retreat, fall below $6 per gallon for first time in two months
+US diesel prices have dropped below $6 per gallon for the first time in two months. This decline comes after prices surged to an all-time high in September due to global supply issues. Lower diesel prices are providing some relief to consumers, businesses, and farmers who have faced increased costs 
 
+## IFS Sanjeev Chaturvedi moves SC seeking framework to protect whistleblowers
+IFS Sanjeev Chaturvedi moves SC seeking framework to protect whistleblowers
 
-## Anthropic IPO draws six times demand, but valuation remains under scrutiny
+## Maharashtra extends 7% VAT on aviation turbine fuel till April 14
+On May 14, the state government had reduced the VAT on ATF from 18% to 7% for six months, with effect from May 15.
 
+## 18-year-old woman found murdered inside Delhi showroom's trial room: Police
+The accused allegedly slit the woman's throat with a sharp-edged weapon before fleeing.
 
-## Binance restores withdrawals across 87 networks after record $6.3 billion crypto theft
-After a security breach that resulted in the theft of $6.3 billion, Binance is diligently working to restore withdrawal services across its remaining networks and assets. This week, withdrawals for 87 networks were successfully reopened, with full restoration expected by the end of next week. The co
+## Air India restores non-stop New York flights from Delhi, Mumbai; travel time cut by 5 hours
+Air India has resumed non-stop Delhi and Mumbai-New York flights after airspace restrictions eased, cutting journey times by up to five hours.
 
-## Progressive AI agenda required for a balance between winners, losers: Economist Joseph E Stiglitz at HT Leadership Summit
-According to Stiglitz, the ongoing AI boom has generated two key challenges for the global economy: expected returns and balance in the global economy.
+## Air purifier sales surge across country as Delhi-NCR AQI deteriorates
+The demand, triggered by seasonal pollution spikes, is increasingly shifting from panic-driven buying to more proactive adoption.
 
-## Congress MLA vandalises stage at Uttarakhand event: ‘Denied chance to speak before CM Dhami’
-Speaking to reporters after the protest, Harish Dhami alleged that the state government was afraid of facing the opposition.
+## Book Box: How my mother got me to read
+For Children’s Day weekend, three tricks learned from my mother and five children’s books worth buying in multiples
 
-## ‘AI speeding up drug design; next step is faster, cheaper medicines’: Siddhartha Mukherjee at HT Leadership Summit
-He urged safeguards for faster trials and said India has a historic opportunity to make medicines faster, cheaper and better.
+## Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on
+Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on
 
-## Noel Tata on Tata Trusts’ twin roles: Philanthropy, projects of national importance
-Plans include building lasting institutions, developing a network of 40 to 50 nonprofit hospitals and pursuing partnerships with other philanthropies.
+## Bengal minister says extortion continues under new govt, seeks a year's time to eliminate practice
+Dasgupta described extortion as a disturbing reality that needs to be addressed through both political and economic measures.
 
-## Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai
-He was subsequently taken into custody by the Keralam police in connection with a case registered in the Thrissur district.
+## Over 100 Fortune Global 500 firms head to Shenzhen as Apec spotlight turns to CEO Summit
+Shenzhen expects more than 100 major global enterprises and over a dozen national leaders for the Asia-Pacific Economic Cooperation (Apec) CEO Summit, as the southern Chinese city gears up to host the highest-level multilateral gathering in its history. Representatives from 115 Fortune Global 500 co
 
-## Assam CM orders probe into crash that killed 26, vows stricter traffic rules
-Himanta Biswa Sarma visited the accident site on Saturday afternoon and ordered a detailed investigation
+## Dubai, Abu Dhabi property markets could gain if Trump’s midterm losses help end Iran war
+The United Arab Emirates, a favoured destination for foreign property investment, could see support for housing demand and prices if heavy midterm losses for US President Donald Trump’s Republican Party help bring an end to the Iran war, analysts said, adding that housing markets across the wider Mi
 
-## Manipur CM chairs security review meeting after killings in Kangpokpi, Ukhrul
-The meeting also discussed measures to further strengthen security arrangements in vulnerable areas of the state
+## No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office
+China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, acc
 
-## Darbhanga police find three missing girls hours after forming SIT
-Police had also announced a reward of ₹25,000 for anyone providing credible information leading to their recovery
+## UBS unveils new West Kowloon hub to tap Greater Bay Area wealth
+UBS has drawn back the curtains on its new Hong Kong headquarters in West Kowloon, a 20-storey tower with a client floor built for meetings, dinners and events, as the Swiss lender anchors its regional presence to tap growing wealth across the Greater Bay Area. About 3,500 UBS staff, currently sprea
 
 ## Strong office rental growth keeps US investors in Japan despite rate increases
-Expectations of interest rate increases of up to 2.25 per cent in Japan have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the market. Th
+Expectations that Japan’s interest rates could rise to as high as 2.25 per cent have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the ma
 
 ## Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom
 Many Chinese working professionals are turning to postgraduate degrees jointly offered by local and overseas universities, seeking internationally recognised qualifications and technical skills that can boost their prospects with employers pursuing expansion abroad. More than 200,000 applications we
@@ -122,18 +131,6 @@ China is updating a law that has underpinned one of the most remarkable industri
 
 ## China’s battery giant CATL faces tough choices after epic US$130b sell-off
 Robin Zeng Yuqun, chairman of the Chinese battery giant Contemporary Amperex Technology Ltd (CATL), has maintained an upbeat image in recent weeks, telling a conference last month that battery storage was becoming “an indispensable new infrastructure for the power system”. But analysts are less opti
-
-## Life after Labubu? Pop Mart struggles for relevance as its toy sales plummet
-Pop Mart International will once again send a giant float down Sixth Avenue later this month for the Macy’s Thanksgiving Day Parade in New York City, but the company feels rather less buoyant than it did when it debuted at the event last year. The Chinese toymaker’s global ascent has stalled badly a
-
-## China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts
-China could retaliate with tighter rare earth export controls if Washington further restricts chip sales in the wake of the Nvidia saga, Chinese analysts say, though they expect broader US-China trade talks to remain on track ahead of a planned meeting between the two countries’ leaders next week. F
-
-## Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts
-China’s finance ministry on Friday clarified the enforcement details of its offshore trust tax, officially excluding Hong Kong pension fund accounts held by mainland Chinese and providing detailed calculation methods for publicly traded Hong Kong stocks and stakes in non-listed firms. The move comes
-
-## Asia’s private credit market has ample room for expansion, Ares executive says
-Asian private credit has ample room to expand, with investor demand holding up and the region’s lending market lagging far behind its private equity industry, according to E.G. Morse, head of Asia credit at Ares Management. The region’s private equity assets under management stood above US$1 trillio
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -231,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold
-Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.
+## What forced the US to ground all planes? A router switch, we now know
+US officials say a routine upgrade that went awry caused the mass disruption of air travel.
 
-## Netanyahu sends plea to Eisenkot for unity government
-Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.
+## India pulled 500m people out of poverty. Many of them still barely survive
+World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
 
-## Thailand’s elderly kept in cages
-A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.
+## Thousands in Portugal protest against surging rental prices
+Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
 
-## SpaceX’s Starship nails a smooth return with historic catch
-SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
+## De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
+Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
 
-## Israeli air strike kills senior Hamas commander in Gaza
-Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
+## Jordan sentences three men to death by hanging after deadly church attack
+Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.
 
-## Hundreds of men march in Switzerland to protest violence against women
-Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
+## Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather
+Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.
 
-## SpaceX’s Starship captured by launchpad arms in dramatic first
-SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.
+## Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off
+Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.
 
-## Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status
-Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.
+## ASEAN summit: Who’s attending and what’s at stake?
+Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
