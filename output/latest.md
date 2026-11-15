@@ -1,64 +1,85 @@
 # AION Intelligence
 
+## Sadiq Khan backs keeping City of London police independent from the Met
+London mayor opposes merger backed by Met commissioner Sir Mark Rowley
+
+## Hong Kong developer New World unveils $3.2bn rights issue
+Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts
+
+## Gold rush turns deadly in Guinea
+High gold prices have driven a wave of fresh mining, and Conakry is cracking down
+
+## UK businesses facing big rise in electricity bills by end of decade
+Estimated increase of about 13% is largely driven by the cost of investment in electricity networks
+
+## Young Britons out of work or training for a year to be guaranteed jobs
+Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support
+
+## Republicans blame everyone but Trump for midterm drubbing
+The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem
+
+## Europe needs to talk to Russia
+The cold war teaches us that deterrence requires more than just stronger armed forces
+
+## Saudi-backed Yemeni forces retreat from Red Sea in win for Houthis
+Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants
+
+## Anthropic’s IPO is the next big test for AI
+Even the most powerful frontier labs must bend to the power of public equity
+
+## Congress moves to pass tighter AI chip export rules following Nvidia scandal
+Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China
+
+## Pension funds raise alarm on systemic risk from climate events
+Asset managers, insurers and central bankers gather at COP31 to discuss financial stability concerns as temperatures rise
+
 ## What will Nvidia’s post-Huang era look like?
 The chip company has only itself to blame for a long list of adversaries
 
 ## EU banking watchdog veers away from single deposit insurance scheme
 Chair of European Banking Authority working on alternative ways to free up more cross-border lending
 
-## Sadiq Khan backs keeping City of London police independent from the Met
-London mayor opposes merger backed by Met commissioner Sir Mark Rowley
+## Editorial. COP out
+Developed world must pick up the tab on climate finance
 
-## Martin Wolf on the US midterms: Trump loses. European populism lives on
-The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford
+## Hindalco arm Novelis to sell China assets for ₹2,490 cr
+The assets were sold to Shenzhen Hongzhi Industrial Investment Co, said Hindalco Industries in an announcement on Sunday
 
-## ‘Low fire, low hire’ job market hurts US and UK productivity
-Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists
+## Wholesale wheat prices show no signs of cooling despite FCI selling 2 lakh tonnes past few weeks
+Many food companies are buying the FCI wheat and selling it to traders as market rates are higher compared to the OMSS rates
 
-## France’s once best hope of stopping Marine Le Pen is losing ground
-Former prime minister Édouard Philippe struggles in a crowded field as the far-right candidate leads race for the Élysée
+## Extending EoM transition period to 3 years would make adjustment easier, says IndiaFirst Life Insurance MD & CEO
+Rushabh Gandhi says transition not difficult for the company but extension of transition period from two years to three years would make it easier
 
-## The long and winding road to Dubai’s supermarket shelves
-The United Arab Emirates’ shipping woes stemming from Iran war stoke dreams of farming in the desert
+## A diagnosis of our dependencies
+A book that explores how technologically sovereign India is
 
-## Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa
-Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought
+## Liquor makers push for price increases across states amid cost pressures
+Companies including United Breweries, Allied Blenders and Distillers, Radico Khaitan and Tilaknagar Industries are engaging with state governments and industry associations to seek revisions
 
-## Samsung conquered AI chips. Now it wants to build data centres
-South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses
+## Air India restores non-stop flights on all four New York routes
+Easing of airspace restrictions cuts travel time by up to five hours on services that required refuelling stops in Rome
 
-## HSBC’s bet on bots could reshape the wealth wars
-The UK bank ventures into a high-stakes experiment
+## Tat Tvam Asi: Delhi's historic monuments to turn into open-air galleries for India Biennale
+Purana Qila at the heart of 108-Day cultural extravaganza starting December 4
 
-## European energy groups hire security experts after wave of sabotage
-Rise of so-called hybrid warfare brings greater focus to grid and refinery protection
+## India, Egypt to explore possible trade pact with focus on farmers, fishermen
 
-## Data centre construction stocks lose $4.2tn as boom in AI trade unravels
-Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off
 
-## WPI inflation, crude oil prices and FII activity to steer stock markets this week
-Last week, the 30-share BSE Sensex climbed 564.43 points, or 0.69 per cent, and the 50-share NSE Nifty was up 113.95 points or 0.45 per cent.
+## Indian Railways now has freight corridors, but will cargo from road come back?
+At first glance, rail freight appears to be thriving. Freight loading has risen from 1,098 million tonne in fiscal 2015 to 1,617 million tonne in fiscal 2025 and a record 1,670 million tonne last fiscal. Yet rail's position within India's logistics system remains weaker than these numbers imply. The
 
-## Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson
-Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, she said
+## Gold falls to Rs 1.36 lakh, silver down 5% on MCX this week; what’s the outlook?
+Gold price outlook: Market participants will watch inflation data from India, the US, the UK, the Eurozone and Japan. The minutes of the Federal Open Market Committee meeting, remarks by Federal Reserve officials and US employment figures will also be closely monitored. Gold and silver both recorded
 
-## LICO Materials targets ₹450-500 cr revenue in current fiscal: CEO
-The company recorded revenue of approximately ₹350 crore in 2025–26
+## Megaspeed says Alice Huang exited company in 2025, stays silent on 'personal matters'
 
-## Southeast Asian leaders open annual summit with major conflicts and their impact topping agenda
-Trump is expected to land in Manila with US Secretary of State Marco Rubio on Tuesday afternoon
 
-## Hindalco's Novelis to sell two China units for $265 million
-The transaction is expected to close within ‌12 months
+## Tata Steel eyes NINL merger this fiscal; Rs 40,000 crore expansion awaits clearance
+Tata Steel plans to finalize the merger of Neelachal Ispat Nigam Ltd (NINL) this financial year. The National Company Law Tribunal (NCLT) will review the proposed merger soon. Tata Steel has previously acquired NINL's assets for Rs 12,100 crore to enhance production capacity. The company aims to add
 
-## DSM Fresh Foods H1 net profit flat at ₹7.30 cr
-The company had posted a net profit (after minority interest) of ₹7.31 crore in the preceding six-month period ended March 31, 2026
-
-## Cyclone forming over Bay of Bengal to bring heavy rain to some Bengal districts: IMD
-The weather system, which lay over the southeast and southwest Bay of Bengal as a depression on Sunday morning, is very likely to move north-northwestward
-
-## NABARD Chairman calls for value addition in farm produce to boost exports
-He said such a shift would create employment opportunities, enhance farmers’ incomes and ensure that more of the value generated remains within the State
+## Sebi plans AI guardrails for capital markets, stresses human oversight in critical decisions
+Sebi plans to issue guidelines focusing on the responsible use of artificial intelligence in capital markets. The guidelines will emphasize investor protection, accountability, and the necessity of human oversight in AI decision-making. Currently, Sebi is enhancing its cybersecurity framework to add
 
 ## Bank holiday for Chhath Puja on Monday? Check state-wise list of closures for November
 Chhath Puja celebrations will continue until November 16, resulting in temporary bank closures in areas like Patna and Ranchi. Throughout November, multiple regional holidays will be enforced across India, so it's advisable for customers to check their local bank holiday schedules before visiting br
@@ -66,47 +87,41 @@ Chhath Puja celebrations will continue until November 16, resulting in temporary
 ## India-Egypt trade has 'sky's the limit' potential, says Goyal; eyes bigger investments
 India and Egypt are looking to significantly boost their trade partnership through enhanced cooperation and investment. Commerce Minister Piyush Goyal highlighted the need for greater movement of goods and services. He mentioned that bilateral trade currently does not represent the potential of both
 
-## Bad air, bigger bills: Air pollution drives health insurance claims up fourfold in 3 years
-In India, the demand for health insurance claims related to pollution has skyrocketed, witnessing a remarkable fourfold increase in just three years. Notably, working professionals between the ages of 31 and 55 constitute a significant 59% of these claims. Delhi tops the list for the highest claims,
+## ‘Magnifying smaller identities’: Mohan Bhagwat says efforts on to divide India using British-era tactics
+RSS chief Mohan Bhagwat said that while India is moving in the right direction today, certain global forces do not want the nation to become great.
 
-## ‘Solid but unremarkable’: Goldman Sachs sees global GDP growth at 2.8% in 2027
-Global economic growth is projected at 2.8% in 2027, driven by declining energy prices and increased AI investments. Major economies like the United States and Japan are expected to surpass growth estimates. China's growth is forecasted at 4.5%, but domestic consumption issues may hinder progress. R
+## Punjab woman, accomplice held in Rajasthan train track blast; police suspect ISI's 'romance' strategy to recruit women
+Police said the woman is a resident of Gurdaspur and is separated from her husband who is lodged in jail in Punjab in a drug trafficking case.
 
-## AI losing its shine? Why global investors could turn to India for their next big bet
-Investors are questioning the sustainability of returns from heavy AI investments by US companies. This scrutiny may prompt fund managers to consider Indian equities as an attractive investment alternative. Recent data shows significant foreign investment inflows into Indian stocks after a selling p
+## 61-year-old Canadian woman travels to Rajasthan to marry dating app match; he backs out
+The woman had arrived in India to marry Nitin, a 31-year-old man from Panipat in Haryana, with whom she had been in contact for around a year.
 
-## India's life insurance sector set for 13-18% annual growth in premiums through FY29
-India's life insurance sector is expected to maintain healthy growth supported by increasing demand for protection products. Private life insurers are anticipated to see an annualised premium equivalent compound annual growth rate ranging from 13-18%. While APE growth and gross premium growth have b
+## Assam to restrict construction in flood-prone areas under proposed zoning law: CM
+The state government has prepared the Assam Flood Plain Zoning Bill, 2026, which will be tabled during the winter session of the state assembly next month
 
-## 'Handshake' deals could fall: Musk flags risks for Nvidia after Jensen Huang's exit
-Elon Musk has voiced his apprehensions regarding Nvidia's supply chain deals in the wake of Jensen Huang's recent resignation. He pointed out that numerous agreements stemmed from personal connections instead of solid contracts. Moreover, Musk highlighted a petition advocating for Huang's return as 
+## CJP announces zonal appointments, coordination committees in 10 states and regions
+Kshitij Pagar has been appointed West Zone in-charge and Dr Vivek Sangwan North Zone in-charge.
 
-## US diesel prices retreat, fall below $6 per gallon for first time in two months
-US diesel prices have dropped below $6 per gallon for the first time in two months. This decline comes after prices surged to an all-time high in September due to global supply issues. Lower diesel prices are providing some relief to consumers, businesses, and farmers who have faced increased costs 
+## Punjab Congress forms panel to oversee induction of leaders from other parties
+The induction process shall be carried forward only after taking their views into consideration, ensuring proper coordination with the local leadership.
 
-## IFS Sanjeev Chaturvedi moves SC seeking framework to protect whistleblowers
-IFS Sanjeev Chaturvedi moves SC seeking framework to protect whistleblowers
+## Bengal police shoots dead ‘criminal’ who allegedly opened fire at cop two days ago; fifth encounter in 6 months
+Criminal Ratan Sheikh was charged 36 criminal cases in Bengal's Birbhum district and had opene dfire at a police constable two days ago.
 
-## Maharashtra extends 7% VAT on aviation turbine fuel till April 14
-On May 14, the state government had reduced the VAT on ATF from 18% to 7% for six months, with effect from May 15.
+## Missing for 15 days, Odisha teacher found alive in ravine after goat herder hears cries
+After he went missing, his family approached Raikia police station, where a missing-person complaint was lodged on November 5
 
-## 18-year-old woman found murdered inside Delhi showroom's trial room: Police
-The accused allegedly slit the woman's throat with a sharp-edged weapon before fleeing.
+## Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board
+Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified online petition calling on the board to reinstate the company’s founder. Organisers of the “Stand with Jensen” campaign, who describe the
 
-## Air India restores non-stop New York flights from Delhi, Mumbai; travel time cut by 5 hours
-Air India has resumed non-stop Delhi and Mumbai-New York flights after airspace restrictions eased, cutting journey times by up to five hours.
+## Indebted Hong Kong developer New World offers shares at 81% discount in US$3.2b cash call
+New World Development will issue 11 new shares for every existing share at an 81.5 per cent discount, exposing shareholders who do not participate to theoretical dilution of 75.3 per cent, as the indebted Hong Kong property developer seeks to raise HK$24.9 billion (US$3.2 billion) in a recapitalisat
 
-## Air purifier sales surge across country as Delhi-NCR AQI deteriorates
-The demand, triggered by seasonal pollution spikes, is increasingly shifting from panic-driven buying to more proactive adoption.
+## ‘Black swans’ and ‘grey rhinos’: China’s regulator warns of risks amid global turmoil
+China’s top securities regulator has flagged the threat of potential “black swan” and “grey rhino” events amid global market turbulence, calling for greater regulatory certainty and cooperation to bolster market resilience. Global capital markets were “experiencing a new round of asset repricing and
 
-## Book Box: How my mother got me to read
-For Children’s Day weekend, three tricks learned from my mother and five children’s books worth buying in multiples
-
-## Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on
-Ranchi division allows empty Vande Bharat to travel 463 km with faulty brakes; probe on
-
-## Bengal minister says extortion continues under new govt, seeks a year's time to eliminate practice
-Dasgupta described extortion as a disturbing reality that needs to be addressed through both political and economic measures.
+## Megaspeed rejects claims over supply chain as Nvidia-linked scrutiny intensifies
+Megaspeed, the Singaporean company caught in the Nvidia controversy, has pushed back against reported claims about its supply chain practices and distanced itself from former CEO Alice Huang. The firm said in a statement on Sunday that it “conducts legitimate and lawful business” and had hired exter
 
 ## Over 100 Fortune Global 500 firms head to Shenzhen as Apec spotlight turns to CEO Summit
 Shenzhen expects more than 100 major global enterprises and over a dozen national leaders for the Asia-Pacific Economic Cooperation (Apec) CEO Summit, as the southern Chinese city gears up to host the highest-level multilateral gathering in its history. Representatives from 115 Fortune Global 500 co
@@ -119,18 +134,6 @@ China has ushered artificial intelligence into its cinemas, but the country’s 
 
 ## UBS unveils new West Kowloon hub to tap Greater Bay Area wealth
 UBS has drawn back the curtains on its new Hong Kong headquarters in West Kowloon, a 20-storey tower with a client floor built for meetings, dinners and events, as the Swiss lender anchors its regional presence to tap growing wealth across the Greater Bay Area. About 3,500 UBS staff, currently sprea
-
-## Strong office rental growth keeps US investors in Japan despite rate increases
-Expectations that Japan’s interest rates could rise to as high as 2.25 per cent have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the ma
-
-## Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom
-Many Chinese working professionals are turning to postgraduate degrees jointly offered by local and overseas universities, seeking internationally recognised qualifications and technical skills that can boost their prospects with employers pursuing expansion abroad. More than 200,000 applications we
-
-## China should share its renewable energy expertise
-China is updating a law that has underpinned one of the most remarkable industrial transformations of our time. After two decades of rapid renewable-energy development, China is preparing to rewrite the rules that have guided, supported and guarded its energy revolution. The draft revision to China’
-
-## China’s battery giant CATL faces tough choices after epic US$130b sell-off
-Robin Zeng Yuqun, chairman of the Chinese battery giant Contemporary Amperex Technology Ltd (CATL), has maintained an upbeat image in recent weeks, telling a conference last month that battery storage was becoming “an indispensable new infrastructure for the power system”. But analysts are less opti
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What forced the US to ground all planes? A router switch, we now know
-US officials say a routine upgrade that went awry caused the mass disruption of air travel.
+## Thousands rally in Czech Republic against state media funding changes
+Critics say proposed funding changes will give the government more control of state media.
 
-## India pulled 500m people out of poverty. Many of them still barely survive
-World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
+## British tourist smashes Jesus statue outside Vilnius church
+A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.
 
-## Thousands in Portugal protest against surging rental prices
-Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
+## 70 bodies recovered from Gaza rubble, thousands still missing
+70 bodies recovered from Gaza rubble, thousands still missing
 
-## De la Fuente denies racism in Spain despite Yamal, Vinicius avowals
-Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.
+## Will Iraq’s oil smuggling crackdown disarm militias without a conflict?
+Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife
 
-## Jordan sentences three men to death by hanging after deadly church attack
-Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.
+## 20 years of Al Jazeera English: Our story is still being written
+As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.
 
-## Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather
-Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.
+## Record number of migrants arrive in Spain’s Canary Islands
+New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.
 
-## Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off
-Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.
+## Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power
+A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.
 
-## ASEAN summit: Who’s attending and what’s at stake?
-Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.
+## Flames engulf Syrian refugee camp in eastern Lebanon
+A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
