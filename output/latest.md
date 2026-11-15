@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## ‘Red caviar’ slips off Japan’s sushi menus as roe prices soar
+Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply
+
+## New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race
+Democratic congresswoman has been touted as a possible candidate but not said if she will run
+
+## US air travel chaos exposes system held together by ‘string and duct tape’
+Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts
+
 ## SpaceX catches returning Starship rocket in breakthrough for Musk
 Successful landing of upper stage is key to founder’s aim of sending reusable manned rockets to Mars
 
@@ -15,29 +24,32 @@ Tensions between the libertarian president and his senate chief test rightwing u
 ## Europe Express: opening a security can of worms
 Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage
 
-## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall
-Chip group lacks full insurance coverage for damages stemming from the conduct of executives
-
-## Germany suffers setback in joining fighter jet project
-Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner
-
-## Chart of the Week: The great market rotation
-Defensive sectors are the new winners
-
 ## Passengers face widespread disruption after US air traffic control outage
 Thousands of flights delayed or cancelled as political blame game mounts
 
 ## Makers of obesity drugs hit back at claims of negative side effects
 Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition
 
+## Nvidia exposed to possible lawsuits after Jensen Huang’s downfall
+Chip group lacks full insurance coverage for damages stemming from the conduct of executives
+
+## Germany suffers setback in joining fighter jet project
+Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner
+
 ## Manchester United: a fate worse than debt
 Also in today’s newsletter: a big shake-up in US college sport angers fans
 
-## Hedge fund woes expose the dangers of hot money once again
-Recent stumbles have come about as a result of the pursuit of heady growth without the risk management capability and structures to deal with it
+## Single L3Harris router may have triggered US aviation system shutdown
+The incident has renewed scrutiny of the Federal Aviation Administration’s ageing infrastructure and its efforts to modernise critical air traffic communications
 
-## A Vinted ban would sell young entrepreneurs short
-Selling online is a great opportunity for teens to learn, earn and spend their money
+## Pollution-related health insurance claims rise 4.3 times in three years: Report
+Working professionals and senior citizens account for the bulk of claims, while Delhi leads cities with the highest reported numbers.
+
+## Mahadev betting app still operational, proceeds of crime exceed ₹92,000 crore: ED
+The agency told a special PMLA court that the betting syndicate continued operating through multiple platforms, including networks allegedly run from Dubai
+
+## SpaceX’s Starship makes historic return, caught by giant mechanical arms
+The successful spacecraft recovery marked a major milestone for Elon Musk’s ambitions to make space travel reusable and accelerate missions to the Moon and Mars
 
 ## UltraTech Cement: Volume expansion to continue
 Margin improvement likely from decreased input price volatility and higher demand
@@ -50,18 +62,6 @@ Improving profitability, a widening valuation discount and stronger business fun
 
 ## Who Am I? November 15, 2026
 Are you an avid investor? How well do you know corporate India?
-
-## What they say on their India plans
-Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of JBM Auto, NESCO and Siemens Energy India
-
-## What Jensen Huang’s Nvidia exit teaches investors
-Huang’s sudden exit from Nvidia highlights the risks of companies becoming overly dependent on individual leaders
-
-## Bandu’s Blockbusters for November 15, 2026
-Guess the stock that will give the best return by next Friday
 
 ## Strong economy drives NH toll to record Rs 6,640 crore in October
 
@@ -87,6 +87,18 @@ The Income Tax Assessing Officer (AO) in Berhampur received information from the
 ## Binance restores withdrawals across 87 networks after record $6.3 billion crypto theft
 After a security breach that resulted in the theft of $6.3 billion, Binance is diligently working to restore withdrawal services across its remaining networks and assets. This week, withdrawals for 87 networks were successfully reopened, with full restoration expected by the end of next week. The co
 
+## Progressive AI agenda required for a balance between winners, losers: Economist Joseph E Stiglitz at HT Leadership Summit
+According to Stiglitz, the ongoing AI boom has generated two key challenges for the global economy: expected returns and balance in the global economy.
+
+## Congress MLA vandalises stage at Uttarakhand event: ‘Denied chance to speak before CM Dhami’
+Speaking to reporters after the protest, Harish Dhami alleged that the state government was afraid of facing the opposition.
+
+## ‘AI speeding up drug design; next step is faster, cheaper medicines’: Siddhartha Mukherjee at HT Leadership Summit
+He urged safeguards for faster trials and said India has a historic opportunity to make medicines faster, cheaper and better.
+
+## Noel Tata on Tata Trusts’ twin roles: Philanthropy, projects of national importance
+Plans include building lasting institutions, developing a network of 40 to 50 nonprofit hospitals and pursuing partnerships with other philanthropies.
+
 ## Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai
 He was subsequently taken into custody by the Keralam police in connection with a case registered in the Thrissur district.
 
@@ -99,17 +111,8 @@ The meeting also discussed measures to further strengthen security arrangements 
 ## Darbhanga police find three missing girls hours after forming SIT
 Police had also announced a reward of ₹25,000 for anyone providing credible information leading to their recovery
 
-## ‘Travesty to term it state-inflicted death’: India votes against UN death penalty moratorium
-India objected to linking judicially mandated capital punishment with unlawful executions while speaking on the resolution concerning extrajudicial executions.
-
-## Families of slain Special Police Officers seek CBI probe, accountability for security lapses in J&K's Kishtwar
-SPOs Babi Chand and Rashpal Kumar, both residents of Kiyar village, were found dead in the Dachhan forest early Thursday, a day after they went missing.
-
-## Andhra Pradesh: Chainsaw attack accused shifted to Kurnool hospital after health worsens
-A police official said doctors at the Anantapur Government Hospital conducted several tests on Hemanth after he fell from his bed on the night of November 9
-
-## Influencer among two arrested in multi-crore heist at jewellery showroom in Madurai, say police
-The theft came to light on November 12 when employees arrived at the showroom and found that gold and diamond ornaments had gone missing from display counters.
+## Strong office rental growth keeps US investors in Japan despite rate increases
+Expectations of interest rate increases of up to 2.25 per cent in Japan have not deterred the influx of US capital into the local real estate market due to healthy rental growth of offices in prime locations, with analysts saying that investors have simply become more selective within the market. Th
 
 ## Expanding Sino-foreign postgrad degrees lure working professionals back to the classroom
 Many Chinese working professionals are turning to postgraduate degrees jointly offered by local and overseas universities, seeking internationally recognised qualifications and technical skills that can boost their prospects with employers pursuing expansion abroad. More than 200,000 applications we
@@ -131,9 +134,6 @@ China’s finance ministry on Friday clarified the enforcement details of its of
 
 ## Asia’s private credit market has ample room for expansion, Ares executive says
 Asian private credit has ample room to expand, with investor demand holding up and the region’s lending market lagging far behind its private equity industry, according to E.G. Morse, head of Asia credit at Ares Management. The region’s private equity assets under management stood above US$1 trillio
-
-## Destroy raided documents, Dutch court tells Jaguar Land Rover in IP fight with BYD
-A Dutch court has rendered a ruling in favour of BYD in the Chinese electric vehicle (EV) giant’s dispute with Jaguar Land Rover (JLR) over the British luxury carmaker’s intellectual property (IP) claims. JLR was ordered to destroy documents obtained in a raid of BYD’s Netherlands offices, according
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League
-Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.
+## Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold
+Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.
 
-## US flights resume after ageing technology blamed for outage
-US flights resume after ageing technology blamed for outage
+## Netanyahu sends plea to Eisenkot for unity government
+Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.
 
-## US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine
-Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.
+## Thailand’s elderly kept in cages
+A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.
 
-## India’s Assam state demolishes homes of 132 Muslim families
-Authorities in India’s Assam have demolished the homes of 132 Muslim families.
+## SpaceX’s Starship nails a smooth return with historic catch
+SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
 
-## Can being ‘non-Western’ cost you your home in Denmark?
-Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
+## Israeli air strike kills senior Hamas commander in Gaza
+Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
 
-## Deadly car bomb blast kills two near Syria’s capital
-At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.
+## Hundreds of men march in Switzerland to protest violence against women
+Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
 
-## More than 100,000 rally across France in new Yellow Vest protests
-Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.
+## SpaceX’s Starship captured by launchpad arms in dramatic first
+SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.
 
-## Tens of thousands march in latest Portugal housing protests
-These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.
+## Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status
+Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
