@@ -1,91 +1,91 @@
 # AION Intelligence
 
+## Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn
+Drugmaker’s potential acquisition of Ollin Biosciences is latest in glut of deals in biotechnology sector
+
+## Trump loses. European populism lives on | Martin Wolf on the US midterms
+Now, with the Democrats’ sweeping victory, could the tide be turning against rightwing populism on both sides of the Atlantic?
+
+## Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal
+Prime minister will tell a City of London audience that he is prepared for a national discussion about a longer-term accord with Europe
+
+## Iran attacks Bahrain in escalation of Gulf hostilities
+Kingdom says it has intercepted two barrages this week after months of relative calm
+
+## EU banking watchdog veers away from single deposit insurance scheme
+Chair of European Banking Authority working on alternative ways to free up more cross-border lending
+
+## Estonia to close border with Russia after second alleged sabotage attempt
+Tallinn accuses Russian military intelligence unit GRU of being behind a failed explosion at dronemaker
+
 ## Jensen Huang discusses comeback as Nvidia CEO with allies
 Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy
 
 ## Young Britons out of work or training for a year to be guaranteed jobs
 Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support
 
-## Viktor Orbán’s party reels from $20mn hidden cash discovery
-Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally
+## Bessent says Nvidia needs ‘shake-up’ with external CEO
+US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China
 
 ## Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin
 Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war
 
-## Anthropic IPO to further fuel the AI news cycle
-New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale
-
-## US and allies sign accord to protect AI supply chains from China
-Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen
-
-## Decision to move Shakespeare Institute out of Stratford sparks outcry
-Study centre’s director quits after University of Birmingham says it will relocate to Edgbaston
+## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector
+Summit’s ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US
 
 ## Neighbours of China’s London ‘mega’ embassy struggle to sell flats
 Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems
 
-## Bessent says Nvidia needs ‘shake-up’ with external CEO
-US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China
-
-## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector
-Summit’s Ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US
-
 ## Hong Kong developer New World unveils $3.2bn rights issue
 Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts
 
-## Gold rush turns deadly in Guinea
-High gold prices have driven a wave of fresh mining, and Conakry is cracking down
+## Sensex today | Stock Market Live Updates: Index Outlook: Staying firmly bullish
+Sensex, Nifty, Share Prices Live: Nifty 50 and Sensex sustained higher and stable all through the week. The expected corrective fall did not happen. Nifty Bank index on the other hand has risen sharply for the second consecutive week. The expected rise to 61,000 on the Nifty Bank index has happened 
 
-## UK businesses facing big rise in electricity bills by end of decade
-Estimated increase of about 13% is largely driven by the cost of investment in electricity networks
+## ULA’s Vulcan rocket fails after launch, destroys 40 Amazon Leo satellites
+The failure marks a major setback for the Boeing-Lockheed Martin venture as it seeks regular launches for Amazon’s satellite constellation
+
+## Mahindra’s electric three-wheeler business eyes IPO in 18 months
+CEO Suman Mishra says the proposed listing will depend on funding requirements, sustained growth and the readiness of the electric-vehicle business
+
+## Yemen’s Houthis claim missile strikes on Riyadh airport and financial centre
+The claims come amid escalating hostilities, with the group also reporting strikes on Saudi troop positions in Lahj Governorate
+
+## Prince William and Princess Kate to visit India, meet PM Modi in New Delhi
+The visit will highlight India-UK cooperation in clean energy, sustainability, innovation and youth leadership, alongside longstanding cultural connections
+
+## US Treasury Secretary Scott Bessent urges Nvidia to look outside for new CEO
+His remarks come as the chipmaker’s board explores potential successors and faces questions over its corporate culture and export compliance.
 
 ## Karnataka Bank appoints Biji SS as interim MD and CEO
 The appointment follows regulatory approval from the Reserve Bank of India, with the bank set to begin its search for regular leadership
 
-## Editorial. COP out
-Developed world must pick up the tab on climate finance
+## Lung health, the life breath of economic growth
+Poorly controlled respiratory conditions can diminish productivity at the level of individuals, households, employers and the broader economy
 
-## Hindalco arm Novelis to sell China assets for ₹2,490 cr
-The assets were sold to Shenzhen Hongzhi Industrial Investment Co, said Hindalco Industries in an announcement on Sunday
+## Sebi to issue guidelines for usage of AI in markets: Pandey
 
-## Wholesale wheat prices show no signs of cooling despite FCI selling 2 lakh tonnes past few weeks
-Many food companies are buying the FCI wheat and selling it to traders as market rates are higher compared to the OMSS rates
 
-## Extending EoM transition period to 3 years would make adjustment easier, says IndiaFirst Life Insurance MD & CEO
-Rushabh Gandhi says transition not difficult for the company but extension of transition period from two years to three years would make it easier
+## Indian liqueur companies carve out space with new flavours
 
-## A diagnosis of our dependencies
-A book that explores how technologically sovereign India is
 
-## Liquor makers push for price increases across states amid cost pressures
-Companies including United Breweries, Allied Blenders and Distillers, Radico Khaitan and Tilaknagar Industries are engaging with state governments and industry associations to seek revisions
+## After MNCs, domestic companies embrace GCC model
 
-## Air India restores non-stop flights on all four New York routes
-Easing of airspace restrictions cuts travel time by up to five hours on services that required refuelling stops in Rome
+
+## Food items see price escalation
+
+
+## Loan repayment cap for MFIs to stay: RBI
+
+
+## Domestic demand, industry, earnings power growth in Q2
+Economists See GDP Expansion Of 7.5% Against 7.8% In Q1
 
 ## Husband remits Rs 80L to seller for wife's property, she gets notice; what ITAT said
 According to the I-T department’s ‘Insight Portal’, the woman purchased an immovable property worth Rs 1.4 crore during the financial year that ended on March 31, 2016. The portal monitors high-value financial transactions to help detect instances of tax non-payment. The case was about Section 69 of
 
 ## Semiconductor boom may add 1 lakh jobs; senior engineers earn 6x IT salar
 Industry experts estimate over 1 lakh jobs in the next three years through the country’s efforts to build a semiconductor ecosystem of its own. Professionals with specialised skills, including process engineering, chip fabrication, chip design, systems engineering and product architecture, can earn 
-
-## India, Egypt to explore possible trade pact with focus on farmers, fishermen
-
-
-## Indian Railways now has freight corridors, but will cargo from road come back?
-At first glance, rail freight appears to be thriving. Freight loading has risen from 1,098 million tonne in fiscal 2015 to 1,617 million tonne in fiscal 2025 and a record 1,670 million tonne last fiscal. Yet rail's position within India's logistics system remains weaker than these numbers imply. The
-
-## Gold falls to Rs 1.36 lakh, silver down 5% on MCX this week; what’s the outlook?
-Gold price outlook: Market participants will watch inflation data from India, the US, the UK, the Eurozone and Japan. The minutes of the Federal Open Market Committee meeting, remarks by Federal Reserve officials and US employment figures will also be closely monitored. Gold and silver both recorded
-
-## Megaspeed says Alice Huang exited company in 2025, stays silent on 'personal matters'
-
-
-## Tata Steel eyes NINL merger this fiscal; Rs 40,000 crore expansion awaits clearance
-Tata Steel plans to finalize the merger of Neelachal Ispat Nigam Ltd (NINL) this financial year. The National Company Law Tribunal (NCLT) will review the proposed merger soon. Tata Steel has previously acquired NINL's assets for Rs 12,100 crore to enhance production capacity. The company aims to add
-
-## Sebi plans AI guardrails for capital markets, stresses human oversight in critical decisions
-Sebi plans to issue guidelines focusing on the responsible use of artificial intelligence in capital markets. The guidelines will emphasize investor protection, accountability, and the necessity of human oversight in AI decision-making. Currently, Sebi is enhancing its cybersecurity framework to add
 
 ## Depression over Bay of Bengal likely to intensify into severe cyclonic storm by Nov 17, move towards Andhra Pradesh coast: IMD
 The weather system is likely to become a Severe Cyclonic Storm over the westcentral Bay of Bengal by the evening of November 17, the IMD said.
@@ -111,6 +111,9 @@ The state government has prepared the Assam Flood Plain Zoning Bill, 2026, which
 ## CJP announces zonal appointments, coordination committees in 10 states and regions
 Kshitij Pagar has been appointed West Zone in-charge and Dr Vivek Sangwan North Zone in-charge.
 
+## HKEX launches first dim sum bond index in push to expand global use of yuan
+Hong Kong Exchanges and Clearing (HKEX) is set to launch its first bond index on Monday to track the performance of offshore yuan-denominated bonds, in its latest effort to promote the internationalisation of the yuan and strengthen the city’s status as an international financial centre, according t
+
 ## Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board
 Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified online petition calling on the board to reinstate the company’s founder. Organisers of the “Stand with Jensen” campaign, who describe the
 
@@ -131,9 +134,6 @@ The United Arab Emirates, a favoured destination for foreign property investment
 
 ## No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office
 China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, acc
-
-## UBS unveils new West Kowloon hub to tap Greater Bay Area wealth
-UBS has drawn back the curtains on its new Hong Kong headquarters in West Kowloon, a 20-storey tower with a client floor built for meetings, dinners and events, as the Swiss lender anchors its regional presence to tap growing wealth across the Greater Bay Area. About 3,500 UBS staff, currently sprea
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
-The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.
+## Founder of Guadalajara cartel dies in hospital after decades in prison
+Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.
 
-## Palestinians reclaim Gaza’s shores with a swim for hope
-For the first time in more than three years, Gaza’s swimming federation has held a competition.
+## After a nationwide ground stop, US faces aviation infrastructure questions
+Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.
 
-## Who can force Israel to implement Gaza ceasefire deal?
-Storms batter Palestinian territory as Israel restricts entry of aid.
+## Czechs rally against gov’t threat to media independence
+Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.
 
-## Estonia to close border crossings with Russia after alleged arson attack
-Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.
+## Zambia’s copper boom attracts billions in investment, but who benefits?
+Workers' rights, environmental concerns and local businesses remain at the centre of the debate.
 
-## Jordan sentences three men to death over deadly church attack in Karak
-Jordan sentences three men to death over deadly church attack in Karak
+## Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling
+Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.
 
-## Africa CDC says Ebola outbreak in DR Congo ‘still not under control’
-'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.
+## Iran war live: Tehran warns it may strike first before another US attack
+Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.
 
-## Israeli drone filmed flying low outside homes in southern Lebanon
-Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.
+## Brawl erupts in Brazil’s Women’s League final
+A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.
 
-## Prince Harry in Ukraine meeting Invictus 2027 hopefuls
-British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.
+## England stun Spain to end La Roja’s 43-game unbeaten run
+Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
