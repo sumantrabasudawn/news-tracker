@@ -1,139 +1,142 @@
 # AION Intelligence
 
-## Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn
-Drugmaker’s potential acquisition of Ollin Biosciences is latest in glut of deals in biotechnology sector
+## Five EU countries to announce scheme to deport irregular migrants to Rwanda
+Also in this newsletter: The tourist taxes eating Amsterdam’s hospitality sector
 
-## Trump loses. European populism lives on | Martin Wolf on the US midterms
-Now, with the Democrats’ sweeping victory, could the tide be turning against rightwing populism on both sides of the Atlantic?
+## FirstFT: Jensen Huang in talks with allies for Nvidia comeback
+Also in today’s newsletter: Ukraine loan and IPO returns
 
-## Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal
-Prime minister will tell a City of London audience that he is prepared for a national discussion about a longer-term accord with Europe
+## Hong Kong developer New World’s shares tumble 47% on $3.2bn rights issue plan
+Ailing property group to offer new stock at 80% discount as it moves to slash debts
 
-## Iran attacks Bahrain in escalation of Gulf hostilities
-Kingdom says it has intercepted two barrages this week after months of relative calm
+## Brussels to propose €45bn Ukraine loan borrowed against EU budget
+Plan to help bridge Kyiv’s funding gap next year is due to be presented to member states on Wednesday
 
-## EU banking watchdog veers away from single deposit insurance scheme
-Chair of European Banking Authority working on alternative ways to free up more cross-border lending
+## Climate ministers start final week of talks deeply divided over age-old issues
+Even the need for a final agreement is being opposed by fossil fuel-reliant nations
 
-## Estonia to close border with Russia after second alleged sabotage attempt
-Tallinn accuses Russian military intelligence unit GRU of being behind a failed explosion at dronemaker
+## Milburn to call for £1bn tax break for businesses to boost youth employment
+Centrepiece of offer will be partial reversal of employers’ NI rise for workers aged 21-24 imposed by previous chancellor
 
-## Jensen Huang discusses comeback as Nvidia CEO with allies
-Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy
+## Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI
+Ex-Nvidia chief’s ignominious exit removes a vocal and influential supporter of open AI systems
 
-## Young Britons out of work or training for a year to be guaranteed jobs
-Work and pensions secretary lays out plan to address ‘lost generation’ ahead of changes to unemployment support
+## UK companies line up to replace Palantir in NHS contract
+The government is expected to rule out triggering a break clause but will instead announce a new procurement process
 
-## Bessent says Nvidia needs ‘shake-up’ with external CEO
-US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China
+## The perfect sell-off
+Plus, fast-tracking Anthropic’s IPO
 
-## Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin
-Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war
+## Tiny quant fund joins UK tax giants
+Plus, Ken Griffin’s Miami makeover, a surprise crude surplus and the Guggenheim collection in London
 
-## FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector
+## US regulator rejects cancer drug invented in China in blow to Beijing’s biotech sector
 Summit’s ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US
 
-## Neighbours of China’s London ‘mega’ embassy struggle to sell flats
-Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems
+## European banks’ risk transfer boom raises exposure to ‘forced deleveraging’
+Banks increasingly reliant on SRTs to boost returns and lending capacity, says S&P report
 
-## Hong Kong developer New World unveils $3.2bn rights issue
-Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts
+## Plural raises €1bn fund to back European tech start-ups
+London-headquartered group announces one of region’s biggest-ever venture capital fundings
 
-## Sensex today | Stock Market Live Updates: Index Outlook: Staying firmly bullish
-Sensex, Nifty, Share Prices Live: Nifty 50 and Sensex sustained higher and stable all through the week. The expected corrective fall did not happen. Nifty Bank index on the other hand has risen sharply for the second consecutive week. The expected rise to 61,000 on the Nifty Bank index has happened 
+## Sensex today | Stock Market Live: Sensex, Nifty pare early gains as investors assess sustainability of market rally
+Sensex, Nifty, Share Prices Live: Indian equities pared a sharp early rally to trade with modest gains on Monday, as investors assessed whether the recent upmove can sustain. Buying in banking stocks and continued foreign inflows offered support, while global weakness kept sentiment cautious.
 
-## ULA’s Vulcan rocket fails after launch, destroys 40 Amazon Leo satellites
-The failure marks a major setback for the Boeing-Lockheed Martin venture as it seeks regular launches for Amazon’s satellite constellation
+## India Inc posts broad-based earnings beat in Q2FY27; Nifty PAT hits 17-quarter high
+The MOFSL Universe of 398 companies reported sales, EBITDA, and PAT growth of 25 per cent, 23 per cent, and 32 per cent year-on-year respectively, surpassing estimates of 19 per cent, 17 per cent, and 21 per cent.
 
-## Mahindra’s electric three-wheeler business eyes IPO in 18 months
-CEO Suman Mishra says the proposed listing will depend on funding requirements, sustained growth and the readiness of the electric-vehicle business
+## Today’s Gold Rate in India November 16: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur
+22, 24 carat Gold prices down across other cities on November 16
 
-## Yemen’s Houthis claim missile strikes on Riyadh airport and financial centre
-The claims come amid escalating hostilities, with the group also reporting strikes on Saudi troop positions in Lahj Governorate
+## Today’s Gold Rate in India November 16: Gold prices down in Delhi, Mumbai, Kolkata, Chennai, Bengaluru
+22, 24 carat Gold prices down across metro cities on November 16
 
-## Prince William and Princess Kate to visit India, meet PM Modi in New Delhi
-The visit will highlight India-UK cooperation in clean energy, sustainability, innovation and youth leadership, alongside longstanding cultural connections
+## Piccadily Agro posts 19% revenue growth in Q2 FY27, shares trade flat
+For the first half of FY2026-27, total income came in at ₹552.5 crore, up 19.1% year-on-year, while EBITDA stood at ₹100.3 crore, up 14.5%
 
-## US Treasury Secretary Scott Bessent urges Nvidia to look outside for new CEO
-His remarks come as the chipmaker’s board explores potential successors and faces questions over its corporate culture and export compliance.
+## UN ready to support any denuclearisation effort from US, China, Russia talks
+Secretary-General Antonio Guterres says the UN is prepared to engage in any denuclearisation initiative emerging from the November 19 meeting of the US, Russian and Chinese leaders.
 
-## Karnataka Bank appoints Biji SS as interim MD and CEO
-The appointment follows regulatory approval from the Reserve Bank of India, with the bank set to begin its search for regular leadership
+## Trade imbalance, defence, maritime ties to top Modi’s agenda at ASEAN meetings
+India-ASEAN Summit, East Asia Summit on Tuesday; trade pact breakthrough unlikely; Quad leaders may also meet
 
-## Lung health, the life breath of economic growth
-Poorly controlled respiratory conditions can diminish productivity at the level of individuals, households, employers and the broader economy
+## India’s wholesale inflation surges to 12.3% in October as energy prices rise
+Rising energy and commodity costs are increasing pressure on manufacturers, transport operators and businesses, economists said, while food inflation eased marginally
 
-## Sebi to issue guidelines for usage of AI in markets: Pandey
+## Wholesale inflation jumps to 12.29% in October due to rising crude and power prices
+In October, wholesale inflation in India surged to 12.29%, up from 11.39% in September. This increase was largely driven by a dramatic rise in fuel and power prices, which skyrocketed to 32.84%. While crude petroleum and natural gas prices soared by 70.80%, primary food articles experienced only a s
 
+## Jimmy Tata backs N Chandra’s reappointment Tata Sons listing; opposing Noel’s stance
+Jimmy is the younger son of Naval Tata and his first wife, Sooni Commissariat. His views have come to light as the Tata group faces an intensifying battle over control. The Tata Sons board and Noel Tata, who chairs Tata Trusts, the company’s majority shareholder, have been at loggerheads over severa
 
-## Indian liqueur companies carve out space with new flavours
+## Debt, dues and deja vu: How poor nations end up paying more than they borrow
+In 2025, low and middle-income countries are grappling with an alarming spike in external debt, hitting a staggering $9.4 trillion. Alongside this, debt repayment burdens surged to $1.4 trillion, largely due to escalating borrowing rates and a scarcity of new financial support. Nations receiving IDA
 
+## AI agents could help banks generate nearly 3x returns over three years: McKinsey
+Banks are considering adopting artificial intelligence agents, expecting to recover investments within around ten months. Analysis suggests substantial returns of nearly three times the initial investment over three years. Increasing competition emphasizes the need for banks to move quickly beyond p
 
-## After MNCs, domestic companies embrace GCC model
+## Rupee rises 6 paise to 94.13 as crude oil prices ease, strong dollar limit gains
+The rupee bounced back, gaining 6 paise to reach 94.13 against the US dollar during early trading hours. This recovery was aided by declining crude oil prices and a rise in local equities. Despite a previous setback of 7 paise, external pressures from a stronger dollar and rising US Treasury yields 
 
+## Indian bonds brace for a rough week as US treasury selloff sends yields soaring
+At the onset of the week, Indian government bonds are likely to encounter significant pressure stemming from the rise in US yields. The noticeable increase in the US 10-year Treasury yield has shifted market sentiments regarding possible changes in monetary policy. Furthermore, with domestic retail 
 
-## Food items see price escalation
+## Oil prices fall as surplus fears return after nine-month dry spell in the market
+Oil prices are on a downward trend due to an anticipated surplus and a recovery in shipments through the Strait of Hormuz. The International Energy Agency has indicated that supply could outstrip demand in the upcoming quarter, altering market forecasts. However, the United States has tightened rest
 
+## US flight chaos continues: 2,400 flights cancelled, 8,800 delayed as recovery drags on
+US airlines faced significant disruptions as more than 10,000 flights were canceled or delayed due to technical failures. The issues resulted from maintenance work on routers used by the Federal Aviation Administration, leading to widespread communication problems. Transportation Secretary Sean Duff
 
-## Loan repayment cap for MFIs to stay: RBI
+## Owner, contractor held after under-construction building collapses in Delhi’s Paharganj
+Police apprehended the property owner, Raman and contractor Anwar for violating GRAP 3 norms by conducting outdoor construction
 
+## New work order placed ECI’s IT dept under senior deputy commissioner’s oversight: Poll body tells SC
+The latest order comes amid a wider controversy over ECI’s functioning, including the handling of its technology operations
 
-## Domestic demand, industry, earnings power growth in Q2
-Economists See GDP Expansion Of 7.5% Against 7.8% In Q1
+## LCA Mk-1A to join IAF within this financial year: Air Chief Marshal Dixit
+Operationalising the LCA Mk-1A is an immediate priority for the IAF.
 
-## Husband remits Rs 80L to seller for wife's property, she gets notice; what ITAT said
-According to the I-T department’s ‘Insight Portal’, the woman purchased an immovable property worth Rs 1.4 crore during the financial year that ended on March 31, 2016. The portal monitors high-value financial transactions to help detect instances of tax non-payment. The case was about Section 69 of
+## IAF in ‘ok but not simple’ situation to deter China: Air Chief Marshal Ashutosh Dixit
+“Our plans are in place. We are inducting new technology. So with that, we are in an okay situation…," he said.
 
-## Semiconductor boom may add 1 lakh jobs; senior engineers earn 6x IT salar
-Industry experts estimate over 1 lakh jobs in the next three years through the country’s efforts to build a semiconductor ecosystem of its own. Professionals with specialised skills, including process engineering, chip fabrication, chip design, systems engineering and product architecture, can earn 
+## The Asean Summit in the Philippines: Navigating the future in troubled times
+Philippines is an important contemporary partner in shaping India's engagement with Southeast Asia and the wider Indo-Pacific
 
-## Depression over Bay of Bengal likely to intensify into severe cyclonic storm by Nov 17, move towards Andhra Pradesh coast: IMD
-The weather system is likely to become a Severe Cyclonic Storm over the westcentral Bay of Bengal by the evening of November 17, the IMD said.
+## Supreme Court proposes compensation for families of murder victims even if accused acquitted
+The court said that the families of victims of crime should also be considered for compensation under victim protection schemes.
 
-## PM Modi, Trump to join ASEAN Summit in Manila; global conflicts, maritime, economic ties on agenda
-Modi will travel to Manila on November 16 to participate in the ASEAN-India Summit and the East Asia Summit the following day.
+## Sabarimala temple to open for annual pilgrimage; AI cameras part of crowd management
+While the pilgrimage season formally begins Tuesday, which marks the first day of the Malayalam month of Vrischikam, the temple doors will open to pilgrims on Monday evening itself
 
-## Uttarakhand MLA loses temper, vandalises stage after he was denied chance to speak at event; booked
-The chief minister lashed out at the Congress, saying it has lost its ground which is causing its members to “lose their mental balance”.
+## ‘Highest priority’: Centre reaches out to Neha Bora over toxic air in Delhi-NCR protest
+The ministry also told Neha Bora that the minister, Bhupender Yadav, is currently in Türkiye leading the Indian delegation at the COP31 climate summit.
 
-## ‘Magnifying smaller identities’: Mohan Bhagwat says efforts on to divide India using British-era tactics
-RSS chief Mohan Bhagwat said that while India is moving in the right direction today, certain global forces do not want the nation to become great.
+## Gold set to snap blistering run of 3-year gains as Fed rate increase looms
+Gold has lost its lustre, heading for its first annual loss in four years, as concerns that the Federal Reserve will raise the interest rate to tame inflation spurred capital outflows, offsetting buying by global central banks. The yellow metal traded at US$3,874 an ounce on Monday, approaching the 
 
-## Punjab woman, accomplice held in Rajasthan train track blast; police suspect ISI's 'romance' strategy to recruit women
-Police said the woman is a resident of Gurdaspur and is separated from her husband who is lodged in jail in Punjab in a drug trafficking case.
+## Labubu mania cools
+-
 
-## Rajasthan teacher arrested after refusing to marry 61-year-old Canadian woman he met on dating app
-Two days after the woman's arrival, the teacher told her he would not go ahead with the marriage because of their age difference
+## Goldman Sachs, Morgan Stanley diverge on 2027 calls for H shares vs A shares
+Goldman Sachs has shifted its preference from A shares to H shares, upgrading Hong Kong-listed Chinese stocks to overweight for 2027 on expectations of accelerating earnings growth and valuations near cyclical lows, according to a report. While the Wall Street bank downgraded A shares – onshore list
 
-## Assam to restrict construction in flood-prone areas under proposed zoning law: CM
-The state government has prepared the Assam Flood Plain Zoning Bill, 2026, which will be tabled during the winter session of the state assembly next month
+## Global trade beats forecasts despite fuel crisis, set to grow in 2027, WTO official says
+Global trade is growing beyond economists’ expectations this year and is likely to expand again in 2027 after World Trade Organization (WTO) members accelerated measures to ease disruptions caused by the Hormuz fuel crisis, a WTO official said on Monday. World merchandise trade volumes were expected
 
-## CJP announces zonal appointments, coordination committees in 10 states and regions
-Kshitij Pagar has been appointed West Zone in-charge and Dr Vivek Sangwan North Zone in-charge.
+## Akeso shares plummet as Chinese firm’s cancer drug ivonescimab faces FDA setback
+Shares in Hong Kong-listed Akeso plunged as much as 31.8 per cent on Monday morning after the US Food and Drug Administration (FDA) rejected its cancer drug application, raising investor worries over the company’s near-term commercial outlook. Ivonescimab, one of the most closely watched innovative 
+
+## From cinemas to markets, Hong Kong-UAE ties unfractured by Middle East war
+When two Hong Kong actors, Kenny Wong Tak-bun and German Cheung Man-kit, showed up at a cinema in Dubai on November 6, it caused a stir. The pair had made what some saw as a risky journey amid the war in Iran, which has scared businesses and travellers away from the Middle East. The actors made the 
+
+## With new forum, can Hong Kong become the deal-making hub linking Asia and Middle East?
+Hong Kong will host an investment forum for business leaders and investors from the Middle East and Asia next year as it seeks to attract more international listings and strengthen its role as a superconnector between the two regions, according to Trade Development Council (TDC) chairman Frederick M
 
 ## HKEX launches first dim sum bond index in push to expand global use of yuan
 Hong Kong Exchanges and Clearing (HKEX) is set to launch its first bond index on Monday to track the performance of offshore yuan-denominated bonds, in its latest effort to promote the internationalisation of the yuan and strengthen the city’s status as an international financial centre, according t
 
-## Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board
-Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified online petition calling on the board to reinstate the company’s founder. Organisers of the “Stand with Jensen” campaign, who describe the
-
-## Indebted Hong Kong developer New World offers shares at 81% discount in US$3.2b cash call
-New World Development will issue 11 new shares for every existing share at an 81.5 per cent discount, exposing shareholders who do not participate to theoretical dilution of 75.3 per cent, as the indebted Hong Kong property developer seeks to raise HK$24.9 billion (US$3.2 billion) in a recapitalisat
-
-## ‘Black swans’ and ‘grey rhinos’: China’s regulator warns of risks amid global turmoil
-China’s top securities regulator has flagged the threat of potential “black swan” and “grey rhino” events amid global market turbulence, calling for greater regulatory certainty and cooperation to bolster market resilience. Global capital markets were “experiencing a new round of asset repricing and
-
-## Megaspeed rejects claims over supply chain as Nvidia-linked scrutiny intensifies
-Megaspeed, the Singaporean company caught in the Nvidia controversy, has pushed back against reported claims about its supply chain practices and distanced itself from former CEO Alice Huang. The firm said in a statement on Sunday that it “conducts legitimate and lawful business” and had hired exter
-
-## Over 100 Fortune Global 500 firms head to Shenzhen as Apec spotlight turns to CEO Summit
-Shenzhen expects more than 100 major global enterprises and over a dozen national leaders for the Asia-Pacific Economic Cooperation (Apec) CEO Summit, as the southern Chinese city gears up to host the highest-level multilateral gathering in its history. Representatives from 115 Fortune Global 500 co
-
-## Dubai, Abu Dhabi property markets could gain if Trump’s midterm losses help end Iran war
-The United Arab Emirates, a favoured destination for foreign property investment, could see support for housing demand and prices if heavy midterm losses for US President Donald Trump’s Republican Party help bring an end to the Iran war, analysts said, adding that housing markets across the wider Mi
-
-## No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office
-China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, acc
+## Lessons From the Watergate Babies for the ‘No Kings’ Congress
+The one thing they can’t afford to do is nothing.
 
 ## The EU’s First AI Summit
 Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
@@ -156,8 +159,11 @@ Why the tech elite seems to be particularly susceptible.
 ## Will German Rearmament Save Europe?
 The promise and pitfalls of a newly militarized Germany.
 
-## What in the World?
-Test yourself on the week of Nov. 7: COP31 kicks off in Turkey, Pope Leo visits South America, and Jensen Huang resigns.
+## Philippines, Australia Sign New Defense Agreement Amid China Pressure
+The new Defense Cooperation Agreement builds on a series of bilateral defense accords, including the 2007 Status of Visiting Forces Agreement.
+
+## Updated FOIP and Economic Security
+How to keep the international division of labor while overcoming vulnerability
 
 ## Trump and Xi Can Reopen Trade. But for Whom?
 The narrative of easing trade tensions doesn’t tell us who reaps the benefits of these developments at the company level.
@@ -176,12 +182,6 @@ Tensions will flare up when cherished social institutions need to change to acco
 
 ## NATO Is Not the Right Forum to Discuss China
 No matter how strange and exaggerated NATO finds the Chinese perspective on the alliance, the organization should consider addressing Beijing’s concerns.
-
-## Japan’s AZEC and POWERR Asia Are Failing Southeast Asia
-Tokyo has every right to defend its own trade networks. But it has no right to dress up its domestic fossil fuel strategy as a regional partnership for decarbonization and energy security.
-
-## Japan and the US Need an Allied Technology Market, Not New Tariffs
-Tokyo and Washington have strong economic and strategic incentives to build an allied market for advanced robotics and industrial automation.
 
 ## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
 Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
@@ -231,29 +231,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Founder of Guadalajara cartel dies in hospital after decades in prison
-Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.
+## Why is China resisting a nuclear treaty with the US and Russia?
+Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.
 
-## After a nationwide ground stop, US faces aviation infrastructure questions
-Trump has requested $50bn for upgrades, but Democratic lawmakers are asking for transparency before spending more.
+## At least 11 killed in blaze on Thailand’s Phuket island
+Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.
 
-## Czechs rally against gov’t threat to media independence
-Czechs rallied in Prague over plans to shift public media funding to the state, raising fears of government influence.
+## Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals
+Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.
 
-## Zambia’s copper boom attracts billions in investment, but who benefits?
-Workers' rights, environmental concerns and local businesses remain at the centre of the debate.
+## The Red Sea cannot be secured without restoring the Yemeni state
+Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.
 
-## Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling
-Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.
+## How Russia is preparing Iran for the next escalation
+Russian space intelligence sharing can help Tehran get ready for an imminent US assault.
 
-## Iran war live: Tehran warns it may strike first before another US attack
-Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.
+## US and rivals spar over next UN boss as race lurches towards deadline
+Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.
 
-## Brawl erupts in Brazil’s Women’s League final
-A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.
+## Widow of Haiti’s slain leader Moise to contest presidential vote
+Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.
 
-## England stun Spain to end La Roja’s 43-game unbeaten run
-Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.
+## Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’
+Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.
+
+## After MNCs, domestic companies embrace GCC model
+Top conglomerates including Adani, Tata and Mahindra, have adopted the model to integrate operations, standardise processes and drive digitisation across their businesses.
+
+## India joins US-led pact to secure AI supply chains, critical technologies amid China rivalry: Report
+India has signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity alongside the US and other nations, committing to safeguard critical technologies and AI supply chains. The pact, part of Washington's Pax Silica initiative, seeks to strengthen international cooperation 
+
+## India to get preferential access in US market under trade pact: Piyush Goyal
+India has secured an assurance from the United States that Indian goods will enjoy preferential market access in the American market compared to competing countries under the proposed bilateral trade agreement (BTA), Commerce and Industry Minister Piyush Goyal said on Sunday.
 
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
@@ -270,14 +279,8 @@ Brijesh Modi says the company is focusing on cost management, procurement effici
 ## DPDP compliance: CFOs grapple with costs, consent management and supply chain risks as deadline nears
 India Inc is confronting significant compliance costs as it prepares for the Digital Personal Data Protection Act implementation. Over the past six to nine months, chief financial officers have been busy onboarding enterprise consent management software while also strengthening their existing securi
 
-## Kalpataru confident of achieving ₹6,500 crore pre-sales target in FY27, says CFO
-With a pre-sales target of ₹6,500 crore for this fiscal year, Kalpataru is navigating through the current market landscape. Although sales bookings remained stable at around ₹2,600 crore in the initial half, the housing demand shows resilience against global uncertainties. The CFO is confident about
-
-## Companies must retain accountability as autonomous AI agents take on business decisions
-As enterprises increasingly utilize autonomous AI, they face legal and regulatory challenges that require comprehensive governance frameworks. Legal experts assert that accountability remains with businesses deploying the technology despite AI's decision-making capabilities. Companies must ensure cl
-
-## Climate finance, trade likely to be on COP31 table
-Countries are likely to debate the financial obligations developing nations claim from developed nations for climate adaptation. The African Group wants to include finance assessments in the agenda to support the Green Climate Fund.
+## Winter session likely in first week of December; govt may push women's quota bill
+The Winter session of Parliament will likely start in the first week of December to discuss crucial legislation. The government aims to pass the women's reservation bill linked to delimitation before the 2029 elections. Opposition parties are expected to protest against the Special Intensive Revisio
 
 ## RBI plans to ban private equity firms from holding controlling stakes in multiple NBFCs: What will change?
 The Reserve Bank of India is contemplating a ban on private equity firms holding majority stakes in multiple non-banking financial companies. The planned regulations aim to distinguish between controlling stakes and smaller investments, with the latter facing less scrutiny. Growing foreign investmen
@@ -296,10 +299,4 @@ Sebi has introduced new KYC relaxations for individuals living abroad, allowing 
 
 ## Trump's midterm setback may put India under pressure for quick trade deal on US terms: GTRI
 Amid electoral challenges, US President Donald Trump is likely to ramp up pressure on India to seal a trade deal. This potential agreement would require India to decrease import tariffs on US goods while the US keeps its tariffs intact. Analysts caution that such an arrangement may breach WTO MFN pr
-
-## RBI sets up Technical Consultative Committee for Financial Markets
-The Reserve Bank has constituted a Technical Consultative Committee for Financial Markets (TCCFM), headed by RBI Deputy Governor Rohit Jain, against the backdrop of rapidly evolving financial markets and market infrastructure.
-
-## SBI estimates Rs 19,500 crore ECL impact; RBI working group still fine tuning implementation: Setty
-State Bank of India expects a Rs 19,500 crore net-of-tax impact from ECL implementation and plans to use the four-year transition period. RBI is still open to feedback from banks on the nuances of the guidelines and implementation and is planning a CEO-level meeting to review industry preparedness, 
 
