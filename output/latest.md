@@ -1,136 +1,124 @@
 # AION Intelligence
 
-## US tech stocks slide amid Nvidia fallout
-Tech-heavy Nasdaq 100 fell more than 2 per cent in afternoon trading
-
-## The delicate balance in America’s AI chip war with China
-US export controls need to be better enforced, not turned into a wider blockade
+## Burnham delays plans to set out options for UK’s long-term ties with EU
+PM uses set-piece City of London speech to ease disquiet over starting a debate on potentially rejoining the bloc
 
 ## Russia aims for ‘joint statement’ from trilateral summit with US and China
 Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention
 
-## Nvidia board not considering reinstating Jensen Huang as chief executive
-Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer
-
 ## Pattinson. Robert Pattinson: Amazon unveils the next James Bond
 Hollywood heavyweight earns licence to thrill as new stewards of spy franchise bet on a proven box office star
 
-## Polish central bank freezes top court payments in escalating row with Tusk
-Government accuses opposition-led NBP of playing politics in stand-off over constitutional judges
+## Milburn review to show whether UK really wants to reform its welfare state
+Former minister will set out plan to cut sickness benefits to under-25s while pouring billions of pounds into employment support
 
-## UK short-term borrowing costs hit three-year high
-Two-year gilt yield breaches 5% on strong economic data and hawkish messaging from Bank of England
+## Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade
+US chip stocks fall as Nvidia sustains fresh bout of selling pressure
 
-## Warsh says AI boom could help sustain ‘substantially higher’ US growth
-Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation
+## Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf
+Oil major pulls ahead of rival bidders for Beacon Offshore Energy oilfield as it expands deepwater production
 
-## UK SFO charges eight over alleged £251mn London Capital & Finance fraud
-Thousands of retail investors lost money on minibonds sold by the investment firm, which collapsed in 2019
+## UK companies line up to replace Palantir in NHS
+The government has announced a new procurement process after extending the US tech company’s contract to 2029
 
-## UK government set to limit banks’ retreat from the high street
-Larger current account providers will have to ‘ensure reasonable access to essential in-person banking services’
+## The delicate balance in America’s AI chip war with China
+US export controls need to be better enforced, not turned into a wider blockade
 
-## Eurasian Resources Group to split its Kazakh and African assets
-Deal will free up more highly prized African copper and cobalt operations from Kazakh state control
+## CVC plans to back out of Italian deal with Advent, triggering potential legal clash
+Move to renege on agreement to buy food group Irca leads to dispute between two leading buyout firms
 
-## What the west gets wrong about AI safety in China
-Information censorship plays a central role but state security is not the only priority
+## OpenAI sued by California over 80 ‘loss of control’ incidents
+State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’
 
-## Adani Green says Tarali project involves no forest land or protected areas
-The company issued the clarification after the Maharashtra Forest Department reportedly ordered construction to stop over pending wildlife approval
+## Nvidia board not considering reinstating Jensen Huang as chief executive
+Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer
 
-## India-Thailand trade grows 12.6% to $21.49 billion; UPI-PromptPay link discussed
-The two countries also explored closer cooperation in trade agreements, investment, financial technology and several manufacturing and services sectors
+## Could vitamin B12 help treat Verheij syndrome? Study finds promising clues
+The findings point to a possible link between disrupted RNA splicing, vitamin B12-dependent metabolism and developmental problems in the rare disorder.
 
-## EU imposes up to 9.5% anti-dumping duties on Indian steelmakers
-The European Commission said the duties follow an investigation into steel pricing and will cover imports from five countries
+## Rhythm Pharmaceuticals’ obesity drug cuts BMI by up to 18.8% in two-year trial
+Long-term trial findings presented at ObesityWeek 2026 showed sustained reductions in body mass index among patients receiving the therapy.
 
-## Meganet Technologies Global files draft papers for ₹740-crore IPO
-The AI infrastructure provider supplies servers for high-performance computing, data centres and AI workloads, with customers including Yotta and Motilal Oswal
+## Sensex today | Stock Market Live Updates: Stock to buy today: CAMS
+Sensex, Nifty, Share Prices Live: The stock of CAMS (Computer Age Management Services) has gained nearly 11 per cent so far this month. Before a few weeks, it formed a morning star candlestick pattern on the weekly chart and rallied. The scrip recently broke out of the barrier at ₹710. These factors
 
-## US proposes tougher green card sponsorship rules for companies hiring foreign workers
-The proposed changes would strengthen protections for American workers and impose additional recruitment and reporting requirements on companies seeking to sponsor foreign employees
+## Microsoft 365 outage: Software bug went unnoticed since July
+The company’s preliminary report reveals how automated traffic rerouting, server capacity constraints and testing gaps combined to trigger widespread service disruptions.
 
-## Sonia Gandhi reflects on love, loss and finding ‘Belonging’ in India at the launch of her memoir
-Publisher Harper Collins India says it is the fastest blockbuster – with 200,000 copies sold
+## Microsoft admits over 80% servers were down at peak of global outage last week
+Three factors together caused the outage of the networking gateway that sits in front of many Microsoft 365 services, says Executive VP of Copilot
 
-## No exemption on listing, RBI tells Tata Sons
-In a letter dated November 16, 2026, addressed to Tata Sons’ Chief Financial Officer, the RBI referred to the conglomerate’s earlier communication of October 6, 2026, seeking guidance to ensure compliance with applicable regulations
+## JPMorgan Chase software glitch delays transactions, may affect other banks
+The banking disruption comes amid a series of recent technology-related outages that have raised concerns among customers across the United States.
 
-## Letters to the Editor dated November 17, 2026
+## United Airlines resolves technology glitch that delayed flights across its network
+The disruption adds to a series of recent technology failures affecting major US airlines, banks, air traffic control and email services.
 
+## US court strikes down Trump plan to cap stay of foreign students, journalists
+The ruling preserves the longstanding Duration of Status policy, drawing relief from education groups and organisations representing international students and scholars.
 
-## EU slaps anti-dumping duties on steel imports from India, 4 other countries
+## Oil prices fall as rising supply outweighs Middle East tensions
+On Tuesday, oil prices dropped slightly as expectations of a global supply surplus gained traction. Analysts observed that geopolitical tensions in the Middle East are now having a diminished impact on pricing. According to the International Energy Agency, there is an anticipated surplus for the las
 
+## Videocon insolvency likely to be delayed
+The Supreme Court has ruled that the decision on the haircut for Twinstar Technologies' resolution plan rests with the Committee of Creditors. This ruling has led to further delays in the insolvency proceedings for the Videocon group, initiated in June 2018.
 
-## India joins US-led alliance to secure AI supply chains amid China tech rivalry
-India has taken a significant step by joining a US-led initiative alongside nine other nations to secure their artificial intelligence supply chains. This coalition is designed to protect sensitive technologies while countering competition from China. By creating working groups focused on cooperatio
+## Samsung, Xiaomi raise phone prices by up to Rs 4,000
+In light of disappointing Diwali sales, Samsung and Xiaomi have announced a price increase on multiple smartphone models, effective November 16. The hikes range from Rs 1,000 to Rs 4,000, with Samsung's Galaxy A07 5G and Xiaomi's Redmi A7 seeing the most significant jumps.
 
-## Delhi Metro driverless trains carry millions of passengers; time for other networks to adopt?
-Delhi Metro’s driverless trains carried a staggering 1.6 million passengers in a single day on November 2 this year, as commuters travelled in large numbers ahead of Diwali. The driverless trains operate through a fully automated system, removing the possibility of human error. Following the introdu
+## Wholesale inflation rises to 12% in October
+Factory gate inflation based on the wholesale price index increased to 12.3% in October from 11.4% in September. This rise is attributed to the acceleration in fuel prices and a base effect. Fuel and power inflation surged significantly to 32.8% as mineral oil and crude petroleum prices rose. The pr
 
-## What is the gold price outlook for November 16, 2026 week?
-Gold price prediction today: The recent consolidation around Rs 136,000-136,500 has failed to generate a meaningful recovery, and the latest move towards the lower Bollinger Band indicates that selling pressure remains dominant. Immediate support is placed around Rs 135,500-135,600, followed by Rs 1
+## Govt to consider LTCG tax review demand: CBDT
+Industry and market participants have been demanding that the long-term capital gains tax of 12.5% on listed equity shares be done away with to help boost the Indian stock markets.
 
-## LTCG review: Finance Ministry assesses proposals; decision expected in Budget 2027-28
-Industry associations have already approached the ministry with a proposal to scrap long-term capital gains tax (LTCG). They have also called for a rationalisation of short-term capital gains tax (STCG) and securities transaction tax (STT) rates on equities, arguing that this could help attract grea
+## TVS family feud deepens as Lakshmi writes to dad Venu for partition of family assets
+Lakshmi and her mother, Mallika Srinivasan, argue a March 2024 MoU did not settle the economic interests through a formal valuation and mutually agreed division.
 
-## Energy drink or sugar? FSSAI sends notice to Red Bull over composition of beverage
-The Food Safety and Standards Authority of India has expressed alarm over the sugar classification of Red Bull, urging the brand to provide scientific proof for its energy drink label. They highlighted that the high sugar content could mislead consumers about safe intake levels. Red Bull has been gi
+## Noel Tata at odds with more fellow trustees
+Noel Tata is experiencing diminished influence within Tata Trusts due to rising opposition from fellow trustees and directors. His proposals concerning Tata Sons' listing and N Chandrasekaran's extended chairmanship fail to gain traction among key decision makers. Concurrently, Jimmy Tata has voiced
 
-## Nvidia scandal: Singapore, US discuss Megaspeed as firm's Indonesia unit faces scrutiny
+## Tata Sons facing 'back-door takeover', warns Jimmy Tata
+Breaking his silence, Jimmy Tata, Ratan Tata's younger brother, has questioned developments that, in his view, could concentrate influence within a narrower group of trustees.
 
+## Candidate vaccine by SII, Oxford varsity to join Ebola trial: WHO
+The candidate vaccine developed by the Oxford University and the Serum Institute of India is among the two such vaccines added to the ongoing Ebola clinical trials, according to a World Health Organisation (WHO) statement, making it the first addition of candidate vaccines to the trials specifically
 
-## Got Rs 50 lakh for property redevelopment, but taxman denied capital gains exemption; what ITAT ruled
-A Mumbai woman received Rs 50 lakh from a property developer under a redevelopment agreement. She then invested the amount in Rural Electrification Corporation (REC) bonds to claim income tax exemption. However, the Income Tax Department treated the receipt as “Income from Other Sources” instead of 
+## LeT commander’s associate killed in Kulgam encounter; hunt for him continues
+The encounter took place at Laroo village, where security forces and militants exchanged fire on Monday morning.
 
-## Udaipur auto-rickshaw driver makes obscene remarks during Thai YouTuber’s livestream, arrested
-Police said the woman had hired the auto-rickshaw to explore Udaipur for two days.
+## SC ends marital dispute with ₹75-crore settlement
+Under the financial arrangement, the ₹45 crore earmarked for the child will be held by the mother in trust for him
 
-## Cyclone Akvan likely to make landfall along Andhra-Yanam coast around noon on November 20: IMD
-Cyclone Akvan is the third in the series that is likely to hit the Andhra Pradesh coast after Arnab and Murasu in less than a month’s time.
+## MCD plans to rope in private players to develop 13 stadiums and mini-stadiums, offer free coaching to Delhi school students
+The policy proposed by the municipal commissioner of Delhi aims to make each stadium a professionally managed multi-sport centre.
 
-## Ajit Pawar plane crash: Rohit Pawar alleges VSR owner has political links, seeks CBI probe
-Rohit Pawar appealed to CM Fadnavis to order a CBI probe into VK Singh and his company VSR.
+## 22 Samajwadi Party seats among 181 sought by Congress for UP assembly polls 2027
+The SP reportedly views the list as unrealistic, particularly because it includes sitting SP lawmakers’ constituencies, and may offer fewer than 100 seats.
 
-## Prince William praises India for balancing growth and sustainability: ‘Rang birangi duniya’
-In Mumbai, the Prince of Wales said India offered a picture of “colour, complexity and possibility”.
+## JNU invites applications for vice chancellor post as first-ever woman VC's term nears end
+According to the notification, the application window will remain open for a month, from November 16 to December 15, 2026.
 
-## ‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch
-Rahul Gandhi also narrated how the love story of his parents started at the Varsity restaurant in Cambridge, recalling visiting the same eatery.
+## ‘Should be held accountable, penalised’: SC warns states, UTs and districts of fines over Yamuna pollution
+It also ordered tougher monitoring of treatment plants, drains and water quality, and called for shared accountability across the river basin.
 
-## Congress names screening panel chiefs for poll-bound UP, Punjab, Uttarakhand, Goa, Manipur
-Cong sets up screening committees for 5 poll-bound states; Maken to head UP panel, Prasad in Punjab
+## Food inflation bites, Centre expected to turn to old playbook to cool prices
+The measures are likely to include releasing buffer stocks, easing imports, restricting exports, imposing stock limits and stepping up action against hoarding.
 
-## FSSAI issues fresh notice to Red Bull over ‘energy drink’ label: ‘Potential to mislead consumers’
-FSSAI has given Red Bull 7 days to explain why it should not prohibit its use of the "energy drink" label given it had the “potential to mislead consumers”.
+## As fears over Western finance grow, could Hong Kong and Singapore win the world’s gold?
+Global ultra-rich investors should diversify their physical gold holdings into Asian vault centres such as Hong Kong and Singapore to hedge against risks in Western financial markets, according to Jupiter Asset Management. Ned Naylor-Leyland, investment manager of gold and silver at the London-based
 
-## Cyclone Akvan: What makes a storm severe, very severe or super cyclonic? IMD's classifications explained
-The storm is likely to cross the Andhra Pradesh and Yanam coasts between Nellore and Tuni around noon on November 20.
+## HK4FAMILIES-The Art of Legacy
+[The content of this article has been produced by our advertising partner.] If one word could capture HK4FAMILIES Annual Gathering at SCMP Live Redefining Hong Kong: Next Generation Wealth 2026, it would be electric. Coffees turned into follow-ups, introductions turned into friendships, and connecti
 
-## Sonia Gandhi’s memoir launch: ‘When you are an outsider, you have this feeling of not being like others, of always being watched’
+## Ping An Insurance to relocate into new Hong Kong office above West Kowloon rail hub
+Ping An Insurance (Group) is preparing to consolidate its Hong Kong operations in a new office tower atop the West Kowloon high-speed rail terminus next year, giving the financial conglomerate a strategic springboard to capture growing cross-border flows across the Greater Bay Area and Asia-Pacific 
 
+## Hong Kong leapfrogs Dubai as No 1 super-luxury housing market – but can it last?
+Hong Kong has overtaken Dubai to become the world’s largest market for super-luxury home sales, but the city’s reign could be short-lived as a local rally shows signs of cooling and mainland capital constraints threaten to undermine demand into 2027. Hong Kong recorded 78 sales involving homes price
 
-## Robert Pattinson is the new James Bond. How is 007 cast?
-
-
-## ‘No point living in denial’: Why Aishwarya Rai Bachchan’s 20-year-old advice feels relevant today
-
-
-## ‘Beautiful woman called spies’: Trump backs Jensen Huang’s Nvidia comeback
-
-
-## Mephedrone & hybrid ganja seized from Thar near Vadodara hospital, 2 held: Police
-
-
-## Bajrang Dal men ‘stormed’ sacred site alleging cow slaughter. Now, Odisha tribals threaten stir
-
-
-## Sachin Tendulkar donates 25 bats, and the stories that came with them
-
-
-## From new bus services to beautification: Delhi gears up to host India Biennale ’26
-
+## JPMorgan Chase tech glitch ripples across US banks
+Thousands of customers reported difficulty accessing online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. However, Chase said Monday that the technical problems were n
 
 ## Trump Media faces possible US$1 billion debt repayment as stock nears record lows
 Trump Media & Technology Group faces a possible US$1 ⁠billion cash demand ⁠from convertible debt holders this ⁠month, putting pressure on the Truth Social parent as its shares trade near record lows and more than half its assets are digital assets. The US$1 billion in convertible ‌notes, issued in M
@@ -141,20 +129,11 @@ Hong Kong’s Securities and Futures Commission (SFC) is set to launch a review 
 ## Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte
 As Beijing pushes for artificial intelligence cooperation with Washington ahead of this week’s Apec summit in Shenzhen, Deloitte’s Asia-Pacific CEO Robert Hillard is urging regional governments to agree on common AI rules and cybersecurity guard rails to boost trade. The call for cross-border alignm
 
-## Yuan overtakes US dollar in Hong Kong bond listings as Beijing pushes currency’s global role
-Hong Kong’s listed bond issuance in offshore yuan has surpassed its US dollar-denominated sales for the first time, underscoring the city’s deepening role as the world’s premier offshore yuan hub. Issuance of debt denominated in offshore yuan, commonly referred to as dim sum bonds, climbed to 342 bi
+## Trump Kicks Off Asia Tour
+After a poor midterms performance, the U.S. president is heading to the Asia-Pacific.
 
-## Baidu quarterly profit plunges 46% as ad slump overshadows AI growth
-Baidu’s push into artificial intelligence failed to offset a downturn in its traditional search advertising business, dragging the Chinese tech giant’s third-quarter net profit down 46 per cent. Net profit came in at 1.4 billion yuan (US$208 million) for the September quarter, down from 2.6 billion 
-
-## Hong Kong insurers expanding into wealth management as policy sets record
-Hong Kong’s life insurance market could reach new heights as more rich people around the world seek to enhance their wealth management and estate planning, with an insurer selling a record-breaking insurance policy last week. FWD Private (Bermuda) – a subsidiary of Hong Kong-listed FWD Group – said 
-
-## Gold set to snap blistering run of 3-year gains as Fed rate increase looms
-Gold has lost its lustre, heading for its first annual loss in four years, as concerns that the Federal Reserve will raise the interest rate to tame inflation spurred capital outflows, offsetting buying by global central banks. The yellow metal traded at US$3,874 an ounce on Monday, approaching the 
-
-## Labubu mania cools
--
+## The Middle East Is Finally on Its Own
+The Iran war is bringing a century of regional intervention by great powers to a close.
 
 ## A Diminished Trump Could Get Played in Asia
 Xi and Putin are likely to exploit the U.S. president’s growing vulnerabilities.
@@ -174,35 +153,35 @@ The rollout of a groundbreaking drug is an early test in a post-PEPFAR world.
 ## Lessons From the Watergate Babies for the ‘No Kings’ Congress
 The one thing they can’t afford to do is nothing.
 
-## The EU’s First AI Summit
-Outlooks aren’t optimistic, as the bloc is set to fall short of its chip-manufacturing goals.
+## Is Bangladesh Sending Human Rights Violators Abroad as Peacekeepers?
+For decades the U.N. has documented a serious human rights crisis in Bangladesh; it has also paid the very institutions responsible for that crisis to keep the peace elsewhere in the world.
 
-## Realism Was Forged in Trauma
-A new biography explores the intimate origins of Hans Morgenthau’s hard-boiled worldview.
+## The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project
+In September, Kazakhstan, Uzbekistan and the UAE signed a memorandum to develop a railway bridging Central and South Asia.
 
-## ASEAN and APEC: Trump’s Real Lame-Duck Test Is in Asia
-Trump’s trips to Manila and Shenzhen will test how eager other governments are to deal with him after the stinging midterm defeat.
+## Tibet’s Top Elected Leader on Repression, Reincarnation, and the Future for Tibetans
+“We are dying a slow death… we are being strangled by the dragon, slowly but surely,” Sikyong Penpa Tsering, the head of Tibet's government-in-exile, says.
 
-## Economic Diplomacy Abroad and Restrictions at Home: Myanmar’s International Trade Dilemma
-Ongoing conflicts and restrictive domestic economic policies continue to undermine Naypyidaw's pursuit of foreign investment and trade.
+## Countering China’s College Campus Playbook
+China’s efforts to gain a strategic foothold in universities require responses that establish needed safeguards while preserving the innovative spirit of U.S. higher education.
 
-## ASEAN Leaders Pledge to Pursue ‘Calibrated Engagement’ With Myanmar
-The bloc has moved to harmonize its approach with that of some individual member states, who have ramped up their bilateral engagements with Naypyidaw in recent months.
+## Why Is Beijing So Determined to Pursue Reunification With Taiwan?
+It's not about the First Island Chain, or semiconductors. There's a more basic interest at stake for the CCP.
 
-## It Is Time For Timor-Leste to Acknowledge the Victims of the Santa Cruz Massacre
-Those who were raped and sexually tortured during the Indonesian occupation still await formal recognition by Dili.
+## Indonesia and Singapore: A Tale of Two Air Forces
+Indonesia is pursuing diversification; Singapore specialization. There are upsides and risks to both approaches.
 
-## Philippines, Australia Sign New Defense Agreement Amid China Pressure
-The new Defense Cooperation Agreement builds on a series of bilateral defense accords, including the 2007 Status of Visiting Forces Agreement.
+## Just by Meeting, Quad Leaders Send a Signal to Beijing
+China’s longstanding opposition to the Quad, and its concern with this week’s meeting of the group’s leaders in Manila, heightens the importance of the summit’s political signal.
 
-## Updated FOIP and Economic Security
-How to keep the international division of labor while overcoming vulnerability
+## Ashok Swain on the Mounting Opposition to Modi’s Authoritarian Rule
+In India, “fear is gradually being replaced by political confidence. Modi remains in power, but his aura of invincibility has been seriously weakened.”
 
-## Trump and Xi Can Reopen Trade. But for Whom?
-The narrative of easing trade tensions doesn’t tell us who reaps the benefits of these developments at the company level.
+## Theater in Abu Dhabi, Everyday Life at Home: Why the War Still Shapes Every Story
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
 
-## Will AI Change North Korea’s Nuclear Calculus?
-Nuclear stability requires mutual vulnerability. Artificial general intelligence could upset asymmetric deterrence equilibria, especially vis-à-vis Pyongyang.
+## Taiwan’s Political and Security Future
+Taiwan faces mounting questions about its ability to defend itself, a bitter fight over defense spending, and uncertainty about Washington’s commitment to its security. Michael Hunzeker (George Mason University), Amanda Hsiao (RAND), and Peter Mattis (Jamestown Foundation) join Ryan to examine wheth
 
 ## RIP to the $1.45 Trillion FY2027 Defense Budget
 The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of Defense budget request. While there remains a path forward to salvage the base budget request of $1.1 trillion, it is exceedingly difficult 
@@ -221,12 +200,6 @@ During a 2022 wargame I ran, bilateral planners reached a familiar barrier. U.S.
 
 ## Analyzing the Ethiopian-Somaliland Deal, Two Years On
 In 2024, James Barnett wrote, “A Port Deal Puts the Horn of Africa on the Brink,” where he argued that tensions in countries like Ethiopia and Somalia threaten to escalate into a broader regional conflict if not contained. Two years later, with U.S. attention largely diverted to other areas of conce
-
-## To Implement Acquisition Transformation, Empower Military Mavericks
-“I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mavericks who make institutions uncomfortable; otherwise you wash out innovation.”— James Mattis & Bing
-
-## Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War
-In late 2023, Ukraine’s military leadership faced an institutional choice: establish a dedicated branch of the armed forces for unmanned systems or integrate drones into existing branches. Most senior officers I knew opposed the separate force, and their strongest argument was sound within classical
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## British actor Robert Pattinson named as new James Bond
-The actor called the studio's decision a 'dream come true'.
+## Yemeni army reports 661 attacks on Houthis as group advances towards Aden
+Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
 
-## Cargo ship capsizes off Bulgaria’s Black Sea coast
-Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.
+## Irish court jails man for life over Dublin knife attack that sparked riots
+Three children and a woman were injured in the attack outside a central Dublin school in 2023.
 
-## Israeli court upholds detention of Palestinian land activist Ghassan Najjar
-Occupied West Bank land defender is set to remain in detention until at least February 26 next year.
+## EU countries announce migrant deportation centre in Rwanda
+Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.
 
-## Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role
-Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.
+## Ukraine holds peace talks with US, Europe as conflict escalates
+Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.
 
-## Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah
-US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.
+## UK seeks closer ties with EU after Brexit fail
+Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.
 
-## LIVE: Germany vs Netherlands – UEFA Nations League
-Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.
+## Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens
+The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.
 
-## Trump denies responsibility for FAA nationwide ground stop
-Trump denies responsibility for FAA nationwide ground stop
+## Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’
+Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.
 
-## Iran braces for natural gas shortages during winter energy imbalance
-The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.
+## Paraguay ex-president moved to military jail amid special treatment reports
+Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.
 
 ## After MNCs, domestic companies embrace GCC model
 Top conglomerates including Adani, Tata and Mahindra, have adopted the model to integrate operations, standardise processes and drive digitisation across their businesses.
