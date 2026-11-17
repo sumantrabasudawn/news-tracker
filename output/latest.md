@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Berlin picks ECB board nominee, paving way for Spanish presidency
-Choice of Markus Brunnermeier will consolidate deal with France in which Spain’s Pablo Hernández de Cos would lead central bank
+## UK government backs call for separate youth welfare system
+Author of official review into youth employment says ministers should consider extending proposals to over-24s
 
-## Milburn review to show whether UK really wants to reform its welfare state
-Former minister will set out plan to cut sickness benefits to under-25s while pouring billions of pounds into employment support
+## Marine Le Pen floats lowering France’s retirement age to as low as 60
+Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans
 
-## FirstFT: Leak of 15mn Deutsche Bank files exposes systemic failures
-Also in today’s newsletter: Xi and Canada’s Carney slash tariffs
+## Up to one-fifth of UK ‘global talent’ visa holders earn too little to pay income tax
+Government advisers express concern at their findings about migration route aimed at international high-flyers
 
-## Brussels raises Eurozone growth forecasts as AI boom drives exports
-But latest forecasts highlight diverging fortunes of bloc’s biggest economies, with GDP projections for France halved
+## UK imposes sanctions on companies building West Bank settlements
+Eight Israeli property development and architectural firms blacklisted
 
-## Trump arrives in Asia ahead of Xi and Putin summit
-US president arrives in Philippines to meet regional blocs before Apec forum in China
+## US tech stocks slide ahead of Nvidia results
+Nasdaq 100 down 1.1% after volatile run of trading
 
-## Milburn is selling welfare reform with an old New Labour trick
-Former minister uses his youth unemployment review to advance government’s case for training and support
+## A new deal for Britain’s young people
+Ending the ‘Neets’ crisis requires more jobs, not just welfare reform
 
-## Satellite group Iceye launches €2bn bid for Italian rocket maker Avio
-Finnish-Polish group seeks to create integrated European space and defence company as governments push for greater independence from US
+## Nvidia stopped disclosing Singapore sales as revenues hit $104bn
+US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent
 
-## Ukraine destroys part of bridge to Crimea in fierce exchange of strikes
-Russia hits bridges to Kyiv as both sides step up attacks on key infrastructure ahead of talks between Washington and Moscow
+## TPG nears take-private deal for payments group Bill Holdings
+Payment automation firm put itself up for sale after market value plunged more than 80% from peak
 
-## Stocks slide as Nvidia results loom
-Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out
+## GSK wins approval for second lung cancer drug from $10.6bn Nuvalent deal
+FTSE 100 group secures US clearance for treatment of tumours that have advanced or proved resistant to previous therapies
 
-## Nvidia creates committee to oversee compliance with US chip export controls
-Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China
+## An old-school mission to Mercury
+The BepiColombo mission launched 8 years ago is taking us back to the smallest planet
 
-## Imperial Brands to axe up to 4,600 jobs
-Company slashes costs as sector grapples with sinking demand for cigarettes
+## Jensen Huang says he is prepared to return as Nvidia CEO
+First public remarks since revelations over extramarital affairs forced co-founder to resign
 
-## Leak of 15mn Deutsche Bank files exposes systemic failures
-Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing
+## Nvidia’s crisis creates an opportunity for newbie chipmakers
+Many of the smaller upstarts are European
 
-## Japan proposes ‘Asian IEA’ to manage oil stockpiles
-Tokyo hopes joint reserves would insulate import-dependent region against future energy shocks
+## How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings
+Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed
 
-## AstraZeneca Pharma India inks agreement with Strand Life Sciences to explore healthcare collaboration
-AstraZeneca Pharma clarifies that the execution of the agreement does not constitute a related party transaction
+## Nvidia’s Huang signals willingness to return as CEO; board sets up national security panel
+The company faces questions over its China business, export controls and governance as Washington tightens restrictions on advanced AI chips
 
-## Indian IT recalibrates workforce mix as utilisation trends diverge in Q2
-Among firms that report the metric in their quarterly financials, utilisation mix has seen both massive spikes, as in the case of companies like Tech Mahindra and Cognizant while others like Wipro and LTM have also seen significant declines.
+## Isomorphic Labs raises $5 billion to take AI-designed drugs towards clinical trials
+The latest funding round comes six months after the company secured $2.1 billion, with Alphabet and existing investors participating again
 
-## Sensex today | Stock Market Live: Sensex, Nifty close at highest since February on record foreign inflows
-Sensex, Nifty, Share Prices Live: Sensex closed 427.40 pts or 0.52% higher at 82,532.19, and Nifty 50 was up 96.30 pts or 0.38% to 25,387.40.
+## SEBI lowers commodity margins to encourage market participation and cut hedging costs
+The regulatory relaxation is expected to encourage participation in commodity derivatives and lower hedging costs on electronic trading platforms
 
-## Porsche India inaugurates its largest after-sales facility in Kolkata
-Spanning more than 32,000 square feet, the state-of-the-art facility has been designed in accordance with Porsche's latest global Corporate Identity standards
+## Mahindra Last Mile Mobility wins 2026 Earthshot Prize for clean air initiative
+The recognition will help the company expand electric mobility, strengthen charging infrastructure and improve access to affordable financing for drivers
 
-## Millions launches US stocks, ETFs investment facility for Indian investors
-The new offering allows investors to start with fractional investments in US-listed companies and build portfolios through systematic investment plans (SIPs) at daily, weekly or monthly intervals
+## India world's best long-term investment destination, FDI rises 20% in April-September: ITPO Chairman
+Exports record 22% growth during April-October 2026, driven largely by emerging sectors such as electronics, electrical machinery, telecom equipment and chemical
 
-## Fresh snowfall draws tourists to Gulmarg, raises hopes of winter tourism revival
-Fresh snowfall has revived activity at the popular resort, drawing visitors to the snow-covered slopes and mountain views
+## Foreign outflows from India-focused offshore funds ease but persist in Q3 2026
+Foreign institutional investors turned net buyers during the quarter, logging net inflows of $1.48 billion into Indian equities, a sharp reversal from the $15.1 billion outflow in the prior quarter
 
-## Modi proposes free e-visas for ASEAN tourists, maritime cooperation plan, nuclear energy exchanges
-Among tae key proposals is a long-term ASEAN-India Maritime Cooperation Plan covering connectivity, scientific research, disaster management, Coast Guard cooperation, maritime domain awareness and seafarers' security.
+## Letters to the Editor dated November 17, 2026
 
-## India’s music segment revenues to reach ₹7,160 crore by 2028: Report
-To unlock the sector’s potential, the report calls for stronger creator education and transparency, including greater awareness of rights
+
+## Letters to the Editor dated November 16, 2026
+
+
+## Gold down 25% from peak of Rs 1.8 lakh; silver crashes nearly 60% in 10 months
+Gold price crash: In the domestic market, MCX Gold is currently trading at Rs 1,34,884 per 10 grams down 0.4% so far this year and 25.4% or Rs 45,895 below its lifetime high of Rs 1.8 lakh. MCX Silver, currently at Rs 1,69,292, has declined 28.2% year to date and is 59.7% or Rs 2,50,756 below its li
+
+## China, Russia’s reality check for Trump: Why US sanctions may not matter any more
+For decades, the United States relied on its overwhelming ability to impose sanctions as an alternative to projecting military power. But that seems to be changing now. Tariffs, secondary sanctions and more - the Donald Trump administration has all tried several tricks up its sleeve to browbeat the 
+
+## Your salary may be rising, but how much more can you actually afford?
+India's inflation has skyrocketed past 6%, severely impacting daily life, especially in food and transportation sectors. Grocery prices have surged, with food inflation hitting 8.94%. Families find it increasingly challenging to make ends meet, as their purchasing power dwindles and savings erode. T
+
+## Tenant tells landlady to run her tailoring business from home; why Delhi HC upheld eviction
+The case involved a woman who owned a property consisting of four ground-floor shops and accommodation on the upper floors. She had been operating her ladies’ tailoring business from her residence for a considerable period. As the business expanded, she needed more space and asked her tenant to vaca
+
+## Pragya Misra to lead OpenAI's business development for India, South Asia
+The appointment comes at a time when OpenAI is seeking to strengthen its ties with Indian businesses and widen the adoption of its AI technology in the country. Misra said India is currently ChatGPT’s largest country market. She also disclosed that OpenAI is seeking a new leader to oversee its Globa
 
 ## $7 billion green boost: Amazon invests big in India's renewable energy landscape
 Amazon plans to pour an impressive $7 billion into renewable energy projects in India by the year 2030. With a strong focus on expanding its solar and wind energy capabilities, this initiative will fulfill the annual electricity requirements of more than 3.5 million homes. As part of its broader str
@@ -69,47 +84,41 @@ Amazon plans to pour an impressive $7 billion into renewable energy projects in 
 ## FPIs may increase bets on Indian financial stocks as flows recover: Jefferies
 Foreign portfolio investors have recently turned positive towards Indian equities, with net buying of $11.4 billion. Their investments in financial stocks remain below the five-year average, suggesting room for further growth. While domestic institutional investors have increased their shareholding 
 
-## Gold down 25% from peak of Rs 1.8 lakh; silver crashes nearly 60% in 10 months
-Gold price crash: In the domestic market, MCX Gold is currently trading at Rs 1,34,884 per 10 grams down 0.4% so far this year and 25.4% or Rs 45,895 below its lifetime high of Rs 1.8 lakh. MCX Silver, currently at Rs 1,69,292, has declined 28.2% year to date and is 59.7% or Rs 2,50,756 below its li
-
 ## 8th Pay Commission: Rail staff seek more time for talks; defence staff demand Rs 69,000 minimum pay
 8th Pay Commission news: In a letter dated November 12, 2026, AIRF secretary general Shiva Gopal Mishra sought a further two-day appointment with the commission to take up various employee-related issues. The railway employees' federation has already held discussions with the 8th Pay Commission, wit
 
-## Post-Diwali price hike shock loading: Daily essentials, phones, TVs, appliances to cost more
-With the festive season now behind them, manufacturers are looking to recover the accumulated cost burden through higher retail prices and reductions in product grammage, potentially adding to the pressure on household budgets. Companies in FMCG sector are preparing to raise prices to offset increas
+## ‘E20 critics are idiots who don’t know science’: Suresh Gopi hits back amid ethanol content row
+Gopi alleged that those making claims and testing ethanol content in fuel may be buying petrol in canisters and mixing something in it before taking samples.
 
-## Which are the top stocks to buy on November 17, 2026?
-Stock market recommendations: Blue Star, UPL, Mankind Pharma, and Apollo Hospitals Enterprise have been identified by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan as the top stocks to buy today on November 17, 2026.
+## Italian tourist found dead in Manali hotel
+An Italian tourist was found dead in his hotel room at Chanala-Jagatsukh near Manali in Himachal Pradesh, police said on Tuesday.
 
-## Gold to fall more? Check gold price outlook for November 17, 2026
-Gold price prediction today: Although gold is quite oversold, it is likely to fall further in the short term on expectations of aggressive rate hikes, a firmer US dollar and rising yields.The metal may draw some support from weakness in tech equities, though, says Praveen Singh, Head Currencies and 
+## Rajasthan railway blast probe leads police to two accused, three Pak handlers
+Investigators said the first significant breakthrough came when police examined hotels and dharamshalas in the region
 
-## US reveals how Megaspeed came under scrutiny and landed on Nvidia's 'no sell' list
-Nvidia has designated Singapore's Megaspeed as a 'no sell' entity in light of ongoing investigations surrounding semiconductor diversion. The US launched an inquiry in 2024, with a site visit occurring in June 2025. Former CEO Alice Huang is under scrutiny for potential espionage connections. Though
+## Preparations underway for PM Balendra Shah's India visit: Nepal foreign ministry sources
+Nepal’s foreign ministry is preparing for PM Balendra Shah’s proposed India visit, to cover connectivity, infrastructure, trade and tourism.
 
-## ‘Scared once again’: Bilkis Bano’s uncle says she’s left Gujarat after bail to 2 convicts
-Bilkis Bano said she will fight the court order for her children, “who do not deserve to live haunted by these fears and scars for the rest of their lives”
+## CJP's Saurav Das submits address proof to SEM court: 'Condition is Delhi Police won't leak it'
+CJP co-convenor Saurav Das said that his appearance at the Special Executive Magistrate (SEM) pertained to his Delhi address verification.
 
-## A seasoned politician should know what restraint in language means: SC to Sanjay Raut
-A seasoned politician should know what restraint in language means: SC to Sanjay Raut
+## Madurai showroom heist: Tattoo clue led police to YouTuber who stole 11.3 kg jewellery
+Police eventually identified Nishanth with the help of a tip-off about a tattoo on his left arm. The tattoo matched the one seen in the CCTV footage
 
-## Defect-free defence production key to mission success, says Rajnath Singh
-Singh said that as Indian defence systems become increasingly sophisticated, every material, component and manufacturing process must meet highest standards.
+## India condemns attack on LPG tanker carrying 24 Indians in Strait of Hormuz; MEA says 1 missing
+The MEA said the Indian embassy in Oman was closely monitoring the ongoing search and rescue operations in coordination with Omani authorities.
 
-## BJP legislator asks Sharad Pawar to clarify stand on Rohit Pawar’s allegations against Fadnavis
-Rohit Pawar cited Fadnavis’s proximity to the owners of the firm that operated the aircraft that crashed and killed Ajit Pawar
+## ‘Have they read SC order': Shivakumar hits out at Tamil Nadu Oppn parties opposing Mekedatu project
+Responding to a question on his recent interaction with Tamil Nadu chief minister Vijay at Sonia Gandhi's book launch, Shivakumar said the two were friends.
 
-## Drowning incidents account for maximum NDRF deployments: 3-year data
-Drowning incidents account for maximum NDRF deployments: 3-year data
+## Lai Sun to spin off part of Hong Kong Plaza in Shanghai to repay US$315m loan
+Hong Kong developer Lai Sun Development (LSD), parent Lai Sun Garment (LSG) and subsidiary Lai Fung Holdings have proposed spinning off part of Hong Kong Plaza in Shanghai as a real estate investment trust (Reit), as the companies scramble to raise funds for a looming loan repayment. The companies s
 
-## Tuned Instagram systems in India to curb sexually suggestive, violent content: Meta
-Meta, which owns and operates Facebook and Instagram, said its systems now use “more capable AI models” that check content before it is recommended.
+## What to watch for in Nvidia’s first earnings report since Jensen Huang resigned
+Nvidia faces its biggest investor test since the resignation of co-founder Jensen Huang when it reports quarterly earnings on Tuesday US time, with interim CEO Colette Kress under pressure to prove the chipmaker can scale up its next-generation hardware and keep customer orders flowing without its l
 
-## TN to exhibit seized ‘AI-generated’ books after probe: Minister Rajmohan
-TN to exhibit seized ‘AI-generated’ books after probe: Minister Rajmohan
-
-## Ramoji Rao had qualities to advise country on complex issues, says Amit Shah
-Shah said he was particularly impressed by Ramoji Rao’s comprehensive understanding of the state despite not being directly associated with its political
+## Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns
+Amid mounting concerns of an artificial intelligence bubble and fresh market jitters following the resignation of Nvidia CEO Jensen Huang, the leaders of two of China’s biggest tech giants have urged the industry to focus on building practical applications, warning that massive investments in the te
 
 ## JD.com misses profit expectations amid China’s consumer slowdown
 Chinese e-commerce giant JD.com missed analysts’ third-quarter profit expectations despite a 22.6 per cent jump in net income, as sluggish consumer spending and fierce competition weighed on its core retail business while it worked to curb losses in a costly food delivery war. The Beijing-based firm
@@ -126,14 +135,20 @@ Beijing has once again stepped up policing of carmakers’ payments to their sup
 ## Hong Kong firms count on supply chains and AI to offset rising costs, HSBC survey finds
 Hong Kong businesses are resorting to regional diversification and artificial intelligence to weather rising costs and geopolitical uncertainties, HSBC said on Tuesday in its annual Global Trade Pulse Survey Report. About 40 per cent of Hong Kong businesses surveyed identified shipping and freight a
 
-## CATL founder seeks ‘AI Einstein’ to drive battery breakthroughs amid market headwinds
-Contemporary Amperex Technology Ltd (CATL) is seeking an “AI Einstein” to speed up scientific research and drive innovation-led growth, as the Chinese battery giant grapples with a number of setbacks. The goal was to find an artificial intelligence model that could work beyond current applications a
+## Ecuador’s Fraught Mining Boom
+President Daniel Noboa’s economic agenda puts him at odds with the constitution.
 
-## China stocks not yet at bottom as recovery hurdles abound, top fund firm says
-Chinese stocks have yet to bottom out after losing more than 40 per cent on collapsing artificial intelligence bets, as sentiment remains weak amid a slew of hurdles for technology companies, according to the nation’s second-largest mutual-fund firm. It would take some time for stocks to stabilise g
+## European Rearmament Risks Political Peril
+Some policymakers are out of step with a cost-of-living crisis, as recent unrest shows.
 
-## Luen Thai’s third-generation executive continues family’s hospitality legacy
-The ultimate goal of a family business is to ensure that its success endures for the benefit of future generations. “The most enduring family legacies are built when each generation embraces its role as a custodian of both wealth and values,” says Christine Wong, head of wealth planning for Greater 
+## The AI Safety Debate Has a Human Rights Blind Spot
+Instead of writing its own rules, the industry should look to a framework that already exists.
+
+## The National Security Case for Permitting Reform
+Expanding the U.S. grid is vital to staying globally competitive.
+
+## America Can’t Racially Profile Its Way to AI Supremacy
+U.S. public discourse is threatening to make the country even more vulnerable to foreign threats.
 
 ## Trump Kicks Off Asia Tour
 After a poor midterms performance, the U.S. president is heading to the Asia-Pacific.
@@ -144,20 +159,17 @@ The Iran war is bringing a century of regional intervention by great powers to a
 ## A Diminished Trump Could Get Played in Asia
 Xi and Putin are likely to exploit the U.S. president’s growing vulnerabilities.
 
-## Japan’s Defense Lessons From Ukraine and the Middle East
-The ability to surge weapons production in wartime is now a critical pillar of deterrence.
+## Positive Growth, Negative Vibes: The Disconnect in the Indonesian Economy
+Despite a whirlwind of economic challenges, GDP is up, and big listed firms continue to book large profits.
 
-## How Xi Sees a Weakened Trump
-Political instability is more danger than opportunity for Beijing.
+## Cambodian Sins Overshadow Global Francophonie Summit in Phnom Penh
+French President Emmanuel Macron urged Prime Minister Hun Manet to investigate the assassination of former Cambodian lawmaker Lim Kimya.
 
-## Democrats Can’t Return to Pre-Trump Foreign Policy
-The world has changed. A new approach must take that into account.
+## Cuba’s Communist Allies in Asia
+China, Vietnam, and North Korea offer more than diplomatic support against U.S. pressure – they offer different models for keeping one-party rule intact.
 
-## Can South Africa Tackle HIV Without the U.S.?
-The rollout of a groundbreaking drug is an early test in a post-PEPFAR world.
-
-## Lessons From the Watergate Babies for the ‘No Kings’ Congress
-The one thing they can’t afford to do is nothing.
+## Thousands Protest Pax Silica in the Philippines Ahead of President Trump’s Arrival
+Critics claim that the U.S.-led initiative will compromise Philippine sovereignty, in addition to having significant social and environmental impacts.
 
 ## The Rohingya Genocide Case at the ICJ: International Justice at a Crossroad
 Each possible outcome of the case has different legal consequences and implications for survivors. But none would erase what was inflicted on the Rohingya.
@@ -171,17 +183,8 @@ Li Qiang's comments to ASEAN leaders were tailored to the region's main concerns
 ## Is Bangladesh Sending Human Rights Violators Abroad as Peacekeepers?
 For decades the U.N. has documented a serious human rights crisis in Bangladesh; it has also paid the very institutions responsible for that crisis to keep the peace elsewhere in the world.
 
-## The Geopolitics of Eurasia’s Newest Proposed Route: The CASA Railway Project
-In September, Kazakhstan, Uzbekistan and the UAE signed a memorandum to develop a railway bridging Central and South Asia.
-
-## Tibet’s Top Elected Leader on Repression, Reincarnation, and the Future for Tibetans
-“We are dying a slow death… we are being strangled by the dragon, slowly but surely,” Sikyong Penpa Tsering, the head of Tibet's government-in-exile, says.
-
-## Countering China’s College Campus Playbook
-China’s efforts to gain a strategic foothold in universities require responses that establish needed safeguards while preserving the innovative spirit of U.S. higher education.
-
-## Why Is Beijing So Determined to Pursue Reunification With Taiwan?
-It's not about the First Island Chain, or semiconductors. There's a more basic interest at stake for the CCP.
+## Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan
+In 2025, Joel Wuthnow wrote “How China Could Counter U.S. Intervention in War Over Taiwan,” arguing that Beijing’s best option might be to deter Washington from coming to Taiwan’s aid by raising the risks to the U.S. homeland. A year and a half later, we asked him to revisit that argument.Image: Lan
 
 ## Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine
 In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strategy promises Europe’s strongest conventional army by 2039 with a technologically superior and innovat
@@ -203,9 +206,6 @@ According to CNN reporting, Joint Chiefs Chairman Gen. Dan Caine recently asked 
 
 ## How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies
 Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in t
-
-## The Promise of Biomanufacturing at the Edge
-As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply line
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Fomula One champion Fernando Alonso to race at Dakar Rally 2027
-Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.
+## More than 100,000 take part in France pay protests
+Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.
 
-## Why are five EU countries reviving plans to deport migrants to Rwanda?
-Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.
+## NSA’s classified internal communications network reportedly faces outage
+Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.
 
-## US President Trump arrives in Manila ahead of ASEAN summit
-US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.
+## Monster waves threaten California coast as storms intensify
+Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.
 
-## Afghanistan women defy Taliban ban to pursue their ambitions in secret
-Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.
+## Mozambique opposition leader goes on trial on terrorism charges
+Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges
 
-## Powering towns on pig manure: How Denmark has transformed energy generation
-Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.
+## Indian limbo skater breaks world record
+An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.
 
-## As Knesset readies for new speaker, Israeli opposition holds powerful role
-The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.
+## Israeli settler pogrom kills Palestinian woman, wounds 10 people
+The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.
 
-## Journalist who exposed alleged drug links shot dead in Costa Rica
-Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.
+## Jensen Huang agrees to testify before US House, says can resume CEO role
+Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.
 
-## Kim Jong Un tours North Korea ski resort with daughter Ju Ae
-Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.
+## Israeli forces invade Syrian village leaving homes damaged
+Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.
 
 ## PNB Housing Finance targets growth 18-20%, 300 affordable segment branches in two years: CFO Vinay Gupta
 PNB Housing Finance targets annual growth of 18 to 20 percent over the next two to three years. The company plans to expand its affordable branch network from 235 to around 300 branches in this time. Loan assets have grown by 19 percent in the last quarter, and affordable loans are driving significa
@@ -279,6 +279,9 @@ Nvidia's CEO Jensen Huang resigned following an extramarital affair that caused 
 ## Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push
 Brijesh Modi says the company is focusing on cost management, procurement efficiencies and automation to protect margins amid geopolitical disruptions and rising travel costs; holiday business forward bookings rise 30% year on year.
 
+## RBI may hike repo rate by 25 bps each during next 2 MPC reviews as inflation rises: Report
+With the headline inflation breaching the RBI's 6 per cent upper tolerance band for the first time in the new series, the Central Bank is likely to hike repo rate by 25 bps each during the December and February monetary policy committee (MPC) reviews, a report showed on Tuesday.
+
 ## Winter session likely in first week of December; govt may push women's quota bill
 The Winter session of Parliament will likely start in the first week of December to discuss crucial legislation. The government aims to pass the women's reservation bill linked to delimitation before the 2029 elections. Opposition parties are expected to protest against the Special Intensive Revisio
 
@@ -296,7 +299,4 @@ US lawmakers have reintroduced the Diwali Day Act in the House of Representative
 
 ## Sebi eases KYC norms for NRIs, OCIs; allows digital onboarding
 Sebi has introduced new KYC relaxations for individuals living abroad, allowing them to complete onboarding digitally if they are from FATF-compliant nations. This updated regulation, effective December 3, aims to simplify compliance for non-resident clients. Additionally, the new framework includes
-
-## Trump's midterm setback may put India under pressure for quick trade deal on US terms: GTRI
-Amid electoral challenges, US President Donald Trump is likely to ramp up pressure on India to seal a trade deal. This potential agreement would require India to decrease import tariffs on US goods while the US keeps its tariffs intact. Analysts caution that such an arrangement may breach WTO MFN pr
 
