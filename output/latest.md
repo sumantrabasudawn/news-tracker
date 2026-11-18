@@ -1,61 +1,79 @@
 # AION Intelligence
 
-## FirstFT: Anthropic IPO set to redraw venture capital’s power rankings
-Also in today’s newsletter: AI-based audit asks ‘better questions’ than accountants
+## Putin’s delusions of a ‘new Yalta’
+Russia’s leader cannot be rewarded for aggression with another carve-up of Europe
 
-## Xi greets Trump with hug ahead of historic summit with Putin
-US and Chinese leaders to meet Russian President Vladimir Putin to cap week of high-profile diplomacy
+## US tech stocks oscillate after Nvidia results
+Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off
 
-## Space could be the first frontier for European defence mergers
-There is a logic to the pairing of Iceye and Avio
+## Israeli attorney-general freezes key West Bank settlement project
+E1 scheme, seen as barrier to viable Palestinian state, is halted until new government sworn in
 
-## Live US midterm elections results
-The latest updates on the races that will shape the balance of power in Washington
+## The economics of the Milburn report
+Labour is gambling that the state will succeed where money failed
 
-## Russian petrol imports hit record as Ukraine strikes refineries
-Shipments a ‘remarkable reversal’ from country’s traditional role as fuel exporter
+## UK inflation rose to one-year high of 3.6% in October
+Figure underscores pressure on Bank of England to raise interest rates further
 
-## Democrats probe whether Howard Lutnick helped Cantor avoid Nvidia losses
-Lawmakers seek information on whether US commerce secretary’s decisions were influenced by family’s investment firm
+## Democrats nominate Hakeem Jeffries as US House Speaker
+56-year-old on track to become first Black lawmaker to lead lower chamber of Congress
 
-## UK oil producer quits ‘high-tax’ North Sea to focus on Asia
-EnQuest sells its UK oilfields to rival Neo Next+ in search of better returns
+## JPMorgan seeks to revive stalled software debt sale with steep price cuts
+Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield
 
-## The good, the bad and the kooky Neet ideas
-Labour appears keen to embrace policies on schools with little supporting evidence
+## Why giving 16-year-olds the vote is misguided
+The decision goes against the grain of raising the age of consent for everything from scratch cards to tanning booths
 
-## AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB
-Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups
+## Activist investor pushes for Chemring break-up
+UK defence group has failed to capitalise on surge in European military budgets, says Palliser Capital
 
-## British energy price cap set to increase to over £2,000 in January
+## British energy price cap set to rise to over £2,000 in January
 Lower levels of government support will see households paying more for energy in real terms than during Ukraine inflation shock
 
-## SoftBank regrets ‘mistake’ of not backing Anthropic, says Son
-Japanese tech group had already started to put money into arch-rival OpenAI
+## A Russian oligarch and the suspect money that flowed through Deutsche Bank
+Lender discovered a suspected laundromat centred on a Hungarian bank with ties to Viktor Orbán
 
-## Data residency not enough, India needs operational sovereignty: Gartner
-India must develop capabilities to manage cloud infrastructure, encryption keys and operational controls: Anushree Verma, Senior Director Analyst at Gartner
+## US tech outages blamed on rush to fix bugs found by AI
+Experts say a race to patch software flaws likely created instability in computer systems at Microsoft, JPMorgan, the FAA and others
 
-## Sensex today | Stock Market Highlights: Sensex drops 500 pts, Nifty ends at 25,227 as metals, durables bleed
-Sensex, Nifty, Share Prices Highlights: Indian shares declined on Wednesday, consolidating ​after closing at a near nine-month high in the previous session ‌on easing oil prices and resurgent foreign inflows.
+## GM seeks to double defence revenue
+Carmakers move to diversify businesses as global defence contractors turn to automotive technology to accelerate weapons production
 
-## Tata Steel plans project to produce hydrogen using steel plant off-gases at Odisha facility
-The proposed 10 TPD facility will use off-gases from steelmaking to produce high-purity hydrogen with Utility Global’s H2Gen technology
+## RFK Jr opens door to experimental drugs promising muscle growth and better sex
+Telehealth and beauty groups race to cash in on booming demand for unproven anti-ageing and sexual enhancement treatments
 
-## Unfair to burden developing countries with consequences of historical emissions: India at COP31
-Developing nations are penalised under the guise of climate action; urge developed countries to “honestly and expeditiously” fulfil their climate finance obligations: Bhupendra Yadav
+## Karnataka’s proposed taxi meter rule raises concerns over regulatory uncertainty in mobility sector
+Critics warn enforcement could erode rider experience and deter investment in urban mobility
 
-## Cochin Shipyard lays keel for 70 T Bollar Pull tug
-Keel-laying marks a milestone as CSL expands its fleet with Robe rt Allan-designed tugs, bolstering India’s harbour support capabilities while advancing sustainable, green-technology projects under Polestar Maritime partnership.
+## Uttar Pradesh tops two, three-wheeler sales in Q2 FY27, Maharashtra in passenger, commercial vehicles: SIAM
+UP accounted for 12.3% of the country’s two-wheeler sales and 12.1% of three-wheeler sales during the quarter, while Maharashtra topped the passenger and commercial vehicle segments.
 
-## Puravankara launches Purva Cityspire in Kochi with ₹2,000 crore GDV
-The project comprises 1,056 premium 2 and 3-bedroom residences across six towers rising up to 33 floors
+## Public sector banks record ₹1.1 lakh cr profit in April-September
+Improvement was driven by capital adequacy, business growth, healthy asset quality
 
-## Commerce Ministry amends rules of Export Promotion Mission initiative to support exporters
-The revised guidelines allow Micro and Small Exporters to claim up to 95% of airfare costs for participating in international trade fairs, buyer-seller meets and trade delegations.
+## Copper futures in bear grip
+The November futures has now slipped below the support band of ₹1,240-1,250. At the moment, the price action shows no signs of a slowdown in the downtrend
 
-## Oppo Enco X4: Premium sound, strong ANC, long battery life
-The launch signals OPPO’s renewed push into the premium TWS space, leveraging personalised sound profiles
+## SpiceJet board approves raising up to ₹5,500 crore
+Board directs management to expedite investment discussions; authorised share capital proposed to be increased to ₹7,500 crore
+
+## West Bengal govt working on series of amendments to existing land reform act to attract big-ticket investment
+According to sources close to the development, a draft land reform paper is almost ready and it has been sent to the legal department for for its approval.
+
+## Gold, silver crash as dollar strengthens on hope of further US Fed tightening
+Rates drop in line with global trend, where the precious metals have dropped to a 14-month low on strengthening dollar, hopes of US Fed rate hike
+
+## Indian Roads Congress to begin in Hyderabad from November 19
+Union Minister for Road Transport and Highways Nitin Gadkari will inaugurate the conference
+
+## Investing in mutual funds? Ask yourself these 4 key questions before putting money
+Before starting your mutual fund investment journey, ask yourself these important questions as they will help you make informed investment decisions and build a portfolio that aligns with your financial goals and risk appetite. If you are investing for a goal that is 20 years away, such as building 
+
+## OpenAI, Anthropic expand in India as 24 tech firms grow workforce 30% to 24,000
+A group of 24 international AI and emerging technology companies, excluding Big Tech, tracked by staffing firm Xpheno, expanded their combined employee strength in India by over 30% in the past year to approximately 24,000. The companies span several segments, including AI, robotics, cybersecurity, 
+
+## SpiceJet board approves Rs 5,500 crore fundraise plan to revive cash-strapped airline
+
 
 ## Chinese steel imports threaten Indian industry, Tata Steel CEO warns
 Tata Steel's CEO T V Narendran highlighted concerns regarding the impact of Chinese steel imports on India's industry. The company aims to expand its production capacity to 40 million tonnes by 2035, while exploring additional electric arc furnace projects. Steel producers in India are in discussion
@@ -72,62 +90,59 @@ With a proposed valuation of $1.4 trillion, Anthropic's initial public offering 
 ## Stock market today: Sensex plunges over 700 points, NSE Nifty50 slips below 25,200
 
 
-## Gold crashes 25% from Rs 1.8 lakh peak, but demand for gold ETFs beats 2025 inflows
-Demand for gold ETFs rises: Wealth managers say investors are taking advantage of the correction to add gold to their portfolios, either by making lump-sum purchases or investing gradually through weekly or monthly systematic investment plans (SIPs). The staggered approach also helps them average th
+## GTA 6 goes live in India after 13-year wait
+GTA 6 will bring players back to Vice City, the fictional city modelled after Miami, while also introducing the larger state of Leonida as its setting.
 
-## What is the gold price outlook on November 18, 2026 - will prices continue to fall?
-Gold price prediction today: The sell-off is increasingly driven by rising interest-rate expectations, with markets pricing in Fed hikes in December and January and another move by April. Gold has declined more than 25% since the war began in late February, with equities and Bitcoin also falling ami
+## Karnataka's Catholic priest arrested in second POCSO case within a month
+In the first POCSO case, the priest was arrested and subsequently granted bail on October 29.
 
-## US-Philippines trade agreement: Trump announces 'magnificent deal' fair to both sides
-US President Donald Trump has secured a significant trade agreement with the Philippines during his Manila visit. This pact not only strengthens defense relations but also sets the stage for nuclear energy cooperation. The US has approved arms sales over $5 billion for the Philippines, and talks are
+## Prince William, Kate Middleton meet PM Modi in Delhi on final day of India visit
+Britain's Prince William and Princess Kate met Prime Minister Narendra Modi in New Delhi on Wednesday, bringing their three-day visit to India to a close.
 
-## Air India Express appoints CFO Deepak Rajawat as CEO, effective December 1
-The post of Chief Executive Officer (CEO) has been vacant since Aloke Singh stepped down as MD and CEO in March this year.
+## ‘GTA 6 has a Bengaluru connection’: Tejasvi Surya highlights 1,600 developers' hard work
+Tejasvi Surya's remarks come as the wait for GTA 6 is almost over, with Rockstar Games set to release the highly anticipated video game in India on Thursday.
 
-## Bengal Christian group advises churches, schools to remain vigilant to prevent attacks
-Bangiya Christiya Pariseba (BCP) said ringing the bell three times at an unusual hour will serve as a distress signal
+## ‘They tore Bal Thackeray’s photo’: Row erupts after Shiv Sena members rip pages of Sonia Gandhi’s book
+Shiv Sena leader Shaina NC dismissed the allegation, alleging that the Opposition was “twisting an incident to create a false narrative.”
 
-## Offer E10 and ethanol-free fuel alongside E20: Karnataka to Centre after lab tests
-Arshad said Karnataka was not opposed to the Ethanol Blending Programme but this could not come at the cost of the citizens.policy
+## Gurugram: 2 arrested in PayU's cloud servers breach, siphoning over ₹25 crore
+Gurugram cyber police arrested two men from Ludhiana who allegedly provided bank accounts used to siphon off ₹25.67 crore from PayU Payments’ server.
 
-## Ex-AIADMK minister C Vijayabaskar quizzed by ED in disproportionate assets case
-Former Tamil Nadu state minister C Vijayabaskar was quizzed by Enforcement Directorate in connection with an alleged disproportionate assets case
+## ‘Let AQI go down’: SC's candid advice to Delhi father wanting son to visit from Singapore
+The Supreme Court advised a Delhi-based father to wait for pollution levels to improve before bringing his son from Singapore.
 
-## Bengaluru ragpicker set ablaze after hands, legs tied; condition critical
-The motive behind the attack is yet to be established, and further investigation is underway.
+## Centre notifies new prison law for Andaman and Nicobar Islands, bans caste bias, allows open jails
+Centre replaces three existing laws, including two dating back to the colonial era, with new regulation for Andaman and Nicobar Islands
 
-## IMD warns of Cyclone Akvan moving northwestward; schools and colleges to be closed in Odisha's Malkangiri on Nov 19,20
-IMD's latest bulletin said the storm was moving north-northwestwards over the central parts of the South Bay of Bengal and adjoining west-central Bay of Bengal.
-
-## 6 months of VD Satheesan-led UDF government in Keralam: Hits and misses
-Armed with several promises on social welfare, health, and education, the Congress-led coalition was voted into power with a landslide majority in April-May.
-
-## Hyderabad woman, toddler son drown in Melbourne creek
-The incident occurred near Malcolm Creek, close to Aitken Boulevard in Craigieburn, in Melbourne’s northern suburbs.
-
-## New Delhi B&B policy may mandate fire safety compliance, periodic inspections
+## SMAT 2026: Bihar, Vidarbha pull off thrilling chases; Baroda rout UP
 
 
-## Samantha Ruth Prabhu and Raj Nidimoru host puja ahead of baby’s arrival, share pics
+## ‘It is not a sob story’: Shah Rukh Khan says owning a house was his ‘biggest yearning in life’
 
 
-## Schools in Delhi-NCR to resume regular offline classes as CAQM revokes GRAP 3
+## How Kidambi Srikanth helped Lakshya Sen reach BWF World Tour Finals
 
 
-## Before algorithms gave us sporting heroes, a boy from Ranchi made it big
+## Akhilesh takes PDA Rath Yatra to Yogi turf, picks holes in Gorakhpur ‘development story’
 
 
-## Man’s gold jewellery stolen at Delhi metro station, insurer ordered to pay Rs 1.71 lakh
+## ‘Run for your safety’: The final hours before Lashkar’s Lateef Bhat was gunned down
 
 
-## Why a Japanese animated Ramayana faced opposition in India, but found an audience decades later
+## ‘Salman Khan is the OG Prem,’ says Ayushmann Khurrana: ‘We idealise him’
 
 
-## No call on remission yet, 7 Godhra train-burning convicts to stay out of jail
+## Puffy eyes and swollen fingers in the morning: Your thyroid could be responsible
 
 
-## Tempers flare, pages ripped: Shiv Sainiks tear Sonia Gandhi’s book over ‘derogatory’ Savarkar reference: Video
+## Inside Swara Bhasker and Fahad Ahmad’s Mumbai bungalow: ‘Not a fancy Bollywood house’
 
+
+## HKEX creates new senior role to control emerging cyber and operational risks
+Hong Kong Exchanges and Clearing (HKEX), which operates Asia’s third-largest stock market, has created a new senior management role focused on controlling cyberattacks and emerging threats. Efe Cummings will join HKEX from November 30 to take up the newly created role of managing director, head of o
+
+## Hong Kong’s Tsim Sha Tsui remains Asia’s priciest retail district as New York leads globally
+Hong Kong’s Tsim Sha Tsui is still the Asia-Pacific region’s most expensive retail district this year, despite a 6 per cent annual decline in rents to €13,016 (US$14,318) per square metre, according to property consultancy Cushman & Wakefield’s latest report. New York’s Upper Fifth Avenue (49th to 6
 
 ## As foreign demand for retail space rises, Zuma investor plans new eatery in city
 Abu Dhabi-founded hospitality group Diafa is looking to bring a new restaurant concept to Hong Kong – choosing the city as its first stop in a wider push into Asia, according to its top executive, amid decreasing rents and rising retail sales in Hong Kong. Diafa’s foray into Hong Kong underscores th
@@ -147,11 +162,11 @@ Global fund managers view bets against Chinese stocks as one of the market’s m
 ## Hong Kong multimillionaires rose 4% this year, the highest in 5 years: Citibank
 The number of multimillionaires in Hong Kong has risen by 4 per cent to its highest level in five years, driven by recovering property prices that offset weak stock market performance, according to a Citibank Hong Kong survey released on Wednesday. The population of multimillionaires, defined as tho
 
-## As caution grips consumer spending, China’s jewellery sales tumble
-Tang Fang used to buy herself one or two pieces of jewellery, such as rings or bracelets, every year. But this year, with her third son starting primary school and fewer orders coming in for her sales business, she has put those purchases on hold. “I really wanted to, because I love bright, shiny th
+## ICJ to Deliver Landmark Verdict on Myanmar
+The Rohingya genocide case will have wide-ranging impacts, including for the court’s forthcoming judgment on Israel.
 
-## AI-powered treasury gains ground as businesses put trust and governance at the centre
-[The content of this article has been produced by our advertising partner.] Having cash and being able to use it are two very different things for businesses navigating geopolitical uncertainty, currency restrictions and increasingly complex international operations. That distinction, according to J
+## Cooperating With China on AI Control Is a Fantasy
+Until Beijing can be trusted, Washington should push ahead to win the AI race.
 
 ## Iran Is Heading for a Swiss-Cheese Solution
 The Iran war is most likely to end not with a bang, but with a whimper.
@@ -171,11 +186,14 @@ President Daniel Noboa’s economic agenda puts him at odds with the constitutio
 ## European Rearmament Risks Political Peril
 Some policymakers are out of step with a cost-of-living crisis, as recent unrest shows.
 
-## The AI Safety Debate Has a Human Rights Blind Spot
-Instead of writing its own rules, the industry should look to a framework that already exists.
+## India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence
+To speed up the momentum of cooperation, Prime Minister Modi suggested that India and ASEAN should focus on the maritime domain.
 
-## The National Security Case for Permitting Reform
-Expanding the U.S. grid is vital to staying globally competitive.
+## What the New Democratic Congressional Majority Means for Trump’s Asia-Pacific Policy
+Three specific areas of Asia-Pacific policy are likely to be addressed by the Democratic majority in the new year.
+
+## The Rohingya Are Not a Legal Test Case. We Are a People Waiting for Justice.
+A judgment cannot return a murdered child to a mother or give back the years stolen from a generation. But recognition and being heard matters.
 
 ## A Former Pakistani Army Captain Now Commands the BLA
 Rahman Gul will most likely implement a style of leadership and military strategy that will be dangerous for both Pakistan and China.
@@ -192,14 +210,11 @@ Huang reached the pinnacle of American technological power, but many Chinese bel
 ## Australia, Philippines Sign New Defense Cooperation Arrangement
 The arrangement fast-tracks military cooperation between Canberra and Manila.
 
-## Rethinking the Indus Waters Treaty in an Era of Climate Uncertainty
-What would it take to modernize the treaty's legal and institutional architecture while integrating scientific knowledge, environmental sustainability, and the political realities of transboundary water cooperation?
+## Is Dollar Dominance in Decline?
+The dominance of the U.S. dollar is a crucial source of American global power. The dollar’s widespread use, strength, and reliability provide major economic advantages for the United States, enable U.S. sanctions to have real bite, and significantly boost U.S. influence abroad. For America’s adversa
 
-## How the Modi Government Weaponizes Visas and OCI Cards to Silence Critics
-Around 115 of 315 people from abroad were denied visas or had their visas canceled to prevent them from participating in a recent Congress party event.
-
-## Positive Growth, Negative Vibes: The Disconnect in the Indonesian Economy
-Despite a whirlwind of economic challenges, GDP is up, and big listed firms continue to book large profits.
+## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
+For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on the future of trans-Atlantic defense cooperation following the U.S. midterm elections. Participating experts from the United Kingdom, continental Europe, and the United States bring
 
 ## The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks
 U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders’ summit is set to take place in Shenzhen, with nuclear issues potentially on the agenda. Regardless of whether the sum
@@ -218,12 +233,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Taiwan’s Political and Security Future
 Taiwan faces mounting questions about its ability to defend itself, a bitter fight over defense spending, and uncertainty about Washington’s commitment to its security. Michael Hunzeker (George Mason University), Amanda Hsiao (RAND), and Peter Mattis (Jamestown Foundation) join Ryan to examine wheth
-
-## RIP to the $1.45 Trillion FY2027 Defense Budget
-The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of Defense budget request. While there remains a path forward to salvage the base budget request of $1.1 trillion, it is exceedingly difficult 
-
-## The Limits of Quiet Resignation from the U.S. Military
-According to CNN reporting, Joint Chiefs Chairman Gen. Dan Caine recently asked his top lawyer: “How should a military commander respond if they determine they have received an unlawful order?” The lawyer’s answer was reportedly unequivocal: “Request to retire — and refrain from resigning in protest
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?
-Deutsche Bank leaks expose ties to Trump, Epstein, and global elites amid scrutiny over past financial misconduct.
+## Israeli court extends Gaza doctor Abu Safia’s detention without charge
+An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.
 
-## Why Democrat Mary Peltola’s US Senate win in Alaska matters
-Peltola’s Alaska win gives Democrats 56 Senate seats and a buffer in Republican states ahead of the 2028 elections.
+## Israeli forces launch new military operation in central Gaza
+Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line
 
-## Piecemeal wars: A new kind of world war is already under way
-Separate regional conflicts are increasingly linked by the interests of rival powers.
+## Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit
+Trump told Philippine President Marcos he knew his parents 'very well'.
 
-## As Trump arrives in China, low expectations for breakthroughs in rivalry
-Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.
+## Far-right influencer Jake Lang kicked out of Dearborn council meeting
+Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.
 
-## Photos: Thousands march in Haiti in support of Salvadoran troops
-Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.
+## What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?
+Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.
 
-## Sandpapergate: Cricket Australia to open forum for players, rules out probe
-Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.
+## Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island
+Iranian attacks on the Gulf countries draw condemnation from across the region.
 
-## India-UK ties outride Modi’s ‘decolonisation’ rhetoric
-Prince William's visit highlights growing partnership between New Delhi and London, despite their colonial history.
+## World Bank official says Lebanon reconstruction making slow progress
+Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.
 
-## Myanmar-linked arsenic pollution prompts clean water scramble in Thailand
-Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.
+## Crowds gather as Trump arrives in China ahead of talks with Xi and Putin
+Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit
 
 ## NFRA recommends Ind AS changes for hyperinflationary currency reporting, proposes April 2027 implementation
 The recommendations cover amendments to Ind AS 21 and consequential changes to other accounting standards. NFRA also backs stronger public consultation, with ICAI agreeing to provide relevant IASB reference material alongside future exposure drafts.
@@ -297,6 +306,9 @@ The rapid expansion of partnerships between banks, NBFCs and fintech companies h
 ## Nvidia names CFO Colette Kress interim CEO after Jensen Huang quits amid national security concerns
 Nvidia's CEO Jensen Huang resigned following an extramarital affair that caused national security concerns. The company appointed Colette Kress as the interim CEO while the board addressed the scandal. Huang's relationship with a suspected Chinese government agent intensified scrutiny, and shares of
 
+## SEBI rules out immediate 24x7 trading, says equity tokenisation unfeasible at current scale: Chairman Tuhin Kanta Pandey
+Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday ruled out an immediate move towards 24x7 stock market trading, citing cybersecurity risks, fragmented liquidity and investor fatigue. He also said extending tokenisation to equity markets was currently unfeasible 
+
 ## RBI announces premature redemption rate for Sovereign Gold Bonds due November 18
 The Reserve Bank of India (RBI) on Tuesday announced the premature redemption price for Sovereign Gold Bond (SGB) 2020-21 Series VIII at Rs 13,499 per unit, according to an official statement.
 
@@ -314,7 +326,4 @@ The Reserve Bank of India is contemplating a ban on private equity firms holding
 
 ## RBI issues consolidated domestic money transfer rules; retains Rs 50,000 cash NEFT cap
 The Reserve Bank of India (RBI) has issued a consolidated set of directions on domestic money transfers, retaining existing transaction limits and tightening safeguards for cash-based remittances.
-
-## RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report
-The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee
 
