@@ -1,46 +1,52 @@
 # AION Intelligence
 
-## Putin’s delusions of a ‘new Yalta’
-Russia’s leader cannot be rewarded for aggression with another carve-up of Europe
-
-## US tech stocks oscillate after Nvidia results
-Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off
-
-## Israeli attorney-general freezes key West Bank settlement project
-E1 scheme, seen as barrier to viable Palestinian state, is halted until new government sworn in
-
-## The economics of the Milburn report
-Labour is gambling that the state will succeed where money failed
-
-## UK inflation rose to one-year high of 3.6% in October
-Figure underscores pressure on Bank of England to raise interest rates further
-
-## Democrats nominate Hakeem Jeffries as US House Speaker
-56-year-old on track to become first Black lawmaker to lead lower chamber of Congress
-
-## JPMorgan seeks to revive stalled software debt sale with steep price cuts
-Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield
-
-## Why giving 16-year-olds the vote is misguided
-The decision goes against the grain of raising the age of consent for everything from scratch cards to tanning booths
-
-## Activist investor pushes for Chemring break-up
-UK defence group has failed to capitalise on surge in European military budgets, says Palliser Capital
-
-## British energy price cap set to rise to over £2,000 in January
-Lower levels of government support will see households paying more for energy in real terms than during Ukraine inflation shock
-
-## A Russian oligarch and the suspect money that flowed through Deutsche Bank
-Lender discovered a suspected laundromat centred on a Hungarian bank with ties to Viktor Orbán
-
 ## US tech outages blamed on rush to fix bugs found by AI
-Experts say a race to patch software flaws likely created instability in computer systems at Microsoft, JPMorgan, the FAA and others
+Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others
 
-## GM seeks to double defence revenue
-Carmakers move to diversify businesses as global defence contractors turn to automotive technology to accelerate weapons production
+## City firms told to tighten cyber defences as AI exposes vulnerabilities
+Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance
 
-## RFK Jr opens door to experimental drugs promising muscle growth and better sex
-Telehealth and beauty groups race to cash in on booming demand for unproven anti-ageing and sexual enhancement treatments
+## Meta halts plan to give Zuckerberg new class of shares
+Tech group pauses plan that would have let founder sell down stake without ceding control
+
+## US and Venezuela to expand military co-operation to target drug trafficking
+Defence secretary Pete Hegseth says two nations will ‘hunt’, ‘find’ and ‘kill’ ‘narcoterrorists’ during trip to Caracas
+
+## Anthropic raises $81bn in record IPO
+AI giant’s enlarged deal surpasses SpaceX to become world’s biggest public listing
+
+## Russian accused of spying on Palantir over assistance to Ukraine
+Prosecutors say suspect entered US from Mexico and stalked employees at Silicon Valley tech group
+
+## UK plans to resist EU request to match tariffs on Chinese goods
+Move reduces chance Britain will be able to access subsidies and contracts under ‘Made in Europe’ rules
+
+## Nvidia accelerates pay rises as interim CEO seeks to lift staff morale
+Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return
+
+## ‘GTA VI’ shows the power of a blockbuster
+Instead of publishing several mediocre games like its rivals, Take-Two is focusing on getting one release right
+
+## Crew of Mike Lynch’s Bayesian superyacht were unaware of risks, probe finds
+Vessel’s unusually tall mast and vulnerability to flooding contributed to its sudden sinking, says UK Marine Accident Investigation Branch
+
+## ‘Bigger, better’ ‘Grand Theft Auto’ set to smash entertainment records
+Hopes of video game industry resting on much-delayed title from Rockstar Games
+
+## Nitin Gadkari urges states to allow private bike taxis under 2025 aggregator guidelines
+Only Rajasthan has fully implemented the Centre’s guidelines, while Haryana and Uttar Pradesh have adopted them partially, Gadkari said
+
+## Apple Maps rolls out lane guidance, multi-stop routing and Share ETA in India
+The latest update expands Apple’s navigation capabilities with features designed to make journeys, route planning and location discovery easier across India.
+
+## Anthropic prices IPO at $83, beating target range in blockbuster AI listing
+The Claude maker’s public market debut comes amid strong investor demand, intensifying AI competition and growing concerns over infrastructure spending
+
+## Broker’s call: GMM Pfaudler (Buy)
+Keynote Capitals
+
+## Boba Bhai raises $18 million Series B to take its bubble tea, Korean street food business deeper across India
+US-based Left Lane Capital has come on board as a new investor, while BIG Capital has increased its investment in the company
 
 ## Karnataka’s proposed taxi meter rule raises concerns over regulatory uncertainty in mobility sector
 Critics warn enforcement could erode rider experience and deter investment in urban mobility
@@ -51,44 +57,35 @@ UP accounted for 12.3% of the country’s two-wheeler sales and 12.1% of three-w
 ## Public sector banks record ₹1.1 lakh cr profit in April-September
 Improvement was driven by capital adequacy, business growth, healthy asset quality
 
-## Copper futures in bear grip
-The November futures has now slipped below the support band of ₹1,240-1,250. At the moment, the price action shows no signs of a slowdown in the downtrend
-
-## SpiceJet board approves raising up to ₹5,500 crore
-Board directs management to expedite investment discussions; authorised share capital proposed to be increased to ₹7,500 crore
-
-## West Bengal govt working on series of amendments to existing land reform act to attract big-ticket investment
-According to sources close to the development, a draft land reform paper is almost ready and it has been sent to the legal department for for its approval.
-
-## Gold, silver crash as dollar strengthens on hope of further US Fed tightening
-Rates drop in line with global trend, where the precious metals have dropped to a 14-month low on strengthening dollar, hopes of US Fed rate hike
-
-## Indian Roads Congress to begin in Hyderabad from November 19
-Union Minister for Road Transport and Highways Nitin Gadkari will inaugurate the conference
-
-## Investing in mutual funds? Ask yourself these 4 key questions before putting money
-Before starting your mutual fund investment journey, ask yourself these important questions as they will help you make informed investment decisions and build a portfolio that aligns with your financial goals and risk appetite. If you are investing for a goal that is 20 years away, such as building 
-
-## OpenAI, Anthropic expand in India as 24 tech firms grow workforce 30% to 24,000
-A group of 24 international AI and emerging technology companies, excluding Big Tech, tracked by staffing firm Xpheno, expanded their combined employee strength in India by over 30% in the past year to approximately 24,000. The companies span several segments, including AI, robotics, cybersecurity, 
-
-## SpiceJet board approves Rs 5,500 crore fundraise plan to revive cash-strapped airline
+## Nvidia sets record with $65bn Q3 profit
 
 
-## Chinese steel imports threaten Indian industry, Tata Steel CEO warns
-Tata Steel's CEO T V Narendran highlighted concerns regarding the impact of Chinese steel imports on India's industry. The company aims to expand its production capacity to 40 million tonnes by 2035, while exploring additional electric arc furnace projects. Steel producers in India are in discussion
-
-## IOC’s first SAF batch cleared for commercial supply
+## Megha Engg MD raises $700mn, to buy out founder uncle's stake
 
 
-## No 24x7 trading in immediate future, Sebi chief flags cyber risks, liquidity concerns
-The Securities and Exchange Board of India has opted against adopting 24/7 trading for now. Chairman Tuhin Kanta Pandey expressed concerns about cybersecurity threats and liquidity issues. The focus is on strengthening market regulations to boost overall efficiency. Current trading hour extensions m
+## 'India's challenge next year may be rupee's strength, not weakness': CEA Nageswaran
 
-## Anthropic IPO: How to buy shares, expected price and risks investors should know
-With a proposed valuation of $1.4 trillion, Anthropic's initial public offering is generating excitement among investors. The IPO is notably oversubscribed, with share prices set in the range of $70 to $78. Although retail investors can buy shares via various online platforms, they must consider the
 
-## Stock market today: Sensex plunges over 700 points, NSE Nifty50 slips below 25,200
+## Sebi studying various SLBM models: Pandey
+Sebi chairman Tuhin Kanta Pandey revealed that the regulator is exploring international models for stock lending and borrowing. Speaking at the World Federation of Exchanges, he also dismissed the possibility of extending trading hours, citing heightened risks.
 
+## Companies are cautious on leverage: JPMorgan
+Bank's India CEO Pranav Chawda says capital-market fundraising is expected to remain strong.
+
+## Anthropic outshines SpaceX with record $81.31 billion IPO, prices shares at $83 apiece
+Anthropic has set a record with an IPO that raises $81.31 billion, becoming the largest ever. The company, which is based in San Francisco, values its shares at $83 each. Investors are showing strong demand despite concerns surrounding the AI sector and possible regulatory actions. This fundraising 
+
+## Trade deal to be signed after US tariff plan: Commerce secy
+Countries need certainty around Section 301 probes, says commerce secretary Rajesh Agarwal
+
+## Retiring EPFO subscribers may get monthly payouts
+EPFO board is likely to discuss the proposal on Thursday.
+
+## Gaming colossus makes long-awaited return
+GTA VI — releasing 13 long years since the previous iteration — is the sequel to a game that sold more than 220 million copies.
+
+## PM sets target for drug abuse eradication at council of ministers meeting
+Modi urged a concerted campaign against drug abuse, while highlighting poverty reduction and gains against left-wing extremism.
 
 ## GTA 6 goes live in India after 13-year wait
 GTA 6 will bring players back to Vice City, the fictional city modelled after Miami, while also introducing the larger state of Leonida as its setting.
@@ -108,35 +105,35 @@ Shiv Sena leader Shaina NC dismissed the allegation, alleging that the Oppositio
 ## Gurugram: 2 arrested in PayU's cloud servers breach, siphoning over ₹25 crore
 Gurugram cyber police arrested two men from Ludhiana who allegedly provided bank accounts used to siphon off ₹25.67 crore from PayU Payments’ server.
 
-## ‘Let AQI go down’: SC's candid advice to Delhi father wanting son to visit from Singapore
-The Supreme Court advised a Delhi-based father to wait for pollution levels to improve before bringing his son from Singapore.
-
-## Centre notifies new prison law for Andaman and Nicobar Islands, bans caste bias, allows open jails
-Centre replaces three existing laws, including two dating back to the colonial era, with new regulation for Andaman and Nicobar Islands
-
-## SMAT 2026: Bihar, Vidarbha pull off thrilling chases; Baroda rout UP
+## Yalta 2.0? Amid Shenzhen summit, revisiting the historic 1945 conference
 
 
-## ‘It is not a sob story’: Shah Rukh Khan says owning a house was his ‘biggest yearning in life’
+## Another Vande Bharat pelted with stones in Surat; third incident in a year
 
 
-## How Kidambi Srikanth helped Lakshya Sen reach BWF World Tour Finals
+## EPFO to consider allowing systematic withdrawals on retirement instead of lump sum
 
 
-## Akhilesh takes PDA Rath Yatra to Yogi turf, picks holes in Gorakhpur ‘development story’
+## Why the world is closely watching the Trump-Xi-Putin meet in Shenzhen
 
 
-## ‘Run for your safety’: The final hours before Lashkar’s Lateef Bhat was gunned down
+## Legal actions if allegations false against Congress: Sukhvinder Singh Sukhu to Opposition
 
 
-## ‘Salman Khan is the OG Prem,’ says Ayushmann Khurrana: ‘We idealise him’
+## Anti-Sacrilege Act: Akal Takht-formed panel fails to meet Punjab’s committee
 
 
-## Puffy eyes and swollen fingers in the morning: Your thyroid could be responsible
+## Quad speaks up in a changing Indo-Pacific
 
 
-## Inside Swara Bhasker and Fahad Ahmad’s Mumbai bungalow: ‘Not a fancy Bollywood house’
+## Trilateral talks today: China pushes Shenzhen system to co-direct global order
 
+
+## ‘Haven assets’: China’s battered consumer stocks back in demand amid AI slump
+China’s investors are taking refuge in beaten-down consumer stocks to ride out the turmoil in AI trading, as a sell-off of technology stocks prompts the country’s securities regulator to deny rumours of administrative interference in mutual-fund investments. A CSI index of consumer stocks trading on
+
+## Developer lodges plans for Hong Kong towers a second time after 10% reduction in flats
+Following the Town Planning Board’s rejection of a mixed-use redevelopment plan for a Kowloon East office building in September, the landlord recently requested a review with a 10 per cent reduction in residential flats. But analysts doubt scaling back alone will secure an approval second time aroun
 
 ## HKEX creates new senior role to control emerging cyber and operational risks
 Hong Kong Exchanges and Clearing (HKEX), which operates Asia’s third-largest stock market, has created a new senior management role focused on controlling cyberattacks and emerging threats. Efe Cummings will join HKEX from November 30 to take up the newly created role of managing director, head of o
@@ -147,7 +144,7 @@ Hong Kong’s Tsim Sha Tsui is still the Asia-Pacific region’s most expensive 
 ## As foreign demand for retail space rises, Zuma investor plans new eatery in city
 Abu Dhabi-founded hospitality group Diafa is looking to bring a new restaurant concept to Hong Kong – choosing the city as its first stop in a wider push into Asia, according to its top executive, amid decreasing rents and rising retail sales in Hong Kong. Diafa’s foray into Hong Kong underscores th
 
-## Tencent profit dips as sixfold increase in AI infrastructure spending sacrifices margin
+## Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run
 Tencent Holdings ramped up capital spending more than sixfold in the third quarter to above US$12 billion, weighing on profit and free cash flow as the Chinese tech giant poured money into computing power to catch up in the country’s cutthroat artificial intelligence race. Adjusted net income for th
 
 ## China can become biotech powerhouse with more basic research, JPMorgan says
@@ -156,59 +153,53 @@ A lag in foundational research and looming geopolitical risks will weigh on Chin
 ## Yicura BioMed eyes IPO as CEO says Hong Kong biotech scene needs more patient capital
 Hong Kong needs more “patient capital” and more talent capable of commercialising research and development to sustain the city’s biotechnology ecosystem, according to a senior executive at a local biotech start-up. Yicura BioMed, based in the Hong Kong Science Park, is heading towards an initial pub
 
-## Shorting Chinese stocks seen as second-most crowded trade, survey of fund managers finds
-Global fund managers view bets against Chinese stocks as one of the market’s most crowded trades, following a sharp sell-off in mainland equities last month, a recent survey by Bank of America (BofA) found. Short positions in Chinese stocks were seen as the second-most crowded trade by 14 per cent o
+## What India Makes of Trump’s Asia Trip
+New Delhi will watch closely as the U.S. president meets with Xi and Putin in Shenzhen.
 
-## Hong Kong multimillionaires rose 4% this year, the highest in 5 years: Citibank
-The number of multimillionaires in Hong Kong has risen by 4 per cent to its highest level in five years, driven by recovering property prices that offset weak stock market performance, according to a Citibank Hong Kong survey released on Wednesday. The population of multimillionaires, defined as tho
+## Congo’s Escalating Ebola Crisis
+Six months in, the “out of control” outbreak shows no sign of slowing down.
+
+## Xi Plays the Field at APEC Summit
+One minute, the Chinese leader is criticizing U.S. trade policy. The next, he’s hugging Trump.
+
+## The U.S. Tech Outage Wave, Explained
+Experts say AI likely played a role but not in the way you might think.
+
+## America and China Are Trying to Alter Their Economic Bargain
+With decoupling too painful, derisking is on the menu instead.
+
+## Without U.S. Military Aid, Can Israel Afford So Many Wars?
+Deterioration in ties with Washington poses serious trouble.
+
+## Marco Rubio, Would-Be Pompey
+The secretary of state is now openly championing the Trump administration’s disdain for the rule of law.
 
 ## ICJ to Deliver Landmark Verdict on Myanmar
 The Rohingya genocide case will have wide-ranging impacts, including for the court’s forthcoming judgment on Israel.
 
-## Cooperating With China on AI Control Is a Fantasy
-Until Beijing can be trusted, Washington should push ahead to win the AI race.
+## Korean Defense Start-up Continues Its Work in Ukraine
+“Our cooperation with Ukraine has not ended,” says Newtype’s CEO, Sengwon Joe Cho. “...This incident tells me that Russia has noticed our system and wants it gone from the battlefield.”
 
-## Iran Is Heading for a Swiss-Cheese Solution
-The Iran war is most likely to end not with a bang, but with a whimper.
+## The Afghan Taliban’s Environmental Misgovernance
+Afghanistan's environmental crisis is also a crisis of governance.
 
-## Xi Makes the Most of Trump’s Asia-Pacific Trip
-The Chinese president is currying favor with some of the region’s most powerful leaders.
+## Vietnam’s Opening in Fractured Asia-Pacific Supply Chains
+As supply chains move from “just-in-time” to “just-in-case,” Vietnam has key advantages over its neighbors.
 
-## 5 Freshmen Democratic Lawmakers to Watch
-Meet the potential foreign-policy and national security big hitters of the next Congress.
+## What Would the ‘Finlandization’ of Taiwan Look Like?
+Insights from Pekka Virkki.
 
-## Will Iraqi Kurdistan Break Apart?
-Amid wider regional conflict, an escalating parliamentary battle threatens to split Iraq’s Kurdish region.
+## The China-US AI Hotline Needs to Be Different
+China-U.S. hotlines have historically failed when needed most. This one needs to actually work – and here’s how to make sure it does.
 
-## Ecuador’s Fraught Mining Boom
-President Daniel Noboa’s economic agenda puts him at odds with the constitution.
+## ‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters
+By hosting the 20th Francophonie summit, Cambodia has turned a historical legacy into a diplomatic opportunity. Political divisions, however, threaten to overshadow the institution’s Asian ambition.
 
-## European Rearmament Risks Political Peril
-Some policymakers are out of step with a cost-of-living crisis, as recent unrest shows.
+## Can Singapore Get the South China Sea COC Over the Finish Line in 2027?
+Another ASEAN summit ended with no Code of Conduct. With 80% done, can Singapore spearhead the completion of the agreement next year?
 
-## India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence
-To speed up the momentum of cooperation, Prime Minister Modi suggested that India and ASEAN should focus on the maritime domain.
-
-## What the New Democratic Congressional Majority Means for Trump’s Asia-Pacific Policy
-Three specific areas of Asia-Pacific policy are likely to be addressed by the Democratic majority in the new year.
-
-## The Rohingya Are Not a Legal Test Case. We Are a People Waiting for Justice.
-A judgment cannot return a murdered child to a mother or give back the years stolen from a generation. But recognition and being heard matters.
-
-## A Former Pakistani Army Captain Now Commands the BLA
-Rahman Gul will most likely implement a style of leadership and military strategy that will be dangerous for both Pakistan and China.
-
-## A New Anti-Taliban Group Emerges With a Bang: The Afghanistan United Front
-In August, the AUF announced the launch of a military campaign, “Operation Muharib,” against the Taliban. It has claimed 126 attacks since then.
-
-## Quad Moves to Counter China’s Mineral Monopoly
-The Quad is the most likely minilateral framework to address this strategic chokepoint.
-
-## To Many Chinese, Jensen Huang’s Race Was What Led to His Downfall
-Huang reached the pinnacle of American technological power, but many Chinese believe he was never fully accepted – and was eventually brought down – because of his race.
-
-## Australia, Philippines Sign New Defense Cooperation Arrangement
-The arrangement fast-tracks military cooperation between Canberra and Manila.
+## The Manila Summit: Promise and Peril for India’s Quad Chairmanship
+Since the Quad’s revival in 2021, New Delhi has not hosted any leaders’ summit on its own soil.
 
 ## Is Dollar Dominance in Decline?
 The dominance of the U.S. dollar is a crucial source of American global power. The dollar’s widespread use, strength, and reliability provide major economic advantages for the United States, enable U.S. sanctions to have real bite, and significantly boost U.S. influence abroad. For America’s adversa
@@ -258,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli court extends Gaza doctor Abu Safia’s detention without charge
-An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.
+## German FA backs France’s Diallo for FIFA presidency
+Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.
 
-## Israeli forces launch new military operation in central Gaza
-Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line
+## Kenya’s milk shortage deepens as drought hits farmers and pushes up prices
+Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.
 
-## Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit
-Trump told Philippine President Marcos he knew his parents 'very well'.
+## Somalia’s constitutional overhaul tests its fragile federal bargain
+Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.
 
-## Far-right influencer Jake Lang kicked out of Dearborn council meeting
-Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.
+## Anthropic raises $81.3bn in biggest IPO of all-time
+AI giant prices shares at $83 in blockbuster market debut.
 
-## What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?
-Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.
+## Unvaccinated Pennsylvania resident dies amid historic US measles resurgence
+Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.
 
-## Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island
-Iranian attacks on the Gulf countries draw condemnation from across the region.
+## EU governments approve trade deal with Indonesia to offset Trump tariffs
+The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.
 
-## World Bank official says Lebanon reconstruction making slow progress
-Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.
+## Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz
+Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.
 
-## Crowds gather as Trump arrives in China ahead of talks with Xi and Putin
-Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit
+## Israel uses Gaza swimming video to minimise winter hardships
+Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.
 
 ## NFRA recommends Ind AS changes for hyperinflationary currency reporting, proposes April 2027 implementation
 The recommendations cover amendments to Ind AS 21 and consequential changes to other accounting standards. NFRA also backs stronger public consultation, with ICAI agreeing to provide relevant IASB reference material alongside future exposure drafts.
