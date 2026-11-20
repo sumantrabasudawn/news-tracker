@@ -1,139 +1,142 @@
 # AION Intelligence
 
-## UK and EU poised to finalise deal to ‘reset’ relations
-Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France
+## Tech stocks fall as Anthropic IPO fails to reignite AI trade
+Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing
 
-## Australian PM to meet Xi Jinping as iron ore tensions loom
-Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday
+## A bubble in . . . defensive stocks?
+Plus, crypto and desperation
 
-## Law firms that caved to Trump brace for scrutiny from new Congress
-Firms are hiring outside lawyers as Democrats probe deals they struck with the president
+## Russian missile barrage damages Kyiv bridges
+Waves of attacks targeting Ukraine come on heels of trilateral meeting between US, Chinese and Russian leaders
 
-## Brazil’s central bank steps in to stem real’s slide since Lula’s re-election
-Currency has slipped from R$5 to R$5.90 to the dollar following leftwinger’s victory last month
+## Seize chance for closer EU-UK ties, urges European parliament president
+Also in this newsletter: industry bosses want a ‘grand bargain’ on clean investment
 
-## The Xi, Trump, Putin meeting and the dawn of a post-western world
-The symbolism was the substance in Shenzhen
+## China revels in Xi’s ‘Yalta 2.0’ moment
+Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say
 
-## Putin invites European leaders to Moscow for talks on Ukraine
-Russian leader signals he is unwilling to relax hardline demands for ending war
+## FirstFT: UK and EU poised to finalise deal to ‘reset’ ties
+Also in today’s newsletter: Anthropic IPO and oil-bonds correlation unwinds
 
-## AMD shares fall after short seller report on China links
-Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal
+## Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’
+Token’s price has plunged from high of $75 shortly after launch in January last year to $0.95 as investor interest has waned
 
-## UK’s long-delayed pensions dashboard now due to launch next year
-Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027
+## Former Corbyn ally emerging as favourite to succeed Khan as London mayor
+Dawn Butler, MP for Brent East, would face a fight to win the Labour nomination
 
-## Activist hedge fund calls for departure of Accor CEO
-Parvus says head of French hotel group has presided over ‘unfocused strategy’
+## So, Anthropic is finally a public company. What now?
+A blockbuster IPO postmortem
 
-## Anthropic shares jump 17% after record Wall Street listing
-AI group led by Dario Amodei raises $81bn in upsized public offering
+## Brussels to favour EU companies in quantum technology race
+Domestic groups will be prioritised for public contracts under plans to be presented next week
 
-## ‘Frustrated’ regulator vows to tackle electricity grid delays
-Attempts to accelerate connections may have backfired
+## Labour measures fail to shield UK households from sharp energy bill rises
+Government initiatives offset only a third of the rise in energy bills for poorer families, according to new analysis
 
-## Sage maps out the attractions of the UK’s tech hinterland
-By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere
+## Anthropic’s Wall Street stimulus fades
+Shares of some banks and private capital groups tying their fortunes to AI have fallen this year
 
-## Leaked files shine a harsh light on Deutsche Bank
-Revelations about Germany’s biggest lender carry lessons for European peers
+## The rift between the US and EU on banks is widening
+The ECB should not be content with marginal adjustments — it needs to be bolder in reforms
 
-## Anthropic’s journey to a $2 trillion valuation: Key milestones from 2021 to 2026
-The Claude developer’s rise to the public markets followed successive funding rounds, major AI launches and high-profile legal and regulatory battles.
+## Worldline bolstered cash flow through delayed payments and early receipts
+French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning
 
-## Anthropic IPO could mint thousands of employee millionaires, including junior staff
-The potential windfall highlights how stock-based compensation helped the Claude maker attract talent and reward employees during its rapid expansion
+## HDFC Bank surges 1.6% as banking stocks rally to fresh highs
+Buy-side participation also improved, with buyers accounting for 33 per cent of total traded quantity compared to roughly 23 per cent on Thursday, though sellers still held a two-to-one edge
 
-## US stocks tumble 2% as Anthropic IPO fails to revive AI trade optimism
-Wall Street’s sell-off deepened amid concerns over AI infrastructure spending, semiconductor valuations and the outlook for US interest rates
+## Sensex today | Stock Market Live: Sensex jumps 700 pts, Nifty touches fresh 10-month high at 25,730
+Sensex, Nifty, Share Prices LIVE: Benchmark indices Sensex and Nifty 50 reversed their gap-down opening to trade firmly in the green by mid-session on Friday, with the Nifty 50 touching a fresh 10-month high
 
-## Anthropic shares surge 17% after record $107.3 billion IPO, valuing AI firm at $1.8 trillion
-The Claude chatbot maker’s market debut comes amid growing investor scrutiny of AI infrastructure spending, financing arrangements and profitability prospects
+## BPE eyes over ₹1,000 crore revenue by FY30 on battery storage demand as retail, quick-commerce shift
+Plans ₹100 crore investment, capacity expansion as retail and quick-commerce firms look to replace diesel generators with battery storage systems
 
-## Who is Dario Amodei? The Anthropic chief who built an AI empire while championing safety
-The 43-year-old entrepreneur’s journey reflects the growing tension between developing powerful artificial intelligence and ensuring the technology remains under human control
+## Delhi’s toxic month: Foreign embassies cope with purifiers, masks, green cover
+From installing air-filtration systems and placing plants indoors to avoiding bonfires and outdoor activities, diplomatic missions are taking steps to protect staff from pollution
 
-## Amid widening losses, Air India pitches cost cuts to Tata Sons Board
-Cost efficiencies and greater synergies with Air India Express among issues discussed, sources say
+## Gold, Silver slide to 14-month lows as Dollar, Fed fears bite
+Precious metals extended their weekly losses as investors reassessed interest rate expectations, dollar strength and the Federal Reserve’s monetary policy outlook
 
-## India customs dispute holds up $66 million of Scotch Whisky
-Customs classification dispute leaves bulk shipments stuck at ports, risking hundreds of millions in duties despite a UK-India free-trade pact
+## Sundaram Home Finance targets ₹120 crore in Emerging Business disbursements in Telangana
+The lender is stepping up its state-level expansion after disbursing just over ₹55 crore in Telangana’s Emerging Business segment last year.
 
-## India’s GI boom is a filing story
-Until authorised-user numbers, renewals and enforcement actions are public, India will be counting tags, not measuring whether artisans gain
+## Nifty hits 10-month high at midday; Apollo Hospitals, Axis Bank lead rally
+Banking and IT stocks powered the recovery, even as declining shares outnumbered advances and precious metals extended their sharp losses
 
-## Wall Street's AI jitters return, S&P500 logs longest losing streak in 2.5 years
-On Thursday, US stocks faced a notable decline as investors moved away from AI-related shares, leading to worries about their profitability moving forward. The S&P 500 dropped 2%, hitting a two and a half year losing streak. Although Anthropic debuted positively, overall market sentiment remained bl
+## GIFT Nifty open interest hits record $22.21 billion, surpasses previous peak
+The international derivatives contract has scaled a new milestone, reflecting growing trading activity since its full-scale launch in July 2023
 
-## JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked
-JPMorgan Chase, Visa, and Mastercard have encountered cyber incidents with third-party service providers, leading to the potential exposure of customer data. Fortunately, these breaches did not compromise any payment systems or card details. Investigations are currently underway, with affected custo
+## Anthropic IPO: TSMC buys $500 million stake; board also authorised OpenAI investment
+Taiwan Semiconductor Manufacturing Company has strategically invested around $500 million in Anthropic, acquiring a 0.03% share by buying over six million shares at the IPO price. This investment comes as Anthropic celebrated a historic IPO, raising $81.34 billion and pushing its valuation to approx
 
-## Anthropic IPO: Share price jump 34% on Nasdaq debut, valuation tops $2 trillion
+## Gold price prediction: What is the gold price outlook on November 20, 2026?
+Gold price prediction today: Gold's technical structure remains significantly weak following the sharp correction. The steep decline in prices, falling moving averages and extremely oversold RSI indicate that the market is undergoing a period of heightened stress.
+
+## No invite for China at Anthropic IPO: After SpaceX, Claude parent too shuts Beijing out
+US technology companies like Anthropic, SpaceX, and OpenAI are restricting Chinese investors from participating in their offerings. This trend reflects the ongoing technology rivalry between the United States and China. Recent actions include the US government's efforts to limit China's access to ad
+
+## From Apple to Anthropic: World's 10 most valuable companies after blockbuster IPO
 
 
-## SpiceJet cancelling over half its scheduled flights daily; races to raise Rs 5,500 crore
-For the winter schedule, the DGCA had approved around 66 flights a day for SpiceJet. The airline, however, has been operating barely 15 daily flights while continuing to accept bookings across its entire schedule, the financial daily reported. Amid the financial strain, the airline’s board on Wednes
+## Old Monk maker’s revenue crashes 64% after FSSAI questions 3 rum variants
+The unlisted company’s revenue from operations dropped 64% to Rs 288 crore during April-September, compared with Rs 792 crore in the corresponding period a year earlier, according to its latest financial results. The contraction was even steeper in the September quarter, with revenue falling 77% yea
 
-## Rs 1.81 lakh to Rs 1.29 lakh: Why gold prices have crashed spectacularly
-Gold futures edged down by Rs 44 to Rs 1,29,770 per 10 grams on Thursday, as demand in the spot market remained subdued. On the Multi Commodity Exchange (MCX), gold contracts for December delivery slipped Rs 44, or 0.03%, to Rs 1,29,770 per 10 grams. The contracts recorded a trading volume of 12,735
+## $20 billion each! Meet the Anthropic co-founders who struck gold with IPO
+Anthropic's recent IPO has created significant wealth for its founders and staff, with over 5,100 employees seeing their equity exceed $1 million and around 600 becoming centi-millionaires. The company was initially valued at nearly $2 trillion post-IPO, benefiting early investors and highlighting t
 
-## Anthropic's record-breaking IPO: How can Indian investors buy shares in Claude's parent company
-Anthropic has made headlines by securing a staggering $81.31 billion in its IPO, breaking previous records. Indian investors who missed the initial offering will now need to wait for the trading phase to commence. Shares will be obtainable through overseas brokerage accounts, leveraging the Reserve 
+## Builder cancels flat after Rs 16.5 lakh payment, allots to another buyer; RERA awards Rs 5 lakh
+The dispute concerned a homebuyer who bought an apartment in the developer’s project. The woman buyer booked a three-bedroom apartment, with a carpet area of 1,270 sq ft and one car parking space. The allotment letter was issued in 2024, and the total sale consideration was Rs 1,64,99,147.70, inclus
 
-## EPFO approves SWP; retirees can soon withdraw their PF savings in regular instalments
-The SWP is intended to help members turn their retirement savings into a regular and predictable source of income while retaining ownership of the underlying corpus. At present, members are required to withdraw their entire provident fund corpus within three years of retirement to avoid their accoun
+## Gold, silver rate today: Gold heads for steepest weekly fall in eight months
 
-## Bengaluru–Mumbai Vande Bharat saves 6 hours, but AC 3 fare up to 96% higher
-Railway officials said existing trains generally take around 22 hours or longer to cover the distance of more than 1,100 km between Bengaluru and Mumbai. The Vande Bharat Sleeper completes the journey in 16 hours and 10 minutes, making it the fastest service on the route and cutting travel time by n
 
-## Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat
-Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat
+## CJP plans pan-India initiative to promote Gandhi's legacy through humour and satire
+The initiative begins in Pune on November 21. Admission is free, but online registration and an official pass are required.
 
-## In US, Pak national asks Rahul Gandhi if neighbours can move past ‘blame game’. His reply
-Rahul Gandhi said said it was impossible for India to hold talks with Pakistan while innocent people continued to be killed.
+## Gujarat bans display of caste-related words, symbols on private vehicles
+The amendment brings caste-related words and symbols displayed on vehicles under the regulatory framework.
 
-## Maharashtra puts non-essential construction on hold in 304 drought-hit talukas, prioritises relief
-Maharashtra puts non-essential construction on hold in 304 drought-hit talukas, prioritises relief
+## 2 killed, 47 injured as wedding guests’ bus collides with tanker on Delhi-Mumbai Expressway
+The bus was travelling from Dhoraji to Surat for a wedding when it rammed into a tanker near Derol on the Delhi-Mumbai Expressway around 5.30 am.
 
-## UP teen’s death after being hit by bulldozer sparks massive row; 5 SP leaders named in FIR
-The five SP leaders were reportedly involved in organising the event, and had allegedly arranged for the bulldozer to garland party chief Akhilesh Yadav.
+## Padmaja Venugopal quits BJP, cites inability to align with party's ideology in Keralam
+Padmaja Venugopal, the daughter of late Congress stalwart and four-time former Keralam CM K Karunakaran, confirmed that she submitted her resignation.
 
-## Kashmir has no India-born terrorists for first time in 35 years, says Amit Shah
-Union home minister Amit Shah says Kashmir has no India-born terrorists for the first time in 35 years after the killing of Lashkar-e-Taiba’s Lateef Bhat.
+## Manipur militant killed in encounter with security forces in Imphal West
+The encounter took place under Patsoi police station limits, with security forces continuing search operations in vulnerable areas of the state.
 
-## Woman’s body found in garbage heap in Dehradun, police release tattoo image to establish identity
-Police released an image of a tattoo on an unidentified woman whose body was found in a garbage heap in Dehradun’s Jamunwala area.
+## CJI Surya Kant turns down plea for recall hearing on CEC law before judge’s retirement
+CJI Kant said the five-judge Constitution bench could consider the recall application as well, even if one of the judges who passed the original order had retired by then.
 
-## CBSE moves Supreme Court to recall Class 6 exemption from three-language policy
-The CBSE has sought recall of the Supreme Court order exempting Class 6 students from the three-language policy, saying it affects academic arrangements.
+## Uttar Pradesh CM Yogi Adityanath’s mother Savitri Devi dies at 91 in Uttarakhand
+Savitri Devi died in her native village in Uttarakhand's Pauri Garhwal district on Friday.
 
-## Scientists flooded GTA’s Los Santos to simulate rising seas
-They used a fan-built 3D model of the map, and pinned it to coordinates with 11 control points and set the sea level from 31 shoreline points
+## Nepal PM Balen Shah to visit India on November 22–23
+According to the Foreign Secretary, a 34-member government delegation led by PM Shah will depart from Kathmandu for New Delhi to undertake the engagement.
 
-## Some of Hong Kong’s commercial landlords sell assets amid warming market sentiment
-Warming commercial property sentiment in Hong Kong in the wake of recent non-residential property offloading actions is prompting major landlords to sell assets, according to agents. In light of the recovering investment market, Link Reit announced on Wednesday that it had appointed agents to sell a
+## CATL’s China battery market share extends six-month slide amid carmaker diversification
+Contemporary Amperex Technology Ltd (CATL), China’s leading maker of electric vehicle (EV) batteries, saw its market share fall for the sixth month in a row in October, industry data showed, as domestic carmakers continued to diversify away from the giant. EV batteries produced by the Fujian provinc
 
-## US panel warns of China’s biotech rise, fuelling push to curb ties as Chinese firms unfazed
-Fresh warnings from a US congressional advisory body about the rapid rise of China’s biopharmaceutical sector are fuelling Washington’s push to curb cross-border ties, analysts said, though China’s industry appears largely unfazed. China was gaining a “competitive advantage” in biopharmaceuticals, a
+## Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week
+A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vlad
 
-## HKECIC at 60 navigates a changing world of trade
-[The content of this article has been produced by our advertising partner.] For a Hong Kong exporter, securing an overseas order is only half the battle. Getting paid is what ultimately determines whether the deal has been worthwhile. It is a distinction that Terence Chiu, commissioner of the Hong K
+## Yuen Kee Food IPO one step closer, eyes US$50m Hong Kong debut: sources
+Yuen Kee Food Group, the owner of the well-known restaurant brand Yuen Kee Dumpling, plans to launch a pre-roadshow next week for an initial public offering (IPO) of more than US$50 million (HK$392 million), according to people familiar with the matter. The company plans to kick off the public offer
 
-## APEC 2026 Meets Tencent Cloud: A New Era for Global Media Centres
-[The content of this article has been produced by our advertising partner.] SHENZHEN, China, 20 November 2026 – As global leaders gather in Shenzhen for the 33rd APEC Economic Leaders’ Week, Tencent Cloud is spearheading a technological upgrade for global journalists. As one of the key technology se
+## Swire Properties launches innovation challenge as Hong Kong focuses on green equities
+As green equities come into focus, Swire Properties launched the city’s latest sustainable business initiative – a green technology innovation challenge focused on buildings – this week. Hong Kong’s first five-year plan vowed to strengthen Hong Kong’s sustainable finance industry – lending, investin
 
-## ‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers
-For Cecilia Yang, a 28-year-old consultant in the eastern Chinese city of Hangzhou, Claude has become an indispensable daily colleague. So when the AI chatbot’s creator, Anthropic, priced its blockbuster initial public offering (IPO) on Wednesday, she decided she wanted a piece of the company, even 
+## Hong Kong stocks head for 19-month low as Anthropic’s debut fails to soothe AI jitters
+Hong Kong stocks fell on Friday, dragging the benchmark gauge to a 19-month low, as the blockbuster listing of AI frontier lab Anthropic in the US failed to revive confidence in technology stocks among investors rattled by doubts over whether enormous investments in data centres could generate compa
 
-## Elon Musk vows to raise output at Tesla’s Shanghai Gigafactory despite sales plunge
-Tesla CEO Elon Musk has pledged to increase output at the company’s Shanghai Gigafactory, despite the carmaker’s sales falling to a four-year low in mainland China amid an economic slowdown. The business mogul’s upbeat statement could help to quell fears about Tesla’s future in Shanghai, analysts sa
+## Turning Climate Warnings Into Household Action
+[The content of this article has been produced by our advertising partner.] COP31 is taking place in Antalya, Türkiye, from 9 to 20 November, with a clear emphasis on implementation. Alongside the negotiations, its Climate Action Agenda brings businesses, cities and civil society together to share p
 
-## China’s abundant electricity is not yet a decisive AI edge
-As Washington continues to tighten controls over advanced chip exports, China faces greater obstacles to accessing high-performance processors. The fall of Nvidia CEO Jensen Huang, a prominent advocate for selling chips to China, adds another layer of uncertainty. Some observers believe China’s abun
+## Financial Street Securities says chairman detained and under investigation on mainland
+Hong Kong-listed mainland China brokerage Financial Street Securities says its chairman, Zhu Yanhui, has been placed under investigation and detained by mainland authorities in the latest case involving a senior financial executive amid a sweeping anti-corruption campaign. Zhu was being investigated
 
-## Alibaba accelerates pivot to in-house chips after reporting jump in sales
-Alibaba Group Holding is accelerating its pivot to domestic microchips, as chief executive Eddie Wu Yongming said the company was training its next-generation AI models on in-house chips after reporting a better-than-expected uptick in revenue and profit. “Infrastructure powered by our own domestica
+## JPMorgan sees Hong Kong IPO market rebounding in 2027 despite volatility
+Hong Kong’s IPO market is expected to regain solid momentum in 2027, supported by a strong pipeline of companies preparing to raise capital, despite a recent slowdown in new listings and heightened volatility, a senior JPMorgan executive said. Initial public offering activity declined in the third q
 
 ## The U.S. and Iran Are Back to Trading Strikes
 A roughly two-month lull in the fighting is seemingly over.
@@ -159,6 +162,18 @@ Even after the Nvidia scandal, new rules leave significant loopholes.
 ## Why Did Trump Attend ASEAN?
 The U.S. president stops by Manila for a pit stop, a photo op, and some Filipino fried food.
 
+## COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified
+India cannot allow the energy transition to further outpace the socio-economic transition of millions dependent on coal.
+
+## EU Governments Sign Off on Previously-agreed Trade Deal With Indonesia
+The Comprehensive Economic Partnership Agreement (CEPA) marks an important milestone in the relationship between the EU and Southeast Asia’s most populous nation.
+
+## South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War
+Data suggests the country's current energy transition pains began before the war in the Gulf.
+
+## ‘It’s Impossible to Refuse’: State-Imposed Forced Labor and Exploitation in Uzbekistan’s Silk Sector
+The country's government has big ambitions for its silk industry, but what do those ambitions mean for farmers?
+
 ## China Ratchets Up Its Weaponization of Trade
 China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.
 
@@ -170,18 +185,6 @@ Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikbolj
 
 ## Are Kazakhs Giving Up on Civic Action?
 With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagement has little impact on government decisions.
-
-## China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit
-Xi seems to have been a reluctant host who decided to turn the event to his own advantage.
-
-## ICJ Delivers Historic Verdict: Myanmar Guilty of Genocide Against the Rohingya
-Myanmar's security forces killed thousands of Rohingya civilians and committed "widespread sexual violence" against women and "extreme violence" against children, the court said.
-
-## At APEC, Lee Urges Asia-Pacific Leaders to Back Talks With North Korea
-The South Korean president made his appeal in Shenzhen, hoping to entice fellow leaders to address North Korea issues.
-
-## Takaichi Meets Putin a Day After Suspected Russian Aircraft Violate Japanese Airspace
-Russian military flights near Japan and Taiwan raise questions about Moscow’s message to Beijing.
 
 ## Handshakes Without Headway
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a loop, with no indication that they are engaged in talks — although Ira
@@ -231,29 +234,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Haiti police say 34 gang members killed in capital raid
-Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.
+## Lionel Messi of Inter Miami tops Major League Soccer salaries
+Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.
 
-## El Salvador’s Bukele expected to formalise bid for third presidential term
-The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.
+## The Gambia stood up for the Rohingya, now the world must act
+The ICJ has delivered a historic judgement, but justice will depend on what happens next.
 
-## Four bodies recovered after Senegal boat capsizes amid migration surge
-Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.
+## EU and Britain to agree steps towards relations reset
+A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.
 
-## Iran war live: Houthis escalate attacks on Saudi capital
-Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.
+## Sandpapergate: Australian gov’t demands CA to ensure transparency in forum
+Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.
 
-## Six killed in suspected gas explosion at Georgia apartment building
-Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.
+## ‘We don’t want our future decided by the military’: Young Germans protest
+Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.
 
-## Mosque torched in Israel sparks political backlash against Netanyahu
-A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.
+## Tashima says Balogun red card row at World Cup prompted FIFA presidency bid
+Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.
 
-## US signed off on sales of nearly 900,000 AI chips to China in six months
-US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.
+## US maritime agency warned Iran blockade was adding to rising Gulf premiums
+US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.
 
-## Haiti police say at least 34 suspected gang members killed in raid
-Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.
+## Trump bows to pressure, replaces US cyber security director
+President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.
+
+## Will India Inc CFOs invest now?
+For several quarters, companies have prioritised stronger balance sheets, better cash flows and higher utilisation of existing assets over large expansion commitments. That caution may now be giving way to a more constructive outlook. But a recovery in earnings is not, by itself, a mandate to spend.
 
 ## India’s Top 100 CFOs gather at the Alila Diwa for three days of closed-door conversations on governance, growth and the human edge.
 Top finance leaders from various industries will convene at the Alila Diwa in Goa for three days. They will engage in discussions about governance, growth strategies, and the evolving role of the CFO. The conclave is structured around a single theme, focusing on redefining the CFO’s role in the cont
@@ -276,8 +282,11 @@ India has secured an assurance from the United States that Indian goods will enj
 ## CFO Reshuffle: Canara HSBC Life, Madras Fertilizers and Automotive Axles announce finance leadership changes
 Canara HSBC Life Insurance elevates Indu Swaroop as CFO, Madras Fertilizers appoints V.S. Murthy to the role, while Automotive Axles confirms Raman K as its CFO and key managerial personnel.
 
-## The Rising Cost of Cyberattacks
-The rapid expansion of partnerships between banks, NBFCs and fintech companies has widened this exposure. Lenders increasingly depend on outside technology providers for customer acquisition, loan processing, payments and disbursements. These arrangements have made financial services more convenient
+## SEBI preparing guidelines for responsible AI use in capital markets, including disclosures and accountability: KVR Murty
+The Securities and Exchange Board of India (SEBI) is preparing to issue guidelines for the responsible use of artificial intelligence (AI) in capital markets, including disclosures and accountability requirements for related entities, SEBI Whole Time Member (WTM) KVR Murty said on Thursday.
+
+## SEBI resolves 5,975 investor complaints via SCORES in October 2026
+The Securities and Exchange Board of India (SEBI) disposed of 5,975 investor complaints during October 2026 through the SEBI Complaint Redressal System (SCORES), according to data sourced from SEBI.
 
 ## SEBI rules out immediate 24x7 trading, says equity tokenisation unfeasible at current scale: Chairman Tuhin Kanta Pandey
 Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday ruled out an immediate move towards 24x7 stock market trading, citing cybersecurity risks, fragmented liquidity and investor fatigue. He also said extending tokenisation to equity markets was currently unfeasible 
@@ -293,10 +302,4 @@ With the headline inflation breaching the RBI's 6 per cent upper tolerance band 
 
 ## Winter session likely in first week of December; govt may push women's quota bill
 The Winter session of Parliament will likely start in the first week of December to discuss crucial legislation. The government aims to pass the women's reservation bill linked to delimitation before the 2029 elections. Opposition parties are expected to protest against the Special Intensive Revisio
-
-## RBI plans to ban private equity firms from holding controlling stakes in multiple NBFCs: What will change?
-The Reserve Bank of India is contemplating a ban on private equity firms holding majority stakes in multiple non-banking financial companies. The planned regulations aim to distinguish between controlling stakes and smaller investments, with the latter facing less scrutiny. Growing foreign investmen
-
-## RBI issues consolidated domestic money transfer rules; retains Rs 50,000 cash NEFT cap
-The Reserve Bank of India (RBI) has issued a consolidated set of directions on domestic money transfers, retaining existing transaction limits and tightening safeguards for cash-based remittances.
 
