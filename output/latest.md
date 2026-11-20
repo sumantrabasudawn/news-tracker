@@ -1,46 +1,58 @@
 # AION Intelligence
 
-## Andy Burnham begins to undo Brexit with landmark EU deal
-Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next
+## Nvidia faces US regulator’s probe into its accounting
+Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation
 
-## The Milburn review is no substitute for an economic plan
-His report throws down a gauntlet to the Labour Party but also provides it with an argument
+## US tech stocks plunge into bear market in worst week since Covid-19 crisis
+Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street
 
-## The AI fever in markets is breaking
-For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades
+## Inside Anthropic’s historic IPO
+Can the low-key company preserve its idiosyncratic culture in the glare of public markets?
 
-## Betfred blames UK gambling tax rise as it shuts 73 stores
-Bookmaker makes cuts after last month’s Budget increased levy on slot machines, which have been criticised for being highly addictive
+## Trump considering new Iran strikes as US military warns of strain on forces
+Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year
 
-## France’s de Villepin launches presidential bid in crowded race
-Growing number of candidacies in centre of France’s political spectrum heaps uncertainty on crucial 2027 election as Le Pen leads polls
+## Donald Trump threatens ‘tremendous’ tax on data centres built outside US
+President says fight is about preventing Beijing from taking the lead in developing AI technology
 
-## Anthropic shares tumble as AI giant swept up in tech sell-off
-Shares of Claude developer under pressure a day after blockbuster Wall Street debut
+## General strike hits Italy as anger at Meloni grows
+Workers and students protest against rising living costs and crumbling public services as Italian prime minister seeks re-election next year
 
-## Maga dealmaking threatens US-brokered peace in the Balkans
-Thirty years after the Dayton peace accords, US pursues competing interests that risk deepening ethnic tensions in Bosnia
+## Burnham's Brexit reset
+Plus: what next for welfare?
 
-## Is Trump stuck with Iran forever?
-There is a good chance he will leave office with the Iranian quagmire still dragging him down
+## Trump seeks Ukraine peace deal before January
+US officials keen to secure agreement between Vladimir Putin and Volodymyr Zelenskyy before Democrats take over Congress
 
-## Brookfield revives talks over £450mn sale of London’s Citypoint tower
-Negotiations to sell BP’s former head office to developer Castleforge had foundered earlier in the year
+## Grand Theft Auto VI smashes records with $3.8bn in sales
+Consumers have already spent more on the video game than the top-grossing movie
 
-## Anthropic shares slide as fears over AI boom dominate
-Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending
+## ’Tis the season to be grateful to China
+Forget the harrumphing Scrooges at COP — no other country is doing more for the climate
 
-## New pancreatic cancer drug halts tumour growth in 90% of patients
-Successful small-scale trial raises hopes that new approach could be extended to other types of the disease
+## Anthropic shares slide as tech stocks tumble
+Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom
 
-## ‘A necessary evil’: how Anthropic pulled off its IPO
-Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?
+## Directors’ Deals: Hikma executive sells £1.1mn of shares
+Pharma group raises profit guidance for 2026
 
-## Zero-waste housebuilding is shifting gears. Is the pace fast enough?
-Governments around the world are grappling with the 2bn tonnes of construction ‘waste’ sent to landfill every year. New proposals and circularity pioneers want to see it eliminated — and used to build new houses
+## Nifty finally ‘Trumps’ Nasdaq in a tumultuous 2026 so far
+Same result, but different emotions separate Nifty and Nasdaq Investors
 
-## Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms
-Taking CO₂ from the air will be needed to reverse warming, scientists say
+## Trump threatens ‘tremendous tax’ on US companies building data centres abroad
+Speaking at a White House news conference after his Asia visit, Trump outlined his position while discussing artificial intelligence.
+
+## Signal blocks screenshots to stop AI agents from reading private chats
+The messaging platform said operating system-level AI integrations could undermine app privacy protections by accessing sensitive information displayed on screens.
+
+## Trump makes India ties a top priority, says US Ambassador Sergio Gor
+Speaking aboard USS George Washington, Gor highlighted expanding military cooperation, joint exercises and information sharing between the two countries
+
+## India allows cut flower imports through Amritsar airport and Kandla seaport
+The Directorate General of Foreign Trade has revised the permitted entry points, subjecting imports to existing sanitary and phytosanitary requirements.
+
+## Noel Tata renews demand for September 17 board meeting recording
+The latest request comes after Tata Sons rejected an earlier plea, arguing that recording in-person board meetings is not legally required
 
 ## Carbon capture: climate solution or free pass for CO2 emitters?
 The question is whether carbon capture is being promoted to “manage” CO2, instead of focusing on eliminating emissions at the source
@@ -48,23 +60,11 @@ The question is whether carbon capture is being promoted to “manage” CO2, in
 ## After mega listing, Anthropic emerges among the most traded stocks by Indian retail investors
 Anthropic’s scrip began trading on Nasdaq at $111.50 (about ₹10,400) and quickly became one of the most-traded stocks on platforms that let Indians trade global shares
 
-## GitHub brings enterprise cloud data residency to India from December
-The offering will allow enterprises to store code and in-scope repository data in India while accessing GitHub’s managed cloud platform and AI capabilities
+## Tata trust clears Rs 50 crore grant for trustee Jehangir's hospital
 
-## SEBI proposes 12-year tenure cap for heads of stock exchanges and other market institutions
-Existing ⁠heads would be allowed up to 15 years in aggregate and could complete their ongoing terms.
 
-## Shravvi Naturals aims to commence new facility in Bengal within 9 months
-“We are setting up a new manufacturing plant at Q3 Industrial Park in West Bengal’s Hooghly district,” Shravvi Naturals director Shivam Agarwal
-
-## Algorithms shouldn’t foster price discrimination
-E-comm has accelerated much faster than the consumer protection framework. Violation of MRTP rules must be curbed
-
-## MeitY revises domestic value addition norms for six IT hardware products to boost local manufacturing
-MeitY’s BoM-based approach expands domestic sourcing criteria, boosts in-house R&D, design, and IP incentives to strengthen India-made IT hardware manufacturing
-
-## Nifty hit 9-month high as Rupee logs best weekly rally in 5 weeks; Bond yields ease
-Foreign investors pumped over ₹1 lakh crore into Indian equities in November so far, helping markets shrug off concerns around global technology stocks and elevated US yields.
+## US market regulator probes issues in Nvidia's accounting practices: Report
+Nvidia is under investigation by the SEC concerning its financial disclosures and accounting practices. Increasing scrutiny arises from potential breaches linked to a Singapore firm connected to China. Modifications in geographic revenue reporting have alarmed investors and regulators alike. As prob
 
 ## Gold price crash: Will yellow metal now plunge to Rs 1 lakh per 10 grams?
 Gold started falling in January as investors booked profit, but before it could find its equilibrium, the US-Iran war triggered another crash. Analysts say that the recent decline reflects a combination of profit-booking, liquidation of leveraged positions, changing interest-rate expectations and a 
@@ -84,11 +84,8 @@ In a representation submitted to the Bureau of Indian Standards (BIS), the assoc
 ## What's next for Anthropic shares - will it boom or pop?
 Anthropic has made an impressive stock market entry, achieving a staggering valuation of $1.75 trillion following its IPO. While enthusiasm for the shares surged, concerns linger regarding high operational costs and inherent market risks. Despite notable revenue increases, the company is grappling w
 
-## Anthropic IPO: TSMC buys $500 million stake; board also authorised OpenAI investment
-Taiwan Semiconductor Manufacturing Company has strategically invested around $500 million in Anthropic, acquiring a 0.03% share by buying over six million shares at the IPO price. This investment comes as Anthropic celebrated a historic IPO, raising $81.34 billion and pushing its valuation to approx
-
-## Gold price prediction: What is the gold price outlook on November 20, 2026?
-Gold price prediction today: Gold's technical structure remains significantly weak following the sharp correction. The steep decline in prices, falling moving averages and extremely oversold RSI indicate that the market is undergoing a period of heightened stress.
+## ICJ verdict noted; India consistently supported speedy return of Rohingya people: MEA
+ICJ verdict noted; India consistently supported speedy return of Rohingya people: MEA
 
 ## Lufthansa to cut 1,000 jobs as Iran war fuel costs, losses mount
 Lufthansa plans to cut 1,000 full-time jobs in Frankfurt and Munich as Iran war fuel costs add to monthly losses of 20 million euros, an internal letter said.
@@ -105,14 +102,11 @@ Congress’s Supriya Shrinate asked why Pakistan was invited to SCO dialogue, sa
 ## Nine-year-old girl found dead at home in Gurugram, father cites mental distress
 Police are investigating the death of a nine-year-old girl found hanging at her home in Sohna. Her family took her to a hospital, where she was declared dead.
 
-## ‘No change on Indus Waters Treaty stance’: MEA as Pak minister who threatened India visits Delhi
+## ‘No change on Indus Waters Treaty stance’: MEA as Pak minister, who threatened India, visits Delhi
 Pakistan's climate change minister Musadik Masood Malik arrived in New Delhi on Friday to lead the delegation at the SCO Civilisational Dialogue Forum.
 
 ## India awaits China’s response on GoPro camera used in 2025 Pahalgam terror attack: NIA chief
 NIA chief Rakesh Aggarwal said China is yet to respond to the agency’s request for data on the GoPro Hero 12 camera used in the Pahalgam attack.
-
-## VanDyke never raised concerns in India: NIA chief rejects US national’s allegations
-US national Matthew VanDyke alleged he was beaten and denied medical care during his nearly six-month stay in Tihar jail after his arrest in March.
 
 ## Baidu fined US$75,000 as China wraps up Joyy antitrust case
 China’s top market regulator has fined Baidu’s Hong Kong unit 500,000 yuan (US$75,000) for proceeding with its acquisition of part of live-streaming platform Joyy’s business before receiving antitrust clearance. The State Administration for Market Regulation (SAMR) said on Friday that Baidu (Hong Ko
@@ -138,53 +132,56 @@ Contemporary Amperex Technology Ltd (CATL), China’s leading maker of electric 
 ## Anthropic’s US$81b IPO, gold price drops: 5 figures investors are watching this week
 A record-breaking IPO from Anthropic capped off this week’s market headlines, sending US and Asian tech stocks sliding in its wake and adding new fuel to the artificial intelligence race, following the meeting between Chinese President Xi Jinping, US President Donald Trump and Russian President Vlad
 
-## ICJ Finds Myanmar Committed Genocide. What Comes Next?
-The top U.N. human rights expert on Myanmar unpacks what the landmark decision means going forward.
+## EU, U.K. Agree to a Brexit Reset
+But Burnham faces some opposition back home.
 
-## The Other Summitry in Shenzhen
-The leaders of Chile, Mexico, and Peru also made high-stakes visits to China this week.
+## States Are Playing Serious Games on Virtual Battlefields
+The rise of video gaming has created new geopolitical arenas.
 
-## The U.S. and Iran Are Back to Trading Strikes
-A roughly two-month lull in the fighting is seemingly over.
+## Bob Woodward Is Scared as Hell
+In his new memoir, the legendary reporter asks why presidents keep starting dumb wars—and worries about the future.
 
-## Trump, Xi, Putin Hold Historic Trilateral Talks
-Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.
+## Pop Culture Still Can’t Figure Out Drone Warfare
+Hollywood seems oblivious to the radically new nature of war. Why, exactly?
 
-## Shenzhen Was No Yalta Conference
-For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.
+## What in the World?
+Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.
 
-## In Italy, Meloni Grapples With a Potential Spoiler
-With elections due next year, the prime minister faces pressure from a challenger to her right.
+## After ‘Wild Horse Nine,’ 5 of the Best Movies About the CIA
+Listed in order from least to most zany.
 
-## Iran’s ‘Boiling Frog’ Strategy
-Why Tehran believes its strategy to hurt the West is working.
+## Why BAAJA Matters
+Ones and Tooze on permitting reform and what that means for U.S. energy production.
 
-## Is This the Beginning of the End for Modi?
-Political discontent in India—and the government’s response—is beginning to spiral.
+## What the Yalta Comparison Really Reveals About Shenzhen
+Three diminished leaders produced symbolism without substance, but their ideological alignment is historic.
 
-## The ICJ’s Myanmar Genocide Ruling: What Comes Next?
-The verdict marked broke new legal ground, but enforcing the judgment on Naypyidaw will not be easy.
+## A Moment of New Hope for the Rohingya Community
+Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.
 
-## Where the Mango Meets the Orchid: Prospects in Pakistan-Singapore Relations
-The recent visit to Pakistan by Singapore's foreign minister offers an opportunity to establish a framework of cooperation connecting South Asia with Southeast Asia.
+## Russia’s Changing Positions on North Korea Sanctions and Denuclearization
+Russia once held firm on denuclearization and reluctantly accepted sanctions as a necessary tool. Those days are over.
 
-## The Inflation of Kim Yo Jong’s Statements
-The supreme leader’s sister is speaking out more frequently. There is a risk in that.
+## Demography Is the Achilles’ Heel of Dictatorships – Including China
+The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.
 
-## COP31: Why India’s Stress on Country-led Just Transition Pathways Is Justified
-India cannot allow the energy transition to further outpace the socio-economic transition of millions dependent on coal.
+## Taiwan’s Local Elections: The Races to Watch
+Your guide to the most competitive races – and the ones that could impact the 2028 presidential election.
 
-## EU Governments Sign Off on Previously-agreed Trade Deal With Indonesia
-The Comprehensive Economic Partnership Agreement marks an important milestone in the relationship between the EU and Southeast Asia’s most populous nation.
+## China Is Investing in Africa’s Factory Moment. Will It Stay?
+Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?
 
-## South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War
-Data suggests the country's current energy transition pains began before the war in the Gulf.
+## Uzbekistan’s Energy Sector Faces the Perfect Storm
+They way forward requires immense investment. But international investors need legal certainty and protection from political interference.
 
-## ‘It’s Impossible to Refuse’: State-Imposed Forced Labor and Exploitation in Uzbekistan’s Silk Sector
-The country's government has big ambitions for its silk industry, but what do those ambitions mean for farmers?
+## China’s Downstream Nations Need a Collective Voice
+Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.
 
-## China Ratchets Up Its Weaponization of Trade
-China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.
+## ICJ’s Genocide Verdict on Myanmar and the Ramifications for Israel
+Legal experts warn of a potential backlash against the ICJ after its Rohingya ruling.
+
+## What Ukraine Hath Wrought: Lessons for War, If We’re Listening
+Four years into Russia’s war against Ukraine, what should the U.S. military have learned by now? Michael Kofman (Carnegie Endowment), Dara Massicot (Carnegie Endowment), and Amos Fox (Arizona State University) join Ryan to discuss. The easy answer is drones and AI, but our guests argue the harder tr
 
 ## Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo
 In conversations with law enforcement and security professionals, one view has repeatedly emerged: Aum Shinrikyo’s failed biological weapons program in the early 1990s shows that the risk of bioterrorism is overstated, despite warnings about AI-assisted bioterrorism and calls for enhanced preparedne
@@ -206,9 +203,6 @@ U.S. President Donald Trump, who has sought nuclear arms control with Russia and
 
 ## Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan
 In 2025, Joel Wuthnow wrote “How China Could Counter U.S. Intervention in War Over Taiwan,” arguing that Beijing’s best option might be to deter Washington from coming to Taiwan’s aid by raising the risks to the U.S. homeland. A year and a half later, we asked him to revisit that argument.Image: Lan
-
-## Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine
-In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strategy promises Europe’s strongest conventional army by 2039 with a technologically superior and innovat
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -234,32 +228,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## 10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU
-Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.
+## Fossil fuel talks deadlock pushes COP31 climate summit into overtime
+EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.
 
-## Qatar and Germany deepen strategic ties during emir’s Berlin visit
-German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.
+## US lawmakers push for tougher AI chip rules amid China export crackdown
+Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.
 
-## US Senate passes bill to speed up energy project approvals
-The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.
+## Iraq PM targets militia stronghold in bid to assert state control
+Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.
 
-## ‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party
-As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.
+## Trump threatens tax on US tech firms building AI data centres abroad
+US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.
 
-## One third of attacks on children worldwide recorded in Palestine
-Almost one in three reported violations against children worldwide occurred in Palestine in 2025.
+## Trump defends Putin relationship, warns AI data centres must stay in US
+The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.
 
-## Kansas hosts become guests as Algeria repays World Cup welcome
-A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.
+## Two Salvadoran soldiers killed in Haiti while handling explosives
+Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.
 
-## Jerusalem Daily: Palestinians return home to ruins
-Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.
+## Can the UK and EU turn the page on Brexit?
+A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.
 
-## Poland condemns Russian ‘provocation’ after airspace violations
-The incidents came as European troops were taking part in a Ukraine post-war military exercise.
+## Gaza’s displaced children celebrate World Children’s Day
+Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.
 
 ## India needs continuous reforms, not just big policy changes, to sustain growth: Sanjeev Sanyal
 Speaking at the inaugural ETCFO Annual Conclave 2026, Sanjeev Sanyal, Member of the Economic Advisory Council to the Prime Minister, called for simplifying regulatory processes, eliminating redundant compliance requirements and improving legal transparency.
+
+## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
+Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
 
 ## CFOs must prioritise returns over aggressive capex as cost of capital rises: Finance leaders
 At the inaugural ETCFO Annual Conclave 2026, finance leaders from Jio-bp, NMDC and Biocon discussed how disciplined capital allocation, innovative financing structures and technology-led efficiency can help businesses sustain growth amid rising borrowing costs and global uncertainty.
@@ -278,9 +275,6 @@ The recommendations cover amendments to Ind AS 21 and consequential changes to o
 
 ## PNB Housing Finance targets growth 18-20%, 300 affordable segment branches in two years: CFO Vinay Gupta
 PNB Housing Finance targets annual growth of 18 to 20 percent over the next two to three years. The company plans to expand its affordable branch network from 235 to around 300 branches in this time. Loan assets have grown by 19 percent in the last quarter, and affordable loans are driving significa
-
-## After MNCs, domestic companies embrace GCC model
-Top conglomerates including Adani, Tata and Mahindra, have adopted the model to integrate operations, standardise processes and drive digitisation across their businesses.
 
 ## Sebi plans consultation paper to remove FPI constraints absent in other markets
 SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five 
