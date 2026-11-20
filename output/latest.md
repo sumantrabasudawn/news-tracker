@@ -1,40 +1,61 @@
 # AION Intelligence
 
+## UK and EU poised to finalise deal to ‘reset’ relations
+Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France
+
+## Australian PM to meet Xi Jinping as iron ore tensions loom
+Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday
+
+## Law firms that caved to Trump brace for scrutiny from new Congress
+Firms are hiring outside lawyers as Democrats probe deals they struck with the president
+
+## Brazil’s central bank steps in to stem real’s slide since Lula’s re-election
+Currency has slipped from R$5 to R$5.90 to the dollar following leftwinger’s victory last month
+
+## The Xi, Trump, Putin meeting and the dawn of a post-western world
+The symbolism was the substance in Shenzhen
+
+## Putin invites European leaders to Moscow for talks on Ukraine
+Russian leader signals he is unwilling to relax hardline demands for ending war
+
+## AMD shares fall after short seller report on China links
+Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal
+
 ## UK’s long-delayed pensions dashboard now due to launch next year
 Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027
 
-## Central banks ❤️ US dollars
-A tour of central bank foreign exchange reserve policy, in 248 charts
+## Activist hedge fund calls for departure of Accor CEO
+Parvus says head of French hotel group has presided over ‘unfocused strategy’
 
-## Houthi air strike hits Saudi sovereign wealth fund headquarters
-Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels
+## Anthropic shares jump 17% after record Wall Street listing
+AI group led by Dario Amodei raises $81bn in upsized public offering
 
-## Anthropic soars in Wall Street debut
-AI giant begins trading after raising $81bn in record IPO
+## ‘Frustrated’ regulator vows to tackle electricity grid delays
+Attempts to accelerate connections may have backfired
 
-## UK loses bid to keep Apple ‘backdoor’ order secret
-Privacy rights campaigners laud a ‘big win for accountability, transparency and online security’
+## Sage maps out the attractions of the UK’s tech hinterland
+By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere
 
-## Walmart boosted by grocery sales as US consumers search for lower prices
-Retailer said it took greater share of Americans’ spending on groceries in third quarter
+## Leaked files shine a harsh light on Deutsche Bank
+Revelations about Germany’s biggest lender carry lessons for European peers
 
-## South Africa’s ‘Iron Lady’ tells allies her Johannesburg mayor bid is over
-Veteran politician Helen Zille’s Democratic Alliance finished first in local elections but is not expected to take power in economic capital after days of coalition horse-trading
+## Anthropic’s journey to a $2 trillion valuation: Key milestones from 2021 to 2026
+The Claude developer’s rise to the public markets followed successive funding rounds, major AI launches and high-profile legal and regulatory battles.
 
-## Going to university is not just about money
-The life satisfaction return on an undergraduate degree is substantially higher than it was even a quarter of a century ago
+## Anthropic IPO could mint thousands of employee millionaires, including junior staff
+The potential windfall highlights how stock-based compensation helped the Claude maker attract talent and reward employees during its rapid expansion
 
-## Milbank swoops on Weil Paris office as US law firms target European growth
-Recruitment of 87-lawyer team will give Milbank a French office for first time
+## US stocks tumble 2% as Anthropic IPO fails to revive AI trade optimism
+Wall Street’s sell-off deepened amid concerns over AI infrastructure spending, semiconductor valuations and the outlook for US interest rates
 
-## Nscale warns of its exposure to suppliers facing US blacklist
-Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’
+## Anthropic shares surge 17% after record $107.3 billion IPO, valuing AI firm at $1.8 trillion
+The Claude chatbot maker’s market debut comes amid growing investor scrutiny of AI infrastructure spending, financing arrangements and profitability prospects
 
-## Germany hit by AI-driven surge in cyber attacks
-Threat level ‘critical’ as new tools make it far easier for hackers to exploit security flaws
+## Who is Dario Amodei? The Anthropic chief who built an AI empire while championing safety
+The 43-year-old entrepreneur’s journey reflects the growing tension between developing powerful artificial intelligence and ensuring the technology remains under human control
 
-## The dangers of AI ‘handoverism’
-Even some of Silicon Valley’s most enthusiastic capitalists are alarmed about how far and fast the technology is moving
+## Amid widening losses, Air India pitches cost cuts to Tata Sons Board
+Cost efficiencies and greater synergies with Air India Express among issues discussed, sources say
 
 ## India customs dispute holds up $66 million of Scotch Whisky
 Customs classification dispute leaves bulk shipments stuck at ports, risking hundreds of millions in duties despite a UK-India free-trade pact
@@ -42,23 +63,11 @@ Customs classification dispute leaves bulk shipments stuck at ports, risking hun
 ## India’s GI boom is a filing story
 Until authorised-user numbers, renewals and enforcement actions are public, India will be counting tags, not measuring whether artisans gain
 
-## Need for responsible B-Schools
-The worth of a business school should extend beyond placements, accreditations, rankings and compensation packages. Its true contribution lies in nurturing individuals who use their knowledge, capabilities and influence to make society better
+## Wall Street's AI jitters return, S&P500 logs longest losing streak in 2.5 years
+On Thursday, US stocks faced a notable decline as investors moved away from AI-related shares, leading to worries about their profitability moving forward. The S&P 500 dropped 2%, hitting a two and a half year losing streak. Although Anthropic debuted positively, overall market sentiment remained bl
 
-## Regional Ring Road: Telangana govt to acquire 4,962 acres of land
-Officials disclosed at a review meeting on land acquisition for the southern Regional Ring Road and proposed radial roads, chaired by Chief Secretary Sanjay Jaju on Thursday
-
-## Reservoir levels continue to drop in India’s major reservoirs
-Over 60% of the country received deficit rain between October 1 and Nov 18
-
-## Editorial. Margin of error
-Checks on leveraged cash-based trading welcome
-
-## Letters to the Editor dated November 19, 2026
-
-
-## India’s crude oil demand to grow at 3% annually till 2035: IEA
-Rising transport, aviation, petrochemical and industrial needs are expected to drive India’s oil consumption even as advanced economies see declines
+## JPMorgan, Visa, Mastercard hit by cyber incidents; data of thousands of customers leaked
+JPMorgan Chase, Visa, and Mastercard have encountered cyber incidents with third-party service providers, leading to the potential exposure of customer data. Fortunately, these breaches did not compromise any payment systems or card details. Investigations are currently underway, with affected custo
 
 ## Anthropic IPO: Share price jump 34% on Nasdaq debut, valuation tops $2 trillion
 
@@ -78,11 +87,8 @@ The SWP is intended to help members turn their retirement savings into a regular
 ## Bengaluru–Mumbai Vande Bharat saves 6 hours, but AC 3 fare up to 96% higher
 Railway officials said existing trains generally take around 22 hours or longer to cover the distance of more than 1,100 km between Bengaluru and Mumbai. The Vande Bharat Sleeper completes the journey in 16 hours and 10 minutes, making it the fastest service on the route and cutting travel time by n
 
-## Which are the top stocks to buy or sell on November 19, 2026?
-Top stock market recommendations: IIFL Finance, and Hindustan Zinc are the top stocks to sell today on November 19, 2026, according to Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth’s recommendation. The analyst has recommended Oberoi Realty as the top 
-
-## Anthropic IPO Pricing: Kotak questions India Inc valuations; IPO tops $1.4 tn target
-In 2021, Anthropic, an AI startup, achieved an astounding valuation of $1.5 trillion, surpassing the total market valuation of India's top ten companies. Uday Kotak shared this noteworthy observation on X, raising questions about whether Indian firms are undervalued or if they must innovate to keep 
+## Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat
+Resignation not admission of wrongdoing, I am innocent: Justice Varma tells Lok Sabha secretariat
 
 ## In US, Pak national asks Rahul Gandhi if neighbours can move past ‘blame game’. His reply
 Rahul Gandhi said said it was impossible for India to hold talks with Pakistan while innocent people continued to be killed.
@@ -105,8 +111,11 @@ The CBSE has sought recall of the Supreme Court order exempting Class 6 students
 ## Scientists flooded GTA’s Los Santos to simulate rising seas
 They used a fan-built 3D model of the map, and pinned it to coordinates with 11 control points and set the sea level from 31 shoreline points
 
-## India proposes joint vision document ahead of Nepal PM Balen Shah’s visit next week
-India has proposed a joint vision document covering trade, investment, energy and connectivity ahead of Nepal Prime Minister Balen Shah’s visit on November 22.
+## Some of Hong Kong’s commercial landlords sell assets amid warming market sentiment
+Warming commercial property sentiment in Hong Kong in the wake of recent non-residential property offloading actions is prompting major landlords to sell assets, according to agents. In light of the recovering investment market, Link Reit announced on Wednesday that it had appointed agents to sell a
+
+## US panel warns of China’s biotech rise, fuelling push to curb ties as Chinese firms unfazed
+Fresh warnings from a US congressional advisory body about the rapid rise of China’s biopharmaceutical sector are fuelling Washington’s push to curb cross-border ties, analysts said, though China’s industry appears largely unfazed. China was gaining a “competitive advantage” in biopharmaceuticals, a
 
 ## HKECIC at 60 navigates a changing world of trade
 [The content of this article has been produced by our advertising partner.] For a Hong Kong exporter, securing an overseas order is only half the battle. Getting paid is what ultimately determines whether the deal has been worthwhile. It is a distinction that Terence Chiu, commissioner of the Hong K
@@ -126,11 +135,17 @@ As Washington continues to tighten controls over advanced chip exports, China fa
 ## Alibaba accelerates pivot to in-house chips after reporting jump in sales
 Alibaba Group Holding is accelerating its pivot to domestic microchips, as chief executive Eddie Wu Yongming said the company was training its next-generation AI models on in-house chips after reporting a better-than-expected uptick in revenue and profit. “Infrastructure powered by our own domestica
 
-## Hong Kong’s NWD faces furious shareholder backlash over US$3.2b rights issue
-Angry New World Development (NWD) shareholders lambasted the debt-laden developer’s multibillion-dollar rights issue on the sidelines of its annual general meeting in Hong Kong on Thursday, accusing management of treating small investors like “meat on the chopping board”. Hundreds of shareholders li
+## The U.S. and Iran Are Back to Trading Strikes
+A roughly two-month lull in the fighting is seemingly over.
 
-## RA Capital opens Shanghai office to tap Chinese biotech even as US investment rules tighten
-Prominent healthcare-focused US venture capital firm RA Capital has expanded its China footprint with a new Shanghai office, aiming to tap innovation in the Chinese biotech ecosystem as US firms navigate Washington’s escalating scrutiny of cross-border deals. Boston-headquartered RA Capital now has 
+## Trump, Xi, Putin Hold Historic Trilateral Talks
+Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.
+
+## Shenzhen Was No Yalta Conference
+For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.
+
+## In Italy, Meloni Grapples With a Potential Spoiler
+With elections due next year, the prime minister faces pressure from a challenger to her right.
 
 ## Iran’s ‘Boiling Frog’ Strategy
 Why Tehran believes its strategy to hurt the West is working.
@@ -144,41 +159,32 @@ Even after the Nvidia scandal, new rules leave significant loopholes.
 ## Why Did Trump Attend ASEAN?
 The U.S. president stops by Manila for a pit stop, a photo op, and some Filipino fried food.
 
-## What India Makes of Trump’s Asia Trip
-New Delhi will watch closely as the U.S. president meets with Xi and Putin in Shenzhen.
+## China Ratchets Up Its Weaponization of Trade
+China’s expansive export-control system is in key respects modeled on that of the United States. But there is an important difference.
 
-## Congo’s Escalating Ebola Crisis
-Six months in, the “out of control” outbreak shows no sign of slowing down.
+## Mongolia’s President Steps Down Amid Corruption Allegations
+Yet more turnover in Mongolia’s leadership highlights factional politics and a lack of accountability mechanisms.
 
-## Xi Plays the Field at APEC Summit
-One minute, the Chinese leader is criticizing U.S. trade policy. The next, he’s hugging Trump.
+## Uzbek Professor Reportedly Convicted of Espionage in Kazakhstan
+Neither Kazakh nor Uzbek authorities have commented on the case, with Dr. Ikboljon Qoraboyev’s relatives stating that he’s been sentenced to 10 years.
 
-## The U.S. Tech Outage Wave, Explained
-Experts say AI likely played a role but not in the way you might think.
+## Are Kazakhs Giving Up on Civic Action?
+With a politically tense year coming to an end, a new national survey suggests that Kazakhs are increasingly disillusioned with the country's political life, feeling that engagement has little impact on government decisions.
 
-## Russia, Japan, and the Race to Power a Nuclear Indonesia
-Jakarta should evaluate its international nuclear partnerships by the extent to which they can contribute to its long-term technological and industrial development.
+## China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit
+Xi seems to have been a reluctant host who decided to turn the event to his own advantage.
 
-## Could New US Chip Restrictions Torpedo Southeast Asia’s AI Ambitions?
-Washington is targeting the renting of advanced AI computing capacity to Chinese companies in Singapore, Malaysia, Thailand, and Indonesia.
+## ICJ Delivers Historic Verdict: Myanmar Guilty of Genocide Against the Rohingya
+Myanmar's security forces killed thousands of Rohingya civilians and committed "widespread sexual violence" against women and "extreme violence" against children, the court said.
 
-## With APEC Summit, Beijing Showcases Its Vision for a New Tech Megapolis
-Shenzhen gives Beijing a stage to showcase its ambitions for the “Greater Bay Area” and China's next phase of growth.
+## At APEC, Lee Urges Asia-Pacific Leaders to Back Talks With North Korea
+The South Korean president made his appeal in Shenzhen, hoping to entice fellow leaders to address North Korea issues.
 
-## Myanmar’s Military-backed Government to ‘Review’ Relationship With ASEAN
-Min Aung Hlaing's comment came after the 11-nation bloc decided to maintain the bar on Myanmar's attendance at its summits and foreign ministers' meetings.
+## Takaichi Meets Putin a Day After Suspected Russian Aircraft Violate Japanese Airspace
+Russian military flights near Japan and Taiwan raise questions about Moscow’s message to Beijing.
 
-## Riding the Gelombang Biru: Melaka and the Freezing of Malaysia’s Ethnic Fault Line
-Melaka's landslide looked like a win for Malay nationalism. Seen from the ground, it was a test of whether Malaysian votes still follow their leaders.
-
-## Korean Defense Start-up Continues Its Work in Ukraine
-“Our cooperation with Ukraine has not ended,” says Newtype’s CEO, Sengwon Joe Cho. “...This incident tells me that Russia has noticed our system and wants it gone from the battlefield.”
-
-## The Afghan Taliban’s Environmental Misgovernance
-Afghanistan's environmental crisis is also a crisis of governance.
-
-## Vietnam’s Opening in Fractured Asia-Pacific Supply Chains
-As supply chains move from “just-in-time” to “just-in-case,” Vietnam has key advantages over its neighbors.
+## Handshakes Without Headway
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a loop, with no indication that they are engaged in talks — although Ira
 
 ## The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age
 Commercial cloud architecture has made digital infrastructure more resilient to localized disruption. Geographic dispersion, workload migration, and failover have allowed providers to preserve access in instances of degradation or even destruction. Yet, underpinning this resiliency are interlocking 
@@ -200,9 +206,6 @@ In 2026, Germany is spending a record €125 billion on defense, second only to 
 
 ## The Military Strategic Drivers Behind China’s Nuclear Expansion
 In June 1993, a group of Second Artillery Corps senior leaders gathered at the Jiuquan Satellite Launch Center. The organizers brought Li Xuge, recently retired commander of the Second Artillery, as a special guest for the event. Li had watched the Second Artillery develop from its infancy to this d
-
-## Theater in Abu Dhabi, Everyday Life at Home: Why the War Still Shapes Every Story
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China’s Xi urges US and Russia to join forces to safeguard world peace
-Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.
+## Haiti police say 34 gang members killed in capital raid
+Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.
 
-## ‘Not an acquittal’: After impeachment vote, Hegseth still under microscope
-A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.
+## El Salvador’s Bukele expected to formalise bid for third presidential term
+The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.
 
-## Trump and Putin ‘hijacked’ China summit
-Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.
+## Four bodies recovered after Senegal boat capsizes amid migration surge
+Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.
 
-## Yemen’s besieged city of Taiz faces a deepening water crisis
-Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.
+## Iran war live: Houthis escalate attacks on Saudi capital
+Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.
 
-## Anthropic starts trading in the US after blockbuster IPO
-Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn
+## Six killed in suspected gas explosion at Georgia apartment building
+Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.
 
-## As Burnham heads to Brussels, are new Brexit wars about to begin?
-The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.
+## Mosque torched in Israel sparks political backlash against Netanyahu
+A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.
 
-## Putin pitches Arctic route, calls for investment: Will it work?
-Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.
+## US signed off on sales of nearly 900,000 AI chips to China in six months
+US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.
 
-## A geography of hearts: Turkiye and Lebanon, building the Levant together
-Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.
+## Haiti police say at least 34 suspected gang members killed in raid
+Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.
 
 ## India’s Top 100 CFOs gather at the Alila Diwa for three days of closed-door conversations on governance, growth and the human edge.
 Top finance leaders from various industries will convene at the Alila Diwa in Goa for three days. They will engage in discussions about governance, growth strategies, and the evolving role of the CFO. The conclave is structured around a single theme, focusing on redefining the CFO’s role in the cont
