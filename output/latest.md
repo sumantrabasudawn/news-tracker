@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## ‘Sandpapergate’ fallout gives Australian cricket a rough time
-Fresh allegations over 2018 cheating scandal spark wider national debate over sport
+## Going public, but only a little
+Big IPOs, small floats
 
-## Bayer’s $7.25bn settlement over cancer cases approved by US judge
-Ruling will help German chemicals group contain legal bills after years of court battles
+## Milburn’s £5.8bn youth employment plan rests on ‘leap of faith’
+Reforms would have to be three times as effective as previous schemes to hit their goals, analysts warn
 
-## Nvidia faces US regulator’s probe into its accounting
-Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation
+## The chip war’s next battleground
+As the US and China’s AI rivalry intensifies, focus is moving to supply chains
 
-## US tech stocks plunge into bear market in worst week since Covid-19 crisis
-Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street
+## Good growth really is possible in every UK postcode
+Research shows money isn’t all that matters to a good life. Just take a look at the map of UK happiness
 
-## Inside Anthropic’s historic IPO
-Can the low-key company preserve its idiosyncratic culture in the glare of public markets?
+## The ‘Emperor of El Salvador’ storms into Haiti
+Salvadoran strongman Nayib Bukele’s deployment of 2,000 troops to the Caribbean nation has drawn adulation from thousands of Haitians
 
-## Trump considering new Iran strikes as US military warns of strain on forces
-Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year
+## Oil shipped through Hormuz falls as Iranian strikes increase
+Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says
 
-## Donald Trump threatens ‘tremendous’ tax on data centres built outside US
-President says fight is about preventing Beijing from taking the lead in developing AI technology
+## Tourist tax leaves Scouts facing £1mn bill for camping trips
+Ministers reject calls for a blanket exemption
 
-## General strike hits Italy as anger at Meloni grows
-Workers and students protest against rising living costs and crumbling public services as Italian prime minister seeks re-election next year
+## US watchdogs pick a bad time to cut disclosure on executive pay
+The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed
 
-## Grand Theft Auto VI smashes records with $3.8bn in sales
-Consumers have already spent more on the video game than the top-grossing movie
+## Behind Manchester City’s Apollo talks
+Also in today’s newsletter: Nike and Formula 1, Premier League club valuations and more
 
-## ’Tis the season to be grateful to China
-Forget the harrumphing Scrooges at COP — no other country is doing more for the climate
+## The dead hand of history weighs on Deutsche Bank
+Bankers might do well to remember from time to time that they are making decisions that will stick around
 
-## Anthropic shares slide as tech stocks tumble
-Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom
+## The gruesome spectacle of adult advent calendars
+This straight-to-landfill scam is reaching new heights
 
-## Yamaha Motor launches E-RIDE BASE in Yokohama, blending e-bikes with gaming
-Yamaha Motor’s E-RIDE BASE in Yokohama offers visitors an interactive experience combining e-bikes and the roleplaying game Zenless Zone Zero
+## Diners hate ‘no-show’ fees. Restaurants say they work
+Operators introducing charges find customers less likely to ditch or cancel bookings last minute
 
-## CERT-In flags unauthorised transactions across banking, financial and government payment platforms
-Attackers manipulated business records and approval relationships to exploit legitimate payment processes, prompting the agency to issue fresh cybersecurity recommendations.
+## Asda could find salvation in the supermarket side hustle
+Venturing into ‘adjacent’ retailers may be a good strategy
 
-## OpenAI strengthens GPT-6.2 Astra safeguards against unauthorised AI reasoning extraction
-The company is combining model-level protections, classifiers and API restrictions to prevent competitors from extracting advanced capabilities without comparable safeguards
+## ‘We’ve got to get things right’: Man Utd turnaround enters the Pochettino era
+New coach takes the helm at a critical time for one of the world’s most famous football clubs
 
-## Oracle says OpenAI contract fully funded, targets over $30 billion free cash flow in FY29
-The infrastructure contract with OpenAI forms part of Oracle’s efforts to support the growing computing requirements associated with advanced AI models
+## Grand Theft Auto VI smashes records with $3.79 billion in day-one retail sales
+Grand Theft Auto VI earned a near-perfect 99 on Metacritic and widespread critical acclaim
 
-## Dutch court bars Chinese SUV in Europe over resemblance to Land Rover Defender
-The Defender is JLR’s most popular model, with global sales of over 100,000 units in 2025
+## Adani Energy Solutions bags 2,500 MW renewable power supply contract from West Bengal discom
+The latest win comes as AESL expands its presence in India’s power transmission segment, having secured a major transmission project in Bihar
 
-## IndusInd Bank terminates former CEO Sumant Kathpalia, seeks recovery of pay since 2020
-The decision follows an inquiry into the bank’s accounting discrepancies involving derivative trades that triggered a $230 million hit to its accounts
+## IndusInd Bank Board terminates ex-chief Kathpalia’s services; invokes malus, claw-back provisions
+The Board, on Nov 20, 2026, decided to apply the malus and claw-back provisions from March 24, 2020, the date of his initial appointment as MD & CEO of the Bank
 
-## Earkart completes USFDA registration, eyes global hearing healthcare market
-The US hearing aids market is estimated to grow from $4.65 billion in 2026 to $9.57 billion by 2035 at an annual growth rate of 8.4%, according to Emergen Research
+## Indian billionaire PV Krishna Reddy raises $720 million in private credit for Megha buyout
+Private-credit lenders back the MEIL buyout via a multi-tranche, cross-asset deal, highlighting India’s growing reliance on non-bank funding for large, complex transactions
 
-## Nifty finally ‘Trumps’ Nasdaq in a dramatic 2026 market reversal
-Same result, but different emotions define the experience of Nifty and Nasdaq investors
+## Experts see vast potential for Keralam medical tourism
+Between 2023 and 2025, more than 18 lakh foreign nationals visited India for medical tourism, demonstrating both the existing size of medical value travellers and the potential to attract many more
+
+## PM Modi: India has shown it can break limits and unlock possibilities
+Addressing IIT Kharagpur students and faculty, the Prime Minister highlighted India's transformation, poverty reduction and the institution's role in driving innovation
+
+## PM launches projects worth around ₹34,000 crore in Bihar's Vaishali
+Major road projects inaugurated include the six-laning of NH-19 (Aurangabad-Chardaha), NH-227F (Chorma-Bairgania), and NH-327 (Umagaon-Saharsa), officials said
+
+## JNPA awards 8-yr contract to Gateway Distriparks for DFC-compliant common rail yard operations
+The contract covers operation, maintenance, and management of Rail Lines T1 and T2 at the facility, developed with an estimated investment of ₹225 crore
 
 ## Air India aims for greater synergy with Air India Express to cut costs
 
@@ -81,29 +90,35 @@ Currency Up 4.5% Over Record Low, FPIs Pump In 1.3L Cr This Mth
 ## Why Indian Railways may scrap RAC ticketing system - explained
 Under the existing RAC arrangement, two passengers share a single berth, even though both are charged the full fare. The system has faced criticism over the years, particularly over concerns about passengers paying the full ticket price despite having to share a berth, as well as the inconvenience t
 
-## HT Morning Brief Nov 21: FBI database hacked for second time in months, KL Rahul scripts test history and more
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+## ‘Stop Ramayana screening, revoke censor certificate’: VHP claims Ranbir Kapoor-starrer tries to glorify Ravana
+VHP general secretary Bajrang Lal Bagra and VHP International President Alok Kumar allege that demon king Ravana was glorified in ‘Ramayana: Rise of a Legend’.
 
-## Goa gets its first Blue Flag beaches as Mandrem, Galgibaga join 22 others in India
-Mandrem and Galgibaga are Goa’s first Blue Flag-certified beaches, joining 22 others in India recognised for meeting international environmental and safety standards.
+## Nigerian man, wife held in Maharashtra for role in Keralam drug money trail
+Nigerian man, wife held in Maharashtra for role in Keralam drug money trail
 
-## Multilingual SARAN platform launched to assist Sabarimala pilgrims
-Multilingual SARAN platform launched to assist Sabarimala pilgrims
+## 26 bird species in Uttarakhand’s Gangotri recorded at higher elevations: Study
+Out of the 55 bird species detected in the study, 26 species were recorded at least once above their published upper elevational limits
 
-## Just Like That| The myth of the global village: Why culture remains in our DNA
-Sonia Gandhi’s memoir, Belonging, offers a compelling account of her struggle to navigate India’s cultural complexities and make a foreign land her home.
+## Pakistan minister Musadik Malik gets approval for Taj Mahal visit, but Nizamuddin Dargah request rejected: Report
+Musadik Malik, who previously made harsh remarks against India over the Indus Waters Treaty, is in Delhi for the SCO Civilisational Dialogue Forum.
 
-## Iron chest found during work at Indore's Lalbagh Palace, two claimants come forward
-The chest was unearthed when labourers levelling the ground for a pathway struck a metal object with a spade last week.
+## 'There are Shami, Sarfaraz too': Congress MP Masood says team selection should be merit-based
+Imran Masood earlier triggered a row by suggesting that pacer Mohammed Siraj was not picked for the first Test against New Zealand because of his religion.
 
-## PM Modi to launch projects worth ₹34,470 crore in Bihar today; inaugurate Nitish Setu
-As PM Modi will land in Patna for the inauguration of Nitish Setu, former Bihar CM Nitish Kumar will be there to welcome him, said a senior JD-U leader.
+## ‘Kya bolti Goa’: CJP's Abhijeet Dipke, Saurav Das announce public meeting in Panjim tomorrow
+Abhijeet Dipke and Saurav Das said they would be present at the meeting and the forum would be open to the youth of Goa to discuss their issues.
 
-## ‘Want to return, but can’t without safety’: Rohingyas in India react to ICJ ruling on Myanmar genocide
-They also called for accountability, reparations and protection, and urged India to treat them as genocide survivors rather than criminals or infiltrators.
+## Two dead, one critical in Sagar after suspected spurious liquor consumption, samples sent for test: MP cops
+Police in Madhya Pradesh’s Sagar district have sent liquor samples for testing after two men died in separate incidents and a third was hospitalised.
 
-## Plea seeks awareness of health risks of marriages between blood relatives; Supreme Court calls for govt reply
-Supreme Court said restricting such marriages is a matter for Parliament, but issued notice on whether legislation or public outreach could promote awareness.
+## Last rites for Yogi Adityanath’s mother performed in Haridwar’s Chandi Ghat; leaders pay tribute
+Earlier, Prime Minister Narendra Modi spoke to Yogi Adityanath and expressed his condolences over her demise
+
+## Why Sam’s Club is selling down jackets for just US$60 in China: ‘hook product’
+As temperatures fall in China, shoppers are flocking to US retailer Sam’s Club to try and get their hands on a men’s down jacket on sale for just 399.9 yuan (US$60), as consumers turn to practical and wallet-friendly products amid an economic slowdown. The long black down coat from US brand Rokka&Ro
+
+## China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales
+Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-
 
 ## AI agents are getting wallets. Is Hong Kong ready for them?
 Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s network just as local regulators place agentic commerce on the policy agenda. Unlik
@@ -122,12 +137,6 @@ Beijing is ramping up its campaign against online rumours that could panic the s
 
 ## As China’s sportswear sales lose steam, overseas brands see even sharper declines
 China’s online sportswear market lost further steam in October, as international brands suffered steeper declines in the country than their domestic peers in a sign of subdued consumer sentiment, according to Deutsche Bank. Many investors said they expected 2027 could be even more challenging for sp
-
-## China-US-Russia talks, economy concerns, Auto Guangzhou
-An unprecedented trilateral meeting between the leaders of China, the United States and Russia produced a pledge “to increase the production and supply of refined petroleum products for the benefit of all nations”. Turning that into a reality is likely to prove a challenge. The pledge should carry w
-
-## China’s battery-powered heavy trucks see electric growth
-On a recent 5,000-kilometre journey by battery-electric heavy truck in China, Ceva Logistics slashed energy costs by 43 per cent compared with using a diesel-powered equivalent. The French company’s economical road trip from Shenzhen in the country’s south to Alashankou in the far northwest, which i
 
 ## EU, U.K. Agree to a Brexit Reset
 But Burnham faces some opposition back home.
@@ -169,7 +178,7 @@ Your guide to the most competitive races – and the ones that could impact the 
 Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?
 
 ## Uzbekistan’s Energy Sector Faces the Perfect Storm
-They way forward requires immense investment. But international investors need legal certainty and protection from political interference.
+The way forward requires immense investment. But international investors need legal certainty and protection from political interference.
 
 ## China’s Downstream Nations Need a Collective Voice
 Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.
@@ -225,53 +234,53 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Three French police officers sentenced over racist assault on Black man
-Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.
+## Sudan’s elderly face hardship and heartbreak in a life of displacement
+Sudan's displaced elderly often have to support grandchildren or fend for themselves.
 
-## Gen Z protests sweep Europe over wars, rising costs and climate
-Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.
+## Israeli attacks on Gaza kill at least four Palestinians
+Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.
 
-## Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang
-US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.
+## Florida residents turn to kayaks and rafts as floods swamp streets
+Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.
 
-## COP31 deal stalls as nations struggle to agree on climate plan
-COP31 deal stalls as nations struggle to agree on climate plan
+## Mexico captures FBI-wanted cartel boss in military raid
+Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.
 
-## Can Africa’s new credit rating agency change how the continent is assessed?
-The new African agency aims to bring greater transparency to credit ratings.
+## Why is GTA VI so expensive to play?
+Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.
 
-## Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper
-Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.
+## Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul
+Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.
 
-## Can Mauricio Pochettino save Man United from Premier League relegation?
-Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.
+## Migrants caravan in Mexico walks towards US border
+Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.
 
-## Iran war live: Saudi-led coalition downs Houthi missiles
-Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz.
+## Russian missiles hit Poland: What happened, and could NATO respond?
+Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
 
-## India needs continuous reforms, not just big policy changes, to sustain growth: Sanjeev Sanyal
-Speaking at the inaugural ETCFO Annual Conclave 2026, Sanjeev Sanyal, Member of the Economic Advisory Council to the Prime Minister, called for simplifying regulatory processes, eliminating redundant compliance requirements and improving legal transparency.
-
-## CFOs must prioritise returns over aggressive capex as cost of capital rises: Finance leaders
-At the inaugural ETCFO Annual Conclave 2026, finance leaders from Jio-bp, NMDC and Biocon discussed how disciplined capital allocation, innovative financing structures and technology-led efficiency can help businesses sustain growth amid rising borrowing costs and global uncertainty.
+## India's growth resilient amid global shocks, but inflation and AI disruption pose new risks: Crisil's Dharmakirti Joshi
+Speaking at the inaugural ETCFO Annual Conclave 2026, Crisil Chief Economist Dharmakirti Joshi projected India's GDP growth at around 7% in FY27 despite geopolitical tensions, rising input costs and climate-related disruptions. He highlighted the implications of AI, capital flows and changing global
 
 ## How JSW Steel, Dr Reddy’s, Mankind Pharma are fine-tuning AI investments
 At the inaugural ETCFO Annual Conclave 2026, finance leaders from JSW Steel, Dr. Reddy's Laboratories, Mankind Pharma, ClearTax and Ripple Treasury discussed how enterprises are balancing AI investments with financial returns, operational efficiency and long-term transformation. The discussion highl
 
-## Will India Inc CFOs invest now?
-For several quarters, companies have prioritised stronger balance sheets, better cash flows and higher utilisation of existing assets over large expansion commitments. That caution may now be giving way to a more constructive outlook. But a recovery in earnings is not, by itself, a mandate to spend.
+## CFO-board partnership must evolve from governance to value creation: Finance leaders
+At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directors Giridhar Sanjeevi and Sugata Sircar, alongside Biocon CFO Kedar Upadhye, highlighted how trust, transparent communication and constructive challenges between CFOs and independent directors can strengthen strategic dec
 
-## India’s Top 100 CFOs gather at the Alila Diwa for three days of closed-door conversations on governance, growth and the human edge.
-Top finance leaders from various industries will convene at the Alila Diwa in Goa for three days. They will engage in discussions about governance, growth strategies, and the evolving role of the CFO. The conclave is structured around a single theme, focusing on redefining the CFO’s role in the cont
+## CFOs must move beyond financial stewardship to become strategic growth enablers: Industry leaders
+At the inaugural ETCFO Annual Conclave 2026, finance leaders from Mazagon Dock Shipbuilders, Indian Railway Finance Corporation and Deutsche Bank, alongside PwC India, discussed how the CFO's role is expanding beyond financial reporting to encompass business strategy, technology transformation, risk
 
-## NFRA recommends Ind AS changes for hyperinflationary currency reporting, proposes April 2027 implementation
-The recommendations cover amendments to Ind AS 21 and consequential changes to other accounting standards. NFRA also backs stronger public consultation, with ICAI agreeing to provide relevant IASB reference material alongside future exposure drafts.
+## India needs continuous reforms, not just big policy changes, to sustain growth: Sanjeev Sanyal
+Speaking at the inaugural ETCFO Annual Conclave 2026, Sanjeev Sanyal, Member of the Economic Advisory Council to the Prime Minister, called for simplifying regulatory processes, eliminating redundant compliance requirements and improving legal transparency.
 
-## PNB Housing Finance targets growth 18-20%, 300 affordable segment branches in two years: CFO Vinay Gupta
-PNB Housing Finance targets annual growth of 18 to 20 percent over the next two to three years. The company plans to expand its affordable branch network from 235 to around 300 branches in this time. Loan assets have grown by 19 percent in the last quarter, and affordable loans are driving significa
+## Legal system reforms key to reducing overregulation, says Sanjeev Sanyal
+An efficient legal system would allow exceptional cases to be dealt with through effective enforcement rather than imposing prescriptive rules on ordinary business transactions, he said at the inaugural ETCFO Annual Conclave 2026.
+
+## CFOs must prioritise returns over aggressive capex as cost of capital rises: Finance leaders
+At the inaugural ETCFO Annual Conclave 2026, finance leaders from Jio-bp, NMDC and Biocon discussed how disciplined capital allocation, innovative financing structures and technology-led efficiency can help businesses sustain growth amid rising borrowing costs and global uncertainty.
 
 ## Sebi plans consultation paper to remove FPI constraints absent in other markets
 SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five 
