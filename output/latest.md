@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## EU raises prospect of ‘no deal’ at COP31
+Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement
+
+## Violence erupts in Sinaloa after Mexico captures alleged drug trafficker
+Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US
+
+## Amazon closes in on $7.5bn deal to buy AI start-up Decart
+Acquisition would help AWS compete with Nvidia in race for computing power
+
+## Alice Huang’s links to the chip underworld
+Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China
+
+## Navy budget pick has family investments in Trump Jr-linked contractor
+Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress
+
+## Traders start to move US copper to China as Trump tariff fears ease
+Acute Chinese shortage and high local premium create lucrative arbitrage
+
+## Strong sales point to happy holiday season for US retailers
+Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys
+
+## Costa revives EU digital tax proposal in bid to reach agreement on budget
+Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels
+
 ## Going public, but only a little
 Big IPOs, small floats
-
-## Milburn’s £5.8bn youth employment plan rests on ‘leap of faith’
-Reforms would have to be three times as effective as previous schemes to hit their goals, analysts warn
-
-## The chip war’s next battleground
-As the US and China’s AI rivalry intensifies, focus is moving to supply chains
-
-## Good growth really is possible in every UK postcode
-Research shows money isn’t all that matters to a good life. Just take a look at the map of UK happiness
-
-## The ‘Emperor of El Salvador’ storms into Haiti
-Salvadoran strongman Nayib Bukele’s deployment of 2,000 troops to the Caribbean nation has drawn adulation from thousands of Haitians
-
-## Oil shipped through Hormuz falls as Iranian strikes increase
-Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says
-
-## Tourist tax leaves Scouts facing £1mn bill for camping trips
-Ministers reject calls for a blanket exemption
-
-## US watchdogs pick a bad time to cut disclosure on executive pay
-The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed
 
 ## Behind Manchester City’s Apollo talks
 Also in today’s newsletter: Nike and Formula 1, Premier League club valuations and more
@@ -33,38 +36,32 @@ Bankers might do well to remember from time to time that they are making decisio
 ## The gruesome spectacle of adult advent calendars
 This straight-to-landfill scam is reaching new heights
 
-## Diners hate ‘no-show’ fees. Restaurants say they work
-Operators introducing charges find customers less likely to ditch or cancel bookings last minute
+## Mahanadi Coalfields IPO: A dividend play
+Growth recovery expected from volumes as thermal power demand increases
 
-## Asda could find salvation in the supermarket side hustle
-Venturing into ‘adjacent’ retailers may be a good strategy
-
-## ‘We’ve got to get things right’: Man Utd turnaround enters the Pochettino era
-New coach takes the helm at a critical time for one of the world’s most famous football clubs
-
-## Grand Theft Auto VI smashes records with $3.79 billion in day-one retail sales
-Grand Theft Auto VI earned a near-perfect 99 on Metacritic and widespread critical acclaim
-
-## Adani Energy Solutions bags 2,500 MW renewable power supply contract from West Bengal discom
-The latest win comes as AESL expands its presence in India’s power transmission segment, having secured a major transmission project in Bihar
-
-## IndusInd Bank Board terminates ex-chief Kathpalia’s services; invokes malus, claw-back provisions
-The Board, on Nov 20, 2026, decided to apply the malus and claw-back provisions from March 24, 2020, the date of his initial appointment as MD & CEO of the Bank
-
-## Indian billionaire PV Krishna Reddy raises $720 million in private credit for Megha buyout
-Private-credit lenders back the MEIL buyout via a multi-tranche, cross-asset deal, highlighting India’s growing reliance on non-bank funding for large, complex transactions
-
-## Experts see vast potential for Keralam medical tourism
-Between 2023 and 2025, more than 18 lakh foreign nationals visited India for medical tourism, demonstrating both the existing size of medical value travellers and the potential to attract many more
-
-## PM Modi: India has shown it can break limits and unlock possibilities
-Addressing IIT Kharagpur students and faculty, the Prime Minister highlighted India's transformation, poverty reduction and the institution's role in driving innovation
+## Warburg Pincus buys stake in Pricol Autotech: What should investors do?
+Promoters’ exit at a lower valuation may have hit the stock, but earnings growth drivers continue to exist
 
 ## PM launches projects worth around ₹34,000 crore in Bihar's Vaishali
-Major road projects inaugurated include the six-laning of NH-19 (Aurangabad-Chardaha), NH-227F (Chorma-Bairgania), and NH-327 (Umagaon-Saharsa), officials said
+Major road projects inaugurated include the six-laning of NH-19 (Aurangabad-Chardaha), NH-227F (Chorma-Bairgania), and NH-327 (Umagaon-Saharsa)
 
-## JNPA awards 8-yr contract to Gateway Distriparks for DFC-compliant common rail yard operations
-The contract covers operation, maintenance, and management of Rail Lines T1 and T2 at the facility, developed with an estimated investment of ₹225 crore
+## Nifty finally ‘Trumps’ Nasdaq in a dramatic 2026 market reversal
+Same result, but different emotions define the experience of Nifty and Nasdaq investors
+
+## Optimist bets on indigenous technology to take on established AC players
+The founder argues that significant innovation is essential to shift the market
+
+## Bandu’s Blockbusters for November 22, 2026
+Guess the stock that will give the best return by next Friday
+
+## The mediclaim menu gets bigger
+A renewed look at health insurance variants that save a penny and expand the net
+
+## Tech Query: ICICI Bank, Gujarat Energy, Kaynes Technology Limited, Cochin Shipyard — What is the outlook? Where are these stocks headed?
+We look at the prospects of ICICI Bank, Gujarat Energy, Kaynes Technology Limited and Cochin Shipyard
+
+## India, Canada push for wider market access as 6th round of trade talks ends
+India and Canada concluded the sixth round of CEPA negotiations in New Delhi after a series of discussions. The negotiations focused on vital areas like trade in goods, services, and investment promotion. Both sides aim for a balanced agreement that benefits farmers, businesses, and MSMEs in both co
 
 ## Air India aims for greater synergy with Air India Express to cut costs
 
@@ -87,32 +84,29 @@ Trusts Chairman Tells Holdco To Preserve Recordings Of Sept 17 NRC And Board Mee
 ## Record November foreign inflows lift rupee, sensex rises 13%
 Currency Up 4.5% Over Record Low, FPIs Pump In 1.3L Cr This Mth
 
-## Why Indian Railways may scrap RAC ticketing system - explained
-Under the existing RAC arrangement, two passengers share a single berth, even though both are charged the full fare. The system has faced criticism over the years, particularly over concerns about passengers paying the full ticket price despite having to share a berth, as well as the inconvenience t
+## India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation
+India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation
 
-## ‘Stop Ramayana screening, revoke censor certificate’: VHP claims Ranbir Kapoor-starrer tries to glorify Ravana
-VHP general secretary Bajrang Lal Bagra and VHP International President Alok Kumar allege that demon king Ravana was glorified in ‘Ramayana: Rise of a Legend’.
+## ‘One wall, two rivals’: Pakistan minister invokes Humayun, Sher Shah in his SCO event speech at Delhi's Purana Quila
+Musadik Malik posted a video of his remarks on his X handle and also wrote in Urdu that this Quila is a "story".
 
-## Nigerian man, wife held in Maharashtra for role in Keralam drug money trail
-Nigerian man, wife held in Maharashtra for role in Keralam drug money trail
+## India, Canada wrap up sixth round of trade talks ahead of Modi's visit next month
+Both sides wrapped up a face-to-face CEPA negotiations on Friday that brought them closer to concluding an agreement, people in the know said.
 
-## 26 bird species in Uttarakhand’s Gangotri recorded at higher elevations: Study
-Out of the 55 bird species detected in the study, 26 species were recorded at least once above their published upper elevational limits
+## ‘India not a rogue state’: Wangchuk slams administration over ‘house arrest’, says police deployment outside home withdrawn after court plea
+Wangchuk questioned the legality of the restrictions imposed on his movement and accused the administration of using police to carry out unjustified actions.
 
-## Pakistan minister Musadik Malik gets approval for Taj Mahal visit, but Nizamuddin Dargah request rejected: Report
-Musadik Malik, who previously made harsh remarks against India over the Indus Waters Treaty, is in Delhi for the SCO Civilisational Dialogue Forum.
+## Jailed MP Amritpal Singh's party says his visit boost ahead of Punjab polls, hopes he gets parole for campaigning
+Amritpal Singh was brought to his village in Amritsar on Saturday from Assam, where he has been lodged in jail since 2023 in a police station attack case.
 
-## 'There are Shami, Sarfaraz too': Congress MP Masood says team selection should be merit-based
-Imran Masood earlier triggered a row by suggesting that pacer Mohammed Siraj was not picked for the first Test against New Zealand because of his religion.
+## Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’
+BJP released its list of national office-bearers and other appointments in the party's OBC Morcha, which also included the name of Chahal.
 
-## ‘Kya bolti Goa’: CJP's Abhijeet Dipke, Saurav Das announce public meeting in Panjim tomorrow
-Abhijeet Dipke and Saurav Das said they would be present at the meeting and the forum would be open to the youth of Goa to discuss their issues.
+## ‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report
+The report said that the episode showed how China could bolster Pakistan during a crisis without entering hostilities directly.
 
-## Two dead, one critical in Sagar after suspected spurious liquor consumption, samples sent for test: MP cops
-Police in Madhya Pradesh’s Sagar district have sent liquor samples for testing after two men died in separate incidents and a third was hospitalised.
-
-## Last rites for Yogi Adityanath’s mother performed in Haridwar’s Chandi Ghat; leaders pay tribute
-Earlier, Prime Minister Narendra Modi spoke to Yogi Adityanath and expressed his condolences over her demise
+## Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for ₹47,000
+The teen allegedly extracted information from the platform and posted an advertisement on the dark web, claiming to possess details of around 4,000 Agniveers.
 
 ## Why Sam’s Club is selling down jackets for just US$60 in China: ‘hook product’
 As temperatures fall in China, shoppers are flocking to US retailer Sam’s Club to try and get their hands on a men’s down jacket on sale for just 399.9 yuan (US$60), as consumers turn to practical and wallet-friendly products amid an economic slowdown. The long black down coat from US brand Rokka&Ro
@@ -234,38 +228,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sudan’s elderly face hardship and heartbreak in a life of displacement
-Sudan's displaced elderly often have to support grandchildren or fend for themselves.
+## Deadly attack in Kyiv as Russia launches barrage against Ukraine
+Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.
 
-## Israeli attacks on Gaza kill at least four Palestinians
-Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.
+## FBI national crime database suffers suspected breach: Reports
+The reported hacking is the latest in ​a string of breaches and outages affecting the US government.
 
-## Florida residents turn to kayaks and rafts as floods swamp streets
-Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.
+## Could Brexit be reversed?
+UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?
 
-## Mexico captures FBI-wanted cartel boss in military raid
-Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.
+## Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons
+US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.
 
-## Why is GTA VI so expensive to play?
-Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.
+## UK police drag man from protest over ‘Pallet Sign Acton’ shirt
+UK police drag man from protest over ‘Pallet Sign Acton’ shirt
 
-## Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul
-Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.
+## Israeli strike hits food aid vehicle in Gaza, killing three
+Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.
 
-## Migrants caravan in Mexico walks towards US border
-Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.
+## Liverpool vs Manchester United: Premier League – teams, prediction, lineups
+One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.
 
-## Russian missiles hit Poland: What happened, and could NATO respond?
-Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.
+## Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League
+Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
 
-## India's growth resilient amid global shocks, but inflation and AI disruption pose new risks: Crisil's Dharmakirti Joshi
-Speaking at the inaugural ETCFO Annual Conclave 2026, Crisil Chief Economist Dharmakirti Joshi projected India's GDP growth at around 7% in FY27 despite geopolitical tensions, rising input costs and climate-related disruptions. He highlighted the implications of AI, capital flows and changing global
+## Poorly designed compliance raises costs without reducing risks: CFOs
+Finance leaders from Hero MotoCorp, Eicher Motors, Coromandel International and DBS Bank India call for technology-led controls, stronger cyber resilience and more informed risk-taking at the ETCFO Annual Conclave 2026.
 
-## How JSW Steel, Dr Reddy’s, Mankind Pharma are fine-tuning AI investments
-At the inaugural ETCFO Annual Conclave 2026, finance leaders from JSW Steel, Dr. Reddy's Laboratories, Mankind Pharma, ClearTax and Ripple Treasury discussed how enterprises are balancing AI investments with financial returns, operational efficiency and long-term transformation. The discussion highl
+## IPO readiness must begin before listing, with governance and investor trust at the core, say newgen firm CFOs
+At the inaugural ETCFO Annual Conclave 2026 finance leaders from Ather Energy, PhysicsWallah and FirstCry said companies must establish robust controls, simplify capital structures and build credible investor narratives well before approaching the capital markets.
+
+## Skill gaps, labour shortages threaten India's growth ambitions, industry leaders warn
+Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skill gaps and competition for global capital as key constraints on India's growth ambitions.
 
 ## CFO-board partnership must evolve from governance to value creation: Finance leaders
 At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directors Giridhar Sanjeevi and Sugata Sircar, alongside Biocon CFO Kedar Upadhye, highlighted how trust, transparent communication and constructive challenges between CFOs and independent directors can strengthen strategic dec
@@ -273,14 +270,11 @@ At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directo
 ## CFOs must move beyond financial stewardship to become strategic growth enablers: Industry leaders
 At the inaugural ETCFO Annual Conclave 2026, finance leaders from Mazagon Dock Shipbuilders, Indian Railway Finance Corporation and Deutsche Bank, alongside PwC India, discussed how the CFO's role is expanding beyond financial reporting to encompass business strategy, technology transformation, risk
 
-## India needs continuous reforms, not just big policy changes, to sustain growth: Sanjeev Sanyal
-Speaking at the inaugural ETCFO Annual Conclave 2026, Sanjeev Sanyal, Member of the Economic Advisory Council to the Prime Minister, called for simplifying regulatory processes, eliminating redundant compliance requirements and improving legal transparency.
+## India's growth resilient amid global shocks, but inflation and AI disruption pose new risks: Crisil's Dharmakirti Joshi
+Speaking at the inaugural ETCFO Annual Conclave 2026, Crisil Chief Economist Dharmakirti Joshi projected India's GDP growth at around 7% in FY27 despite geopolitical tensions, rising input costs and climate-related disruptions. He highlighted the implications of AI, capital flows and changing global
 
-## Legal system reforms key to reducing overregulation, says Sanjeev Sanyal
-An efficient legal system would allow exceptional cases to be dealt with through effective enforcement rather than imposing prescriptive rules on ordinary business transactions, he said at the inaugural ETCFO Annual Conclave 2026.
-
-## CFOs must prioritise returns over aggressive capex as cost of capital rises: Finance leaders
-At the inaugural ETCFO Annual Conclave 2026, finance leaders from Jio-bp, NMDC and Biocon discussed how disciplined capital allocation, innovative financing structures and technology-led efficiency can help businesses sustain growth amid rising borrowing costs and global uncertainty.
+## How JSW Steel, Dr Reddy’s, Mankind Pharma are fine-tuning AI investments
+At the inaugural ETCFO Annual Conclave 2026, finance leaders from JSW Steel, Dr. Reddy's Laboratories, Mankind Pharma, ClearTax and Ripple Treasury discussed how enterprises are balancing AI investments with financial returns, operational efficiency and long-term transformation. The discussion highl
 
 ## Sebi plans consultation paper to remove FPI constraints absent in other markets
 SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five 
