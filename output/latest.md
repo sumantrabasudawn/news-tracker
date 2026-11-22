@@ -1,9 +1,18 @@
 # AION Intelligence
 
-## Sanctioned Russian vessel ablaze in Finnish waters after drone attack
-Finland’s prime minister says ‘war is spilling over into our immediate vicinity’
+## Bessent refuses to rule out Huang’s return to Nvidia
+Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement
 
-## Climate talks fail after stand-off over fossil fuels
+## Spain’s likely rightward shift
+Spanish head to the polls, US markets close for Thanksgiving, London gets a new museum
+
+## Andy Burnham seeks quick tuition fees deal with the EU
+Prime minister set to address MPs on reset deal, after former Tory premier Theresa May declares herself ‘aghast’ at reopening of Brexit debate
+
+## Sanctioned Russian vessel attacked by drones near Finland
+Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged
+
+## COP31 climate talks fail after stand-off over fossil fuels
 Geopolitical divides laid bare in fracture between Arab group and EU-led coalition
 
 ## South Africa takes the low road after the ANC’s humiliation
@@ -15,6 +24,12 @@ The Shenzhen summit shows the high stakes for Beijing as many in Washington call
 ## Former Italian police chief found dead after mafia cover-up claims
 Gianni De Gennaro had faced claims from magistrates that he obstructed investigation into notorious 1990s bombing
 
+## Delta flight delays add to concerns about US air travel systems
+FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month
+
+## FTSE 100 catering giant Compass plans to move main listing to New York
+£43bn group set to announce intention to move as soon as Tuesday
+
 ## Adoption, not innovation, holds Britain back
 Once the world’s most innovative country, the UK now struggles to embrace new technologies
 
@@ -24,16 +39,19 @@ America’s biggest crude oil export hub reports thousands of attempted hacks ea
 ## Will Anthropic’s IPO buck the tech sell-off?
 Market Questions is the FT’s guide to the week ahead
 
-## Nscale slows hiring and curtails spending ahead of planned $35bn IPO
-UK data centre operator pauses hiring for all but critical roles
+## From cotton mills to cityscapes – How the Singhanias are unlocking legacy land
+The 104-year-old JK group company is betting on a ₹965-crore hospitality push and a ₹4,400-crore real estate pipeline built on its old industrial land
 
-## Climate talks on the brink as EU rejects deal that ‘green washes fossil fuels’
-Group of countries refuses to endorse proposed agreement in direct clash with Saudi Arabia
+## FSSAI sanctions prosecution action against companies over unsafe samples
+Companies including Bisleri International, Vasant Masala Pvt Ltd, Tit-Bit Foods, Asha Confectionery and Mimansa Industries Pvt Ltd face action
 
-## The American dream of home ownership recedes as mortgage rates surge
-Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%
+## Power Minister’s to meet on resource adequacy, transmission bottlenecks
+In a bid to ensure that electricity generation capacity remains ahead of projected peak demand, all the states, in consultation with the central electricity authority (CEA), have prepared Rresource Aadequacy Pplans (RAPs)
 
-## GiANT move
+## Letters to the Editor dated November 22, 2026
+
+
+## Editorial. GiANT move
 Monetising AI should not outpace safeguards to contain risks
 
 ## Her-story of Indian cricket
@@ -42,20 +60,11 @@ Two books tracing the progress of Indian women in the willow game
 ## PM Modi directs DRDO to deepen R&D collaboration with private players
 Modi communicated this during a high-level meeting with secretaries, including Defence Secretary RK Singh who holds additional charge of DRDO Chairman, on August 20
 
-## Letters to Editor
-
-
 ## Tata Steel to sell tubes business, Colors stake to APL Apollo for ₹28,000 crore
 Twin deals aim to unlock value, sharpen focus and expand APL Apollo’s footprint
 
-## Kitchenware makers caught between rising costs and price-sensitive consumers
-The cost pressure is particularly relevant for triply cookware, one of the industry’s faster-growing segments
+## Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom
 
-## SEBI starts work on network to train independent directors
-Regulator expects demand for boardroom talent to rise with start-up growth and a likely increase in IPOs over the next decade
-
-## The life and works of a quixotic genius
-D D Kosambi’s numerous achievements as well his wasted potential are captured brilliantly in this thoroughly researched biography
 
 ## Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade?
 India has seen record foreign investor inflows in the month of November. Foreign portfolio investors (FPIs) have remained net buyers on every trading day this month, barring the Muhurat trading session. Their cumulative purchases reached Rs 1,13,719 crore by November 20, according to NSDL, which mar
@@ -78,55 +87,52 @@ India and Canada concluded the sixth round of CEPA negotiations in New Delhi aft
 ## Power & cement fuel October core sector growth of 10.9%
 
 
-## Lower tariff: Scotch companies caught in category flipping
+## Eight killed as speeding minivan rams into roadside tree in Tamil Nadu's Tiruchirappalli
+Preliminary investigation revealed that the driver of the van, identified as Rajesh, lost control of the vehicle due to overspeeding
+
+## ‘CJP here to stay’: Dipke vows to fight for Goa’s land, identity; seeks scrapping of Section 39A
+CJP ruled out entering electoral politics, but said it would set the agenda for the youth of the country.
+
+## BJP accuses Tamil Nadu govt of ‘anti-hindu’ mindset over SC review plea on Karthigai Deepam
+The commissioner of Tamil Nadu's Hindu Religious and Charitable Endowments Department filed the review petition in the Supreme Court on Saturday.
+
+## Congress factional rift deepens in Keralam, dissenting leaders take grievances to Kharge in Delhi
+A batch of leaders belonging to a prominent faction, including a Lok Sabha MP, met Kharge and relayed complaints about lack of coordination.
+
+## Samajwadi Party, Congress form 4-member panels each for seat-sharing talks in the run-up to UP polls
+The two parties will hold 2-day talks in Delhi on November 23 and 24 in the first phase, examining all 403 seats.
+
+## PM Modi, Nepal’s Balen Shah to hold talks today, inaugurate Ayodhya-Janakpur rail link, other key projects
+Balen Shah was received on his arrival in Delhi by union minister Jitin Prasada, and his first official engagement was a meeting with EAM Jaishankar.
+
+## CJI Surya Kant says citizens can criticise constitutional bodies' decisions, cautions against targeting institutions
+CJI said that people often fail to distinguish between a decision and the institution behind it.
+
+## ‘Haven’t invited me to discuss Indus waters’: Pak minister Musadik Malik evades questions on IWT, ‘cut off hands’ remark
+Pakistan minister Musadik Masood Malik also dodged questions about his earlier controversial “cut off hands” remark, avoiding a direct response to the matter.
+
+## Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup
 
 
-## Some reluctant to credit BJP for lifting 50 crore people out of poverty: PM Modi in Gujarat
-According to a World Bank report, India's extreme poverty rate dropped sharply to 2.6 per cent in 2023 from 27.1 per cent in 2011.
-
-## Pilots' body warns of aviation safety risks amid SpiceJet crisis; flags delayed salaries, unpaid due
-In a letter to civil aviation minister Kinjarapu Ram Mohan Naidu, the pilots' body said that the crisis is not limited to being a corporate financial matter.
-
-## Bengal BJP MLA Rekha Patra, face of Sandeshkali stir, hospitalised with food poisoning
-A resident of Sandeshkhali with no prior experience in politics, Patra was fielded by the BJP in 2024 from the Basirhat Lok Sabha constituency
-
-## 'India's diversity is amazing': Putin praises Indian civilisation, linguistic diversity, recalls conversation with PM Modi
-Putin said he had recently spoken with PM Modi about how many Indians spoke the country's main language and was amazed by the response.
-
-## David Beckham hails MP tribal teen who stopped her marriage
-David Beckham hails MP tribal teen who stopped her marriage
-
-## YS Sharmila arrives at Bengaluru airport to visit family palace ahead of daughter's wedding, cops stop her
-Sharmila arrived at Bengaluru airport in the evening along with her mother, YS Vijayamma, her son, Raja Reddy, and daughter-in-law, Priya Atluri
-
-## Manipur adulterated liquor deaths rise to 18; 1,130 people screened, say officials
-In a statement, officials confirmed that 17 of the deceased were from Chandel district and one was from Kakching district
-
-## Sonipat wedding cancelled after Delhi cop’s ₹13 lakh car demand; bride’s family seeks refund of expenses
-The bride’s family said it had already arranged the Aura but could not meet the revised demand at short notice.
-
-## Trump’s calls to Kim go unanswered, letter returned unopened: Report
+## Quote Hanger: From Mikel Arteta Exclusive to U19 hero Ulva’s last ball 4 & Gukesh’s Rook memory
 
 
-## China This Week | Trump, Xi and Putin’s, peace declaration, Japan’s snub, and the Shenzhen story
+## APL Apollo Tubes to acquire two Tata Steel businesses for Rs 28,000 crore
 
 
-## From the Opinions Editor: COP 31 and climate diplomacy’s growing distance from lived realities
+## Surrounded by literary classics, Gukesh & Sindarov to rewrite chess history
 
 
-## Cops to quiz Kerala man who facilitated Siddaramaiah sting video recording
+## Vikas Khanna’s New York home offers a stunning view of three iconic landmarks: ‘A rare apartment’
 
 
-## High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her
+## From recruiting Russian girls to chasing Putin: Epstein’s disturbing Russia links
 
 
-## Balendra Shah visits India: What is on the table, from security to AI to cricket
+## No easy draws vs no visible gaps: Breaking down the Gukesh–Sindarov stylistic divide
 
 
-## Why you should avoid lying down for 2–3 hours after eating
-
-
-## Bengal BJP MLA Rekha Patra hospitalised, food poisoning suspected
+## In Goa, CJP’s Dipke slams CM: ‘You are the one selling state to friends from outside’
 
 
 ## What tools does New World have to slash debts after its HK$24.9 billion rights issue?
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Dozens drown as boat capsizes in Nigeria en route to funeral
-At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.
+## Fire breaks out at popular tourist hotspot in Zanzibar
+A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.
 
-## Drone attacks kill four near Sudan’s capital, damage UN building
-The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.
+## Liverpool 4-0 Manchester United: Five key takeaways for Pochettino
+United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.
 
-## The Drugs Don’t Work
-A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.
+## Why has the COP31 climate summit failed to reach agreement?
+Fossil fuels are at the centre of deep division.
 
-## Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine
-A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.
+## Cockroaches, dissent and a paradigm shift in India
+The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.
 
-## Why Bangladesh descended into violence ahead of Hasina’s planned return
-Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.
+## On China, is Trump bucking the US national security establishment?
+On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.
 
-## How El Chapo Isidro, alleged Mexican cartel leader, was captured
-Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.
+## Aber Kawas becomes first Palestinian in New York state Senate history
+Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.
 
-## Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze
-Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze
+## ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport
+Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.
 
-## Iran unveils dual-missile launcher, new ‘missile city’: What to know
-Military officials tour underground facility in show of military capabilities despite US attacks.
+## Liverpool thrash 10-man Man United in nightmare start for Pochettino
+Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
