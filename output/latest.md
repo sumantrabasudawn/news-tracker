@@ -1,70 +1,70 @@
 # AION Intelligence
 
-## How measles spread across the world
-Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries
+## Sanctioned Russian vessel ablaze in Finnish waters after drone attack
+Finland’s prime minister says ‘war is spilling over into our immediate vicinity’
 
-## A rocky road to Irish unity
-Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland
+## Climate talks fail after stand-off over fossil fuels
+Geopolitical divides laid bare in fracture between Arab group and EU-led coalition
 
-## Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors
-Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid
+## South Africa takes the low road after the ANC’s humiliation
+Former liberation party is ignoring voters and jeopardising the national coalition
 
-## Le Pen’s shadow looms over Burnham’s EU dreams
-Prime minister’s attempt to confine next stage of EU debate to ‘informal brainstorming’ may turn out to be in vain.
+## Xi needs Trump more than ever
+The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures
 
-## Getting the UK’s Neets into work is worth the cost
-Calculating the direct benefit to the exchequer is not the only measure that matters when evaluating fixes to youth unemployment
+## Former Italian police chief found dead after mafia cover-up claims
+Gianni De Gennaro had faced claims from magistrates that he obstructed investigation into notorious 1990s bombing
 
-## Cheap Chinese ecommerce parcels flood the UK
-Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed
+## Adoption, not innovation, holds Britain back
+Once the world’s most innovative country, the UK now struggles to embrace new technologies
 
-## Khartoum goes on the offensive in Sudan war
-Wave of defections from paramilitary rivals aids government advance
+## US ports face cyber attack onslaught as hackers target vital trade routes
+America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches
 
-## Tech suppliers raise AI server prices up to 45% months after deals are signed
-Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms
+## Will Anthropic’s IPO buck the tech sell-off?
+Market Questions is the FT’s guide to the week ahead
 
-## Private equity backers flag fresh concerns about sell-to-yourself deals
-Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles
+## Nscale slows hiring and curtails spending ahead of planned $35bn IPO
+UK data centre operator pauses hiring for all but critical roles
 
-## Heathrow’s biggest investor confident airport will build a third runway
-Private capital firm Ardian highlights benefits of expanding the hub to the UK economy
+## Climate talks on the brink as EU rejects deal that ‘green washes fossil fuels’
+Group of countries refuses to endorse proposed agreement in direct clash with Saudi Arabia
 
-## Amazon’s AI resistance: workers ready for battle over data centres
-Tech company’s plans for rapid expansion face opposition from the public and its own employees
+## The American dream of home ownership recedes as mortgage rates surge
+Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%
 
-## Biotech pioneer calls for UK capital gains tax cut to kick-start listings
-British entrepreneur behind oncology group seeking London listing says government needs to offer ‘bold incentives’ to investors
+## GiANT move
+Monetising AI should not outpace safeguards to contain risks
 
-## India’s $126bn insurance sector slams proposed commission cap
-Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment
+## Her-story of Indian cricket
+Two books tracing the progress of Indian women in the willow game
 
-## COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’
-Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement
+## PM Modi directs DRDO to deepen R&D collaboration with private players
+Modi communicated this during a high-level meeting with secretaries, including Defence Secretary RK Singh who holds additional charge of DRDO Chairman, on August 20
 
-## Maruti Suzuki hikes select model prices amid cost pressures
-The latest price hike follows three rounds of price increases in the first half of financial year 2027, totalling a little over 1 per cent.
+## Letters to Editor
 
-## Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays
-India is one of Airbnb’s fastest-growing origin markets globally, with domestic travel emerging as a major growth driver, India Country Manager Amanpreet Bajaj says
 
-## EV brand E-Went eyes mass market, to test sodium-ion batteries from December
-E-Went plans to deepen presence in states where it currently operates, including West Bengal, Jharkhand, Bihar, Chhattisgarh, Odisha, Assam, Telangana and Andhra Pradesh, CEO says
+## Tata Steel to sell tubes business, Colors stake to APL Apollo for ₹28,000 crore
+Twin deals aim to unlock value, sharpen focus and expand APL Apollo’s footprint
 
-## Chalet Hotels plans ₹3,500 cr capex in 3 years: CEO
-Company plans to add nearly 200 rooms at its upcoming Taj Delhi airport property in Q1 FY28, against an earlier target of 70 rooms.
+## Kitchenware makers caught between rising costs and price-sensitive consumers
+The cost pressure is particularly relevant for triply cookware, one of the industry’s faster-growing segments
 
-## Mahindra Last Mile Mobility eyes IPO in 18 months; plans expansion into new products: Chairman
-MLMML looking at opportunities across electric three and four-wheelers in both passenger and cargo segments, Chairman Rajesh Jejurikar says
+## SEBI starts work on network to train independent directors
+Regulator expects demand for boardroom talent to rise with start-up growth and a likely increase in IPOs over the next decade
 
-## Reliance Brands FY26 revenue up 3.8% to ₹3,390.9 cr; loss narrows to ₹137 cr
-Reliance Brands operates 1,085 Points of Sale across India, including proprietary multi-brand concepts such as The Whitecrow, The Books & Café, and Tank, alongside a portfolio of over 90 partner brands
+## The life and works of a quixotic genius
+D D Kosambi’s numerous achievements as well his wasted potential are captured brilliantly in this thoroughly researched biography
 
-## India's oil, gas import bill jumps 60% in Oct as Brent nearly doubles; cooking-gas usage falls
-Bill surges from $10 billion in October 2025 to $16 billion in October 2026
+## Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade?
+India has seen record foreign investor inflows in the month of November. Foreign portfolio investors (FPIs) have remained net buyers on every trading day this month, barring the Muhurat trading session. Their cumulative purchases reached Rs 1,13,719 crore by November 20, according to NSDL, which mar
 
-## Standing Committee of Officers to soon consider measures for GST relief to genuine businesses
-A 23-member officers’ panel is examining five proposed changes to ensure bona fide taxpayers are not penalised for tax defaults by suppliers further up the supply chain.
+## Rs 19.26 crore income declared, but Rs 12.21 crore seized in raid; ITAT grants relief
+In 2018, the Income Tax Department conducted searches at a man’s residence and on his locker. During the operation, officials reportedly recovered Rs 3.9 crore in cash from the locker and another Rs 20 lakh from his house. The locker also contained jewellery valued at Rs 8.11 crore, including 751.52
+
+## Nvidia chip case: How Chinese man in Megaspeed built network serving China with Alice Huang
+
 
 ## Gold falls 4.49%, silver 6.6% in a single day; wedding shoppers get buying chance
 Gold and silver prices crash: On the Multi Commodity Exchange (MCX), gold futures dropped as much as 4.49%, or Rs 5,733, to Rs 1,21,719 per 10 grams from the previous close of Rs 1,27,452 per 10 grams. Silver futures faced even heavier selling, declining 6.6%, or Rs 10,416, to Rs 1,47,066 per kg.
@@ -81,38 +81,53 @@ India and Canada concluded the sixth round of CEPA negotiations in New Delhi aft
 ## Lower tariff: Scotch companies caught in category flipping
 
 
-## Anthropic shares plunge 13% a day after debut, retail investors face losses
+## Some reluctant to credit BJP for lifting 50 crore people out of poverty: PM Modi in Gujarat
+According to a World Bank report, India's extreme poverty rate dropped sharply to 2.6 per cent in 2023 from 27.1 per cent in 2011.
+
+## Pilots' body warns of aviation safety risks amid SpiceJet crisis; flags delayed salaries, unpaid due
+In a letter to civil aviation minister Kinjarapu Ram Mohan Naidu, the pilots' body said that the crisis is not limited to being a corporate financial matter.
+
+## Bengal BJP MLA Rekha Patra, face of Sandeshkali stir, hospitalised with food poisoning
+A resident of Sandeshkhali with no prior experience in politics, Patra was fielded by the BJP in 2024 from the Basirhat Lok Sabha constituency
+
+## 'India's diversity is amazing': Putin praises Indian civilisation, linguistic diversity, recalls conversation with PM Modi
+Putin said he had recently spoken with PM Modi about how many Indians spoke the country's main language and was amazed by the response.
+
+## David Beckham hails MP tribal teen who stopped her marriage
+David Beckham hails MP tribal teen who stopped her marriage
+
+## YS Sharmila arrives at Bengaluru airport to visit family palace ahead of daughter's wedding, cops stop her
+Sharmila arrived at Bengaluru airport in the evening along with her mother, YS Vijayamma, her son, Raja Reddy, and daughter-in-law, Priya Atluri
+
+## Manipur adulterated liquor deaths rise to 18; 1,130 people screened, say officials
+In a statement, officials confirmed that 17 of the deceased were from Chandel district and one was from Kakching district
+
+## Sonipat wedding cancelled after Delhi cop’s ₹13 lakh car demand; bride’s family seeks refund of expenses
+The bride’s family said it had already arranged the Aura but could not meet the revised demand at short notice.
+
+## Trump’s calls to Kim go unanswered, letter returned unopened: Report
 
 
-## Systematic withdrawal: EPFO seeks income tax tweaks
+## China This Week | Trump, Xi and Putin’s, peace declaration, Japan’s snub, and the Shenzhen story
 
 
-## Noel asks for recordings of Tata Sons meet again
-Trusts Chairman Tells Holdco To Preserve Recordings Of Sept 17 NRC And Board Meet
+## From the Opinions Editor: COP 31 and climate diplomacy’s growing distance from lived realities
 
-## Over 100 children hospitalised after eating 'chowmein' at village fair in Madhya Pradesh
-The collector visited the hospital to enquire about the patients' condition and directed doctors to ensure proper medical care.
 
-## Tamil Nadu draws ₹1.14 lakh crore in investments under TVK, says official; BJP questions Andhra diversion
-The development came days before the chief minister C Joseph Vijay-led government is scheduled to hold its second investors’ conclave in Chennai on November 25.
+## Cops to quiz Kerala man who facilitated Siddaramaiah sting video recording
 
-## PANI project to connect Andaman's eight islands through undersea cable network
-PANI project to connect Andaman's eight islands through undersea cable network
 
-## BJP Rajya Sabha MP Ramrao Wadkute dies at 72
-Ramrao Wadkute had previously served as a member of the state Legislative Council and president of the Maharashtra Goat and Sheep Development Corporation.
+## High drama at Bengaluru airport as Sharmila arrives to visit ‘family bungalow’, police stop her
 
-## 2 girls abducted, raped in Uttar Pradesh's Bhadohi rescued
-The statements of the two rescued girls have been recorded before a court
 
-## 'Learnt to stand by someone in time of need': Akhilesh on father Mulayam Singh Yadav's birth anniversary
-Akhilesh said his father taught him to stand by people during difficult times and extend help to those who approach them seeking assistance.
+## Balendra Shah visits India: What is on the table, from security to AI to cricket
 
-## NIA court issues production warrant for man held for arson near Ernakulam synagogue
-Court issues production warrant after NIA seeks custody of Kochi arson case accused
 
-## $2 billion economic package, meeting with Modi on agenda as Nepal PM Balen Shah visits India today
-Balen Shah, who took charge of Nepal's top office in March, will visit India for a little over 24 hours, arriving on November 22 and departing the next day.
+## Why you should avoid lying down for 2–3 hours after eating
+
+
+## Bengal BJP MLA Rekha Patra hospitalised, food poisoning suspected
+
 
 ## What tools does New World have to slash debts after its HK$24.9 billion rights issue?
 New World Development is turning to property sales, mainland real estate investment trusts and strategic investors for the next phase of its debt-reduction plan, as the embattled developer seeks to cut up to HK$50 billion (US$6.4 billion) in borrowings by the end of 2031 following a proposed HK$24.9
@@ -234,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title
-Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.
+## Dozens drown as boat capsizes in Nigeria en route to funeral
+At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.
 
-## What Sandpapergate reveals about Australian cricket
-A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.
+## Drone attacks kill four near Sudan’s capital, damage UN building
+The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.
 
-## Kenya’s internet metering bill raises privacy and affordability concerns
-Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.
+## The Drugs Don’t Work
+A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.
 
-## Displaced Darfur families face volatile winter as Sudan aid cuts bite
-Sudan's displacement crisis could worsen with winter approaching.
+## Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine
+A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.
 
-## ICE agents detain two people at Seattle airport
-Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.
+## Why Bangladesh descended into violence ahead of Hasina’s planned return
+Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.
 
-## Fossil fuel impasse pushes COP31 climate talks into second day of overtime
-COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.
+## How El Chapo Isidro, alleged Mexican cartel leader, was captured
+Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.
 
-## First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest
-First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest
+## Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze
+Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze
 
-## Eleven killed in burst of violence during Mexican cartel leader’s capture
-Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.
+## Iran unveils dual-missile launcher, new ‘missile city’: What to know
+Military officials tour underground facility in show of military capabilities despite US attacks.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
