@@ -1,61 +1,73 @@
 # AION Intelligence
 
+## How measles spread across the world
+Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries
+
+## A rocky road to Irish unity
+Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland
+
+## Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors
+Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid
+
+## Le Pen’s shadow looms over Burnham’s EU dreams
+Prime minister’s attempt to confine next stage of EU debate to ‘informal brainstorming’ may turn out to be in vain.
+
+## Getting the UK’s Neets into work is worth the cost
+Calculating the direct benefit to the exchequer is not the only measure that matters when evaluating fixes to youth unemployment
+
+## Cheap Chinese ecommerce parcels flood the UK
+Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed
+
+## Khartoum goes on the offensive in Sudan war
+Wave of defections from paramilitary rivals aids government advance
+
+## Tech suppliers raise AI server prices up to 45% months after deals are signed
+Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms
+
+## Private equity backers flag fresh concerns about sell-to-yourself deals
+Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles
+
+## Heathrow’s biggest investor confident airport will build a third runway
+Private capital firm Ardian highlights benefits of expanding the hub to the UK economy
+
+## Amazon’s AI resistance: workers ready for battle over data centres
+Tech company’s plans for rapid expansion face opposition from the public and its own employees
+
+## Biotech pioneer calls for UK capital gains tax cut to kick-start listings
+British entrepreneur behind oncology group seeking London listing says government needs to offer ‘bold incentives’ to investors
+
+## India’s $126bn insurance sector slams proposed commission cap
+Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment
+
 ## COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’
 Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement
 
-## Violence erupts in Sinaloa after Mexico captures alleged drug trafficker
-Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US
+## Maruti Suzuki hikes select model prices amid cost pressures
+The latest price hike follows three rounds of price increases in the first half of financial year 2027, totalling a little over 1 per cent.
 
-## Dream of gas-powered vehicles falters in China’s hydrogen capital
-High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan
+## Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays
+India is one of Airbnb’s fastest-growing origin markets globally, with domestic travel emerging as a major growth driver, India Country Manager Amanpreet Bajaj says
 
-## Amazon closes in on $7.5bn deal to buy AI start-up Decart
-Acquisition would help AWS compete with Nvidia in race for computing power
+## EV brand E-Went eyes mass market, to test sodium-ion batteries from December
+E-Went plans to deepen presence in states where it currently operates, including West Bengal, Jharkhand, Bihar, Chhattisgarh, Odisha, Assam, Telangana and Andhra Pradesh, CEO says
 
-## Alice Huang’s links to the chip underworld
-Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China
+## Chalet Hotels plans ₹3,500 cr capex in 3 years: CEO
+Company plans to add nearly 200 rooms at its upcoming Taj Delhi airport property in Q1 FY28, against an earlier target of 70 rooms.
 
-## Navy budget pick has family investments in Trump Jr-linked contractor
-Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress
+## Mahindra Last Mile Mobility eyes IPO in 18 months; plans expansion into new products: Chairman
+MLMML looking at opportunities across electric three and four-wheelers in both passenger and cargo segments, Chairman Rajesh Jejurikar says
 
-## Traders start to move US copper to China as Trump tariff fears ease
-Acute Chinese shortage and high local premium create lucrative arbitrage
+## Reliance Brands FY26 revenue up 3.8% to ₹3,390.9 cr; loss narrows to ₹137 cr
+Reliance Brands operates 1,085 Points of Sale across India, including proprietary multi-brand concepts such as The Whitecrow, The Books & Café, and Tank, alongside a portfolio of over 90 partner brands
 
-## Strong sales point to happy holiday season for US retailers
-Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys
+## India's oil, gas import bill jumps 60% in Oct as Brent nearly doubles; cooking-gas usage falls
+Bill surges from $10 billion in October 2025 to $16 billion in October 2026
 
-## Going public, but only a little
-Big IPOs, small floats
+## Standing Committee of Officers to soon consider measures for GST relief to genuine businesses
+A 23-member officers’ panel is examining five proposed changes to ensure bona fide taxpayers are not penalised for tax defaults by suppliers further up the supply chain.
 
-## Behind Manchester City’s Apollo talks
-Also in today’s newsletter: Nike and Formula 1, Premier League club valuations and more
-
-## The dead hand of history weighs on Deutsche Bank
-Bankers might do well to remember from time to time that they are making decisions that will stick around
-
-## Mahanadi Coalfields IPO: A dividend play
-Growth recovery expected from volumes as thermal power demand increases
-
-## Warburg Pincus buys stake in Pricol Autotech: What should investors do?
-Promoters’ exit at a lower valuation may have hit the stock, but earnings growth drivers continue to exist
-
-## PM launches projects worth around ₹34,000 crore in Bihar's Vaishali
-Major road projects inaugurated include the six-laning of NH-19 (Aurangabad-Chardaha), NH-227F (Chorma-Bairgania), and NH-327 (Umagaon-Saharsa)
-
-## Nifty finally ‘Trumps’ Nasdaq in a dramatic 2026 market reversal
-Same result, but different emotions define the experience of Nifty and Nasdaq investors
-
-## Optimist bets on indigenous technology to take on established AC players
-The founder argues that significant innovation is essential to shift the market
-
-## Bandu’s Blockbusters for November 22, 2026
-Guess the stock that will give the best return by next Friday
-
-## The mediclaim menu gets bigger
-A renewed look at health insurance variants that save a penny and expand the net
-
-## Tech Query: ICICI Bank, Gujarat Energy, Kaynes Technology Limited, Cochin Shipyard — What is the outlook? Where are these stocks headed?
-We look at the prospects of ICICI Bank, Gujarat Energy, Kaynes Technology Limited and Cochin Shipyard
+## Gold falls 4.49%, silver 6.6% in a single day; wedding shoppers get buying chance
+Gold and silver prices crash: On the Multi Commodity Exchange (MCX), gold futures dropped as much as 4.49%, or Rs 5,733, to Rs 1,21,719 per 10 grams from the previous close of Rs 1,27,452 per 10 grams. Silver futures faced even heavier selling, declining 6.6%, or Rs 10,416, to Rs 1,47,066 per kg.
 
 ## India, Canada push for wider market access as 6th round of trade talks ends
 India and Canada concluded the sixth round of CEPA negotiations in New Delhi after a series of discussions. The negotiations focused on vital areas like trade in goods, services, and investment promotion. Both sides aim for a balanced agreement that benefits farmers, businesses, and MSMEs in both co
@@ -78,56 +90,35 @@ India and Canada concluded the sixth round of CEPA negotiations in New Delhi aft
 ## Noel asks for recordings of Tata Sons meet again
 Trusts Chairman Tells Holdco To Preserve Recordings Of Sept 17 NRC And Board Meet
 
-## Record November foreign inflows lift rupee, sensex rises 13%
-Currency Up 4.5% Over Record Low, FPIs Pump In 1.3L Cr This Mth
+## Over 100 children hospitalised after eating 'chowmein' at village fair in Madhya Pradesh
+The collector visited the hospital to enquire about the patients' condition and directed doctors to ensure proper medical care.
 
-## India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation
-India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation
+## Tamil Nadu draws ₹1.14 lakh crore in investments under TVK, says official; BJP questions Andhra diversion
+The development came days before the chief minister C Joseph Vijay-led government is scheduled to hold its second investors’ conclave in Chennai on November 25.
 
-## ‘One wall, two rivals’: Pakistan minister invokes Humayun, Sher Shah in his SCO event speech at Delhi's Purana Quila
-Musadik Malik posted a video of his remarks on his X handle and also wrote in Urdu that this Quila is a "story".
+## PANI project to connect Andaman's eight islands through undersea cable network
+PANI project to connect Andaman's eight islands through undersea cable network
 
-## India, Canada wrap up sixth round of trade talks ahead of Modi's visit next month
-Both sides wrapped up a face-to-face CEPA negotiations on Friday that brought them closer to concluding an agreement, people in the know said.
+## BJP Rajya Sabha MP Ramrao Wadkute dies at 72
+Ramrao Wadkute had previously served as a member of the state Legislative Council and president of the Maharashtra Goat and Sheep Development Corporation.
 
-## ‘India not a rogue state’: Wangchuk slams administration over ‘house arrest’, says police deployment outside home withdrawn after court plea
-Wangchuk questioned the legality of the restrictions imposed on his movement and accused the administration of using police to carry out unjustified actions.
+## 2 girls abducted, raped in Uttar Pradesh's Bhadohi rescued
+The statements of the two rescued girls have been recorded before a court
 
-## Jailed MP Amritpal Singh's party says his visit boost ahead of Punjab polls, hopes he gets parole for campaigning
-Amritpal Singh was brought to his village in Amritsar on Saturday from Assam, where he has been lodged in jail since 2023 in a police station attack case.
+## 'Learnt to stand by someone in time of need': Akhilesh on father Mulayam Singh Yadav's birth anniversary
+Akhilesh said his father taught him to stand by people during difficult times and extend help to those who approach them seeking assistance.
 
-## Yuzvendra Chahal joins BJP as OBC Morcha member, thanks PM Modi, other leaders for a ‘place in the family’
-BJP released its list of national office-bearers and other appointments in the party's OBC Morcha, which also included the name of Chahal.
+## NIA court issues production warrant for man held for arson near Ernakulam synagogue
+Court issues production warrant after NIA seeks custody of Kochi arson case accused
 
-## ‘China working to suppress India’s rise, backed Pakistan after Operation Sindoor’: US panel’s report
-The report said that the episode showed how China could bolster Pakistan during a crisis without entering hostilities directly.
+## $2 billion economic package, meeting with Modi on agenda as Nepal PM Balen Shah visits India today
+Balen Shah, who took charge of Nepal's top office in March, will visit India for a little over 24 hours, arriving on November 22 and departing the next day.
 
-## Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for ₹47,000
-The teen allegedly extracted information from the platform and posted an advertisement on the dark web, claiming to possess details of around 4,000 Agniveers.
+## What tools does New World have to slash debts after its HK$24.9 billion rights issue?
+New World Development is turning to property sales, mainland real estate investment trusts and strategic investors for the next phase of its debt-reduction plan, as the embattled developer seeks to cut up to HK$50 billion (US$6.4 billion) in borrowings by the end of 2031 following a proposed HK$24.9
 
-## Pant becomes first keeper to hit hundred in all SENA countries, IND break batting records in NZ
-
-
-## Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur court
-
-
-## Gujarat farmers protest land acquisition for highway expansion
-
-
-## Rahul Gandhi moves away from allies, family in balancing act on Israel
-
-
-## People heeded my call to not buy gold, saved money after prices crashed, says Modi
-
-
-## Guard of honour goof-up: AIMIM chief Asaduddin Owaisi, not SC judge, gets the ceremonial salute in UP
-
-
-## US-Iran War Live Updates: Bahrain reports strikes on civilian facility, Tehran says it hit US radars
-
-
-## India, China commanders meet again to try and calm Arunachal frontier
-
+## Recovery at last? Analysts divided on China’s home market outlook
+How long the property slump in mainland China will continue remains an ominous question for the world’s second-largest economy, where local governments’ fiscal revenue largely hinges on land sales. While economists agree that falling home prices – the “enemy within” for the economy – continue to wre
 
 ## 2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn
 Two of China’s best-known property tycoons have made a comeback in recent months, turning their attention to renovating existing buildings and reviving established commercial properties. China Vanke founder Wang Shi, 75, and Dalian Wanda Group chairman Wang Jianlin, 72, have returned to the public e
@@ -147,11 +138,8 @@ Starbucks China has faced intense competition in the coffee market in recent yea
 ## Baidu fined US$75,000 as China wraps up Joyy antitrust case
 China’s top market regulator has fined Baidu’s Hong Kong unit 500,000 yuan (US$75,000) for proceeding with its acquisition of part of live-streaming platform Joyy’s business before receiving antitrust clearance. The State Administration for Market Regulation (SAMR) said on Friday that Baidu (Hong Ko
 
-## Ping An Digital Bank gets fresh US$64 million capital injection from Lufax
-Ping An Digital Bank has received an additional capital injection of HK$500 million (US$63.7 million) from Lufax Holding, strengthening its capital base as the bank looks to ramp up its expansion. The latest funding injection reinforces Ping An Digital Bank’s position as one of Ping An Group’s integ
-
-## Beijing ramps up crackdown on rumours that could roil stock market
-Beijing is ramping up its campaign against online rumours that could panic the stock market, with authorities releasing a dossier of case studies showing examples of internet users punished for spreading false information. The Chinese Securities Regulatory Commission (CSRC) on Friday disclosed a num
+## Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
+The founding father of the conservative movement’s pick was very different from Trump’s.
 
 ## EU, U.K. Agree to a Brexit Reset
 But Burnham faces some opposition back home.
@@ -173,9 +161,6 @@ Listed in order from least to most zany.
 
 ## Why BAAJA Matters
 Ones and Tooze on permitting reform and what that means for U.S. energy production.
-
-## What the Yalta Comparison Really Reveals About Shenzhen
-Three diminished leaders produced symbolism without substance, but their ideological alignment is historic.
 
 ## A Moment of New Hope for the Rohingya Community
 Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.
@@ -249,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Iran targets US military in Bahrain; Houthi strikes continue
-Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.
+## Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title
+Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.
 
-## Lebanese president demands Israel withdrawal, decries Iran’s interference
-Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.
+## What Sandpapergate reveals about Australian cricket
+A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.
 
-## Iran faces a ‘silent economic war’, says Iranian president
-Iran faces a ‘silent economic war’, says Iranian president
+## Kenya’s internet metering bill raises privacy and affordability concerns
+Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.
 
-## Bahrain says Iranian attack hits industrial facility
-Bahrain says Iranian attack hits industrial facility
+## Displaced Darfur families face volatile winter as Sudan aid cuts bite
+Sudan's displacement crisis could worsen with winter approaching.
 
-## Bahrain says Iranian attack causes fire at industrial facility
-Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
+## ICE agents detain two people at Seattle airport
+Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.
 
-## Impunity fuels surge in settler violence across occupied West Bank
-Impunity fuels surge in settler violence across occupied West Bank
+## Fossil fuel impasse pushes COP31 climate talks into second day of overtime
+COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.
 
-## Indian man jailed over plot to kill Sikh separatist in US
-An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.
+## First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest
+First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest
 
-## Brazil’s Jair Bolsonaro in intensive care with bowel obstruction
-The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.
+## Eleven killed in burst of violence during Mexican cartel leader’s capture
+Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
