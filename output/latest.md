@@ -1,10 +1,13 @@
 # AION Intelligence
 
-## EU raises prospect of ‘no deal’ at COP31
-Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement
+## COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’
+Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement
 
 ## Violence erupts in Sinaloa after Mexico captures alleged drug trafficker
 Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US
+
+## Dream of gas-powered vehicles falters in China’s hydrogen capital
+High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan
 
 ## Amazon closes in on $7.5bn deal to buy AI start-up Decart
 Acquisition would help AWS compete with Nvidia in race for computing power
@@ -21,9 +24,6 @@ Acute Chinese shortage and high local premium create lucrative arbitrage
 ## Strong sales point to happy holiday season for US retailers
 Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys
 
-## Costa revives EU digital tax proposal in bid to reach agreement on budget
-Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels
-
 ## Going public, but only a little
 Big IPOs, small floats
 
@@ -32,9 +32,6 @@ Also in today’s newsletter: Nike and Formula 1, Premier League club valuations
 
 ## The dead hand of history weighs on Deutsche Bank
 Bankers might do well to remember from time to time that they are making decisions that will stick around
-
-## The gruesome spectacle of adult advent calendars
-This straight-to-landfill scam is reaching new heights
 
 ## Mahanadi Coalfields IPO: A dividend play
 Growth recovery expected from volumes as thermal power demand increases
@@ -108,6 +105,33 @@ The report said that the episode showed how China could bolster Pakistan during 
 ## Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for ₹47,000
 The teen allegedly extracted information from the platform and posted an advertisement on the dark web, claiming to possess details of around 4,000 Agniveers.
 
+## Pant becomes first keeper to hit hundred in all SENA countries, IND break batting records in NZ
+
+
+## Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur court
+
+
+## Gujarat farmers protest land acquisition for highway expansion
+
+
+## Rahul Gandhi moves away from allies, family in balancing act on Israel
+
+
+## People heeded my call to not buy gold, saved money after prices crashed, says Modi
+
+
+## Guard of honour goof-up: AIMIM chief Asaduddin Owaisi, not SC judge, gets the ceremonial salute in UP
+
+
+## US-Iran War Live Updates: Bahrain reports strikes on civilian facility, Tehran says it hit US radars
+
+
+## India, China commanders meet again to try and calm Arunachal frontier
+
+
+## 2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn
+Two of China’s best-known property tycoons have made a comeback in recent months, turning their attention to renovating existing buildings and reviving established commercial properties. China Vanke founder Wang Shi, 75, and Dalian Wanda Group chairman Wang Jianlin, 72, have returned to the public e
+
 ## Why Sam’s Club is selling down jackets for just US$60 in China: ‘hook product’
 As temperatures fall in China, shoppers are flocking to US retailer Sam’s Club to try and get their hands on a men’s down jacket on sale for just 399.9 yuan (US$60), as consumers turn to practical and wallet-friendly products amid an economic slowdown. The long black down coat from US brand Rokka&Ro
 
@@ -128,9 +152,6 @@ Ping An Digital Bank has received an additional capital injection of HK$500 mill
 
 ## Beijing ramps up crackdown on rumours that could roil stock market
 Beijing is ramping up its campaign against online rumours that could panic the stock market, with authorities releasing a dossier of case studies showing examples of internet users punished for spreading false information. The Chinese Securities Regulatory Commission (CSRC) on Friday disclosed a num
-
-## As China’s sportswear sales lose steam, overseas brands see even sharper declines
-China’s online sportswear market lost further steam in October, as international brands suffered steeper declines in the country than their domestic peers in a sign of subdued consumer sentiment, according to Deutsche Bank. Many investors said they expected 2027 could be even more challenging for sp
 
 ## EU, U.K. Agree to a Brexit Reset
 But Burnham faces some opposition back home.
@@ -228,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Deadly attack in Kyiv as Russia launches barrage against Ukraine
-Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.
+## Iran war live: Iran targets US military in Bahrain; Houthi strikes continue
+Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.
 
-## FBI national crime database suffers suspected breach: Reports
-The reported hacking is the latest in ​a string of breaches and outages affecting the US government.
+## Lebanese president demands Israel withdrawal, decries Iran’s interference
+Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.
 
-## Could Brexit be reversed?
-UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?
+## Iran faces a ‘silent economic war’, says Iranian president
+Iran faces a ‘silent economic war’, says Iranian president
 
-## Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons
-US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.
+## Bahrain says Iranian attack hits industrial facility
+Bahrain says Iranian attack hits industrial facility
 
-## UK police drag man from protest over ‘Pallet Sign Acton’ shirt
-UK police drag man from protest over ‘Pallet Sign Acton’ shirt
+## Bahrain says Iranian attack causes fire at industrial facility
+Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
 
-## Israeli strike hits food aid vehicle in Gaza, killing three
-Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.
+## Impunity fuels surge in settler violence across occupied West Bank
+Impunity fuels surge in settler violence across occupied West Bank
 
-## Liverpool vs Manchester United: Premier League – teams, prediction, lineups
-One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.
+## Indian man jailed over plot to kill Sikh separatist in US
+An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.
 
-## Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League
-Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.
+## Brazil’s Jair Bolsonaro in intensive care with bowel obstruction
+The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
