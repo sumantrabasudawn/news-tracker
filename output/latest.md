@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## FirstFT: Wall Street set to rebound after AI stock sell-off
-Also in today’s newsletter: Democrats win House seat in North Carolina and how China is winning the car war
+## Nasdaq jumps 7% as Nvidia shares soar
+Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%
 
-## Nepal’s rapper-turned-PM seals aid deal with India’s Narendra Modi
-Balendra Shah meets his country’s most important ally for the first time since taking office in March
+## Nvidia gains nearly $1tn in value after Jensen Huang reinstated
+Interim chief and senior management were unaware of the discussions over the weekend
 
-## Wall Street set to rebound after AI stock sell-off
-Battered tech shares including Nvidia and Anthropic rise sharply pre-market
+## US lawmakers vow to sharpen Huang probes as he returns to Nvidia
+Democrats and Republicans insist tech CEO must testify in public
 
-## Ukraine blows up Russian warship in Libya’s Benghazi naval base
-Volodymyr Zelenskyy describes attack as an ‘exemplary’ sea drone operation
+## ‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham
+Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc
 
-## Rejoining EU gets harder the longer Britain stays out
-As both sides diverge, more Britons will have something to lose from returning to the bloc
+## Nvidia reinstates Jensen Huang as chief executive
+Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring
 
-## South Korean minister says he is too old to tackle AI exam cheating
-Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests
+## UK government steps up its war against quangos
+Louise Haigh says reforming arm’s-length bodies a crucial part in rewiring the state
 
-## Burnham’s public control rhetoric is investor ‘kryptonite’, says CBI
-Lobby group’s call comes as first secretary Louise Haigh sets out intention to scrap some quangos
+## Russian soldiers twice as likely to die by suicide than civilians
+FT analysis of leaked records suggests number of those taking their own lives has risen during the Ukraine war
 
-## From rotation to contagion
-Plus, chips are not cheap
+## Russia poised to put nuclear weapon in space within 60 days, Germany warns
+Berlin is ‘taking seriously’ intelligence reports shared by western allies that Moscow could deploy ‘Sputnik-S’ armed satellite as soon as next month
 
-## EU launches antitrust probe into Coca-Cola bottler
-Coca-Cola Europacific Partners is one of the major bottlers that distribute and sell the soft drink in Europe
+## The startling return of Jensen Huang
+Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent
 
-## BYD hit after court bars SUV from EU over Land Rover design copy
-Ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe
+## The COP failure the world needed
+The disaster that was the climate gathering in Antalya should prompt overdue reform
 
-## Capita shares drop 70% on cash call after civil service pension failures
-UK outsourcer replaces chief executive Adolfo Hernandez alongside recapitalisation and profit guidance cut
+## Capita’s pesky civil service pension mandate may be its saving grace
+There are few competitors ready to take on the UK group
 
-## Crest Nicholson shares slump as debt deadline looms
-Pressure builds on housebuilder as it warns tough trading conditions will persist into next year
+## NSEL investors get ₹1,950 crore after waiting for 14 years
+The amount was distributed among 5,682 traders under an NCLT-approved Scheme of Arrangement proposed by the investors forum
 
-## Costa’s compromise EU budget proposal fails to achieve consensus
-Also in this newsletter: European steelmakers increase pressure on China-backed MMG
+## Nvidia reinstates Jensen Huang as CEO, Trump says no risk to national security
+The board reinstated Huang after a series of meetings and discussions and after receiving input from “senior levels of the United States government”
 
-## India announces $1.63 billion package for Nepal, marking PM Balen Shah’s visit
-Modi says assistance will support reconstruction, create new opportunities; eight MoUs signed in health, traditional medicines, satellite communications, livestock & fisheries, sustainable urban development, among others
+## Tata Steel says direct APL Apollo buyout was costlier, less efficient; Targets 15.5 mt downstream platform
+The financial structure also allows Tata Steel to effectively monetise its existing downstream assets while acquiring control of the platform that will house them
 
-## Rupee snaps 5-day rally; tumbles 30 paise to settle at 92.92 against US dollar
-The rupee lost ground and hit the day's low at 93.11 before ending the session at 92.92 (provisional) against the greenback, down 30 paise from its previous close
+## Sarvam launches AI-powered dictation API for English, 22 Indian languages
+The company evaluated the API against Gemini 3.5 Transcribe and AssemblyAI Dictation using real-world recordings from users of its Kivi dictation app, covering 145 applications
 
-## Ultraviolette begins delivery of X-47 Venom electric motorcycles
-Deliveries have begun across Ultraviolette’s retail and experience network in India and will be rolled out in phases across the country
+## Held up whisky consignment to be released following due procedure
+DRI has been asked to release the held consignments, subject to due procedures, and once the technical solution was reached, the matter could be settled according to that: Commerce Secretary
 
-## Sensex today | Stock Market Live: Sensex plunges 1,484 points, Nifty sheds 451 as broad-based sell-off hits Dalal Street
-Sensex, Nifty, Share Prices Closing Bell: Sensex tumbles 1,483.72 points to settle at 82,435.99; Nifty dives 450.95 points to 25,349.65.
+## Sarvam AI faces questions over translating funding into frontier AI capabilities
+Sarvam came under scrutiny following the recent launch of its Token Factory, a platform that offers access to global AI models through India-hosted infrastructure
 
-## 72% of India’s tech workers willing to switch careers if pay stays the same: Blind survey
-Around 56 per cent said they would not encourage their child to go into tech
+## UCBs should support sustainable growth through prudent lending: RBI Guv
+Malhotra urged banks to make full use of Mission SAKSHAM, the Reserve Bank’s ongoing training initiative for UCBs
 
-## J&K’s winter power dependence puts focus on procurement costs
-Official figures show that Jammu and Kashmir spent approximately ₹9,257 crore on purchasing electricity during the financial year 2023-24
+## EloElo Group bets on AI-led production infrastructure to lower content creation costs
+The move comes as AI tools increasingly find applications across content development and production, opening up possibilities for creators and studios to produce content at scale and explore new storytelling formats
 
-## Okta appoints Rohan Vaidya as Vice-President and General Manager, India
-Vaidya will lead Okta’s commercial strategy and operations in India
+## Nvidia shares jump over 30%, log biggest single-day gain since 2003 as CEO Huang returns
+Nvidia's shares increased significantly after Jensen Huang returned as CEO, leading to a rise in AI stocks. The S&P 500 and the Nasdaq Composite saw their largest single-day gains since April 2025. Many other technology and semiconductor companies, including Amazon and Oracle, also experienced stock
 
-## Sona Star Innovation launches 3D edutech platform for learning human anatomy
-SOBO Pal lets students navigate through a 3D model of the body, select any part to read or listen to its description, and pick up a fun fact along the wa
+## UK raises concern over India's 162.5% bulk Scotch duty as trade pact dispute continues
+The UK is concerned about India's high import duties on bulk Scotch whisky despite a recent trade agreement. Current duties on bulk Scotch stand at 162.5 percent, even after a negotiated reduction to 75 percent. Disputes over customs classifications have led to significant delays in Scotch imports, 
+
+## India weighs 20% export duty on select rice varieties to boost domestic supply: Report
+India is considering imposing a 20 percent export duty on certain rice varieties to curb rising prices. This move aims to support domestic industries, particularly poultry and cattle feed sectors facing price pressures. The government is currently discussing these restrictions with relevant ministri
+
+## Homebuyer wins Rs 1.36 cr refund; builder challenges order after SC ruling, but plea dismissed
+The dispute arose from an order in 2019, passed by an adjudicating officer of the Maharashtra Real Estate Regulatory Authority. The officer had directed the real estate developer to refund Rs 1,35,99,246 paid by a flat buyer, along with interest at 10.20% per annum until realisation. The real estate
 
 ## ‘Petrol, diesel prices rose just 7% in India in four years versus 50-70% globally’
 Oil minister Hardeep Singh Puri said on Sunday that petrol and diesel prices in India had risen by just 7% over a four-year reference period, significantly less than the increase of 50-70% recorded in other parts of the world. He credited the relatively limited rise to three reductions in central ex
@@ -75,41 +81,32 @@ Stock market crash today: The biggest reason for indices plunging is profit book
 ## Rupee snaps five-day winning streak, falls 23 paise to 92.85 against US dollar
 
 
-## Stocks to buy: What's the outlook for Nifty, Bank Nifty this week?
-Stock market recommendations: PNB Housing Finance, RBL Bank have been picked as the top stocks to buy by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities on November 23, 2026.
+## CJP's Saurav Das claims he was stopped at Delhi airport, barred from flying to London for Oxford lecture
+However, a Delhi Police official told HT that they are not aware of the matter and that the immigration officials are involved.
 
-## Gold price prediction today: What's the gold outlook for November 23, 2026 week?
-Gold price prediction today: Gold is showing an initial recovery near Rs 1,24,330 after a sharp and prolonged correction from the February-March highs above Rs 1,60,000. However, the daily chart continues to reflect a distinctly bearish broader structure, with prices trading significantly below the 
+## Bengal govt to amend land reforms law during Assembly winter session to ease acquisition
+The BJP state government plans to introduce eight bills, including amendments to land reforms, MSMEs and ease of doing business.
 
-## What are the top stocks to buy for the November 23, 2026 week?
-Stock market recommendations: Adani Ports, and Poonawalla Fincorp - these are the top stocks to buy for the week starting November 23, 2026 by Motilal Oswal Wealth Management Research.
+## Odisha headmaster booked for beating 11-year-old student with cane for ‘stealing cocunuts’
+The boy's father alleged that the headmaster of the school at Gobaraghati in Kalinga Nagar beat his son "mercilessly with a cane in front of other students".
 
-## Tata Steel to acquire 26.6% promoter stake in APL Apollo for Rs 15,510 crore
+## Samajwadi Party chief Akhilesh Yadav’s Facebook page restored after brief outage
+Earlier, the SP said that Yadav’s Facebook page was inaccessible due to technical issue and that the Meta was working to restore it.
 
+## NCERT issues warning to empanelled printers after complaints of poor-quality textbooks
+The move follows complaints of blurred text, tiny fonts and printing discrepancies in textbooks on social media
 
-## 'Lord Ram incomplete without Nepal': PM Modi, Balen Shah underline deep cultural, religious ties between nations
-During a press conference with Shah, PM Modi recalled his visit to Janakpur in 2018, where he said that Lord Ram was "incomplete without Nepal."
+## BSF jawan goes missing near Bangladesh border in Assam, search operation launched
+A senior BSF official told HT on Monday afternoon that the force was aware of the matter and necessary steps were being taken
 
-## Only BS-VI vehicles to ply in Delhi during winter: Supreme Court
-The court described the national capital’s relatively better air quality this November as a matter of good fortune
+## Weather Bee: 2026 is now closing in on becoming the warmest year on record
+Global temperatures hit a record 1.98°C above pre-industrial levels in the first 21 days of November, narrowing the gap between 2026 and 2024.
 
-## India announces $1.6-billion package for Nepal as Modi, Balen Shah unveil joint vision to reset ties
-Modi acknowledged the changes in Nepal, which swept away traditional political parties, and the historic mandate given to Shah
+## Delhi cop suspended after bride’s family alleges wedding called off over ₹13 lakh car demand; groom denies allegations
+Delhi Police suspended Constable Kuldeep after his bride's family alleged he demanded a ₹13 lakh Brezza and called off their Sonipat wedding.
 
-## Minister alleges political backing for Messi event deal, says probe will expose those responsible
-Minister alleges political backing for Messi event deal, says probe will expose those responsible
-
-## ‘Don’t act like Robin Hood or Bahubali’: SC rebukes Bihar judge for convicting cop
-The Supreme Court questioned Bihar sessions judge Anil Kumar’s decision to invoke the procedure for offences committed in the face of the court
-
-## West Bengal to be renamed ‘Paschim Banga’; proposal to be tabled in assembly on December 9: CM Suvendu
-Once the proposal is passed by the West Bengal assembly, it will be sent to the Centre for its approval.
-
-## Kerala High Court sets aside suspension of 16 Sree Sankaracharya University of Sanskrit students
-The Kerala High Court directed the university to arrange special examinations for the students within six weeks
-
-## Balen Shah invites PM Modi to Nepal, urges Indians to visit Pashupatinath, other religious sites
-The two leaders held bilateral talks in New Delhi to review India-Nepal relations and explore avenues for strengthening cooperation across key sectors.
+## ‘Nothing came through’: why Boeing failed to land firm orders during Trump’s Shenzhen trip
+US President Donald Trump, a self-described “Boeing salesman”, left China last week without securing firm orders for the 200 aircraft pledged during his visit to Beijing in May. Instead, the White House highlighted a Boeing deal struck during the Philippine leg of his Asian tour. The absence of a Ch
 
 ## Why discounts, store closures may not be enough for Gucci as China’s luxury slowdown bites
 Gucci is cutting prices and closing stores in mainland China as sluggish demand, subdued consumer confidence and more discerning shoppers weigh on performance, according to the company and outside analysts. Among its latest moves, the Italian luxury brand cut its Padlock handbag price in France by 3
@@ -132,8 +129,17 @@ Chinese electric vehicle (EV) giant BYD will appeal a sales ban on one of its pr
 ## Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years
 Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 20
 
-## Major Japanese firms still rely heavily on China revenue amid Beijing-Tokyo rift: report
-Japanese companies continue to have significant exposure to the Chinese market, with some major manufacturers deriving more than one-third of their revenue from the mainland, even as diplomatic tensions between Beijing and Tokyo raise concerns over their business prospects. A recent report by Goldma
+## Jensen Huang Is Back
+The latest turn in a saga that has roiled markets and raised national security concerns.
+
+## Democrats Want to Make Life More Affordable. They Could Begin With Permitting Reform.
+The pros and cons of the Bipartisan American Affordability and Jobs Act.
+
+## Huang’s Return Is the Biggest National Security Scandal in U.S. History
+Trump has put his pocketbook first and U.S. interests last.
+
+## Ukraine’s Energy Plan Was Too Little, Too Late
+The country’s push for renewables fell short—and now it’s paying the price.
 
 ## Is It Time for Kyiv to Compromise?
 A Ukrainian parliamentarian makes the case.
@@ -147,41 +153,32 @@ The founding father of the conservative movement’s pick was very different fro
 ## EU, U.K. Agree to a Brexit Reset
 But Burnham faces some opposition back home.
 
-## States Are Playing Serious Games on Virtual Battlefields
-The rise of video gaming has created new geopolitical arenas.
+## Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?
+The Shenzhen summit created a new and unprecedented political opening among the three major nuclear powers. It must be capitalized on.
 
-## Bob Woodward Is Scared as Hell
-In his new memoir, the legendary reporter asks why presidents keep starting dumb wars—and worries about the future.
+## Tajikistan Is Leaving the ICC
+Dushanbe joins a growing list of countries turning their backs on the court.
 
-## Pop Culture Still Can’t Figure Out Drone Warfare
-Hollywood seems oblivious to the radically new nature of war. Why, exactly?
+## Could the Jensen Huang Scandal Help China’s AI Industry?
+Tightened U.S. export controls will be difficult in the short term, but could open up new opportunities for China.
 
-## What in the World?
-Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.
+## Why China Is Watching Taiwan’s Local Elections
+The races are not about cross-strait relations – but Beijing has a rooting interest nonetheless.
 
-## How ASEAN Responded to the ICJ’s Myanmar Genocide Ruling
-The region's response to the landmark November 19 judgment against Naypyidaw has been muted.
+## South Korea Cannot Police Its Way Out of AI Cheating
+The top scorer on the tax exam confessed to AI cheating, and 111 more alleged cases surfaced at the college entrance exam. Given South Korea's exam-heavy education system, it's nothing short of a crisis.
 
-## Diplomacy or Transparency? Philippine Officials Consider Approach Amid Rising China Tension
-A recent DFA statement revealed differences within the country's Cabinet on how best to respond to the ongoing maritime disputes with Beijing.
+## Japan’s Shenzhen Snub: Why a Thaw Looks Unlikely Under Takaichi and Xi
+China’s cold reception for Japan’s prime minister makes it difficult for either leader to back down.
 
-## Mongolia’s Foreign Policy Doctrine and the ‘Third Neighbor’
-A look at the history behind the Third Neighbor policy
+## The Paradox of Takaichi’s Popularity
+Takaichi continues to enjoy a healthy approval rating, despite controversy over some of her policy moves.
 
-## A Moment of New Hope for the Rohingya Community
-Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.
+## How Central Asia Fixed Its Most Dangerous Borders
+In a world riven by conflict today, the peaceful settlement of contested borders in the Fergana Valley stands out.
 
-## Russia’s Changing Positions on North Korea Sanctions and Denuclearization
-Russia once held firm on denuclearization and reluctantly accepted sanctions as a necessary tool. Those days are over.
-
-## Demography Is the Achilles’ Heel of Dictatorships – Including China
-The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.
-
-## Taiwan’s Local Elections: The Races to Watch
-Your guide to the most competitive races – and the ones that could impact the 2028 presidential election.
-
-## China Is Investing in Africa’s Factory Moment. Will It Stay?
-Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?
+## While Shenzhen Talked, Berlin Pulled Up a Chair: Europe’s Generational Bet on Itself and Ukraine
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
 
 ## China’s Growing Ambitions in Very Low Earth Orbit
 A new front in the U.S.-Chinese space race is emerging in the lowest reaches of space: very low Earth orbit, the untapped orbital regime below 320 kilometers. There, China is laying the groundwork for a significant presence, with announced plans for more than 2,200 satellites and an aggressive deplo
@@ -203,9 +200,6 @@ Commercial cloud architecture has made digital infrastructure more resilient to 
 
 ## Is Dollar Dominance in Decline?
 The dominance of the U.S. dollar is a crucial source of American global power. The dollar’s widespread use, strength, and reliability provide major economic advantages for the United States, enable U.S. sanctions to have real bite, and significantly boost U.S. influence abroad. For America’s adversa
-
-## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
-For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on the future of trans-Atlantic defense cooperation following the U.S. midterm elections. Participating experts from the United Kingdom, continental Europe, and the United States bring
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +225,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why is Bangladesh’s Grameen Bank under attack?
-Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.
+## US escalates sanctions on Iran, targets ‘shadow banking’ networks
+US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.
 
-## Occupied West Bank ‘military zones’ become de facto Israeli settler land
-Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.
+## Israel’s southern Syria incursion triggers fear and destruction
+Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.
 
-## Thousands displaced after deadly storm hits Brazil town
-A powerful supercell storm devastated the Brazilian town of Tupancireta.
+## US states sue SpaceX over Grok AI’s creation of child sexual abuse material
+Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.
 
-## At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks
-Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.
+## US drug prices leave patients facing impossible choices
+Despite having jobs and health insurance, some of the US's sickest patients have trouble affording medicines they need.
 
-## Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
-Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
+## Iran flogs singer Parastoo Ahmadi for performing without headscarf
+Ahmadi and four production team members also face two-year bans on travel and artistic activity.
 
-## Zelenskyy says Ukraine behind attacks on Russian ships near Libya
-Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.
+## Iran hits US bases and civilian sites in the Gulf after a lull
+Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.
 
-## ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza
-A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.
+## Turkish police hunting for lioness stalking Istanbul
+Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.
 
-## Artificial superintelligence ‘arriving’, warns top Meta executive
-Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.
+## Jensen Huang reinstated as Nvidia chief: How did we get here?
+Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.
 
 ## Maruti, Coca-Cola, Wipro CFOs outline blueprint for future-ready finance teams
 At the inaugural ETCFO Annual Conclave 2026, CFOs from Maruti Suzuki, Coca-Cola and Wipro Enterprises discussed how digital skills, continuous learning and cross-functional expertise are reshaping finance teams.
@@ -279,6 +273,12 @@ Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skil
 ## CFO-board partnership must evolve from governance to value creation: Finance leaders
 At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directors Giridhar Sanjeevi and Sugata Sircar, alongside Biocon CFO Kedar Upadhye, highlighted how trust, transparent communication and constructive challenges between CFOs and independent directors can strengthen strategic dec
 
+## RBI mandates demat holding of securitisation notes, extends Rs 1 crore minimum ticket size to transfers
+The revised directions, applicable to commercial banks, small finance banks, NBFCs and All India Financial Institutions from April 1, 2027, also require public offers of securitisation notes to comply with SEBI regulations and extend the new requirements to existing issuances.
+
+## RBI retains SBI, ICICI Bank, HDFC Bank as domestic systemically important banksin 2026
+The Reserve Bank of India continues to designate State Bank of India, HDFC Bank, and ICICI Bank as domestic systemically important banks (D-SIBs), mandating them to maintain higher capital buffers against their risk weighted assets. Specifically, SBI's Common Equity Tier 1 capital requirement stands
+
 ## New CPI series to make inflation readings less volatile, reduce uncertainty in monetary policy: RBI Dy Governor Poonam Gupta
 The revised Consumer Price Index (CPI) series is expected to make headline inflation less volatile and reduce uncertainty in monetary policy decisions, as the weight of food and beverages has declined to less than 37 per cent from nearly 46 per cent, Reserve Bank of India (RBI) Deputy Governor Poona
 
@@ -296,10 +296,4 @@ The Securities and Exchange Board of India (SEBI) disposed of 5,975 investor com
 
 ## SEBI rules out immediate 24x7 trading, says equity tokenisation unfeasible at current scale: Chairman Tuhin Kanta Pandey
 Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday ruled out an immediate move towards 24x7 stock market trading, citing cybersecurity risks, fragmented liquidity and investor fatigue. He also said extending tokenisation to equity markets was currently unfeasible 
-
-## RBI announces premature redemption rate for Sovereign Gold Bonds due November 18
-The Reserve Bank of India (RBI) on Tuesday announced the premature redemption price for Sovereign Gold Bond (SGB) 2020-21 Series VIII at Rs 13,499 per unit, according to an official statement.
-
-## FM Sitharaman chairs third pre-Budget consultation with manufacturing sector leaders ahead of Union Budget 2027-28
-Union Finance and Corporate Affairs Minister Nirmala Sitharaman on Tuesday chaired the third pre-Budget consultation meeting with experts and industry leaders as part of preparations for the forthcoming Union Budget 2027-28, the Ministry of Finance said in a statement.
 
