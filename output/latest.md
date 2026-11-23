@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Tech stock sell-off deepens in Asia
+A more than 3% slide in Korea follows Friday’s heavy Wall Street declines
+
+## Jim O’Neill calls for Burnham to overhaul property taxes
+Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax
+
+## Could history help predict the next two years of US politics? | Martin Wolf on the US midterms
+The Democrats swept the midterms. Donald Trump is still president. What will the next two years look like?
+
+## House Democrats to start new Congress with largest majority this century
+Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration
+
+## FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia
+Also in today’s newsletter: COP31 climate talks fail and sanctioned Russian vessel attacked by drones near Finland
+
 ## Bessent refuses to rule out Huang’s return to Nvidia
 Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement
 
@@ -9,131 +24,104 @@ Spanish head to the polls, US markets close for Thanksgiving, London gets a new 
 ## Andy Burnham seeks quick tuition fees deal with the EU
 Prime minister set to address MPs on reset deal, after former Tory premier Theresa May declares herself ‘aghast’ at reopening of Brexit debate
 
-## Sanctioned Russian vessel attacked by drones near Finland
-Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged
-
-## COP31 climate talks fail after stand-off over fossil fuels
-Geopolitical divides laid bare in fracture between Arab group and EU-led coalition
-
-## South Africa takes the low road after the ANC’s humiliation
-Former liberation party is ignoring voters and jeopardising the national coalition
-
-## Xi needs Trump more than ever
-The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures
-
-## Former Italian police chief found dead after mafia cover-up claims
-Gianni De Gennaro had faced claims from magistrates that he obstructed investigation into notorious 1990s bombing
-
 ## Delta flight delays add to concerns about US air travel systems
 FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month
 
 ## FTSE 100 catering giant Compass plans to move main listing to New York
 £43bn group set to announce intention to move as soon as Tuesday
 
+## Sanctioned Russian vessel attacked by drones near Finland
+Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged
+
+## COP31 climate talks fail after stand-off over fossil fuels
+Geopolitical divides laid bare in fracture between Arab group and EU-led coalition
+
 ## Adoption, not innovation, holds Britain back
 Once the world’s most innovative country, the UK now struggles to embrace new technologies
 
-## US ports face cyber attack onslaught as hackers target vital trade routes
-America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches
+## Sensex today | Stock Market Live: Gift Nifty signals 175-point gap-up open for Indian markets despite weak global cues
+Sensex, Nifty, Share Prices Live: The coming holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee
 
-## Will Anthropic’s IPO buck the tech sell-off?
-Market Questions is the FT’s guide to the week ahead
+## Gift Nifty signals 175-point gap-up open for Indian markets despite weak global cues
+The coming holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee
 
-## From cotton mills to cityscapes – How the Singhanias are unlocking legacy land
-The 104-year-old JK group company is betting on a ₹965-crore hospitality push and a ₹4,400-crore real estate pipeline built on its old industrial land
+## Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon
+Tata Steel moves to unlock value with downstream sale; IndusInd under new scrutiny post-controversy; regulatory tightenings on algo trading; and fresh orders and renewables deals shaping a volatile week for Indian equities.
 
-## FSSAI sanctions prosecution action against companies over unsafe samples
-Companies including Bisleri International, Vasant Masala Pvt Ltd, Tit-Bit Foods, Asha Confectionery and Mimansa Industries Pvt Ltd face action
+## Building an interconnected portfolio
+VC Finvolve invests in startups that complement one another
 
-## Power Minister’s to meet on resource adequacy, transmission bottlenecks
-In a bid to ensure that electricity generation capacity remains ahead of projected peak demand, all the states, in consultation with the central electricity authority (CEA), have prepared Rresource Aadequacy Pplans (RAPs)
+## Putting AI through the shopfloor grind
+Startups harness ‘physical AI’ to automate complex industrial tasks that conventional robots struggle to take on
 
-## Letters to the Editor dated November 22, 2026
+## Why do founders equate arrogance with confidence?
+Rude behaviour is of no help to founders attempting to earn the trust of investors, customers, employees and partners
 
+## Space labs tethered to floating balloons
+Red Balloon Aerospace’s testing platforms simulate space conditions closer to Earth
 
-## Editorial. GiANT move
-Monetising AI should not outpace safeguards to contain risks
+## The difficulty of forgiving founders
+Which are the behaviours of leaders that people are willing to gloss over?
 
-## Her-story of Indian cricket
-Two books tracing the progress of Indian women in the willow game
-
-## PM Modi directs DRDO to deepen R&D collaboration with private players
-Modi communicated this during a high-level meeting with secretaries, including Defence Secretary RK Singh who holds additional charge of DRDO Chairman, on August 20
-
-## Tata Steel to sell tubes business, Colors stake to APL Apollo for ₹28,000 crore
-Twin deals aim to unlock value, sharpen focus and expand APL Apollo’s footprint
-
-## Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom
+## Nearly half of festive sales of smartphones were financed
 
 
-## Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade?
-India has seen record foreign investor inflows in the month of November. Foreign portfolio investors (FPIs) have remained net buyers on every trading day this month, barring the Muhurat trading session. Their cumulative purchases reached Rs 1,13,719 crore by November 20, according to NSDL, which mar
-
-## Rs 19.26 crore income declared, but Rs 12.21 crore seized in raid; ITAT grants relief
-In 2018, the Income Tax Department conducted searches at a man’s residence and on his locker. During the operation, officials reportedly recovered Rs 3.9 crore in cash from the locker and another Rs 20 lakh from his house. The locker also contained jewellery valued at Rs 8.11 crore, including 751.52
-
-## Nvidia chip case: How Chinese man in Megaspeed built network serving China with Alice Huang
+## Small Finance Banks reduce microfin loan portfolio after stress
 
 
-## Gold falls 4.49%, silver 6.6% in a single day; wedding shoppers get buying chance
-Gold and silver prices crash: On the Multi Commodity Exchange (MCX), gold futures dropped as much as 4.49%, or Rs 5,733, to Rs 1,21,719 per 10 grams from the previous close of Rs 1,27,452 per 10 grams. Silver futures faced even heavier selling, declining 6.6%, or Rs 10,416, to Rs 1,47,066 per kg.
-
-## India, Canada push for wider market access as 6th round of trade talks ends
-India and Canada concluded the sixth round of CEPA negotiations in New Delhi after a series of discussions. The negotiations focused on vital areas like trade in goods, services, and investment promotion. Both sides aim for a balanced agreement that benefits farmers, businesses, and MSMEs in both co
-
-## Air India aims for greater synergy with Air India Express to cut costs
+## China's $1.7 trillion AI rout turns hot trade into losing bet
 
 
-## Power & cement fuel October core sector growth of 10.9%
+## Loans to micro firms have larger multiplier effect: RBI governor
 
+
+## Indian retail investors show strong interest in Anthropic
+
+
+## Tata Steel approves sale of tubes and pipes business
+
+
+## Govt implements over 250 changes for deregulation
+Another 300 In Pipeline Based On Report By Gauba Panel
+
+## Go public or stay private: Tata Sons gears up for decision this week
+Board split on RBI prod for listing
+
+## Amritsar grenade attack: US-based Happy Passia, 8 others declared proclaimed offenders
+Passia is associated with banned Babbar Khalsa International (BKI), and according to intelligence officials, he worked with both Lawrence Bishnoi’s network
+
+## Tamil Nadu moves SC seeking review of Nov 20 ‘Karthigai Deepam’ order
+The state’s Hindu Religious & Charitable Endowments (HR&CE) department filed the review petition on November 21.
+
+## Delhi: Nursery admissions set to begin; schools to release point based criteria today
+The application process is set to begin on December 1, while the first and second lists of seat allotment are scheduled to be released on December 20
+
+## Enforcement Directorate seeks Ravi Uppal’s extradition, to send request for 2 others in Mahadev app case
+The ED is preparing to send extradition requests for two more key players in the ₹6,000 crore online gambling syndicate — Shubham Soni and Anil Kumar Agarwal.
+
+## India, Iran hold bilateral meet; no formal talks with Pakistan on sidelines of SCO forum
+The three-day event was hosted by the Ministry of Culture and the Ministry of External Affairs.
+
+## No deal: COP31 talks fail over fossil fuel mention
+The summit’s proposed pact omitted an explicit fossil fuel transition commitment, prompting objections from the EU and others.
+
+## CPCB’s AQI method understates severity of Delhi’s worst pollution days
+HT's Calculations show Delhi’s air would have been “severe” on two days had the index been worked out as defined.
 
 ## Eight killed as speeding minivan rams into roadside tree in Tamil Nadu's Tiruchirappalli
 Preliminary investigation revealed that the driver of the van, identified as Rajesh, lost control of the vehicle due to overspeeding
 
-## ‘CJP here to stay’: Dipke vows to fight for Goa’s land, identity; seeks scrapping of Section 39A
-CJP ruled out entering electoral politics, but said it would set the agenda for the youth of the country.
+## Trade connections raise appetite for dim sum bonds in Central Asia, Middle East: Citigroup
+More companies in Central Asia and the Middle East are issuing dim sum bonds – bonds denominated in Chinese yuan but issued outside China – because they need the Chinese currency to settle trades with mainland companies, according to bankers at Citigroup. Aveline San Pau-len, Citi Hong Kong’s CEO an
 
-## BJP accuses Tamil Nadu govt of ‘anti-hindu’ mindset over SC review plea on Karthigai Deepam
-The commissioner of Tamil Nadu's Hindu Religious and Charitable Endowments Department filed the review petition in the Supreme Court on Saturday.
+## ‘Raising capital’: embattled New World accelerates urban redevelopment to boost cash flow
+New World Development has applied to the Lands Tribunal for a compulsory sale of a 64-year-old building on Pak Tai Street, To Kwa Wan, for commercial-residential redevelopment, according to market sources, after the developer met the 80 per cent ownership threshold five years ago. The subject of the
 
-## Congress factional rift deepens in Keralam, dissenting leaders take grievances to Kharge in Delhi
-A batch of leaders belonging to a prominent faction, including a Lok Sabha MP, met Kharge and relayed complaints about lack of coordination.
+## Mainland China stock exchanges make moves to raise liquidity and activity to stem decline
+China rolled out a series of measures to lower the bar for stock trading on its major exchanges, part of an effort to stem a stock market decline amid a global rout. The China Securities Regulatory Commission approved the exchanges in Shanghai and Shenzhen to decrease the minimum margin ratio – the 
 
-## Samajwadi Party, Congress form 4-member panels each for seat-sharing talks in the run-up to UP polls
-The two parties will hold 2-day talks in Delhi on November 23 and 24 in the first phase, examining all 403 seats.
-
-## PM Modi, Nepal’s Balen Shah to hold talks today, inaugurate Ayodhya-Janakpur rail link, other key projects
-Balen Shah was received on his arrival in Delhi by union minister Jitin Prasada, and his first official engagement was a meeting with EAM Jaishankar.
-
-## CJI Surya Kant says citizens can criticise constitutional bodies' decisions, cautions against targeting institutions
-CJI said that people often fail to distinguish between a decision and the institution behind it.
-
-## ‘Haven’t invited me to discuss Indus waters’: Pak minister Musadik Malik evades questions on IWT, ‘cut off hands’ remark
-Pakistan minister Musadik Masood Malik also dodged questions about his earlier controversial “cut off hands” remark, avoiding a direct response to the matter.
-
-## Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup
-
-
-## Quote Hanger: From Mikel Arteta Exclusive to U19 hero Ulva’s last ball 4 & Gukesh’s Rook memory
-
-
-## APL Apollo Tubes to acquire two Tata Steel businesses for Rs 28,000 crore
-
-
-## Surrounded by literary classics, Gukesh & Sindarov to rewrite chess history
-
-
-## Vikas Khanna’s New York home offers a stunning view of three iconic landmarks: ‘A rare apartment’
-
-
-## From recruiting Russian girls to chasing Putin: Epstein’s disturbing Russia links
-
-
-## No easy draws vs no visible gaps: Breaking down the Gukesh–Sindarov stylistic divide
-
-
-## In Goa, CJP’s Dipke slams CM: ‘You are the one selling state to friends from outside’
-
+## Amid ‘sharp rise’ in US expansion, will mainland Chinese brands ditch Hong Kong?
+Chinese consumer brands are increasingly looking to the United States as a key expansion market, choosing retail spaces in gateway cities in the world’s largest economy, according to property consultancy Cushman & Wakefield. There was no official count for how many Chinese brands had established the
 
 ## What tools does New World have to slash debts after its HK$24.9 billion rights issue?
 New World Development is turning to property sales, mainland real estate investment trusts and strategic investors for the next phase of its debt-reduction plan, as the embattled developer seeks to cut up to HK$50 billion (US$6.4 billion) in borrowings by the end of 2031 following a proposed HK$24.9
@@ -146,18 +134,6 @@ Two of China’s best-known property tycoons have made a comeback in recent mont
 
 ## Why Sam’s Club is selling down jackets for just US$60 in China: ‘hook product’
 As temperatures fall in China, shoppers are flocking to US retailer Sam’s Club to try and get their hands on a men’s down jacket on sale for just 399.9 yuan (US$60), as consumers turn to practical and wallet-friendly products amid an economic slowdown. The long black down coat from US brand Rokka&Ro
-
-## China’s EV adoption rate to top 70% as petrol cars take brunt of drop in overall sales
-Seven out of 10 car buyers in mainland China this month will opt for electric vehicles (EVs), as petrol-guzzling options fall further out of favour in the world’s largest market, according to an industry consortium. The country’s carmakers were expected to deliver 1.15 million EVs – comprising pure-
-
-## AI agents are getting wallets. Is Hong Kong ready for them?
-Minds by Animoca Brands, an agentic artificial intelligence platform created by the Web3 firm, is riding on Hong Kong’s push to turn automated agents into everyday shopping tools, piloting live transactions on Visa’s network just as local regulators place agentic commerce on the policy agenda. Unlik
-
-## Back in style? Starbucks wins over China’s shoppers – with a viral handbag
-Starbucks China has faced intense competition in the coffee market in recent years, but the brand is now winning over consumers with an unexpected product: a faux-leather handbag. The coffee chain launched the 158 yuan (US$24) bag on the Chinese mainland last month, and the item has since gone viral
-
-## Baidu fined US$75,000 as China wraps up Joyy antitrust case
-China’s top market regulator has fined Baidu’s Hong Kong unit 500,000 yuan (US$75,000) for proceeding with its acquisition of part of live-streaming platform Joyy’s business before receiving antitrust clearance. The State Administration for Market Regulation (SAMR) said on Friday that Baidu (Hong Ko
 
 ## Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
 The founding father of the conservative movement’s pick was very different from Trump’s.
@@ -255,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Fire breaks out at popular tourist hotspot in Zanzibar
-A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.
+## Poland says Russia tried to assassinate Ukrainian rapper twice
+Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.
 
-## Liverpool 4-0 Manchester United: Five key takeaways for Pochettino
-United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino's side.
+## Libya’s military says ‘fully prepared’ after Benghazi attacks
+Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.
 
-## Why has the COP31 climate summit failed to reach agreement?
-Fossil fuels are at the centre of deep division.
+## Israeli forces continue house demolitions in southern Lebanon
+Israeli forces continue house demolitions in southern Lebanon
 
-## Cockroaches, dissent and a paradigm shift in India
-The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.
+## WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region
+Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.
 
-## On China, is Trump bucking the US national security establishment?
-On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.
+## Asian stock markets tumble as AI bubble fears mount
+Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.
 
-## Aber Kawas becomes first Palestinian in New York state Senate history
-Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.
+## Cameroon’s ex-rebels caught between hiding and broken promises
+Cameroon’s former rebels face arrest fears and failed reintegration.
 
-## ‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport
-Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.
+## Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat
+Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.
 
-## Liverpool thrash 10-man Man United in nightmare start for Pochettino
-Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.
+## Mystery of the red stream in Turkiye
+The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
