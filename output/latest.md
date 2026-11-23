@@ -1,139 +1,145 @@
 # AION Intelligence
 
-## Tech stock sell-off deepens in Asia
-A more than 3% slide in Korea follows Friday’s heavy Wall Street declines
+## FirstFT: Wall Street set to rebound after AI stock sell-off
+Also in today’s newsletter: Democrats win House seat in North Carolina and how China is winning the car war
 
-## Jim O’Neill calls for Burnham to overhaul property taxes
-Prime minister’s informal adviser adds to chorus of voices backing changes to stamp duty and council tax
+## Nepal’s rapper-turned-PM seals aid deal with India’s Narendra Modi
+Balendra Shah meets his country’s most important ally for the first time since taking office in March
 
-## Could history help predict the next two years of US politics? | Martin Wolf on the US midterms
-The Democrats swept the midterms. Donald Trump is still president. What will the next two years look like?
+## Wall Street set to rebound after AI stock sell-off
+Battered tech shares including Nvidia and Anthropic rise sharply pre-market
 
-## House Democrats to start new Congress with largest majority this century
-Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration
+## Ukraine blows up Russian warship in Libya’s Benghazi naval base
+Volodymyr Zelenskyy describes attack as an ‘exemplary’ sea drone operation
 
-## FirstFT: Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia
-Also in today’s newsletter: COP31 climate talks fail and sanctioned Russian vessel attacked by drones near Finland
+## Rejoining EU gets harder the longer Britain stays out
+As both sides diverge, more Britons will have something to lose from returning to the bloc
 
-## Bessent refuses to rule out Huang’s return to Nvidia
-Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement
+## South Korean minister says he is too old to tackle AI exam cheating
+Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests
 
-## Spain’s likely rightward shift
-Spanish head to the polls, US markets close for Thanksgiving, London gets a new museum
+## Burnham’s public control rhetoric is investor ‘kryptonite’, says CBI
+Lobby group’s call comes as first secretary Louise Haigh sets out intention to scrap some quangos
 
-## Andy Burnham seeks quick tuition fees deal with the EU
-Prime minister set to address MPs on reset deal, after former Tory premier Theresa May declares herself ‘aghast’ at reopening of Brexit debate
+## From rotation to contagion
+Plus, chips are not cheap
 
-## Delta flight delays add to concerns about US air travel systems
-FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month
+## EU launches antitrust probe into Coca-Cola bottler
+Coca-Cola Europacific Partners is one of the major bottlers that distribute and sell the soft drink in Europe
 
-## FTSE 100 catering giant Compass plans to move main listing to New York
-£43bn group set to announce intention to move as soon as Tuesday
+## BYD hit after court bars SUV from EU over Land Rover design copy
+Ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe
 
-## Sanctioned Russian vessel attacked by drones near Finland
-Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged
+## Capita shares drop 70% on cash call after civil service pension failures
+UK outsourcer replaces chief executive Adolfo Hernandez alongside recapitalisation and profit guidance cut
 
-## COP31 climate talks fail after stand-off over fossil fuels
-Geopolitical divides laid bare in fracture between Arab group and EU-led coalition
+## Crest Nicholson shares slump as debt deadline looms
+Pressure builds on housebuilder as it warns tough trading conditions will persist into next year
 
-## Adoption, not innovation, holds Britain back
-Once the world’s most innovative country, the UK now struggles to embrace new technologies
+## Costa’s compromise EU budget proposal fails to achieve consensus
+Also in this newsletter: European steelmakers increase pressure on China-backed MMG
 
-## Sensex today | Stock Market Live: Gift Nifty signals 175-point gap-up open for Indian markets despite weak global cues
-Sensex, Nifty, Share Prices Live: The coming holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee
+## India announces $1.63 billion package for Nepal, marking PM Balen Shah’s visit
+Modi says assistance will support reconstruction, create new opportunities; eight MoUs signed in health, traditional medicines, satellite communications, livestock & fisheries, sustainable urban development, among others
 
-## Gift Nifty signals 175-point gap-up open for Indian markets despite weak global cues
-The coming holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee
+## Rupee snaps 5-day rally; tumbles 30 paise to settle at 92.92 against US dollar
+The rupee lost ground and hit the day's low at 93.11 before ending the session at 92.92 (provisional) against the greenback, down 30 paise from its previous close
 
-## Stocks to watch, Nov 23: Tata Steel, APL Apollo Tubes, IndusInd Bank, NSE, Adani Energy, Waaree Energies, Premier Explosives, Maruti Suzuki, Texmaco Rail, RVNL, Ashoka Buildcon
-Tata Steel moves to unlock value with downstream sale; IndusInd under new scrutiny post-controversy; regulatory tightenings on algo trading; and fresh orders and renewables deals shaping a volatile week for Indian equities.
+## Ultraviolette begins delivery of X-47 Venom electric motorcycles
+Deliveries have begun across Ultraviolette’s retail and experience network in India and will be rolled out in phases across the country
 
-## Building an interconnected portfolio
-VC Finvolve invests in startups that complement one another
+## Sensex today | Stock Market Live: Sensex plunges 1,484 points, Nifty sheds 451 as broad-based sell-off hits Dalal Street
+Sensex, Nifty, Share Prices Closing Bell: Sensex tumbles 1,483.72 points to settle at 82,435.99; Nifty dives 450.95 points to 25,349.65.
 
-## Putting AI through the shopfloor grind
-Startups harness ‘physical AI’ to automate complex industrial tasks that conventional robots struggle to take on
+## 72% of India’s tech workers willing to switch careers if pay stays the same: Blind survey
+Around 56 per cent said they would not encourage their child to go into tech
 
-## Why do founders equate arrogance with confidence?
-Rude behaviour is of no help to founders attempting to earn the trust of investors, customers, employees and partners
+## J&K’s winter power dependence puts focus on procurement costs
+Official figures show that Jammu and Kashmir spent approximately ₹9,257 crore on purchasing electricity during the financial year 2023-24
 
-## Space labs tethered to floating balloons
-Red Balloon Aerospace’s testing platforms simulate space conditions closer to Earth
+## Okta appoints Rohan Vaidya as Vice-President and General Manager, India
+Vaidya will lead Okta’s commercial strategy and operations in India
 
-## The difficulty of forgiving founders
-Which are the behaviours of leaders that people are willing to gloss over?
+## Sona Star Innovation launches 3D edutech platform for learning human anatomy
+SOBO Pal lets students navigate through a 3D model of the body, select any part to read or listen to its description, and pick up a fun fact along the wa
 
-## Nearly half of festive sales of smartphones were financed
+## ‘Petrol, diesel prices rose just 7% in India in four years versus 50-70% globally’
+Oil minister Hardeep Singh Puri said on Sunday that petrol and diesel prices in India had risen by just 7% over a four-year reference period, significantly less than the increase of 50-70% recorded in other parts of the world. He credited the relatively limited rise to three reductions in central ex
 
+## India, Vietnam to lead Asia-Pacific growth in 2027 as China slows: S&P
+India's economy is anticipated to grow by 7 percent in the upcoming financial years, maintaining its swift growth. S&P Global Ratings predicts India and Vietnam to lead the Asia-Pacific region's growth next year. The growth is supported by strong exports, public investment, and household consumption
 
-## Small Finance Banks reduce microfin loan portfolio after stress
+## Stock market crash today: Investors lose Rs 4 lakh crore; top reasons why BSE Sensex, Nifty50 are down
+Stock market crash today: The biggest reason for indices plunging is profit booking that has emerged after the recent record breaking run of stocks. Nifty has gained more than 10% and is on course to deliver its best monthly performance since 2020, prompting investors to lock in gains after the shar
 
-
-## China's $1.7 trillion AI rout turns hot trade into losing bet
-
-
-## Loans to micro firms have larger multiplier effect: RBI governor
-
-
-## Indian retail investors show strong interest in Anthropic
+## Rupee snaps five-day winning streak, falls 23 paise to 92.85 against US dollar
 
 
-## Tata Steel approves sale of tubes and pipes business
+## Stocks to buy: What's the outlook for Nifty, Bank Nifty this week?
+Stock market recommendations: PNB Housing Finance, RBL Bank have been picked as the top stocks to buy by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities on November 23, 2026.
+
+## Gold price prediction today: What's the gold outlook for November 23, 2026 week?
+Gold price prediction today: Gold is showing an initial recovery near Rs 1,24,330 after a sharp and prolonged correction from the February-March highs above Rs 1,60,000. However, the daily chart continues to reflect a distinctly bearish broader structure, with prices trading significantly below the 
+
+## What are the top stocks to buy for the November 23, 2026 week?
+Stock market recommendations: Adani Ports, and Poonawalla Fincorp - these are the top stocks to buy for the week starting November 23, 2026 by Motilal Oswal Wealth Management Research.
+
+## Tata Steel to acquire 26.6% promoter stake in APL Apollo for Rs 15,510 crore
 
 
-## Govt implements over 250 changes for deregulation
-Another 300 In Pipeline Based On Report By Gauba Panel
+## 'Lord Ram incomplete without Nepal': PM Modi, Balen Shah underline deep cultural, religious ties between nations
+During a press conference with Shah, PM Modi recalled his visit to Janakpur in 2018, where he said that Lord Ram was "incomplete without Nepal."
 
-## Go public or stay private: Tata Sons gears up for decision this week
-Board split on RBI prod for listing
+## Only BS-VI vehicles to ply in Delhi during winter: Supreme Court
+The court described the national capital’s relatively better air quality this November as a matter of good fortune
 
-## Amritsar grenade attack: US-based Happy Passia, 8 others declared proclaimed offenders
-Passia is associated with banned Babbar Khalsa International (BKI), and according to intelligence officials, he worked with both Lawrence Bishnoi’s network
+## India announces $1.6-billion package for Nepal as Modi, Balen Shah unveil joint vision to reset ties
+Modi acknowledged the changes in Nepal, which swept away traditional political parties, and the historic mandate given to Shah
 
-## Tamil Nadu moves SC seeking review of Nov 20 ‘Karthigai Deepam’ order
-The state’s Hindu Religious & Charitable Endowments (HR&CE) department filed the review petition on November 21.
+## Minister alleges political backing for Messi event deal, says probe will expose those responsible
+Minister alleges political backing for Messi event deal, says probe will expose those responsible
 
-## Delhi: Nursery admissions set to begin; schools to release point based criteria today
-The application process is set to begin on December 1, while the first and second lists of seat allotment are scheduled to be released on December 20
+## ‘Don’t act like Robin Hood or Bahubali’: SC rebukes Bihar judge for convicting cop
+The Supreme Court questioned Bihar sessions judge Anil Kumar’s decision to invoke the procedure for offences committed in the face of the court
 
-## Enforcement Directorate seeks Ravi Uppal’s extradition, to send request for 2 others in Mahadev app case
-The ED is preparing to send extradition requests for two more key players in the ₹6,000 crore online gambling syndicate — Shubham Soni and Anil Kumar Agarwal.
+## West Bengal to be renamed ‘Paschim Banga’; proposal to be tabled in assembly on December 9: CM Suvendu
+Once the proposal is passed by the West Bengal assembly, it will be sent to the Centre for its approval.
 
-## India, Iran hold bilateral meet; no formal talks with Pakistan on sidelines of SCO forum
-The three-day event was hosted by the Ministry of Culture and the Ministry of External Affairs.
+## Kerala High Court sets aside suspension of 16 Sree Sankaracharya University of Sanskrit students
+The Kerala High Court directed the university to arrange special examinations for the students within six weeks
 
-## No deal: COP31 talks fail over fossil fuel mention
-The summit’s proposed pact omitted an explicit fossil fuel transition commitment, prompting objections from the EU and others.
+## Balen Shah invites PM Modi to Nepal, urges Indians to visit Pashupatinath, other religious sites
+The two leaders held bilateral talks in New Delhi to review India-Nepal relations and explore avenues for strengthening cooperation across key sectors.
 
-## CPCB’s AQI method understates severity of Delhi’s worst pollution days
-HT's Calculations show Delhi’s air would have been “severe” on two days had the index been worked out as defined.
+## Why discounts, store closures may not be enough for Gucci as China’s luxury slowdown bites
+Gucci is cutting prices and closing stores in mainland China as sluggish demand, subdued consumer confidence and more discerning shoppers weigh on performance, according to the company and outside analysts. Among its latest moves, the Italian luxury brand cut its Padlock handbag price in France by 3
 
-## Eight killed as speeding minivan rams into roadside tree in Tamil Nadu's Tiruchirappalli
-Preliminary investigation revealed that the driver of the van, identified as Rajesh, lost control of the vehicle due to overspeeding
+## China stock support steadies market after AI-fuelled selling
+Chinese stocks stabilised on Monday as government support buttressed the market after a global artificial intelligence (AI) rout. The CSI300 Index closed little changed, after earlier falling as much as 1.3 per cent. Hong Kong’s benchmark Hang Seng Index and the Hang Seng Tech Index both fell about 
 
-## Trade connections raise appetite for dim sum bonds in Central Asia, Middle East: Citigroup
-More companies in Central Asia and the Middle East are issuing dim sum bonds – bonds denominated in Chinese yuan but issued outside China – because they need the Chinese currency to settle trades with mainland companies, according to bankers at Citigroup. Aveline San Pau-len, Citi Hong Kong’s CEO an
+## SC Invest helps newcomers get started, with nearly 90% of clients new or inactive fund investors
+[The content of this article has been produced by our advertising partner.] Making investing easier to navigate There is no shortage of ways to invest money these days. But for those taking their first steps into financial markets, comparing unfamiliar products, understanding the risks and deciding 
 
-## ‘Raising capital’: embattled New World accelerates urban redevelopment to boost cash flow
-New World Development has applied to the Lands Tribunal for a compulsory sale of a 64-year-old building on Pak Tai Street, To Kwa Wan, for commercial-residential redevelopment, according to market sources, after the developer met the 80 per cent ownership threshold five years ago. The subject of the
+## As brain-computer interface boom enters next phase, China pushes to shape global standards
+China will set up a new standard-setting task force for brain-computer interface (BCI) technologies, while a state-backed think tank has urged investors to remain patient as the nascent but increasingly crowded sector develops. The Ministry of Industry and Information Technology said it would create
 
-## Mainland China stock exchanges make moves to raise liquidity and activity to stem decline
-China rolled out a series of measures to lower the bar for stock trading on its major exchanges, part of an effort to stem a stock market decline amid a global rout. The China Securities Regulatory Commission approved the exchanges in Shanghai and Shenzhen to decrease the minimum margin ratio – the 
+## Embodied AI robot maker Changzhou Microintelligence lowers target in renewed Hong Kong IPO
+Changzhou Microintelligence is returning to the market a month after shelving its previous Hong Kong initial public offering (IPO), slashing its fundraising target by nearly 30 per cent and taking the rare step of allowing a 10 per cent downward pricing adjustment to lure cautious investors in a vol
 
-## Amid ‘sharp rise’ in US expansion, will mainland Chinese brands ditch Hong Kong?
-Chinese consumer brands are increasingly looking to the United States as a key expansion market, choosing retail spaces in gateway cities in the world’s largest economy, according to property consultancy Cushman & Wakefield. There was no official count for how many Chinese brands had established the
+## BYD pledges to fight EU sales ban in infringement battle with Jaguar Land Rover
+Chinese electric vehicle (EV) giant BYD will appeal a sales ban on one of its premium SUVs after a Dutch court ruled that it infringed on the design of the Jaguar Land Rover (JLR) Defender. “BYD strongly disagrees with the judgment and will appeal it,” the Chinese carmaker said in a statement. “The 
 
-## What tools does New World have to slash debts after its HK$24.9 billion rights issue?
-New World Development is turning to property sales, mainland real estate investment trusts and strategic investors for the next phase of its debt-reduction plan, as the embattled developer seeks to cut up to HK$50 billion (US$6.4 billion) in borrowings by the end of 2031 following a proposed HK$24.9
+## Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years
+Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 20
 
-## Recovery at last? Analysts divided on China’s home market outlook
-How long the property slump in mainland China will continue remains an ominous question for the world’s second-largest economy, where local governments’ fiscal revenue largely hinges on land sales. While economists agree that falling home prices – the “enemy within” for the economy – continue to wre
+## Major Japanese firms still rely heavily on China revenue amid Beijing-Tokyo rift: report
+Japanese companies continue to have significant exposure to the Chinese market, with some major manufacturers deriving more than one-third of their revenue from the mainland, even as diplomatic tensions between Beijing and Tokyo raise concerns over their business prospects. A recent report by Goldma
 
-## 2 veteran Chinese property tycoons turn to urban renewal amid prolonged downturn
-Two of China’s best-known property tycoons have made a comeback in recent months, turning their attention to renovating existing buildings and reviving established commercial properties. China Vanke founder Wang Shi, 75, and Dalian Wanda Group chairman Wang Jianlin, 72, have returned to the public e
+## Is It Time for Kyiv to Compromise?
+A Ukrainian parliamentarian makes the case.
 
-## Why Sam’s Club is selling down jackets for just US$60 in China: ‘hook product’
-As temperatures fall in China, shoppers are flocking to US retailer Sam’s Club to try and get their hands on a men’s down jacket on sale for just 399.9 yuan (US$60), as consumers turn to practical and wallet-friendly products amid an economic slowdown. The long black down coat from US brand Rokka&Ro
+## The Democratic Party’s Three Conflicting Camps on AI
+Call them the restrainers, the riders, and the racers.
 
 ## Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
 The founding father of the conservative movement’s pick was very different from Trump’s.
@@ -153,11 +159,14 @@ Hollywood seems oblivious to the radically new nature of war. Why, exactly?
 ## What in the World?
 Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.
 
-## After ‘Wild Horse Nine,’ 5 of the Best Movies About the CIA
-Listed in order from least to most zany.
+## How ASEAN Responded to the ICJ’s Myanmar Genocide Ruling
+The region's response to the landmark November 19 judgment against Naypyidaw has been muted.
 
-## Why BAAJA Matters
-Ones and Tooze on permitting reform and what that means for U.S. energy production.
+## Diplomacy or Transparency? Philippine Officials Consider Approach Amid Rising China Tension
+A recent DFA statement revealed differences within the country's Cabinet on how best to respond to the ongoing maritime disputes with Beijing.
+
+## Mongolia’s Foreign Policy Doctrine and the ‘Third Neighbor’
+A look at the history behind the Third Neighbor policy
 
 ## A Moment of New Hope for the Rohingya Community
 Rohingya refugees who have spent nearly a decade in crowded camps finally see justice with the ICJ's ruling. Now they are hoping for meaningful action that will allow them to return home.
@@ -174,14 +183,11 @@ Your guide to the most competitive races – and the ones that could impact the 
 ## China Is Investing in Africa’s Factory Moment. Will It Stay?
 Chinese companies are increasing investments in African manufacturing and processing. Will they also buy from local suppliers and train local engineers?
 
-## Uzbekistan’s Energy Sector Faces the Perfect Storm
-The way forward requires immense investment. But international investors need legal certainty and protection from political interference.
+## China’s Growing Ambitions in Very Low Earth Orbit
+A new front in the U.S.-Chinese space race is emerging in the lowest reaches of space: very low Earth orbit, the untapped orbital regime below 320 kilometers. There, China is laying the groundwork for a significant presence, with announced plans for more than 2,200 satellites and an aggressive deplo
 
-## China’s Downstream Nations Need a Collective Voice
-Across Asia’s river basins, upper-riparian infrastructure proceeds unilaterally, without consultation to downstream states. China’s mega-dam in Tibet is just the latest example.
-
-## ICJ’s Genocide Verdict on Myanmar and the Ramifications for Israel
-Legal experts warn of a potential backlash against the ICJ after its Rohingya ruling.
+## The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence
+Artificial intelligence poses the greatest challenge to American civil-military relations since the advent of the nuclear bomb. AI plays outside the political bounds that contain other challenges, however odious. It compounds the inherent problem of civil-military relations – aligning the state and 
 
 ## What Ukraine Hath Wrought: Lessons for War, If We’re Listening
 Four years into Russia’s war against Ukraine, what should the U.S. military have learned by now? Michael Kofman (Carnegie Endowment), Dara Massicot (Carnegie Endowment), and Amos Fox (Arizona State University) join Ryan to discuss. The easy answer is drones and AI, but our guests argue the harder tr
@@ -200,12 +206,6 @@ The dominance of the U.S. dollar is a crucial source of American global power. T
 
 ## The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation
 For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on the future of trans-Atlantic defense cooperation following the U.S. midterm elections. Participating experts from the United Kingdom, continental Europe, and the United States bring
-
-## The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks
-U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders’ summit is set to take place in Shenzhen, with nuclear issues potentially on the agenda. Regardless of whether the sum
-
-## Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan
-In 2025, Joel Wuthnow wrote “How China Could Counter U.S. Intervention in War Over Taiwan,” arguing that Beijing’s best option might be to deter Washington from coming to Taiwan’s aid by raising the risks to the U.S. homeland. A year and a half later, we asked him to revisit that argument.Image: Lan
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +231,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Poland says Russia tried to assassinate Ukrainian rapper twice
-Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.
+## Why is Bangladesh’s Grameen Bank under attack?
+Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.
 
-## Libya’s military says ‘fully prepared’ after Benghazi attacks
-Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.
+## Occupied West Bank ‘military zones’ become de facto Israeli settler land
+Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.
 
-## Israeli forces continue house demolitions in southern Lebanon
-Israeli forces continue house demolitions in southern Lebanon
+## Thousands displaced after deadly storm hits Brazil town
+A powerful supercell storm devastated the Brazilian town of Tupancireta.
 
-## WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region
-Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.
+## At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks
+Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.
 
-## Asian stock markets tumble as AI bubble fears mount
-Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.
+## Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
+Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
 
-## Cameroon’s ex-rebels caught between hiding and broken promises
-Cameroon’s former rebels face arrest fears and failed reintegration.
+## Zelenskyy says Ukraine behind attacks on Russian ships near Libya
+Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.
 
-## Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat
-Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.
+## ‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza
+A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.
 
-## Mystery of the red stream in Turkiye
-The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.
+## Artificial superintelligence ‘arriving’, warns top Meta executive
+Meta Chief AI Officer Alexandr Wang says humankind's actions over next year will have 'great consequence' for the world.
+
+## Maruti, Coca-Cola, Wipro CFOs outline blueprint for future-ready finance teams
+At the inaugural ETCFO Annual Conclave 2026, CFOs from Maruti Suzuki, Coca-Cola and Wipro Enterprises discussed how digital skills, continuous learning and cross-functional expertise are reshaping finance teams.
+
+## CBIC's draft GST proposal aims to protect genuine buyers from input tax credit loss
+In a bid to protect genuine buyers from losing input tax credit (ITC) owing to invalid credit claims by suppliers, the Central Board of Indirect Taxes and Customs (CBIC) is proposing draft amendments in the Goods and Services Tax (GST) law.
+
+## CII lists 15 priority reforms to finance $26.5 trillion economy in 2047
+Leading industry chamber CII on Sunday called for 15 priority reforms across banking, non-banking finance, capital markets, insurance and financial technology, ahead of the Union Budget 2027-28 and help build a $26.5 trillion economy in 2047.
+
+## IPO readiness must begin before listing, with governance and investor trust at the core, say newgen firm CFOs
+At the inaugural ETCFO Annual Conclave 2026 finance leaders from Ather Energy, PhysicsWallah and FirstCry said companies must establish robust controls, simplify capital structures and build credible investor narratives well before approaching the capital markets.
 
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
@@ -261,23 +273,14 @@ Battery Smart has appointed Rahul Agarwal as its chief financial officer to prep
 ## Poorly designed compliance raises costs without reducing risks: CFOs
 Finance leaders from Hero MotoCorp, Eicher Motors, Coromandel International and DBS Bank India call for technology-led controls, stronger cyber resilience and more informed risk-taking at the ETCFO Annual Conclave 2026.
 
-## IPO readiness must begin before listing, with governance and investor trust at the core, say newgen firm CFOs
-At the inaugural ETCFO Annual Conclave 2026 finance leaders from Ather Energy, PhysicsWallah and FirstCry said companies must establish robust controls, simplify capital structures and build credible investor narratives well before approaching the capital markets.
-
 ## Skill gaps, labour shortages threaten India's growth ambitions, industry leaders warn
 Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skill gaps and competition for global capital as key constraints on India's growth ambitions.
 
 ## CFO-board partnership must evolve from governance to value creation: Finance leaders
 At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directors Giridhar Sanjeevi and Sugata Sircar, alongside Biocon CFO Kedar Upadhye, highlighted how trust, transparent communication and constructive challenges between CFOs and independent directors can strengthen strategic dec
 
-## CFOs must move beyond financial stewardship to become strategic growth enablers: Industry leaders
-At the inaugural ETCFO Annual Conclave 2026, finance leaders from Mazagon Dock Shipbuilders, Indian Railway Finance Corporation and Deutsche Bank, alongside PwC India, discussed how the CFO's role is expanding beyond financial reporting to encompass business strategy, technology transformation, risk
-
-## India's growth resilient amid global shocks, but inflation and AI disruption pose new risks: Crisil's Dharmakirti Joshi
-Speaking at the inaugural ETCFO Annual Conclave 2026, Crisil Chief Economist Dharmakirti Joshi projected India's GDP growth at around 7% in FY27 despite geopolitical tensions, rising input costs and climate-related disruptions. He highlighted the implications of AI, capital flows and changing global
-
-## How JSW Steel, Dr Reddy’s, Mankind Pharma are fine-tuning AI investments
-At the inaugural ETCFO Annual Conclave 2026, finance leaders from JSW Steel, Dr. Reddy's Laboratories, Mankind Pharma, ClearTax and Ripple Treasury discussed how enterprises are balancing AI investments with financial returns, operational efficiency and long-term transformation. The discussion highl
+## New CPI series to make inflation readings less volatile, reduce uncertainty in monetary policy: RBI Dy Governor Poonam Gupta
+The revised Consumer Price Index (CPI) series is expected to make headline inflation less volatile and reduce uncertainty in monetary policy decisions, as the weight of food and beverages has declined to less than 37 per cent from nearly 46 per cent, Reserve Bank of India (RBI) Deputy Governor Poona
 
 ## Sebi plans consultation paper to remove FPI constraints absent in other markets
 SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five 
@@ -299,7 +302,4 @@ The Reserve Bank of India (RBI) on Tuesday announced the premature redemption pr
 
 ## FM Sitharaman chairs third pre-Budget consultation with manufacturing sector leaders ahead of Union Budget 2027-28
 Union Finance and Corporate Affairs Minister Nirmala Sitharaman on Tuesday chaired the third pre-Budget consultation meeting with experts and industry leaders as part of preparations for the forthcoming Union Budget 2027-28, the Ministry of Finance said in a statement.
-
-## RBI may hike repo rate by 25 bps each during next 2 MPC reviews as inflation rises: Report
-With the headline inflation breaching the RBI's 6 per cent upper tolerance band for the first time in the new series, the Central Bank is likely to hike repo rate by 25 bps each during the December and February monetary policy committee (MPC) reviews, a report showed on Tuesday.
 
