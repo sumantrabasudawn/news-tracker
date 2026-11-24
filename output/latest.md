@@ -1,55 +1,88 @@
 # AION Intelligence
 
-## Tech stocks surge on Jensen Huang’s return
-Asian markets follow Wall Street higher after Nvidia chief’s reinstatement
+## Burnham warned disability benefits review risks increasing £40bn bill
+Government will seek to reconcile recommendations in paper by Stephen Timms with separate report last week by Alan Milburn
 
-## The Jensen put
-Plus, Capex or die trying
+## EU warns France and Belgium to put public finances on ‘sustainable path’
+Commission also warns Berlin it could face additional monitoring next year owing to excessive public spending
 
-## Singapore is no backdoor for US chips, PM says
-Lawrence Wong vows city-state will not let companies break law by circumventing export controls
+## Venezuela unveils $240bn debt pile ahead of historic restructuring
+Finance ministry publishes ‘clear and credible’ economic plan 10 months after US removed Nicolás Maduro from power
 
-## German industrial giants launch trading house for rare earths
-Also in this newsletter: Europe’s underused playing card on AI
+## Anthropic falls below IPO price as tech rally fades
+Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides
 
-## FirstFT: Inside Jensen Huang’s return to power
-Also in today’s newsletter: fake explosives and Patriot shipments
+## The Afronauts — Ryan Calais Cameron’s entertaining play takes on Zambia’s place in the space race
+The ‘true-ish’ tale of Edward Mukuka Nkoloso’s cash-strapped space programme gets a fascinating treatment at London’s Royal Court
 
-## EU to seek changes to UN climate talks process after COP failure
-Acrimony and finger-pointing over the breakdown comes after a year of increasingly extreme climate disasters
+## Court ruling hands African football trophy back to Senegal
+Decision by Cas, the highest judicial body in world sport, comes after the country’s contentious victory over Morocco was overturned earlier this year
 
-## Disability benefits review to reject tougher rules despite soaring costs
-Government will seek to reconcile recommendations in paper by Sir Stephen Timms with separate report last week by Alan Milburn
+## Trump readies raft of new tariffs on major economies
+China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy
 
-## Committee of MPs set to criticise Heathrow’s third runway plan
-Scheme will damage the environment while providing limited economic gain, report into £33bn project says
+## Houthi attack on Riyadh’s PIF Tower injures 11
+Strike on Saudi sovereign wealth fund HQ came as kingdom unveiled first budget since conflict with Iran-backed rebels restarted
 
-## The non-league football club at the centre of a boardroom battle
-The Auction Technology Group directors with a hand in The Beavers, versus the activist shareholder who’s putting them in an uncomfortable position
+## Ex-Petrofac executives accused of paying millions to win $3.4bn of contracts
+Marwan Chedid and George Salibi are on trial for involvement in alleged bribery for UAE oil and gas deals between 2012 and 2018
 
-## Coal Ministry issues guidelines for mining, mine closure plans
-The guidelines provide an outcome-oriented framework for systematic and scientific mine planning and mine closure
+## Black Friday Sale Now On
+It’s an Anthropic PBC blowout sale, and everything must go
 
-## NLC India incorporates JV with NALCO for 1,080 MW captive power plant
-NNPPL has an authorised share capital of ₹15,00,000 divided into 1,50,000 Equity Shares of ₹10 each
+## BioNTech founders to raise $1bn for cancer start-up
+Plural leads funding round for oncology company to be helmed by Uğur Şahin and Özlem Türeci
 
-## Gold holds gain after Nvidia’s rehiring of Huang sparks rally
-Bullion was little changed near $3,630 an ounce on Tuesday, after a brief spike higher in early trading
+## Ratcliffe’s Ineos in talks to sell French car plant to BYD in US production shift
+Struggling carmaker has sought to build Grenadier off-roader in US for more than a year in response to tariffs
 
-## Gold ticks up on bargain buying; US inflation data awaited
-Spot gold rose 0.3% to $3,643.47/oz by 0248 GMT after hitting a September 2025 low on Friday; US gold futures fell 0.2% to $3,642.90
+## Banks regain some ground in the private credit tug of war
+For borrowers, the coexistence of bank and non-bank lenders is creating a window of opporunity
 
-## India-EU free trade pact to open new opportunities for trade, investment: German state leader
-Negotiations for an FTA between India and the 27-member bloc concluded in January, and the agreement is expected to be signed in December
+## MI5 warns UK companies supplying Ukraine military about Russian sabotage risk
+Acts could include arson attacks carried out by proxy agents, say security chiefs
 
-## Malaysia tells data centers to cut off firms on US blacklist
-Kuala Lumpur moves to tighten oversight after Washington blacklists seven Southeast Asian companies over concerns about technology export controls and AI chip diversion.
+## Is the SEC cutting red tape or torching safeguards?
+The slimmed-down proposal will please corporate executives, but what about shareholders?
 
-## No email, no payments, no cloud: could your workplace survive a digital blackout?
-The chain of interconnected systems that drive business productivity and growth also hides our dependency on these systems
+## US weighs new import duties on India, China and 14 other trading partners
+The proposed duties could add to existing trade barriers, with tariff rates and possible exemptions yet to be determined by Washington.
 
-## Dairy firm Doodhvale to expand operations to western and central India
-The New Delhi-based firm sees potential in selling ghee abroad and is looking at North America, says co-founder and CEO Aman Jain
+## Tamil Nadu to announce 70 investment deals worth over ₹50,000 crore
+The Chennai investor conclave will also feature foundation stone layings and project inaugurations across manufacturing, clean energy, electronics and textiles
+
+## VinGroup plans aggressive expansion in real estate, hospitality businesses in India
+The company is in discussions with various State governments to acquire land, Tapan Ghosh, CEO, VinFast Asia, told businessline
+
+## Microsoft declares Code Red after 24-hour outage disrupts Outlook, Teams and other services
+The company is tightening engineering controls, speeding up software fixes and deploying AI agents to improve diagnosis and recovery during future disruptions
+
+## Sarvam AI launches document extraction API, supports files up to 500 pages
+The new enterprise tool uses AI to identify relevant pages, extract information and return verifiable structured data from lengthy documents
+
+## Auto PLI payouts hit ₹4,365 crore so far in FY27
+The acceleration comes even as nearly 74% of the total outlay remains undisbursed ahead of its scheduled conclusion in FY28
+
+## The India growth story to remain intact amid challenges
+Firm consumer demand, improving private investment and diversified exports are providing support to India’s economic outlook amid persistent inflationary pressures
+
+## Tata Steel-APL Apollo deal under governance, valuation lens
+Corporate observers also describe the transaction ‘hostile to shareholder interests’
+
+## Trump weighs tariffs: India could face higher rates; China likely to face steeper levies
+US Trade Representative Jamieson Greer is expected to announce the findings of a months-long investigation into industrial subsidies provided by China, the European Union and 14 other countries as early as this week, according to sources quoted in the report. They cautioned, however, that the timing
+
+## India's first bullet train targets May 2027 trials on 50-km Gujarat stretch
+Vaishnaw said the high-speed rail corridor would become operational in stages, rather than being opened along its entire length at one time. Under the proposed schedule, the Ahmedabad-Vapi section is expected to be completed by the end of 2027. The bullet train service is targeted to extend to Thane
+
+## Year-round tax planning for salaried employees: a 12-month approach explained
+The most consequential decision is which tax regime to use. The new regime, now the default, offers lower rates across wider slabs but withdraws most deductions. The old regime keeps higher rates but allows house rent allowance, Section 80C investments, health insurance under Section 80D, home-loan 
+
+## Elon Musk's SpaceX and Tesla entrusts five directors for merger talks: Reports
+
+
+## Coca-Cola set to revive Gold Spot 26 years after dropping it for Fanta
+Gold Spot, which was promoted with the tagline ‘zing thing’, was withdrawn by Coca-Cola in 2000 as the company sought to make way for Fanta. Unlike colas, which account for the bulk of the Rs 60,000 crore aerated drinks market, orange-flavoured beverages represent a relatively small share of overall
 
 ## Are banks open or closed today? Check state-wise list of upcoming holidays
 
@@ -60,68 +93,83 @@ The New Delhi-based firm sees potential in selling ghee abroad and is looking at
 ## Property seller takes Rs 6.75 lakh cash payment, faces 100% penalty; ITAT cancels it
 The man faced action from the Income Tax Department after he sold his residential property for Rs 32 lakh to a senior citizen. The issue arose when the property seller accepted Rs 6.75 lakh of the sale consideration in cash, with the balance being paid into his bank account. The payment arrangement 
 
-## Brookfield to buy PGP Glass from Blackstone for $1.7 billion
+## Akhilesh asks Congress to send list of winnable seats beyond 26 discussed, urges to fight UP polls as INDIA bloc
+The SP chief said discussions between senior leaders should focus on candidates representing the INDIA bloc rather than individual parties.
+
+## SP releases first list of 5 candidates for UP Assembly polls amid seat-sharing talks
+Samajwadi Party's first list of five candidates was announced on Tuesday, naming nominees for constituencies across Saharanpur, Shamli, Amroha and Lalitpur.
+
+## SC defers Asaram’s rape conviction appeal hearing to January 19, 2027
+A bench of justices JB Pardiwala and K Vinod Chandran said, “Four more weeks’ time is granted to the high court to transmit the record to this court
+
+## SP-Congress talks ‘began with 26 seats, will move forward’: Akhilesh signals unity amid UP seat-sharing discussions
+The Congress and SP held detailed, seat-by-seat discussions on Tuesday, with the SP offering 26 seats to its INDIA bloc ally
+
+## Indians among 13 killed in UAE bus-truck accident; Indian consulate assures all possible assistance
+The consulate is coordinating with local authorities to provide all possible assistance, while further details of the accident are being ascertained.
+
+## Over 20 houses damaged in Uttarkashi fire; CM Dhami orders swift relief operations
+Chief minister Pushkar Singh Dhami expressed grief over the fire in Mori tehsil and directed officials to expedite rescue and relief operations
+
+## 'Age-old customs': Temple board defends lighting of Karthigai Deepam at usual spot despite SC order
+The board said it was unanimously resolved that the lamp must be lit at the customary spot where it is usually lit and age old customs must be protected.
+
+## Keralam seeks Centre’s intervention to get pure petrol samples for E20 tests
+The minister said there was a standard procedure for testing ethanol content in blended petrol using a comparative analysis of 100% pure petrol samples
+
+## 5.6 lakh consumers in Delhi clear water bills, Rs 3,618 cr in penalties written off
 
 
-## Tata Steel to buy promoter stake in APL Apollo Tubes
+## SMAT 2026: 181 reasons to watch Priyansh Arya as he rewrites T20 record books
 
 
-## Govt working to resolve Scotch issue: Commerce secretary
+## Gukesh holds Sindarov to a draw in 2026 World Chess Championship opener
 
 
-## IDBI not govt bank: SC; staff interest protected: Centre
+## Manchester United defender Leny Yoro’s red card overturned
 
 
-## Chaudhry's new high as CrowdStrike buys Zscaler
-$43Bn Deal Puts Serial Tech Entrepreneur From Himachal Pradesh In Global Spotlight
+## Inside Ladakhi homes: The clever design that keeps them warm in extreme winters
 
-## How Keralam teen's disclosure about 'spurious' fairness cream propels statewide govt action
-Dermatologists in the state are cautioning the public about using unauthorised cosmetic products that promise instant relief and action.
 
-## Opposition seeks clarity on Parliament’s winter session, typically held in November
-Congress’s Gaurav Gogoi said the delay in convening the session shows the absolute disrespect for the people of India
+## ISRO aims to end the year with first operational launch of SSLV
 
-## Coca-Cola plans Gold Spot comeback after 26 years, may launch low-sugar variant: Report
-Coca-Cola is reportedly planning to revive Gold Spot in a low-sugar or sugar-free variant after 26 years. A teaser featuring MS Dhoni has fuelled speculation.
 
-## BJP, Akali Dal likely to announce Punjab alliance today
-Union home minister Amit Shah, BJP president Nitin Nabin and SAD president Sukhbir Singh Badal are likely to formally announce the alliance.
+## Trump weighs killing Iran’s top leaders as war enters ninth month: Report
 
-## Rahul Gandhi says Rajiv Gandhi's security was removed ‘so that he could be killed’
-Rahul Gandhi also recalled how Sonia Gandhi used go around their house checking the security and the barbed wires.
 
-## Camels in Manipur for BSF event trigger curiosity; residents queue up for rare glimpse
-The camels were brought from the edge of the Thar Desert in Rajasthan for the BSF’s 62nd Raising Day celebrations
+## After 63 years of inception, first major overhaul for MCD-run hospital in East Delhi
 
-## ‘Kept in dark about elephant relocation’: Congress MLA Nayana Motamma on resignation
-Congress MLA Nayana Motamma said the forest department had initiated the elephant-driving operation without consulting the elected representatives
 
-## ED arrests fake doctor in ₹200 crore healthcare-related CSR scam
-Using alleged dubious representation, the accused set up and ran a network of charitable trusts purportedly engaged in healthcare-focused CSR activities
+## Xiaomi profits plunge 57% as EV and smartphone headwinds bite
+Xiaomi’s adjusted net profit more than halved in the third quarter of the year as rising memory costs squeezed its smartphone business and sales of its electric cars weakened, with executives warning that pressure on handset makers would persist into next year. The Chinese tech giant’s adjusted net 
+
+## Rent hikes, low supply in Hong Kong’s CBD sees banks, tech firms heading for West Kowloon
+Rising Central rents and tightening supply are driving a renewed wave of office decentralisation, with West Kowloon standing as the primary destination for investment banks, tech majors and mainland Chinese asset managers, according to a new report by Knight Frank. The property consultancy’s analysi
+
+## Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs
+Dutch Foreign Minister Tom Berendsen’s visit to China this week comes amid a shifting dynamic in the Netherlands’ efforts to fend off further US restrictions on ASML sales to Beijing following the Nvidia saga, analysts say, with some suggesting it could strengthen the Dutch case against the proposed
+
+## MPF members hitting ‘panic switch’ to ditch US stocks amid volatility: Manulife
+Manulife, the city’s largest Mandatory Provident Fund (MPF) provider with a market share of 28 per cent, has found that some members are shifting away from US stock funds amid market volatility, according to a senior executive. The big swing in the US stock market recently had led some members to hi
+
+## Chinese drug stocks sink as US lawmakers threaten curbs on cross-border collaboration
+Chinese healthcare stocks fell on Tuesday amid intensifying threats from Washington, where lawmakers warned about the US drug industry’s “dangerous dependence” on China and urged restrictions on cross-border collaboration. “We cannot allow China to get ahead and control drug development, or it will 
 
 ## BlackRock taps Hong Kong stablecoins for new money market fund
 US asset manager BlackRock has launched its first tokenised money market fund in Hong Kong and the Asia-Pacific region, allowing investors to subscribe using a newly issued local stablecoin as the city pushes ahead with its digital asset ambitions. Professional investors can now use digital cash, in
 
-## Cathie Wood’s Nvidia bet misses 32% rally on Jensen Huang’s return
+## Cathie Wood’s Nvidia bet misses the 31% rally on Jensen Huang’s return
 Cathie Wood’s decision to dump almost US$107 million worth of Nvidia shares over fears about the company’s leadership with Jensen Huang’s departure has backfired, after the chipmaker’s decision to reinstate Huang sent shares to their biggest single-day rally in years. Ark Investment Management, the 
 
 ## ‘Smart money’ eyes dim sum bonds as alternatives to US dollar assets, ChinaAMC (HK) says
 China Asset Management (Hong Kong) expects global investors to increasingly turn to Hong Kong’s dim sum bond market as they seek to diversify away from US dollar assets, with the market projected to grow to between 10 trillion yuan (US$1.5 trillion) and 15 trillion yuan by 2030, its chief executive 
 
-## Global citizen navigates opportunities with flexible mindset
-The life of a global citizen with multiple business interests demands the ability to constantly switch perspectives as well as handle the physical and mental shifts between different cities, languages and cultures. Suffice to say, it can be complex and time-consuming. Shenzhen-born Lin Yingxi descri
+## Risk and Reward Along Africa’s Red Sea Littoral
+What the arrival of Middle Eastern rivalries means for Somaliland, Puntland, and Eritrea.
 
-## Yuan’s uneven global growth
-–
-
-## Hong Kong stocks advance as Jensen Huang’s surprising comeback revives AI trade
-Hong Kong stocks advanced on Tuesday, as the return of Jensen Huang to Nvidia sparked buying interest and reignited the artificial intelligence (AI) trade. The Hang Seng Index gained 0.3 per cent to 22,450.82 as of 10.33am local time, and the Hang Seng Tech Index added 0.2 per cent. Chinese mainland
-
-## Meet the robots: China’s 6 top humanoid developers vie for market share
-Shenzhen captured the world’s attention last week as the host city of this year’s Asia-Pacific Economic Cooperation (Apec) summit. Much of the discussion around Apec focused on the city’s transformation in just a few decades from a fishing village into what is now a hi-tech innovation hub, with one 
-
-## China shifts property funding to projects. Who benefits and who misses out?
-China is allowing more corporate bond proceeds to flow directly into residential projects, but recent approvals suggest access to funding remains concentrated among stronger developers as investment and home sales contract. Three state-backed developers have recently secured approval for bond issues
+## Spinning Genocide
+Two new books explore the chasm between rhetoric and reality in Gaza.
 
 ## Nvidia Is Now Too Big to Hold to Account
 Jensen Huang and the broader AI sector represent an enormous risk for the entire public.
@@ -141,11 +189,11 @@ The country’s push for renewables fell short—and now it’s paying the price
 ## Is It Time for Kyiv to Compromise?
 A Ukrainian parliamentarian makes the case.
 
-## The Democratic Party’s Three Conflicting Camps on AI
-Call them the restrainers, the riders, and the racers.
+## UK Announces Fresh Myanmar Sanctions Following ICJ Genocide Ruling
+London said that it would work with international partners "to ensure that this judgment leads to meaningful action and renewed international pressure.”
 
-## Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
-The founding father of the conservative movement’s pick was very different from Trump’s.
+## Indonesia’s Prabowo Names 2 Cabinet Members as Vice-Presidential Candidates
+Agriculture Minister Andi Amran Sulaiman and former Foreign Minister Sugiono are in line to replace Gibran Rakabuming Raka, who resigned on November 12.
 
 ## The Never-Ending China-US Story
 From Trump to Biden and back again, Washington keeps talking about apparent turning points. Yet the main problems remain unresolved.
@@ -165,11 +213,14 @@ The races are not about cross-strait relations – but Beijing has a rooting int
 ## South Korea Cannot Police Its Way Out of AI Cheating
 The top scorer on the tax exam confessed to AI cheating, and 111 more alleged cases surfaced at the college entrance exam. Given South Korea's exam-heavy education system, it's nothing short of a crisis.
 
-## Japan’s Shenzhen Snub: Why a Thaw Looks Unlikely Under Takaichi and Xi
-China’s cold reception for Japan’s prime minister makes it difficult for either leader to back down.
+## Winners and Losers from the Shenzhen Summit
+On Nov. 19, while attending the Asia-Pacific Economic Cooperation meeting, U.S. President Donald Trump, Chinese General Secretary Xi Jinping, and Russian President Vladimir Putin gathered in Shenzhen for a historic summit. The final statement from the three leaders included four points: reforming th
 
-## The Paradox of Takaichi’s Popularity
-Takaichi continues to enjoy a healthy approval rating, despite controversy over some of her policy moves.
+## Battlefield Power Is Running Short
+Drones, counter-drone systems, electronic warfare, and edge computing all run on power. Soldiers need more of it, in more places, farther from their supply lines than ever before. How will the Army get it to them? Alex Miller (U.S. Army), Ben Kesling (Chariot Defense), Julie Bush (Valinor Enterprise
+
+## The Game Is the Easy Part: Measuring Military Strategic Judgment
+If a colonel and a Navy captain made the same decisions for the same reasons in a graded wargame, would they get the same score? This question stopped being an academic thought experiment on Nov. 9, 2026. Speaking at the Naval War College, Secretary of Defense Pete Hegseth announced that “competitiv
 
 ## While Shenzhen Talked, Berlin Pulled Up a Chair: Europe’s Generational Bet on Itself and Ukraine
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -185,15 +236,6 @@ Four years into Russia’s war against Ukraine, what should the U.S. military ha
 
 ## Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo
 In conversations with law enforcement and security professionals, one view has repeatedly emerged: Aum Shinrikyo’s failed biological weapons program in the early 1990s shows that the risk of bioterrorism is overstated, despite warnings about AI-assisted bioterrorism and calls for enhanced preparedne
-
-## Handshakes Without Headway
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a loop, with no indication that they are engaged in talks — although Ira
-
-## The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age
-Commercial cloud architecture has made digital infrastructure more resilient to localized disruption. Geographic dispersion, workload migration, and failover have allowed providers to preserve access in instances of degradation or even destruction. Yet, underpinning this resiliency are interlocking 
-
-## Is Dollar Dominance in Decline?
-The dominance of the U.S. dollar is a crucial source of American global power. The dollar’s widespread use, strength, and reliability provide major economic advantages for the United States, enable U.S. sanctions to have real bite, and significantly boost U.S. influence abroad. For America’s adversa
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -219,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Nvidia live: Markets surge as Jensen Huang returns as CEO
-Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.
+## Colombia at a Crossroads: Searching for peace amid conflict
+A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.
 
-## Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups
-Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.
+## Should freedom of movement be a right or a privilege?
+Is freedom of movement a right or a privilege?
 
-## Pennsylvania reports ninth measles death in ongoing state outbreak
-CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.
+## Cameroon separatist leader pleads not guilty at war crimes trial in Norway
+Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.
 
-## Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents
-Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.
+## Five tonnes of explosives set to blow up in Iowa
+The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.
 
-## Car bomb strikes governor’s office in Meta, Colombia
-A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.
+## US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact
+Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.
 
-## India’s best known bottled water under scrutiny
-India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.
+## After Libya, where will Ukraine strike Russia next?
+From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.
 
-## WHO chief visits Cuba as healthcare system deteriorates
-Analysts say fuel shortages blamed on US sanctions are worsening the crisis.
+## How Senegal got their AFCON trophy back
+Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.
 
-## Mexico to try ‘El Chapo Isidro’ despite US extradition request
-Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.
+## ‘Unfinished Beginnings’: Art installation for children affected by war
+Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.
 
 ## Insolvency framework should be responsive to dynamic needs of economy: Official
 Regarding the Insolvency and Bankruptcy Code (IBC), Corporate Affairs Secretary Pallavi Jain Govil also said that further reforms and processes are on the way.
@@ -267,6 +309,12 @@ Finance leaders from Hero MotoCorp, Eicher Motors, Coromandel International and 
 ## Skill gaps, labour shortages threaten India's growth ambitions, industry leaders warn
 Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skill gaps and competition for global capital as key constraints on India's growth ambitions.
 
+## SBI says 25 bps rate hike may be enough, cautions RBI amid calls for jumbo 50 bps hike
+The Reserve Bank of India (RBI) should consider a 25 basis points rate hike in its December monetary policy instead of a jumbo 50 bps increase, as an aggressive move could trigger capital outflows, currency instability and concerns over economic growth, according to a report by the State Bank of Ind
+
+## Sebi warns against IPO grey market premium
+Sebi has alerted investors about the risks associated with grey market premiums for IPOs. The regulator highlighted that trading based on these premiums occurs on unverified platforms, lacking necessary oversight and investor protection. Investors are strongly encouraged to avoid transactions linked
+
 ## RBI mandates demat holding of securitisation notes, extends Rs 1 crore minimum ticket size to transfers
 The revised directions, applicable to commercial banks, small finance banks, NBFCs and All India Financial Institutions from April 1, 2027, also require public offers of securitisation notes to comply with SEBI regulations and extend the new requirements to existing issuances.
 
@@ -284,10 +332,4 @@ The Securities and Exchange Board of India (SEBI) is exploring the possibility o
 
 ## SEBI preparing guidelines for responsible AI use in capital markets, including disclosures and accountability: KVR Murty
 The Securities and Exchange Board of India (SEBI) is preparing to issue guidelines for the responsible use of artificial intelligence (AI) in capital markets, including disclosures and accountability requirements for related entities, SEBI Whole Time Member (WTM) KVR Murty said on Thursday.
-
-## SEBI resolves 5,975 investor complaints via SCORES in October 2026
-The Securities and Exchange Board of India (SEBI) disposed of 5,975 investor complaints during October 2026 through the SEBI Complaint Redressal System (SCORES), according to data sourced from SEBI.
-
-## SEBI rules out immediate 24x7 trading, says equity tokenisation unfeasible at current scale: Chairman Tuhin Kanta Pandey
-Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday ruled out an immediate move towards 24x7 stock market trading, citing cybersecurity risks, fragmented liquidity and investor fatigue. He also said extending tokenisation to equity markets was currently unfeasible 
 
