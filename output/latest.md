@@ -1,133 +1,130 @@
 # AION Intelligence
 
-## Nasdaq jumps 7% as Nvidia shares soar
-Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%
+## Tech stocks surge on Jensen Huang’s return
+Asian markets follow Wall Street higher after Nvidia chief’s reinstatement
 
-## Nvidia gains nearly $1tn in value after Jensen Huang reinstated
-Interim chief and senior management were unaware of the discussions over the weekend
+## The Jensen put
+Plus, Capex or die trying
 
-## US lawmakers vow to sharpen Huang probes as he returns to Nvidia
-Democrats and Republicans insist tech CEO must testify in public
+## Singapore is no backdoor for US chips, PM says
+Lawrence Wong vows city-state will not let companies break law by circumventing export controls
 
-## ‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham
-Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc
+## German industrial giants launch trading house for rare earths
+Also in this newsletter: Europe’s underused playing card on AI
 
-## Nvidia reinstates Jensen Huang as chief executive
-Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring
+## FirstFT: Inside Jensen Huang’s return to power
+Also in today’s newsletter: fake explosives and Patriot shipments
 
-## UK government steps up its war against quangos
-Louise Haigh says reforming arm’s-length bodies a crucial part in rewiring the state
+## EU to seek changes to UN climate talks process after COP failure
+Acrimony and finger-pointing over the breakdown comes after a year of increasingly extreme climate disasters
 
-## Russian soldiers twice as likely to die by suicide than civilians
-FT analysis of leaked records suggests number of those taking their own lives has risen during the Ukraine war
+## Disability benefits review to reject tougher rules despite soaring costs
+Government will seek to reconcile recommendations in paper by Sir Stephen Timms with separate report last week by Alan Milburn
 
-## Russia poised to put nuclear weapon in space within 60 days, Germany warns
-Berlin is ‘taking seriously’ intelligence reports shared by western allies that Moscow could deploy ‘Sputnik-S’ armed satellite as soon as next month
+## Committee of MPs set to criticise Heathrow’s third runway plan
+Scheme will damage the environment while providing limited economic gain, report into £33bn project says
 
-## The startling return of Jensen Huang
-Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent
+## The non-league football club at the centre of a boardroom battle
+The Auction Technology Group directors with a hand in The Beavers, versus the activist shareholder who’s putting them in an uncomfortable position
 
-## The COP failure the world needed
-The disaster that was the climate gathering in Antalya should prompt overdue reform
+## Coal Ministry issues guidelines for mining, mine closure plans
+The guidelines provide an outcome-oriented framework for systematic and scientific mine planning and mine closure
 
-## Capita’s pesky civil service pension mandate may be its saving grace
-There are few competitors ready to take on the UK group
+## NLC India incorporates JV with NALCO for 1,080 MW captive power plant
+NNPPL has an authorised share capital of ₹15,00,000 divided into 1,50,000 Equity Shares of ₹10 each
 
-## NSEL investors get ₹1,950 crore after waiting for 14 years
-The amount was distributed among 5,682 traders under an NCLT-approved Scheme of Arrangement proposed by the investors forum
+## Gold holds gain after Nvidia’s rehiring of Huang sparks rally
+Bullion was little changed near $3,630 an ounce on Tuesday, after a brief spike higher in early trading
 
-## Nvidia reinstates Jensen Huang as CEO, Trump says no risk to national security
-The board reinstated Huang after a series of meetings and discussions and after receiving input from “senior levels of the United States government”
+## Gold ticks up on bargain buying; US inflation data awaited
+Spot gold rose 0.3% to $3,643.47/oz by 0248 GMT after hitting a September 2025 low on Friday; US gold futures fell 0.2% to $3,642.90
 
-## Tata Steel says direct APL Apollo buyout was costlier, less efficient; Targets 15.5 mt downstream platform
-The financial structure also allows Tata Steel to effectively monetise its existing downstream assets while acquiring control of the platform that will house them
+## India-EU free trade pact to open new opportunities for trade, investment: German state leader
+Negotiations for an FTA between India and the 27-member bloc concluded in January, and the agreement is expected to be signed in December
 
-## Sarvam launches AI-powered dictation API for English, 22 Indian languages
-The company evaluated the API against Gemini 3.5 Transcribe and AssemblyAI Dictation using real-world recordings from users of its Kivi dictation app, covering 145 applications
+## Malaysia tells data centers to cut off firms on US blacklist
+Kuala Lumpur moves to tighten oversight after Washington blacklists seven Southeast Asian companies over concerns about technology export controls and AI chip diversion.
 
-## Held up whisky consignment to be released following due procedure
-DRI has been asked to release the held consignments, subject to due procedures, and once the technical solution was reached, the matter could be settled according to that: Commerce Secretary
+## No email, no payments, no cloud: could your workplace survive a digital blackout?
+The chain of interconnected systems that drive business productivity and growth also hides our dependency on these systems
 
-## Sarvam AI faces questions over translating funding into frontier AI capabilities
-Sarvam came under scrutiny following the recent launch of its Token Factory, a platform that offers access to global AI models through India-hosted infrastructure
+## Dairy firm Doodhvale to expand operations to western and central India
+The New Delhi-based firm sees potential in selling ghee abroad and is looking at North America, says co-founder and CEO Aman Jain
 
-## UCBs should support sustainable growth through prudent lending: RBI Guv
-Malhotra urged banks to make full use of Mission SAKSHAM, the Reserve Bank’s ongoing training initiative for UCBs
-
-## EloElo Group bets on AI-led production infrastructure to lower content creation costs
-The move comes as AI tools increasingly find applications across content development and production, opening up possibilities for creators and studios to produce content at scale and explore new storytelling formats
-
-## Nvidia shares jump over 30%, log biggest single-day gain since 2003 as CEO Huang returns
-Nvidia's shares increased significantly after Jensen Huang returned as CEO, leading to a rise in AI stocks. The S&P 500 and the Nasdaq Composite saw their largest single-day gains since April 2025. Many other technology and semiconductor companies, including Amazon and Oracle, also experienced stock
-
-## UK raises concern over India's 162.5% bulk Scotch duty as trade pact dispute continues
-The UK is concerned about India's high import duties on bulk Scotch whisky despite a recent trade agreement. Current duties on bulk Scotch stand at 162.5 percent, even after a negotiated reduction to 75 percent. Disputes over customs classifications have led to significant delays in Scotch imports, 
-
-## India weighs 20% export duty on select rice varieties to boost domestic supply: Report
-India is considering imposing a 20 percent export duty on certain rice varieties to curb rising prices. This move aims to support domestic industries, particularly poultry and cattle feed sectors facing price pressures. The government is currently discussing these restrictions with relevant ministri
-
-## Homebuyer wins Rs 1.36 cr refund; builder challenges order after SC ruling, but plea dismissed
-The dispute arose from an order in 2019, passed by an adjudicating officer of the Maharashtra Real Estate Regulatory Authority. The officer had directed the real estate developer to refund Rs 1,35,99,246 paid by a flat buyer, along with interest at 10.20% per annum until realisation. The real estate
-
-## ‘Petrol, diesel prices rose just 7% in India in four years versus 50-70% globally’
-Oil minister Hardeep Singh Puri said on Sunday that petrol and diesel prices in India had risen by just 7% over a four-year reference period, significantly less than the increase of 50-70% recorded in other parts of the world. He credited the relatively limited rise to three reductions in central ex
-
-## India, Vietnam to lead Asia-Pacific growth in 2027 as China slows: S&P
-India's economy is anticipated to grow by 7 percent in the upcoming financial years, maintaining its swift growth. S&P Global Ratings predicts India and Vietnam to lead the Asia-Pacific region's growth next year. The growth is supported by strong exports, public investment, and household consumption
-
-## Stock market crash today: Investors lose Rs 4 lakh crore; top reasons why BSE Sensex, Nifty50 are down
-Stock market crash today: The biggest reason for indices plunging is profit booking that has emerged after the recent record breaking run of stocks. Nifty has gained more than 10% and is on course to deliver its best monthly performance since 2020, prompting investors to lock in gains after the shar
-
-## Rupee snaps five-day winning streak, falls 23 paise to 92.85 against US dollar
+## Are banks open or closed today? Check state-wise list of upcoming holidays
 
 
-## CJP's Saurav Das claims he was stopped at Delhi airport, barred from flying to London for Oxford lecture
-However, a Delhi Police official told HT that they are not aware of the matter and that the immigration officials are involved.
+## Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti
 
-## Bengal govt to amend land reforms law during Assembly winter session to ease acquisition
-The BJP state government plans to introduce eight bills, including amendments to land reforms, MSMEs and ease of doing business.
 
-## Odisha headmaster booked for beating 11-year-old student with cane for ‘stealing cocunuts’
-The boy's father alleged that the headmaster of the school at Gobaraghati in Kalinga Nagar beat his son "mercilessly with a cane in front of other students".
+## Property seller takes Rs 6.75 lakh cash payment, faces 100% penalty; ITAT cancels it
+The man faced action from the Income Tax Department after he sold his residential property for Rs 32 lakh to a senior citizen. The issue arose when the property seller accepted Rs 6.75 lakh of the sale consideration in cash, with the balance being paid into his bank account. The payment arrangement 
 
-## Samajwadi Party chief Akhilesh Yadav’s Facebook page restored after brief outage
-Earlier, the SP said that Yadav’s Facebook page was inaccessible due to technical issue and that the Meta was working to restore it.
+## Brookfield to buy PGP Glass from Blackstone for $1.7 billion
 
-## NCERT issues warning to empanelled printers after complaints of poor-quality textbooks
-The move follows complaints of blurred text, tiny fonts and printing discrepancies in textbooks on social media
 
-## BSF jawan goes missing near Bangladesh border in Assam, search operation launched
-A senior BSF official told HT on Monday afternoon that the force was aware of the matter and necessary steps were being taken
+## Tata Steel to buy promoter stake in APL Apollo Tubes
 
-## Weather Bee: 2026 is now closing in on becoming the warmest year on record
-Global temperatures hit a record 1.98°C above pre-industrial levels in the first 21 days of November, narrowing the gap between 2026 and 2024.
 
-## Delhi cop suspended after bride’s family alleges wedding called off over ₹13 lakh car demand; groom denies allegations
-Delhi Police suspended Constable Kuldeep after his bride's family alleged he demanded a ₹13 lakh Brezza and called off their Sonipat wedding.
+## Govt working to resolve Scotch issue: Commerce secretary
 
-## ‘Nothing came through’: why Boeing failed to land firm orders during Trump’s Shenzhen trip
-US President Donald Trump, a self-described “Boeing salesman”, left China last week without securing firm orders for the 200 aircraft pledged during his visit to Beijing in May. Instead, the White House highlighted a Boeing deal struck during the Philippine leg of his Asian tour. The absence of a Ch
 
-## Why discounts, store closures may not be enough for Gucci as China’s luxury slowdown bites
-Gucci is cutting prices and closing stores in mainland China as sluggish demand, subdued consumer confidence and more discerning shoppers weigh on performance, according to the company and outside analysts. Among its latest moves, the Italian luxury brand cut its Padlock handbag price in France by 3
+## IDBI not govt bank: SC; staff interest protected: Centre
 
-## China stock support steadies market after AI-fuelled selling
-Chinese stocks stabilised on Monday as government support buttressed the market after a global artificial intelligence (AI) rout. The CSI300 Index closed little changed, after earlier falling as much as 1.3 per cent. Hong Kong’s benchmark Hang Seng Index and the Hang Seng Tech Index both fell about 
 
-## SC Invest helps newcomers get started, with nearly 90% of clients new or inactive fund investors
-[The content of this article has been produced by our advertising partner.] Making investing easier to navigate There is no shortage of ways to invest money these days. But for those taking their first steps into financial markets, comparing unfamiliar products, understanding the risks and deciding 
+## Chaudhry's new high as CrowdStrike buys Zscaler
+$43Bn Deal Puts Serial Tech Entrepreneur From Himachal Pradesh In Global Spotlight
 
-## As brain-computer interface boom enters next phase, China pushes to shape global standards
-China will set up a new standard-setting task force for brain-computer interface (BCI) technologies, while a state-backed think tank has urged investors to remain patient as the nascent but increasingly crowded sector develops. The Ministry of Industry and Information Technology said it would create
+## How Keralam teen's disclosure about 'spurious' fairness cream propels statewide govt action
+Dermatologists in the state are cautioning the public about using unauthorised cosmetic products that promise instant relief and action.
 
-## Embodied AI robot maker Changzhou Microintelligence lowers target in renewed Hong Kong IPO
-Changzhou Microintelligence is returning to the market a month after shelving its previous Hong Kong initial public offering (IPO), slashing its fundraising target by nearly 30 per cent and taking the rare step of allowing a 10 per cent downward pricing adjustment to lure cautious investors in a vol
+## Opposition seeks clarity on Parliament’s winter session, typically held in November
+Congress’s Gaurav Gogoi said the delay in convening the session shows the absolute disrespect for the people of India
 
-## BYD pledges to fight EU sales ban in infringement battle with Jaguar Land Rover
-Chinese electric vehicle (EV) giant BYD will appeal a sales ban on one of its premium SUVs after a Dutch court ruled that it infringed on the design of the Jaguar Land Rover (JLR) Defender. “BYD strongly disagrees with the judgment and will appeal it,” the Chinese carmaker said in a statement. “The 
+## Coca-Cola plans Gold Spot comeback after 26 years, may launch low-sugar variant: Report
+Coca-Cola is reportedly planning to revive Gold Spot in a low-sugar or sugar-free variant after 26 years. A teaser featuring MS Dhoni has fuelled speculation.
 
-## Why Hong Kong’s Fine Art Asia fair has moved to Shenzhen after 20 years
-Hong Kong’s longest-running art and antiques fair, Fine Art Asia (FAA), is relocating to Shenzhen for its upcoming 2026 edition, which will take place from November 26 to 29, with its founder citing a sharp market downturn in his home city as one of the reasons behind the decision. Established in 20
+## BJP, Akali Dal likely to announce Punjab alliance today
+Union home minister Amit Shah, BJP president Nitin Nabin and SAD president Sukhbir Singh Badal are likely to formally announce the alliance.
+
+## Rahul Gandhi says Rajiv Gandhi's security was removed ‘so that he could be killed’
+Rahul Gandhi also recalled how Sonia Gandhi used go around their house checking the security and the barbed wires.
+
+## Camels in Manipur for BSF event trigger curiosity; residents queue up for rare glimpse
+The camels were brought from the edge of the Thar Desert in Rajasthan for the BSF’s 62nd Raising Day celebrations
+
+## ‘Kept in dark about elephant relocation’: Congress MLA Nayana Motamma on resignation
+Congress MLA Nayana Motamma said the forest department had initiated the elephant-driving operation without consulting the elected representatives
+
+## ED arrests fake doctor in ₹200 crore healthcare-related CSR scam
+Using alleged dubious representation, the accused set up and ran a network of charitable trusts purportedly engaged in healthcare-focused CSR activities
+
+## BlackRock taps Hong Kong stablecoins for new money market fund
+US asset manager BlackRock has launched its first tokenised money market fund in Hong Kong and the Asia-Pacific region, allowing investors to subscribe using a newly issued local stablecoin as the city pushes ahead with its digital asset ambitions. Professional investors can now use digital cash, in
+
+## Cathie Wood’s Nvidia bet misses 32% rally on Jensen Huang’s return
+Cathie Wood’s decision to dump almost US$107 million worth of Nvidia shares over fears about the company’s leadership with Jensen Huang’s departure has backfired, after the chipmaker’s decision to reinstate Huang sent shares to their biggest single-day rally in years. Ark Investment Management, the 
+
+## ‘Smart money’ eyes dim sum bonds as alternatives to US dollar assets, ChinaAMC (HK) says
+China Asset Management (Hong Kong) expects global investors to increasingly turn to Hong Kong’s dim sum bond market as they seek to diversify away from US dollar assets, with the market projected to grow to between 10 trillion yuan (US$1.5 trillion) and 15 trillion yuan by 2030, its chief executive 
+
+## Global citizen navigates opportunities with flexible mindset
+The life of a global citizen with multiple business interests demands the ability to constantly switch perspectives as well as handle the physical and mental shifts between different cities, languages and cultures. Suffice to say, it can be complex and time-consuming. Shenzhen-born Lin Yingxi descri
+
+## Yuan’s uneven global growth
+–
+
+## Hong Kong stocks advance as Jensen Huang’s surprising comeback revives AI trade
+Hong Kong stocks advanced on Tuesday, as the return of Jensen Huang to Nvidia sparked buying interest and reignited the artificial intelligence (AI) trade. The Hang Seng Index gained 0.3 per cent to 22,450.82 as of 10.33am local time, and the Hang Seng Tech Index added 0.2 per cent. Chinese mainland
+
+## Meet the robots: China’s 6 top humanoid developers vie for market share
+Shenzhen captured the world’s attention last week as the host city of this year’s Asia-Pacific Economic Cooperation (Apec) summit. Much of the discussion around Apec focused on the city’s transformation in just a few decades from a fishing village into what is now a hi-tech innovation hub, with one 
+
+## China shifts property funding to projects. Who benefits and who misses out?
+China is allowing more corporate bond proceeds to flow directly into residential projects, but recent approvals suggest access to funding remains concentrated among stronger developers as investment and home sales contract. Three state-backed developers have recently secured approval for bond issues
+
+## Nvidia Is Now Too Big to Hold to Account
+Jensen Huang and the broader AI sector represent an enormous risk for the entire public.
 
 ## Jensen Huang Is Back
 The latest turn in a saga that has roiled markets and raised national security concerns.
@@ -150,8 +147,8 @@ Call them the restrainers, the riders, and the racers.
 ## Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
 The founding father of the conservative movement’s pick was very different from Trump’s.
 
-## EU, U.K. Agree to a Brexit Reset
-But Burnham faces some opposition back home.
+## The Never-Ending China-US Story
+From Trump to Biden and back again, Washington keeps talking about apparent turning points. Yet the main problems remain unresolved.
 
 ## Can the China-Russia-US Summit Turn Political Momentum Into Nuclear Risk Reduction?
 The Shenzhen summit created a new and unprecedented political opening among the three major nuclear powers. It must be capitalized on.
@@ -173,9 +170,6 @@ China’s cold reception for Japan’s prime minister makes it difficult for eit
 
 ## The Paradox of Takaichi’s Popularity
 Takaichi continues to enjoy a healthy approval rating, despite controversy over some of her policy moves.
-
-## How Central Asia Fixed Its Most Dangerous Borders
-In a world riven by conflict today, the peaceful settlement of contested borders in the Fergana Valley stands out.
 
 ## While Shenzhen Talked, Berlin Pulled Up a Chair: Europe’s Generational Bet on Itself and Ukraine
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -225,29 +219,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US escalates sanctions on Iran, targets ‘shadow banking’ networks
-US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.
+## Nvidia live: Markets surge as Jensen Huang returns as CEO
+Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.
 
-## Israel’s southern Syria incursion triggers fear and destruction
-Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.
+## Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups
+Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.
 
-## US states sue SpaceX over Grok AI’s creation of child sexual abuse material
-Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.
+## Pennsylvania reports ninth measles death in ongoing state outbreak
+CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.
 
-## US drug prices leave patients facing impossible choices
-Despite having jobs and health insurance, some of the US's sickest patients have trouble affording medicines they need.
+## Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents
+Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.
 
-## Iran flogs singer Parastoo Ahmadi for performing without headscarf
-Ahmadi and four production team members also face two-year bans on travel and artistic activity.
+## Car bomb strikes governor’s office in Meta, Colombia
+A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.
 
-## Iran hits US bases and civilian sites in the Gulf after a lull
-Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.
+## India’s best known bottled water under scrutiny
+India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.
 
-## Turkish police hunting for lioness stalking Istanbul
-Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.
+## WHO chief visits Cuba as healthcare system deteriorates
+Analysts say fuel shortages blamed on US sanctions are worsening the crisis.
 
-## Jensen Huang reinstated as Nvidia chief: How did we get here?
-Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.
+## Mexico to try ‘El Chapo Isidro’ despite US extradition request
+Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.
+
+## Insolvency framework should be responsive to dynamic needs of economy: Official
+Regarding the Insolvency and Bankruptcy Code (IBC), Corporate Affairs Secretary Pallavi Jain Govil also said that further reforms and processes are on the way.
 
 ## Maruti, Coca-Cola, Wipro CFOs outline blueprint for future-ready finance teams
 At the inaugural ETCFO Annual Conclave 2026, CFOs from Maruti Suzuki, Coca-Cola and Wipro Enterprises discussed how digital skills, continuous learning and cross-functional expertise are reshaping finance teams.
@@ -269,9 +266,6 @@ Finance leaders from Hero MotoCorp, Eicher Motors, Coromandel International and 
 
 ## Skill gaps, labour shortages threaten India's growth ambitions, industry leaders warn
 Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skill gaps and competition for global capital as key constraints on India's growth ambitions.
-
-## CFO-board partnership must evolve from governance to value creation: Finance leaders
-At the inaugural ETCFO Annual Conclave 2026, former CFOs and independent directors Giridhar Sanjeevi and Sugata Sircar, alongside Biocon CFO Kedar Upadhye, highlighted how trust, transparent communication and constructive challenges between CFOs and independent directors can strengthen strategic dec
 
 ## RBI mandates demat holding of securitisation notes, extends Rs 1 crore minimum ticket size to transfers
 The revised directions, applicable to commercial banks, small finance banks, NBFCs and All India Financial Institutions from April 1, 2027, also require public offers of securitisation notes to comply with SEBI regulations and extend the new requirements to existing issuances.
