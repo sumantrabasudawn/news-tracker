@@ -1,130 +1,139 @@
 # AION Intelligence
 
-## Will the Nvidia fallout kill off Asia’s data centre boom?
-Projects that touted chip access to Chinese customers face tighter US scrutiny
+## Heathrow seeks to pass on £300mn third runway planning costs to passengers
+Airport wants permission from regulator to claw back money through higher traveller charges
 
-## Shein to pay $100mn to resolve US allegations that it deceived customers
-Regulators claim cotton that the retailer’s suppliers said was US-grown was harvested in China
+## Shein to pay $100mn to resolve US allegations it deceived customers
+Regulators claim retailer made misleading claims on origin of its cotton fabrics and suppressed negative reviews
 
-## Asian markets lose ground as AI fears return
-Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades
+## Tech stocks slide as confidence in AI trade fades
+Nasdaq 100 set to open lower as weeks-long sell-off continues
 
-## AI powers double-digit jump in ‘authorised’ fraud
-‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026
+## An $87bn debt gamble tests the limits of the Ellison family fortune
+The tech billionaire dynasty’s Hollywood ambitions have rattled credit markets and set the stage for thousands of lay-offs
 
-## Contraceptive pill use plunges among young British women
-Survey finds young females are less likely to use any contraception or to want children, while overall the nation is having less sex
+## FirstFT: Trump shelves plans for deals with Russia
+Also in today’s newsletter: Jensen Huang’s return, and the Iranian group behind Europe’s freezer hacks
 
-## Huawei convicted in US trial that exposed corporate espionage and sanctions evasion
-Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company
+## Timms review takes aim at state’s weaponised incompetence
+Fast-tracked Pip assessments and fewer reviews will target difficult processes state uses to control costs
 
-## FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial
-Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs
+## Nationwide launches 99% mortgage for first-time buyers
+Aspiring property owners can borrow up to six times their income.
 
-## Anthropic closes below IPO price as tech rally fades
-Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides
+## North Korea closes Swiss diplomatic office in row over children’s camp
+Sanctions on Songdowon International Children’s Camp were a ‘blatant hostile act’, says Pyongyang
 
-## Judge grants bail to OpenAI engineer accused of bugging start-up
-Prosecutors told they failed to provide sufficient evidence of wrongdoing
+## EasyJet profits tumble 96% after fuel prices soar
+Falling consumer demand also hits airline in final set of annual results before takeover by Apollo next year
 
-## Nscale says it has option to stay private as tech sell-off threatens $35bn IPO
-Chief executive Josh Payne seeks to reassure staff at the UK data centre group after cutting back on hiring
+## The investigations facing Nvidia and Jensen Huang
+Returning CEO and chipmaker face scrutiny from federal and state authorities, Congress and shareholders
 
-## Sensex today | Stock Market Live: Gift Nifty signals positive open for Dalal Street despite sell-off in Asian markets, fresh US tariff fears
-Sensex, Nifty, Share Prices Live: GIFT Nifty at 25,725 signals strong opening for Sensex, Nifty today, Wednesday, November 25, 2026, despite the sharp sell-off across Asian markets.
+## Under the hood of Global Auto Holdings
+A low-profile founder, a multi-continent collection of car dealerships, a slew of unexplained related-party transactions, and an IPO in the pipeline
 
-## Rupee to resume rally on positive flow backdrop, turn in market sentiment
-The rupee is expected ⁠to open at 92.70-92.75 to the dollar, according to traders, after dipping from a seven-month high of 92.43 to settle at ‌92.91 on Monday.
+## SEBI retains BSE 200, Nifty CPSE in significant indices list despite missing AUM threshold
+The regulator’s three-year continuation rule allows both indices to retain their status despite falling short of the prescribed assets threshold.
 
-## Sensex, Nifty may open higher as foreign inflows, lower oil prices aid sentiment
-GIFT Nifty futures were at 25,738 points, as of 7:43 am, indicating ‌a positive start for the benchmark Nifty 50 index, which closed at 25,349.65 on Monday.
+## Indian aluminium body urges government to hike import duty to 10%, regulate scrap consignments
+In its pre-budget memorandum, Aluminium Association of India wants the industry’s value chain strengthened to help improve the industry’s competitiveness
 
-## Foxconn faces payment delays to Indian vendors; contractor seeks $15.3 million in dues
-At least four other vendors have also been waiting months or longer for payments, according to people familiar with the matter.
+## PhonePe revives IPO plans, targets $12-15 billion valuation in early 2027
+The proposed offering will give existing investors an exit opportunity as the digital payments company prepares for its next growth phase
 
-## From Banksy to a sewer fatberg: London’s revamped museum opens to visitors
-The museum’s new home at the former Smithfield meat market combines historic collections, contemporary culture and unusual objects from everyday London life
+## HP ProBook 4 G2iS review: Business class, with benefits!
+Can an OLED display, all-day battery life, and solid business performance cinch the deal for the modern, hybrid workforce?
 
-## Zydus Lifesciences sets up wholly owned subsidiary in Australia
-The newly incorporated entity has nil turnover and is yet to begin operations, according to the company’s regulatory filing.
+## Hyundai Bayon’s ₹1-lakh offers within a month of launch cloud market-share recovery
+Priced from ₹9.99 lakh, Bayon takes on Maruti Suzuki’s Grand Vitara while competing for buyers of higher-priced Venue and Brezza variants
 
-## Karnataka clears Pixxel’s ₹350-crore satellite manufacturing project
-The proposal was cleared within two weeks of its receipt, reinforcing the State government’s push to attract investments in emerging technologies
+## Deloitte India opens Mangaluru office; plans to scale workforce to 1,000
+It will initially house around 250 professionals, with plans to gradually increase its workforce to more than 1,000.
 
-## JSW Motors unveils brand identity ahead of December 3 launch
-The new identity reflects the company’s ambition to bring global technology to Indian consumers and build an integrated automotive ecosystem
+## Rupee soars 69 paise to settle at its eight-month high of 92.16 against US dollar
+At the interbank foreign exchange market, the rupee opened at 92.65 and peaked to 92.16 (provisional) against the greenback at the end of the session, up 69 paise from its previous close
 
-## Tata Sons weighs stake purchase, buybacks to unlock liquidity for SP
-Tata Sons chairman N Chandrasekaran is evaluating three options to help Shapoorji Pallonji Group. These options involve a potentially significant buyback or stake purchase from Tata subsidiaries. A shareholder meeting for these options may face quorum challenges and lengthy approvals. The Shapoorji 
+## Kamarajar Port gets ₹4,288-crore nod for second container terminal
+The proposed expansion will strengthen the port’s capacity to handle larger vessels and cater to rising containerised cargo demand across southern India.
 
-## No large-scale layoffs, 30 let go: Google Cloud
-Google Cloud India issued a statement to refute rumors about significant layoffs within the company. The company clarified that a small organizational change led to the elimination of about 30 roles. This decision was part of a reprioritization of work within the region. The clarification follows co
+## Inside India's Rs 11,000cr bet to end foreign grip on construction, infra equipment
+The Indian government has approved an Rs 11,000-crore scheme to bolster the domestic construction equipment manufacturing industry. This initiative aims to reduce reliance on external supply chains while enhancing local production capabilities. Manufacturers will receive incentives based on sales pe
 
-## RBI to widen market for government securities: DG Jain
+## The onion index: How rising pyaaz prices can make your EMIs and investment portfolio cry
+Onion prices have risen due to supply side issues. Depletion and some spoilage of stored rabi stocks and concerns over the timing and quality of kharif arrivals amid uneven rainfall have led to the sudden spike. In September, at Lasalgaon APMC in Nashik, wholesale onion prices climbed 160% in less t
+
+## From new airport to postal services: Cabinet clears Rs 19,934 cr package; key decisions
+The Union Cabinet recently approved significant proposals amounting to nearly Rs 19,934 crore including infrastructure projects. A scheme for enhancing construction equipment manufacturing ecosystem received Rs 11,000 crore allocation for domestic production support. Additionally, a new container te
+
+## Man faces Rs 20.94 lakh penalty over property sale to son-in-law; why ITAT gave relief
+The dispute centred on the sale of an immovable property. The AO concluded that the taxpayer had received Rs 20.94 lakh in cash in connection with the transfer, thereby breaching Section 269SS of the Income Tax Act. A penalty equivalent to the disputed amount was then imposed under Section 271D. The
+
+## Flipkart's Kalyan Krishnamurthy steps down as CEO
 
 
-## In first discom IPO, Maharashtra utility looks to raise Rs 9.5k cr
+## Gadkari’s barrier-free tolling lifts NHAI revenue; Rs 539 crore collected in six months
+The government is introducing Multi-Lane Free Flow (MLFF) technology across national highways as part of its move towards barrier-free toll collection. The system is being viewed as the next stage in the evolution of FASTag. Although FASTag has enabled digital toll payments, motorists still have to 
 
+## Gold price prediction today: Is there any end to gold price fall? Check November 25, 2026 outlook
+Gold price prediction today: Spot fell about 2% to $3,556 and was near $3,545 early Wednesday, just above the $3,500 level it tested last week. Gold is down about 8% in November after a 7% fall in October. Silver, at about $40.8, rose almost 5% on Monday and gave it all back on Tuesday.
 
-## Indian investors bullish on AI stocks amid volatility
-Build Exposure Across Full Value Chain From Nvidia To Micron & Anthropic To Microsoft
+## BSE Sensex jumps over 2,000 points; Nifty50 crosses 25,900 - what's fueling the rally
+The Indian stock market showcased remarkable momentum on Wednesday, as the BSE Sensex jumped more than 2,000 points. This rally can be attributed mainly to hefty foreign investments, alongside easing crude oil prices that lifted inflation fears. Major private banks drove the surge, highlighting the 
 
-## Nasdaq falls as Nvidia, Anthropic get hammered
+## Pakistan TV serial ‘Dar-e-Nijaat’ screenings cancelled in Bengaluru amid protests; police flag lack of permission
+The screenings of Pakistan TV serial Dar-e-Nijaat were to be held on November 28 and December 5 at two separate venues in Bengaluru.
 
+## ‘Sincerely apologise’: Tamil Nadu govt tells Supreme Court on temple lamp row
+On November 20, the Supreme Court permitted the lighting of the lamp on the stone pillar at Thirupparankundram Hill on Karthigai Deepam day
 
-## Pledged gold worth less as prices crash 30%; gold loan NPAs nearly double
-India’s gold loan market recorded a doubling of non-performing asset (NPA) ratios in the first half of the fiscal year. Industry leaders have linked the increase to changes in lending regulations, saying borrowers are taking time to adapt to the revised norms. The central bank has directed gold loan
+## 'No reason to interfere with govt decision': Delhi HC refuses to reopen Kartarpur Corridor
+The Delhi High Court said the Centre’s decision to suspend the Kartarpur Corridor after the 2025 Pahalgam terror attack was a policy matter.
 
-## Tata, Hyundai, Audi to raise prices on higher input costs
-Starting in December, Tata Motors Passenger Vehicles and Hyundai Motor India will implement price hikes, echoing similar moves by Maruti Suzuki amid escalating commodity costs. Tata anticipates a modest increase of about 0.5 percent, while Hyundai may raise some model prices by up to Rs 8,000. Despi
+## No point in contesting fewer than 100 seats: Congress UP in charge amid alliance talks with SP
+Rajendra Pal Gautam called Akhilesh Yadav’s comments on 26 seats irresponsible, saying Congress had not agreed to that figure.
 
-## Families protest as police seal wedding venues in Sainik Farms after Delhi HC order
-Families protested against the sealing drive in Delhi’s Sainik Farms wedding venues on Monday and Tuesday after the Delhi Police acted on the orders of the Delhi high court directing civic authorities to act against banquet halls operating without valid permissions
+## 53 hospitalised after consuming shawarma from roadside eatery in Maharashtra
+Authorities have registered a case against the eatery owner, who is absconding, while samples are being tested to establish the cause of the illness.
 
-## Rebel TMC MPs submit reply to Lok Sabha, defend exit from party
-A senior rebel TMC leader told HT that all 20 MPs have submitted their individual replies to the Lok Sabha secretariat.
+## India condemns Houthi strike on financial district in Saudi capital that injured 2 Indians
+Eleven people were injured in the drone attack on a tower in Riyadh’s financial district on Tuesday, according to Saudi authorities.
 
-## Hotel’s master key no ground to absolve occupant of drug recovery: Supreme Court
-The mere possibility of access by the facility manager was not enough to discredit the prosecution’s case at the bail stage, the bench said.
+## CJI Surya Kant praises outgoing Supreme Court judge Justice Satish Chandra Sharma for humble approach, calm temperament
+At Justice Sharma's farewell, CJI Surya Kant praised his patience and ability to deliver justice, while the outgoing judge urged young lawyers to be courteous.
 
-## Advisory group to be set up for startups, MSMEs in telecom sector: Scindia
-New Delhi: The government will set up an advisory group for startups and micro, small and medium enterprises (MSMEs) in the telecom sector to help Indian companies develop and commercialise telecom products, Union communications minister Jyotiraditya M Scindia said on Tuesday
+## SC agrees to hear plea seeking implementation of its Deepathoon order, contempt plea filed
+The petitioners maintained the passage of the festival date could not be a ground to deny them the relief the SC granted
 
-## Centre eyes custom duty tweaks on key inputs
-New Delhi: The government may undertake a comprehensive review of customs duties on hundreds of items, mainly inputs and intermediate goods, to rein in inflation, boost manufacturing and make exports competitive amid geopolitical turbulence that has disrupted global supply chains, persons aware of t
+## As profits fall, China’s carmakers pass financial strain on to suppliers, expert says
+China’s auto industry faces mounting cash-flow pressure as receivables climb and collection periods lengthen amid a price war, an industry expert says, warning that the strain is squeezing suppliers’ finances and undermining long-term investment in innovation. As of the end of September, outstanding
 
-## Delhi plans 2 new biomedical waste plants at ₹41 cr amid pollution violation concerns
-The DPCC has already initiated the process of setting up the two facilities by inviting bids for the project
+## Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia
+Huawei Technologies has established dedicated patent teams for semiconductors and artificial intelligence as it seeks to establish an overseas foothold for a computing ecosystem to rival Nvidia’s. Extending an intellectual property (IP) operation rooted in telecommunications, the Shenzhen-based comp
 
-## Cops flee, doors shut as man goes on stabbing spree at Delhi police station; CCTV captures horror
-The footage shows cops fleeing and trying to overpower Mohd Nabeel as he stabbed five personnel inside Jama Masjid police station before injuring four more.
+## China’s K-shaped economy better for mainland markets than Hong Kong stocks: UBS
+UBS Global Wealth Management prefers mainland Chinese stocks to Hong Kong-listed ones for 2027, warning that China’s “K-shaped” economy has left the offshore market on the weaker side of the divide. The bank’s chief investment office downgraded Hong Kong-listed Chinese equities – tracked by the MSCI
 
-## How farm laws broke the SAD-BJP alliance, and what brought it back
-Farm laws ended the SAD-BJP's nearly 24-year alliance in 2020. After electoral setbacks, the parties have reunited to contest the 2027 Punjab polls.
+## AstraZeneca’s China strategy: fewer sales staff, more investment?
+British-Swedish drug maker AstraZeneca has reportedly begun a major round of job cuts in China amid declining sales in the country, even as it joins other global pharmaceutical giants in expanding investment in the rising biotech powerhouse. The company began laying off up to 20 per cent of its Chin
 
-## China’s biggest fund firms bet stocks to trough after state support runs on all cylinders
-China’s biggest money managers said the nation’s stocks were a long-term buy after the drumbeat of state support for equities gained further traction. E Fund Management, the biggest mutual-fund firm on the Chinese mainland with 2.8 trillion yuan (US$420.4 billion) of assets under management, said th
+## Chinese private funds retreat from record highs as AI bubble jitters hit Nvidia backers
+A 12-month-long expansion by China’s private investment funds ended in October as market turmoil and fears of an AI bubble forced a retreat by investors. Total assets under management by private investment funds in China amounted to 25.22 trillion yuan (US$3.78 trillion) at the end of October, down 
 
-## As CATL’s grip on Chinese EV makers loosens, Xpeng doubles down on battery production
-Chinese electric vehicle (EV) maker Xpeng is ramping up its battery pack manufacturing despite widening losses, seeking greater supply chain independence as carmakers continue to diversify away from Contemporary Amperex Technology Ltd (CATL). The Guangzhou-based firm recently signed a 1.8 billion yu
+## BYD apologises for wheel-rim error; Chinese car buyers go electric: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD apologises for wheel-rim error as China cracks down on car quality issues BYD has 
 
-## Why Asia’s AI rally faces a tougher road even after Jensen Huang’s comeback
-While Jensen Huang’s return to Nvidia has soothed market sentiment, analysts have warned that the artificial intelligence boom that propelled Asian chip stocks this year is unlikely to regain its first-half momentum – and that US regulatory scrutiny of the sector remains far from over. “The market i
+## BYD eyes a second European plant, enters talks with Ineos over a French assembly
+Chinese electric vehicle (EV) giant BYD has edged closer to a second plant in Europe after it entered exclusive talks to take over an assembly from Ineos Automotive in France, accelerating its plan for local production amid heightened import restrictions on the continent. The company said in a state
 
-## Xiaomi profits plunge 57% as EV and smartphone headwinds bite
-Xiaomi’s adjusted net profit more than halved in the third quarter of the year as rising memory costs squeezed its smartphone business and sales of its electric cars weakened, with executives warning that pressure on handset makers would persist into next year. The Chinese tech giant’s adjusted net 
+## China Resources dropped from exclusive talks as Kingboard buys distressed tower: sources
+Hong Kong receivers ended an exclusivity arrangement with state-owned China Resources and agreed to sell a distressed office tower to Kingboard Holdings for HK$2.7 billion (US$344.3 million), opting for a higher offer, according to two people familiar with the matter. China Resources was the prospec
 
-## Rent hikes, low supply in Hong Kong’s CBD sees banks, tech firms heading for West Kowloon
-Rising Central rents and tightening supply are driving a renewed wave of office decentralisation, with West Kowloon standing as the primary destination for investment banks, tech majors and mainland Chinese asset managers, according to a new report by Knight Frank. The property consultancy’s analysi
+## FP’s 2026 Holiday Gift Guide
+Tried-and-true ideas for global thinkers.
 
-## Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs
-Dutch Foreign Minister Tom Berendsen’s visit to China this week comes amid a shifting dynamic in the Netherlands’ efforts to fend off further US restrictions on ASML sales to Beijing following the Nvidia saga, analysts say, with some suggesting it could strengthen the Dutch case against the proposed
-
-## MPF members hitting ‘panic switch’ to ditch US stocks amid volatility: Manulife
-Manulife, the city’s largest Mandatory Provident Fund (MPF) provider with a market share of 28 per cent, has found that some members are shifting away from US stock funds amid market volatility, according to a senior executive. The big swing in the US stock market recently had led some members to hi
-
-## Chinese drug stocks sink as US lawmakers threaten curbs on cross-border collaboration
-Chinese healthcare stocks fell on Tuesday amid intensifying threats from Washington, where lawmakers warned about the US drug industry’s “dangerous dependence” on China and urged restrictions on cross-border collaboration. “We cannot allow China to get ahead and control drug development, or it will 
+## What Does the ICJ Ruling Mean for Myanmar?
+The junta thinks it might find a sympathetic ear from Trump.
 
 ## Xi Knows How to Play Trump
 The Nvidia scandal reveals an imbalance in U.S.-China relations.
@@ -144,11 +153,8 @@ China is looking to set the language of great-power discourse.
 ## Europe Steps Into the Breach on Ukraine
 Brussels will likely finalize this week an additional 45 billion euros for Kyiv, even as Washington retreats.
 
-## Risk and Reward Along Africa’s Red Sea Littoral
-What the arrival of Middle Eastern rivalries means for Somaliland, Puntland, and Eritrea.
-
-## Spinning Genocide
-Two new books explore the chasm between rhetoric and reality in Gaza.
+## Why Nvidia Couldn’t Quit Jensen Huang
+In China, the coordination and planning needed to develop AI is led by the government. In the U.S., it has been driven largely by one entrepreneur: Huang.
 
 ## Where Is To Lam Taking Vietnam?
 The former police general has proclaimed a "new era of national rise" for the country. It has involved a significant strengthening of Communist Party control.
@@ -171,8 +177,11 @@ The United States’ long-standing satellite advantage is eroding.
 ## Japan, South Korea, US Are Taking Their Trilateral to the Arctic
 With all that’s going on in the world, why focus on the Arctic?
 
-## In Tajikistan, the US Pitches While Russia Garrisons
-Back-to-back visits by a senior U.S. diplomat and Vladimir Putin showed what each power offers Tajikistan.
+## The Contract Was the Easy Part: How Accelerator Day Put the Pentagon on the Clock
+The Pentagon demands urgency from industry while allowing its own decisions to drift. On July 24, we ran an accelerator day to put the government under a deadline and make it responsible for what followed. We led the inaugural event for the Office of the Assistant Secretary of Defense for Special Op
+
+## Does Congress Really Want Its War Powers Back?
+Congress wants its war powers back. At least, that is the message that the legislature has communicated to the public numerous times over the past decade. Members of Congress have forced an astonishing number of votes on resolutions challenging unauthorized presidential warmaking, with some achievin
 
 ## Winners and Losers from the Shenzhen Summit
 On Nov. 19, while attending the Asia-Pacific Economic Cooperation meeting, U.S. President Donald Trump, Chinese General Secretary Xi Jinping, and Russian President Vladimir Putin gathered in Shenzhen for a historic summit. The final statement from the three leaders included four points: reforming th
@@ -191,12 +200,6 @@ A new front in the U.S.-Chinese space race is emerging in the lowest reaches of 
 
 ## The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence
 Artificial intelligence poses the greatest challenge to American civil-military relations since the advent of the nuclear bomb. AI plays outside the political bounds that contain other challenges, however odious. It compounds the inherent problem of civil-military relations – aligning the state and 
-
-## What Ukraine Hath Wrought: Lessons for War, If We’re Listening
-Four years into Russia’s war against Ukraine, what should the U.S. military have learned by now? Michael Kofman (Carnegie Endowment), Dara Massicot (Carnegie Endowment), and Amos Fox (Arizona State University) join Ryan to discuss. The easy answer is drones and AI, but our guests argue the harder tr
-
-## Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo
-In conversations with law enforcement and security professionals, one view has repeatedly emerged: Aum Shinrikyo’s failed biological weapons program in the early 1990s shows that the risk of bioterrorism is overstated, despite warnings about AI-assisted bioterrorism and calls for enhanced preparedne
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -222,29 +225,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## WHO chief urges end to US fuel blockade on Cuba
-UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.
+## Sinner uncertain for Australian Open after undergoing knee surgery
+The five-time Grand Slam champion has not played a match since winning Wimbledon in July.
 
-## Senegal fans celebrate AFCON legal victory over Morocco
-Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.
+## After Brexit, is Britain heading back to the EU?
+A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides.
 
-## Israel’s Eisenkot secures first coalition partner in bid to form government
-The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.
+## Zidane was much better than me: Bellingham after Real Madrid wonder goal
+Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.
 
-## Iran whips singer Parastoo Ahmadi 74 times over YouTube concert
-Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.
+## Israeli strike kills Hamas official, his wife and children
+The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.
 
-## Poll finds US voters want government to end Iran war regardless of terms
-New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.
+## ‘People are going hungry’: Guinea’s gold mining crackdown
+‘People are going hungry’: Guinea’s gold mining crackdown
 
-## Gunmen hold dozens hostage in Colombia supermarket
-A group of armed men is holding around 20 people hostage in Cartagena, Colombia.
+## Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list
+Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.
 
-## Alaska ends deal to give voter records to US Justice Department
-The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.
+## The cost of Nigeria’s power failures for one small business
+Fashion business owner Aderayo Soile says unreliable electricity is holding back her business.
 
-## Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order
-Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.
+## Who is Chen Jining, China’s latest Politburo member under investigation?
+Chen is the fourth high-ranking Politburo member to be pushed out in two years.
+
+## ITAT backs Tata Sons' investment-holding business claim, allows interest deduction in tax case
+The Income Tax Appellate Tribunal ruled in favor of Tata Sons regarding interest deductions for investments. The tribunal dismissed the Income Tax Department's appeal for the assessment year 2014-15. Tata Sons argued that its investments were essential to its role beyond merely earning dividends. Th
 
 ## Insolvency framework should be responsive to dynamic needs of economy: Official
 Regarding the Insolvency and Bankruptcy Code (IBC), Corporate Affairs Secretary Pallavi Jain Govil also said that further reforms and processes are on the way.
@@ -267,8 +273,17 @@ Battery Smart has appointed Rahul Agarwal as its chief financial officer to prep
 ## Poorly designed compliance raises costs without reducing risks: CFOs
 Finance leaders from Hero MotoCorp, Eicher Motors, Coromandel International and DBS Bank India call for technology-led controls, stronger cyber resilience and more informed risk-taking at the ETCFO Annual Conclave 2026.
 
-## Skill gaps, labour shortages threaten India's growth ambitions, industry leaders warn
-Leaders from Tata Projects, LT Foods and Bandhan AMC flag labour shortages, skill gaps and competition for global capital as key constraints on India's growth ambitions.
+## RBI hunts for possible '$2 million loophole' in importers' forex transactions
+The Reserve Bank of India (RBI) has stepped up scrutiny of importers' forex transactions amid concerns that companies may be splitting deals below the $2 million threshold to avoid additional reserve requirements. The move follows a sharp fall in average dollar-buying transaction sizes since October
+
+## India's RBI steps up checks on importer trades amid surge in smaller deals, bankers say
+The Reserve Bank of India has stepped up scrutiny of foreign-exchange transactions involving importers to check whether they are deliberately structuring deals below $2 million to evade additional reserve requirements, two bankers said.
+
+## SEBI considering new integrated wealth advisory category: Executive Director Manoj Kumar
+The Securities and Exchange Board of India (SEBI) is considering the creation of a new category called "integrated wealth advisory" as part of its efforts to build a more harmonious financial services ecosystem, Executive Director Manoj Kumar said on Wednesday.
+
+## India-EU free trade pact to open new opportunities for trade, investment: German state leader
+Negotiations for an FTA between India and the 27-member bloc concluded in January, and the agreement is expected to be signed in December.
 
 ## SBI says 25 bps rate hike may be enough, cautions RBI amid calls for jumbo 50 bps hike
 The Reserve Bank of India (RBI) should consider a 25 basis points rate hike in its December monetary policy instead of a jumbo 50 bps increase, as an aggressive move could trigger capital outflows, currency instability and concerns over economic growth, according to a report by the State Bank of Ind
@@ -281,16 +296,4 @@ The revised directions, applicable to commercial banks, small finance banks, NBF
 
 ## RBI retains SBI, ICICI Bank, HDFC Bank as domestic systemically important banksin 2026
 The Reserve Bank of India continues to designate State Bank of India, HDFC Bank, and ICICI Bank as domestic systemically important banks (D-SIBs), mandating them to maintain higher capital buffers against their risk weighted assets. Specifically, SBI's Common Equity Tier 1 capital requirement stands
-
-## New CPI series to make inflation readings less volatile, reduce uncertainty in monetary policy: RBI Dy Governor Poonam Gupta
-The revised Consumer Price Index (CPI) series is expected to make headline inflation less volatile and reduce uncertainty in monetary policy decisions, as the weight of food and beverages has declined to less than 37 per cent from nearly 46 per cent, Reserve Bank of India (RBI) Deputy Governor Poona
-
-## Sebi plans consultation paper to remove FPI constraints absent in other markets
-SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five 
-
-## SEBI examining feasibility of own AI model under Digital Public Infrastructure: Chairman
-The Securities and Exchange Board of India (SEBI) is exploring the possibility of developing its own Artificial Intelligence (AI) model under India's Digital Public Infrastructure (DPI), while working on measures to address risks associated with the technology, SEBI Chairman Tuhin Kanta Pandey said 
-
-## SEBI preparing guidelines for responsible AI use in capital markets, including disclosures and accountability: KVR Murty
-The Securities and Exchange Board of India (SEBI) is preparing to issue guidelines for the responsible use of artificial intelligence (AI) in capital markets, including disclosures and accountability requirements for related entities, SEBI Whole Time Member (WTM) KVR Murty said on Thursday.
 
