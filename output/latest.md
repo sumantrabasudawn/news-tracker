@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Mandelson toned down China speech on advice from firm he founded
-Former UK ambassador to the US kept close links with the Global Counsel consultancy, according to Cabinet Office files
+## Two Italians killed in drone strike on Kuwait
+Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month
 
 ## UK to pay additional ‘participation fee’ as price of EU reset deal
 Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement
 
+## Britain’s electricity grid operator makes record number of calls for extra power
+Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England
+
+## Trump doubles down on his tariff agenda
+New import levies on 14 partners defy voters and add to price pressures
+
+## Italy’s PM rebukes Ukraine for attacks on Russian ships in Mediterranean
+‘This war must not, cannot spread to the Mediterranean,’ Giorgia Meloni says at EU summit
+
+## Altria explores takeover bid for Imperial Brands
+Deal would remove another of the UK’s large listed companies from the London stock market
+
+## Pablo Hernández de Cos wins race for ECB presidency
+Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot
+
+## Israel’s Eisenkot takes steps towards replacing Netanyahu
+Opposition leader’s deals with two parties advance plans to oust prime minister
+
+## SAP explores at least 10,000 job cuts
+European software group is latest to restructure as AI hits software sector
+
+## Andrew Bailey says unreleased AI models have raised encryption concerns
+Breakthroughs in mathematics have stoked fears that data across financial systems is under threat
+
 ## Global stocks climb after volatile US trading over AI risks
 Tech shares hit this month by fears over whether boom can be sustained
 
-## Paris and Berlin seek to shield EU budget from Marine Le Pen
-France requests an extra €35bn for farmers to raise the cost of far-right leader picking apart deal on bloc’s budget if she becomes president
-
-## Minotaur is a breathtaking portrait of wealthy Russians turning a blind eye to war
-Andrey Zvyagintsev directs a stark thriller about a couple with an unhappy marriage and a callous disregard for events outside their own lives
-
-## Trafigura calls for greater European metals support after zinc shutdown
-The trading house will close Dutch zinc operations after calling for greater government help with power costs
-
-## 14th is a punchy biopic of the amendment and its links to Maga politics
-Ava DuVernay’s follow-up to ‘13th’ hymns an undersung workhorse whose achievements are now largely under threat
-
-## Nintendo and Sony ready for a two-level battle with AI
-Idea that the processing power behind games will one day reside in the cloud is something the industry must plan for
-
-## Texas resumes data centre permitting before Democrats take over
-Incoming governor Gina Hinojosa pledged to rein in construction of new projects during her campaign
+## European airlines brace for more bankruptcies after Norse suspends flights
+Wave of failures has swept through low-margin industry since Middle East conflict drove up fuel prices
 
 ## BoE to cut capital requirements for banks as it warns of AI risks
 Central bank tells lenders they will need to keep pace with the growing scale and sophistication of cyber threats
 
-## UK government has ‘failed’ to make case for third Heathrow runway, say MPs
-Transport committee warns ambitious scheme would only create ‘modest’ economic growth as PM Andy Burnham weighs decision on £33bn project
+## Bringing data to the Thanksgiving table
+Does America really face a food affordability crisis?
 
-## The space economy and European common goods
-With its formal budget kept small, the EU should think outside the box on ‘club goods’
+## Telangana to fill 25,000 vacancies soon, targets one lakh jobs in three years
+The Chief Minister also highlighted farmers’ welfare spending, government schemes and plans to strengthen irrigation facilities in the Palamuru region
 
-## NextEra-Dominion utility deal caught up in backlash over AI power costs
-Tie-up faces fierce opposition as anger over soaring electricity bills spills into Wall Street dealmaking
+## SAP weighs 10,000 job cuts as Europe’s top software company pushes AI strategy
+The proposed restructuring follows executive board changes and a broader overhaul of how the German software giant develops and sells products
 
-## JNPA awards ₹77-cr shore power contract at GTI; ships to switch off diesel generators at berth
-The project, also known as cold ironing, will enable ships to draw electricity directly from the shore instead of operating their onboard diesel-powered auxiliary generators to meet electricity requirements during their stay at the port
+## Share of power sector in coal supply hits 13-month high in October
+Thermal power plants witness higher coal burn due to rising temperatures and deficient rains
 
-## Kotak’s start-up bets fuel ₹1,000-crore digital transformation
+## India needs $500 billion per year to achieve net zero by 2070: Report
+The current annual climate investment of around $135 billion. Bridging this gap will require mobilising capital beyond established sectors and developing financing approaches suited to different technologies and stages of growth.
 
+## Special Parliament session from Monday amid delimitation buzz
+Lok Sabha convened on November 30, RS on December 2 for ‘Essential Government Business’
 
-## IWTMA, Germany’s BWE ink MoU to advance wind turbine repowering in India
-The collaboration will establish a framework for bilateral knowledge exchange on policy and regulatory frameworks
+## India’s rabi sowing trails by 10% on fall in coverage of wheat, gram
+Area under wheat down 17%, while gram slips 15% but mustard acreage flat with rise in acreage in MP offsetting decline in Rajasthan
 
-## When boardrooms meet the ghats
-Backed by over ₹20 crore of corporate funding, CII Banaras Biennale is an unusual foray by an industry lobby into a large-scale cultural asset creation
+## Chennai industrialist donates 121 kg of gold ornaments worth ₹206 crore to Tirumala
+TTD sources said the 47 ornaments constitute the largest donation of their kind in the temple’s modern history
 
-## West Asia conflict has generated a relatively stronger oil price shock, larger rupee depreciation, surge in price of gold: RBI Study
-Inflationary pressures arising from the current episode are broader and more intense than those observed during the Russia-Ukraine conflict
+## Food industry hopes for scientifically-validated thresholds
+Experts say that the industry players will need to begin focusing on nutrition-data validation and packaging capacity planning now
 
-## Broker’s call: Ventive Hospitality (Buy)
-Motilal Oswal
+## RBI brings another 60 tonnes of gold home; 84% reserves now held in India
+According to the RBI's latest half-yearly report, India's gold reserves stood at 880.52 metric tonnes at the end of September. Of this, 740.13 metric tonnes, equivalent to 84% of the total, were held within the country. The remaining 140.39 metric tonnes were kept with the Bank of England and the Ba
 
-## Broker’s Call: UTI Asset Management Co (Buy)
-Choice Institutional Equities
-
-## India’s semiconductor market set to reach $100–110 billion by 2030, says CareEdge
-Rising demand across digital infrastructure and automotive electronics is creating opportunities for domestic manufacturers, even as import dependence remains high
+## What is EPFO Amnesty Scheme 2026? Importance of one-time window to regularise legacy PF trusts
+Over the years, several establishments formed independent PF trust to administer benefits for their employees. In many instances, these trusts obtained recognition under the Income-tax Act, 1961 and operated as employer-managed. However, recognition under Income tax law and exemption under PF law ar
 
 ## Higher borrowing costs weigh on G4 economies, cloud 2027 rate hike outlook: Report
 Global business activity is facing a slowdown, impacted by increased borrowing costs and prevailing economic uncertainty. Anticipated interest rate hikes from central banks in the US, UK, Japan, and the eurozone in December may set the tone for financial markets. Looking ahead to 2027, future adjust
@@ -81,35 +90,32 @@ The United States is scrutinizing India's manufacturing initiatives, including t
 ## Tata Trusts move Bombay HC against Tata Sons, seek Rs 65 crore damages; hearing on Friday
 Tata Trusts has initiated legal action against Tata Sons over the reappointment of N Chandrasekaran, contending that the board resolution is invalid as it did not secure the required votes. They are seeking Rs 65 crore in damages and an injunction to prevent Chandrasekaran from exercising his voting
 
-## Where are gold and silver prices headed in near-term? Check outlook on November 26, 2026
-Gold and silver price prediction today: MCX Gold continues to show bearish momentum, reaching new lows for the week after breaking below the prior week’s low. Prices are expected to remain under downward pressure and move toward trendline support and the swing lows, which provide immediate support.
+## Ashwini Vaishnaw hits out at TVK government over deepam row: ‘hurts sentiments of millions'
+Ashwini Vaishnaw questioned whether citizens would eventually be barred from visiting temples if such restrictions went unchallenged.
 
-## Stock market today: Sensex turns flat after positive start; Nifty trades above 25,800 amid tariff concerns
+## ‘Make me the PM’: SP’s Azam Khan takes swipe at Azad-Owaisi alliance, rules out differences with Congress
+Azam Khan dismissed reports of differences between the Samajwadi Party and the Congress over seat-sharing for the upcoming Uttar Pradesh Assembly elections.
 
+## Centre authorises states, UTs to exercise powers under UAPA against Zakir Naik’s IRF
+Centre authorises states, UTs to exercise powers under UAPA against Zakir Naik’s IRF
 
-## 4 killed, 6 injured as van carrying wedding guests crashes into lorry in Andhra Pradesh
-Four people were killed and six injured after a van carrying 11 wedding guests rammed into a parked lorry on NH-67 in Andhra Pradesh’s Anantapur district.
+## Judicial member must for ED attachment cases: Supreme Court
+The court held that such consequential decisions cannot be left to a member without a legal background.
 
-## Telangana aviation academy’s C-152 plane makes emergency landing in army cantonment in Hyderabad
-The student pilot sustained a head injury and was taken to an Army hospital for treatment. Meanwhile, the instructor was safe.
+## ASI hands over 12th-century bronze idol, 2 other repatriated antiquities to Tamil Nadu Police
+ASI DG Yadubir Singh Rawat handed Somaskanda, Saint Sundarar with Paravai Nachiyar and Saint Kannappa Nayanar to the Idol Wing CID at Dharohar Bhawan
 
-## HT evening news brief November 26: SP releases poll manifesto ahead of UP elections; LOCs against CJP's Abhijeet Dipke, Ashutosh Ranka, Saurav Das
-Catch up on the day's top stories, covering national and international news, politics, sports and entertainment.
+## Rain fury waterlogs Keralam capital, state govt blames BJP-run civic body
+Police officers were seen declogging drain inlets near Thampanoor station; CPI(M)'s V Sivankutty and V K Prasanth slam mayor V V Rajesh.
 
-## ‘Focus on action rather than words’, says Kharge on Imran Masood. Congress MP responds
-At a Lucknow gathering, Congress chief Mallikarjun Kharge said the party should prioritize action and work together.
+## MK Stalin to take call after Bill tabled: DMK amid delimitation buzz
+A senior DMK leader, speaking on the condition of anonymity, said the party would wait for details of the proposed legislation before deciding on its stance.
 
-## Four newborn lion cubs die after pregnant lionesses rescued ahead of Gujarat pilgrimage
-At least 30 lions were reportedly rescued or confined ahead of the Girnar Lili Parikrama, says forest department officials as four newborn cubs died.
+## No Question Hour, Zero Hour during special 4-day Parliament sitting
+Union minister Kiren Rijiju had earlier said the government had requested the Lok Sabha speaker and Rajya Sabha chairman to reconvene the two Houses.
 
-## Stipend for unemployed graduates, state jobs for Agniveers, return of laptop scheme in SP poll manifesto
-In the manifesto, the party has promised 50 per cent reservation for PDA communities in government contracts, caste census as well as 25 lakh government jobs.
-
-## 'Excellent trade deal with US': MEA official says India tariffs will be lower than most others
-MoS Kirti Vardhan Singh described the proposed reduction in duties on Indian goods from 25 per cent to 17 per cent as a significant achievement.
-
-## Mumbai Police issues LOCs against CJP's Saurav Das, Abhijeet Dipke, Ashutosh Ranka over Dadar protest last month
-The circulars were issued over the FIR registered against Dipke, Das, Ranka, as well as other CJP members and their supporters on October 3 after the protest.
+## HKEX censures Evergrande founder Hui over US$2 billion financing deal
+China Evergrande Group founder and chairman Hui Ka-yan and six former directors face disciplinary action by Hong Kong’s stock exchange for breaching listing rules involving bank loan pledges made in 2020 and 2021, according to a statement from Hong Kong Exchanges and Clearing (HKEX). The exchange fo
 
 ## China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts
 The ousting of Shanghai Communist Party chief Chen Jining, a prominent technocrat who championed the city’s artificial intelligence and semiconductor sectors, could heighten scrutiny of state-backed tech investments, although analysts see little sign of a shift in China’s broader tech ambitions. Sta
@@ -132,8 +138,11 @@ Chinese firms are racing to claim brain-computer interface (BCI) breakthroughs a
 ## Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut
 Chinese investors are showing growing signs of caution towards the artificial intelligence trade, as a sharp sell-off in technology stocks coincides with renewed questions on Wall Street over the sustainability of the AI-driven rally, following a dramatic rebound in US stocks that lasted barely a da
 
-## Falling knife or bottom-fishing? Gold investors seek answers from Fed and PBOC
-Gold may face more downside risks, analysts say, as a Federal Reserve interest rate increase looms and stock investors unwind holdings of the metal to meet margin calls from equity losses, despite the tempering effects of a China-led sovereign buying wave. UBS Group cut its year-end target for gold 
+## The Top 10 Reasons to Be Thankful in 2026
+For the first time in a long while, global politics is looking up.
+
+## The Chaos Theory of International Relations
+How multialignment explains a world with no rules.
 
 ## Europe’s Economic Sovereignty Is All Talk and Little Action
 The continent’s reliance on the United States has surged despite all promises to diversify.
@@ -152,12 +161,6 @@ The Trump administration unveils new proposed tariffs on 14 economies, from Chin
 
 ## German Culture Could Soon Be Officially Anti-German
 The AfD is on the path to rewriting the legacy of Germany’s 20th-century cultural achievements.
-
-## De Gaulle and the Art of European Defiance
-One of the year’s best films carries a potent message for our Trumpian age.
-
-## Trump’s ‘Unprecedented Intervention’ in Nvidia
-The “Ones and Tooze” podcast takes on Jensen Huang’s surprising return.
 
 ## Morocco’s Royal Industrial Vision: A Global Strategic Opportunity
 One of the few African countries operating without the constraints of Chinese influence.
@@ -231,29 +234,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack
-House votes to refer draft amendments to the 2006 Anti-Terrorism Law to its Legal Committee for review.
+## Report: CIA tortured more people with waterboarding than US agency admitted
+A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
 
-## Is UBI the solution to mass unemployment in an AI economy?
-AI's rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.
+## Egypt detains driver over Cairo fuel tanker fire that killed 31
+Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.
 
-## Film shows testimonies of international doctors amid Gaza genocide
-A documentary shows footage from international doctors who bore witness to the collapse of the Gaza's medical system.
+## Bangladesh garment workers clash with police over low wages
+Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.
 
-## Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
-Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
+## Attack on Saudi’s Jazan refinery kills one person, disrupts operations
+The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.
 
-## FIFA says personal and business information stolen in cyberattack
-No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports.
+## Indian politician facing murder charges hosts 400,000-guest wedding
+An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.
 
-## With the rise of AI, are we close to having universal basic income
-Is UBI the solution to mass unemployment in an AI economy?
+## Mexico seeks US talks about suspected SpaceX debris
+Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.
 
-## ‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?
-UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.
+## Musk pledges two SpaceX shares for every US child
+US children would receive one share from SpaceX and one from him personally, Musk said.
 
-## James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’
-Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.
+## Peru burns more than 10 tonnes of seized drugs
+Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026
 
 ## Tata Sons plans to take Chandra reappointment to EGM, Noel challenges
 Tata Sons is looking to make changes to its articles of association in anticipation of an upcoming initial public offering. Additionally, N Chandrasekaran's reappointment as executive chairman will be proposed at an extraordinary general meeting. However, Noel Tata, leading the Tata Trusts, is conte
