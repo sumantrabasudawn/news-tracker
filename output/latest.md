@@ -1,109 +1,127 @@
 # AION Intelligence
 
-## US stocks close lower in volatile session as AI trade remains under pressure
-Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher
+## Stocks advance in Asia after volatile US trading over AI risks
+Tech shares hit this month by fears over whether an AI boom can be sustained
 
-## The fund manager’s dilemma over AI
-Assessing concentration risks may be more complicated than it seems
+## Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash
+Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets
 
-## UK inflation may peak at lower rate than BoE forecast, says governor
-But Andrew Bailey refuses to rule out another interest rate increase next month
+## Bank of Korea raises interest rates amid AI chip boom
+Third quarter-point increase this year takes benchmark rate to 3.25 per cent
+
+## ‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback
+Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait
+
+## UK university ‘grade inflation’ highest in degrees with more coursework, says study
+Subjects where final marks rest on exam grades recorded minimal change, according to the Higher Education Policy Institute
+
+## Israeli judges advise prosecutors to drop some charges against Netanyahu
+Country’s attorney-general told there is little chance of a bribery conviction in a boost for the premier
 
 ## US Treasury financial crime watchdog hit by suspected cyber attack
 FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems
 
-## Fragrance makers fined more than €500mn over Unilever price-fixing cartel
-EU and UK impose penalties over illegal collusion arranged at beer and curry meetings in London and over WhatsApp
+## Beige Book confirms hot US economy and signs of wage pressure building
+The report will help cement the coming December Federal Reserve interest rate rise
 
-## Upgrade to US GDP figures keeps December rate rise in play for Fed
-Bureau of Economic Analysis said economy grew at annualised rate of 4.3% in third quarter, up from initial estimate of 3.4%
-
-## North Korea closes Swiss diplomatic office in row over children’s camp
-Sanctions on Songdowon International Children’s Camp were a ‘blatant hostile act’, says Pyongyang
-
-## Nvidia fallout exposes China’s fragility on frontier AI
-The lack of US-style capital markets and domestic commercial demand makes it difficult for Beijing to fuel innovation
-
-## Light-activated nano-robots bring more drugs to the brain
-Research on mice suggests biodegradable agents may be able to deliver increased amounts of medication than other methods while causing less toxicity
-
-## Billionaire financier Todd Boehly strikes deal for Lukoil assets
-Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business
+## Financier Todd Boehly strikes deal for Lukoil assets
+Shares in the Russian oil company have been frozen since Moscow’s full-scale invasion of Ukraine in 2022
 
 ## Poundland collapses into administration
 Retailer’s demise follows criticism of US owner Gordon Brothers, which bought the business for less than £1 last year
 
-## Tariff Turmoil: US links lower 17% tariff for India to reciprocal trade deal, proposes up to 25% otherwise
-Proposed rate offers India an edge over several Asian competitors, but remains higher than Japan, South Korea, Taiwan and the EU; India seeks durable tariff parity before signing.
+## US stocks close lower in volatile session as AI trade remains under pressure
+Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher
 
-## India says it has no structural excess capacity, remains committed to early US trade deal
-The Commerce Ministry said the US notice is under examination, while reiterating New Delhi’s position on manufacturing capacity and trade negotiations.
+## Light-activated nano-robots bring more drugs to the brain
+Research on mice suggests biodegradable agents may be able to deliver increased amounts of medication than other methods while causing less toxicity
 
-## Industrial parks, renewables, automotive and engineering lead Tamil Nadu’s ₹58,214 crore investment commitments
-The new Industrial Policy is also under preparation and is expected to be ready by January 2027, said Industry Secretary S Vijayakumar
+## The fund manager’s dilemma over AI
+Assessing concentration risks may be more complicated than it seems
 
-## Rupee-led imports surge five-fold to ₹2.73 lakh crore in the H1FY27
-Rupee settlements for exports declined 18 per cent
+## Sensex today | Stock Market Live: Sensex gains 200 pts, Nifty above 25,800 in early trade; US tariffs in focus
+Sensex, Nifty, Share Prices Live Updates: Sensex traded 207.95 pts or 0.25% positive at 84,146.23 by 9.16 am after opening at 84,301.40 from 83,938.28 previous close. Nifty 50 inched up 28.30 pts or 0.11% to 25,847.55.
 
-## Precious metals plunge in Indian markets on global cues, strong currencies
-High US consumer confidence and sell-off in technology equities trigger the fall in gold and silver
+## North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture
+Kim signals he won’t abandon his evolving nuclear program, the backbone of his rule, and seeks to boost North Korea’s status as a nuclear power
 
-## Rupee hits eight-month high as foreign inflows lift markets; Nifty nears record peak
-The rally came as the BSE Sensex and Nifty rose about 1.8 per cent–1.9 per cent
+## India to host Indian Ocean Rim Association Council of Ministers meeting on Nov 27
+The theme for India's IORA chairship 2025-2027 is 'Innovation, Openness, Resilience and Adaptability in the Indian Ocean Region'
 
-## Dalal Street goes on a bull run: Sensex, Nifty jump over 2%, snap 2-day losing streak
-Market breadth on the Nifty was overwhelmingly positive, with 45 stocks advancing against just 5 declining
+## Billions in data centre deals grind to halt after US AI chip curbs
+Bankers are concerned about the legal risks of financing data centres and neoclouds potentially facing stricter US export controls
 
-## Accretion to FCNR(B) deposits hits the slow lane in Sept 2026
-Net inflows into FCNR (B) deposits during September 2026 were at $2.809 billion
+## Traders’ body seeks 25% retaliatory tariff on US goods
+CTI Chairman Brijesh Goyal warns the tariff could impact exports worth $48 billion and put 5 lakh jobs at risk export impact
 
-## Rupee recovers FY26 losses, strengthens to 92.16 against dollar on equity rally
-On Wednesday, the Indian rupee strengthened against the US dollar, closing at 92.16 after substantial gains. This increase followed significant foreign institutional investments exceeding $12 billion into Indian equities during November. Weaker crude oil prices and robust domestic equity markets con
+## Uber appoints Rakesh Ranjan as president for India and South Asia
+His appointment will be effective from January 4, 2027.
 
-## ‘One Air India Group:’ New CEO focuses on synergy to cut losses, improve operations
-Air India's new CEO, Tewolde Gebremariam, is focusing on a unified approach to improve profitability. He plans to streamline operations between Air India and AI Express while maintaining separate licenses. Gebremariam emphasizes the importance of cost discipline and operational excellence moving for
+## Will Nifty cross 26,000 today? FPI inflows, global cues in focus
+Gift Nifty at 26,023 indicates a gap up opening of about 100 points.
 
-## US economy expands at 4.3% annualised rate in Q3, nearly double Q2 growth
-The US economy grew at a surprising annualised rate of 4.3% in the third quarter of 2026. This growth was significantly bolstered by stronger consumer spending and robust business investment during that period. Consumer spending rose at a revised rate of 4.2%, while business investment continued its
+## Stocks to watch, November 26: LG Electronics, Tata Steel, SG Mart, APL Apollo Tubes, Fino Payments, PNB, Lupin, Cryogenic OGS, Lotus Chocolates
+Key triggers for Schaeffler India, Atlanta, Race Eco Chain, Quality Power, Juniper Energy, KSB, Tanfac, Diamond Power, Super Tannery, Sanathan Textiles
 
-## Inside India's Rs 11,000cr bet to end foreign grip on construction, infra equipment
-The Indian government has approved an Rs 11,000-crore scheme to bolster the domestic construction equipment manufacturing industry. This initiative aims to reduce reliance on external supply chains while enhancing local production capabilities. Manufacturers will receive incentives based on sales pe
+## RBI brings another 60 tonnes of gold home; 84% reserves now held in India
+According to the RBI's latest half-yearly report, India's gold reserves stood at 880.52 metric tonnes at the end of September. Of this, 740.13 metric tonnes, equivalent to 84% of the total, were held within the country. The remaining 140.39 metric tonnes were kept with the Bank of England and the Ba
 
-## The onion index: How rising pyaaz prices can make your EMIs and investment portfolio cry
-Onion prices have risen due to supply side issues. Depletion and some spoilage of stored rabi stocks and concerns over the timing and quality of kharif arrivals amid uneven rainfall have led to the sudden spike. In September, at Lasalgaon APMC in Nashik, wholesale onion prices climbed 160% in less t
+## 85-year-old wins case to evict son and daughter-in-law from Delhi home
+An elderly man owns a flat which he acquired from the Delhi Development Authority in 1980 and converted it into freehold in 2000. His eldest son and daughter-in-law had been living there since their marriage in 2003. The Delhi High Court noted that the father's ownership was undisputed. The son and 
 
-## From new airport to postal services: Cabinet clears Rs 19,934 cr package; key decisions
-The Union Cabinet recently approved significant proposals amounting to nearly Rs 19,934 crore including infrastructure projects. A scheme for enhancing construction equipment manufacturing ecosystem received Rs 11,000 crore allocation for domestic production support. Additionally, a new container te
+## Top stocks to buy today: Stock recommendations for November 26, 2026 - check list
+Top stock market recommendations: Bajaj Auto, HDFC Life Insurance Company, and Mankind Pharma are the top stocks identified as buy calls on November 26, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth.
 
-## Man faces Rs 20.94 lakh penalty over property sale to son-in-law; why ITAT gave relief
-The dispute centred on the sale of an immovable property. The AO concluded that the taxpayer had received Rs 20.94 lakh in cash in connection with the transfer, thereby breaching Section 269SS of the Income Tax Act. A penalty equivalent to the disputed amount was then imposed under Section 271D. The
-
-## Flipkart's Kalyan Krishnamurthy steps down as CEO
+## Musk's SpaceX gets US nod for 1 million satellites to power AI data centres in space
 
 
-## India rejects US excess capacity claims, says no structural overcapacity in any sector
-“The Notice is currently under examination,” the ministry said, adding that India had engaged constructively throughout the investigation.
+## Travel pushes LRS remittances past $3bn in September
+In September, the Liberalised Remittance Scheme witnessed a remarkable increase in outward remittances, reaching a 24-month record of $3.2 billion. The primary catalyst was a 21% rise in travel expenditures. Concurrently, both equity and debt instrument investments contributed to this growth. Howeve
 
-## India to become major global space power, says Skyroot Aerospace CEO
-Pawan Kumar Chandana said the first private rocket launch by Skyroot Aerospace was only a beginning.
+## RBI flags rising inflation, says economist on firm footing
+In October, India’s economy showcased impressive resilience, bolstered by heightened consumption and credit activities. However, retail inflation climbed to 6.1%, eclipsing the RBI's target as multiple sectors faced price hikes. Eleven states noted inflation rates above 6%, indicating extensive fina
 
-## Finance Ministry imposes restrictions on media entry till Budget announcement
-The Union Budget for 2027-28 is scheduled for February 1; it will be Nirmala Sitharaman's 10th straight Budget and the fourth of the Modi 3.0 government.
+## Abrupt end to Kalyan-raj at Flipkart
+On December 4, Kalyan Krishnamurthy will step down as CEO of Flipkart after nearly a decade, following clashes with Walmart over financial and listing strategies. An emergency town hall disclosed the unexpected changes, leaving senior executives stunned. Krishnamurthy's leadership had revitalized Fl
 
-## 'Children not toys for parents': SC sets aside Madras HC order granting custody to father
-The Supreme Court said the welfare of the child was the paramount consideration in appointing a guardian rather than the legal rights of the parents.
+## Lakshmi Venu moves Madras high court for partition of family assets
+Lakshmi Venu has filed a petition in the Madras High Court seeking a division of her family's assets, asserting that efforts to amicably settle matters with her father, Venu Srinivasan, have proven unsuccessful. She is requesting access to documents concerning their joint family assets, emphasizing 
 
-## ‘Gen Z wants good opportunities, education, and infrastructure’: Dipke on Uttar Pradesh polls
-Abhijeet Dipke also said that the CJP will not side with any party in the upcoming Uttar Pradesh assembly elections.
+## HT morning brief Nov 26: 4 in 5 Agniveers wanted to stay on, India rejects US excess capacity claims and more
+From Agniveer report, India's response to fresh US tariffs, Gukesh's World Championship clash and the Ramayana collection, here are today's top stories.
 
-## Surat doctor gets two-year jail term for negligence in treatment of composer Ismail Darbar’s mother
-A Surat court sentenced Dr Pareshkumar Bhajiyawala to two years in jail for medical negligence that caused burn injuries to Ismail Darbar’s mother in 2009.
+## Ministers, lawmakers put travel plans on hold amid uncertainty surrounding Parliament session
+There are no explicit instructions, but there is an understanding that a session may be announced at short notice
 
-## Ex-Congress MLA Vinay Kulkarni must surrender in 2 weeks as SCt cancels bail in 2016 murder case
-The Supreme Court set aside the Karnataka high court order staying Vinay Kulkarni’s conviction and directed him and seven co-convicts to surrender within two weeks.
+## Egg prices fall as exports to Gulf markets slow; shipments from Namakkal drop
+Data from the National Egg Coordination Committee (NECC) shows that its suggested price in Namakkal fell from ₹6.70 on November 8-11 to ₹5.40 on November 24-25
 
-## Government extends free travel for Chakra series gallantry awardees in all trains including Vande Bharat
-The Army said the Railways and Defence ministries made the change without altering existing entitlements, calling it a “shared commitment” to honour valour.
+## India's sugar production may dip 15% to 26.5 million tonnes this season, says ISMA
+Maharashtra's sugarcane area has declined 10% to 1.33 million hectares, while Karnataka has recorded a 7% fall to 631,000 hectares.
+
+## SP, Congress to hold second round of seat-sharing talks for UP polls tomorrow amid alliance friction
+The Congress’s negotiators have also indicated they will discuss the party’s next set of plans with the high command before approaching the second round.
+
+## Delhi Police denies permission for SKM's march to Jantar Mantar on farmers' protest anniversary
+Police said that no application has been received and no permission has been granted for the farmers' protest march.
+
+## A Kannada flavour to the Indian Constitution
+Today, November 26, India will celebrate the 77th birthday of a sacred, secular text that binds all of her mindbogglingly diverse peoples into one equal community – the Indian Constitution
+
+## CDSCO flagged 324 drugs ‘NSQ’ in October: Report
+An October surveillance exercise by the Central Drugs Standard Control Organisation (CDSCO) has flagged 324 drugs as not of standard quality (NSQ) and one drug as spurious, a report released on Wednesday by the drug regulator said
+
+## HSBC sees more than 100,000 users of its stablecoin in first month since launch
+More than 100,000 people used HSBC RedCoin, the stablecoin issued by Hong Kong’s biggest lender, in the first month following its launch, indicating retail customers in the city were interested in digital assets, HSBC said in a statement issued on Thursday. “Attracting 100,000 users in our first mon
+
+## China’s CATL faces a trillion-yuan question: how to win back investor confidence
+Concerns about weak battery demand are expected to continue to weigh on Contemporary Amperex Technology Ltd (CATL) next year, according to analysts, after a reported production cut sent the battery giant’s market capitalisation below the 1 trillion yuan (US$150 billion) mark. The firm’s market value
+
+## AI turmoil spurs risk-off mode as China government bond yield slides to record low
+Investors are hunkering down for defensive positions, driving down the yield on the benchmark longer-dated Chinese government bond to a record low and loading up on dividend stocks, as the volatility of the artificial intelligence trade sparked widespread risk aversion. The decrease in risk appetite
+
+## ‘Guaranteed traffic’: SSP Group set to expand Hong Kong airport catering services
+London-listed SSP Group is looking to add more restaurants at Hong Kong International Airport (HKIA) as the world’s largest travel food company soft-launches Yung Kee Pop, a quick-service iteration of Central’s Yung Kee restaurant, both of which serve charcoal-roasted goose and other popular Cantone
 
 ## Shein revenue falls 6% in third quarter as EU trade curbs hit sales hard
 Shein’s revenue fell 5.9 per cent in the third quarter of the year as European trade restrictions weighed on sales, underscoring the retailer’s difficult start to life as a Hong Kong-listed company. Revenue for the three months ended September 30 dropped to US$10.27 billion, while the number of orde
@@ -117,17 +135,17 @@ Huawei Technologies has established dedicated patent teams for semiconductors an
 ## China’s K-shaped economy better for mainland markets than Hong Kong stocks: UBS
 UBS Global Wealth Management prefers mainland Chinese stocks to Hong Kong-listed ones for 2027, warning that China’s “K-shaped” economy has left the offshore market on the weaker side of the divide. The bank’s chief investment office downgraded Hong Kong-listed Chinese equities – tracked by the MSCI
 
-## AstraZeneca’s China strategy: fewer sales staff, more investment?
-British-Swedish drug maker AstraZeneca has reportedly begun a major round of job cuts in China amid declining sales in the country, even as it joins other global pharmaceutical giants in expanding investment in the rising biotech powerhouse. The company began laying off up to 20 per cent of its Chin
+## Against an Axis of Anything
+China and Russia are getting closer, but their alignment is hardly inevitable.
 
-## Chinese private funds retreat from record highs as AI bubble jitters hit Nvidia backers
-A 12-month-long expansion by China’s private investment funds ended in October as market turmoil and fears of an AI bubble forced a retreat by investors. Total assets under management by private investment funds in China amounted to 25.22 trillion yuan (US$3.78 trillion) at the end of October, down 
+## Ukraine’s Shadow War in Africa
+The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.
 
-## BYD apologises for wheel-rim error; Chinese car buyers go electric: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD apologises for wheel-rim error as China cracks down on car quality issues BYD has 
+## Tariff Man Strikes Again
+The Trump administration unveils new proposed tariffs on 14 economies, from China to the European Union.
 
-## BYD eyes a second European plant, enters talks with Ineos over a French assembly
-Chinese electric vehicle (EV) giant BYD has edged closer to a second plant in Europe after it entered exclusive talks to take over an assembly from Ineos Automotive in France, accelerating its plan for local production amid heightened import restrictions on the continent. The company said in a state
+## German Culture Could Soon Be Officially Anti-German
+The AfD is on the path to rewriting the legacy of Germany’s 20th-century cultural achievements.
 
 ## De Gaulle and the Art of European Defiance
 One of the year’s best films carries a potent message for our Trumpian age.
@@ -140,18 +158,6 @@ A new book on progressive foreign policy reveals real divides but also a party u
 
 ## Nepal’s New Leader Reaffirms Ties With India
 Balendra Shah’s first foreign trip shows New Delhi’s regional sway.
-
-## Arms Control Pledges Are Hard to Keep, But Talking Helps
-The superpowers must keep channels open on nuclear weapons.
-
-## Trump Is Desperate For a Ukraine Deal, but the Window Is Closing
-He wants a profitable, Kremlin-friendly peace before the Democrats seize Congress.
-
-## The Party Shaping Spain’s Election Isn’t Even on the Ballot
-A fast-growing far-right party is tapping into the Catalonian electorate’s frustrations.
-
-## Don’t Let China Hawks Exploit the Nvidia Scandal
-Export controls aren’t working, and U.S.-China cooperation remains the better path.
 
 ## China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines
 The Nvidia scandal has exploded into public view, but most of China’s foreign technology acquisitions are far more mundane – and even legal.
@@ -225,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Winter rains threaten 1,000 Gaza shelter sites, councils warn
-About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.
+## Colombian president taunts arrested supermarket hostage-takers
+Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.
 
-## US Education Department probes Virginia schools after sexual abuse scandal
-Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.
+## Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
+Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.
 
-## Baby Aliyah steals the show during Australian Senate debate
-Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
+## FIFA turns to influencers to promote U17 World Cup
+FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.
 
-## What’s behind Europe’s protests?
-Increase in protests and industrial disputes across EU and UK.
+## Kim Jong Un says North Korea should widen deployment of tactical nukes
+North Korean leader warns attempts to deny country's nuclear status will be seen as "an open declaration of war".
 
-## Netanyahu says corruption trial ‘must end’ as court suggests dropping case
-The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.
+## Photos: Storms and an El Nino-charged king tide batter California’s coast
+Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.
 
-## Migrant wrongly deported by Trump leaves US for Spain
-Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.
+## Ukraine attacks Russian military base, says five planes struck
+The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.
 
-## Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle
-A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest.
+## ICE officers smash car window, pepper spray bystanders
+Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.
 
-## US Army declares Iowa lead azide detonation ‘tremendously successful’
-Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.
+## Judges recommend prosecutors end corruption case against Netanyahu
+Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.
 
 ## ITAT backs Tata Sons' investment-holding business claim, allows interest deduction in tax case
 The Income Tax Appellate Tribunal ruled in favor of Tata Sons regarding interest deductions for investments. The tribunal dismissed the Income Tax Department's appeal for the assessment year 2014-15. Tata Sons argued that its investments were essential to its role beyond merely earning dividends. Th
