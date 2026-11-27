@@ -1,31 +1,40 @@
 # AION Intelligence
 
+## New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant
+National Party-led coalition fails to win majority and needs support from Opportunity Party to form government
+
+## An exiled former leader faces execution at home. Why does she want to go back?
+Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death
+
+## India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti
+Renewables can match coal power for reliability at lower cost, insists wind power pioneer
+
+## Lula names banker as Brazil finance minister in attempt to calm markets
+Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets
+
+## EU deal is floor ‘not ceiling’ in Brexit reset, insists Burnham cabinet ally
+Douglas Alexander to say PM will reject warnings from opposition parties and push ahead with plans to rebuild ties with Brussels
+
+## Tribunal upholds decision to ban two Iran-linked figures from UK charities
+Judgments mark a victory for the Charity Commission’s efforts to combat alleged Iranian state support for extremism in Britain
+
 ## Two Italians killed in drone strike on Kuwait
 Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month
 
 ## UK to pay additional ‘participation fee’ as price of EU reset deal
 Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement
 
+## What's a fund manager to do?
+A guide to navigating tempestuous markets
+
 ## Britain’s electricity grid operator makes record number of calls for extra power
 Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England
 
-## Trump doubles down on his tariff agenda
-New import levies on 14 partners defy voters and add to price pressures
-
-## Italy’s PM rebukes Ukraine for attacks on Russian ships in Mediterranean
-‘This war must not, cannot spread to the Mediterranean,’ Giorgia Meloni says at EU summit
+## SAP explores at least 10,000 job cuts
+European software group is latest to restructure as AI hits software sector
 
 ## Altria explores takeover bid for Imperial Brands
 Deal would remove another of the UK’s large listed companies from the London stock market
-
-## Pablo Hernández de Cos wins race for ECB presidency
-Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot
-
-## Israel’s Eisenkot takes steps towards replacing Netanyahu
-Opposition leader’s deals with two parties advance plans to oust prime minister
-
-## SAP explores at least 10,000 job cuts
-European software group is latest to restructure as AI hits software sector
 
 ## Andrew Bailey says unreleased AI models have raised encryption concerns
 Breakthroughs in mathematics have stoked fears that data across financial systems is under threat
@@ -36,83 +45,92 @@ Tech shares hit this month by fears over whether boom can be sustained
 ## European airlines brace for more bankruptcies after Norse suspends flights
 Wave of failures has swept through low-margin industry since Middle East conflict drove up fuel prices
 
-## BoE to cut capital requirements for banks as it warns of AI risks
-Central bank tells lenders they will need to keep pace with the growing scale and sophistication of cyber threats
+## India, UAE agree to boost defence ties at 14th JDCC meeting in Abu Dhabi
+India and UAE to accelerate co-development and co-production of next generation defence equipment
 
-## Bringing data to the Thanksgiving table
-Does America really face a food affordability crisis?
+## Sensex today | Stock Market Live: Sensex slips 250 pts, Nifty below 25,850 as IT stocks fall; Metals gain
+Sensex, Nifty, Share Prices Live: Benchmark indices opened largely unchanged on Friday. The Sensex traded lower and the Nifty edged up as information technology shares declined and metal stocks advanced.
 
-## Telangana to fill 25,000 vacancies soon, targets one lakh jobs in three years
-The Chief Minister also highlighted farmers’ welfare spending, government schemes and plans to strengthen irrigation facilities in the Palamuru region
+## Swara Baby Products cuts IPO size to ₹800 cr, sets price band at ₹105 ​- ₹111
+The IPO comprises a fresh issue of ‌shares worth ₹500 crore and an offer for sale of ‌shares worth up to ₹300 crore ⁠by existing shareholders; issue to open on December 2
 
-## SAP weighs 10,000 job cuts as Europe’s top software company pushes AI strategy
-The proposed restructuring follows executive board changes and a broader overhaul of how the German software giant develops and sells products
+## Stocks in focus, Nov 27: TVS group companies, NSE, Unimech, Omnitech, Texmaco Rail, Apeejay, EMS, Waaree Renewable, Bansal Wire, Zydus among the others
+Madras High Court to hear Lakhmi’s plea against Venu Srinivasan on partition of family assets
 
-## Share of power sector in coal supply hits 13-month high in October
-Thermal power plants witness higher coal burn due to rising temperatures and deficient rains
+## Lured by jobs, forced into cybercrime: Inside Delhi's human trafficking racket that held 164 foreigners
+The rescued group includes 92 Indonesians and 72 Malaysians who were allegedly confined, assaulted for refusing to work and made to target victims back home.
 
-## India needs $500 billion per year to achieve net zero by 2070: Report
-The current annual climate investment of around $135 billion. Bridging this gap will require mobilising capital beyond established sectors and developing financing approaches suited to different technologies and stages of growth.
+## Tata Steel-Apollo deal tests power of minority investors
+Founders owned just under 42% of non-state-owned companies at the end of September, while institutional investors held less than 35%
 
-## Special Parliament session from Monday amid delimitation buzz
-Lok Sabha convened on November 30, RS on December 2 for ‘Essential Government Business’
+## Rupee plunges 24 paise to 92.62 against US dollar in early trade
+The rupee opened at 92.44 and slipped to 92.62 per dollar, 24 paise down from the previous close
 
-## India’s rabi sowing trails by 10% on fall in coverage of wheat, gram
-Area under wheat down 17%, while gram slips 15% but mustard acreage flat with rise in acreage in MP offsetting decline in Rajasthan
+## Binance lifts withdrawal suspension after $6.3 billion crypto heist
+The crypto platform ‌added that ​a small number ⁠of networks are temporarily ‌paused while they undergo maintenance or ‌planned upgrades, separate ​from its completed recovery ⁠work.
 
-## Chennai industrialist donates 121 kg of gold ornaments worth ₹206 crore to Tirumala
-TTD sources said the 47 ornaments constitute the largest donation of their kind in the temple’s modern history
+## Gold price crash puts pledged jewellery at risk as lenders issue auction notices
+Nearly 40% of the gold-loan portfolios of these lenders have reportedly breached the thresholds, with the ratio exceeding 95% in some cases. The notices ask borrowers to either repay a portion of their outstanding dues or furnish additional collateral to bring their LTV ratios back within the prescr
 
-## Food industry hopes for scientifically-validated thresholds
-Experts say that the industry players will need to begin focusing on nutrition-data validation and packaging capacity planning now
-
-## RBI brings another 60 tonnes of gold home; 84% reserves now held in India
-According to the RBI's latest half-yearly report, India's gold reserves stood at 880.52 metric tonnes at the end of September. Of this, 740.13 metric tonnes, equivalent to 84% of the total, were held within the country. The remaining 140.39 metric tonnes were kept with the Bank of England and the Ba
-
-## What is EPFO Amnesty Scheme 2026? Importance of one-time window to regularise legacy PF trusts
-Over the years, several establishments formed independent PF trust to administer benefits for their employees. In many instances, these trusts obtained recognition under the Income-tax Act, 1961 and operated as employer-managed. However, recognition under Income tax law and exemption under PF law ar
-
-## Higher borrowing costs weigh on G4 economies, cloud 2027 rate hike outlook: Report
-Global business activity is facing a slowdown, impacted by increased borrowing costs and prevailing economic uncertainty. Anticipated interest rate hikes from central banks in the US, UK, Japan, and the eurozone in December may set the tone for financial markets. Looking ahead to 2027, future adjust
-
-## Rs 86 lakh flat construction stalled; builder ordered to refund 9% interest, settle home loan
-A homebuyer booked a 237-square-yard residential floor in a real estate project in Sonipat in February 2017. He paid Rs 14.76 lakh towards the property and also got a home loan. According to his complaint, the possession was promised by October 2019. However, the homebuyer alleged that when he visit
-
-## IT sector employees seek national AI layoff policy; demand minimum severance pay
-The proposed framework would require companies to record and disclose the number of positions eliminated because of AI, employees shifted to different roles within the organisation and workers retrained for new jobs. It would also establish minimum expectations for employers to explore internal tran
-
-## US targeting India's manufacturing schemes while protecting its own industry: GTRI
-The United States is scrutinizing India's manufacturing initiatives, including the Production Linked Incentive scheme. Proposed tariffs could reach up to 25% on Indian goods, citing excess manufacturing capacity. Ajay Srivastava claims these tariffs target several economies, including India, China, 
-
-## Nvidia halts server shipments to 4 Southeast Asian countries amid chip scandal; China not on list: Report
+## Finance Minister wraps up pre-budget consultations
 
 
-## Tata Trusts move Bombay HC against Tata Sons, seek Rs 65 crore damages; hearing on Friday
-Tata Trusts has initiated legal action against Tata Sons over the reappointment of N Chandrasekaran, contending that the board resolution is invalid as it did not secure the required votes. They are seeking Rs 65 crore in damages and an injunction to prevent Chandrasekaran from exercising his voting
+## Banks increase share in lending to companies
 
-## Ashwini Vaishnaw hits out at TVK government over deepam row: ‘hurts sentiments of millions'
-Ashwini Vaishnaw questioned whether citizens would eventually be barred from visiting temples if such restrictions went unchallenged.
 
-## ‘Make me the PM’: SP’s Azam Khan takes swipe at Azad-Owaisi alliance, rules out differences with Congress
-Azam Khan dismissed reports of differences between the Samajwadi Party and the Congress over seat-sharing for the upcoming Uttar Pradesh Assembly elections.
+## Rupee in undervalued territory in October despite modest gains
 
-## Centre authorises states, UTs to exercise powers under UAPA against Zakir Naik’s IRF
-Centre authorises states, UTs to exercise powers under UAPA against Zakir Naik’s IRF
 
-## Judicial member must for ED attachment cases: Supreme Court
-The court held that such consequential decisions cannot be left to a member without a legal background.
+## September sees net FDI outflow of $4.9bn
 
-## ASI hands over 12th-century bronze idol, 2 other repatriated antiquities to Tamil Nadu Police
-ASI DG Yadubir Singh Rawat handed Somaskanda, Saint Sundarar with Paravai Nachiyar and Saint Kannappa Nayanar to the Idol Wing CID at Dharohar Bhawan
 
-## Rain fury waterlogs Keralam capital, state govt blames BJP-run civic body
-Police officers were seen declogging drain inlets near Thampanoor station; CPI(M)'s V Sivankutty and V K Prasanth slam mayor V V Rajesh.
+## Know IBEF? Entity accused of creating excess capacity
 
-## MK Stalin to take call after Bill tabled: DMK amid delimitation buzz
-A senior DMK leader, speaking on the condition of anonymity, said the party would wait for details of the proposed legislation before deciding on its stance.
 
-## No Question Hour, Zero Hour during special 4-day Parliament sitting
-Union minister Kiren Rijiju had earlier said the government had requested the Lok Sabha speaker and Rajya Sabha chairman to reconvene the two Houses.
+## Share of US in India’s exports remains same
+
+
+## Sensex up 390 points, hits 10-month high of 84.3k
+
+
+## Stars vs. warning labels: Inside packaged food dispute and what the SC ruling means
+“We have issued some directions which we feel, if implemented, will lead to healthier children. If taken in the right spirit, it will take the country to healthier times,” the SC said
+
+## TMC name, symbol, party funds at stake as rival factions present claims before ECI today
+The ECI could award them to one TMC faction, or keep both frozen and let each continue under its interim identity
+
+## ‘The fight is on’: Opposition targets govt over special Parliament sitting, calls it ‘assault’ on Constitution
+The Lok Sabha and Rajya Sabha secretariats issued bulletins confirming a four-day sitting from November 30 to December 3.
+
+## 20 TMC rebels, 22 DMK MPs and Lok Sabha numbers game: Decoding delimitation maths
+The Union Cabinet is likely to approve changes to the Constitution (131st Amendment) Bill and the Delimitation Bill
+
+## Gauhati HC grants interim bail to former APSC chief accused in cash for job case
+The court granted bail to Rakesh Paul on November 23 considering his prolonged incarceration, his wife’s medical condition (kidney failure) and delays in hearing of connected appeals
+
+## Cabinet Meeting LIVE Updates: Centre prepares for Parliament's November 30 sitting, delimitation in focus
+Cabinet Meeting LIVE Updates: The Lok Sabha and Rajya Sabha secretariats have confirmed that there will be no Question Hour, Zero Hour or Private Members' Business during the sittings.
+
+## Coimbatore blast: Accused allowed 'A' Class facilities in prison, court cites ‘superior lifestyle’
+Co-accused Navas was arrested in the case in October 2024 and is currently lodged at Central Prison, Coimbatore.
+
+## HT Morning News Brief November 27: Parliament special session with delimitation on agenda; Trump backs Jensen Huang and more
+Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+
+## Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai
+Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and se
+
+## How innovation turns disruption into opportunity to power next era of growth
+Technological advances are rapidly reshaping the way the world does business. It means senior executives and investors must keep up with the latest trends in innovation and embrace them to ensure they stay relevant and use their strengths to make the most of emerging opportunities. The annual UBS Di
+
+## Beauty defies consumers’ spending slowdown as China’s brands look to expand globally
+As holiday shopping gets under way across the globe with Black Friday sales, beauty products and services are grabbing a bigger share of consumers’ budgets while many retail categories lose traction. Beauty stands out as one of the few categories that have sustained growth over the past three years,
+
+## China’s property debt crisis deepens as second wave of restructurings looms
+China’s property debt crisis is entering a new phase as developers face the risk of defaulting again after years of repayment extensions, according to analysts, with a prolonged housing downturn leaving many unable to meet their obligations. China Vanke is seeking a three-year extension on a 1.2 bil
+
+## Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say
+Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break intact, according to multiple sources. Hong Kong Exchanges and Clearing (HKEX) will not
 
 ## HKEX censures Evergrande founder Hui over US$2 billion financing deal
 China Evergrande Group founder and chairman Hui Ka-yan and six former directors face disciplinary action by Hong Kong’s stock exchange for breaching listing rules involving bank loan pledges made in 2020 and 2021, according to a statement from Hong Kong Exchanges and Clearing (HKEX). The exchange fo
@@ -122,21 +140,6 @@ The ousting of Shanghai Communist Party chief Chen Jining, a prominent technocra
 
 ## Hong Kong’s home prices fall in October as rents hit a record high
 Hong Kong’s home prices declined in October, ending two consecutive months of gains, as renewed market volatility and competition from primary home sales weighed on sentiment. Rents, meanwhile, climbed to a record high for a 12th straight month. The private home price index dipped 0.59 per cent mont
-
-## Hong Kong Maritime Week 2026 showcases the SAR’s status as maritime capital city
-[The content of this article has been produced by our advertising partner.] Several thousand industry leaders of the global maritime sector, joined by government dignitaries from Hong Kong, the Chinese Mainland and overseas, gathered at Hong Kong Convention and Exhibition Centre to attend the 10th e
-
-## Will Hong Kong’s expanded WinterFest this year boost the city’s retail spaces?
-Hong Kong’s expanded WinterFest is likely to boost the prospects of retail properties in the city’s core shopping districts of Causeway Bay, Central and Tsim Sha Tsui, according to property consultancy Cushman & Wakefield. The city has spruced up its Christmas decorations this year with festive inst
-
-## Carmakers look to strengthen China’s electric mobility lead at Guangzhou auto show
-Chinese carmakers, facing weak sales at home, are set to shed light on how their vehicles can take the lead in the global automotive industry’s green transition at a trade show starting in Guangzhou on Friday. Dozens of vehicle assemblers – including BYD, China’s largest carmaker, and premium electr
-
-## China pushes brain-computer interface breakthroughs as Neuralink advances towards market
-Chinese firms are racing to claim brain-computer interface (BCI) breakthroughs as Elon Musk’s Neuralink advances towards commercialisation, with Beijing seeking to leapfrog the US by setting standards and expanding real-world applications in what it sees as a strategic industry. Neuralink said on We
-
-## Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut
-Chinese investors are showing growing signs of caution towards the artificial intelligence trade, as a sharp sell-off in technology stocks coincides with renewed questions on Wall Street over the sustainability of the AI-driven rally, following a dramatic rebound in US stocks that lasted barely a da
 
 ## The Top 10 Reasons to Be Thankful in 2026
 For the first time in a long while, global politics is looking up.
@@ -234,29 +237,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Report: CIA tortured more people with waterboarding than US agency admitted
-A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
+## Thanksgiving storms leave nearly a million without power across the US
+Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.
 
-## Egypt detains driver over Cairo fuel tanker fire that killed 31
-Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.
+## At least 13 Niger soldiers killed in Sanam armed attack
+It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.
 
-## Bangladesh garment workers clash with police over low wages
-Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.
+## Trump downplays Russia, China support for Iran during talks with US troops
+Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.
 
-## Attack on Saudi’s Jazan refinery kills one person, disrupts operations
-The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.
+## Asian stock markets rise after earlier tech rout
+Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.
 
-## Indian politician facing murder charges hosts 400,000-guest wedding
-An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.
+## Spain and Morocco under-17 stars target World Cup 2030
+Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.
 
-## Mexico seeks US talks about suspected SpaceX debris
-Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.
+## Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’
+Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.
 
-## Musk pledges two SpaceX shares for every US child
-US children would receive one share from SpaceX and one from him personally, Musk said.
+## Trump says the US has ‘close to 50%’ of world’s oil
+On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.
 
-## Peru burns more than 10 tonnes of seized drugs
-Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026
+## Clashes halt match as Turkiye football fans raise Palestinian flags
+Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.
 
 ## Tata Sons plans to take Chandra reappointment to EGM, Noel challenges
 Tata Sons is looking to make changes to its articles of association in anticipation of an upcoming initial public offering. Additionally, N Chandrasekaran's reappointment as executive chairman will be proposed at an extraordinary general meeting. However, Noel Tata, leading the Tata Trusts, is conte
