@@ -1,145 +1,145 @@
 # AION Intelligence
 
-## New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant
-National Party-led coalition fails to win majority and needs support from Opportunity Party to form government
+## US tech stocks jump in latest market swing
+All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings
 
-## An exiled former leader faces execution at home. Why does she want to go back?
-Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
 
-## India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti
-Renewables can match coal power for reliability at lower cost, insists wind power pioneer
+## The reforms the NHS needs (and those it doesn’t)
+Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds
 
-## Lula names banker as Brazil finance minister in attempt to calm markets
-Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets
+## EU weighs tighter export controls to prevent battery waste going to China
+‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe
 
-## EU deal is floor ‘not ceiling’ in Brexit reset, insists Burnham cabinet ally
-Douglas Alexander to say PM will reject warnings from opposition parties and push ahead with plans to rebuild ties with Brussels
+## Brexit bear traps for Labour, Tories and Reform
+Plus, influencer row engulfs No 10
 
-## Tribunal upholds decision to ban two Iran-linked figures from UK charities
-Judgments mark a victory for the Charity Commission’s efforts to combat alleged Iranian state support for extremism in Britain
+## UK Department for Work and Pensions hit by cyber incident
+Agency says it has taken most of its online services down as it investigates
 
-## Two Italians killed in drone strike on Kuwait
-Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month
+## Record temperature surge in November fuels extreme weather
+Storms batter east and west coasts of US as El Niño warming phenomenon takes hold
 
-## UK to pay additional ‘participation fee’ as price of EU reset deal
-Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement
+## London is playing a game of penthouse one-upmanship
+A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops
 
-## What's a fund manager to do?
-A guide to navigating tempestuous markets
+## Japanese carmakers’ sales collapse amid China market plunge
+Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic
 
-## Britain’s electricity grid operator makes record number of calls for extra power
-Issue driven by colder weather and constraints in getting electricity from wind farms in Scotland to consumers in England
+## If we say the pay, let’s mention the pension
+Disclosing pension contributions on job ads would get people talking about their retirement prospects
 
-## SAP explores at least 10,000 job cuts
-European software group is latest to restructure as AI hits software sector
+## 92 Labour MPs call for Rosebank oilfield to be rejected
+Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’
 
-## Altria explores takeover bid for Imperial Brands
-Deal would remove another of the UK’s large listed companies from the London stock market
+## Ladbrokes owner to settle Australia money laundering case
+Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing
 
-## Andrew Bailey says unreleased AI models have raised encryption concerns
-Breakthroughs in mathematics have stoked fears that data across financial systems is under threat
+## Mahanadi Coalfields shares make muted debut on stock exchanges
+On the NSE, the stock debuted at ₹134, a discount of 1.47 per cent to the issue price
 
-## Global stocks climb after volatile US trading over AI risks
-Tech shares hit this month by fears over whether boom can be sustained
+## Cabinet clears fresh Constitution Amendment Bill, proposes 50% increase in Lok Sabha seats across States
+DMK and NCP(SP) signal support, potentially helping the NDA secure the two-thirds majority needed to pass the legislation
 
-## European airlines brace for more bankruptcies after Norse suspends flights
-Wave of failures has swept through low-margin industry since Middle East conflict drove up fuel prices
+## RBI pushes banks to accelerate MSME loans, promote cash-flow-based lending
+The review examined working capital requirements, credit guarantee coverage and lending patterns for first-time borrowers across the micro and small business sector
 
-## India, UAE agree to boost defence ties at 14th JDCC meeting in Abu Dhabi
-India and UAE to accelerate co-development and co-production of next generation defence equipment
+## India faces uphill task in getting GI tag for its basmati rice from New Zealand
+Under the India-NZ FTA, both nations have committed to reviewing the GI section of IPR, but Kiwi National Interest Analysis terms the fragrant rice as ‘common’
 
-## Sensex today | Stock Market Live: Sensex slips 250 pts, Nifty below 25,850 as IT stocks fall; Metals gain
-Sensex, Nifty, Share Prices Live: Benchmark indices opened largely unchanged on Friday. The Sensex traded lower and the Nifty edged up as information technology shares declined and metal stocks advanced.
+## SKINN launches Signatures fragrance line with Silk Rose, Sea Breeze
+The launch comes as the fragrance brand expands its distribution network and strengthens its premium portfolio amid rising demand in India
 
-## Swara Baby Products cuts IPO size to ₹800 cr, sets price band at ₹105 ​- ₹111
-The IPO comprises a fresh issue of ‌shares worth ₹500 crore and an offer for sale of ‌shares worth up to ₹300 crore ⁠by existing shareholders; issue to open on December 2
+## Adani Group to list airport business in FY28; plans $140 billion capex over five years
+The group has requested that the government allow it to fund a company seeking to venture directly into aviation, said Jugeshinder (Robbie) Singh, Group CFO
 
-## Stocks in focus, Nov 27: TVS group companies, NSE, Unimech, Omnitech, Texmaco Rail, Apeejay, EMS, Waaree Renewable, Bansal Wire, Zydus among the others
-Madras High Court to hear Lakhmi’s plea against Venu Srinivasan on partition of family assets
+## Editorial. Strange proposal
+Diluting disclosure framework for FPIs not advisable
 
-## Lured by jobs, forced into cybercrime: Inside Delhi's human trafficking racket that held 164 foreigners
-The rescued group includes 92 Indonesians and 72 Malaysians who were allegedly confined, assaulted for refusing to work and made to target victims back home.
+## India’s milk production rises 2.4% to top 253 million tonnes in 2025-26
+Per capita availablity improves marginally at 492 grams per day as TN records highest output growth
 
-## Tata Steel-Apollo deal tests power of minority investors
-Founders owned just under 42% of non-state-owned companies at the end of September, while institutional investors held less than 35%
+## Setback for Tata Trusts: Tata Sons board meeting to be held as scheduled, says HC
+The Bombay High Court has denied interim relief to Tata Trusts regarding the upcoming Tata Sons board meeting, scheduled for November 30. The court affirmed that this meeting will occur as planned. Tata Trusts are contesting the reappointment of N Chandrasekaran as chairperson, citing the need for a
 
-## Rupee plunges 24 paise to 92.62 against US dollar in early trade
-The rupee opened at 92.44 and slipped to 92.62 per dollar, 24 paise down from the previous close
+## Union Budget 2027: Should government scrap LTCG tax and hike STT instead?
+Proposals for the upcoming Budget 2027-28 focus on lowering or abolishing long-term capital gains tax. Industry bodies have differing views on changes to securities transaction tax that could replace revenue losses. SBI Research suggests raising the STT to offset losses if LTCG is abolished. PHDCCI,
+
+## RBI lowers minimum daily CRR maintenance requirement from 99% to 90%
+
 
 ## Binance lifts withdrawal suspension after $6.3 billion crypto heist
-The crypto platform ‌added that ​a small number ⁠of networks are temporarily ‌paused while they undergo maintenance or ‌planned upgrades, separate ​from its completed recovery ⁠work.
+Binance has completed the restoration of its withdrawal systems following a significant cyber heist last month. The attack resulted in hackers stealing approximately $6.3 billion from the exchange's hot wallets. Following the incident, Binance temporarily suspended withdrawals to assess its security
 
-## Gold price crash puts pledged jewellery at risk as lenders issue auction notices
-Nearly 40% of the gold-loan portfolios of these lenders have reportedly breached the thresholds, with the ratio exceeding 95% in some cases. The notices ask borrowers to either repay a portion of their outstanding dues or furnish additional collateral to bring their LTV ratios back within the prescr
+## How India can secure its energy future without trying to eliminate oil, LPG, LNG imports
+Energy security is sometimes confused with race to eliminate imports. For India, that would be an expensive and potentially misleading benchmark. A large, fast-growing economy is more secure when energy remains available and affordable not only in normal times but through geopolitical disruptions, c
 
-## Finance Minister wraps up pre-budget consultations
-
-
-## Banks increase share in lending to companies
+## Chinese bazaar near Xi-Trump summit venue selling banned Nvidia chips: Report
 
 
-## Rupee in undervalued territory in October despite modest gains
+## Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally
 
 
-## September sees net FDI outflow of $4.9bn
+## Man sells gold from parents and buys house, taxman denies exemption; what ITAT ruled
+The case concerns assessment year 2016-17. The taxpayer's claim for a Rs 34.39 lakh tax exemption on long-term capital gains from the sale of gold ornaments was rejected by the income tax authorities, who also treated Rs 25.69 lakh deposited in bank accounts as unexplained income. The two additions 
 
+## Bombay HC refuses to stall Tata Sons board meet amid dispute over Chandrasekaran’s reappointment
+Two Tata trusts, Sir Dorabji Tata Trust and RD Tata Trust, moved the Bombay High Court challenging N Chandrasekaran’s reappointment.
 
-## Know IBEF? Entity accused of creating excess capacity
+## SC asks Centre to review OBC certificate rules for children raised by single mothers
+The Supreme Court said the Centre must examine how such a change would affect cases involving divorce, abandonment, shared parenting, where a child’s custody may be given to one parent
 
+## HT Evening News Brief November 27: SC orders Deepathoon lamp lighting again, Rohit Sharma returns as MI captain and more
+Here's your five-minute wrap of the top headlines of the day from across the country, the field of sports and entertainment.
 
-## Share of US in India’s exports remains same
+## CDS General Subramani flags Pakistan’s space growth with China, Turkey’s help: ‘Must factor it into our calculus’
+Subramani's comments come against the backdrop of closer military cooperation among Pakistan, China and Turkey, which came into focus during Operation Sindoor.
 
+## NCP(SP) MLA says party backs delimitation bill, Sule clarifies final decision yet to be taken
+The Centre has proposed the expansion of the Lok Sabha and delimitation of constituencies, a move opposed by the opposition INDIA bloc.
 
-## Sensex up 390 points, hits 10-month high of 84.3k
+## India, EU have compelling reasons to work more closely, says top EU official Olof Skoog
+India and the European Union have strong reasons to deepen cooperation amid concerns over China and Russia, and US trade policies, EU official Olof Skoog says.
 
+## ‘Acted at dictates of political bosses’: SC talks tough after Deepathoon order violated in Tamil Nadu
+In its order, the SC questioned the conduct of executive authorities and warned of possible political interference in the implementation of its order.
 
-## Stars vs. warning labels: Inside packaged food dispute and what the SC ruling means
-“We have issued some directions which we feel, if implemented, will lead to healthier children. If taken in the right spirit, it will take the country to healthier times,” the SC said
+## 55-year-old neighbour molests 6-year-old girl in Faridabad; booked under POCSO after victim's mother files complaint
+During the incident, the girl's mother arrived at the scene and witnessed the incident, forcing the accused to flee.
 
-## TMC name, symbol, party funds at stake as rival factions present claims before ECI today
-The ECI could award them to one TMC faction, or keep both frozen and let each continue under its interim identity
+## Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight
+Chinese pilot Wang Zheng has been promoted to captain at American Airlines, 10 years after being widely recognised as the first Asian woman to fly solo around the world. “From the solitary courage of flying solo around the world in a single-engine aircraft a decade ago, to putting on the four stripe
 
-## ‘The fight is on’: Opposition targets govt over special Parliament sitting, calls it ‘assault’ on Constitution
-The Lok Sabha and Rajya Sabha secretariats issued bulletins confirming a four-day sitting from November 30 to December 3.
+## Failed California billionaire tax proposal gets close look in China tax circles
+The failure of a billionaire tax proposal in California is drawing attention in Chinese tax circles, with a former senior tax official dissecting the vote and implications in a state-run newspaper as Beijing steps up its own scrutiny of the super-rich. Zhang Zhiyong, a former deputy head of the Stat
 
-## 20 TMC rebels, 22 DMK MPs and Lok Sabha numbers game: Decoding delimitation maths
-The Union Cabinet is likely to approve changes to the Constitution (131st Amendment) Bill and the Delimitation Bill
+## Will exit of key executive cloud WuXi Biologics’ US outlook?
+The planned departure of a top executive at WuXi Biologics’ US arm has sparked debate over the geopolitical pressures facing the Chinese biotech services giant, although analysts remain upbeat about the company’s outlook in the American market. Nuno Fontes, president of WuXi Biologics’ US subsidiary
 
-## Gauhati HC grants interim bail to former APSC chief accused in cash for job case
-The court granted bail to Rakesh Paul on November 23 considering his prolonged incarceration, his wife’s medical condition (kidney failure) and delays in hearing of connected appeals
+## Jensen Huang is back at Nvidia, but the US still needs a plan B
+Jensen Huang is back at Nvidia, and investors have delivered their verdict. After the board reinstated him on November 23, shares rose 31.5 per cent. US President Donald Trump welcomed the decision, linking Huang’s leadership to the prosperity of the American economy. The board said meetings with Hu
 
-## Cabinet Meeting LIVE Updates: Centre prepares for Parliament's November 30 sitting, delimitation in focus
-Cabinet Meeting LIVE Updates: The Lok Sabha and Rajya Sabha secretariats have confirmed that there will be no Question Hour, Zero Hour or Private Members' Business during the sittings.
+## Hong Kong gold imports surge 24.4% in October to 4-month high on lower bullion prices
+Hong Kong’s gold imports surged in October to a four-month high, riding the momentum of lower prices and adding weight to the city’s push to establish itself as an international gold trading hub. The city imported 139.6 tonnes of unwrought, non-monetary gold last month, up 24.4 per cent from 112.3 t
 
-## Coimbatore blast: Accused allowed 'A' Class facilities in prison, court cites ‘superior lifestyle’
-Co-accused Navas was arrested in the case in October 2024 and is currently lodged at Central Prison, Coimbatore.
+## How Chinese tech firms can leverage Qianhai and Hong Kong’s advantages to achieve growth
+Government officials at this month’s 33rd Asia-Pacific Economic Cooperation (Apec) Economic Leaders’ Meeting in Shenzhen were keen to continue their business collaboration efforts amid ongoing global uncertainty and the rapid adoption of artificial intelligence-driven technology. Southern China’s mo
 
-## HT Morning News Brief November 27: Parliament special session with delimitation on agenda; Trump backs Jensen Huang and more
-Today’s big headlines in 5 minutes: Your quick brief on politics, national and global events, entertainment, and sports.
+## Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week
+After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured marke
 
-## Spirit of recovery: JPMorgan sees fresh upside in liquor giant Kweichow Moutai
-Kweichow Moutai has won a rare vote of confidence from Wall Street, with JPMorgan Chase upgrading the Chinese baijiu giant that has been struggling with slowing growth in recent years. The US bank raised its recommendation on Kweichow Moutai’s Shanghai-listed shares to overweight from neutral and se
+## China’s State Council says it is considering more measures to bolster flagging stocks
+China will consider rolling out fresh measures to support the stock market, which top policymakers say is critical to economic growth, according to a State Council meeting. The government would continue to improve the market-stabilising mechanism, efficiently implement existing policies and plan inc
 
-## How innovation turns disruption into opportunity to power next era of growth
-Technological advances are rapidly reshaping the way the world does business. It means senior executives and investors must keep up with the latest trends in innovation and embrace them to ensure they stay relevant and use their strengths to make the most of emerging opportunities. The annual UBS Di
+## Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
+The answer begins with restoring trust among citizens at the local level.
 
-## Beauty defies consumers’ spending slowdown as China’s brands look to expand globally
-As holiday shopping gets under way across the globe with Black Friday sales, beauty products and services are grabbing a bigger share of consumers’ budgets while many retail categories lose traction. Beauty stands out as one of the few categories that have sustained growth over the past three years,
+## FP’s Holiday Book List
+Our columnists and staff writers recommend their top reads for the end of the year.
 
-## China’s property debt crisis deepens as second wave of restructurings looms
-China’s property debt crisis is entering a new phase as developers face the risk of defaulting again after years of repayment extensions, according to analysts, with a prolonged housing downturn leaving many unable to meet their obligations. China Vanke is seeking a three-year extension on a 1.2 bil
-
-## Let’s keep doing lunch: Hong Kong exchange leans towards keeping noon break, sources say
-Lunch is likely to remain on the menu for Hong Kong stock brokers, as the city’s bourse operator leans towards extending trading hours at either end of the day while keeping the market’s traditional mid-day break intact, according to multiple sources. Hong Kong Exchanges and Clearing (HKEX) will not
-
-## HKEX censures Evergrande founder Hui over US$2 billion financing deal
-China Evergrande Group founder and chairman Hui Ka-yan and six former directors face disciplinary action by Hong Kong’s stock exchange for breaching listing rules involving bank loan pledges made in 2020 and 2021, according to a statement from Hong Kong Exchanges and Clearing (HKEX). The exchange fo
-
-## China’s tech ambitions to stay on track despite Shanghai party chief’s ouster: analysts
-The ousting of Shanghai Communist Party chief Chen Jining, a prominent technocrat who championed the city’s artificial intelligence and semiconductor sectors, could heighten scrutiny of state-backed tech investments, although analysts see little sign of a shift in China’s broader tech ambitions. Sta
-
-## Hong Kong’s home prices fall in October as rents hit a record high
-Hong Kong’s home prices declined in October, ending two consecutive months of gains, as renewed market volatility and competition from primary home sales weighed on sentiment. Rents, meanwhile, climbed to a record high for a 12th straight month. The private home price index dipped 0.59 per cent mont
+## Latin America’s ‘Orange Wave’ Is Not Spurning China
+It makes little economic sense for Trump’s right-wing allies to cut ties with Beijing.
 
 ## The Top 10 Reasons to Be Thankful in 2026
 For the first time in a long while, global politics is looking up.
@@ -156,14 +156,17 @@ Spain’s prime minister presided over a housing crisis. Now it might help him w
 ## Against an Axis of Anything
 China and Russia are getting closer, but their alignment is hardly inevitable.
 
-## Ukraine’s Shadow War in Africa
-The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.
+## In the Shadow of the Afghanistan-Pakistan Border
+Among the bombed-out houses along the border, there was no justice to be found, only ruins, lost lives, and people living in the shadow of conflict.
 
-## Tariff Man Strikes Again
-The Trump administration unveils new proposed tariffs on 14 economies, from China to the European Union.
+## Read Like The Diplomat: 2026 Holiday Edition
+Check out The Diplomat Editors’ favorite books.
 
-## German Culture Could Soon Be Officially Anti-German
-The AfD is on the path to rewriting the legacy of Germany’s 20th-century cultural achievements.
+## Ahead of Taiwan’s Local Elections, China’s Interference Looms Large
+Beijing’s tactics to manipulate Taiwan’s democracy have grown more sophisticated and pervasive.
+
+## Why North Korea Can’t (and Must) Embrace Economic Reform
+The Kim family has always rejected economic opening, but it’s becoming unavoidable.
 
 ## Morocco’s Royal Industrial Vision: A Global Strategic Opportunity
 One of the few African countries operating without the constraints of Chinese influence.
@@ -176,18 +179,6 @@ The public discourse – and understanding – on the separation of powers splut
 
 ## China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines
 The Nvidia scandal has exploded into public view, but most of China’s foreign technology acquisitions are far more mundane – and even legal.
-
-## 18 Years After 26/11, Is India Finally Winning the War Against Terror?
-India's counterterrorism strategy has seen marked successes in recent years, but it's too early to declare victory.
-
-## When Will Trump Meet Kim Jong Un Again?
-Despite speculation that the two would meet in Shenzhen, a Kim-Trump summit did not come to fruition.
-
-## Koizumi Shinjiro Is the Defense Whisperer That Japan Needs
-Koizumi’s podcast avoids the jargon and over-formality often found in political commentary, inviting listeners to contemplate the future of Japan’s security rather than be lectured.
-
-## Is the North Korean Economy Really ‘Booming’?
-The narrative of a booming North Korean economy has some degree of truth to it, but the full picture is more complex.
 
 ## Where Soldiers Enjoyed Thanksgiving
 Today, I’m slicing turkey. Grease dots my pinks and greens. Scuffs mar my jump boots. As I serve, soldiers feast: smoked turkey, honey-glazed ham, a steamship round of beef, smoked flank steak, and a whole smoked pig. Alongside those entrees, they’re enjoying collard greens, cornbread twice over, ba
@@ -237,29 +228,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thanksgiving storms leave nearly a million without power across the US
-Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.
+## Why did Georgian police clash with Turkish football fans over Palestine?
+Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.
 
-## At least 13 Niger soldiers killed in Sanam armed attack
-It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.
+## Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu
+Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.
 
-## Trump downplays Russia, China support for Iran during talks with US troops
-Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.
+## Famine expect to rise due to global conflict, El Nino, warns UN
+El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.
 
-## Asian stock markets rise after earlier tech rout
-Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.
+## Sentence served, still detained: Palestinian families waiting for reunions
+Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.
 
-## Spain and Morocco under-17 stars target World Cup 2030
-Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.
+## England’s Overton takes 5-12 as Australia bowled out for record low in T20
+Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.
 
-## Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’
-Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.
+## Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?
+US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.
 
-## Trump says the US has ‘close to 50%’ of world’s oil
-On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.
+## European football violence causes concern with far-right claim in UEFA game
+Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.
 
-## Clashes halt match as Turkiye football fans raise Palestinian flags
-Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.
+## Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media
+Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.
 
 ## Tata Sons plans to take Chandra reappointment to EGM, Noel challenges
 Tata Sons is looking to make changes to its articles of association in anticipation of an upcoming initial public offering. Additionally, N Chandrasekaran's reappointment as executive chairman will be proposed at an extraordinary general meeting. However, Noel Tata, leading the Tata Trusts, is conte
@@ -285,6 +276,9 @@ At the inaugural ETCFO Annual Conclave 2026 finance leaders from Ather Energy, P
 ## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
 Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
 
+## SEBI examining Tata Steel-APL Apollo deal amid shareholder concerns: Chairman Pandey
+The Securities and Exchange Board of India (SEBI) is examining the proposed Tata Steel-APL Apollo transaction and giving high priority to the interests of minority shareholders, Chairman Tuhin Kanta Pandey said on Friday.
+
 ## RBI brings back 60 tonnes of gold from overseas custodians
 The Reserve Bank of India (RBI) has brought back more than 60 tonnes of gold during the six months ended September, significantly increasing the share of its bullion reserves held within the country while continuing to strengthen India's overall foreign exchange reserve position.
 
@@ -305,7 +299,4 @@ The Securities and Exchange Board of India (SEBI) has proposed sweeping changes 
 
 ## SEBI Chairman urges financial institutions, digital platforms to prioritise informed investing over product sales
 Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey urged financial institutions and digital investment platforms to prioritise informed investment decisions over product sales, emphasising the need for greater transparency in investment costs and risks amid growing retail part
-
-## RBI hunts for possible '$2 million loophole' in importers' forex transactions
-The Reserve Bank of India (RBI) has stepped up scrutiny of importers' forex transactions amid concerns that companies may be splitting deals below the $2 million threshold to avoid additional reserve requirements. The move follows a sharp fall in average dollar-buying transaction sizes since October
 
