@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## US tech stocks jump in latest market swing
+## OpenAI countersues Apple for stealing trade secrets
+The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates
+
+## S&P cuts France outlook to negative
+Rating agency says political instability will make it harder for the country to tackle its public deficit
+
+## US tech stocks rise in latest market swing
 All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Canada upholds law barring public sector workers from wearing religious symbols
+National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights
 
-## The reforms the NHS needs (and those it doesn’t)
-Different age groups make totally different demands on healthcare — here’s what I learnt in adapting how the London Ambulance Service responds
+## Trump’s Nvidia intervention has a cost for US stocks
+Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities
 
-## EU weighs tighter export controls to prevent battery waste going to China
-‘Black mass’ containing key minerals is often processed abroad and the extracted metals re-exported to Europe
+## Haircare tycoon Herman Mashaba named Johannesburg mayor
+Combative leader of ActionSA squeezes out pro-business Democratic Alliance after deal with ANC and two populist parties
 
-## Brexit bear traps for Labour, Tories and Reform
-Plus, influencer row engulfs No 10
+## Verizon in talks over $6bn deal for Fidium to boost broadband footprint
+US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region
+
+## Mélenchon takes aim at Germany in Berlin campaign stop
+Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally
+
+## AI and the decryption nightmare
+New breakthroughs call for faster upgrades to security, not panic
+
+## Can AI crack encryption?
+New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce
+
+## Directors’ Deals: M&S chief offloads shares after they hit multiyear peak
+£4mn sale follows encouraging interim results
+
+## Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan
+Fresh funding will keep the embattled utility afloat but pile on hundreds of millions of pounds in additional financing costs
 
 ## UK Department for Work and Pensions hit by cyber incident
-Agency says it has taken most of its online services down as it investigates
+Agency says it has taken most of its online services down as it investigates possible attack
 
-## Record temperature surge in November fuels extreme weather
-Storms batter east and west coasts of US as El Niño warming phenomenon takes hold
+## With no HC relief for Tata Trusts, Tata Sons board to meet on Monday
+Tata Sons’ board meeting on Monday to finalise IPO plans can proceed as scheduled
 
-## London is playing a game of penthouse one-upmanship
-A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops
+## Rare and hidden cultural treasures of Kashi come into the light
+The 35-days long CII Banaras Biennale unpacks some of the secrets of the millennia-old city
 
-## Japanese carmakers’ sales collapse amid China market plunge
-Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic
+## Japanese electronics maker Leo Electronics to invest ₹500 crore in Karnataka, create 800 jobs
+Industries Minister M. B. Patil said an agreement had been signed with the company, which will develop its operations in phases
 
-## If we say the pay, let’s mention the pension
-Disclosing pension contributions on job ads would get people talking about their retirement prospects
+## SC cites regulatory reforms, declines to order creation of unified portal for unclaimed financial assets
+A Bench comprising Justices Vikram Nath and R Mahadevan disposed of a public interest litigation filed in 2022 by journalist and managing editor of Moneylife magazine Sucheta Dalal
 
-## 92 Labour MPs call for Rosebank oilfield to be rejected
-Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’
+## Indian retail investors post $353 million in gains from global stocks: Vested report
+The company that allows Indian nationals to invest in global stocks, bonds and ETFs said that participation on its platform rose significantly in 2026 with 51 per cent more transacting investors compared to 2025
 
-## Ladbrokes owner to settle Australia money laundering case
-Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing
+## UBD targets 100% overall volume growth in FY27, eyes 70,000 cases next fiscal year
+The company is seeking to capitalise on premiumisation in India’s spirits market and challenge imported Scotch whisky's dominance in the premium category
 
-## Mahanadi Coalfields shares make muted debut on stock exchanges
-On the NSE, the stock debuted at ₹134, a discount of 1.47 per cent to the issue price
+## Ownly to introduce delivery fee for Bengaluru orders from November 30
+The company says a distance-based delivery charge would be added to customer orders placed at its Bengaluru outlets from November 30
 
-## Cabinet clears fresh Constitution Amendment Bill, proposes 50% increase in Lok Sabha seats across States
-DMK and NCP(SP) signal support, potentially helping the NDA secure the two-thirds majority needed to pass the legislation
+## Kothari Industrial, Thiagarajar College to set up drone training and R&D centres in Madurai
+The partnership will combine industrial expertise and engineering capabilities to expand certified drone training and indigenous UAV research across Tamil Nadu.
 
-## RBI pushes banks to accelerate MSME loans, promote cash-flow-based lending
-The review examined working capital requirements, credit guarantee coverage and lending patterns for first-time borrowers across the micro and small business sector
-
-## India faces uphill task in getting GI tag for its basmati rice from New Zealand
-Under the India-NZ FTA, both nations have committed to reviewing the GI section of IPR, but Kiwi National Interest Analysis terms the fragrant rice as ‘common’
-
-## SKINN launches Signatures fragrance line with Silk Rose, Sea Breeze
-The launch comes as the fragrance brand expands its distribution network and strengthens its premium portfolio amid rising demand in India
-
-## Adani Group to list airport business in FY28; plans $140 billion capex over five years
-The group has requested that the government allow it to fund a company seeking to venture directly into aviation, said Jugeshinder (Robbie) Singh, Group CFO
-
-## Editorial. Strange proposal
-Diluting disclosure framework for FPIs not advisable
-
-## India’s milk production rises 2.4% to top 253 million tonnes in 2025-26
-Per capita availablity improves marginally at 492 grams per day as TN records highest output growth
+## US goods trade deficit hits $149.5 billion as AI infrastructure imports surge to record
+The US goods trade deficit surged by 10.7% in October, reaching $149.5 billion. A significant driver was the 6.1% increase in imports, largely attributed to capital goods essential for artificial intelligence infrastructure. Exports also rose, climbing 3.2% to $215.8 billion. However, reflecting the
 
 ## Setback for Tata Trusts: Tata Sons board meeting to be held as scheduled, says HC
 The Bombay High Court has denied interim relief to Tata Trusts regarding the upcoming Tata Sons board meeting, scheduled for November 30. The court affirmed that this meeting will occur as planned. Tata Trusts are contesting the reappointment of N Chandrasekaran as chairperson, citing the need for a
@@ -81,32 +87,29 @@ Energy security is sometimes confused with race to eliminate imports. For India,
 ## Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally
 
 
-## Man sells gold from parents and buys house, taxman denies exemption; what ITAT ruled
-The case concerns assessment year 2016-17. The taxpayer's claim for a Rs 34.39 lakh tax exemption on long-term capital gains from the sale of gold ornaments was rejected by the income tax authorities, who also treated Rs 25.69 lakh deposited in bank accounts as unexplained income. The two additions 
+## India, EU condemn terrorism, underscore need for lasting peace in Ukraine in key meeting
+India, EU condemn terrorism, underscore need for lasting peace in Ukraine in key meeting
 
-## Bombay HC refuses to stall Tata Sons board meet amid dispute over Chandrasekaran’s reappointment
-Two Tata trusts, Sir Dorabji Tata Trust and RD Tata Trust, moved the Bombay High Court challenging N Chandrasekaran’s reappointment.
+## First time in 1952, a 1976 freeze: Tracing the journey of delimitation in India
+The first delimitation exercise was carried out in 1952. Since then, four delimitation commissions have been constituted in 1952, 1963, 1973 and 2002.
 
-## SC asks Centre to review OBC certificate rules for children raised by single mothers
-The Supreme Court said the Centre must examine how such a change would affect cases involving divorce, abandonment, shared parenting, where a child’s custody may be given to one parent
+## Delimitation Bill proposes formation of commission, SC judge, CEC nominee among members
+The panel will be formed if the Bill passes both Houses of Parliament and becomes an Act with the President's assent.
 
-## HT Evening News Brief November 27: SC orders Deepathoon lamp lighting again, Rohit Sharma returns as MI captain and more
-Here's your five-minute wrap of the top headlines of the day from across the country, the field of sports and entertainment.
+## ‘If India is strong, Sanatan Dharma will be strong’: UP CM Yogi Adityanath
+The chief minister also noted that results do not stem from mere speeches or sermons, but rather from dedicated effort and hard work.
 
-## CDS General Subramani flags Pakistan’s space growth with China, Turkey’s help: ‘Must factor it into our calculus’
-Subramani's comments come against the backdrop of closer military cooperation among Pakistan, China and Turkey, which came into focus during Operation Sindoor.
+## What changes in the new delimitation bill: Women's reservation, delimitation commission and 50% seat increase
+The Centre will constitute a Delimitation Commission after the commencement of the proposed legislation, instead of constituting it from time to time.
 
-## NCP(SP) MLA says party backs delimitation bill, Sule clarifies final decision yet to be taken
-The Centre has proposed the expansion of the Lok Sabha and delimitation of constituencies, a move opposed by the opposition INDIA bloc.
+## Vikas Agrawal, key accused in ₹2,883-crore Chhattisgarh liquor case, brought back from UAE
+Vikas Agrawal, accused of being the financial coordinator or ‘Moneyman’ in the ₹2,883-crore Chhattisgarh liquor scam, was brought back from the UAE.
 
-## India, EU have compelling reasons to work more closely, says top EU official Olof Skoog
-India and the European Union have strong reasons to deepen cooperation amid concerns over China and Russia, and US trade policies, EU official Olof Skoog says.
+## How Centre's delimitation plan could change India's electoral map: A look at state-wise numbers
+The bill will have to clear the Parliament test, a little more than seven months after it faltered in the Lok Sabha in the face of a united Opposition.
 
-## ‘Acted at dictates of political bosses’: SC talks tough after Deepathoon order violated in Tamil Nadu
-In its order, the SC questioned the conduct of executive authorities and warned of possible political interference in the implementation of its order.
-
-## 55-year-old neighbour molests 6-year-old girl in Faridabad; booked under POCSO after victim's mother files complaint
-During the incident, the girl's mother arrived at the scene and witnessed the incident, forcing the accused to flee.
+## ‘Victory to Lord Murugan’: PM Modi after SC orders lamp lighting at Deepathoon again
+SC directed that Karthigai Deepam lamp be lit at the Deepathoon on Saturday after finding that Tamil Nadu authorities had ‘wilfully disobeyed’ its earlier order
 
 ## Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight
 Chinese pilot Wang Zheng has been promoted to captain at American Airlines, 10 years after being widely recognised as the first Asian woman to fly solo around the world. “From the solitary courage of flying solo around the world in a single-engine aircraft a decade ago, to putting on the four stripe
@@ -156,6 +159,9 @@ Spain’s prime minister presided over a housing crisis. Now it might help him w
 ## Against an Axis of Anything
 China and Russia are getting closer, but their alignment is hardly inevitable.
 
+## Chen Jining: The Tragedy of the ‘Potential Successor’ in Chinese Politics
+The Shanghai party secretary was widely regarded as a possible successor to Xi Jinping – until an investigation was announced.
+
 ## In the Shadow of the Afghanistan-Pakistan Border
 Among the bombed-out houses along the border, there was no justice to be found, only ruins, lost lives, and people living in the shadow of conflict.
 
@@ -176,9 +182,6 @@ Contention and accommodation with China, and a subtly different stance from Japa
 
 ## South Korean Chief Justice’s Impending Impeachment
 The public discourse – and understanding – on the separation of powers splutters.
-
-## China’s Soft Espionage: The Technology Transfers That Don’t Make Headlines
-The Nvidia scandal has exploded into public view, but most of China’s foreign technology acquisitions are far more mundane – and even legal.
 
 ## Where Soldiers Enjoyed Thanksgiving
 Today, I’m slicing turkey. Grease dots my pinks and greens. Scuffs mar my jump boots. As I serve, soldiers feast: smoked turkey, honey-glazed ham, a steamship round of beef, smoked flank steak, and a whole smoked pig. Alongside those entrees, they’re enjoying collard greens, cornbread twice over, ba
@@ -228,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why did Georgian police clash with Turkish football fans over Palestine?
-Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.
+## Kenyan cult leader guilty of manslaughter more than 123 starvation deaths
+Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.
 
-## Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu
-Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.
+## US military says it disabled merchant ship trying to breach Iran blockade
+The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.
 
-## Famine expect to rise due to global conflict, El Nino, warns UN
-El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.
+## ‘Activists of rhythm’: Fighting Spain’s far-right through art
+Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.
 
-## Sentence served, still detained: Palestinian families waiting for reunions
-Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.
+## Why are families going hungry in northern Yemen even where food is on sale?
+Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.
 
-## England’s Overton takes 5-12 as Australia bowled out for record low in T20
-Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.
+## Venezuela to repeal law that bans opposition figures from office
+It comes a month after opposition leader Maria Corina Machado returned to Venezuela.
 
-## Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?
-US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.
+## OpenAI countersues Apple over trade secrets as AI race heats up
+Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.
 
-## European football violence causes concern with far-right claim in UEFA game
-Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.
+## Putin unveils new Russian nuclear-powered submarine with hypersonic weapons
+The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.
 
-## Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media
-Hostilities between Iran-backed Houthis and Saudi-backed coalition continue to push Yemen into a humanitarian crisis.
+## Hamas chief’s last surviving son escapes Israeli strike in Gaza
+Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.
 
 ## Tata Sons plans to take Chandra reappointment to EGM, Noel challenges
 Tata Sons is looking to make changes to its articles of association in anticipation of an upcoming initial public offering. Additionally, N Chandrasekaran's reappointment as executive chairman will be proposed at an extraordinary general meeting. However, Noel Tata, leading the Tata Trusts, is conte
