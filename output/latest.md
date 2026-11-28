@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Copper thieves prey on Japan’s ancient shrines in AI frenzy
+Priests forced to abandon tradition and favour cheaper steel to repair roofs
+
+## The Chinese car champion turning to police and nurse robots
+Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution
+
+## The ‘diehard separatist’ shaking up Taipei’s election
+Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028
+
+## South Africa’s credit rating upgraded after years of economic stagnation
+S&P says Pretoria’s ‘fiscal performance has consistently outperformed budget targets’
+
 ## OpenAI countersues Apple for stealing trade secrets
 The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates
 
@@ -11,18 +23,6 @@ All-powerful AI trade has been eclipsed by wild moves in a market struggling to 
 
 ## Canada upholds law barring public sector workers from wearing religious symbols
 National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights
-
-## Trump’s Nvidia intervention has a cost for US stocks
-Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities
-
-## Haircare tycoon Herman Mashaba named Johannesburg mayor
-Combative leader of ActionSA squeezes out pro-business Democratic Alliance after deal with ANC and two populist parties
-
-## Verizon in talks over $6bn deal for Fidium to boost broadband footprint
-US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region
-
-## Mélenchon takes aim at Germany in Berlin campaign stop
-Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally
 
 ## AI and the decryption nightmare
 New breakthroughs call for faster upgrades to security, not panic
@@ -36,80 +36,83 @@ New models’ advancing capabilities raise concerns over the risks of data leaks
 ## Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan
 Fresh funding will keep the embattled utility afloat but pile on hundreds of millions of pounds in additional financing costs
 
-## UK Department for Work and Pensions hit by cyber incident
-Agency says it has taken most of its online services down as it investigates possible attack
+## Verizon in talks over $6bn deal for Fidium to boost broadband footprint
+US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region
 
-## With no HC relief for Tata Trusts, Tata Sons board to meet on Monday
-Tata Sons’ board meeting on Monday to finalise IPO plans can proceed as scheduled
+## Why scientists say COP31 fell short and what must follow
+Many experts see the lack of consensus at COP31 as a hard reality check for a climate action process that isn’t delivering at the pace and scale the crisis demands
 
-## Rare and hidden cultural treasures of Kashi come into the light
-The 35-days long CII Banaras Biennale unpacks some of the secrets of the millennia-old city
+## Blackstone sells 1.55% stake in IGI for ₹280 crore to meet public shareholding norms
+The shares were sold at an average price of ₹417 apiece, taking the transaction value to ₹280.06 crore
 
-## Japanese electronics maker Leo Electronics to invest ₹500 crore in Karnataka, create 800 jobs
-Industries Minister M. B. Patil said an agreement had been signed with the company, which will develop its operations in phases
+## Safeguarding India’s milk bowl: Why animal nutrition must be central to the next white revolution
+The next White Revolution will be won in the calf shed, the dry-cow pen and the fodder field – with smart nutrition at every stage of life
 
-## SC cites regulatory reforms, declines to order creation of unified portal for unclaimed financial assets
-A Bench comprising Justices Vikram Nath and R Mahadevan disposed of a public interest litigation filed in 2022 by journalist and managing editor of Moneylife magazine Sucheta Dalal
+## FCNR flows shore up first half BoP
+The global environment could improve now. But forex management will remain a year-round affair
 
-## Indian retail investors post $353 million in gains from global stocks: Vested report
-The company that allows Indian nationals to invest in global stocks, bonds and ETFs said that participation on its platform rose significantly in 2026 with 51 per cent more transacting investors compared to 2025
+## Small particles, big potential: How nanotechnology is changing life on India’s farms
+Nanotechnology impact in India will be measured in what farmers can see: what is left in their pocket at season’s end.
 
-## UBD targets 100% overall volume growth in FY27, eyes 70,000 cases next fiscal year
-The company is seeking to capitalise on premiumisation in India’s spirits market and challenge imported Scotch whisky's dominance in the premium category
+## Ethanol policy reset: What does the shift in feedstock priorities mean for sugar mills and farmers?
+Protecting sugar stocks is the right priority. Rules that move with the sugar cycle would protect ethanol investments too
 
-## Ownly to introduce delivery fee for Bengaluru orders from November 30
-The company says a distance-based delivery charge would be added to customer orders placed at its Bengaluru outlets from November 30
+## Wayanad in Keralam declared India’s first e-waste-free district
+Under the district’s BHOOMI initiative, 102.85 tonnes of electronic waste were collected in just three months
 
-## Kothari Industrial, Thiagarajar College to set up drone training and R&D centres in Madurai
-The partnership will combine industrial expertise and engineering capabilities to expand certified drone training and indigenous UAV research across Tamil Nadu.
+## Scaler deploys Sarvam voice agents for learner counselling, clocks 2 lakh interactions
+The company evaluated several voice agent platforms before selecting Sarvam, citing its ability to handle Hinglish conversations and adapt to the way Indian learners communicate
 
-## US goods trade deficit hits $149.5 billion as AI infrastructure imports surge to record
-The US goods trade deficit surged by 10.7% in October, reaching $149.5 billion. A significant driver was the 6.1% increase in imports, largely attributed to capital goods essential for artificial intelligence infrastructure. Exports also rose, climbing 3.2% to $215.8 billion. However, reflecting the
-
-## Setback for Tata Trusts: Tata Sons board meeting to be held as scheduled, says HC
-The Bombay High Court has denied interim relief to Tata Trusts regarding the upcoming Tata Sons board meeting, scheduled for November 30. The court affirmed that this meeting will occur as planned. Tata Trusts are contesting the reappointment of N Chandrasekaran as chairperson, citing the need for a
-
-## Union Budget 2027: Should government scrap LTCG tax and hike STT instead?
-Proposals for the upcoming Budget 2027-28 focus on lowering or abolishing long-term capital gains tax. Industry bodies have differing views on changes to securities transaction tax that could replace revenue losses. SBI Research suggests raising the STT to offset losses if LTCG is abolished. PHDCCI,
-
-## RBI lowers minimum daily CRR maintenance requirement from 99% to 90%
+## Retailers pitch big buys on Black Friday
 
 
-## Binance lifts withdrawal suspension after $6.3 billion crypto heist
-Binance has completed the restoration of its withdrawal systems following a significant cyber heist last month. The attack resulted in hackers stealing approximately $6.3 billion from the exchange's hot wallets. Following the incident, Binance temporarily suspended withdrawals to assess its security
-
-## How India can secure its energy future without trying to eliminate oil, LPG, LNG imports
-Energy security is sometimes confused with race to eliminate imports. For India, that would be an expensive and potentially misleading benchmark. A large, fast-growing economy is more secure when energy remains available and affordable not only in normal times but through geopolitical disruptions, c
-
-## Chinese bazaar near Xi-Trump summit venue selling banned Nvidia chips: Report
+## Thumbs-up for nutrition labelling push
 
 
-## Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally
+## Sensex falls 989 points as investors book profits
 
 
-## India, EU condemn terrorism, underscore need for lasting peace in Ukraine in key meeting
-India, EU condemn terrorism, underscore need for lasting peace in Ukraine in key meeting
+## RBI eases CRR stance amid liquidity squeeze
 
-## First time in 1952, a 1976 freeze: Tracing the journey of delimitation in India
-The first delimitation exercise was carried out in 1952. Since then, four delimitation commissions have been constituted in 1952, 1963, 1973 and 2002.
 
-## Delimitation Bill proposes formation of commission, SC judge, CEC nominee among members
-The panel will be formed if the Bill passes both Houses of Parliament and becomes an Act with the President's assent.
+## Many FTA benefits untapped: RBI
 
-## ‘If India is strong, Sanatan Dharma will be strong’: UP CM Yogi Adityanath
-The chief minister also noted that results do not stem from mere speeches or sermons, but rather from dedicated effort and hard work.
 
-## What changes in the new delimitation bill: Women's reservation, delimitation commission and 50% seat increase
-The Centre will constitute a Delimitation Commission after the commencement of the proposed legislation, instead of constituting it from time to time.
+## RBI eases CRR stance amid liquidity squeeze
 
-## Vikas Agrawal, key accused in ₹2,883-crore Chhattisgarh liquor case, brought back from UAE
-Vikas Agrawal, accused of being the financial coordinator or ‘Moneyman’ in the ₹2,883-crore Chhattisgarh liquor scam, was brought back from the UAE.
 
-## How Centre's delimitation plan could change India's electoral map: A look at state-wise numbers
-The bill will have to clear the Parliament test, a little more than seven months after it faltered in the Lok Sabha in the face of a united Opposition.
+## Adani may take stake in existing airline or back startup, says group CFO
+Adani Group has expressed its intention to invest in the airline industry to support growth and expansion. The group's CFO mentioned that India's aviation market has significant untapped potential, with approximately 60 crore potential passengers. Current government regulations limit the group's equ
 
-## ‘Victory to Lord Murugan’: PM Modi after SC orders lamp lighting at Deepathoon again
-SC directed that Karthigai Deepam lamp be lit at the Deepathoon on Saturday after finding that Tamil Nadu authorities had ‘wilfully disobeyed’ its earlier order
+## Minority shareholders’ interest protection a key priority: Sebi
+Sebi chairman Tuhin Kanta Pandey highlighted the priority of protecting minority shareholders amid concerns regarding the Tata Steel-APL Apollo transaction. The structure and valuation of the deal have raised questions from proxy advisory firms, necessitating further review. Tata Steel plans to acqu
+
+## Supreme Court stays Goa township project after plea alleges violation of status quo order
+Locals of the Carapur village where the project was to be built protested for more than 5 months and relented only after the village panchayat's intervention.
+
+## Congress wants Akhilesh as UP CM but seeks ‘more space’ in seat-sharing deal: Imran Masood
+Masood has accused the SP of belittling the party by offering only 26 seats in UP, despite Mallikarjun Kharge urging him to focus more on action than words.
+
+## Maharashtra warns schools of action for barring ST students from exams over pending scholarship dues
+The government said the students cannot be penalised for delays in the disbursement of funds by the state.
+
+## CRPF personnel deployed in Tamil Nadu's Tirupparankundram ahead of Deepathoon lamp lighting
+CRPF personnel reached Tirupparankundram hill near Madurai after the Supreme Court directed that the lamp be lit at the disputed Deepathoon stone pillar.
+
+## Supreme Court extends bail of two accused in 2020 Delhi riots case by three months
+Tasleem Ahmed and Abdul Khalid Saifi face charges under UAPA in the 2020 Delhi riots case. Their interim bail has been extended until February 2027.
+
+## Keralam govt approves ₹40 lakh for informant, police rewards under 'Operation Toofan'
+Keralam govt approves ₹40 lakh for informant, police rewards under 'Operation Toofan'
+
+## Bihar minister Ashok Choudhary resigns as assistant professor after ‘office of profit’ charge
+Choudhary has been an MLC since March 17, 2021, while he was appointed as assistant professor in 2026.
+
+## Delhi court to deliver judgment in Waqf Board case against AAP MLA Amanatullah Khan, 10 others
+AAP MLA Amanatullah Khan and 10 others face a verdict in the alleged illegal appointments case involving the Delhi Waqf Board between 2016 and 2021
+
+## As convenience stores face pressure, 7-Eleven set to open largest China outlet in Kunming
+Convenience store giant 7-Eleven is expected to open its biggest outlet in China in Kunming, the capital of southwestern Yunnan province, next month. About 20 times larger than one of its regular shops, the 1,800 square metre (19,375 square foot) 7-Market store near the Dianchi Convention and Exhibi
 
 ## Sky’s the limit: Chinese woman pilot rises to airline captain decade after historic flight
 Chinese pilot Wang Zheng has been promoted to captain at American Airlines, 10 years after being widely recognised as the first Asian woman to fly solo around the world. “From the solitary courage of flying solo around the world in a single-engine aircraft a decade ago, to putting on the four stripe
@@ -131,9 +134,6 @@ Government officials at this month’s 33rd Asia-Pacific Economic Cooperation (A
 
 ## Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week
 After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured marke
-
-## China’s State Council says it is considering more measures to bolster flagging stocks
-China will consider rolling out fresh measures to support the stock market, which top policymakers say is critical to economic growth, according to a State Council meeting. The government would continue to improve the market-stabilising mechanism, efficiently implement existing policies and plan inc
 
 ## Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
 The answer begins with restoring trust among citizens at the local level.
@@ -231,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kenyan cult leader guilty of manslaughter more than 123 starvation deaths
-Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.
+## ‘Last local militant’: India declares victory but Kashmir’s rebels adapt
+Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.
 
-## US military says it disabled merchant ship trying to breach Iran blockade
-The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.
+## The split-second teamwork behind an F1 pit stop
+Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.
 
-## ‘Activists of rhythm’: Fighting Spain’s far-right through art
-Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.
+## Israeli strike on Doctors Without Borders clinic in Gaza kills two staff
+MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.
 
-## Why are families going hungry in northern Yemen even where food is on sale?
-Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.
+## Parts of US clean up after Thanksgiving storm lashes East Coast
+Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.
 
-## Venezuela to repeal law that bans opposition figures from office
-It comes a month after opposition leader Maria Corina Machado returned to Venezuela.
+## Bulgarians demand action by French after Marseille match violence
+Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.
 
-## OpenAI countersues Apple over trade secrets as AI race heats up
-Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.
+## Hunted beyond borders: Allegations of Tanzanian repression in Kenya
+The case of a missing activist raises fears for the safety of Tanzanian dissidents.
 
-## Putin unveils new Russian nuclear-powered submarine with hypersonic weapons
-The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.
+## Taiwan votes in local elections to choose mayors, other leaders
+Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.
 
-## Hamas chief’s last surviving son escapes Israeli strike in Gaza
-Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.
+## Israel kills two MSF staff in targeted strike on Gaza clinic
+An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.
+
+## Adani group's FY27 capex to jump 41 pc to Rs 2.2 lakh cr, constrained by execution challenges: CFO
+The group aims to raise 70-75 per cent of its total capital requirements through domestic capital markets on a stable basis, Singh said, adding that at present, domestic funding accounts for around 56 per cent of the group's debt.
 
 ## Tata Sons plans to take Chandra reappointment to EGM, Noel challenges
 Tata Sons is looking to make changes to its articles of association in anticipation of an upcoming initial public offering. Additionally, N Chandrasekaran's reappointment as executive chairman will be proposed at an extraordinary general meeting. However, Noel Tata, leading the Tata Trusts, is conte
@@ -275,9 +278,6 @@ Leading industry chamber CII on Sunday called for 15 priority reforms across ban
 
 ## IPO readiness must begin before listing, with governance and investor trust at the core, say newgen firm CFOs
 At the inaugural ETCFO Annual Conclave 2026 finance leaders from Ather Energy, PhysicsWallah and FirstCry said companies must establish robust controls, simplify capital structures and build credible investor narratives well before approaching the capital markets.
-
-## Exclusive: IPO-bound Battery Smart taps Rahul Agarwal as CFO
-Battery Smart has appointed Rahul Agarwal as its chief financial officer to prepare for an initial public offering. Agarwal is a chartered accountant with over 18 years of experience in financial leadership roles. He has held key finance positions at various notable companies, including Burger King 
 
 ## SEBI examining Tata Steel-APL Apollo deal amid shareholder concerns: Chairman Pandey
 The Securities and Exchange Board of India (SEBI) is examining the proposed Tata Steel-APL Apollo transaction and giving high priority to the interests of minority shareholders, Chairman Tuhin Kanta Pandey said on Friday.
