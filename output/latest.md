@@ -1,115 +1,118 @@
 # AION Intelligence
 
-## Copper thieves prey on Japan’s ancient shrines in AI frenzy
-Priests forced to abandon tradition and favour cheaper steel to repair roofs
+## The outsider from Cannes shaking up France’s presidential race
+Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts
 
-## The Chinese car champion turning to police and nurse robots
-Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution
+## El Guapo’s last gasp?
+The polls look grim for Pedro Sánchez — but a rightwing coalition won’t be smooth sailing if his opponents triumph
 
-## The ‘diehard separatist’ shaking up Taipei’s election
-Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028
+## Israeli strike kills two Médecins Sans Frontières workers in Gaza
+Medical charity calls for accountability as Israeli military claims men were involved in Hamas
 
-## South Africa’s credit rating upgraded after years of economic stagnation
-S&P says Pretoria’s ‘fiscal performance has consistently outperformed budget targets’
+## Iran hitting same ships twice to deter traffic from Strait of Hormuz
+At least six vessels have been victims of ‘double tapping’ in the past two months
 
-## OpenAI countersues Apple for stealing trade secrets
-The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates
+## Row erupts over plan to make next NHS chief one of highest-paid civil servants
+NHS England says it has not been able to advertise the role amid finger-pointing in government departments
 
-## S&P cuts France outlook to negative
-Rating agency says political instability will make it harder for the country to tackle its public deficit
+## England’s post-Brexit fishing windfall swept up by Dutch tycoon
+Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025
 
-## US tech stocks rise in latest market swing
-All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings
+## US military repelled drones at RAF base
+New details emerge about incident at RAF Lakenheath in Suffolk earlier this month
 
-## Canada upholds law barring public sector workers from wearing religious symbols
-National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights
+## How to get more UK money into UK equity markets
+A run of US outperformance hasn’t helped, but over five years, the FTSE 100 is up 80 per cent versus 68 per cent for the S&P 500
 
-## AI and the decryption nightmare
-New breakthroughs call for faster upgrades to security, not panic
+## The NBA sets sights on Europe’s arenas
+Plus, the executive trying to heal French football, and more
 
-## Can AI crack encryption?
-New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce
+## Why Jensen Huang’s daily therapy sets a healthy example
+Seeking to alleviate mental health problems is one more global challenge tech innovators could take on
 
-## Directors’ Deals: M&S chief offloads shares after they hit multiyear peak
-£4mn sale follows encouraging interim results
+## Sadiq Khan backs plan to pedestrianise London’s Regent Street
+The success of the Oxford Street traffic ban has led to calls for the wider transformation of the West End
 
-## Thames Water seeks to delay debt repayments to secure £2.4bn emergency loan
-Fresh funding will keep the embattled utility afloat but pile on hundreds of millions of pounds in additional financing costs
+## Falling student numbers will hit property markets all over the UK
+The student boom helped transform housing in university towns and cities — now the tide is turning
 
-## Verizon in talks over $6bn deal for Fidium to boost broadband footprint
-US group pursues company owned by Searchlight Capital and Canada’s BCI in push to boost its presence in New England region
+## Millions of pension scheme members eye growing UK plan surpluses
+Defined benefit scheme trustees to be given new options
 
-## Why scientists say COP31 fell short and what must follow
-Many experts see the lack of consensus at COP31 as a hard reality check for a climate action process that isn’t delivering at the pace and scale the crisis demands
+## ‘Difficult to unseat Swiss wealth management’
+Political stability, strong rule of law, trust, expertise and quality service underpin Switzerland’s appeal
 
-## Blackstone sells 1.55% stake in IGI for ₹280 crore to meet public shareholding norms
-The shares were sold at an average price of ₹417 apiece, taking the transaction value to ₹280.06 crore
+## Upcoming Inflation prints may face upside risks due to base effect, El Nino, wedding demands: FinMin report
+Continued conflict in West Asian crisis may keep oil import bills and maritime freight rates subject to sustained volatility
 
-## Safeguarding India’s milk bowl: Why animal nutrition must be central to the next white revolution
-The next White Revolution will be won in the calf shed, the dry-cow pen and the fodder field – with smart nutrition at every stage of life
+## “We don’t use external headwinds as an excuse to slow down,” says Air India Director Sanjiv Mehta
+Mehta highlighted continuing reforms—fleet renewal, enhanced operations, digital upgrades, and a strengthened customer experience under new CEO Tewolde Gebremariam
 
-## FCNR flows shore up first half BoP
-The global environment could improve now. But forex management will remain a year-round affair
+## OIL, Arunachal institute ink MoU for critical mineral exploration
+The agreement aims to combine OIL's technical expertise in mineral exploration, mining and processing with the scientific knowledge and institutional support of CES&HS
 
-## Small particles, big potential: How nanotechnology is changing life on India’s farms
-Nanotechnology impact in India will be measured in what farmers can see: what is left in their pocket at season’s end.
+## A tale of two Bills: Why the proposed Constitutional Amendment is winning over allies
+businessline decodes the 131st and 132nd Constitution Amendment Bills to illustrate crucial differences
 
-## Ethanol policy reset: What does the shift in feedstock priorities mean for sugar mills and farmers?
-Protecting sugar stocks is the right priority. Rules that move with the sugar cycle would protect ethanol investments too
+## AI adoption in India will be voice-first, more multi-lingual and Android-heavy: Prabhjeet Singh, Managing Director, OpenAI India
+Having assumed the role of Managing Director starting September, Singh viewed his own role to assist Open AI understand India and deploy the technology with the right context
 
-## Wayanad in Keralam declared India’s first e-waste-free district
-Under the district’s BHOOMI initiative, 102.85 tonnes of electronic waste were collected in just three months
+## Devyani International gets NCLT nod to merge 3 wholly-owned subsidiaries with itself
+Devyani International operates brands such as KFC, Pizza Hut and Costa Coffee in India
 
-## Scaler deploys Sarvam voice agents for learner counselling, clocks 2 lakh interactions
-The company evaluated several voice agent platforms before selecting Sarvam, citing its ability to handle Hinglish conversations and adapt to the way Indian learners communicate
+## Nifty and Nifty Bank Prediction for the week 30 Nov’26 to 04 Dec’26 by BL GURU
+
+
+## Iraq becomes India's No. 2 oil supplier; Gulf provides 41% supply, but Russia remains largest
+Energy analytics firm Kpler estimates show that India imported 5.04 million barrels per day (mbd) between November 1 and 26. India's overall crude imports in November have remained largely at last year's level, with Russia, Iraq and Saudi Arabia continuing to rank as the country's three biggest supp
+
+## US shuts United Fidelity Bank, marks biggest lender failure in over 2 years
+United Fidelity Bank faced closure by U.S. regulators due to significant financial instability and failure to fulfill obligations. First Citizens Bank successfully bid for the majority of United Fidelity's loans and deposits, including around 20 branches spread across various states and subsidiaries
+
+## Festive & wedding season demand may push India's retail inflation higher, warns govt
+Retail inflation in India is projected to increase in upcoming months due to higher demand during the festive and wedding seasons. The finance ministry highlighted concerns over food and non-food item prices amid weather uncertainties. Additionally, geopolitical tensions and oil price volatility cou
+
+## Masked number plate or skipped FASTag to dodge toll? Pay 5 times penalty
+MLFF is an electronic toll collection system also commonly called the barrier-free tolling that allows vehicles to pass through toll points without encountering physical barriers. Readers installed on overhead gantries detect FASTags, while Automatic Number Plate Recognition (ANPR) cameras capture v
+
+## Indian markets rebounded in Nov, but sustaining gains in 2027 will depend on growth: report
+
+
+## Salaried woman deposits Rs 1.17 crore from coconut business, gets notice; what ITAT ruled
+A woman was working with an insurance company while also claiming to run a coconut procurement, harvesting and trading business in Tamil Nadu’s Kanyakumari district. As part of this activity, she took coconut-bearing gardens on lease from agriculturists and engaged labourers to harvest the produce. 
 
 ## Retailers pitch big buys on Black Friday
-
-
-## Thumbs-up for nutrition labelling push
 
 
 ## Sensex falls 989 points as investors book profits
 
 
-## RBI eases CRR stance amid liquidity squeeze
+## CJP asks opposition to unite against Delimitation Bill, flags gerrymandering concerns
+The Delimitation Bill was introduced in April 2026. The amendment sought to raise the constitutional ceiling on Lok Sabha seats from 550 to 850
 
+## ‘Session must run’: Kiren Rijiju urges MPs to ensure smooth Parliament sitting
+Rijiju dismissed the Opposition's suggestion that the government had disregarded parliamentary rules in convening the special session.
 
-## Many FTA benefits untapped: RBI
+## Karnataka CM Shivakumar warns of 'Delhi Chalo' protest over pending drought relief
+The CM said he had also written to PM Narendra Modi seeking an appointment for an all-party delegation from Karnataka to discuss the drought situation.
 
+## Karthigai Deepam row: Ceremonial lamp lit atop Tirupparankundram Hill
+Devotees chanted slogans of “Vetrivel Veeravel, Veeravel Vettri Vel” (Victorious Spear! Courageous Spear!), and burst firecrackers
 
-## RBI eases CRR stance amid liquidity squeeze
+## 543 to 816: Govt reveals what India’s redrawn electoral map could look like after delimitation
+Union minister of state (MoS) for Parliamentary Affairs, Arjun Ram Meghwal, shared a map of the redrawn Lok Sabha on Saturday.
 
+## Rajasthan HC orders probe into drug planting case; grants bail to accused
+The court directed the SP to examine the entire investigation, covering the period from February 22, 2025, a day before the FIR was registered
 
-## Adani may take stake in existing airline or back startup, says group CFO
-Adani Group has expressed its intention to invest in the airline industry to support growth and expansion. The group's CFO mentioned that India's aviation market has significant untapped potential, with approximately 60 crore potential passengers. Current government regulations limit the group's equ
+## India, Denmark adopt five-year action plan, agree to deepen green strategic partnership
+Jaishankar and Danish foreign minister Lars Løkke Rasmussen agree to expand cooperation in defence, maritime affairs, renewable energy and emerging technologies.
 
-## Minority shareholders’ interest protection a key priority: Sebi
-Sebi chairman Tuhin Kanta Pandey highlighted the priority of protecting minority shareholders amid concerns regarding the Tata Steel-APL Apollo transaction. The structure and valuation of the deal have raised questions from proxy advisory firms, necessitating further review. Tata Steel plans to acqu
+## Ceremonial lamp lit atop Deepathoon pillar in presence of SC-appointed judges; devotees celebrate
+Along with the two temple priests, the two retired judges lit the ceremonial lamp atop the Deepathoon (stone pillar), located 50 metres away from the Dargah.
 
-## Supreme Court stays Goa township project after plea alleges violation of status quo order
-Locals of the Carapur village where the project was to be built protested for more than 5 months and relented only after the village panchayat's intervention.
-
-## Congress wants Akhilesh as UP CM but seeks ‘more space’ in seat-sharing deal: Imran Masood
-Masood has accused the SP of belittling the party by offering only 26 seats in UP, despite Mallikarjun Kharge urging him to focus more on action than words.
-
-## Maharashtra warns schools of action for barring ST students from exams over pending scholarship dues
-The government said the students cannot be penalised for delays in the disbursement of funds by the state.
-
-## CRPF personnel deployed in Tamil Nadu's Tirupparankundram ahead of Deepathoon lamp lighting
-CRPF personnel reached Tirupparankundram hill near Madurai after the Supreme Court directed that the lamp be lit at the disputed Deepathoon stone pillar.
-
-## Supreme Court extends bail of two accused in 2020 Delhi riots case by three months
-Tasleem Ahmed and Abdul Khalid Saifi face charges under UAPA in the 2020 Delhi riots case. Their interim bail has been extended until February 2027.
-
-## Keralam govt approves ₹40 lakh for informant, police rewards under 'Operation Toofan'
-Keralam govt approves ₹40 lakh for informant, police rewards under 'Operation Toofan'
-
-## Bihar minister Ashok Choudhary resigns as assistant professor after ‘office of profit’ charge
-Choudhary has been an MLC since March 17, 2021, while he was appointed as assistant professor in 2026.
-
-## Delhi court to deliver judgment in Waqf Board case against AAP MLA Amanatullah Khan, 10 others
-AAP MLA Amanatullah Khan and 10 others face a verdict in the alleged illegal appointments case involving the Delhi Waqf Board between 2016 and 2021
+## Chinese heavy-machinery giants XCMG, Sany deploy driverless, electric fleets in global push
+China’s two largest construction machinery makers, XCMG and Sany, have doubled down on automation technologies to expand their overseas sales in an effort to disrupt the global pecking order. Banking on China’s complete supply chain and technological advancements in robotics, both industrial juggern
 
 ## As convenience stores face pressure, 7-Eleven set to open largest China outlet in Kunming
 Convenience store giant 7-Eleven is expected to open its biggest outlet in China in Kunming, the capital of southwestern Yunnan province, next month. About 20 times larger than one of its regular shops, the 1,800 square metre (19,375 square foot) 7-Market store near the Dianchi Convention and Exhibi
@@ -131,9 +134,6 @@ Hong Kong’s gold imports surged in October to a four-month high, riding the mo
 
 ## How Chinese tech firms can leverage Qianhai and Hong Kong’s advantages to achieve growth
 Government officials at this month’s 33rd Asia-Pacific Economic Cooperation (Apec) Economic Leaders’ Meeting in Shenzhen were keen to continue their business collaboration efforts amid ongoing global uncertainty and the rapid adoption of artificial intelligence-driven technology. Southern China’s mo
-
-## Nvidia’s 31% surge, 20-40% US tariffs on China: 5 figures investors are watching this week
-After Nvidia shares skyrocketed on Monday, capital markets across the United States and Asia experienced another volatile week, paring gains amid widespread concerns over the AI trade and a new round of US tariffs targeting major economies, including China. Below are five figures that captured marke
 
 ## Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
 The answer begins with restoring trust among citizens at the local level.
@@ -231,29 +231,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Last local militant’: India declares victory but Kashmir’s rebels adapt
-Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.
+## Court rejects Argentina’s request to stop UK oil activity near Falklands
+An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region.
 
-## The split-second teamwork behind an F1 pit stop
-Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.
+## Bootleg alcohol poisonings in Iran see dozens dead and badly injured
+A spate of alcohol poisonings in Iran has led to deaths and serious injuries including blindness.
 
-## Israeli strike on Doctors Without Borders clinic in Gaza kills two staff
-MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.
+## Norse Atlantic ends flights: How Iran war continues to batter aviation
+The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.
 
-## Parts of US clean up after Thanksgiving storm lashes East Coast
-Power is being slowly restored to hundreds of thousands of customers following a round of heavy wind, rain and snow.
+## Taiwan opposition party wins re-election in Taipei mayoral race
+Voters across Taiwan have cast ballots for mayors, council members and other local leaders.
 
-## Bulgarians demand action by French after Marseille match violence
-Bulgarians protested at the French embassy after violence at a Europa League match hospitalised six Levski Sofia fans.
+## Tarantulas, scorpions and more found in luggage at Peru airport
+Tarantulas, scorpions and more found in luggage at Peru airport
 
-## Hunted beyond borders: Allegations of Tanzanian repression in Kenya
-The case of a missing activist raises fears for the safety of Tanzanian dissidents.
+## Manchester United vs Brentford LIVE: Premier League
+Follow updates with build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.
 
-## Taiwan votes in local elections to choose mayors, other leaders
-Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.
+## India fumble chances as New Zealand finish day two on top in Christchurch
+India limp to 116-6 at stumps on day two of the second Test, in reply to the Black Caps' first innings 356.
 
-## Israel kills two MSF staff in targeted strike on Gaza clinic
-An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.
+## Security tries to remove Palestinian flag at Selfridges on Black Friday
+Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.
 
 ## Adani group's FY27 capex to jump 41 pc to Rs 2.2 lakh cr, constrained by execution challenges: CFO
 The group aims to raise 70-75 per cent of its total capital requirements through domestic capital markets on a stable basis, Singh said, adding that at present, domestic funding accounts for around 56 per cent of the group's debt.
